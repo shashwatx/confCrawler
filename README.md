@@ -40,4 +40,4 @@ TODO: Write usage instructions
 
 ## License
 
-Code shall be released under [the MIT license]: https://github.com/shashwatx/confCrawler/blob/master/LICENSE 
+Code shall be released under [the MIT license](https://github.com/shashwatx/confCrawler/blob/master/LICENSE)
