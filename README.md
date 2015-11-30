@@ -31,8 +31,7 @@ confCrawler requires the following components.
 In the autumn of 2015, the author of confCrawler was asked to assist
 in the process of selecting the best publication of a certain databases conference.
 
-confCrawler was the consequence of a girl standing up the author, insomnia,
-lots of coffee, more insomnia, contemptible capitalism and some very heavy rain.
+Thus, confCrawler was born.
 
 ## Usage
 
