@@ -1,5 +1,7 @@
 # Introduction
 
+**Update**: I have finished writing the first stable and (hopefully) bug-free version of confCrawler. Rerouting page requests through tor has greater latency than expected. The code is being tested on a select few conferences. More details to follow. 
+
 confCrawler is a tool to crawl conferences. 
 It can be used to crawl any conference that is  
 * Listed on dblp 
