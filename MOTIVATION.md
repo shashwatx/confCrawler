@@ -8,6 +8,5 @@ In particular much has been said about the pros and cons of Double Blind Reviewi
 
 Past studies have attempted to study the effect of policy changes (single to double) w.r.t. their impact on prolific authors or experts. 
 
-The aim of this study is to perform a qualitative analysis of peer review policies in major conferences and journals, comment on the effect of modifications in review policy.
-In this paper, we take a different approach.
-With the aid of data collected through confCrawler and using richer datasets and methods than previous studies we aim to uncover hidden patterns.
+As opposed to compare review policies, we wish to simply _explore the data_ to uncover potential trends.
+The primary aim of this repository, thus, is to serve as a playground to develop applications to perform a qualitative analysis of recent publications at major venues in computer science. 
