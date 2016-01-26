@@ -1,9 +1,3 @@
-# Introduction
-
-## Motivation
-
-Go [here](https://github.com/shashwatx/confCrawler/blob/master/MOTIVATION.md) for motivation.
-
 **Update: Jan 26, 2016**: _After crawling top 4 conferences in databases, I have moved on to crawling major conferences in the following domains._
   1. AI: AAAI, IJCAI, ICML, NIPS, KDD
   2. WWW, ICCV, ACL
@@ -16,6 +10,11 @@ Next job: Prepare blueprint for visualization interface.
 
 **Update: Nov 16, 2015**: _I have finished writing the first stable and (hopefully) bug-free version of confCrawler. Rerouting page requests through tor has greater latency than expected. The code is being tested on a select few conferences. More details to follow._
 
+## Motivation
+
+Go [here](https://github.com/shashwatx/confCrawler/blob/master/MOTIVATION.md) for motivation.
+
+## Introduction
 
 confCrawler is a tool to generate raw stats about conference/journal publications. Congruence of [dblp](http://dblp.uni-trier.de/) and [Google Scholar](http://scholar.google.com) is exploited to generate the following figures for each paper.
   1. #citations
