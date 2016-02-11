@@ -2,9 +2,9 @@
 __Input: Conference File(s)__
 
 1. Get _meaningful_ papers.
-  ```
-  cat vldb* | grep -v "^[0-9]\+$" | grep -v "n/a$" | cut -d'|' -f2,3,4,5,6,7 > dump
-  ```
+```
+cat vldb* | grep -v "^[0-9]\+$" | grep -v "n/a$" | cut -d'|' -f2,3,4,5,6,7 > dump
+```
 2. Find fraction of self citations.
   ```
   awk 'BEGIN{FS="|"}{if($3!=0){words[$1]=$6/$3;}}END{for(w in words)printf("%f %s\n",words[w],w)}' < dump > dump.fracSelfCites
