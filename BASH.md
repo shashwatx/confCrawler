@@ -31,3 +31,6 @@ rm -rf data.vldb.0
   * ggregating Semantic Annotators (Chen et al.)
 * VLDB1991: Typo in title
   * Conecptual Modeling Using and Extended E-R Model (Abstract) Elmasri et al.
+
+* SIGMOD96:
+  * The correct title for __An Open Storage System for Abstract Objects__ is __An open abstract-object storage system__. 
