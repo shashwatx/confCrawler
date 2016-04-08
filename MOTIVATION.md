@@ -43,8 +43,10 @@ Insights:
 - Total objectivity is super natural. Ingerfinger 1974
 - may obscure a larger problem
 
-Refs:
+We present results on 25 years of VLDB papers. Our study shows several interpretable trends and intereting trends artefacts.
 
+Refs:
+i
 [1] https://www.usenix.org/legacy/event/wowcs08/tech/full_papers/b4after/b4after_html/
 [2] http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093306/
 [3] Bearinger, 2006
