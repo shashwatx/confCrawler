@@ -24,12 +24,12 @@ import pygeoip
 from fake_useragent import UserAgent
 import time
 
-lines = open('proxies').read().splitlines()
-myline =random.choice(lines)
-proxyHostname=myline.split()[0]
-proxyPort=int(myline.split()[1])
-print "random proxy hostname: "+proxyHostname
-print "random proxy port: "+str(proxyPort)
+#lines = open('proxies').read().splitlines()
+#myline =random.choice(lines)
+#proxyHostname=myline.split()[0]
+#proxyPort=int(myline.split()[1])
+#print "random proxy hostname: "+proxyHostname
+#print "random proxy port: "+str(proxyPort)
 
 try:
     #SOCKS5_PROXY_HOST = proxyHostname
