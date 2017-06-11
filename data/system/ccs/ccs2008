@@ -1,0 +1,54 @@
+53
+1|Proceedings of the 2008 ACM Conference on Computer and Communications Security, CCS 2008, Alexandria, Virginia, USA, October 27-31, 2008.|Peng Ning,Paul F. Syverson,Somesh Jha|n/a
+2|The good, the bad, and the provable.|Martín Abadi|n/a
+3|Spamalytics: an empirical analysis of spam marketing conversion.|Chris Kanich,Christian Kreibich,Kirill Levchenko,Brandon Enright,Geoffrey M. Voelker,Vern Paxson,Stefan Savage|374|307|7|18
+4|Code injection attacks on harvard-architecture devices.|Aurélien Francillon,Claude Castelluccia|159|141|0|5
+5|When good instructions go bad: generalizing return-oriented programming to RISC.|Erik Buchanan,Ryan Roemer,Hovav Shacham,Stefan Savage|216|194|5|2
+6|Efficient and extensible security enforcement using dynamic data flow analysis.|Walter Chang,Brandon Streiff,Calvin Lin|108|86|3|3
+7|Ether: malware analysis via hardware virtualization extensions.|Artem Dinaburg,Paul Royal,Monirul I. Sharif,Wenke Lee|456|420|7|12
+8|Extending logical attack graphs for efficient vulnerability analysis.|Diptikalyan Saha|31|28|0|0
+9|Robust defenses for cross-site request forgery.|Adam Barth,Collin Jackson,John C. Mitchell|345|306|7|18
+10|SOMA: mutual approval for included content in web pages.|Terri Oda,Glenn Wurster,Paul C. van Oorschot,Anil Somayaji|56|44|0|4
+11|OMash: enabling secure web mashups via object abstractions.|Steven Crites,Francis Hsu,Hao Chen|69|64|1|1
+12|Computational soundness of observational equivalence.|Hubert Comon-Lundh,Véronique Cortier|94|73|0|25
+13|Unbounded verification, falsification, and characterization of security protocols by pattern refinement.|Cas J. F. Cremers|65|56|0|3
+14|Reducing protocol analysis with XOR to the XOR-free case in the horn theory based approach.|Ralf Küsters,Tomasz Truderung|66|59|0|2
+15|Building castles out of mud: practical access pattern privacy and correctness on untrusted storage.|Peter Williams,Radu Sion,Bogdan Carbunar|164|161|1|11
+16|Location privacy of distance bounding protocols.|Kasper Bonne Rasmussen,Srdjan Capkun|64|58|1|4
+17|Verifiable functional purity in java.|Matthew Finifter,Adrian Mettler,Naveen Sastry,David Wagner|39|34|0|3
+18|Trust management for secure information flows.|Mudhakar Srivatsa,Shane Balfe,Kenneth G. Paterson,Pankaj Rohatgi|38|30|0|12
+19|Mitigating DNS DoS attacks.|Hitesh Ballani,Paul Francis|25|21|2|1
+20|Revocation games in ephemeral networks.|Maxim Raya,Mohammad Hossein Manshaei,Márk Félegyházi,Jean-Pierre Hubaux|51|41|0|6
+21|Increased DNS forgery resistance through 0x20-bit encoding: security via leet queries.|David Dagon,Manos Antonakakis,Paul Vixie,Tatuya Jinmei,Wenke Lee|70|59|0|7
+22|Enforcing authorization policies using transactional memory introspection.|Arnar Birgisson,Mohan Dhawan,Úlfar Erlingsson,Vinod Ganapathy,Liviu Iftode|28|23|0|5
+23|Towards practical biometric key generation with randomized biometric templates.|Lucas Ballard,Seny Kamara,Fabian Monrose,Michael K. Reiter|48|45|2|0
+24|Towards automatic reverse engineering of software security configurations.|Rui Wang,XiaoFeng Wang,Kehuan Zhang,Zhuowei Li|11|10|0|0
+25|FairplayMP: a system for secure multi-party computation.|Assaf Ben-David,Noam Nisan,Benny Pinkas|325|295|4|8
+26|Information leaks in structured peer-to-peer anonymous communication systems.|Prateek Mittal,Nikita Borisov|51|37|0|9
+27|Privacy oracle: a system for finding application leaks with black box differential testing.|Jaeyeon Jung,Anmol Sheth,Ben Greenstein,David Wetherall,Gabriel Maganis,Tadayoshi Kohno|65|54|0|6
+28|A formal framework for reflective database access control policies.|Lars E. Olson,Carl A. Gunter,P. Madhusudan|39|28|0|3
+29|A class of probabilistic models for role engineering.|Mario Frank,David A. Basin,Joachim M. Buhmann|58|52|2|5
+30|Assessing query privileges via safe and efficient permission composition.|Sabrina De Capitani di Vimercati,Sara Foresti,Sushil Jajodia,Stefano Paraboschi,Pierangela Samarati|22|20|0|3
+31|Dependent link padding algorithms for low latency anonymity systems.|Wei Wang,Mehul Motani,Vikram Srinivasan|38|34|0|0
+32|PEREA: towards practical TTP-free revocation in anonymous authentication.|Patrick P. Tsang,Man Ho Au,Apu Kapadia,Sean W. Smith|61|59|1|6
+33|Efficient attributes for anonymous credentials.|Jan Camenisch,Thomas Groß|96|88|0|12
+34|Type-checking zero-knowledge.|Michael Backes,Catalin Hritcu,Matteo Maffei|63|50|0|25
+35|Towards automated proofs for asymmetric encryption schemes in the random oracle model.|Judicaël Courant,Marion Daubignard,Cristian Ene,Pascal Lafourcade,Yassine Lakhnech|45|36|0|3
+36|EON: modeling and analyzing dynamic access control systems with logic programs.|Avik Chaudhuri,Prasad Naldurg,Sriram K. Rajamani,G. Ramalingam,Lakshmisubrahmanyam Velaga|23|21|0|3
+37|Tupni: automatic reverse engineering of input formats.|Weidong Cui,Marcus Peinado,Karl Chen,Helen J. Wang,Luis Irún-Briz|130|105|1|3
+38|Rootkit-resistant disks.|Kevin R. B. Butler,Stephen E. McLaughlin,Patrick Drew McDaniel|34|28|3|8
+39|Identity-based encryption with efficient revocation.|Alexandra Boldyreva,Vipul Goyal,Virendra Kumar|351|320|1|2
+40|Black-box accountable authority identity-based encryption.|Vipul Goyal,Steve Lu,Amit Sahai,Brent Waters|49|44|0|2
+41|Authenticated hash tables.|Charalampos Papamanthou,Roberto Tamassia,Nikos Triandopoulos|93|85|3|20
+42|Multisignatures secure under the discrete logarithm assumption and a generalized forking lemma.|Ali Bagherzandi,Jung Hee Cheon,Stanislaw Jarecki|22|20|0|2
+43|Cryptographically verified implementations for TLS.|Karthikeyan Bhargavan,Cédric Fournet,Ricardo Corin,Eugen Zalinescu|102|88|0|17
+44|Reconsidering physical key secrecy: teleduplication via optical decoding.|Benjamin Laxton,Kai Wang,Stefan Savage|20|16|1|2
+45|RFIDs and secret handshakes: defending against ghost-and-leech attacks and unauthorized reads with context-aware communications.|Alexei Czeskis,Karl Koscher,Joshua R. Smith,Tadayoshi Kohno|76|67|3|5
+46|Constructions of truly practical secure protocols using standardsmartcards.|Carmit Hazay,Yehuda Lindell|60|55|1|3
+47|Traitor tracing with constant size ciphertext.|Dan Boneh,Moni Naor|65|50|0|5
+48|Multi-use unidirectional proxy re-signatures.|Benoît Libert,Damien Vergnaud|82|72|3|3
+49|Efficient security primitives derived from a secure aggregation algorithm.|Haowen Chan,Adrian Perrig|28|21|0|4
+50|Machine learning attacks against the Asirra CAPTCHA.|Philippe Golle|196|169|11|1
+51|A low-cost attack on a Microsoft captcha.|Jeff Yan,Ahmad Salah El Ahmad|291|247|4|15
+52|BootJacker: compromising computers using forced restarts.|Ellick Chan,Jeffrey C. Carlyle,Francis M. David,Reza Farivar,Roy H. Campbell|27|20|1|1
+53|A look in the mirror: attacks on package managers.|Justin Cappos,Justin Samuel,Scott M. Baker,John H. Hartman|28|20|0|5

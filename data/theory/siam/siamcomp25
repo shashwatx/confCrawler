@@ -1,0 +1,63 @@
+62
+1|Asymptotic Conditional Probabilities: The Unary Case.|Adam J. Grove,Joseph Y. Halpern,Daphne Koller|18|4|0|5
+2|A Fast Derandomization Scheme and Its Applications.|Yijie Han|5|0|0|2
+3|Weighted Multidimensional Search and Its Application to Convex Optimization.|Richa Agarwala,David Fernández-Baca|15|3|0|7
+4|Ray Shooting amidst Convex Polyhedra and Polyhedral Terrains in Three Dimensions.|Pankaj K. Agarwal,Micha Sharir|31|8|0|10
+5|A New Characterization of Type-2 Feasibility.|Bruce M. Kapron,Stephen A. Cook|79|18|0|6
+6|Linear Time and Memory-Efficient Computation.|Kenneth W. Regan|3|1|0|0
+7|On the Composition of Zero-Knowledge Proof Systems.|Oded Goldreich,Hugo Krawczyk|321|99|0|27
+8|The Isomorphism Conjecture Holds Relative to an Oracle.|Stephen A. Fenner,Lance Fortnow,Stuart A. Kurtz|40|4|0|7
+9|A Unified Approach to Dynamic Point Location, Ray Shooting, and Shortest Paths in Planar Maps.|Yi-Jen Chiang,Franco P. Preparata,Roberto Tamassia|51|6|0|10
+10|Approximate Max-Flow Min-(Multi)Cut Theorems and Their Applications.|Naveen Garg,Vijay V. Vazirani,Mihalis Yannakakis|392|136|2|12
+11|Robust Characterizations of Polynomials with Applications to Program Testing.|Ronitt Rubinfeld,Madhu Sudan|617|277|0|68
+12|Genome Rearrangements and Sorting by Reversals.|Vineet Bafna,Pavel A. Pevzner|524|161|0|23
+13|Note on "A Linear-Time Algorithm for Computing K-Terminal Reliability in a Series-Parallel Network".|Appajosyula Satyanarayana,R. Kevin Wood,Leonidas Camarinopoulos,G. Pampoukis|117|36|0|8
+14|Upward Planning of Single-Source Acyclic Digraphs.|Michael D. Hutton,Anna Lubiw|n/a
+15|An Efficient Parallel Algorithm for the General Planar Monotone Circuit Value Problem.|Vijaya Ramachandran,Honghua Yang|10|4|0|2
+16|The Boolean Hierarchy and the Polynomial Hierarchy: A Closer Connection.|Richard Chang,Jim Kadin|91|10|0|23
+17|Low-Degree Spanning Trees of Small Weight.|Samir Khuller,Balaji Raghavachari,Neal E. Young|89|15|0|8
+18|Optimal Clock Synchronization under Different Delay Assumptions.|Hagit Attiya,Amir Herzberg,Sergio Rajsbaum|56|5|0|3
+19|Linear-Time Representation Algorithms for Proper Circular-Arc Graphs and Proper Interval Graphs.|Xiaotie Deng,Pavol Hell,Jing Huang|169|77|0|12
+20|An O(N+M)-Time Algorithm for Finding a Minimum-Weight Dominating Set in a Permutation Graph.|Chong Jye Rhee,Y. Daniel Liang,Sudarshan K. Dhall,S. Lakshmivarahan|27|7|0|6
+21|Generalized Kraft's Inequality and Discrete k-Modal Search.|Anmol Mathur,Edward M. Reingold|10|1|0|1
+22|An Algebraic Model for Combinatorial Problems.|Richard Edwin Stearns,Harry B. Hunt III|25|3|0|7
+23|Strongly Competitive Algorithms for Paging with Locality of Reference.|Sandy Irani,Anna R. Karlin,Steven Phillips|68|5|0|8
+24|On the Value of Coordination in Distributed Decision Making.|Sandy Irani,Yuval Rabani|3|1|0|0
+25|Complexity of Sub-Bus Mesh Computations.|Anne Condon,Richard E. Ladner,Jordan Lampe,Rakesh K. Sinha|8|1|0|0
+26|Pathwidth, Bandwidth, and Completion Problems to Proper Interval Graphs with Small Cliques.|Haim Kaplan,Ron Shamir|114|33|0|7
+27|Efficiently Planning Compliant Motion in the Plane.|Joseph Friedman,John Hershberger,Jack Snoeyink|10|0|0|1
+28|On-Line Algorithms for Path Selection in a Nonblocking Network.|Sanjeev Arora,Frank Thomson Leighton,Bruce M. Maggs|90|6|2|12
+29|The Linkage of a Graph.|Lefteris M. Kirousis,Dimitrios M. Thilikos|27|13|0|9
+30|An Algorithm for Locating Nonoverlapping Regions of Maximum Alignment Score.|Sampath Kannan,Eugene W. Myers|42|5|0|0
+31|Full Abstraction and the Context Lemma.|Trevor Jim,Albert R. Meyer|17|2|0|0
+32|Computing Solutions Uniquely Collapses the Polynomial Hierarchy.|Lane A. Hemaspaandra,Ashish V. Naik,Mitsunori Ogihara,Alan L. Selman|68|12|0|24
+33|A Method of Constructing Selection Networks with O(log n) Depth.|Shuji Jimbo,Akira Maruoka|8|0|0|0
+34|Analysis of Backoff Protocols for Multiple Access Channels.|Johan Håstad,Frank Thomson Leighton,Brian Rogoff|218|75|1|0
+35|New Techniques for Exact and Approximate Dynamic Closest-Point Problems.|Sanjiv Kapoor,Michiel H. M. Smid|34|3|1|6
+36|Efficient Parallel Algorithms for Chordal Graphs.|Philip N. Klein|74|2|0|2
+37|The Sublogarithmic Alternating Space World.|Maciej Liskiewicz,Rüdiger Reischuk|21|5|0|2
+38|Tree-Adjoining Language Parsing in o(n^6) Time.|Sanguthevar Rajasekaran|22|3|0|4
+39|An Efficient Parallel Algorithm for the Martix-Chain-Product Problem.|Prakesh Ramanan|21|2|0|0
+40|Convergence in Distribution for Best-Fit Decreasing.|Wansoo T. Rhee,Michel Talagrand|0|0|0|0
+41|Alphabet-Independent Two-Dimensional Witness Computation.|Zvi Galil,Kunsoo Park|29|5|0|5
+42|The Tree Model for Hashing: Lower and Upper Bounds.|Joseph Gil,Friedhelm Meyer auf der Heide,Avi Wigderson|5|3|0|1
+43|On-Line Planarity Testing.|Giuseppe Di Battista,Roberto Tamassia|n/a
+44|Parallel Suffix-Prefix-Matching Algorithm and Applications.|Zvi M. Kedem,Gad M. Landau,Krishna V. Palem|16|6|0|5
+45|Randomized Consensus in Expected O(n log² n) Operations Per Processor.|James Aspnes,Orli Waarts|41|12|0|17
+46|Optimal Group Gossiping in Hypercubes under a Circuit-Switching Model.|Satoshi Fujita,Masafumi Yamashita|10|1|0|2
+47|On Point Location and Motion Planning among Simplices.|Marco Pellegrini|16|2|0|2
+48|Bounds on the Efficiency of Message-Passing Protocols for Parallel Computers.|Robert Cypher,Smaragda Konstantinidou|14|1|0|3
+49|On-Line Scheduling of Imprecise Computations to Minimize Error.|Wei-Kuan Shih,Jane W.-S. Liu|64|7|0|10
+50|Kolmogorov Complexity and Instance Complexity of Recursively Enumerable Sets.|Martin Kummer|44|14|0|2
+51|An o(n³)-Time Algorithm Maximum-Flow Algorithm.|Joseph Cheriyan,Torben Hagerup,Kurt Mehlhorn|n/a
+52|A Deterministic Poly(log log N)-Time N-Processor Algorithm for Linear Programming in Fixed Dimensions.|Miklós Ajtai,Nimrod Megiddo|15|1|0|0
+53|Feasible Time-Optimal Algorithms for Boolean Functions on Exclusive-Write Parallel Random-Access Machines.|Martin Dietzfelbinger,Miroslaw Kutylowski,Rüdiger Reischuk|25|2|0|2
+54|Lower Bounds for Geometrical and Physical Problems.|Jürgen Sellen|9|0|0|0
+55|Average and Randomized Complexity of Distributed Problems.|Nechama Allenberg-Navony,Alon Itai,Shlomo Moran|6|2|0|0
+56|Learning Behaviors of Automata from Multiplicity and Equivalence Queries.|Francesco Bergadano,Stefano Varricchio|40|10|0|6
+57|Prefix Codes: Equiprobable Words, Unequal Letter Costs.|Mordecai J. Golin,Neal E. Young|26|4|0|10
+58|On Unapproximable Versions of NP-Complete Problems.|David Zuckerman|106|36|0|2
+59|A Linear-Time Algorithm for Finding Tree-Decompositions of Small Treewidth.|Hans L. Bodlaender|1379|588|0|106
+60|An Optimal O(log log N)-Time Parallel Algorithm for Detecting All Squares in a String.|Alberto Apostolico,Dany Breslauer|42|11|0|12
+61|The Wakeup Problem.|Michael J. Fischer,Shlomo Moran,Steven Rudich,Gadi Taubenfeld|22|3|0|5
+62|Erratum: Fast Parallel Computation of the Polynomial Remainder Sequence via Bezout and Hankel Matrices.|Dario Bini,Luca Gemignani|34|7|0|16

@@ -1,0 +1,70 @@
+69
+1|Proceedings of the Fourth International Conference on Knowledge Discovery and Data Mining (KDD-98), New York City, New York, USA, August 27-31, 1998.|Rakesh Agrawal,Paul E. Stolorz,Gregory Piatetsky-Shapiro|n/a
+2|CLOUDS: A Decision Tree Classifier for Large Datasets.|Khaled Alsabti,Sanjay Ranka,Vineet Singh|142|53|4|2
+3|Scaling Clustering Algorithms to Large Databases.|Paul S. Bradley,Usama M. Fayyad,Cory Reina|861|293|22|12
+4|Rule Discovery from Time Series.|Gautam Das,King-Ip Lin,Heikki Mannila,Gopal Renganathan,Padhraic Smyth|739|233|3|3
+5|Similarity of Attributes by External Probes.|Gautam Das,Heikki Mannila,Pirjo Ronkainen|78|16|0|6
+6|Finding Frequent Substructures in Chemical Compounds.|Luc Dehaspe,Hannu Toivonen,Ross D. King|348|72|1|20
+7|Occam's Two Razors: The Sharp and the Blunt.|Pedro M. Domingos|99|23|0|6
+8|Algorithms for Characterization and Trend Detection in Spatial Databases.|Martin Ester,Alexander Frommelt,Hans-Peter Kriegel,Jörg Sander|144|29|0|15
+9|Pattern Directed Mining of Sequence Data.|Valery Guralnik,Duminda Wijesekera,Jaideep Srivastava|39|10|0|2
+10|An Efficient Approach to Clustering in Large Multimedia Databases with Noise.|Alexander Hinneburg,Daniel A. Keim|1187|493|2|21
+11|Mining Audit Data to Build Intrusion Detection Models.|Wenke Lee,Salvatore J. Stolfo,Kui W. Mok|351|104|1|14
+12|Data Mining for Direct Marketing: Problems and Solutions.|Charles X. Ling,Chenghui Li|559|247|2|6
+13|Integrating Classification and Association Rule Mining.|Bing Liu,Wynne Hsu,Yiming Ma|2305|1060|0|0
+14|Evaluating Usefulness for Dynamic Classification.|Gholamreza Nakhaeizadeh,Charles Taylor,Carsten Lanquillon|18|0|0|6
+15|A Belief-Driven Method for Discovering Unexpected Patterns.|Balaji Padmanabhan,Alexander Tuzhilin|292|82|1|16
+16|Interpretable Boosted Naïve Bayes Classification.|Greg Ridgeway,David Madigan,Thomas Richardson,John O'Kane|81|26|1|5
+17|A Data Mining Support Environment and its Application on Insurance Data.|Martin Staudt,Jörg-Uwe Kietz,Ulrich Reimer|21|6|0|0
+18|Coincidence Detection: A Fast Method for Discovering Higher-Order Correlations in Multidimensional Data.|Evan W. Steeg,Derek A. Robinson,Ed Willis|3|0|0|0
+19|Interestingness-Based Interval Merger for Numeric Association Rules.|Ke Wang,Soon Hock William Tay,Bing Liu|109|22|0|0
+20|Online Generation of Profile Association Rules.|Charu C. Aggarwal,Zheng Sun,Philip S. Yu|34|4|0|4
+21|ADtrees for Fast Counting and for Fast Learning of Association Rules.|Brigham S. Anderson,Andrew W. Moore|38|13|0|4
+22|Independence Diagrams: A Technique for Visual Data Mining.|Stefan Berchtold,H. V. Jagadish,Kenneth A. Ross|36|7|0|3
+23|Direct Marketing Response Models Using Genetic Algorithms.|Siddhartha Bhattacharyya|29|2|0|0
+24|Mining Association Rules in Hypertext Databases.|José Borges,Mark Levene|105|20|0|8
+25|Blurring the Distinction between Command and Data in Scientific KDD.|John V. Carlis,Elizabeth Shoop,Scott Krieger|3|1|0|2
+26|Probabilistic Modeling for Information Retrieval with Unsupervised Training Data.|Ernest P. Chan,Santiago Garcia,Salim Roukos|4|2|0|1
+27|Toward Scalable Learning with Non-Uniform Class and Cost Distributions: A Case Study in Credit Card Fraud Detection.|Philip K. Chan,Salvatore J. Stolfo|396|176|2|5
+28|Joins that Generalize: Text Classification Using WHIRL.|William W. Cohen,Haym Hirsh|183|49|5|19
+29|Giga-Mining.|Corinna Cortes,Daryl Pregibon|31|6|2|4
+30|Interactive Interpretation of Kohonen Maps Applied to Curves.|Anne Debregeas,Georges Hébrail|61|14|0|0
+31|FlexiMine - A Flexible Platform for KDD Research and Application Construction.|Carmel Domshlak,D. Gershkovich,Ehud Gudes,N. Liusternik,Amnon Meisels,Tzachi Rosen,Solomon Eyal Shimony|15|0|0|3
+32|A Fast Computer Intrusion Detection Algorithm Based on Hypothesis Testing of Command Transition Probabilities.|William DuMouchel,Matthias Schonlau|53|11|0|1
+33|Initialization of Iterative Refinement Clustering Algorithms.|Usama M. Fayyad,Cory Reina,Paul S. Bradley|224|68|2|4
+34|Mining in the Presence of Selectivity Bias and its Application to Reject Inference.|A. J. Feelders,Soong Chang,Geoffrey J. McLachlan|4|0|0|1
+35|On the Efficient Gathering of Sufficient Statistics for Classification from Large SQL Databases.|Goetz Graefe,Usama M. Fayyad,Surajit Chaudhuri|120|40|7|3
+36|Coactive Learning for Distributed Data Mining.|Dan L. Grecu,Lee A. Becker|17|6|0|1
+37|Mining Segment-Wise Periodic Patterns in Time-Related Databases.|Jiawei Han,Wan Gong,Yiwen Yin|239|98|4|7
+38|Learning to Predict the Duration of an Automobile Trip.|Simon Handley,Pat Langley,Folke A. Rauscher|48|27|20|1
+39|Fast Computation of 2-Dimensional Depth Contours.|Theodore Johnson,Ivy Kwok,Raymond T. Ng|242|109|0|9
+40|Comparing Massive High-Dimensional Data Sets.|Theodore Johnson,Tamraparni Dasu|32|3|4|8
+41|Defining the Goals to Optimise Data Mining Performance.|Mark G. Kelly,David J. Hand,Niall M. Adams|11|2|0|10
+42|An Enhanced Representation of Time Series Which Allows Fast and Accurate Classification, Clustering and Relevance Feedback.|Eamonn J. Keogh,Michael J. Pazzani|514|179|13|6
+43|Active Templates: Comprehensive Support for the Knowledge Discovery Process.|Randy Kerber,Hal Beck,Tej Anand,Bill Smart|13|2|0|0
+44|Targeting Business Users with Decision Table Classifiers.|Ron Kohavi,Dan Sommerfield|54|20|0|4
+45|BAYDA: Software for Bayesian Classification and Feature Selection.|Petri Kontkanen,Petri Myllymäki,Tomi Silander,Henry Tirri|33|7|1|9
+46|Approaches to Online Learning and Concept Drift for User Identification in Computer Security.|Terran Lane,Carla E. Brodley|108|24|1|7
+47|Human Performance on Clustering Web Pages: A Preliminary Study.|Sofus A. Macskassy,Arunava Banerjee,Brian D. Davison,Haym Hirsh|81|16|0|0
+48|Aggregation of Imprecise and Uncertain Information for Knowledge Discovery in Databases.|Sally I. McClean,Bryan W. Scotney,Mary Shapcott|9|0|0|4
+49|Discovering Predictive Association Rules.|Nimrod Megiddo,Ramakrishnan Srikant|115|42|0|0
+50|Reinforcement Learning for Trading Systems and Portfolios.|John E. Moody,Matthew Saffell|6|0|0|0
+51|Group Bitmap Index: A Structure for Association Rules Retrieval.|Tadeusz Morzy,Maciej Zakrzewicz|46|12|1|10
+52|Towards the Personalization of Algorithms Evaluation in Data Mining.|Gholamreza Nakhaeizadeh,Alexander Schnabl|22|10|0|0
+53|Large Datasets Lead to Overly Complex Models: An Explanation and a Solution.|Tim Oates,David Jensen|90|18|0|4
+54|Analysing Rock Samples for the Mars Lander.|Jonathan J. Oliver,Ted Roush,Paul Gazis,Wray L. Buntine,Rohan A. Baxter,Steven R. Waterhouse|9|3|0|0
+55|Memory Placement Techniques for Parallel Association Mining.|Srinivasan Parthasarathy,Mohammed Javeed Zaki,Wei Li|50|3|0|16
+56|Methods for Linking and Mining Massive Heterogeneous Databases.|José C. Pinheiro,Don X. Sun|38|16|5|0
+57|Mining Databases with Different Schemas: Integrating Incompatible Classifiers.|Andreas L. Prodromidis,Salvatore J. Stolfo|33|3|0|8
+58|Time Series Forecasting from High-Dimensional Data with Multiple Adaptive Layers.|R. Bharat Rao,Scott Rickard,Frans Coetzee|5|3|0|0
+59|Ranking - Methods for Flexible Evaluation and Efficient Comparison of Classification Performance.|Saharon Rosset|1|1|1|0
+60|A Robust System Architecture for Mining Semi-Structured Data.|Lisa Singh,Bin Chen,Rebecca Haight,Peter Scheuermann,Kiyoko Aoki|15|2|0|2
+61|Defining diff as a Data Mining Primitive.|Ramesh Subramonian|33|3|0|4
+62|Simultaneous Reliability Evaluation of Generality and Accuracy for Rule Discovery in Databases.|Einoshin Suzuki|5|0|0|3
+63|Mining Generalized Association Rules and Sequential Patterns Using SQL Queries.|Shiby Thomas,Sunita Sarawagi|71|11|1|2
+64|Data Reduction Based on Hyper Relations.|Hui Wang,Ivo Düntsch,David A. Bell|29|4|0|16
+65|Discovering Technical Traders in the T-bond Futures Market.|Andreas S. Weigend,Fei Chen,Stephen Figlewski,Steven R. Waterhouse|9|3|0|0
+66|Learning to Predict Rare Events in Event Sequences.|Gary M. Weiss,Haym Hirsh|217|76|1|15
+67|Daily Prediction of Major Stock Indices from Textual WWW Data.|Beat Wüthrich,D. Permunetilleke,S. Leung,Vincent Cho,Jian Zhang,W. Lam|95|52|1|0
+68|PlanMine: Sequence Mining for Plan Failures.|Mohammed Javeed Zaki,Neal Lesh,Mitsunori Ogihara|72|15|0|14
+69|Knowledge Discovery and the Interface of Computing and Statistics.|Arnold Goodman,John F. Elder IV|2|0|0|2

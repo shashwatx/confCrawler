@@ -1,0 +1,81 @@
+80
+1|39th Annual Symposium on Foundations of Computer Science, FOCS '98, November 8-11, 1998, Palo Alto, California, USA.|n/a
+2|Geometric Computation and the Art of Sampling.|Jirí Matousek|9|1|0|0
+3|Theoretical Issues in Probabilistic Artificial Intelligence.|Michael J. Kearns|0|0|0|0
+4|Information Retrieval on the Web.|Andrei Z. Broder,Monika Rauch Henzinger|741|232|30|0
+5|A Tight Characterization of NP with 3 Query PCPs.|Venkatesan Guruswami,Daniel Lewin,Madhu Sudan,Luca Trevisan|79|24|0|8
+6|Probabilistically Checkable Proofs with Low Amortized Query Complexity.|Madhu Sudan,Luca Trevisan|30|9|0|7
+7|Improved Decoding of Reed-Solomon and Algebraic-Geometric Codes.|Venkatesan Guruswami,Madhu Sudan|1035|405|17|75
+8|The Access Network Design Problem.|Matthew Andrews,Lisa Zhang|81|16|0|3
+9|Jitter Control in QoS Networks.|Yishay Mansour,Boaz Patt-Shamir|83|31|1|1
+10|Stability of Adversarial Queues via Fluid Models.|David Gamarnik|53|3|0|5
+11|Delayed Information and Action in On-line Algorithms.|Susanne Albers,Moses Charikar,Michael Mitzenmacher|29|18|0|0
+12|The Complexity of the Approximation of the Bandwidth Problem.|Walter Unger|61|12|0|1
+13|The Shortest Vector in a Lattice is Hard to Approximate to Within Some Constant.|Daniele Micciancio|260|109|0|24
+14|Approximating-CVP to Within Almost-Polynomial Factors is NP-Hard.|Irit Dinur,Guy Kindler,Shmuel Safra|98|59|0|3
+15|Satisfiability of Word Equations with Constants is in Exponential Space.|Claudio Gutiérrez|38|8|0|0
+16|Decidability of Bisimulation Equivalence for Equational Graphs of Finite Out-Degree.|Géraud Sénizergues|66|9|0|0
+17|A Primitive Recursive Algorithm for the General Petri Net Reachability Problem.|Zakaria Bouziane|18|10|0|0
+18|Algorithms to Tile the Infinite Grid with Finite Clusters.|Mario Szegedy|16|8|0|0
+19|On Approximate Nearest Neighbors in Non-Euclidean Spaces.|Piotr Indyk|42|9|2|8
+20|Pattern Matching for Spatial Point Sets.|David E. Cardoze,Leonard J. Schulman|73|15|1|0
+21|Faster Algorithms for String Matching Problems: Matching the Convolution Bound.|Piotr Indyk|72|38|0|5
+22|Overcoming the Memory Bottleneck in Suffix Tree Construction.|Martin Farach,Paolo Ferragina,S. Muthukrishnan|77|12|0|6
+23|Bivariate Polynomial Multiplication.|Markus Bläser|5|2|0|0
+24|A Unified Superfast Algorithm for Boundary Rational Tangential Interpolation Problems and for Inversion and Factorization of Dense Structured Matrices.|Vadim Olshevsky,Victor Y. Pan|48|9|0|13
+25|Unsatisfiable Systems of Equations, Over a Finite Field.|Alan R. Woods|2|0|0|0
+26|Multiplicative Complexity of Taylor Shifts and a New Twist of the Substitution Method.|Arnold Schönhage|8|0|0|0
+27|Local Search in Smooth Convex Sets.|Ravi Kannan,Andreas Nolte|2|1|0|1
+28|A TDI System and its Application to Approximation Algorithms.|Mao-cheng Cai,Xiaotie Deng,Wenan Zang|20|1|0|6
+29|Geometric Separator Theorems & Applications.|Warren D. Smith,Nicholas C. Wormald|n/a
+30|Approximation of Diameters: Randomization Doesn't Help.|Andreas Brieden,Peter Gritzmann,Ravi Kannan,Victor Klee,László Lovász,Miklós Simonovits|32|14|0|11
+31|Time-Space Tradeoffs for Branching Programs.|Paul Beame,Michael E. Saks,Jayram S. Thathachar|46|13|0|4
+32|Optimal Time-Space Trade-Offs for Sorting.|Jakob Pagter,Theis Rauhe|35|19|0|3
+33|Exponential Complexity Lower Bounds for Depth 3 Arithmetic Circuits in Algebras of Functions Over Finite Fields.|Dima Grigoriev,Alexander A. Razborov|80|40|0|1
+34|Lower Bounds for (MOD p - MOD m) Circuits.|Vince Grolmusz,Gábor Tardos|23|6|0|0
+35|On the Single-Source Unsplittable Flow Problem.|Yefim Dinitz,Naveen Garg,Michel X. Goemans|165|49|5|4
+36|Faster and Simpler Algorithms for Multicommodity Flow and Other Fractional Packing Problems.|Naveen Garg,Jochen Könemann|674|268|5|5
+37|All Pairs Shortest Paths in Weighted Directed Graphs ¾ Exact and Almost Exact Algorithms.|Uri Zwick|72|17|0|7
+38|A Divide-and-Conquer Algorithm for Min-Cost Perfect Matching in the Plane.|Kasturi R. Varadarajan|57|36|0|2
+39|1-Way Quantum Finite Automata: Strengths, Weaknesses and Generalizations.|Andris Ambainis,Rusins Freivalds|264|88|0|40
+40|The Quantum Communication Complexity of Sampling.|Andris Ambainis,Leonard J. Schulman,Amnon Ta-Shma,Umesh V. Vazirani,Avi Wigderson|93|19|0|3
+41|Quantum Lower Bounds by Polynomials.|Robert Beals,Harry Buhrman,Richard Cleve,Michele Mosca,Ronald de Wolf|588|202|0|24
+42|Quantum Oracle Interrogation: Getting All Information for Almost Half the Price.|Wim van Dam|58|24|0|1
+43|Fast Monte-Carlo Algorithms for Finding Low-Rank Approximations.|Alan M. Frieze,Ravi Kannan,Santosh Vempala|473|247|4|25
+44|Approximating a Finite Metric by a Small Number of Tree Metrics.|Moses Charikar,Chandra Chekuri,Ashish Goel,Sudipto Guha,Serge A. Plotkin|173|40|1|9
+45|Random Projection: A New Approach to VLSI Layout.|Santosh Vempala|49|4|0|3
+46|Map Graphs in Polynomial Time.|Mikkel Thorup|31|6|0|1
+47|On Learning Monotone Boolean Functions.|Avrim Blum,Carl Burch,John Langford|42|19|0|0
+48|Orchestrating Quartets: Approximation and Data Correction.|Tao Jiang,Paul E. Kearney,Ming Li|67|13|0|9
+49|Testing Monotonicity.|Oded Goldreich,Shafi Goldwasser,Eric Lehman,Dana Ron|168|85|2|13
+50|Evolutionary Trees can be Learned in Polynomial Time in the Two-State General Markov Model.|Mary Cryan,Leslie Ann Goldberg,Paul W. Goldberg|66|20|0|6
+51|Factor 2 Approximation Algorithm for the Generalized Steiner Network Problem.|Kamal Jain|406|208|2|2
+52|The Finite Capacity Dial-A-Ride Problem.|Moses Charikar,Balaji Raghavachari|62|21|0|1
+53|A Randomized Approximation Scheme for Metric MAX-CUT.|Wenceslas Fernandez de la Vega,Claire Kenyon|71|21|1|11
+54|Semidefinite Relaxations for Parallel Machine Scheduling.|Martin Skutella|46|4|0|8
+55|Lower Bounds for Zero Knowledge on the Internet.|Joe Kilian,Erez Petrank,Charles Rackoff|100|22|0|11
+56|Oblivious Transfer with a Memory-Bounded Receiver.|Christian Cachin,Claude Crépeau,Julien Marcil|100|28|1|4
+57|Quantum Cryptography with Imperfect Apparatus.|Dominic Mayers,Andrew Chi-Chih Yao|138|78|0|6
+58|The Security of Individual RSA Bits.|Johan Håstad,Mats Näslund|55|13|0|0
+59|Protocols for Asymmetric Communication Channels.|Micah Adler,Bruce M. Maggs|31|12|0|3
+60|Marked Ancestor Problems.|Stephen Alstrup,Thore Husfeldt,Theis Rauhe|114|54|0|6
+61|Towards an Optimal Bit-Reversal Permutation Program.|Larry Carter,Kang Su Gatlin|32|6|0|2
+62|The Minimum Equivalent DNF Problem and Shortest Implicants.|Christopher Umans|130|53|0|10
+63|Concurrent Reachability Games.|Luca de Alfaro,Thomas A. Henzinger,Orna Kupferman|157|87|0|37
+64|Perfect Information Leader Election in log*n + O(1) Rounds.|Alexander Russell,David Zuckerman|58|18|0|6
+65|Sampling, Halfspace Range Reporting, and Construction of (<= k)-Levels in Three Dimensions.|Timothy M. Chan|80|37|0|14
+66|Parametric and Kinetic Minimum Spanning Trees.|Pankaj K. Agarwal,David Eppstein,Leonidas J. Guibas,Monika Rauch Henzinger|65|26|0|7
+67|On the Combinatorial and Topological Complexity of a Single Cell.|Saugata Basu|17|1|0|4
+68|Which Crossing Number is it, Anyway?|János Pach,Géza Tóth|n/a
+69|An Improved Exponential-Time Algorithm for k-SAT.|Ramamohan Paturi,Pavel Pudlák,Michael E. Saks,Francis Zane|173|40|0|7
+70|Exponential Separations between Restricted Resolution and Cutting Planes Proof Systems.|Maria Luisa Bonet,Juan Luis Esteban,Nicola Galesi,Jan Johannsen|39|7|0|3
+71|Tseitin's Tautologies and Lower Bounds for Nullstellensatz Proofs.|Dima Grigoriev|10|3|0|0
+72|Which Problems Have Strongly Exponential Complexity?|Russell Impagliazzo,Ramamohan Paturi,Francis Zane|593|427|0|16
+73|Recommendation Systems: A Probabilistic Analysis.|Ravi Kumar,Prabhakar Raghavan,Sridhar Rajagopalan,Andrew Tomkins|148|55|17|3
+74|Heuristics for Finding Large Independent Sets, with Applications to Coloring Semi-Random Graphs.|Uriel Feige,Joe Kilian|24|9|0|2
+75|Improved Bounds and Algorithms for Hypergraph Two-Coloring.|Jaikumar Radhakrishnan,Aravind Srinivasan|129|76|0|5
+76|Local Divergence of Markov Chains and the Analysis of Iterative Load Balancing Schemes.|Yuval Rabani,Alistair Sinclair,Rolf Wanka|121|58|0|3
+77|The Complexity of Acyclic Conjunctive Queries.|Georg Gottlob,Nicola Leone,Francesco Scarcello|188|84|0|38
+78|A Characterization of NC by Tree Recurrence.|Daniel Leivant|15|2|0|0
+79|A Linguistic Characterization of Bounded Oracle Computation and Probabilistic Polynomial Time.|John C. Mitchell,Mark Mitchell,Andre Scedrov|73|12|0|14
+80|Randomness vs. Time: De-Randomization under a Uniform Assumption.|Russell Impagliazzo,Avi Wigderson|139|44|0|24

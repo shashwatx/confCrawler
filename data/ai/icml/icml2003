@@ -1,0 +1,119 @@
+118
+1|Machine Learning, Proceedings of the Twentieth International Conference (ICML 2003), August 21-24, 2003, Washington, DC, USA.|Tom Fawcett,Nina Mishra|n/a
+2|Hidden Markov Support Vector Machines.|Yasemin Altun,Ioannis Tsochantaridis,Thomas Hofmann|501|250|5|13
+3|Learning Distance Functions using Equivalence Relations.|Aharon Bar-Hillel,Tomer Hertz,Noam Shental,Daphna Weinshall|393|208|2|16
+4|Online Choice of Active Learning Algorithms.|Yoram Baram,Ran El-Yaniv,Kobi Luz|275|155|2|3
+5|Learning Logic Programs for Layout Analysis Correction.|Margherita Berardi,Michelangelo Ceci,Floriana Esposito,Donato Malerba|5|1|0|3
+6|Multi-Objective Programming in SVMs.|Jinbo Bi|28|14|1|0
+7|Regression Error Characteristic Curves.|Jinbo Bi,Kristin P. Bennett|131|89|0|0
+8|Choosing Between Two Learning Algorithms Based on Calibrated Tests.|Remco R. Bouckaert|111|61|0|5
+9|Incorporating Diversity in Active Learning with Support Vector Machines.|Klaus Brinker|298|199|2|0
+10|The Use of the Ambiguity Decomposition in Neural Network Ensemble Learning Methods.|Gavin Brown,Jeremy L. Wyatt|23|5|0|2
+11|Tractable Bayesian Learning of Tree Augmented Naive Bayes Models.|Jesús Cerquides,Ramon López de Mántaras|27|13|0|2
+12|AWESOME: A General Multiagent Learning Algorithm that Converges in Self-Play and Learns a Best Response Against Stationary Opponents.|Vincent Conitzer,Tuomas Sandholm|181|90|0|8
+13|BL-WoLF: A Framework For Loss-Bounded Learnability In Zero-Sum Games.|Vincent Conitzer,Tuomas Sandholm|14|6|0|6
+14|Semi-Supervised Learning of Mixture Models.|Fábio Gagliardi Cozman,Ira Cohen,Marcelo Cesar Cirelo|211|92|2|5
+15|On Kernel Methods for Relational Learning.|Chad M. Cumby,Dan Roth|142|51|0|13
+16|Fast Query-Optimized Kernel Machine Classification Via Incremental Approximate Nearest Support Vectors.|Dennis DeCoste,Dominic Mazzoni|26|9|1|5
+17|Relational Instance Based Regression for Relational Reinforcement Learning.|Kurt Driessens,Jan Ramon|68|30|0|11
+18|Design for an Optimal Probe.|Michael O. Duff|42|30|0|0
+19|Diffusion Approximation for Bayesian Markov Chains.|Michael O. Duff|1|0|0|0
+20|Using the Triangle Inequality to Accelerate k-Means.|Charles Elkan|515|337|11|1
+21|Bayes Meets Bellman: The Gaussian Process Approach to Temporal Difference Learning.|Yaakov Engel,Shie Mannor,Ron Meir|154|99|0|13
+22|Action Elimination and Stopping Conditions for Reinforcement Learning.|Eyal Even-Dar,Shie Mannor,Yishay Mansour|24|6|0|3
+23|Utilizing Domain Knowledge in Neuroevolution.|James Fan,Raymond Lau,Risto Miikkulainen|8|3|0|0
+24|Boosting Lazy Decision Trees.|Xiaoli Zhang Fern,Carla E. Brodley|14|5|0|0
+25|Random Projection for High Dimensional Data Clustering: A Cluster Ensemble Approach.|Xiaoli Zhang Fern,Carla E. Brodley|460|274|1|6
+26|The Geometry of ROC Space: Understanding Machine Learning Metrics through ROC Isometrics.|Peter A. Flach|218|108|0|5
+27|An Analysis of Rule Evaluation Metrics.|Johannes Fürnkranz,Peter A. Flach|108|40|0|3
+28|Margin Distribution and Learning.|Ashutosh Garg,Dan Roth|30|17|0|0
+29|Perceptron Based Learning with Example Dependent and Noisy Costs.|Peter Geibel,Fritz Wysotzki|18|5|1|5
+30|Hierarchical Policy Gradient Algorithms.|Mohammad Ghavamzadeh,Sridhar Mahadevan|33|13|0|8
+31|Solving Noisy Linear Operator Equations by Gaussian Processes: Application to Ordinary and Partial Differential Equations.|Thore Graepel|19|10|0|0
+32|Correlated Q-Learning.|Amy Greenwald,Keith Hall|279|120|0|8
+33|Online Ranking/Collaborative Filtering Using the Perceptron Algorithm.|Edward F. Harrington|91|53|5|0
+34|Goal-directed Learning to Fly.|Andrew Isaac,Claude Sammut|48|19|0|9
+35|Probabilistic Classifiers and the Concepts They Recognize.|Manfred Jaeger|18|6|0|0
+36|Avoiding Bias when Aggregating Relational Data with Degree Disparity.|David Jensen,Jennifer Neville,Michael Hay|42|17|0|17
+37|A Faster Iterative Scaling Algorithm for Conditional Exponential Model.|Rong Jin,Rong Yan,Jian Zhang,Alexander G. Hauptmann|38|11|0|0
+38|Transductive Learning via Spectral Graph Partitioning.|Thorsten Joachims|565|279|14|0
+39|Evolving Strategies for Focused Web Crawling.|Judy Johnson,Kostas Tsioutsiouliklis,C. Lee Giles|63|28|1|2
+40|Exploration in Metric State Spaces.|Sham Kakade,Michael J. Kearns,John Langford|70|40|0|5
+41|Representational Issues in Meta-Learning.|Alexandros Kalousis,Melanie Hilario|29|12|0|1
+42|Marginalized Kernels Between Labeled Graphs.|Hisashi Kashima,Koji Tsuda,Akihiro Inokuchi|625|364|3|20
+43|Informative Discriminant Analysis.|Samuel Kaski,Jaakko Peltonen|39|21|0|9
+44|Characteristics of Long-term Learning in Soar and its Application to the Utility Problem.|William G. Kennedy,Kenneth A. De Jong|11|4|0|3
+45|Unsupervised Learning with Permuted Data.|Sergey Kirshner,Sridevi Parise,Padhraic Smyth|8|1|0|1
+46|Discriminative Gaussian Mixture Models: A Comparison with Kernel Classifiers.|Aldebaro Klautau,Nikola Jevtic,Alon Orlitsky|22|7|0|6
+47|A Kernel Between Sets of Vectors.|Risi Kondor,Tony Jebara|247|108|1|10
+48|The Significance of Temporal-Difference Learning in Self-Play Training TD-Rummy versus EVO-rummy.|Clifford Kotnik,Jugal K. Kalita|13|4|0|0
+49|Visual Learning by Evolutionary Feature Synthesis.|Krzysztof Krawiec,Bir Bhanu|110|48|0|23
+50|Classification of Text Documents Based on Minimum System Entropy.|Raghu Krishnapuram,Krishna Prasad Chitrapura,Sachindra Joshi|2|1|0|0
+51|Finding Underlying Connections: A Fast Graph-Based Method for Link Analysis and Collaboration Queries.|Jeremy Kubica,Andrew W. Moore,David Cohn,Jeff G. Schneider|35|7|0|2
+52|Learning with Idealized Kernels.|James T. Kwok,Ivor W. Tsang|133|65|0|6
+53|The Pre-Image Problem in Kernel Methods.|James T. Kwok,Ivor W. Tsang|296|202|3|0
+54|Improving Accuracy and Cost of Two-class and Multi-class Probabilistic Classifiers Using ROC Curves.|Nicolas Lachiche,Peter A. Flach|123|52|0|12
+55|Reinforcement Learning as Classification: Leveraging Modern Classifiers.|Michail G. Lagoudakis,Ronald Parr|120|72|0|8
+56|Robust Induction of Process Models from Time-Series Data.|Pat Langley,Dileep George,Stephen D. Bay,Kazumi Saito|22|2|0|9
+57|The Influence of Reward on the Speed of Reinforcement Learning: An Analysis of Shaping.|Adam Laud,Gerald DeJong|28|16|0|1
+58|Learning with Positive and Unlabeled Examples Using Weighted Logistic Regression.|Wee Sun Lee,Bing Liu|165|110|4|16
+59|Linear Programming Boosting for Uneven Datasets.|Jure Leskovec,John Shawe-Taylor|37|19|0|1
+60|Text Classification Using Stochastic Keyword Generation.|Cong Li,Ji-Rong Wen,Hang Li|20|5|0|1
+61|A Loss Function Analysis for Classification Methods in Text Categorization.|Fan Li,Yiming Yang|77|31|0|10
+62|Decision Tree with Better Ranking.|Charles X. Ling,Robert J. Yan|68|19|0|0
+63|An Evaluation on Feature Selection for Text Clustering.|Tao Liu,Shengping Liu,Zheng Chen,Wei-Ying Ma|271|168|0|6
+64|Link-based Classification.|Qing Lu,Lise Getoor|479|285|5|30
+65|Hierarchical Latent Knowledge Analysis for Co-occurrence Data.|Hiroshi Mamitsuka|6|0|0|6
+66|The Cross Entropy Method for Fast Policy Search.|Shie Mannor,Reuven Y. Rubinstein,Yohai Gat|73|53|0|6
+67|The Set Covering Machine with Data-Dependent Half-Spaces.|Mario Marchand,Mohak Shah,John Shawe-Taylor,Marina Sokolova|9|2|0|3
+68|Identifying Predictive Structures in Relational Data Using Multiple Instance Learning.|Amy McGovern,David Jensen|23|5|0|4
+69|Planning in the Presence of Cost Functions Controlled by an Adversary.|H. Brendan McMahan,Geoffrey J. Gordon,Avrim Blum|77|54|0|8
+70|Using Linear-threshold Algorithms to Combine Multi-class Sub-experts.|Chris Mesterharm|3|1|0|0
+71|Optimal Reinsertion: A New Search Operator for Accelerated and More Accurate Bayesian Network Structure Learning.|Andrew W. Moore,Weng-Keen Wong|103|53|2|4
+72|Error Bounds for Approximate Policy Iteration.|Rémi Munos|119|67|0|19
+73|Machine Learning with Hyperkernels.|Cheng Soon Ong,Alexander J. Smola|n/a
+74|Justification-based Multiagent Learning.|Santiago Ontañón,Enric Plaza|18|4|0|11
+75|Mixtures of Conditional Maximum Entropy Models.|Dmitry Pavlov,Alexandrin Popescul,David M. Pennock,Lyle H. Ungar|22|10|5|4
+76|Online Feature Selection using Grafting.|Simon Perkins,James Theiler|104|70|0|2
+77|Weighted Order Statistic Classifiers with Large Rank-Order Margin.|Reid B. Porter,Damian Eads,Don R. Hush,James Theiler|12|5|0|4
+78|Relativized Options: Choosing the Right Transformation.|Balaraman Ravindran,Andrew G. Barto|39|21|0|10
+79|Tackling the Poor Assumptions of Naive Bayes Text Classifiers.|Jason D. Rennie,Lawrence Shih,Jaime Teevan,David R. Karger|579|359|5|3
+80|Learning with Knowledge from Multiple Experts.|Matthew Richardson,Pedro M. Domingos|83|49|0|1
+81|Combining TD-learning with Cascade-correlation Networks.|François Rivest,Doina Precup|40|10|0|3
+82|Kernel PLS-SVC for Linear and Nonlinear Classification.|Roman Rosipal,Leonard J. Trejo,Bryan Matthews|108|44|1|10
+83|Stochastic Local Search in k-Term DNF Learning.|Ulrich Rückert,Stefan Kramer|31|11|0|2
+84|Q-Decomposition for Reinforcement Learning Agents.|Stuart J. Russell,Andrew Zimdars|73|36|0|0
+85|Adaptive Overrelaxed Bound Optimization Methods.|Ruslan Salakhutdinov,Sam T. Roweis|82|32|1|0
+86|Optimization with EM and Expectation-Conjugate-Gradient.|Ruslan Salakhutdinov,Sam T. Roweis,Zoubin Ghahramani|117|50|3|2
+87|TD(0) Converges Provably Faster than the Residual Gradient Algorithm.|Ralf Schoknecht,Artur Merke|13|5|0|1
+88|On State Merging in Grammatical Inference: A Statistical Approach for Dealing with Noisy Data.|Marc Sebban,Jean-Christophe Janodet|15|2|0|4
+89|Text Bundling: Statistics Based Data-Reduction.|Lawrence Shih,Jason D. Rennie,Yu-Han Chang,David R. Karger|42|11|0|0
+90|Flexible Mixture Model for Collaborative Filtering.|Luo Si,Rong Jin|253|169|0|6
+91|Learning Predictive State Representations.|Satinder P. Singh,Michael L. Littman,Nicholas K. Jong,David Pardoe,Peter Stone|114|40|0|7
+92|Weighted Low-Rank Approximations.|Nathan Srebro,Tommi S. Jaakkola|480|331|3|13
+93|Learning To Cooperate in a Social Dilemma: A Satisficing Approach to Bargaining.|Jeff L. Stimpson,Michael A. Goodrich|31|9|0|7
+94|Evolutionary MCMC Sampling and Optimization in Discrete Spaces.|Malcolm J. A. Strens|21|17|0|0
+95|Learning on the Test Data: Leveraging Unseen Features.|Benjamin Taskar,Ming Fai Wong,Daphne Koller|22|6|0|4
+96|Low Bias Bagged Support Vector Machines.|Giorgio Valentini,Thomas G. Dietterich|66|30|0|3
+97|SimpleSVM.|S. V. N. Vishwanathan,Alexander J. Smola,M. Narasimha Murty|n/a
+98|Testing Exchangeability On-Line.|Vladimir Vovk,Ilia Nouretdinov,Alexander Gammerman|n/a
+99|Model-based Policy Gradient Reinforcement Learning.|Xin Wang,Thomas G. Dietterich|15|5|0|1
+100|Learning Mixture Models with the Latent Maximum Entropy Principle.|Shaojun Wang,Dale Schuurmans,Fuchun Peng,Yunxin Zhao|12|4|0|4
+101|Principled Methods for Advising Reinforcement Learning Agents.|Eric Wiewiora,Garrison W. Cottrell,Charles Elkan|55|39|0|1
+102|DISTILL: Learning Domain-Specific Planners by Example.|Elly Winner,Manuela M. Veloso|43|19|0|4
+103|Bayesian Network Anomaly Pattern Detection for Disease Outbreaks.|Weng-Keen Wong,Andrew W. Moore,Gregory F. Cooper,Michael M. Wagner|130|85|4|6
+104|Adaptive Feature-Space Conformal Transformation for Imbalanced-Data Learning.|Gang Wu,Edward Y. Chang|102|52|0|14
+105|New í-Support Vector Machines and their Sequential Minimal Optimization.|Xiaoyun Wu,Rohini K. Srihari|n/a
+106|Cross-Entropy Directed Embedding of Network Data.|Takeshi Yamada,Kazumi Saito,Naonori Ueda|36|20|0|13
+107|Decision-tree Induction from Time-series Data Based on a Standard-example Split Test.|Yuu Yamada,Einoshin Suzuki,Hideto Yokoi,Katsuhiko Takabayashi|60|19|0|12
+108|Optimizing Classifier Performance via an Approximation to the Wilcoxon-Mann-Whitney Statistic.|Lian Yan,Robert H. Dodier,Michael Mozer,Richard H. Wolniewicz|199|90|7|0
+109|Feature Selection for High-Dimensional Data: A Fast Correlation-Based Filter Solution.|Lei Yu,Huan Liu|1136|817|0|25
+110|Isometric Embedding and Continuum ISOMAP.|Hongyuan Zha,Zhenyue Zhang|77|31|0|2
+111|Learning Metrics via Discriminant Kernels and Multidimensional Scaling: Toward Expected Euclidean Representation.|Zhihua Zhang|38|10|0|4
+112|Learning from Attribute Value Taxonomies and Partially Specified Instances.|Jun Zhang,Vasant Honavar|n/a
+113|Modified Logistic Regression: An Approximation to SVM and Its Applications in Large-Scale Text Categorization.|Jian Zhang,Rong Jin,Yiming Yang,Alexander G. Hauptmann|113|53|0|9
+114|Exploration and Exploitation in Adaptive Filtering Based on Bayesian Active Learning.|Yi Zhang,Wei Xu,James P. Callan|43|25|0|4
+115|On the Convergence of Boosting Procedures.|Tong Zhang,Bin Yu|0|0|0|0
+116|Semi-Supervised Learning Using Gaussian Fields and Harmonic Functions.|Xiaojin Zhu,Zoubin Ghahramani,John D. Lafferty|2227|1490|8|30
+117|Eliminating Class Noise in Large Datasets.|Xingquan Zhu,Xindong Wu,Qijun Chen|175|102|1|17
+118|Online Convex Programming and Generalized Infinitesimal Gradient Ascent.|Martin Zinkevich|731|522|4|13

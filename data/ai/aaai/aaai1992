@@ -1,0 +1,136 @@
+135
+1|Proceedings of the 10th National Conference on Artificial Intelligence. San Jose, CA, July 12-16, 1992.|William R. Swartout|n/a
+2|Understanding Causal Descriptions of Physical Systems.|Gary C. Borchardt|20|4|0|5
+3|Generating Cross-References for Multimedia Explanation.|Kathleen McKeown,Steven Feiner,Jacques Robin,Dorée D. Seligmann,Michael A. Tanenblatt|50|6|0|6
+4|Results of Encoding Knowledge with Tutor Construction Tools.|Thomas J. Murray,Beverly Park Woolf|29|2|0|4
+5|Steps from Explanation Planning to Model Construction Dialogues.|Daniel D. Suthers,Beverly Park Woolf,Matthew Cornell|22|2|0|2
+6|A Connectionist Parser with Recursive Sentence Structure and Lexical Disambiguation.|George Berg|73|7|5|0
+7|Learning to Disambiguate Relative Pronouns.|Claire Cardie|31|3|0|10
+8|Discrimination-Based Constructive Induction of Logic Programs.|Boonserm Kijsirikul,Masayuki Numao,Masamichi Shimura|67|7|0|5
+9|Learning Relations by Pathfinding.|Bradley L. Richards,Raymond J. Mooney|137|48|0|3
+10|Symmetry as Bias: Rediscovering Special Relativity.|Michael R. Lowry|1|0|0|0
+11|Theory-Driven Discovery of Reaction Pathways in the MECHEM System.|Raúl E. Valdés-Pérez|13|1|0|2
+12|Discovery of Equations: Experimental Evaluation of Convergence.|Robert Zembowicz,Jan M. Zytkow|41|2|0|4
+13|Operational Definition Refinement: A Discovery Process.|Jan M. Zytkow,Jieming Zhu,Robert Zembowicz|20|3|0|5
+14|Learning in FOL with a Similarity Measure.|Gilles Bisson|n/a
+15|Learning to Learn Decision Trees.|Vlad G. Dabija,Katsuhiko Tsujino,Shogo Nishida|10|1|0|6
+16|A Personal Learning Apprentice.|C. Lisa Dent,Jesus Boticario,John P. McDermott,Tom M. Mitchell,David Zabowski|207|16|3|15
+17|The Attribute Selection Problem in Decision Tree Generation.|Usama M. Fayyad,Keki B. Irani|278|69|5|13
+18|COGIN: Symbolic Induction with Genetic Algorithms.|David Perry Greene,Stephen F. Smith|18|1|0|2
+19|Polynomial-Time Learning with Version Spaces.|Haym Hirsh|73|4|0|9
+20|ChiMerge: Discretization of Numeric Attributes.|Randy Kerber|761|278|5|1
+21|The Feature Selection Problem: Traditional Methods and a New Algorithm.|Kenji Kira,Larry A. Rendell|1271|602|4|2
+22|Discrete Sequence Prediction and its Applications.|Philip D. Laird|75|15|1|4
+23|Classifier Learning from Noisy Data as Probabilistic Evidence Combination.|Steven W. Norton,Haym Hirsh|n/a
+24|Sparse Data and the Effect of Overfitting Avoidance in Decision Tree Induction.|Cullen Schaffer|21|3|0|2
+25|Complementary Discrimination Learning with Decision Lists.|Wei-Min Shen|19|2|0|4
+26|A Framework for Integrating Fault Diagnosis and Incremental Knowledge Acquisition in Connectionist Expert Systems.|Joo-Hwee Lim,Ho-Chung Lui,Pei-Zhuang Wang|7|2|0|1
+27|Using Knowledge-Based Neural Networks to Improve Algorithms: Refining the Chou-Fasman Algorithm for Protein Folding.|Richard Maclin,Jude W. Shavlik|92|10|0|12
+28|Adapting Bias by Gradient Descent: An Incremental Version of Delta-Bar-Delta.|Richard S. Sutton|147|39|0|7
+29|Using Symbolic Learning to Improve Knowledge-Based Neural Networks.|Geoffrey G. Towell,Jude W. Shavlik|32|3|0|4
+30|Reinforcement Learning with Perceptual Aliasing: The Perceptual Distinctions Approach.|Lonnie Chrisman|387|101|0|1
+31|Acquisition of Automatic Activity through Practice: Changes in Sensory Input.|Jack Gelfand,Marshall Flax,Raymond Endres,Stephen H. Lane,David Handelman|4|0|0|1
+32|Automatic Programming of Robots Using Genetic Programming.|John R. Koza,James P. Rice|112|21|0|2
+33|Reinforcement Learning with a Hierarchy of Abstract Models.|Satinder P. Singh|125|14|0|4
+34|Inferring Finite Automata with Stochastic Output Functions and an Application to Map Learning.|Thomas L. Dean,Dana Angluin,Kenneth Basye,Sean P. Engelson,Leslie Pack Kaelbling,Evangelos Kokkevis,Oded Maron|94|21|0|6
+35|Oblivious PAC Learning of Concept Hierarchies.|Michael J. Kearns|8|0|0|0
+36|An Analysis of Bayesian Classifiers.|Pat Langley,Wayne Iba,Kevin Thompson|1257|450|36|18
+37|A Theory of Unsupervised Speedup Learning.|Prasad Tadepalli|14|1|0|3
+38|COMPOSER: A Probabilistic Solution to the Utility Problem in Speed-Up Learning.|Jonathan Gratch,Gerald DeJong|106|17|0|17
+39|A Statistical Approach to Solving the EBL Utility Problem.|Russell Greiner,Igor Jurisica|58|2|0|9
+40|Empirical Analysis of the General Utility Problem in Machine Learning.|Lawrence B. Holder|14|0|0|2
+41|Inductive Policy.|Foster J. Provost,Bruce G. Buchanan|n/a
+42|Constrained Intelligent Action: Planning Under the Influence of a Master Agent.|Eithan Ephrati,Jeffrey S. Rosenschein|31|1|0|8
+43|Using Joint Responsibility to Coordinate Collaborative Problem Solving in Dynamic Environments.|Nicholas R. Jennings,E. H. Mamdani|72|9|0|11
+44|On the Synthesis of Useful Social Laws for Artificial Agent Societies (Preliminary Report).|Yoav Shoham,Moshe Tennenholtz|427|93|0|12
+45|A General-Equilibrium Approach to Distributed Transportation Planning.|Michael P. Wellman|66|2|0|2
+46|An Approach to the Representation of Iterative Situations.|Michael J. Almeida|0|0|0|0
+47|Actions, Beliefs and Intentions in Rationale Clauses and Means Clauses.|Cecile T. Balkanski|13|0|0|3
+48|An On-Line Computational Model of Human Sentence Interpretation.|Daniel Jurafsky|20|5|0|2
+49|Literal Meaning and the Comprehension of Metaphors.|Steven L. Lytinen,Robert R. Burridge,Jeffrey D. Kirtner|4|1|0|0
+50|Parsing Run Amok: Relation-Driven Control for Text Analysis.|Paul S. Jacobs|11|1|0|1
+51|A Probabilistic Parser Applied to Software Testing Documents.|Mark A. Jones,Jason Eisner|22|2|0|3
+52|Classifying Texts Using Relevancy Signatures.|Ellen Riloff,Wendy G. Lehnert|28|1|2|5
+53|Shipping Departments vs. Shipping Pacemakers: Using Thematic Analysis to Improve Tagging Accuracy.|Uri Zernik|12|0|0|1
+54|Computation of Upper-Bounds for Stochastic Context-Free Languages.|Anna Corazza,Renato de Mori,Giorgio Satta|8|1|0|2
+55|A Computational Model for Face Location Based on Cognitive Principles.|Venu Govindaraju,Sargur N. Srihari,David B. Sher|22|2|0|1
+56|Grouping Iso-Velocity Points for Ego-Motion Recovery.|Yibing Yang,Alan L. Yuille|0|0|0|0
+57|Cultural Support for Improvisation.|Philip E. Agre,Ian Horswill|61|3|0|8
+58|The Expected Value of Hierarchical Problem-Solving.|Fahiem Bacchus,Qiang Yang|37|8|0|5
+59|Achieving the Functionality of Filter Conditions in a Partial Order Planner.|Gregg Collins,Louise Pryor|40|3|0|3
+60|On the Complexity of Domain-Independent Planning.|Kutluhan Erol,Dana S. Nau,V. S. Subrahmanian|80|10|0|10
+61|Analyzing Failure Recovery to Improve Planner Design.|Adele E. Howe|22|3|0|8
+62|Constrained Decision Revision.|Charles J. Petrie|55|5|0|2
+63|Learning from Goal Interactions in Planning: Goal Stack Analysis and Generalization.|Kwang Ryel Ryu,Keki B. Irani|11|0|0|1
+64|Efficient Propositional Constraint Propagation.|Mukesh Dalal|25|7|0|4
+65|Semantic Evaluation as Constraint Network Consistency.|Nicholas J. Haddock|6|2|0|0
+66|An Efficient Cross Product Representation of the Constraint Satisfaction Problem Search Space.|Paul D. Hubbe,Eugene C. Freuder|68|8|0|10
+67|On the Density of Solutions in Equilibrium Points for the Queens Problem.|Paul Morris|34|4|0|1
+68|An Improved Connectionist Activation Function for Energy Minimization.|Gadi Pinkas,Rina Dechter|3|0|0|2
+69|A New Method for Solving Hard Satisfiability Problems.|Bart Selman,Hector J. Levesque,David G. Mitchell|1694|310|11|40
+70|On the Minimality and Decomposability of Constraint Networks.|Peter van Beek|54|3|0|4
+71|Solving Constraint Satisfaction Problems Using Finite State Automata.|Nageshwara Rao Vempaty|81|39|0|0
+72|Hard and Easy Distributions of SAT Problems.|David G. Mitchell,Bart Selman,Hector J. Levesque|1073|193|0|45
+73|How Long Will It Take?|Ron Musick,Stuart J. Russell|n/a
+74|Using Deep Structure to Locate Hard Problems.|Colin P. Williams,Tad Hogg|91|14|0|17
+75|Run-Time Prediction for Production Systems.|Franz Barachini,Hans Mistelberger,Anoop Gupta|7|1|0|1
+76|Can Real-Time Search Algorithms Meet Deadlines?|Babak Hamidzadeh,Shashi Shekhar|15|1|0|7
+77|Comparison of Three Algorithms for Ensuring Serializable Executions in Parallel Production Systems.|James G. Schmolze,Daniel E. Neiman|6|1|0|4
+78|Real-time Metareasoning with Dynamic Trade-off Evaluation.|Ursula M. Schwuttke,Les Gasser|9|0|0|2
+79|On Optimal Game Tree Propagation for Imperfect Players.|Eric B. Baum|12|1|0|2
+80|Improved Decision-Making in Game Trees: Recovering from Pathology.|Arthur L. Delcher,Simon Kasif|5|2|0|1
+81|Modeling Accounting Systems to Support Multiple Tasks: A Progress Report.|Walter Hamscher|9|0|3|2
+82|Moving Target Search with Intelligence.|Toru Ishida|n/a
+83|Linear-Space Best-First Search: Summary of Results.|Richard E. Korf|45|11|0|4
+84|Performance of IDA on Trees and Graphs.|Ambuj Mahanti,Subrata Ghosh,Dana S. Nau,Asim K. Pal,Laveen N. Kanal|28|2|0|3
+85|An Average-Case Analysis of Branch-and-Bound with Applications: Summary of Results.|Weixiong Zhang,Richard E. Korf|36|3|0|11
+86|Dynamic MAP Calculations for Abduction.|Eugene Charniak,Eugene Santos Jr.|26|2|0|10
+87|Consistency-Based Diagnosis in Physiological Domains.|Keith L. Downing|11|0|0|0
+88|Adaptive Model-Based Diagnostic Mechanism Using a Hierarchical Model Scheme.|Yoichiro Nakakuki,Yoshiyuki Koseki,Midori Tanaka|6|0|0|0
+89|Reasoning MPE to Multiply Connected Belief Networks Using Message Passing.|Bon K. Sy|31|6|0|0
+90|Formalising Reasoning about Change: A Qualitative Reasoning Approach.|James M. Crawford,David W. Etherington|28|3|0|4
+91|Deriving Properties of Belief Update from Theories of Action.|Alvaro del Val,Yoav Shoham|70|4|0|10
+92|Concurrent Actions in the Situation Calculus.|Fangzhen Lin,Yoav Shoham|94|5|0|7
+93|Nonmonotonic Sorts for Feature Structures.|Mark A. Young|7|0|0|1
+94|From Statistics to Beliefs.|Fahiem Bacchus,Adam J. Grove,Daphne Koller,Joseph Y. Halpern|79|16|0|15
+95|A Logic for Revision and Subjunctive Queries.|Craig Boutilier|21|3|0|10
+96|Lexical Imprecision in Fuzzy Constraint Networks.|James Bowen,K. Robert Lai,Dennis Bahler|40|2|0|8
+97|A Symbolic Generalization of Probability Theory.|Adnan Darwiche,Matthew L. Ginsberg|87|14|0|2
+98|A Logic of Knowledge and Belief for Recursive Modeling: A Preliminary Report.|Piotr J. Gmytrasiewicz,Edmund H. Durfee|27|1|0|5
+99|Ideal Introspective Belief.|Kurt Konolige|9|0|0|2
+100|A Belief-Function Logic.|Alessandro Saffiotti|38|11|0|2
+101|Combining Circumscription and Modal Logic.|Jacques Wainer|0|0|0|0
+102|Generating Dialectical Examples Automatically.|Kevin D. Ashley,Vincent Aleven|22|0|0|7
+103|Common Sense Retrieval.|A. Julian Craddock|2|0|0|0
+104|When Should a Cheetah Remind You of a Bat? Reminding in Case-Based Teaching.|Daniel C. Edelson|20|1|0|0
+105|Model-Based Case Adaptation.|Eric K. Jones|n/a
+106|Qualitative Simulation Based on a Logical Formalism of Space and Time.|Zhan Cui,Anthony G. Cohn,David A. Randell|130|26|0|31
+107|Self-Explanatory Simulations: Scaling Up to Large Models.|Kenneth D. Forbus,Brian Falkenhainer|53|1|0|3
+108|Towards a Qualitative Lagrangian Theory of Fluid Flow.|Gordon Skorstad|4|1|0|0
+109|On the Qualitative Structure of a Mechanical Assembly.|Randall H. Wilson,Jean-Claude Latombe|16|0|0|4
+110|Causal Approximations.|P. Pandurang Nayak|105|8|0|5
+111|Automated Model Selection Using Context-Dependent Behaviors.|P. Pandurang Nayak,Leo Joskowicz,Sanjaya Addanki|68|1|0|5
+112|Learning Engineering Models with the Minimum Description Length Principle.|R. Bharat Rao,Stephen C. Y. Lu|22|1|0|1
+113|Automatic Abduction of Qualitative Models.|Bradley L. Richards,Ina Kraan,Benjamin Kuipers|64|12|0|7
+114|Complexity Results for Serial Decomposability.|Tom Bylander|36|3|0|1
+115|Temporal Reasoning in Sequence Graphs.|Jürgen Dorn|27|1|0|6
+116|Algorithms and Complexity for Reasoning about Time.|Martin Charles Golumbic,Ron Shamir|16|1|0|0
+117|On the Computational Complexity of Temporal Projection and Plan Validation.|Bernhard Nebel,Christer Bäckström|17|1|0|2
+118|Computing Least Common Subsumers in Description Logics.|William W. Cohen,Alexander Borgida,Haym Hirsh|186|61|0|17
+119|A Non-Well-Founded Approach to Terminological Cycles.|Robert Dionne,Eric Mays,Frank J. Oles|25|2|0|2
+120|An Empirical Analysis of Terminological Representation Systems.|Jochen Heinsohn,Daniel Kudenko,Bernhard Nebel,Hans-Jürgen Profitlich|124|19|0|8
+121|Recognition Algorithms for the Loom Classifier.|Robert M. MacGregor,David Brill|36|2|0|0
+122|An Improved Incremental Algorithm for Generating Prime Implicates.|Johan de Kleer|133|39|0|0
+123|Forming Concepts for Fast Inference.|Henry A. Kautz,Bart Selman|78|5|0|2
+124|The Complexity of Propositional Default Logics.|Jonathan Stillman|89|9|0|0
+125|A Reactive Robot System for Find and Fetch Tasks in an Outdoor Environment.|R. Peter Bonasso,Hendrik James Antonisse,Marc G. Slack|34|4|0|8
+126|Integrating Planning and Reacting in a Heterogeneous Asynchronous Architecture for Controlling Real-World Mobile Robots.|Erann Gat|520|69|0|9
+127|Landmark-Based Robot Navigation.|Anthony Lazanas,Jean-Claude Latombe|147|35|0|14
+128|Reactive Navigation through Rough Terrain: Experimental Results.|David P. Miller,Rajiv S. Desai,Erann Gat,Robert Ivlev,John Loch|59|2|0|15
+129|Learning 10, 000 Chunks: What's It Like Out There?|Robert B. Doorenbos,Milind Tambe,Allen Newell|33|3|0|4
+130|Mega-Classification: Discovering Motifs in Massive Datastreams.|Nomi L. Harris,Lawrence Hunter,David J. States|18|1|0|0
+131|Building Large-Scale and Corporate-Wide Case-Based Systems: Integration of the Organizational and Machine Executable Algorithms.|Hiroaki Kitano,Akihiro Shibata,Hideo Shimazu,Juichirou Kajihara,Atsumi Sato|27|1|2|5
+132|Wafer Scale Integration for Massively Parallel Memory-Based Reasoning.|Hiroaki Kitano,Moritoshi Yasunaga|4|0|0|1
+133|What Your Computer Really Needs to Know, You Learned in Kindergarten.|Edmund H. Durfee|44|3|0|0
+134|Reasoning as Remembering: The Theory and Practice of CBR.|Kristian J. Hammond|2|2|0|0
+135|Artificial Intelligence and Molecular Biology.|Lawrence Hunter|23|4|0|0

@@ -1,0 +1,137 @@
+136
+1|Proceedings of the 11th National Conference on Artificial Intelligence. Washington, DC, USA, July 11-15, 1993.|Richard Fikes,Wendy G. Lehnert|n/a
+2|On Computing Minimal Models.|Rachel Ben-Eliyahu,Rina Dechter|47|18|0|3
+3|On the Adequateness of the Connection Method.|Antje Beringer,Steffen Hölldobler|15|1|0|2
+4|Rough Resolution: A Refinement of Resolution to Remove Large Literals.|Heng Chu,David A. Plaisted|8|0|0|5
+5|Experimental Results on the Crossover Point in Satisfiability Problems.|James M. Crawford,Larry D. Auton|357|36|0|5
+6|Towards an Understanding of Hill-Climbing Procedures for SAT.|Ian P. Gent,Toby Walsh|271|65|0|11
+7|Reasoning With Characteristic Models.|Henry A. Kautz,Michael J. Kearns,Bart Selman|70|7|0|4
+8|The Breakout Method for Escaping from Local Minima.|Paul Morris|413|75|1|0
+9|An Empirical Study of Greedy Local Search for Satisfiability Testing.|Bart Selman,Henry A. Kautz|203|22|1|9
+10|Projective Visualization: Acting from Experience.|Marc Goodman|9|2|0|0
+11|Representing and Using Procedural Knowledge to Build Geometry Proofs.|Thomas F. McDougal,Kristian J. Hammond|17|1|0|1
+12|Case-Based Diagnostic Analysis in a Blackboard Architecture.|Edwina L. Rissland,Jody J. Daniels,Zachary B. Rubinstein,David B. Skalak|33|9|1|6
+13|A FrameWork and an Analysis of Current Proposals for the Case-Based Organization and Representation of Procedural Knowledge.|Roland Zito-Wolf,Richard Alterman|19|0|0|2
+14|Cryptographic Limitations on Learning One-Clause Logic Programs.|William W. Cohen|24|0|0|10
+15|Pac-Learning a Restricted Class of Recursive Logic Programs.|William W. Cohen|53|3|0|7
+16|Learnability in Inductive Logic Programrning: Some Basic Results and Techniques.|Michael Frazier,C. David Page Jr.|19|1|0|1
+17|Complexity Analysis of Real-Time Reinforcement Learning.|Sven Koenig,Reid G. Simmons|n/a
+18|Arc-Consistency and Arc-Consistency Again.|Christian Bessière,Marie-Odile Cordier|465|94|0|16
+19|On the Consistency of General Constraint-Satisfaction Problems.|Philippe Jégou|41|16|0|0
+20|Integrating Heuristics for Constraint Satisfaction Problems: A Case Study.|Steven Minton|40|6|0|7
+21|Coping With Disjunctions in Temporal Constraint Satisfaction Problems.|Eddie Schwalb,Rina Dechter|26|1|0|5
+22|Nondeterministic Lisp as a Substrate for Constraint Logic Programming.|Jeffrey Mark Siskind,David A. McAllester|89|4|0|5
+23|Slack-Based Heuristics for Constraint Satisfaction Scheduling.|Stephen F. Smith,Cheng-Chung Cheng|222|45|0|25
+24|A Constraint Decomposition Method for Spatio-Temporal Configuration Problems.|Toshikazu Tanimoto|5|0|0|0
+25|Extending Deep Structure.|Colin P. Williams,Tad Hogg|40|2|0|10
+26|Multiple Dimensions of Generalization In Model-Based Troubleshooting.|Randall Davis,Paul Resnick|2|0|0|0
+27|Hybrid Case-Based Reasoning for the Diagnosis of Complex Devices.|Michel P. Féret,Janice I. Glasgow|18|0|0|3
+28|An Epistemology for Clinically Significant Trends.|Ira J. Haimowitz,Isaac S. Kohane|24|1|0|5
+29|A Framework for Model-Based Repair.|Ying Sun,Daniel S. Weld|23|7|2|0
+30|A Method for Development of Dialogue Managers for Natural Language Interfaces.|Arne Jönsson|11|0|0|0
+31|Mutual Beliefs of Multiple Conversants: A Computational Model of Collaboration in Air Traffic Control.|David G. Novick,Karen Ward|37|9|0|1
+32|An Optimizing Method for Structuring Inferentially Linked Discourse.|Ingrid Zukerman,Richard McConachy|5|0|0|3
+33|A One-shot Dynamic Coordination Algorithm for Distributed Sensor Networks.|Keith Decker,Victor R. Lesser|58|1|0|12
+34|Quantitative Modeling of Complex Computational Task Environments.|Keith Decker,Victor R. Lesser|152|11|0|43
+35|Overeager Reciprocal Rationality and Mixed Strategy Equilibria.|Edmund H. Durfee,Jaeho Lee,Piotr J. Gmytrasiewicz|33|0|0|7
+36|Solving the Really Hard Problems with Cooperative Search.|Tad Hogg,Colin P. Williams|120|25|1|13
+37|A Fast First-Cut Protocol for Agent Coordination.|Andrew P. Kosoresow|12|0|0|1
+38|Agents Contracting Tasks in Non-Collaborative Environments.|Sarit Kraus|68|3|0|6
+39|IPUS: An Architecture for Integrated Signal Processing and Signal Interpretation in Complex Environments.|Victor R. Lesser,Izaskun Gallastegi,Hamid Nawab,Frank Klassner|35|0|0|5
+40|An Implementation of the Contract Net Protocol Based on Marginal Cost Calculations.|Tuomas Sandholm|607|120|4|74
+41|Generating Explanations of Device Behavior Using Compositional Modeling and Causal Ordering.|Patrice O. Gautier,Thomas R. Gruber|106|59|57|8
+42|Generating Natural Language Descriptions with Examples: Differences between Introductory and Advanced Texts.|Vibhu O. Mittal,Cécile Paris|11|0|0|2
+43|Building Models to Support Synthesis in Early Stage Product Design.|R. Bharat Rao,Stephen C. Y. Lu|12|1|0|0
+44|A Conversational Model of Multimodal Interaction in Information Systems.|Adelheit Stein,Ulrich Thiel|n/a
+45|Matching 100, 000 Learned Rules.|Robert B. Doorenbos|n/a
+46|Massively Parallel Support for Computationally Effective Recognition Queries.|Matthew P. Evett,James A. Hendler,William A. Andersen|15|0|0|3
+47|Case-Method: A Methodology for Building Large-Scale Case-Based Systems.|Hiroaki Kitano,Hideo Shimazu,Akihiro Shibata|21|1|0|0
+48|Automated Index Generation for Constructing Large-Scale Conversational Hypermedia Systems.|Richard Osgood,Ray Bareiss|13|1|0|3
+49|Probabilistic Prediction of Protein Secondary Structure Using Causal Networks (Extended Abstract).|Arthur L. Delcher,Simon Kasif,Harry R. Goldberg,William H. Hsu|14|2|0|4
+50|OC1: A Randomized Induction of Oblique Decision Trees.|Sreerama K. Murthy,Simon Kasif,Steven Salzberg,Richard Beigel|n/a
+51|Finding Accurate Frontiers: A Knowledge-Intensive Approach to Relational Learning.|Michael J. Pazzani,Clifford Brunk|22|1|0|1
+52|Learning Non-Linearly Separable Boolean Functions With Linear Threshold Unit Trees and Madaline-Style Networks.|Mehran Sahami|19|4|0|2
+53|Generating Argumentative Judgment Determiners.|Michael Elhadad|7|1|0|2
+54|Bidirectional Chart Generation of Natural Language Texts.|Masahiko Haruno,Yasuharu Den,Yuji Matsumoto,Makoto Nagao|12|0|0|4
+55|Communicative Acts for Generating Natural Language Arguments.|Mark T. Maybury|42|0|0|0
+56|Corpus Analysis for Revision-Based Generation of Complex Sentences.|Jacques Robin,Kathleen McKeown|20|0|0|8
+57|Machine Translation of Spatial Expressions: Defining the Relation between an Interlingua and a Knowledge Representation System.|Bonnie J. Dorr,Clare R. Voss|n/a
+58|Having Your Cake and Eating It Too: Autonomy and Interaction in a Model of Sentence Processing.|Kurt P. Eiselt,Kavi Mahesh,Jennifer K. Holbrook|11|1|0|6
+59|Efficient Heuristic Natural Language Parsing.|Christian R. Huyck,Steven L. Lytinen|14|1|0|1
+60|Towards a Reading Coach that Listens: Automated Detection of Oral Reading Errors.|Jack Mostow,Alexander G. Hauptmann,Lin Lawrence Chase,Steven F. Roth|37|15|11|5
+61|Minimal Belief and Negation as Failure: A Feasible Approach.|Antje Beringer,Torsten Schaub|7|0|0|0
+62|A Context-Based Framework for Default Logics.|Philippe Besnard,Torsten Schaub|7|0|0|3
+63|Propositional Logic of Context.|Sasa Buvac,Ian A. Mason|180|45|0|2
+64|Generating Explicit Orderings for Non-monotonic Logics.|James Cussens,Anthony Hunter,Ashwin Srinivasan|12|0|0|9
+65|Reasoning Precisely with Vague Concepts.|Nita Goyal,Yoav Shoham|3|2|0|0
+66|Restricted Monotonicity.|Vladimir Lifschitz|38|1|0|4
+67|Subnormal Modal Logics for Knowledge Representation.|Grigori Schwarz,Miroslaw Truszczynski|7|0|0|2
+68|Algebraic Sematics for Cumulative Inference Operations.|Zbigniew Stachniak|11|1|0|3
+69|Question-based Acquisition of Conceptual Indices for Multimedia Design Documentation.|Catherine Baudin,Smadar Kedar,Jody Gevins Underwood,Vinod Baya|20|0|1|7
+70|Learning Interface Agents.|Pattie Maes,Robyn Kozierok|389|51|14|10
+71|Learning from an Approximate Theory and Noisy Examples.|Somkiat Tangkitvanich,Masamichi Shimura|20|2|0|0
+72|Scientific Model-Building as Search in Matrix Spaces.|Raúl E. Valdés-Pérez,Jan M. Zytkow,Herbert A. Simon|32|4|0|8
+73|An Average Case Analysis of Planning.|Tom Bylander|n/a
+74|Granularity in Multi-Method Planning.|Soowon Lee,Paul S. Rosenbloom|2|0|0|2
+75|Threat-Removal Strategies for Partial-Order Planning.|Mark A. Peot,David E. Smith|81|6|0|5
+76|Postponing Threats in Partial-Order Planning.|David E. Smith,Mark A. Peot|72|6|0|3
+77|Permissive Planning: A Machine Learning Approach to Linking Internal and External Worlds.|Gerald DeJong,Scott Bennett|8|1|0|2
+78|Relative Utility of EBG based Plan Reuse in Partial Ordering vs. Total Ordering Planning.|Subbarao Kambhampati,Jengchin Chen|23|0|0|6
+79|Learning Plan Transformations from Self-Questions: A Memory-Based Approach.|Rüdiger Oehlmann,Derek H. Sleeman,Peter Edwards|11|1|0|3
+80|On the Masking Effect.|Milind Tambe,Paul S. Rosenbloom|n/a
+81|Qualitatively Describing Objects Using Spatial Prepositions.|Alicia Abella,John R. Kender|58|8|0|5
+82|Numeric Reasoning with Relative Orders of Magnitude.|Philippe Dague|63|12|0|3
+83|Efficient Reasoning in Qualitative Probabilistic Networks.|Marek J. Druzdzel,Max Henrion|n/a
+84|Generating Quasi-symbolic Representation of Three-Dimensional Flow.|Toyoaki Nishida|5|0|0|2
+85|Real-Time Self-Explanatory Simulation.|Franz G. Amador,Adam Finkelstein,Daniel S. Weld|34|0|0|2
+86|A Comparison of Action-Based Hierarchies and Decision Trees for Real-Time Performance.|David Ash,Barbara Hayes-Roth|12|0|0|0
+87|Planning With Deadlines in Stochastic Domains.|Thomas L. Dean,Leslie Pack Kaelbling,Jak Kirman,Ann E. Nicholson|268|28|0|12
+88|Task Interdependencies in Design-to-time Real-time Scheduling.|Alan Garvey,Marty Humphrey,Victor R. Lesser|49|0|0|16
+89|Sensible Scenes: Visual Understanding of Complex Structures through Causal Analysis.|Matthew Brand,Lawrence Birnbaum,Paul R. Cooper|31|3|2|7
+90|Intelligent Model Selection for Hillclimbing Search in Computer-Aided Design.|Thomas Ellman,John Eric Keane,Mark Schwabacher|33|4|0|13
+91|Ideal Physical Systems.|Brian Falkenhainer|17|0|0|0
+92|Numerical Behavior Envelopes for Qualitative Models.|Herbert Kay,Benjamin Kuipers|93|15|0|13
+93|A Qualitative Method to Construct Phase Portraits.|Wood W. Lee,Benjamin Kuipers|25|6|0|1
+94|Understanding Linkages.|Howard E. Shrobe|n/a
+95|CFRL: A Language for Specifying the Causal Functionality of Engineered Devices.|Marcos Vescovi,Yumi Iwasaki,Richard Fikes,B. Chandrasekaran|58|8|0|9
+96|Model Simplification by Asymptotic Order of Magnitude Reasoning.|Kenneth Man-kam Yip|33|8|0|0
+97|Abduction As Belief Revision: A Model of Preferred Explanations.|Craig Boutilier,Verónica Becher|19|4|0|4
+98|Revision by Conditional Beliefs.|Craig Boutilier,Moisés Goldszmidt|82|13|0|9
+99|Reasoning about only Knowing with Many Agents.|Joseph Y. Halpern|40|6|0|6
+100|All They Know About.|Gerhard Lakemeyer|23|0|0|5
+101|Towards Knowledge-Level Analysis of Motion Planning.|Ronen I. Brafman,Jean-Claude Latombe,Yoav Shoham|20|3|0|7
+102|EL: A Formal, Yet Natural, Comprehensive Knowledge Representation.|Chung Hee Hwang,Lenhart K. Schubert|6|2|0|2
+103|The Semantics of Event Prevention.|Charles L. Ortiz Jr.|5|0|0|2
+104|The Frame Problem and Knowledge-Producing Actions.|Richard B. Scherl,Hector J. Levesque|350|65|0|40
+105|The Paradoxical Success of Fuzzy Logic.|Charles Elkan|356|81|1|1
+106|Exploring the Structure of Rule Based Systems.|Clifford Grossner,Alun D. Preece,P. Gokul Chander,Thiruvengadam Radhakrishnan,Ching Y. Suen|38|6|0|9
+107|Supporting and Optimizing Full Unification in a Forward Chaining Rule System.|Howard E. Shrobe|2|0|0|0
+108|Comprehensibility Improvement of Tabular Knowledge Bases.|Atsushi Sugiura,Maximilian Riesenhuber,Yoshiyuki Koseki|7|1|0|1
+109|Time-Saving Tips for Problem Solving with Incomplete Information.|Michael R. Genesereth,Illah R. Nourbakhsh|51|6|0|3
+110|Decomposition of Domains Based on the Micro-Structure of Finite Constraint-Satisfaction Problems.|Philippe Jégou|88|45|0|0
+111|Innovative Design as Systematic Search.|Dorothy Neville,Daniel S. Weld|13|1|0|5
+112|Generating Effective Admissible Heuristics by Abstraction and Reconstitution.|Armand Prieditis,Bhaskar Janakiraman|7|0|0|2
+113|Iterative Weakening: Optimal and Near-Optimal Policies for the Selection of Search Bias.|Foster J. Provost|16|1|0|2
+114|Pruning Duplicate Nodes in Depth-First Search.|Larry A. Taylor,Richard E. Korf|91|19|0|11
+115|Conjunctive Width Heuristics for Maximal Constraint Satisfaction.|Richard J. Wallace,Eugene C. Freuder|29|3|0|2
+116|Depth-First vs. Best-First Search: New Results.|Weixiong Zhang,Richard E. Korf|39|10|0|11
+117|Using an Annotated Language Corpus as a Virtual Stochastic Grammar.|Rens Bod|40|4|0|20
+118|Equations for Part-of-Speech Tagging.|Eugene Charniak,Curtis Hendrickson,Neil Jacobson,Mike Perkowitz|269|46|1|3
+119|Estimating Probability Distributions over Hypotheses with Variable Unification.|Dekai Wu|4|2|0|1
+120|A Case-Based Approach to Knowledge Acquisition for Domain-Specific Sentence Analysis.|Claire Cardie|137|12|2|11
+121|KITSS: A Knowledge-Based Translation System for Test Scenarios.|Van E. Kelly,Mark A. Jones|8|1|0|1
+122|Automatically Constructing a Dictionary for Information Extraction Tasks.|Ellen Riloff|568|148|7|28
+123|Learning Semantic Grammars with Constructive Inductive Logic Programming.|John M. Zelle,Raymond J. Mooney|123|13|0|14
+124|Polly: A Vision-Based Artificial Agent.|Ian Horswill|285|50|1|7
+125|Range Estimation From Focus Using a Non-frontal Imaging Camera.|Arun Krishnan,Narendra Ahuja|57|16|1|16
+126|Learning Object Models from Appearance.|Hiroshi Murase,Shree K. Nayar|64|4|0|7
+127|On the Qualitative Structure of Temporally Evolving Visual Motion Fields.|Richard P. Wildes|3|0|0|1
+128|Tiger in a Cage: The Applications of Knowledge-based Systems (1993) - Abstract.|Edward A. Feigenbaum|n/a
+129|Artificial Intelligence as an Experimental Science (Abstract).|Herbert A. Simon|37|3|0|3
+130|A Demonstration of the "Circuit Fix-it Shoppe".|D. Richard Hipp,Ronnie W. Smith|4|0|0|2
+131|Instructo-Soar: Learning from Interactive Natural Language Instructions (Video Abstract).|Scott B. Huffman,John E. Laird|1|1|0|0
+132|Winning the AAAI Robot Competition.|David Kortenkamp,Marcus J. Huber,Charles J. Cohen,Ulrich Raschke,Clint Bidlack,Clare Bates Congdon,Frank Koss,Terry E. Weymouth|5|1|0|0
+133|AIR-SOAR: Intelligent Multi-Level Control.|Douglas J. Pearson,Randolph M. Jones,John E. Laird|0|0|0|0
+134|Selective Perception for Robot Driving.|Douglas A. Reece,Steven A. Shafer|36|2|0|1
+135|Computer Vision Research at the University of Massachusetts.|Edward M. Riseman,Allen R. Hanson,J. Inigo Thomas|0|0|0|0
+136|A Fuzzy Controller for Flakey, the Robot.|Alessandro Saffiotti,Nicolas Helft,Kurt Konolige,John D. Lowrance,Karen L. Myers,Daniela Musto,Enrique H. Ruspini,Leonard P. Wesley|5|0|0|1

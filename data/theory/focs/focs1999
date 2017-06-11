@@ -1,0 +1,69 @@
+68
+1|40th Annual Symposium on Foundations of Computer Science, FOCS '99, 17-18 October, 1999, New York, NY, USA.|n/a
+2|Primal-Dual Approximation Algorithms for Metric Facility Location and k-Median Problems.|Kamal Jain,Vijay V. Vazirani|286|62|0|3
+3|Approximation Algorithms for Classification Problems with Pairwise Relationships: Metric Labeling and Markov Random Fields.|Jon M. Kleinberg,Éva Tardos|389|162|2|3
+4|Approximating Fractional Multicommodity Flow Independent of the Number of Commodities.|Lisa Fleischer|277|103|9|8
+5|Approximation Schemes for Minimizing Average Weighted Completion Time with Release Dates.|Foto N. Afrati,Evripidis Bampis,Chandra Chekuri,David R. Karger,Claire Kenyon,Sanjeev Khanna,Ioannis Milis,Maurice Queyranne,Martin Skutella,Clifford Stein,Maxim Sviridenko|207|61|0|9
+6|A 5/2 n2-Lower Bound for the Rank of n×n Matrix Multiplication over Arbitrary Fields.|Markus Bläser|n/a
+7|Improved Bounds for Sampling Colorings.|Eric Vigoda|136|47|0|10
+8|A Non-linear Time Lower Bound for Boolean Branching Programs.|Miklós Ajtai|95|11|0|1
+9|Derandomizing Arthur-Merlin Games Using Hitting Sets.|Peter Bro Miltersen,N. V. Vinodchandran|67|8|0|3
+10|Fully Dynamic Algorithms for Maintaining All-Pairs Shortest Paths and Transitive Closure in Digraphs.|Valerie King|169|72|0|1
+11|Dynamic Planar Convex Hull Operations in Near-Logarithmic Amortized Time.|Timothy M. Chan|72|16|0|8
+12|Taking a Walk in a Planar Arrangement.|Sariel Har-Peled|45|15|0|11
+13|PSPACE Has Constant-Round Quantum Interactive Proof Systems.|John Watrous|59|34|0|8
+14|Verifiable Random Functions.|Silvio Micali,Michael O. Rabin,Salil P. Vadhan|172|92|2|3
+15|How Asymmetry Helps Load Balancing.|Berthold Vöcking|218|106|0|0
+16|Noncryptographic Selection Protocols.|Uriel Feige|76|39|0|0
+17|A Sublinear Time Approximation Scheme for Clustering in Metric Spaces.|Piotr Indyk|109|22|0|3
+18|Efficient Regular Data Structures and Algorithms for Location and Proximity Problems.|Arnon Amir,Alon Efrat,Piotr Indyk,Hanan Samet|29|8|0|0
+19|Approximate Nearest Neighbor Algorithms for Hausdorff Metrics via Embeddings.|Martin Farach-Colton,Piotr Indyk|33|6|0|8
+20|Near-Optimal Conversion of Hardness into Pseudo-Randomness.|Russell Impagliazzo,Ronen Shaltiel,Avi Wigderson|50|3|0|18
+21|Error Reduction for Extractors.|Ran Raz,Omer Reingold,Salil P. Vadhan|41|7|0|10
+22|Primality and Identity Testing via Chinese Remaindering.|Manindra Agrawal,Somenath Biswas|139|72|0|7
+23|On Counting Independent Sets in Sparse Graphs.|Martin E. Dyer,Alan M. Frieze,Mark Jerrum|142|68|0|14
+24|Torpid Mixing of Some Monte Carlo Markov Chain Algorithms in Statistical Physics.|Christian Borgs,Jennifer T. Chayes,Alan M. Frieze,Jeong Han Kim,Prasad Tetali,Eric Vigoda,Van H. Vu|79|45|1|1
+25|Random Walks on Truncated Cubes and Sampling 0-1 Knapsack Solutions.|Ben Morris,Alistair Sinclair|77|35|0|0
+26|Markovian Coupling vs. Conductance for the Jerrum-Sinclair Chain.|V. S. Anil Kumar,H. Ramesh|5|2|0|1
+27|A Near-Tight Lower Bound on the Time Complexity of Distributed MST Construction.|David Peleg,Vitaly Rubinovich|31|14|0|2
+28|ong-lived Adaptive Collect with Applications.|Yehuda Afek,Gideon Stupp,Dan Touitou|n/a
+29|A Theoretical Framework for Memory-Adaptive Algorithms.|Rakesh D. Barve,Jeffrey Scott Vitter|19|4|0|3
+30|Cache-Oblivious Algorithms.|Matteo Frigo,Charles E. Leiserson,Harald Prokop,Sridhar Ramachandran|856|411|1|18
+31|The Directed Steiner Network Problem is Tractable for a Constant Number of Terminals.|Jon Feldman,Matthias Ruhl|33|8|0|1
+32|Setting Parameters by Example.|David Eppstein|38|9|0|6
+33|Finding Double Euler Trails of Planar Graphs in Linear Time.|Zhi-Zhong Chen,Xin He,Chun-Hsi Huang|8|2|0|2
+34|Edge-Disjoint Routing in Plane Switch Graphs in Linear Time.|Karsten Weihe|8|2|0|1
+35|On Quantum and Classical Space-bounded Processes with Algebraic Transition Amplitudes.|John Watrous|19|1|0|0
+36|A Better Lower Bound for Quantum Algorithms Searching an Ordered List.|Andris Ambainis|41|5|0|4
+37|Bounds for Small-Error and Zero-Error Quantum Algorithms.|Harry Buhrman,Richard Cleve,Ronald de Wolf,Christof Zalka|111|34|0|8
+38|Optimal Lower Bounds for Quantum Automata and Random Access Codes.|Ashwin Nayak|218|87|0|13
+39|Improved Combinatorial Algorithms for the Facility Location and k-Median Problems.|Moses Charikar,Sudipto Guha|458|128|1|20
+40|Lovász's Lemma for the Three-Dimensional K-Level of Concave Surfaces and its Applications.|Naoki Katoh,Takeshi Tokuyama|7|0|0|1
+41|Cuts, Trees and l1-Embeddings of Graphs.|Anupam Gupta,Ilan Newman,Yuri Rabinovich,Alistair Sinclair|143|53|0|21
+42|A Probabilistic Algorithm for k-SAT and Constraint Satisfaction Problems.|Uwe Schöning|383|141|0|0
+43|Random CNF's are Hard for the Polynomial Calculus.|Eli Ben-Sasson,Russell Impagliazzo|49|14|0|10
+44|A Study of Proof Search Algorithms for Resolution and Polynomial Calculus.|Maria Luisa Bonet,Nicola Galesi|67|12|0|9
+45|Online Scheduling to Minimize Average Stretch.|S. Muthukrishnan,Rajmohan Rajaraman,Anthony Shaheen,Johannes Gehrke|106|22|0|2
+46|Weak Adversaries for the k-Server Problem.|Elias Koutsoupias|23|8|0|3
+47|Finely-Competitive Paging.|Avrim Blum,Carl Burch,Adam Kalai|44|21|0|2
+48|On the Complexity of SAT.|Richard J. Lipton,Anastasios Viglas|42|8|0|3
+49|Hardness of Approximating Sigma2p Minimization Problems.|Christopher Umans|n/a
+50|Hardness of Approximating the Minimum Distance of a Linear Code.|Ilya Dumer,Daniele Micciancio,Madhu Sudan|125|49|5|12
+51|On Universal and Fault-Tolerant Quantum Computing: A Novel Basis and a New Constructive Proof of Universality for Shor's Basis.|P. Oscar Boykin,Tal Mor,Matthew Pulver,Vwani P. Roychowdhury,Farrokh Vatan|131|47|1|5
+52|Satisfiability of Word Equations with Constants is in PSPACE.|Wojciech Plandowski|104|22|1|8
+53|An Approximate L1-Difference Algorithm for Massive Data Streams.|Joan Feigenbaum,Sampath Kannan,Martin Strauss,Mahesh Viswanathan|287|69|3|17
+54|Algorithmic Aspects of Protein Structure Similarity.|Deborah Goldman,Sorin Istrail,Christos H. Papadimitriou|172|53|0|0
+55|Magic Functions.|Cynthia Dwork,Moni Naor,Omer Reingold,Larry J. Stockmeyer|n/a
+56|Limits on the Efficiency of One-Way Permutation-Based Hash Functions.|Jeong Han Kim,Daniel R. Simon,Prasad Tetali|66|26|1|0
+57|Non-Malleable Non-Interactive Zero Knowledge and Adaptive Chosen-Ciphertext Security.|Amit Sahai|443|209|0|24
+58|Non-Interactive CryptoComputing For NC1.|Tomas Sander,Adam L. Young,Moti Yung|n/a
+59|Fairness in Routing and Load Balancing.|Jon M. Kleinberg,Yuval Rabani,Éva Tardos|218|95|2|2
+60|Stochastic Load Balancing and Related Problems.|Ashish Goel,Piotr Indyk|127|78|0|4
+61|Reducing Network Congestion and Blocking Probability Through Balanced Allocation.|Malwina J. Luczak,Eli Upfal|19|7|3|3
+62|Finding Maximal Repetitions in a Word in Linear Time.|Roman M. Kolpakov,Gregory Kucherov|241|137|0|11
+63|All Pairs Shortest Paths in Undirected Graphs with Integer Weights.|Avi Shoshan,Uri Zwick|99|41|0|12
+64|An Algorithmic Theory of Learning: Robust Concepts and Random Projection.|Rosa I. Arriaga,Santosh Vempala|193|78|2|7
+65|Boosting and Hard-Core Sets.|Adam Klivans,Rocco A. Servedio|53|15|0|11
+66|Learning Mixtures of Gaussians.|Sanjoy Dasgupta|466|243|0|9
+67|Regular Languages Are Testable with a Constant Number of Queries.|Noga Alon,Michael Krivelevich,Ilan Newman,Mario Szegedy|130|43|0|23
+68|Efficient Testing of Large Graphs.|Noga Alon,Eldar Fischer,Michael Krivelevich,Mario Szegedy|284|122|0|61

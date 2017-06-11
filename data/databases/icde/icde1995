@@ -1,0 +1,69 @@
+68
+1|Proceedings of the Eleventh International Conference on Data Engineering, March 6-10, 1995, Taipei, Taiwan.|Philip S. Yu,Arbee L. P. Chen|n/a
+2|Mining Sequential Patterns.|Rakesh Agrawal,Ramakrishnan Srikant|5907|2450|74|11
+3|The Design and Experimental Evaluation of an Information Discovery Mechanism for Networks of Autonomous Database Systems.|Dennis McLeod,Antonio Si|19|2|0|1
+4|Set-Oriented Mining for Association Rules in Relational Databases.|Maurice A. W. Houtsma,Arun N. Swami|568|150|18|1
+5|A High Performance Configurable Storage Manager.|Alexandros Biliris,Euthimios Panagos|36|4|0|5
+6|A Performance Evaluation of Load Balancing Techniques for Join Operations on Multicomputer Database Systems.|Kien A. Hua,Wallapak Tavanapong,Honesty C. Young|18|2|1|1
+7|A Trace-Based Simulation of Pointer Swizzling Techniques.|Mark L. McAuliffe,Marvin H. Solomon|16|1|1|0
+8|Enterprise Workflow Architecture.|Weimin Du,Steve Peterson,Ming-Chien Shan|10|2|2|2
+9|Toward Scalability and Interoperability of Heterogeneous Information Sources.|Son Dao|0|0|0|0
+10|The Design and Implementation of a Full-Fledged Multiple DBMS.|Shu-Chin Su Chen,Chih-Shing Yu,Yen-Yao Yao,San-Yih Hwang,B. Paul Lin|1|0|1|0
+11|Semantic Query Optimization for Methods in Object-Oriented Database Systems.|Karl Aberer,Gisela Fischer|60|5|1|17
+12|The AQUA Approach to Querying Lists and Trees in Object-Oriented Databases.|Bharathi Subramanian,Theodore W. Leung,Scott L. Vandenberg,Stanley B. Zdonik|51|5|1|0
+13|Translation of Object-Oriented Queries to Relational Queries.|Clement T. Yu,Yi Zhang,Weiyi Meng,Won Kim,Gaoming Wang,Tracy Pham,Son Dao|29|6|0|4
+14|Active Database Management of Global Data Integrity Constraints in Heterogeneous Database Environments.|Lyman Do,Pamela Drew|28|6|1|5
+15|A Transaction Transformation Approach to Active Rule Processing.|Danilo Montesi,Riccardo Torlone|20|2|0|7
+16|Building an Integrated Active OODBMS: Requirements, Architecture, and Design Decisions.|Alejandro P. Buchmann,Jürgen Zimmermann,José A. Blakeley,David L. Wells|155|6|0|16
+17|Efficient Processing of Nested Fuzzy SQL Queries.|Qi Yang,Chengwen Liu,Jing Wu,Clement T. Yu,Son Dao,Hiroshi Nakajima|15|0|0|2
+18|Context-Dependent Interpretations of Linguistic Terms in Fuzzy Relational Databases.|Weining Zhang,Clement T. Yu,Bryan Reagan,Hiroshi Nakajima|25|7|0|5
+19|Efficient Processing of Proximity Queries for Large Databases.|Walid G. Aref,Daniel Barbará,Stephen Johnson,Sharad Mehrotra|29|5|0|3
+20|Axiomatization of Dynamic Schema Evolution in Objectbases.|Randal J. Peters,M. Tamer Özsu|26|1|1|1
+21|A Transparent Object-Oriented Schema Change Approach Using View Evolution.|Young-Gook Ra,Elke A. Rundensteiner|86|4|0|22
+22|A Common Framework for Classifying and Specifying Deductive Database Updating Problems.|Ernest Teniente,Toni Urpí|19|3|0|11
+23|Navigation Server: A Highly Parallel DBMS on Open Systems.|Ron-Chung Hu,Rick Stellwagen|3|0|1|0
+24|Scalable Parallel Query Server for Decision Support Applications.|Jen-Yao Chung|0|0|0|0
+25|Optimizing Queries with Materialized Views.|Surajit Chaudhuri,Ravi Krishnamurthy,Spyros Potamianos,Kyuseok Shim|544|92|25|8
+26|Praire: A Rule Specification Framework for Query Optimizers.|Dinesh Das,Don S. Batory|19|2|0|6
+27|Pushing Semantics Inside Recursion: A General Framework for Semantic Optimization of Recursive Queries.|Laks V. S. Lakshmanan,Rokia Missaoui|11|0|0|0
+28|Computing Temporal Aggregates.|Nick Kline,Richard T. Snodgrass|89|17|0|6
+29|SEQ: A Model for Sequence Databases.|Praveen Seshadri,Miron Livny,Raghu Ramakrishnan|147|28|3|5
+30|A Version Numbering Scheme with a Useful Lexicographical Order.|Arthur M. Keller,Jeffrey D. Ullman|19|2|0|1
+31|Object Exchange Across Heterogeneous Information Sources.|Yannis Papakonstantinou,Hector Garcia-Molina,Jennifer Widom|1157|129|8|51
+32|A Universal Relation Approach to Federated Database Management.|J. Leon Zhao,Arie Segev,Abhirup Chatterjee|22|1|0|1
+33|Query Interoperation Among Object-Oriented and Relational Databases.|Xiaolei Qian,Louiqa Raschid|40|4|9|4
+34|Design, Implementation and Evaluation of SCORE (a System for COntent based REtrieval of Pictures).|Y. Alp Aslandogan,Chuck Thier,Clement T. Yu,Chengwen Liu,Krishnakumar R. Nair|71|7|0|4
+35|RBE: Rendering By Example.|Ravi Krishnamurthy,Moshé M. Zloof|19|2|0|3
+36|Improving SQL with Generalized Quantifiers.|Ping-Yu Hsu,Douglas Stott Parker Jr.|51|13|0|0
+37|Transactions in the Client-Server EOS Object Store.|Alexandros Biliris,Euthimios Panagos|3|0|2|0
+38|Locking in OODBMS Client Supported Nestd Transactions.|Laurent Daynès,Olivier Gruber,Patrick Valduriez|n/a
+39|Disk Read-Write Optimizations and Data Integrity in Transaction Systems Using Write-Ahead Logging.|C. Mohan|37|14|12|3
+40|Deputy Mechanisms for Object-Oriented Databases.|Zhiyong Peng,Yahiko Kambayashi|80|16|0|37
+41|ECA Rule Integration into an OODBMS: Architecture and Implementation.|Sharma Chakravarthy,V. Krishnaprasad,Z. Tamizuddin,R. H. Badani|91|10|1|24
+42|Infobusiness Issues in ROC.|Lung-Lung Liu|0|0|0|0
+43|Singapore NII : Building the Electronic Universe.|Michael Yap|1|0|0|0
+44|Practical Issues for RDBMS Application Development.|Kwo-Jean Farn,Shin-Ling Hu|2|1|0|0
+45|The Impact of Data Placement on Memory Management for Multi-Server OODBMS.|Shivakumar Venkataraman,Miron Livny,Jeffrey F. Naughton|15|2|1|1
+46|A Heuristic Information Retrieval Model on a Massively Parallel Processor.|Inien Syu,Sheau-Dong Lang,Kien A. Hua|0|0|0|0
+47|A Similarity Graph-Based Approach to Declustering Problems and Its Application towards Paralleling Grid Files.|Duen-Ren Liu,Shashi Shekhar|49|3|0|15
+48|Record Subtyping in Flexible Relations by Means of Attribute Dependencies.|Christian Kalus,Peter Dadam|2|1|1|1
+49|Modeling Scientific Experiments with an Object Data Model.|I-Min A. Chen,Victor M. Markowitz|26|5|0|3
+50|An Object-Oriented Conceptual Modeling of Video Data.|Young Francis Day,Serhan Dagtas,Mitsutoshi Iino,Ashfaq A. Khokhar,Arif Ghafoor|135|10|4|5
+51|CCAM: A Connectivity-Clustered Access Method for Aggregate Queries on Transportation Networks: A Summary of Results.|Shashi Shekhar,Duen-Ren Liu|30|6|0|14
+52|Generalized Partial Indexes.|Praveen Seshadri,Arun N. Swami|59|25|2|1
+53|Two-Level Caching of Composite Object Views of Relational Databases.|Catherine Hamon,Arthur M. Keller|9|1|0|4
+54|Buffer Management for Video Database Systems.|Doron Rotem,J. Leon Zhao|60|1|1|0
+55|A Cost-effective Near-line Storage Server for Multimedia System.|Siu-Wah Lau,John C. S. Lui,P. C. Wong|31|0|0|4
+56|Design of Multimedia Storage Systems for On-Demand Playback.|Yen-Jen Oyang,Meng-Huang Lee,Chun-Hung Wen,Chih-Yuan Cheng|40|1|0|15
+57|Bottom-Up Evaluation of Logic Programs Using Binary Decision Diagrams.|Mizuho Iwaihara,Yusaku Inoue|17|5|1|3
+58|A New Recursive Subclass of Domain Independent Formulas Based on Subimplication.|Joonyeoub Sung,Lawrence J. Henschen|0|0|0|0
+59|Ternary Relationship Decomposition Strategies Based on Binary Imposition Rules.|Il-Yeol Song,Trevor H. Jones|5|0|0|0
+60|Flexible Relation: An Approach for Integrating Data from Multiple, Possibly Inconsistent Databases.|Shailesh Agarwal,Arthur M. Keller,Gio Wiederhold,Krishna Saraswat|109|18|0|6
+61|A Structure Based Schema Integration Methodology.|Manuel García-Solaco,Fèlix Saltor,Malú Castellanos|57|8|0|0
+62|A Uniform Framework for Integrating Knowledge in Heterogeneous Knowledge Systems.|Sibel Adali,Ross Emery|66|10|0|2
+63|Sampling-Based Selectivity Estimation for Joins Using Augmented Frequent Value Statistics.|Peter J. Haas,Arun N. Swami|54|8|6|3
+64|An Evaluation of Sampling-Based Size Estimation Methods for Selections in Database Systems.|Yibei Ling,Wei Sun|28|0|4|1
+65|Relational Database Compression Using Augmented Vector Quantization.|Wee Keong Ng,Chinya V. Ravishankar|50|8|5|3
+66|OCAM: A Collaborative System for Multimedia Applications.|Hassan Mountassir,S. Serre|0|0|0|0
+67|An Industrial Perspective of Software Architecture.|Christine Hofmeister,Robert L. Nord,Dilip Soni|2|0|0|0
+68|An International Masters in Software Engineering: Experience and Prospects.|Alberto Apostolico,Gianfranco Bilardi,Franco Bombi,Richard A. DeMillo|0|0|0|0

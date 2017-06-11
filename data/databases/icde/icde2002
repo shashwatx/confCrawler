@@ -1,0 +1,99 @@
+98
+1|Proceedings of the 18th International Conference on Data Engineering, San Jose, CA, USA, February 26 - March 1, 2002.|Rakesh Agrawal,Klaus R. Dittrich|n/a
+2|HP-Inventing the Future of Storage.|Nora Denzel|0|0|0|0
+3|DBXplorer: A System for Keyword-Based Search over Relational Databases.|Sanjay Agrawal,Surajit Chaudhuri,Gautam Das|845|485|19|12
+4|TAILOR: A Record Linkage Tool Box.|Mohamed G. Elfeky,Ahmed K. Elmagarmid,Vassilios S. Verykios|270|126|14|9
+5|Providing Database as a Service.|Hakan Hacigümüs,Sharad Mehrotra,Balakrishna R. Iyer|637|415|16|21
+6|Detecting Changes in XML Documents.|Gregory Cobena,Serge Abiteboul,Amélie Marian|563|184|8|9
+7|Reverse Engineering for Web Data: From Visual to Semantic Structure.|Christina Yip Chung,Michael Gertz,Neel Sundaresan|70|12|2|0
+8|From XML Schema to Relations: A Cost-Based Approach to XML Storage.|Philip Bohannon,Juliana Freire,Prasan Roy,Jérôme Siméon|444|110|22|4
+9|Sequenced Subset Operators: Definition and Implementation.|Joseph Dunn,Sean Davey,Anne Descour,Richard T. Snodgrass|14|9|0|0
+10|Exploring Spatial Datasets with Histograms.|Chengyu Sun,Divyakant Agrawal,Amr El Abbadi|n/a
+11|Efficient Temporal Join Processing Using Indices.|Donghui Zhang,Vassilis J. Tsotras,Bernhard Seeger|49|14|0|2
+12|Similarity Flooding: A Versatile Graph Matching Algorithm and Its Application to Schema Matching.|Sergey Melnik,Hector Garcia-Molina,Erhard Rahm|1516|717|6|12
+13|Exploiting Local Similarity for Indexing Paths in Graph-Structured Data.|Raghav Kaushik,Pradeep Shenoy,Philip Bohannon,Ehud Gudes|397|125|0|2
+14|Structural Joins: A Primitive for Efficient XML Query Pattern Matching.|Shurug Al-Khalifa,H. V. Jagadish,Jignesh M. Patel,Yuqing Wu,Nick Koudas,Divesh Srivastava|1120|323|29|12
+15|Condensed Cube: An Efficient Approach to Reducing Data Cube Size.|Wei Wang,Hongjun Lu,Jianlin Feng,Jeffrey Xu Yu|201|52|0|4
+16|Indexing Spatio-Temporal Data Warehouses.|Dimitris Papadias,Yufei Tao,Panos Kalnis,Jun Zhang|166|50|1|10
+17|Processing Reporting Function Views in a Data Warehouse Environment.|Wolfgang Lehner,Wolfgang Hümmer,Lutz Schlesinger|3|2|0|1
+18|P2P Information Systems.|Karl Aberer,Manfred Hauswirth|n/a
+19|Cost Models for Overlapping and Multi-Version B-Trees.|Yufei Tao,Dimitris Papadias,Jun Zhang|n/a
+20|GADT: A Probability Space ADT for Representing and Querying the Physical World.|Anton Faradjian,Johannes Gehrke,Philippe Bonnet|97|39|0|2
+21|Similarity Search Over Time-Series Data Using Wavelets.|Ivan Popivanov,Renée J. Miller|259|101|0|0
+22|XGRIND: A Query-Friendly XML Compressor.|Pankaj M. Tolani,Jayant R. Haritsa|333|109|9|1
+23|Efficient Filtering of XML Documents with XPath Expressions.|Chee Yong Chan,Pascal Felber,Minos N. Garofalakis,Rajeev Rastogi|515|114|20|19
+24|Mixing Querying and Navigation in MIX.|Pratik Mukhopadhyay,Yannis Papakonstantinou|21|4|2|1
+25|An Intuitive Framework for Understanding Changes in Evolving Data Streams.|Charu C. Aggarwal|20|2|0|6
+26|Efficient OLAP Query Processing in Distributed Data Warehouse.|Michael O. Akinde,Michael H. Böhlen,Theodore Johnson,Laks V. S. Lakshmanan,Divesh Srivastava|55|33|0|0
+27|FAST: A New Sampling-Based Algorithm for Discovering Association Rules.|Bin Chen,Peter J. Haas,Peter Scheuermann|3|0|0|0
+28|A Graphical XML Query Language.|Sergio Flesca,Filippo Furfaro,Sergio Greco|0|0|0|0
+29|Out From Under the Trees.|Chris Jermaine,Edward Omiecinski,Wai Gen Yee|n/a
+30|An Efficient Index Structure for Shift and Scale Invariant Search of Multi-Attribute Time Sequences.|Tamer Kahveci,Ambuj K. Singh,Aliekber Gürel|7|1|0|0
+31|NeT & CoT: Inferring XML Schemas from Relational World.|Dongwon Lee,Murali Mani,Frank Chiu,Wesley W. Chu|3|1|0|0
+32|Multivariate Time Series Prediction via Temporal Classification.|Bing Liu,Jing Liu|10|5|0|0
+33|Data Cleaning and XML: The DBLP Experience.|Wai Lup Low,Wee Hyong Tok,Mong-Li Lee,Tok Wang Ling|8|0|0|0
+34|Using Smodels (Declarative Logic Programming) to Verify Correctness of Certain Active Rules.|Mutsumi Nakamura,Ramez Elmasri|0|0|0|0
+35|Attribute Classification Using Feature Analysis.|Felix Naumann,Ching-Tien Ho,Xuqing Tian,Laura M. Haas,Nimrod Megiddo|52|21|0|7
+36|BestPeer: A Self-Configurable Peer-to-Peer System.|Wee Siong Ng,Beng Chin Ooi,Kian-Lee Tan|127|27|2|31
+37|Efficient Algorithm for Projected Clustering.|Eric Ka Ka Ng,Ada Wai-Chee Fu|6|2|0|1
+38|Multiple Query Optimization by Cache-Aware Middleware Using Query Teamwork.|Kevin O'Gorman,Divyakant Agrawal,Amr El Abbadi|25|10|1|0
+39|Runtime Data Declustering over SAN-Connected PC Cluster System.|Masato Oguchi,Masaru Kitsuregawa|3|0|0|1
+40|How Good Are Association-Rule Mining Algorithms?|Vikram Pudi,Jayant R. Haritsa|6|0|0|2
+41|Extensible and Similarity-Based Grouping for Data Integratio.|Eike Schallehn,Kai-Uwe Sattler,Gunter Saake|48|30|32|2
+42|Specification-Based Data Reduction in Dimensional Data Warehouses.|Janne Skyt,Christian S. Jensen,Torben Bach Pedersen|23|19|0|6
+43|Exploiting Punctuation Semantics in Data Streams.|Peter A. Tucker,David Maier|8|5|0|0
+44|The ATLaS System and Its Powerful Database Language Based on Simple Extensions of SQL.|Haixun Wang,Carlo Zaniolo|1|0|1|0
+45|A Framework Towards Efficient and Effective Sequence Clusterin.|Wei Wang,Jiong Yang|0|0|0|0
+46|The Evolution of eBusiness Integration-from Data to Proces.|Dale Skeen|0|0|0|0
+47|Integrating Workflow Management Systems with Business-to-Business Interaction Standard.|Mehmet Sayal,Fabio Casati,Umeshwar Dayal,Ming-Chien Shan|73|7|3|0
+48|Declarative Composition and Peer-to-Peer Provisioning of Dynamic Web Services.|Boualem Benatallah,Quan Z. Sheng,Anne H. H. Ngu,Marlon Dumas|533|153|5|28
+49|A Publish & Subscribe Architecture for Distributed Metadata Management.|Markus Keidl,Alexander Kreutz,Alfons Kemper,Donald Kossmann|45|7|4|5
+50|Techniques for Storing XM.|Mary F. Fernández,Sihem Amer-Yahia|n/a
+51|Predator-Miner: Ad hoc Mining of Associations Rules within a Database Management System.|Wee Hyong Tok,Twee-Hee Ong,Wai Lup Low,Indriyati Atmosukarto,Stéphane Bressan|2|1|0|0
+52|Using Unity to Semi-Automatically Integrate Relational Schema.|Ramon Lawrence,Ken Barker|5|0|0|2
+53|SG-WRAP: A Schema-Guided Wrapper Generato.|Xiaofeng Meng,Hongjun Lu,Haiyan Wang,Mingzhe Gu|33|9|0|5
+54|Demonstration: Active Asynchronous Transaction Management in High-Autonomy Federated Environment Using Data Agents: Global Change Master Directory v8.0.|Omran A. Bukhres,Srinivasan Sikkupparbathyam,Kishan Nagendra,Zina Ben-Miled,Marcelo Areal,Lola Olsen,Chris Gokey,David Kendig,Rosy Cordova,Gene Major,Janine Savage|0|0|0|0
+55|XParent: An Efficient RDBMS-Based XML Database System.|Haifeng Jiang,Hongjun Lu,Wei Wang,Jeffrey Xu Yu|98|24|1|3
+56|The BINGO! Focused Crawler: From Bookmarks to Archetypes.|Sergej Sizov,Stefan Siersdorfer,Martin Theobald,Gerhard Weikum|11|3|0|2
+57|An Authorization System for Temporal Data.|Avigdor Gal,Vijayalakshmi Atluri,Gang Xu|1|0|0|0
+58|YFilter: Efficient and Scalable Filtering of XML Documents.|Yanlei Diao,Peter M. Fischer,Michael J. Franklin,Raymond To|325|105|21|6
+59|Design and Evaluation of Alternative Selection Placement Strategies in Optimizing Continuous Queries.|Jianjun Chen,David J. DeWitt,Jeffrey F. Naughton|117|26|1|2
+60|Design and Implementation of a High-Performance Distributed Web Crawler.|Vladislav Shkapenyuk,Torsten Suel|379|188|16|13
+61|Evaluating Top-k Queries over Web-Accessible Databases.|Nicolas Bruno,Luis Gravano,Amélie Marian|338|122|3|6
+62|Exploring Aggregate Effect with Weighted Transcoding Graphs for Efficient Cache Replacement in Transcoding Proxies.|Cheng-Yue Chang,Ming-Syan Chen|31|5|0|4
+63|Efficiently Ordering Query Plans for Data Integration.|AnHai Doan,Alon Y. Halevy|57|16|0|0
+64|Active XQuery.|Angela Bonifati,Daniele Braga,Alessandro Campi,Stefano Ceri|95|9|0|0
+65|A Fast Regular Expression Indexing Engine.|Junghoo Cho,Sridhar Rajagopalan|73|36|5|0
+66|Keyword Searching and Browsing in Databases using BANKS.|Gaurav Bhalotia,Arvind Hulgeri,Charuta Nakhe,Soumen Chakrabarti,S. Sudarshan|940|572|17|2
+67|Geometric-Similarity Retrieval in Large Image Bases.|Ioannis Fudos,Leonidas Palios,Evaggelia Pitoura|5|2|0|0
+68|Efficient Indexing Structures for Mining Frequent Patterns.|Bin Lan,Beng Chin Ooi,Kian-Lee Tan|12|4|0|0
+69|Indexing of Moving Objects for Location-Based Services.|Simonas Saltenis,Christian S. Jensen|254|59|1|20
+70|SCADDAR: An Efficient Randomized Technique to Reorganize Continuous Media Blocks.|Ashish Goel,Cyrus Shahabi,Shu-Yuen Didi Yao,Roger Zimmermann|61|22|2|8
+71|Database Replication for the Mobile Era.|Antoni Wolski|4|0|0|0
+72|Advanced Process-Based Component Integration in Telcordia's Cable OSS.|Anne H. H. Ngu,Dimitrios Georgakopoulos,Donald Baker,Andrzej Cichocki,Joseph Desmarais,Peter Bates|6|2|2|1
+73|OntoWebber: A Novel Approach for Managing Data on the We.|Yuhui Jin,Sichun Xu,Stefan Decker,Gio Wiederhold|14|0|0|0
+74|A Distributed Database Server for Continuous Media.|Walid G. Aref,Ann Christine Catlin,Ahmed K. Elmagarmid,Jianping Fan,J. Guo,Moustafa A. Hammad,Ihab F. Ilyas,Mirette S. Marzouk,Sunil Prabhakar,Abdelmounaam Rezgui,S. Teoh,Evimaria Terzi,Yi-Cheng Tu,Athena Vakali,Xingquan Zhu|9|0|0|4
+75|Managing Complex and Varied Data with the IndexFabric(tm).|Neal Sample,Brian F. Cooper,Michael J. Franklin,Gísli R. Hjaltason,Moshe Shadmon,Levy Cohe|3|2|0|0
+76|Content-Based Video Indexing for the Support of Digital Library Search.|Milan Petkovic,Roelof van Zwol,Henk Ernst Blok,Willem Jonker,Peter M. G. Apers,Menzo Windhouwer,Martin L. Kersten|16|1|0|3
+77|NAPA: Nearest Available Parking Lot Application.|Hae Don Chon,Divyakant Agrawal,Amr El Abbadi|16|4|0|1
+78|Mapping XML and Relational Schemas with Clio.|Mauricio A. Hernández,Lucian Popa,Yannis Velegrakis,Renée J. Miller,Felix Naumann,Ching-Tien Ho|77|24|5|7
+79|StreamCorder: Fast Trial-and-Error Analysis in Scientific Databases.|Etzard Stolte,Gustavo Alonso|2|0|2|0
+80|Peer-to-Peer Data Management.|Hector Garcia-Molina|n/a
+81|Data Mining Meets Performance Evaluation: Fast Algorithms for Modeling Bursty Traffic.|Mengzhi Wang,Ngai Hang Chan,Spiros Papadimitriou,Christos Faloutsos,Tara M. Madhyastha|192|83|1|4
+82|delta-Clusters: Capturing Subspace Correlation in a Large Data Set.|Jiong Yang,Wei Wang,Haixun Wang,Philip S. Yu|326|137|1|16
+83|Efficient Evaluation of Queries with Mining Predicates.|Surajit Chaudhuri,Vivek R. Narasayya,Sunita Sarawagi|33|8|0|1
+84|Recovery Guarantees for General Multi-Tier Applications.|Roger S. Barga,David B. Lomet,Gerhard Weikum|50|8|5|11
+85|Fjording the Stream: An Architecture for Queries Over Streaming Sensor Data.|Samuel Madden,Michael J. Franklin|625|137|4|16
+86|Approximating a Data Stream for Querying and Estimation: Algorithms and Performance Evaluation.|Sudipto Guha,Nick Koudas|137|22|0|8
+87|OSSM: A Segmentation Approach to Optimize Frequency Counting.|Carson Kai-Sang Leung,Raymond T. Ng,Heikki Mannila|22|5|1|12
+88|Towards Meaningful High-Dimensional Nearest Neighbor Search by Human-Computer Interaction.|Charu C. Aggarwal|39|21|0|3
+89|Fast Mining of Massive Tabular Data via Approximate Distance Computations.|Graham Cormode,Piotr Indyk,Nick Koudas,S. Muthukrishnan|40|11|1|13
+90|A Sampling-Based Estimator for Top-k Query.|Chung-Min Chen,Yibei Ling|63|20|2|0
+91|Improving Range Query Estimation on Histograms.|Francesco Buccafurri,Domenico Rosaci,Luigi Pontieri,Domenico Saccà|31|5|0|10
+92|Query Estimation by Adaptive Sampling.|Yi-Leh Wu,Divyakant Agrawal,Amr El Abbadi|25|9|3|1
+93|Lossy Reduction for Very High Dimensional Data.|Chris Jermaine,Edward Omiecinski|3|0|0|0
+94|Discovering Similar Multidimensional Trajectories.|Michail Vlachos,Dimitrios Gunopulos,George Kollios|938|568|6|12
+95|Streaming-Data Algorithms for High-Quality Clustering.|Liadan O'Callaghan,Adam Meyerson,Rajeev Motwani,Nina Mishra,Sudipto Guha|564|276|10|5
+96|A Non-Blocking Parallel Spatial Join Algorithm.|Gang Luo,Jeffrey F. Naughton,Curt J. Ellmann|46|19|1|0
+97|Data Reduction by Partial Preaggregation.|Per-Åke Larson|37|14|1|0
+98|Decoupled Query Optimization for Federated Database Systems.|Amol Deshpande,Joseph M. Hellerstein|41|18|1|3

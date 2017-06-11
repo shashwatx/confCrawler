@@ -1,0 +1,60 @@
+59
+1|20th IEEE International Symposium on High Performance Computer Architecture, HPCA 2014, Orlando, FL, USA, February 15-19, 2014.|n/a
+2|Locality-aware data replication in the Last-Level Cache.|George Kurian,Srinivas Devadas,Omer Khan|10|9|0|1
+3|Adaptive placement and migration policy for an STT-RAM-based hybrid cache.|Zhe Wang,Daniel A. Jiménez,Cong Xu,Guangyu Sun,Yuan Xie|16|16|0|2
+4|DASCA: Dead Write Prediction Assisted STT-RAM Cache Architecture.|Junwhan Ahn,Sungjoo Yoo,Kiyoung Choi|9|8|0|1
+5|A detailed GPU cache model based on reuse distance theory.|Cedric Nugteren,Gert-Jan van den Braak,Henk Corporaal,Henri E. Bal|19|17|0|4
+6|Precision-aware soft error protection for GPUs.|David J. Palframan,Nam Sung Kim,Mikko H. Lipasti|4|3|0|0
+7|Understanding the impact of gate-level physical reliability effects on whole program execution.|Raghuraman Balasubramanian,Karthikeyan Sankaralingam|5|5|0|1
+8|Accordion: Toward soft Near-Threshold Voltage Computing.|Ulya R. Karpuzcu,Ismail Akturk,Nam Sung Kim|8|8|0|3
+9|Mosaic: Exploiting the spatial locality of process variation to reduce refresh energy in on-chip eDRAM modules.|Aditya Agrawal,Amin Ansari,Josep Torrellas|18|12|0|4
+10|Low-overhead and high coverage run-time race detection through selective meta-data management.|Ruirui C. Huang,Erik Halberg,Andrew Ferraiuolo,G. Edward Suh|1|1|0|0
+11|FADE: A programmable filtering accelerator for instruction-grain monitoring.|Sotiria Fytraki,Evangelos Vlachos,Yusuf Onur Koçberber,Babak Falsafi,Boris Grot|4|4|0|1
+12|Dynamically detecting and tolerating IF-Condition Data Races.|Shanxiang Qi,Abdullah Muzahid,Wonsun Ahn,Josep Torrellas|10|9|0|0
+13|Exploiting thermal energy storage to reduce data center capital and operating expenses.|Wenli Zheng,Kai Ma,Xiaorui Wang|13|12|0|5
+14|Implications of high energy proportional servers on cluster-wide energy proportionality.|Daniel Wong,Murali Annavaram|7|7|0|1
+15|Strategies for anticipating risk in heterogeneous system design.|Marisabel Guevara,Benjamin Lubin,Benjamin C. Lee|3|1|0|2
+16|TSO-CC: Consistency directed cache coherence for TSO.|Marco Elver,Vijay Nagarajan|17|15|0|3
+17|Stash directory: A scalable directory for many-core coherence.|Socrates Demetriades,Sangyeun Cho|8|8|0|0
+18|QuickRelease: A throughput-oriented approach to release consistency on GPUs.|Blake A. Hechtman,Shuai Che,Derek R. Hower,Yingying Tian,Bradford M. Beckmann,Mark D. Hill,Steven K. Reinhardt,David A. Wood|19|18|0|2
+19|A Non-Inclusive Memory Permissions architecture for protection against cross-layer attacks.|Jesse Elwell,Ryan Riley,Nael B. Abu-Ghazaleh,Dmitry Ponomarev|4|4|0|4
+20|Suppressing the Oblivious RAM timing channel while making information leakage and program efficiency trade-offs.|Christopher W. Fletcher,Ling Ren,Xiangyao Yu,Marten van Dijk,Omer Khan,Srinivas Devadas|22|21|0|9
+21|Timing channel protection for a shared memory controller.|Yao Wang,Andrew Ferraiuolo,G. Edward Suh|11|9|0|2
+22|STM: Cloning the spatial and temporal memory access behavior.|Amro Awad,Yan Solihin|5|4|0|2
+23|A scalable multi-path microarchitecture for efficient GPU control flow.|Ahmed ElTantawy,Jessica Wenjie Ma,Mike O'Connor,Tor M. Aamodt|6|5|0|1
+24|Improving GPGPU resource utilization through alternative thread block scheduling.|Minseok Lee,Seokwoo Song,Joosik Moon,John Kim,Woong Seo,Yeon-Gon Cho,Soojung Ryu|23|19|0|1
+25|MRPB: Memory request prioritization for massively parallel processors.|Wenhao Jia,Kelly A. Shaw,Margaret Martonosi|36|34|0|1
+26|Warp-level divergence in GPUs: Characterization, impact, and mitigation.|Ping Xiang,Yi Yang,Huiyang Zhou|13|11|0|0
+27|MP3: Minimizing performance penalty for power-gating of Clos network-on-chip.|Lizhong Chen,Lihang Zhao,Ruisheng Wang,Timothy Mark Pinkston|12|11|0|2
+28|Up by their bootstraps: Online learning in Artificial Neural Networks for CMP uncore power management.|Jae-Yeon Won,Xi Chen,Paul Gratz,Jiang Hu,Vassos Soteriou|6|6|0|2
+29|QORE: A fault tolerant network-on-chip architecture with power-efficient quad-function channel (QFC) buffers.|Dominic DiTomaso,Avinash Karanth Kodi,Ahmed Louri|7|6|0|2
+30|Transportation-network-inspired network-on-chip.|Hanjoon Kim,Gwangsun Kim,Seungryoul Maeng,Hwasoo Yeo,John Kim|5|1|0|0
+31|Improving system throughput and fairness simultaneously in shared memory CMP systems via Dynamic Bank Partitioning.|Mingli Xie,Dong Tong,Kan Huang,Xu Cheng|13|12|0|0
+32|Improving DRAM performance by parallelizing refreshes with accesses.|Kevin Kai-Wei Chang,Donghyuk Lee,Zeshan Chishti,Alaa R. Alameldeen,Chris Wilkerson,Yoongu Kim,Onur Mutlu|28|23|0|5
+33|CREAM: A Concurrent-Refresh-Aware DRAM Memory architecture.|Tao Zhang,Matthew Poremba,Cong Xu,Guangyu Sun,Yuan Xie|7|7|0|0
+34|DraMon: Predicting memory bandwidth usage of multi-threaded programs with high accuracy and low overhead.|Wei Wang,Tanima Dey,Jack W. Davidson,Mary Lou Soffa|7|6|0|1
+35|PVCoherence: Designing flat coherence protocols for scalable verification.|Meng Zhang,Jesse D. Bingham,John Erickson,Daniel J. Sorin|11|10|0|2
+36|Atomic SC for simple in-order processors.|Dibakar Gope,Mikko H. Lipasti|2|2|0|0
+37|Concurrent and consistent virtual machine introspection with hardware transactional memory.|Yutao Liu,Yubin Xia,Haibing Guan,Binyu Zang,Haibo Chen|7|6|0|0
+38|Practical data value speculation for future high-end processors.|Arthur Perais,André Seznec|8|6|0|4
+39|Tangle: Route-oriented dynamic voltage minimization for variation-afflicted, energy-efficient on-chip networks.|Amin Ansari,Asit K. Mishra,Jianping Xu,Josep Torrellas|7|5|0|0
+40|Improving cache performance using read-write partitioning.|Samira Manabi Khan,Alaa R. Alameldeen,Chris Wilkerson,Onur Mutlu,Daniel A. Jiménez|6|6|0|0
+41|NUAT: A non-uniform access time memory controller.|Wongyu Shin,Jeongmin Yang,Jungwhan Choi,Lee-Sup Kim|7|4|0|3
+42|Improving in-memory database index performance with Intel® Transactional Synchronization Extensions.|Tomas Karnagel,Roman Dementiev,Ravi Rajwar,Konrad Lai,Thomas Legler,Benjamin Schlegel,Wolfgang Lehner|20|20|0|2
+43|BigDataBench: A big data benchmark suite from internet services.|Lei Wang,Jianfeng Zhan,Chunjie Luo,Yuqing Zhu,Qiang Yang,Yongqiang He,Wanling Gao,Zhen Jia,Yingjie Shi,Shujie Zhang,Chen Zheng,Gang Lu,Kent Zhan,Xiaona Li,Bizhu Qiu|99|95|0|15
+44|3D stacking of high-performance processors.|Philip G. Emma,Alper Buyuktosunoglu,Michael B. Healy,Krishnan Kailas,Valentin Puente,Roy Yu,Allan Hartstein,Pradip Bose,Jaime H. Moreno|5|4|0|0
+45|Reducing the cost of persistence for nonvolatile heaps in end user devices.|Sudarsun Kannan,Ada Gavrilovska,Karsten Schwan|12|12|0|2
+46|Sprinkler: Maximizing resource utilization in many-chip solid state disks.|Myoungsoo Jung,Mahmut T. Kandemir|4|4|0|1
+47|Over-clocked SSD: Safely running beyond flash memory chip I/O clock specs.|Kai Zhao,Kalyana S. Venkataraman,Xuebin Zhang,Jiangpeng Li,Ning Zheng,Tong Zhang|2|2|0|1
+48|GPUdmm: A high-performance and memory-oblivious GPU architecture using dynamic memory management.|Youngsok Kim,Jaewon Lee,Jae-Eon Jo,Jangwoo Kim|1|1|0|0
+49|Increasing TLB reach by exploiting clustering in page translations.|Binh Pham,Abhishek Bhattacharjee,Yasuko Eckert,Gabriel H. Loh|14|11|0|2
+50|Supporting x86-64 address translation for 100s of GPU lanes.|Jason Power,Mark D. Hill,David A. Wood|17|15|0|1
+51|Scalably verifiable dynamic power management.|Opeoluwa Matthews,Meng Zhang,Daniel J. Sorin|3|3|0|2
+52|Revolver: Processor architecture for power efficient loop execution.|Mitchell Hayenga,Vignyan Reddy Kothinti Naresh,Mikko H. Lipasti|4|3|0|0
+53|Dynamic management of TurboMode in modern multi-core chips.|David Lo,Christos Kozyrakis|15|14|0|1
+54|Spare register aware prefetching for graph algorithms on GPUs.|Nagesh B. Lakshminarayana,Hyesoon Kim|10|7|0|0
+55|Sandbox Prefetching: Safe run-time evaluation of aggressive prefetchers.|Seth H. Pugsley,Zeshan Chishti,Chris Wilkerson,Peng-fei Chuang,Robert L. Scott,Aamer Jaleel,Shih-Lien Lu,Kingsum Chow,Rajeev Balasubramonian|15|12|0|1
+56|MemZip: Exploring unconventional benefits from memory compression.|Ali Shafiee,Meysam Taassori,Rajeev Balasubramonian,Al Davis|21|19|0|0
+57|CDTT: Compiler-generated data-triggered threads.|Hung-Wei Tseng,Dean M. Tullsen|3|3|0|1
+58|Accelerating decoupled look-ahead via weak dependence removal: A metaheuristic approach.|Raj Parihar,Michael C. Huang|0|0|0|0
+59|Undersubscribed threading on clustered cache architectures.|Wim Heirman,Trevor E. Carlson,Kenzo Van Craeynest,Ibrahim Hur,Aamer Jaleel,Lieven Eeckhout|5|5|0|3

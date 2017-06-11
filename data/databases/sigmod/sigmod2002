@@ -1,0 +1,84 @@
+83
+1|Proceedings of the 2002 ACM SIGMOD International Conference on Management of Data, Madison, Wisconsin, June 3-6, 2002.|Michael J. Franklin,Bongki Moon,Anastassia Ailamaki|n/a
+2|Archiving scientific data.|Peter Buneman,Sanjeev Khanna,Keishi Tajima,Wang Chiew Tan|261|91|4|21
+3|Efficient integration and aggregation of historical information.|Mirek Riedewald,Divyakant Agrawal,Amr El Abbadi|19|2|0|4
+4|An adaptive peer-to-peer network for distributed caching of OLAP results.|Panos Kalnis,Wee Siong Ng,Beng Chin Ooi,Dimitris Papadias,Kian-Lee Tan|158|44|1|16
+5|Rate-based query optimization for streaming information sources.|Stratis Viglas,Jeffrey F. Naughton|305|76|6|5
+6|Continuously adaptive continuous queries over streams.|Samuel Madden,Mehul A. Shah,Joseph M. Hellerstein,Vijayshankar Raman|751|185|24|18
+7|Processing complex aggregate queries over data streams.|Alin Dobra,Minos N. Garofalakis,Johannes Gehrke,Rajeev Rastogi|357|84|7|34
+8|Best-effort cache synchronization with source cooperation.|Chris Olston,Jennifer Widom|158|33|2|4
+9|Efficient evaluation of queries in a mediator for WebSources.|Vladimir Zadorozhny,Louiqa Raschid,Maria-Esther Vidal,Tolga Urhan,Laura Bright|69|13|0|23
+10|Proxy-based acceleration of dynamically generated content on the world wide web: an approach and implementation.|Anindya Datta,Kaushik Dutta,Helen M. Thomas,Debra E. VanderMeer,Suresha,Krithi Ramamritham|87|9|0|2
+11|Accelerating XPath location steps.|Torsten Grust|595|116|10|22
+12|APEX: an adaptive path index for XML data.|Chin-Wan Chung,Jun-Ki Min,Kyuseok Shim|387|92|1|6
+13|Covering indexes for branching path queries.|Raghav Kaushik,Philip Bohannon,Jeffrey F. Naughton,Henry F. Korth|387|125|7|3
+14|Implementing database operations using SIMD instructions.|Jingren Zhou,Kenneth A. Ross|141|94|1|16
+15|Fractal prefetching B±Trees: optimizing both cache and disk performance.|Shimin Chen,Phillip B. Gibbons,Todd C. Mowry,Gary Valentin|n/a
+16|Skew handling techniques in sort-merge join.|Wei Li,Dengfeng Gao,Richard T. Snodgrass|30|14|3|2
+17|StatiX: making XML count.|Juliana Freire,Jayant R. Haritsa,Maya Ramanath,Prasan Roy,Jérôme Siméon|164|34|1|15
+18|QURSED: querying and reporting semistructured data.|Yannis Papakonstantinou,Michalis Petropoulos,Vasilis Vassalos|68|20|7|6
+19|Storing and querying ordered XML using a relational database system.|Igor Tatarinov,Stratis Viglas,Kevin S. Beyer,Jayavel Shanmugasundaram,Eugene J. Shekita,Chun Zhang|1066|412|15|2
+20|Executing SQL over encrypted data in the database-service-provider model.|Hakan Hacigümüs,Balakrishna R. Iyer,Chen Li,Sharad Mehrotra|1047|648|19|42
+21|Workflow management with service quality guarantees.|Michael Gillmann,Gerhard Weikum,Wolfgang Wonner|99|31|0|1
+22|Mining database structure; or, how to build a data quality browser.|Tamraparni Dasu,Theodore Johnson,S. Muthukrishnan,Vladislav Shkapenyuk|168|71|4|11
+23|A scalable hash ripple join algorithm.|Gang Luo,Curt J. Ellmann,Peter J. Haas,Jeffrey F. Naughton|66|41|0|1
+24|Exploiting statistics on query expressions for optimization.|Nicolas Bruno,Surajit Chaudhuri|132|46|17|13
+25|Partial results for online query processing.|Vijayshankar Raman,Joseph M. Hellerstein|67|18|5|7
+26|Approximate XML joins.|Sudipto Guha,H. V. Jagadish,Nick Koudas,Divesh Srivastava,Ting Yu|168|60|1|2
+27|Efficient algorithms for minimizing tree pattern queries.|Prakash Ramanan|99|21|1|3
+28|Holistic twig joins: optimal XML pattern matching.|Nicolas Bruno,Nick Koudas,Divesh Srivastava|1175|445|20|12
+29|Efficient k-NN search on vertically decomposed data.|Arjen P. de Vries,Nikos Mamoulis,Niels Nes,Martin L. Kersten|92|36|0|5
+30|Time-parameterized queries in spatio-temporal databases.|Yufei Tao,Dimitris Papadias|294|109|0|12
+31|Minimal probing: supporting expensive predicates for top-k queries.|Kevin Chen-Chuan Chang,Seung-won Hwang|310|129|2|31
+32|Statistical synopses for graph-structured XML databases.|Neoklis Polyzotis,Minos N. Garofalakis|165|32|1|8
+33|Continually evaluating similarity-based pattern queries on a streaming time series.|Like Gao,Xiaoyang Sean Wang|106|18|1|7
+34|General match: a subsequence matching method in time-series databases based on generalized windows.|Yang-Sae Moon,Kyu-Young Whang,Wook-Shin Han|184|79|0|24
+35|Clustering by pattern similarity in large data sets.|Haixun Wang,Wei Wang,Jiong Yang,Philip S. Yu|526|216|1|35
+36|Mining long sequential patterns in a noisy environment.|Jiong Yang,Wei Wang,Philip S. Yu,Jiawei Han|178|65|2|20
+37|A Monte Carlo algorithm for fast projective clustering.|Cecilia Magdalena Procopiuc,Michael Jones,Pankaj K. Agarwal,T. M. Murali|345|155|0|6
+38|Dynamic multidimensional histograms.|Nitin Thaper,Sudipto Guha,Piotr Indyk,Nick Koudas|228|57|5|12
+39|Selectivity estimation for spatio-temporal queries to moving objects.|Yong-Jin Choi,Chin-Wan Chung|91|20|0|2
+40|Hierarchical subspace sampling: a unified framework for high dimensional data reduction, selectivity estimation and nearest neighbor search.|Charu C. Aggarwal|28|6|4|6
+41|Dwarf: shrinking the PetaCube.|Yannis Sismanis,Antonios Deligiannakis,Nick Roussopoulos,Yannis Kotidis|n/a
+42|Wavelet synopses with error guarantees.|Minos N. Garofalakis,Phillip B. Gibbons|172|38|4|8
+43|Compressing SQL workloads.|Surajit Chaudhuri,Ashish Kumar Gupta,Vivek R. Narasayya|58|23|5|9
+44|Coordinating backup/recovery and data consistency between database and file systems.|Suparna Bhattacharya,C. Mohan,Karen Brannon,Inderpal Narang,Hui-I Hsiao,Mahadevan Subramanian|86|42|58|1
+45|An ebXML infrastructure implementation through UDDI registries and RosettaNet PIPs.|Asuman Dogac,Yusuf Tambag,Pinar Pembecioglu,Sait Pektas,Gokce Laleci,Gokhan Kurt,Serkan Toprak,Yildiray Kabak|107|63|69|1
+46|Garlic: a new flavor of federated query processing for DB2.|Vanja Josifovski,Peter M. Schwarz,Laura M. Haas,Eileen Tien Lin|104|24|5|4
+47|A compact B-tree.|Peter Bumbulis,Ivan T. Bowman|11|6|6|0
+48|Efficient execution of joins in a star schema.|Andreas Weininger|27|11|1|0
+49|Quadtree and R-tree indexes in oracle spatial: a comparison using GIS data.|Kothuri Venkata Ravi Kanth,Siva Ravada,Daniel Abugov|188|79|6|8
+50|Automating physical database design in a parallel database.|Jun Rao,Chun Zhang,Nimrod Megiddo,Guy M. Lohman|173|92|11|3
+51|The SDSS skyserver: public access to the sloan digital sky server data.|Alexander S. Szalay,Jim Gray,Ani Thakar,Peter Z. Kunszt,Tanu Malik,Jordan Raddick,Christopher Stoughton,Jan vandenBerg|154|57|3|6
+52|TPC-DS, taking decision support benchmarking to the next level.|Meikel Pöss,Bryan Smith,Lubor Kollár,Per-Åke Larson|44|22|1|7
+53|Mid-tier caching: the TimesTen approach.|Times-Ten Team|n/a
+54|Web caching for database applications with Oracle Web Cache.|Jesse Anton,Lawrence Jacobs,Xiang Liu,Jordan Parker,Zheng Zeng,Tie Zhong|76|27|16|0
+55|Middle-tier database caching for e-business.|Qiong Luo,Sailesh Krishnamurthy,C. Mohan,Hamid Pirahesh,Honguk Woo,Bruce G. Lindsay,Jeffrey F. Naughton|222|74|7|9
+56|DBCache: database caching for web application servers.|Mehmet Altinel,Qiong Luo,Sailesh Krishnamurthy,C. Mohan,Hamid Pirahesh,Bruce G. Lindsay,Honguk Woo,Larry Brown|28|8|0|1
+57|Learning table access cardinalities with LEO.|Volker Markl,Guy M. Lohman|18|7|0|1
+58|Rainbow: mapping-driven XQuery processing system.|Xin Zhang,Mukesh Mulchandani,Steffen Christ,Brian Murphy,Elke A. Rundensteiner|25|0|0|4
+59|The XXL search engine: ranked retrieval of XML data using indexes and ontologies.|Anja Theobald,Gerhard Weikum|43|6|1|5
+60|ToXgene: a template-based data generator for XML.|Denilson Barbosa,Alberto O. Mendelzon,John Keenleyside,Kelly A. Lyons|119|41|1|1
+61|Visual COKO: a debugger for query optimizer development.|Daniel J. Abadi,Mitch Cherniack|0|0|0|0
+62|XCache: a semantic caching system for XML queries.|Li Chen,Elke A. Rundensteiner,Song Wang|73|23|1|8
+63|ACDN: a content delivery network for applications.|Pradnya Karbhari,Michael Rabinovich,Zhen Xiao,Fred Douglis|17|3|2|3
+64|COMMIX: towards effective web information extraction, integration and query answering.|Tengjiao Wang,Shiwei Tang,Dongqing Yang,Jun Gao,Yuqing Wu,Jian Pei|6|1|0|3
+65|COUGAR: the network is the database.|Wai Fu Fung,David Sun,Johannes Gehrke|70|32|1|0
+66|Distributing queries over low-power wireless sensor networks.|Samuel Madden,Joseph M. Hellerstein|32|8|0|0
+67|Gigascope: high performance network monitoring with an SQL interface.|Charles D. Cranor,Yuan Gao,Theodore Johnson,Vladislav Shkapenyuk,Oliver Spatscheck|135|41|5|7
+68|RoadRunner: automatic data extraction from data-intensive web sites.|Valter Crescenzi,Giansalvatore Mecca,Paolo Merialdo|77|32|1|5
+69|XL: a platform for web services.|Daniela Florescu,Andreas Grünhagen,Donald Kossmann,Steffen Rost|75|6|0|5
+70|CubeExplorer: online exploration of data cubes.|Jiawei Han,Jianyong Wang,Guozhu Dong,Jian Pei,Ke Wang|9|7|0|0
+71|DBXplorer: enabling keyword search over relational databases.|Sanjay Agrawal,Surajit Chaudhuri,Gautam Das|80|34|10|1
+72|GEA: a toolkit for gene expression analysis.|Jessica M. Phan,Raymond T. Ng|0|0|0|0
+73|HD-Eye: visual clustering of high dimensional data.|Alexander Hinneburg,Daniel A. Keim,Markus Wawryniuk|11|6|0|1
+74|XBase: making your gigabyte disk queriable.|Hongjun Lu,Guoren Wang,Ge Yu,Yubin Bao,Jianhua Lv,Yaxin Yu|15|1|0|9
+75|XmdvTool: visual interactive data exploration and trend discovery of high-dimensional data sets.|Elke A. Rundensteiner,Matthew O. Ward,Jing Yang,Punit R. Doshi|51|20|0|2
+76|Data streams: fresh current or stagnant backwater? (panel).|Joseph M. Hellerstein,Jennifer Widom|0|0|0|0
+77|Going public: open-source databases and database research.|Philippe Bonnet|1|0|0|0
+78|Implementing XQuery.|Paul Cotton|n/a
+79|Querying and mining data streams: you only get one look a tutorial.|Minos N. Garofalakis,Johannes Gehrke,Rajeev Rastogi|291|97|1|15
+80|Tutorial: application servers and associated technologies.|C. Mohan|25|2|0|1
+81|Database tuning: principles, experiments, and troubleshooting techniques (part II).|Dennis Shasha,Philippe Bonnet|259|58|4|10
+82|Database tuning: principles, experiments, and troubleshooting techniques (part I).|Dennis Shasha,Philippe Bonnet|259|58|4|10
+83|Software as a service: ASP and ASP aggregation.|Christoph Bussler|3|0|0|0

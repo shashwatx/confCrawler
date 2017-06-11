@@ -1,0 +1,30 @@
+29
+1|Proceedings of the Eighth International Symposium on High-Performance Computer Architecture (HPCA'02), Boston, Massachusettes, USA, February 2-6, 2002.|n/a
+2|The Software Industry: Ten Lessons for Long Life.|Timothy Chou|0|0|0|0
+3|Microarchitectural Simulation and Control of di/dt-induced Power Supply Voltage Variation.|Ed Grochowski,David Ayers,Vivek Tiwari|78|36|1|1
+4|Control-Theoretic Techniques and Thermal-RC Modeling for Accurate and Localized Dynamic Thermal Management.|Kevin Skadron,Tarek F. Abdelzaher,Mircea R. Stan|388|162|6|17
+5|Energy-Efficient Processor Design Using Multiple Clock Domains with Dynamic Voltage and Frequency Scaling.|Greg Semeraro,Grigorios Magklis,Rajeev Balasubramonian,David H. Albonesi,Sandhya Dwarkadas,Michael L. Scott|365|180|8|8
+6|Speculative Multithreading Eliminating Squashes through Learning Cross-Thread Violations in Speculative Parallelization for Multiprocessors.|Marcelo H. Cintra,Josep Torrellas|87|34|0|11
+7|Thread-Spawning Schemes for Speculative Multithreading.|Pedro Marcuello,Antonio González|111|45|24|9
+8|Improving Value Communication for Thread-Level Speculation.|J. Gregory Steffan,Christopher B. Colohan,Antonia Zhai,Todd C. Mowry|125|42|1|14
+9|Reverse Tracer: A Software Tool for Generating Realistic Performance Test Programs.|Mariko Sakamoto,Larry Brisson,Akira Katsuno,Aiichiro Inoue,Yasunori Kimura|11|1|0|2
+10|Tuning Garbage Collection in an Embedded Java Environment.|Guangyu Chen,R. Shetty,Mahmut T. Kandemir,Narayanan Vijaykrishnan,Mary Jane Irwin,Mario Wolczko|69|14|1|16
+11|Fine-Grain Priority Scheduling on Multi-Channel Memory Systems.|Zhichun Zhu,Zhao Zhang,Xiaodong Zhang|31|13|0|4
+12|A New Memory Monitoring Scheme for Memory-Aware Scheduling and Partitioning.|G. Edward Suh,Srinivas Devadas,Larry Rudolph|310|182|5|6
+13|The Minimax Cache: An Energy-Efficient Framework for Media Processors.|Osman S. Unsal,Israel Koren,C. Mani Krishna,Csaba Andras Moritz|34|4|0|2
+14|Using Complete Machine Simulation for Software Power Estimation: The SoftWatt Approach.|Sudhanva Gurumurthi,Anand Sivasubramaniam,Mary Jane Irwin,Narayanan Vijaykrishnan,Mahmut T. Kandemir,Tao Li,Lizy Kurian John|211|118|0|5
+15|Exploiting Choice in Resizable Cache Design to Optimize Deep-Submicron Processor Energy-Delay.|Se-Hyun Yang,Michael D. Powell,Babak Falsafi,T. N. Vijaykumar|152|69|3|6
+16|Non-Vital Loads.|Ryan N. Rakvic,Bryan Black,Deepak Limaye,John Paul Shen|n/a
+17|Let's Study Whole-Program Cache Behaviour Analytically.|Xavier Vera,Jingling Xue|79|25|3|10
+18|Memory Latency-Tolerance Approaches for Itanium Processors: Out-of-Order Execution vs. Speculative Precomputation.|Perry H. Wang,Hong Wang,Jamison D. Collins,Ed Grochowski,Ralph-Michael Kling,John Paul Shen|45|13|6|11
+19|Quantifying Load Stream Behavior.|Suleyman Sair,Timothy Sherwood,Brad Calder|19|1|0|4
+20|Modeling Value Speculation.|Yiannakis Sazeides|25|14|18|1
+21|The FAB Predictor: Using Fourier Analysis to Predict the Outcome of Conditional Branches.|Martin Kämpe,Per Stenström,Michel Dubois|8|0|0|0
+22|Power Issues Related to Branch Prediction.|Dharmesh Parikh,Kevin Skadron,Yan Zhang,Marco Barcella,Mircea R. Stan|123|24|6|9
+23|Recovery Oriented Computing: A New Research Agenda for a New Century.|David A. Patterson|29|8|0|0
+24|Bandwidth Adaptive Snooping.|Milo M. K. Martin,Daniel J. Sorin,Mark D. Hill,David A. Wood|71|24|2|12
+25|CableS: Thread Control and Memory Management Extensions for Shared Virtual Memory Clusters.|Peter Jamieson,Angelos Bilas|11|0|0|3
+26|User-Level Communication in Cluster-Based Servers.|Enrique V. Carrera,Srinath Rao,Liviu Iftode,Ricardo Bianchini|49|5|0|1
+27|Using Internal Redundant Representations and Limited Bypass to Support Pipelined Adders and Register Files.|Mary D. Brown,Yale N. Patt|13|4|0|2
+28|Loose Loops Sink Chips.|Eric Borch,Eric Tune,Srilatha Manne,Joel S. Emer|n/a
+29|Evaluation of a Multithreaded Architecture for Cellular Computing.|Calin Cascaval,José G. Castaños,Luis Ceze,Monty Denneau,Manish Gupta,Derek Lieber,José E. Moreira,Karin Strauss,Henry S. Warren Jr.|57|19|0|1

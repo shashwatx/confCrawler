@@ -1,0 +1,67 @@
+66
+1|42nd Annual Symposium on Foundations of Computer Science, FOCS 2001, 14-17 October 2001, Las Vegas, Nevada, USA.|n/a
+2|Game Theory and Mathematical Economics: A Theoretical Computer Scientist's Introduction.|Christos H. Papadimitriou|23|4|0|1
+3|Algorithmic Applications of Low-Distortion Geometric Embeddings.|Piotr Indyk|268|80|0|13
+4|Coding Theory: Tutorial and Survey.|Madhu Sudan|35|18|0|0
+5|Almost Tight Upper Bounds for Vertical Decompositions in Four Dimensions.|Vladlen Koltun|62|16|0|11
+6|Approximate Shape Fitting via Linearization.|Sariel Har-Peled,Kasturi R. Varadarajan|28|3|0|11
+7|On the Complexity of Many Faces in Arrangements of Circles.|Pankaj K. Agarwal,Boris Aronov,Micha Sharir|7|1|0|2
+8|Clustering Motion.|Sariel Har-Peled|101|39|0|13
+9|A Replacement for Voronoi Diagrams of Near Linear Size.|Sariel Har-Peled|160|68|0|20
+10|How to Go Beyond the Black-Box Simulation Barrier.|Boaz Barak|398|175|0|17
+11|Resettably-Sound Zero-Knowledge and its Applications.|Boaz Barak,Oded Goldreich,Shafi Goldwasser,Yehuda Lindell|105|53|0|10
+12|On the Impossibility of Basing Trapdoor Functions on Trapdoor Predicates.|Yael Gertner,Tal Malkin,Omer Reingold|72|39|0|6
+13|Universally Composable Security: A New Paradigm for Cryptographic Protocols.|Ran Canetti|1892|1020|6|57
+14|Traveling with a Pez Dispenser (Or, Routing Issues in MPLS).|Anupam Gupta,Amit Kumar,Rajeev Rastogi|49|24|0|3
+15|Simple Routing Strategies for Adversarial Systems.|Baruch Awerbuch,Petra Berenbrink,André Brinkmann,Christian Scheideler|75|14|0|6
+16|Source Routing and Scheduling in Packet Networks.|Matthew Andrews,Antonio Fernández,Ashish Goel,Lisa Zhang|37|10|0|5
+17|The Natural Work-Stealing Algorithm is Stable.|Petra Berenbrink,Tom Friedetzky,Leslie Ann Goldberg|86|43|0|2
+18|Lower Bounds for Polynomial Calculus: Non-Binomial Case.|Michael Alekhnovich,Alexander A. Razborov|76|38|0|12
+19|Counting Axioms Do Not Polynomially Simulate Counting Gates.|Russell Impagliazzo,Nathan Segerlind|14|5|0|3
+20|Resolution is Not Automatizable Unless W[P] is Tractable.|Michael Alekhnovich,Alexander A. Razborov|80|19|0|8
+21|"Planar" Tautologies Hard for Resolution.|Stefan S. Dantchev,Søren Riis|13|3|0|1
+22|Planar Graphs, Negative Weight Edges, Shortest Paths, Near Linear Time.|Jittat Fakcharoenphol,Satish Rao|101|81|8|1
+23|Compact Oracles for Reachability and Approximate Distances in Planar Digraphs.|Mikkel Thorup|223|101|1|7
+24|Vickrey Prices and Shortest Paths: What is an Edge Worth?.|John Hershberger,Subhash Suri|222|87|1|4
+25|Fully Dynamic All Pairs Shortest Paths with Real Edge Weights.|Camil Demetrescu,Giuseppe F. Italiano|51|11|0|9
+26|Informational Complexity and the Direct Sum Problem for Simultaneous Message Complexity.|Amit Chakrabarti,Yaoyun Shi,Anthony Wirth,Andrew Chi-Chih Yao|182|123|0|9
+27|How Powerful is Adiabatic Quantum Computation?.|Wim van Dam,Michele Mosca,Umesh V. Vazirani|160|76|0|2
+28|Lower Bounds for Quantum Communication Complexity.|Hartmut Klauck|63|14|0|5
+29|The Confluence of Ground Term Rewrite Systems is Decidable in Polynomial Time.|Hubert Comon,Guillem Godoy,Robert Nieuwenhuis|26|11|0|0
+30|On the Average-Case Hardness of CVP.|Jin-yi Cai|12|2|0|1
+31|Approximating Directed Multicuts.|Joseph Cheriyan,Howard J. Karloff,Yuval Rabani|39|11|0|0
+32|Facility Location with Nonuniform Hard Capacities.|Martin Pál,Éva Tardos,Tom Wexler|131|66|2|1
+33|An Iterative Rounding 2-Approximation Algorithm for the Element Connectivity Problem.|Lisa Fleischer,Kamal Jain,David P. Williamson|44|17|0|4
+34|Approximation Algorithms for the Job Interval Selection Problem and Related Scheduling Problems.|Julia Chuzhoy,Rafail Ostrovsky,Yuval Rabani|92|40|0|6
+35|Lower Bounds for Matrix Product.|Amir Shpilka|26|12|0|3
+36|Deterministic Computation of the Frobenius Form.|Arne Storjohann|19|13|0|3
+37|The Complexity of Factors of Multivariate Polynomials.|Peter Bürgisser|18|9|0|0
+38|Linear-time Recognition of Circular-arc Graphs.|Ross M. McConnell|149|81|0|16
+39|A Ramsy-type Theorem for Metric Spaces and its Applications for Metrical Task Systems and Related Problems.|Yair Bartal,Béla Bollobás,Manor Mendel|35|12|0|8
+40|Designing Networks Incrementally.|Adam Meyerson,Kamesh Munagala,Serge A. Plotkin|26|11|0|2
+41|Sorting and Selection with Structured Costs.|Anupam Gupta,Amit Kumar|19|8|0|1
+42|Online Facility Location.|Adam Meyerson|178|102|0|6
+43|Testing Subgraphs in Large Graphs.|Noga Alon|112|56|0|16
+44|Testing Random Variables for Independence and Identity.|Tugkan Batu,Lance Fortnow,Eldar Fischer,Ravi Kumar,Ronitt Rubinfeld,Patrick White|101|80|0|10
+45|Fast Monte-Carlo Algorithms for Approximate Matrix Multiplication.|Petros Drineas,Ravi Kannan|87|52|0|18
+46|Three Theorems Regarding Testing Graph Properties.|Oded Goldreich,Luca Trevisan|141|59|0|25
+47|Designing Networks for Selfish Users is Hard.|Tim Roughgarden|140|21|0|12
+48|Truthful Mechanisms for One-Parameter Agents.|Aaron Archer,Éva Tardos|468|198|1|5
+49|Building Low-Diameter P2P Networks.|Gopal Pandurangan,Prabhakar Raghavan,Eli Upfal|387|96|2|0
+50|Web Search via Hub Synthesis.|Dimitris Achlioptas,Amos Fiat,Anna R. Karlin,Frank McSherry|60|16|0|2
+51|Random Evolution in Massive Graphs.|William Aiello,Fan R. K. Chung,Linyuan Lu|338|110|0|30
+52|Tight Approximation Results for General Covering Integer Programs.|Stavros G. Kolliopoulos,Neal E. Young|36|7|0|3
+53|Spectral Partitioning of Random Graphs.|Frank McSherry|329|221|0|4
+54|Sequential and Parallel Algorithms for Mixed Packing and Covering.|Neal E. Young|144|73|1|6
+55|Unique Sink Orientations of Cubes.|Tibor Szabó,Emo Welzl|66|25|0|3
+56|Arc-Disjoint Paths in Expander Digraphs.|Tom Bohman,Alan M. Frieze|7|2|0|0
+57|Glauber Dynamics on Trees and Hyperbolic Graphs.|Claire Kenyon,Elchanan Mossel,Yuval Peres|123|69|0|21
+58|Randomly Colouring Graphs with Lower Bounds on Girth and Maximum Degree.|Martin E. Dyer,Alan M. Frieze|50|15|0|9
+59|Distributions on Level-Sets with Applications to Approximation Algorithms.|Aravind Srinivasan|88|44|0|11
+60|Improved Inaproximability Results for MaxClique, Chromatic Number and Approximate Graph Coloring.|Subhash Khot|159|81|0|17
+61|Query Efficient PCPs with Perfect Completeness.|Johan Håstad,Subhash Khot|23|14|0|1
+62|Sp2 subseteq ZPPNP.|Jin-yi Cai|n/a
+63|Semi-Direct Product in Groups and Zig-Zag Product in Graphs: Connections and Applications.|Noga Alon,Alexander Lubotzky,Avi Wigderson|81|38|0|13
+64|Extractors from Reed-Muller Codes.|Amnon Ta-Shma,David Zuckerman,Shmuel Safra|n/a
+65|Simple Extractors for All Min-Entropies and a New Pseudo-Random Generator.|Ronen Shaltiel,Christopher Umans|108|19|0|19
+66|Expander-Based Constructions of Efficiently Decodable Codes.|Venkatesan Guruswami,Piotr Indyk|76|22|0|26

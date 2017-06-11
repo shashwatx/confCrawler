@@ -1,0 +1,80 @@
+79
+1|Computational Complexity of Sparse Rational Interpolation.|Dima Grigoriev,Marek Karpinski,Michael F. Singer|41|7|0|10
+2|Tight Upper and Lower Bounds on the Path Length of Binary Trees.|Alfredo De Santis,Giuseppe Persiano|9|0|0|2
+3|Unique Binary-Search-Tree Representations and Equality Testing of Sets and Sequences.|Rajamani Sundar,Robert Endre Tarjan|20|2|0|3
+4|A Complexity Index for Satisfiability Problems.|Endre Boros,Yves Crama,Peter L. Hammer,Michael E. Saks|73|14|0|6
+5|The Set Union Problem With Unlimited Backtracking.|Alberto Apostolico,Giuseppe F. Italiano,Giorgio Gambosi,Maurizio Talamo|11|2|0|4
+6|The Profile Minimization Problem in Trees.|David Kuo,Gerard J. Chang|39|4|0|6
+7|Modifications of Competitive Group Testing.|Ding-Zhu Du,Guoliang Xue,S.-Z. Sun,Siu-Wing Cheng|32|7|0|4
+8|The Complexity of Decision Versus Search.|Mihir Bellare,Shafi Goldwasser|72|20|0|2
+9|Homeomorphism of 2-Complexes is Graph Isomorphism Complete.|John Shawe-Taylor,Tomaz Pisanski|9|1|0|0
+10|On Collision-Free Placements of Simplices and the Closest Pair of Lines in 3-Space.|Marco Pellegrini|9|0|0|5
+11|Fat Triangles Determine Linearly Many Holes.|Jirí Matousek,János Pach,Micha Sharir,Shmuel Sifrony,Emo Welzl|160|30|0|46
+12|Three-Dimensional Statistical Data Security Problems.|Robert W. Irving,Mark Jerrum|87|21|0|0
+13|An NC Algorithm for Scheduling Unit-Time Jobs With Arbitrary Release Times and Deadlines.|Greg N. Frederickson,Susan H. Rodger|1|0|0|0
+14|Broadcasting and Gossiping in de Bruijn Networks.|Jean-Claude Bermond,Pierre Fraigniaud|73|14|0|10
+15|A Linear-Time Algorithm for the Homotopic Routing Problem in Grid Graphs.|Michael Kaufmann,Kurt Mehlhorn|3|0|0|0
+16|Some Results on Elusive Graph Properties.|Eberhard Triesch|14|5|0|3
+17|Closeness of NP-Hard Sets to Other Complexity Classes.|Bin Fu,Hong-Zhou Li|5|0|0|2
+18|Complexity-Restricted Advice Functions.|Johannes Köbler,Thomas Thierauf|18|1|0|5
+19|Deterministic Simulations of PRAMs on Bounded Degree Networks.|Kieran T. Herley,Gianfranco Bilardi|51|1|0|14
+20|Lower Bounds for Randomized k-Server and Motion-Planning Algorithms.|Howard J. Karloff,Yuval Rabani,Yiftach Ravid|34|4|0|5
+21|An Alphabet Independent Approach to Two-Dimensional Pattern Matching.|Amihood Amir,Gary Benson,Martin Farach|77|15|0|21
+22|Trading Space for Time in Undirected s-t Connectivity.|Andrei Z. Broder,Anna R. Karlin,Prabhakar Raghavan,Eli Upfal|84|24|2|6
+23|Bounds on the Costs of Multivalued Register Implementations.|Soma Chaudhuri,Jennifer L. Welch|10|2|0|2
+24|Parallel Information Dissemination by Packets.|Anindo Bagchi,Edward F. Schmeichel,S. Louis Hakimi|28|0|0|0
+25|Generating Linear Extensions Fast.|Gara Pruesse,Frank Ruskey|132|39|0|5
+26|Randomized Parallel Algorithms for Matroid Union and Intersection, With Applications to Arboresences and Edge-Disjoint Spanning Trees.|H. Narayanan,Huzur Saran,Vijay V. Vazirani|27|7|0|1
+27|On the Consecutive-Retrieval Problem.|R. Swaminathan,Donald K. Wagner|9|0|0|2
+28|Polynomial Root-Finding Algorithms and Branched Covers.|Myong-Hi Kim,Scott Sutherland|35|9|0|1
+29|Computing and Verifying Depth Orders.|Mark de Berg,Mark H. Overmars,Otfried Schwarzkopf|58|3|0|11
+30|Erratum: Optimal Parallel Randomized Algorithms for Three-Dimensional Convex Hulls and Related Problems.|John H. Reif,Sandeep Sen|62|12|0|7
+31|Top-Bottom Routing Around a Rectangle is as Easy as Computing Prefix Minima.|Omer Berkman,Joseph JáJá,Sridhar Krishnamurthy,Ramakrishna Thurimella,Uzi Vishkin|3|1|0|1
+32|Faster Approximation Algorithms for the Unit Capacity Concurrent Flow Problem with Applications to Routing and Finding Sparse Cuts.|Philip N. Klein,Serge A. Plotkin,Clifford Stein,Éva Tardos|162|23|0|23
+33|The Extended Low Hierarchy is an Infinite Hierarchy.|Ming-Jye Sheu,Timothy J. Long|16|0|0|1
+34|Complexity of Network Reliability and Optimal Resource Placement Problems.|Donald B. Johnson,Larry Raab|13|3|0|1
+35|Polynomial Algorithms for Hamiltonian Cycle in Cocomparability Graphs.|Jitender S. Deogun,George Steiner|42|17|0|1
+36|Packet Transmission in a Noisy-Channel Ring Network.|Victor Pestien,Subramanian Ramakrishnan,Dilip Sarkar|5|0|0|4
+37|Subquadratic Simulations of Balanced Formulae by Branching Programs.|Jin-yi Cai,Richard J. Lipton|8|3|0|0
+38|Linear Time Algorithms and NP-Complete Problems.|Etienne Grandjean|56|17|0|9
+39|Digital Search Trees Again Revisited: The Internal Path Length Perspective.|Peter Kirschenhofer,Helmut Prodinger,Wojciech Szpankowski|48|15|0|20
+40|Improved Approximation Algorithms for Shop Scheduling Problems.|David B. Shmoys,Clifford Stein,Joel Wein|222|43|0|10
+41|Randomized Algorithms for Binary Search and Load Balancing on Fixed Connection Networks with Geometric Applications.|John H. Reif,Sandeep Sen|33|3|0|6
+42|Communication-Space Tradeoffs for Unrestricted Protocols.|Paul Beame,Martin Tompa,Peiyuan Yan|20|3|0|0
+43|A New Insight into the Coffman-Graham Algorithm.|Bertrand Braschi,Denis Trystram|24|4|0|0
+44|A New Approach to Stable Matching Problems.|Ashok Subramanian|50|21|0|3
+45|Wait-Free Consensus Using Asynchronous Hardware.|Benny Chor,Amos Israeli,Ming Li|42|9|0|1
+46|Inferring Evolutionary History from DNA Sequences.|Sampath Kannan,Tandy Warnow|71|19|0|6
+47|Dynamic Perfect Hashing: Upper and Lower Bounds.|Martin Dietzfelbinger,Anna R. Karlin,Kurt Mehlhorn,Friedhelm Meyer auf der Heide,Hans Rohnert,Robert Endre Tarjan|444|104|2|24
+48|Measure, Stochasticity, and the Density of Hard Languages.|Jack H. Lutz,Elvira Mayordomo|75|9|0|21
+49|Finding k Disjoint Paths in a Directed Planar Graph.|Alexander Schrijver|77|44|0|9
+50|Finite Automata Computing Real Functions.|Karel Culik II,Juhani Karhumäki|105|15|0|18
+51|On the Complexity of Bilinear Forms over Associative Algebras.|Nader H. Bshouty|2|0|0|1
+52|A New Lower Bound Technique and its Application: Tight Lower Bound for a Polygon Triangulation Problem.|Prakash V. Ramanan|16|2|0|1
+53|On "Axiomatising Finite Concurrent Processes".|Luca Aceto|27|3|0|9
+54|The Complexity of Multiterminal Cuts.|Elias Dahlhaus,David S. Johnson,Christos H. Papadimitriou,Paul D. Seymour,Mihalis Yannakakis|570|230|4|1
+55|Diagnosis of t/(t+1)-Diagnosable Systems.|Anindya Das,Krishnaiyan Thulasiraman,Vinod K. Agarwal|19|7|0|3
+56|Improved Algorithms for Bipartite Network Flow.|Ravindra K. Ahuja,James B. Orlin,Clifford Stein,Robert Endre Tarjan|160|55|2|10
+57|New Resultant Inequalities and Complex Polynomial Factorization.|Victor Y. Pan|5|0|0|5
+58|Randomized Algorithms for Multiprocessor Page Migration.|Jeffery Westbrook|59|5|0|6
+59|Near-Optimal Time-Space Tradeoff for Element Distinctness.|Andrew Chi-Chih Yao|37|7|0|0
+60|Existence and Construction of Edge-Disjoint Paths on Expander Graphs.|Andrei Z. Broder,Alan M. Frieze,Eli Upfal|67|12|0|8
+61|Separating Distribution-Free and Mistake-Bound Learning Models over the Boolean Domain.|Avrim Blum|35|11|0|0
+62|Computing with Noisy Information.|Uriel Feige,Prabhakar Raghavan,David Peleg,Eli Upfal|154|86|0|3
+63|On Competitive Group Testing.|Ding-Zhu Du,Haesun Park|33|6|0|5
+64|A Uniform Circuit Lower Bound for the Permanent.|Eric Allender,Vivek Gore|53|22|0|12
+65|The Joint Distribution of Elastic Buckets in Multiway Search Trees.|William Lew,Hosam M. Mahmoud|33|10|0|4
+66|Tight Bounds on the Complexity of the Boyer-Moore String Matching Algorithm.|Richard Cole|117|34|0|3
+67|A Grammar-Based Approach Towards Unifying Hierarchical Data Models.|Marc Gyssens,Jan Paredaens,Dirk Van Gucht|58|3|2|3
+68|Selecting Heavily Covered Points.|Bernard Chazelle,Herbert Edelsbrunner,Leonidas J. Guibas,John Hershberger,Raimund Seidel,Micha Sharir|18|4|0|0
+69|Distributed Algorithms for Unidirectional Networks.|Yehuda Afek,Eli Gafni|49|7|0|3
+70|Simple and Fast Algorithms for Linear and Integer Programs With Two Variables per Inequality.|Dorit S. Hochbaum,Joseph Naor|143|37|0|13
+71|Computing the Order of a Locally Testable Automaton.|Sam M. Kim,Robert McNaughton|26|3|0|1
+72|A Polynomial-Time Algorithm for the Perfect Phylogeny Problem when the Number of Character States is Fixed.|Richa Agarwala,David Fernández-Baca|142|38|0|6
+73|Priority Queues and Permutations.|M. D. Atkinson,Robert Beals|22|7|0|8
+74|A Model for Asynchronous Shared Memory Parallel Computation.|Naomi Nishimura|5|0|0|1
+75|Tight Pounds on Oblivious Chaining.|Shiva Chaudhuri|n/a
+76|Requirements for Deadlock-Free, Adaptive Packet Routing.|Robert Cypher,Luis Gravano|50|2|0|9
+77|On Languages Reducible to Algorithmically Random Languages.|Ronald V. Book|22|3|0|4
+78|A Fast Algorithm for Optimum Height-Limited Alphabetic Binary Trees.|Lawrence L. Larmore,Teresa M. Przytycka|36|6|0|5
+79|Improved Algorithms for Linear Inequalities With Two Variables per Inequality.|Edith Cohen,Nimrod Megiddo|67|21|0|6

@@ -1,0 +1,68 @@
+67
+1|Some 3CNF Properties Are Hard to Test.|Eli Ben-Sasson,Prahladh Harsha,Sofya Raskhodnikova|124|68|0|21
+2|A Probabilistic Analysis of Trie-Based Sorting of Large Collections of Line Segments in Spatial Databases.|Michael Lindenbaum,Hanan Samet,Gísli R. Hjaltason|11|6|0|7
+3|Holographic Proofs and Derandmization.|Dieter van Melkebeek,Rahul Santhanam|n/a
+4|Approximating the Weight of the Euclidean Minimum Spanning Tree in Sublinear Time.|Artur Czumaj,Funda Ergün,Lance Fortnow,Avner Magen,Ilan Newman,Ronitt Rubinfeld,Christian Sohler|35|20|0|5
+5|Polynomial Time Approximation Schemes for MAX-BISECTION on Planar and Geometric Graphs.|Klaus Jansen,Marek Karpinski,Andrzej Lingas,Eike Seidel|21|14|0|2
+6|Minimum-Weight Spanning Tree Construction in O(log log n) Communication Rounds.|Zvi Lotker,Boaz Patt-Shamir,Elan Pavlov,David Peleg|31|18|0|3
+7|The Complexity of Approximating the Entropy.|Tugkan Batu,Sanjoy Dasgupta,Ravi Kumar,Ronitt Rubinfeld|115|76|0|18
+8|Well-Separated Pair Decomposition for the Unit-Disk Graph Metric and Its Applications.|Jie Gao,Li Zhang|34|15|0|4
+9|A Subexponential-Time Quantum Algorithm for the Dihedral Hidden Subgroup Problem.|Greg Kuperberg|157|72|0|1
+10|A Better-Than-Greedy Approximation Algorithm for the Minimum Set Cover Problem.|Refael Hassin,Asaf Levin|40|28|0|5
+11|A Superpolynomial Lower Bound for a Circuit Computing the Clique Function with at most (1/6)log log n Negation Gates.|Kazuyuki Amano,Akira Maruoka|32|14|0|1
+12|Bounds on the Efficiency of Generic Cryptographic Constructions.|Rosario Gennaro,Yael Gertner,Jonathan Katz,Luca Trevisan|69|50|0|6
+13|Approximating k-node Connected Subgraphs via Critical Graphs.|Guy Kortsarz,Zeev Nutov|39|18|0|16
+14|A Parametrized Algorithm for Matroid Branch-Width.|Petr Hlinený|41|12|0|0
+15|On the Performance of Greedy Algorithms in Packet Buffering.|Susanne Albers,Markus Schmidt|77|28|0|7
+16|Analysis of Link Reversal Routing Algorithms.|Costas Busch,Srikanta Tirthapura|27|20|0|1
+17|Two-Way Chaining with Reassignment.|Ketan Dalal,Luc Devroye,Ebrahim Malalla,Erin McLeish|10|4|0|4
+18|Cache-Oblivious B-Trees.|Michael A. Bender,Erik D. Demaine,Martin Farach-Colton|193|41|4|25
+19|A Powerful LL(k) Covering Transformation.|Gyung-Ok Lee,Kwang-Moo Choe|7|5|0|0
+20|Compressed Suffix Arrays and Suffix Trees with Applications to Text Indexing and String Matching.|Roberto Grossi,Jeffrey Scott Vitter|576|243|5|45
+21|Recognizing More Unsatisfiable Random k-SAT Instances Efficiently.|Joel Friedman,Andreas Goerdt,Michael Krivelevich|31|20|0|3
+22|Optimal Online Algorithms for Multidimensional Packing Problems.|Leah Epstein,Rob van Stee|27|19|0|4
+23|Strictly Nonblocking WDM Cross-connects.|April Rasala Lehman,Gordon T. Wilfong|28|3|0|2
+24|Strong Spatial Mixing with Fewer Colors for Lattice Graphs.|Leslie Ann Goldberg,Russell A. Martin,Mike Paterson|26|18|0|1
+25|General Multiprocessor Task Scheduling: Approximate Solutions in Linear Time.|Klaus Jansen,Lorant Porkolab|16|0|0|5
+26|Optimal Covering Tours with Turn Costs.|Esther M. Arkin,Michael A. Bender,Erik D. Demaine,Sándor P. Fekete,Joseph S. B. Mitchell,Saurabh Sethia|82|38|0|4
+27|On the Complexity of Network Synchronization.|Darin Goldstein,Kojiro Kobayashi|12|5|0|6
+28|Stochastic Relations: Congruences, Bisimulations and the Hennessy--Milner Theorem.|Ernst-Erich Doberkat|40|15|0|29
+29|Sublinear Geometric Algorithms.|Bernard Chazelle,Ding Liu,Avner Magen|53|18|0|4
+30|Lowness for the Class of Schnorr Random Reals.|Bjørn Kjos-Hanssen,André Nies,Frank Stephan|58|30|0|18
+31|An Efficient Algorithm for Computing Optimal Discrete Voltage Schedules.|Minming Li,F. Frances Yao|85|55|0|7
+32|A Combinatorial Logarithmic Approximation Algorithm for the Directed Telephone Broadcast Problem.|Michael Elkin,Guy Kortsarz|61|29|0|8
+33|The Computational Complexity of Tutte Invariants for Planar Graphs.|Dirk L. Vertigan|63|35|0|2
+34|A Polynomial Time Approximation Scheme for the Multiple Knapsack Problem.|Chandra Chekuri,Sanjeev Khanna|373|217|2|8
+35|The Rectilinear Steiner Arborescence Problem Is NP-Complete.|Weiping Shi,Chen Su|57|25|0|1
+36|Mapping Cycles and Trees on Wrap-Around Butterfly Graphs.|Meghanad D. Wagh,Osman Guzide|20|12|0|6
+37|WDM Switching Networks, Rearrangeable and Nonblocking [w, f]-connectors.|Hung Quang Ngo|6|0|0|4
+38|Special Issue Dedicated To The Thirty-Sixth Annual ACM Symposium On Theory Of Computing (STOC 2004).|László Babai|2|1|0|0
+39|Approximating the Cut-Norm via Grothendieck's Inequality.|Noga Alon,Assaf Naor|213|141|0|11
+40|Lower Bounds for Local Search by Quantum Arguments.|Scott Aaronson|87|25|0|5
+41|Approximating Fractional Packings and Coverings in O(1/epsilon) Iterations.|Daniel Bienstock,Garud Iyengar|25|20|0|1
+42|Typical Properties of Winners and Losers in Discrete Optimization.|René Beier,Berthold Vöcking|67|33|0|3
+43|Spectral Partitioning, Eigenvalue Bounds, and Circle Packings for Graphs of Bounded Genus.|Jonathan A. Kelner|37|20|0|3
+44|Using Nondeterminism to Amplify Hardness.|Alexander Healy,Salil P. Vadhan,Emanuele Viola|65|24|0|10
+45|Logarithmic Lower Bounds in the Cell-Probe Model.|Mihai Patrascu,Erik D. Demaine|87|55|0|9
+46|On Sums of Independent Random Variables with Unbounded Variance and Estimating the Average Degree in a Graph.|Uriel Feige|43|28|0|0
+47|Hit-and-Run from a Corner.|László Lovász,Santosh Vempala|119|80|0|15
+48|Function Matching.|Amihood Amir,Yonatan Aumann,Moshe Lewenstein,Ely Porat|n/a
+49|Finding Four Independent Trees .|Sean Curran,Orlando Lee,Xingxing Yu|76|64|0|0
+50|Efficient Simulations by Queue Machines.|Holger Petersen,John Michael Robson|2|0|0|1
+51|The Complexity of the Local Hamiltonian Problem.|Julia Kempe,Alexei Kitaev,Oded Regev|281|178|0|6
+52|Algorithms for Combining Rooted Triplets into a Galled Phylogenetic Network.|Jesper Jansson,Nguyen Bao Nguyen,Wing-Kin Sung|63|37|0|16
+53|Certifying Polynomial Time and Linear/Polynomial Space for Imperative Programs.|Karl-Heinz Niggl,Henning Wunderlich|41|18|0|1
+54|Fast Construction of Nets in Low-Dimensional Metrics and Their Applications.|Sariel Har-Peled,Manor Mendel|198|117|0|18
+55|Extracting Randomness via Repeated Condensing.|Omer Reingold,Ronen Shaltiel,Avi Wigderson|69|10|0|24
+56|Word Problems and Membership Problems on Compressed Words.|Markus Lohrey|47|32|0|17
+57|Approximation Bounds for a General Class of Precedence Constrained Parallel Machine Scheduling Problems.|Maurice Queyranne,Andreas S. Schulz|58|9|0|9
+58|Oblivious Polynomial Evaluation.|Moni Naor,Benny Pinkas|81|51|6|2
+59|An Algorithm for Computing Fundamental Solutions.|Klaus Weihrauch,Ning Zhong|11|2|0|4
+60|Compact Labeling Scheme for Ancestor Queries.|Serge Abiteboul,Stephen Alstrup,Haim Kaplan,Tova Milo,Theis Rauhe|200|55|3|13
+61|Quantum Query Complexity of Some Graph Problems.|Christoph Dürr,Mark Heiligman,Peter Høyer,Mehdi Mhalla|74|23|0|3
+62|The Approximability of Three-valued MAX CSP.|Peter Jonsson,Mikael Klasson,Andrei A. Krokhin|50|26|0|15
+63|Balanced Allocations: The Heavily Loaded Case.|Petra Berenbrink,Artur Czumaj,Angelika Steger,Berthold Vöcking|85|19|2|8
+64|Linearization and Completeness Results for Terminating Transitive Closure Queries on Spatial Databases.|Floris Geerts,Bart Kuijpers,Jan Van den Bussche|8|3|0|6
+65|Partial Match Queries in Random k-d Trees.|Hua-Huai Chern,Hsien-Kuei Hwang|11|8|0|2
+66|Power from Random Strings.|Eric Allender,Harry Buhrman,Michal Koucký,Dieter van Melkebeek,Detlef Ronneburger|38|28|0|13
+67|Fully Dynamic Orthogonal Range Reporting on RAM.|Christian Worm Mortensen|28|10|0|2

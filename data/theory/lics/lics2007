@@ -1,0 +1,46 @@
+45
+1|22nd IEEE Symposium on Logic in Computer Science (LICS 2007), 10-12 July 2007, Wroclaw, Poland, Proceedings.|n/a
+2|Normalization by Evaluation for Martin-Lof Type Theory with Typed Equality Judgements.|Andreas Abel,Thierry Coquand,Peter Dybjer|38|23|0|13
+3|Strong Normalization as Safe Interaction.|Colin Riba|9|3|0|3
+4|A Dependent Set Theory.|Wojciech Moczydlowski|n/a
+5|Some Methods of Problem Solving in Elementary Geometry.|Thomas C. Hales|3|3|0|2
+6|Principles of Superdeduction.|Paul Brauner,Clément Houtmann,Claude Kirchner|n/a
+7|Complete Sequent Calculi for Induction and Infinite Descent.|James Brotherston,Alex Simpson|37|14|0|6
+8|Highly Efficient Secrecy-Preserving Proofs of Correctness of Computations and Applications.|Michael O. Rabin,Rocco A. Servedio,Christopher Thorpe|18|13|2|11
+9|A Complete Axiomatization of Knowledge and Cryptography.|Mika Cohen,Mads Dam|28|17|0|5
+10|Limits of Multi-Discounted Markov Decision Processes.|Hugo Gimbert,Wieslaw Zielonka|12|8|0|7
+11|Game Relations and Metrics.|Luca de Alfaro,Rupak Majumdar,Vishwanath Raman,Mariëlle Stoelinga|38|30|0|2
+12|The Cost of Punctuality.|Patricia Bouyer,Nicolas Markey,Joël Ouaknine,James Worrell|44|26|0|18
+13|Two-way unary temporal logic over trees.|Mikolaj Bojanczyk|23|11|0|0
+14|Alternation-free modal mu-calculus for data trees.|Marcin Jurdzinski,Ranko Lazic|56|39|0|0
+15|A Contraction Method to Decide MSO Theories of Deterministic Trees.|Angelo Montanari,Gabriele Puppis|5|2|0|2
+16|First-Order and Temporal Logics for Nested Words.|Rajeev Alur,Marcelo Arenas,Pablo Barceló,Kousha Etessami,Neil Immerman,Leonid Libkin|71|49|0|7
+17|A Robust Class of Context-Sensitive Languages.|Salvatore La Torre,Parthasarathy Madhusudan,Gennaro Parlato|100|77|0|16
+18|A New Efficient Simulation Equivalence Algorithm.|Francesco Ranzato,Francesco Tapparo|34|19|0|11
+19|Infinite State AMC-Model Checking for Cryptographic Protocols.|Detlef Kähler,Ralf Küsters,Tomasz Truderung|19|9|0|1
+20|Symmetric Datalog and Constraint Satisfaction Problems in Logspace.|László Egri,Benoit Larose,Pascal Tesson|23|14|0|14
+21|Quantified Equality Constraints.|Manuel Bodirsky,Hubie Chen|29|18|0|15
+22|Tractability and learnability arising from algebras with few subpowers.|Pawel M. Idziak,Petar Markovic,Ralph McKenzie,Matthew Valeriote,Ross Willard|90|63|0|8
+23|Examining The Fragments of G.|Steven James Perron|3|0|0|2
+24|Separating DAG-Like and Tree-Like Proof Systems.|Phuong Nguyen|6|3|0|1
+25|The Complexity of Proving the Discrete Jordan Curve Theorem.|Phuong Nguyen,Stephen A. Cook|6|3|0|2
+26|Reflections on Finite Model Theory.|Phokion G. Kolaitis|1|0|0|0
+27|Locally Excluding a Minor.|Anuj Dawar,Martin Grohe,Stephan Kreutzer|92|64|0|24
+28|Lindstrom theorems for fragments of first-order logic.|Balder ten Cate,Johan van Benthem,Jouko A. Väänänen|16|11|0|4
+29|Environmental Bisimulations for Higher-Order Languages.|Davide Sangiorgi,Naoki Kobayashi,Eijiro Sumii|81|52|0|6
+30|Pi-Calculus in Logical Form.|Marcello M. Bonsangue,Alexander Kurz|31|17|0|15
+31|Characterising Testing Preorders for Finite Probabilistic Processes.|Yuxin Deng,Rob J. van Glabbeek,Matthew Hennessy,Carroll Morgan,Chenyi Zhang|71|56|0|19
+32|Higher-Order Matching, Games and Automata.|Colin Stirling|5|2|0|4
+33|Bialgebraic Operational Semantics and Modal Logic.|Bartek Klin|14|9|0|4
+34|Relational Parametricity for Computational Effects.|Rasmus Ejlers Møgelberg,Alex Simpson|24|11|0|6
+35|Static Name Control for FreshML.|François Pottier|45|26|0|2
+36|Local Action and Abstract Separation Logic.|Cristiano Calcagno,Peter W. O'Hearn,Hongseok Yang|181|136|0|8
+37|Categorical Combinatorics for Innocent Strategies.|Russell Harmer,Martin Hyland,Paul-André Melliès|48|39|0|2
+38|Resource modalities in game semantics.|Paul-André Melliès,Nicolas Tabareau|18|10|0|3
+39|Full abstraction for nominal general references.|Nikos Tzevelekos|35|23|0|13
+40|Stratified Bounded Affine Logic for Logarithmic Space.|Ulrich Schöpp|40|33|0|0
+41|Light Logics and Optimal Reduction: Completeness and Complexity.|Patrick Baillot,Paolo Coppola,Ugo Dal Lago|15|6|0|3
+42|Modified Realizability Interpretation of Classical Linear Logic.|Paulo Oliva|13|7|0|10
+43|Infinite sets that admit fast exhaustive search.|Martín Hötzel Escardó|26|17|0|0
+44|On Noetherian Spaces.|Jean Goubault-Larrecq|19|13|0|6
+45|A computable approach to measure and integration theory.|Abbas Edalat|19|14|0|2

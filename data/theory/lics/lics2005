@@ -1,0 +1,57 @@
+56
+1|20th IEEE Symposium on Logic in Computer Science (LICS 2005), 26-29 June 2005, Chicago, IL, USA, Proceedings.|n/a
+2|Front Cover.|n/a
+3|Cover Pages.|n/a
+4|Foreword.|Prakash Panangaden|n/a
+5|Conference Organization.|n/a
+6|Program Committee.|n/a
+7|Additional Reviewers.|n/a
+8|Relations in Concurrency.|Glynn Winskel|15|7|0|7
+9|Regular Expressions in Process Algebra.|Jos C. M. Baeten,Flavio Corradini|12|3|0|2
+10|Modal Characterisation Theorems over Special Classes of Frames.|Anuj Dawar,Martin Otto|47|41|0|5
+11|Temporal Logics over Unranked Trees.|Pablo Barceló,Leonid Libkin|45|17|0|7
+12|On Locality and Uniform Reduction.|Hannu Niemistö|9|4|0|0
+13|Looping Caterpillars.|Evan Goris,Maarten Marx|n/a
+14|Generalizing Parametricity Using Information-flow.|Geoffrey Washburn,Stephanie Weirich|19|5|0|11
+15|Relational Parametricity and Control.|Masahito Hasegawa|26|10|0|2
+16|Recursive Polymorphic Types and Parametricity in an Operational Framework.|Paul-André Melliès,Jerome Vouillon|52|20|0|2
+17|Semantic Subtyping for the p-Calculus.|Giuseppe Castagna,Rocco De Nicola,Daniele Varacca|n/a
+18|An Insider's Guide to Logic in Telecommunications Data.|Michael Benedikt|1|0|0|0
+19|On Digraph Coloring Problems and Treewidth Duality.|Albert Atserias|90|40|0|2
+20|Quantitative Analysis of Probabilistic Pushdown Automata: Expectations and Variances.|Javier Esparza,Antonín Kucera,Richard Mayr|53|16|0|16
+21|Verifying Infinite Markov Chains with a Finite Attractor or the Global Coarseness Property.|Parosh Aziz Abdulla,Noomene Ben Henda,Richard Mayr|17|4|0|5
+22|Recognizing omega-regular Languages with Probabilistic Automata.|Christel Baier,Marcus Größer|51|36|0|7
+23|A Polynomial Time Presburger Criterion and Synthesis for Number Decision Diagrams.|Jérôme Leroux|48|22|0|6
+24|Model Checking Vs. Generalized Model Checking: Semantic Minimizations for Temporal Logics.|Patrice Godefroid,Michael Huth|30|15|0|13
+25|Model-Checking Hierarchical Structures.|Markus Lohrey|4|3|0|1
+26|Mean-Payoff Parity Games.|Krishnendu Chatterjee,Thomas A. Henzinger,Marcin Jurdzinski|n/a
+27|On the Decidability of Metric Temporal Logic.|Joël Ouaknine,James Worrell|186|105|0|16
+28|Closure Properties of Coalgebra Automata.|Clemens Kupke,Yde Venema|22|7|0|11
+29|Constructing Free Boolean Categories.|François Lamarche,Lutz Straßburger|41|19|0|4
+30|Completions of µ-algebras.|Luigi Santocanale|n/a
+31|Proof-Theoretic Approach to Description-Logic.|Martin Hofmann|44|29|0|0
+32|Process Algebras for Quantitative Analysis.|Jane Hillston|91|61|0|2
+33|A Functional Quantum Programming Language.|Thorsten Altenkirch,Jonathan Grattage|126|58|0|14
+34|Semantics of Separation-Logic Typing and Higher-Order Frame Rules.|Lars Birkedal,Noah Torp-Smith,Hongseok Yang|19|3|0|2
+35|An Observationally Complete Program Logic for Imperative Higher-Order Frame Rules.|Kohei Honda,Nobuko Yoshida,Martin Berger|72|28|0|16
+36|Expressiveness of a Spatial Logic for Trees.|Iovka Boneva,Jean-Marc Talbot,Sophie Tison|15|5|0|4
+37|Proof Theory for Kleene Algebra.|Chris Hardin|1|0|0|1
+38|Name Generation and Linearity.|Glynn Winskel|7|3|0|2
+39|Reactive Systems over Cospans.|Vladimiro Sassone,Pawel Sobocinski|95|33|0|3
+40|Uniform Distributed Synthesis.|Bernd Finkbeiner,Sven Schewe|96|70|0|35
+41|Automated Verification of Selected Equivalences for Security Protocols.|Bruno Blanchet,Martín Abadi,Cédric Fournet|294|193|0|28
+42|Tarski's Influence on Computer Science.|Solomon Feferman|17|8|0|2
+43|Logic and Systems Biology.|Walter Fontana|n/a
+44|Eager Normal Form Bisimulation.|Soren Lassen|26|12|0|0
+45|Separation with Streams in the lambdaµ-calculus.|Alexis Saurin|49|35|0|12
+46|The Geometry of Linear Higher-Order Recursion.|Ugo Dal Lago|30|15|0|1
+47|Ludics Nets, a game Model of Concurrent Interaction.|Claudia Faggian,François Maurel|35|12|0|6
+48|Asynchronous Games 4: A Fully Complete Model of Propositional Linear Logic.|Paul-André Melliès|42|29|0|0
+49|Herbrand Constraint Abduction.|Michael J. Maher|24|12|0|2
+50|Certifying Compilation for a Language with Stack Allocation.|Limin Jia,Frances Spalding,David Walker,Neal Glew|13|0|0|4
+51|Inverse and Implicit Functions in Domain Theory.|Abbas Edalat,Dirk Pattinson|8|2|0|6
+52|Operational Domain Theory and Topology of a Sequential Programming Language.|Martín Hötzel Escardó,Weng Kin Ho|10|2|0|0
+53|Generalized Majority-Minority Operations are Tractable.|Víctor Dalmau|56|20|0|1
+54|Small Substructures and Decidability Issues for First-Order Logic with Two Variables.|Emanuel Kieronski,Martin Otto|43|33|0|6
+55|Definability on a Random 3-CNF Formula.|Albert Atserias|2|0|0|0
+56|Existential Positive Types and Preservation under Homomorphisisms.|Benjamin Rossman|74|15|0|1

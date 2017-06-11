@@ -1,0 +1,153 @@
+152
+1|Proceedings of the 33st Conference on Design Automation, Las Vegas, Nevada, USA, Las Vegas Convention Center, June 3-7, 1996.|Thomas Pennino,Ellen J. Yoffa|n/a
+2|Package and Interconnect Modeling of the HFA3624, a 2.4GHz RF to IF Converter.|Mattan Kamon,Steve S. Majors|12|0|1|1
+3|HEAT: Hierarchical Energy Analysis Tool.|Janardhan H. Satyanarayana,Keshab K. Parhi|61|2|0|29
+4|Opportunities and Obstacles in Low-Power System-Level CAD.|Andrew Wolfe|4|0|0|0
+5|POSE: Power Optimization and Synthesis Environment.|Sasan Iman,Massoud Pedram|48|5|3|7
+6|Early Power Exploration - A World Wide Web Application.|David Lidsky,Jan M. Rabaey|82|14|3|2
+7|Behavioral Synthesis.|Raul Camposano|n/a
+8|A Register File and Scheduling Model for Application Specific Processor Synthesis.|Ehat Ercanli,Christos A. Papachristou|11|4|4|0
+9|Optimized Code Generation of Multiplication-free Linear Transforms.|Mahesh Mehendale,G. Venkatesh,Sunil D. Sherlekar|8|1|0|1
+10|Concurrent Analysis Techniques for Data Path Timing Optimization.|Chuck Monahan,Forrest Brewer|6|0|0|0
+11|HDL Optimization Using Timed Decision Tables.|Jian Li,Rajesh K. Gupta|26|0|0|10
+12|Efficient Partial Enumeration for Timing Analysis of Asynchronous Systems.|Eric Verlind,Gjalt G. de Jong,Bill Lin|26|2|5|1
+13|Verification of asynchronous circuits using Time Petri Net unfolding.|Alexei L. Semenov,Alexandre Yakovlev|57|10|0|5
+14|Methodology and Tools for State Encoding in Asynchronous Circuit Synthesis.|Jordi Cortadella,Michael Kishinevsky,Alex Kondratyev,Luciano Lavagno,Alexandre Yakovlev|21|3|0|3
+15|A Technique for Synthesizing Distributed Burst-mode Circuits.|Prabhakar Kudva,Ganesh Gopalakrishnan,Hans M. Jacobson|34|1|0|7
+16|Espresso-HF: A Heuristic Hazard-Free Minimizer for Two-Level Logic.|Michael Theobald,Steven M. Nowick,Tao Wu|26|4|0|4
+17|Synthesis for Hazard-free Customized CMOS Complex-Gate Networks Under Multiple-Input Changes.|Prabhakar Kudva,Ganesh Gopalakrishnan,Hans M. Jacobson,Steven M. Nowick|34|5|2|3
+18|Partitioning of VLSI Circuits and Systems.|Frank M. Johannes|76|17|2|0
+19|New Spectral Linear Placement and Clustering Approach.|Jianmin Li,John Lillis,Lung-Tien Liu,Chung-Kuan Cheng|24|2|3|2
+20|Characterization and Parameterized Random Generation of Digital Circuits.|Michael D. Hutton,Jerry P. Grossman,Jonathan Rose,Derek G. Corneil|65|6|1|11
+21|A Probability-Based Approach to VLSI Circuit Partitioning.|Shantanu Dutt,Wenyong Deng|85|10|0|10
+22|Verification of Electronic Systems.|Alberto L. Sangiovanni-Vincentelli,Patrick C. McGeer,Alexander Saldanha|47|9|7|2
+23|Design Considerations and Tools for Low-voltage Digital System Design.|Anantha Chandrakasan,Isabel Yang,Carlin Vieri,Dimitri Antoniadis|48|12|0|3
+24|VAMP: A VHDL-Based Concept for Accurate Modeling and Post Layout Timing Simulation of Electronic Systems.|Bernhard Wunder,Gunther Lehmann,Klaus D. Müller-Glaser|2|0|0|1
+25|A Systematic Technique for Verifying Critical Path Delays in a 300MHz Alpha CPU Design Using Circuit Simulation.|Madhav P. Desai,Yao-Tsung Yen|17|1|4|1
+26|High-Level Synthesis for Testability: A Survey and Perspective.|Kenneth D. Wagner,Sujit Dey|72|3|0|4
+27|Introspection: A Low Overhead Binding Technique During Self-Diagnosing Microarchitecture Synthesis.|Balakrishnan Iyer,Ramesh Karri|9|0|0|0
+28|Lower Bounds on Test Resources for Scheduled Data Flow Graphs.|Ishwar Parulkar,Sandeep K. Gupta,Melvin A. Breuer|10|0|0|1
+29|Symphony: A Simulation Backplane for Parallel Mixed-Mode Co-Simulation of VLSI Systems.|Antonio R. W. Todesco,Teresa H. Y. Meng|13|2|1|0
+30|Oscillation Control in Logic Simulation using Dynamic Dominance Grahps.|Peter Dahlgren|1|0|0|1
+31|Compact Vector Generation for Accurate Power Simulation.|Shi-Yu Huang,Kuang-Chien Chen,Kwang-Ting Cheng,Tien-Chien Lee|20|0|0|1
+32|Improving the Efficiency of Power Simulators by Input Vector Compaction.|Chi-Ying Tsui,Radu Marculescu,Diana Marculescu,Massoud Pedram|40|2|0|4
+33|Efficient Communication in a Design Environment.|Idalina Videira,Paulo Veríssimo,Helena Sarmento|1|0|0|0
+34|A Description Language for Design Process Management.|Peter R. Sutton,Stephen W. Director|9|0|0|3
+35|Improved Tool and Data Selection in Task Management.|John W. Hagerman,Stephen W. Director|6|0|0|0
+36|Application of a Markov Model to the Measurement, Simulation, and Diagnosis of an Iterative Design Process.|Eric W. Johnson,Luis A. Castillo,Jay B. Brockman|24|6|0|8
+37|Tutorial: Design of a Logic Synthesis System.|Richard L. Rudell|30|3|3|0
+38|On Solving Covering Problems.|Olivier Coudert|171|41|4|3
+39|A New Complete Diagnosis Patterns for Wiring Interconnects.|Sungju Park|15|2|0|1
+40|A Satisfiability-Based Test Generator for Path Delay Faults in Combinational Circuts.|Chih-Ang Chen,Sandeep K. Gupta|59|14|0|2
+41|On Static Compaction of Test Sequences for Synchronous Sequential Circuits.|Irith Pomeranz,Sudhakar M. Reddy|122|19|0|53
+42|An O(n) Algorithm for Transistor Stacking with Performance Constraints.|Bulent Basaran,Rob A. Rutenbar|31|1|4|5
+43|Use of Sensitivities and Generalized Substrate Models in Mixed-Signal IC Design.|Paolo Miliozzi,Iasson Vassiliou,Edoardo Charbon,Enrico Malavasi,Alberto L. Sangiovanni-Vincentelli|11|1|0|2
+44|RTL Emulation: The Next Leap in System Verification.|Sanjay Sawant,Paul Giordano|11|0|5|0
+45|Equation-Based Behavioral Model Generation for Nonlinear Analog Circuits.|Carsten Borchers,Lars Hedrich,Erich Barke|26|2|0|6
+46|Multilevel Logic Synthesis for Arithmetic Functions.|Chien-Chung Tsai,Malgorzata Marek-Sadowska|38|8|0|0
+47|Synthesis by Spectral Translation Using Boolean Decision Diagrams.|Jeffery P. Hansen,Masatoshi Sekine|31|6|0|1
+48|Delay Minimal Decomposition of Multiplexers in Technology Mapping.|Shashidhar Thakur,D. F. Wong,Shankar Krishnamoorthy|22|3|1|0
+49|Error Correction Based on Verification Techniques.|Shi-Yu Huang,Kuang-Chien Chen,Kwang-Ting Cheng|38|7|1|5
+50|Layout Driven Selecting and Chaining of Partial Scan.|Chau-Shen Chen,Kuang-Hui Lin,TingTing Hwang|12|0|0|0
+51|Test Point Insertion: Scan Paths through Combinational Logic.|Chih-Chang Lin,Malgorzata Marek-Sadowska,Kwang-Ting Cheng,Mike Tien-Chien Lee|8|0|1|2
+52|Area Efficient Pipelined Pseudo-Exhaustive Testing with Retiming.|Huoy-Yu Liou,Ting-Ting Y. Lin,Chung-Kuan Cheng|1|0|0|0
+53|Stable and Efficient Reduction of Large, Multiport RC Networks by Pole Analysis via Congruence Transformations.|Kevin J. Kerns,Andrew T. Yang|163|38|5|1
+54|Homotopy Techniques for Obtaining a DC Solution of Large-Scale MOS Circuits.|Jaijeet S. Roychowdhury,Robert C. Melville|30|10|0|2
+55|Efficient AC and Noise Analysis of Two-Tone RF Circuits.|Ricardo Telichevesky,Kenneth S. Kundert,Jacob White|138|36|14|4
+56|Synthesis Tools for Mixed-Signal ICs: Progress on Frontend and Backend Strategies.|L. Richard Carley,Georges G. E. Gielen,Rob A. Rutenbar,Willy M. C. Sansen|107|12|0|13
+57|Code Generation and Analysis for the Functional Verification of Microprocessors.|Anoosh Hosseini,Dimitrios Mavroidis,Pavlos Konas|52|4|0|0
+58|Innovative Verification Strategy Reduces Design Cycle Time for High-End Sparc Processor.|Val Popescu,Bill McNamara|20|2|6|0
+59|Hardware Emulation for Functional Verification of K5.|Gopi Ganapathy,Ram Narayan,Glenn Jorden,Denzil Fernandez,Ming Wang,Jim Nishimura|77|30|25|0
+60|Functional Verification Methodology for the PowerPC 604 Microprocessor.|James Monaco,David Holloway,Rajesh Raina|59|4|6|1
+61|I'm Done Simulating: Now What? Verification Coverage Analysis and Correctness Checking of the DECchip 21164 Alpha Microprocessor.|Michael Kantrowitz,Lisa M. Noack|131|17|4|0
+62|Glitch Analysis and Reduction in Register Transfer Level.|Anand Raghunathan,Sujit Dey,Niraj K. Jha|62|10|5|12
+63|An Effective Power Management Scheme for RTL Design Based on Multiple Clocks.|Christos A. Papachristou,Mark Spining,Mehrdad Nourani|24|1|1|1
+64|Power Optimization in Programmable Processors and ASIC Implementations of Linear Systems: Transformation-based Approach.|Mani B. Srivastava,Miodrag Potkonjak|28|1|0|5
+65|Scheduling Techniques to Enable Power Management.|José Monteiro,Srinivas Devadas,Pranav Ashar,Ashutosh Mauskar|134|20|5|4
+66|Electromigration Reliability Enhancement via Bus Activity Distribution.|Aurobindo Dasgupta,Ramesh Karri|32|15|1|0
+67|A Sparse Image Method for BEM Capacitance Extraction.|Byron Krauter,Yu Xia,E. Aykut Dengi,Lawrence T. Pileggi|19|0|0|4
+68|A Parallel Precorrected FFT Based Capacitance Extraction Program for Signal Integrity Analysis.|Narayan R. Aluru,V. B. Nadkarni,James White|21|7|0|1
+69|Multipole Accelerated Capacitance Calculation for Structures with Multiple Dielectrics with high Permittivity Ratios.|Johannes Tausch,Jacob K. White|3|0|0|1
+70|Fast Parameters Extraction of General Three-Dimension Interconnects Using Geometry Independent Measured Equation of Invariance.|Weikai Sun,Wayne Wei-Ming Dai,Wei Hong II|15|0|0|3
+71|Efficient Full-Wave Electromagnetic Analysis via Model-Order Reduction of Fast Integral Transforms.|Joel R. Philips,Eli Chiprout,David D. Ling|66|15|1|4
+72|Useful-Skew Clock Routing With Gate Sizing for Low Power Design.|Joe G. Xi,Wayne Wei-Ming Dai|84|19|5|1
+73|Sizing of Clock Distribution Networks for High Performance CPU Chips.|Madhav P. Desai,Radenko Cvijetic,James Jensen|75|22|4|0
+74|New Performance Driven Routing Techniques With Explicit Area/Delay Tradeoff and Simultaneous Wire Sizing.|John Lillis,Chung-Kuan Cheng,Ting-Ting Y. Lin,Chin-Yen Ho|145|7|30|11
+75|Constructing Lower and Upper Bounded Delay Routing Trees Using Linear Programming.|Jaewon Oh,Iksoo Pyo,Massoud Pedram|53|6|40|1
+76|Fast Performance-Driven Optimization for Buffered Clock Trees Based on Lagrangian Relaxation.|Chung-Ping Chen,Yao-Wen Chang,D. F. Wong|55|6|1|17
+77|How to Write Awk and Perl Scripts to Enable Your EDA Tools to Work Together.|Robert C. Hutchins,Shankar Hemmady|6|2|2|0
+78|The Automatic Generation of Functional Test Vectors for Rambus Designs.|K. D. Jones,J. P. Privitera|20|0|7|0
+79|Functional Verification Methodology of Chameleon Processor.|Françoise Casaubieilh,Anthony McIsaac,Mike Benjamin,Mike Bartley,François Pogodalla,Frédéric Rocheteau,Mohamed Belhadj,Jeremy Eggleton,Gérard Mas,Geoff Barrett,Christian Berthet|47|4|5|2
+80|Experience in Designing a Large-scale Multiprocessor using Field-Programmable Devices and Advanced CAD Tools.|Stephen Dean Brown,Naraig Manjikian,Zvonko G. Vranesic,S. Caranci,A. Grbic,R. Grindley,M. Gusat,K. Loveless,Zeljko Zilic,Sinisa Srbljic|15|2|5|1
+81|Power Estimation of Cell-Based CMOS Circuits.|Alessandro Bogliolo,Luca Benini,Bruno Riccò|40|5|0|10
+82|A New Hybrid Methodology for Power Estimation.|David Ihsin Cheng,Kwang-Ting Cheng,Deborah C. Wang,Malgorzata Marek-Sadowska|15|1|1|1
+83|A Statistical Approach to the Estimation of Delay Dependent Switching Activities in CMOS Combinational Circuits.|Yong Je Lim,Kyung-Im Son,Heung-Joon Park,Mani Soma|17|1|0|0
+84|Engineering Change in a Non-Deterministic FSM Setting.|Sunil P. Khatri,Amit Narayan,Sriram C. Krishnan,Kenneth L. McMillan,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli|26|3|1|0
+85|Identifying Sequential Redundancies Without Search.|Mahesh A. Iyer,David E. Long,Miron Abramovici|77|12|2|10
+86|A Fast State Reduction Algorithm for Incompletely Specified Finite State Machines.|Hiroyuki Higuchi,Yusuke Matsunaga|17|2|0|0
+87|Symbolic Optimization of FSM Networks Based on Sequential ATPG Techniques.|Fabrizio Ferrandi,Franco Fummi,Enrico Macii,Massimo Poncino,Donatella Sciuto|10|0|0|8
+88|Module Compaction in FPGA-based Regular Datapaths.|Andreas Koch|18|1|0|3
+89|Network Partitioning into Tree Hierarchies.|Ming-Ter Kuo,Lung-Tien Liu,Chung-Kuan Cheng|6|1|0|2
+90|Efficient Approximation Algorithms for Floorplan Area Minimization.|Danny Z. Chen,Xiaobo Hu|3|0|0|2
+91|Optimal Wire-Sizing Formular Under the Elmore Delay Model.|Chung-Ping Chen,Yao-Ping Chen,D. F. Wong|106|16|2|17
+92|VLSI Design and System Level Verification for the Mini-Disc.|Tetsuya Fujimoto,Takashi Kambe|2|0|0|0
+93|Design Methodologies for consumer-use video signal processing LSIs.|Hisakazu Edamatsu,Satoshi Ikawa,Katsuya Hasegawa|1|0|0|1
+94|Design Methodology for Analog High Frequency ICs.|Yasunori Miyahara,Yoshimoto Oumi,Seijiro Moriyama|8|0|0|2
+95|Issues and Answers in CAD Tool Interoperability.|Mike Murray,Uwe B. Meding,Bill Berg,Yatin Trivedi,Bill McCaffrey,Ted Vucurevich|2|1|0|0
+96|The Design of Mixed Hardware/Software Systems.|Jay K. Adams,Donald E. Thomas|83|5|0|2
+97|Constructing Application-Specific Heterogeneous Embedded Architectures from Custom HW/SW Applications.|Steven Vercauteren,Bill Lin,Hugo De Man|107|12|0|3
+98|A Hardware/Software Partitioning Algorithm for Designing Pipelined ASIPs with Least Gate Counts.|Nguyen-Ngoc Bình,Masaharu Imai,Akichika Shiomi,Nobuyuki Hikichi|57|10|0|1
+99|Analysis of RC Interconnections Under Ramp Input.|Andrew B. Kahng,Sudhakar Muddu|12|2|0|1
+100|An AWE Technique for Fast Printed Circuit Board Delays.|Bernard N. Sheehan|2|0|0|1
+101|RC-Interconnect Macromodels for Timing Simulation.|Florentin Dartu,Bogdan Tutuianu,Lawrence T. Pileggi|5|1|0|2
+102|iCET: A Complete Chip-Level Thermal Reliability Diagnosis Tool for CMOS VLSI Chips.|Yi-Kan Cheng,Chin-Chi Teng,Abhijit Dharchoudhury,Elyse Rosenbaum,Sung-Mo Kang|9|1|1|0
+103|Techniques for Verifying Superscalar Microprocessors.|Jerry R. Burch|137|13|5|1
+104|A Scalable Formal Verification Methodology for Pipelined Microprocessors.|Jeremy R. Levitt,Kunle Olukotun|40|5|5|1
+105|State Reduction Using Reversible Rules.|C. Norris Ip,David L. Dill|37|2|5|11
+106|Formal Verification of Embedded Systems based on CFSM Networks.|Felice Balarin,Harry Hsieh,Attila Jurecska,Luciano Lavagno,Alberto L. Sangiovanni-Vincentelli|63|6|6|6
+107|Combined Control Flow Dominated and Data Flow Dominated High-Level Synthesis.|Elisabeth Berrebi,Polen Kission,Serge Vernalde,S. De Troch,Jean-Claude Herluison,Jean Fréhel,Ahmed Amine Jerraya,Ivo Bolsens|21|0|3|3
+108|FADIC: Architectural Synthesis applied in IC Design.|J. Huisken,F. Welten|4|0|0|0
+109|Domain-Specific High-Level Modeling and Synthesis for ATM Switch Design Using VHDL.|Mike Tien-Chien Lee,Yu-Chin Hsu,Ben Chen,Masahiro Fujita|15|1|0|1
+110|Using Register-Transfer Paths in Code Generation for Heterogeneous Memory-Register Architectures.|Guido Araujo,Sharad Malik,Mike Tien-Chien Lee|63|10|0|6
+111|Address Calculation for Retargetable Compilation and Exploration of Instruction-Set Architectures.|Clifford Liem,Pierre G. Paulin,Ahmed Amine Jerraya|80|8|0|2
+112|Analysis of Operation Delay and Execution Rate Constraints for Embedded Systems.|Rajesh K. Gupta|1|0|0|0
+113|Efficient Software Performance Estimation Methods for Hardware/Software Codesign.|Kei Suzuki,Alberto L. Sangiovanni-Vincentelli|124|17|1|21
+114|An Explicit RC-Circuit Delay Approximation Based on the First Three Moments of the Impulse Response.|Bogdan Tutuianu,Florentin Dartu,Lawrence T. Pileggi|111|26|1|5
+115|Modeling the Effects of Temporal Proximity of Input Transitions on Gate Propagation Delay and Transition Time.|V. Chandramouli,Karem A. Sakallah|63|6|0|1
+116|Optimal Clock Skew Scheduling Tolerant to Process Variations.|José Luis Neves,Eby G. Friedman|103|21|0|21
+117|An Efficient Equivalence Checker for Combinational Circuits.|Yusuke Matsunaga|145|14|19|0
+118|High Performance BDD Package By Exploiting Memory Hiercharchy.|Jagesh V. Sanghavi,Rajeev K. Ranjan,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli|85|17|5|1
+119|Implementation of an Efficient Parallel BDD Package.|Tony Stornetta,Forrest Brewer|96|19|5|0
+120|Word Level Model Checking - Avoiding the Pentium FDIV Error.|Edmund M. Clarke,Manpreet Khaira,Xudong Zhao|52|7|7|2
+121|Formal Verification of PowerPC Arrays Using Symbolic Trajectory Evaluation.|Manish Pandey,Richard Raimi,Derek L. Beatty,Randal E. Bryant|49|1|0|7
+122|RuleBase: An Industry-Oriented Formal Verification Tool.|Ilan Beer,Shoham Ben-David,Cindy Eisner,Avner Landver|179|15|15|23
+123|Bit-Level Analysis of an SRT Divider Circuit.|Randal E. Bryant|52|9|7|0
+124|Integrating Formal Verification Methods with A Conventional Project Design Flow.|Ásgeir Th. Eiríksson|35|6|6|0
+125|A System Design Methodology for Software/Hardware Co-Development of Telecommunication Network Applications.|Bill Lin|19|2|0|0
+126|A Strategy for Real-Time Kernel Support in Application-Specific HW/SW Embedded Architectures.|Steven Vercauteren,Bill Lin,Hugo De Man|26|5|1|2
+127|Software Development in a Hardware Simulation Environment.|Benny Schnaider,Einat Yogev|26|2|5|0
+128|Compiled HW/SW Co-Simulation.|Vojin Zivojnovic,Heinrich Meyr|101|19|3|5
+129|Stochastic Sequential Machine Synthesis Targeting Constrained Sequence Generation.|Diana Marculescu,Radu Marculescu,Massoud Pedram|42|2|5|16
+130|Energy Characterization based on Clustering.|Huzefa Mehta,Robert Michael Owens,Mary Jane Irwin|118|19|1|12
+131|Architectural Retiming: Pipelining Latency-Constrained Circuts.|Soha Hassoun,Carl Ebeling|66|13|8|7
+132|Optimizing Systems for Effective Block-Processing: The k-Delay Problem.|Kumar N. Lalgudi,Marios C. Papaefthymiou,Miodrag Potkonjak|6|0|0|1
+133|Optimal Clock Period FPGA Technology Mapping for Sequential Circuits.|Peichen Pan,C. L. Liu|44|9|4|9
+134|Structural Gate Decomposition for Depth-Optimal Technology Mapping in LUT-based FPGA Design.|Jason Cong,Yean-Yow Hwang|26|7|4|8
+135|A Boolean Approach to Performance-Directed Technology Mapping for LUT-Based FPGA Designs.|Christian Legl,Bernd Wurth,Klaus Eckl|32|7|0|2
+136|New Algorithms for Gate Sizing: A Comparative Study.|Olivier Coudert,Ramsey W. Haddad,Srilatha Manne|82|18|2|6
+137|Post-Layout Optimization for Deep Submicron Design.|Koichi Sato,Masamichi Kawarabayashi,Hideyuki Emura,Naotaka Maeda|30|6|4|1
+138|Enhanced Network Flow Algorithm for Yield Optimization.|Cyrus Bamji,Enrico Malavasi|31|7|1|1
+139|Hierarchical Electromigration Reliability Diagnosis for VLSI Interconnects.|Chin-Chi Teng,Yi-Kan Cheng,Elyse Rosenbaum,Sung-Mo Kang|7|3|1|1
+140|Using Articulation Nodes to Improve the Efficiency of Finite-Element based Resistance Extraction.|Arjan J. van Genderen,N. P. van der Meijs|17|0|0|6
+141|Extracting Circuit Models for Large RC Interconnections that are Accurate up to a Predefined Signal Frequency.|P. J. H. Elias,N. P. van der Meijs|22|6|1|6
+142|VHDL & Verilog Compared & Contrasted - Plus Modeled Example Written in VHDL, Verilog and C.|Douglas J. Smith|n/a
+143|VDHL Development System and Coding Standard.|Hans Sahm,Claus Mayer,Jörg Pleickhardt,Johannes Schuck,Stefan Späth|n/a
+144|An Exact Algorithm for Low Power Library-Specific Gate Re-Sizing.|De-Sheng Chen,Majid Sarrafzadeh|55|10|0|3
+145|Reducing Power Dissipation after Technology Mapping by Structural Transformations.|Bernhard Rohfleisch,Alfred Kölbl,Bernd Wurth|52|3|0|0
+146|Desensitization for Power Reduction in Sequential Circuits.|Xiangfeng Chen,Peichen Pan,C. L. Liu|3|0|0|0
+147|Serial Fault Emulation.|Luc Burgun,Frédéric Reblewski,Gérard Fenelon,Jean Barbier,Olivier Lepape|n/a
+148|Partial Scan Design Based on Circuit State Information.|Dong Xiang,Srikanth Venkataraman,W. Kent Fuchs,Janak H. Patel|31|5|0|3
+149|Pseudorandom-Pattern Test Resistance in High-Performance DSP Datapaths.|Laurence Goodby,Alex Orailoglu|7|0|0|3
+150|Hot-Carrier Reliability Enhancement via Input Reordering and Transistor Sizing.|Aurobindo Dasgupta,Ramesh Karri|10|1|0|1
+151|A Methodology for Concurrent Fabrication Process/Cell Library Optimization.|Arun N. Lokanathan,Jay B. Brockman,John E. Renaud|7|0|0|4
+152|Computing Parametric Yield Adaptively Using Local Linear Models.|Mien Li,Linda S. Milor|6|0|0|0

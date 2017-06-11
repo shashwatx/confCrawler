@@ -1,0 +1,195 @@
+194
+1|Proceedings of the Sixteenth National Conference on Artificial Intelligence and Eleventh Conference on Innovative Applications of Artificial Intelligence, July 18-22, 1999, Orlando, Florida, USA.|Jim Hendler,Devika Subramanian|n/a
+2|Time-Quality Tradeoffs in Reallocative Negotiation with Combinatorial Contract Types.|Martin Andersson,Tuomas Sandholm|57|9|0|12
+3|Power, Dependence and Stability in Multiagent Plans.|Sviatoslav Brainov,Tuomas Sandholm|43|6|0|4
+4|Combatting Maelstroms in Networks of Communicating Agents.|James E. Hanson,Jeffrey O. Kephart|6|0|0|0
+5|Learning Quantitative Knowledge for Multiagent Coordination.|David Jensen,Michael Atighetchi,Régis Vincent,Victor R. Lesser|30|1|0|12
+6|Distributed Games: From Mechanisms to Protocols.|Dov Monderer,Moshe Tennenholtz|50|11|0|1
+7|Evolutionary Economic Agents.|Fergus Nolan,Jarek Wilkiewicz,Dipankar Dasgupta,Stan Franklin|4|0|0|0
+8|Bargaining with Deadlines.|Tuomas Sandholm,Nir Vulkan|168|51|1|10
+9|Verifying that Agents Implement a Communication Language.|Michael Wooldridge|31|7|0|4
+10|Recognizing Structure in Web Pages using Similarity Queries.|William W. Cohen|75|8|0|10
+11|Navigational Plans For Data Integration.|Marc Friedman,Alon Y. Levy,Todd D. Millstein|381|130|1|2
+12|Regression testing for wrapper maintenance.|Nicholas Kushmerick|112|21|4|5
+13|A Knowledge-Based Approach to Organizing Retrieved Documents.|Wanda Pratt,Marti A. Hearst,Lawrence M. Fagan|136|34|3|10
+14|A Limitation of the Generalized Vickrey Auction in Electronic Commerce: Robustness against False-name Bids.|Yuko Sakurai,Makoto Yokoo,Shigeo Matsubara|75|11|0|21
+15|Hybrid Neural Plausibility Networks for News Agents.|Stefan Wermter,Christo Panchev,Garen Arevian|40|14|0|30
+16|Cognitive Classification.|Janet Aisbett,Greg Gibbon|n/a
+17|What are contentful mental states? Dretske's theory of mental content viewed in the light of robot learning and planning algortihms.|Paul R. Cohen,Mary Litch|6|0|0|3
+18|Student-Sensitive Multimodal Explanation Generation for 3D Learning Environments.|Brent H. Daniel,William H. Bares,Charles B. Callaway,James C. Lester|12|1|0|1
+19|Moving Right Along: A Computational Model of Metaphoric Reasoning about Events.|Srinivas Narayanan|129|56|0|10
+20|Delivering Hints in a Dialogue-Based Intelligent Tutoring System.|Yujian Zhou,Reva Freedman,Michael Glass,Joel A. Michael,Allen A. Rovick,Martha W. Evens|58|22|0|9
+21|On Integrating Constraint Propagation and Linear Programming for Combinatorial Optimization.|John N. Hooker,Greger Ottosson,Erlendur S. Thorsteinsson,Hak-Jin Kim|68|8|0|13
+22|Hierarchical Constraint Satisfaction in Spatial Databases.|Dimitris Papadias,Panos Kalnis,Nikos Mamoulis|15|4|0|2
+23|A Constraint-Based Model for Cooperative Response Generation in Information Dialogues.|Yan Qu,Steve Beale|19|3|0|1
+24|Solving Crossword Puzzles as Probabilistic Constraint Satisfaction.|Noam M. Shazeer,Michael L. Littman,Greg A. Keim|33|5|0|3
+25|Encodings of Non-Binary Constraint Satisfaction Problems.|Kostas Stergiou,Toby Walsh|73|21|0|12
+26|A Generic Customizable Framework for Inverse Local Consistency.|Gérard Verfaillie,David Martinez,Christian Bessière|22|7|0|3
+27|Functional Elimination and 0/1/All Constraints.|Yuanlin Zhang,Roland H. C. Yap,Joxan Jaffar|9|3|0|5
+28|An Evolvable Hardware Chip and Its Application as a Multi-Function Prosthetic Hand Controller.|Isamu Kajitani,Tsutomu Hoshino,Nobuki Kajihara,Masaya Iwata,Tetsuya Higuchi|66|5|0|11
+29|Initializing RBF-Networks with Small Subsets of Training Examples.|Miroslav Kubat,Martin Cooperson Jr.|3|0|0|3
+30|A Neural Network Model of Dynamically Fluctuating Perception of Necker Cube as well as Dot Patterns.|Hiroaki Kudo,Tsuyoshi Yamamura,Noboru Ohnishi,Shin Kobayashi,Noboru Sugie|0|0|0|0
+31|What's in a Fuzzy Set?|Marco Piastra|1|0|0|1
+32|ARGUS: An Automated Multi-Agent Visitor Identification System.|Rahul Sukthankar,Robert G. Stockton|6|0|0|2
+33|Implicative and conjunctive fuzzy rules - A tool for reasoning from knowledge and examples.|Laurent Ughetto,Didier Dubois,Henri Prade|43|13|0|19
+34|Does Prior Knowledge Facilitate the Development of Knowledge-based Systems?|Paul R. Cohen,Vinay K. Chaudhri,Adam Pease,Robert Schrag|59|8|0|8
+35|Representing Problem-Solving for Knowledge Refinement.|Susan Craw,Robin Boswell|13|2|0|6
+36|Deriving Expectations to Guide Knowledge Base Creation.|Jihie Kim,Yolanda Gil|39|3|0|14
+37|Designing Scripts to Guide Users in Modifying Knowledge-based Systems.|Marcelo Tallis,Yolanda Gil|38|3|0|7
+38|An Integrated Shell and Methodology for Rapid Development of Knowledge-Based Agents.|Gheorghe Tecuci,Mihai Boicu,Kathryn Wright,Seok Won Lee,Dorin Marcu,Michael Bowman|39|1|0|25
+39|A New Method for Consequence Finding and Compilation in Restricted Languages.|Alvaro del Val|60|9|0|4
+40|Constraint-based integrity checking in abductive and non-monotonic extensions of constraint logic programming.|Aditya Ghose,Srinivas Padmanabhuni|1|0|0|0
+41|Partonomic Reasoning as Taxonomic Reasoning in Medicine.|Udo Hahn,Stefan Schulz,Martin Romacker|47|4|0|13
+42|Verbalization of High-Level Formal Proofs.|Amanda M. Holland-Minkley,Regina Barzilay,Robert L. Constable|37|6|0|5
+43|On Criteria for Formal Theory Building: Applying Logic and Automated Reasoning Tools to the Social Sciences.|Jaap Kamps|12|2|0|3
+44|A Policy Description Language.|Jorge Lobo,Randeep Bhatia,Shamim A. Naqvi|n/a
+45|A Semantic Decomposition of Defeasible Logics.|Michael J. Maher,Guido Governatori|57|15|0|34
+46|Sacre: a Constraint Satisfaction Problem Based Theorem Prover.|Jean-Michel Richer,Jean-Jacques Chabrier|1|1|0|0
+47|Exploiting the Architecture of Dynamic Systems.|Xavier Boyen,Daphne Koller|59|20|0|3
+48|Estimating Generalization Error Using Out-of-Bag Estimates.|Tom Bylander,Dennis Hanzlik|3|3|0|0
+49|Relational Learning of Pattern-Match Rules for Information Extraction.|Mary Elaine Califf,Raymond J. Mooney|706|222|6|1
+50|A Simple, Fast, and Effictive Rule Learner.|William W. Cohen,Yoram Singer|n/a
+51|Monte Carlo Localization: Efficient Position Estimation for Mobile Robots.|Dieter Fox,Wolfram Burgard,Frank Dellaert,Sebastian Thrun|1060|358|1|59
+52|Detecting Feature Interactions from Accuracies of Random Feature Subsets.|Thomas R. Ioerger|5|0|0|3
+53|Simulation-based inference for plan monitoring.|Neal Lesh,James F. Allen|3|0|0|0
+54|Selective Sampling for Nearest Neighbor Classifiers.|Michael Lindenbaum,Shaul Markovitch,Dmitry Rusakov|158|98|0|4
+55|Toward a Theoretical Understanding of Why and When Decision Tree Pruning Algorithms Fail.|Tim Oates,David Jensen|18|2|0|0
+56|Feature Selection for Ensembles.|David W. Opitz|340|164|0|1
+57|Efficient exploration for optimizing immediate reward.|Dale Schuurmans,Lloyd Greenwald|2|0|0|1
+58|Towards Diagram Processing: A Diagrammatic Information System.|Michael Anderson|7|1|0|7
+59|Influence-Based Model Decomposition.|Christopher Bailey-Kellogg,Feng Zhao|12|0|0|9
+60|Model-based Support for Mutable Parametric Design Optimization.|Ravi Kapadia,Gautam Biswas|0|0|0|0
+61|Qualifying the Expressivity/Efficiency Tradeoff: Reformation-Based Diagnosis.|Helmut Prendinger,Mitsuru Ishizuka|6|0|0|5
+62|The Role of Lexicalization and Pruning for Base Noun Phrase Grammars.|Claire Cardie,David R. Pierce|22|0|0|0
+63|Two Dimensional Generalization in Information Extraction.|Joyce Yue Chai,Alan W. Biermann,Curry I. Guinn|16|5|0|2
+64|Combining Collaborative Filtering with Personal Agents for Better Recommendations.|Nathaniel Good,J. Ben Schafer,Joseph A. Konstan,Al Borchers,Badrul M. Sarwar,Jonathan L. Herlocker,John Riedl|976|369|64|19
+65|Application-Embedded Retrieval from Distributed Free-Text Collections.|Vladimir A. Kulyukin|24|5|9|2
+66|Towards Multidocument Summarization by Reformulation: Progress and Prospects.|Kathleen McKeown,Judith Klavans,Vasileios Hatzivassiloglou,Regina Barzilay,Eleazar Eskin|243|75|1|17
+67|An Automatic Method for Generating Sense Tagged Corpora.|Rada Mihalcea,Dan I. Moldovan|139|30|0|9
+68|Selecting Text Spans for Document Summaries: Heuristics and Metrics.|Vibhu O. Mittal,Mark Kantrowitz,Jade Goldstein,Jaime G. Carbonell|44|9|5|2
+69|Learning Dictionaries for Information Extraction by Multi-Level Bootstrapping.|Ellen Riloff,Rosie Jones|877|368|26|28
+70|Feature Selection in SVM Text Categorization.|Hirotoshi Taira,Masahiko Haruno|123|36|1|3
+71|Automatic Construction of Semantic Lexicons for Learning Natural Language Interfaces.|Cynthia A. Thompson,Raymond J. Mooney|34|4|0|4
+72|Theory for Coordinating Concurrent Hierarchical Planning Agents Using Summary Information.|Bradley J. Clement,Edmund H. Durfee|83|30|0|11
+73|Fast Planning through Greedy Action Graphs.|Alfonso Gerevini,Ivan Serina|45|14|0|18
+74|Control Knowledge in Planning: Benefits and Tradeoffs.|Yi-Cheng Huang,Bart Selman,Henry A. Kautz|48|5|0|4
+75|A Framework for Recognizing Multi-Agent Action from Visual Evidence.|Stephen S. Intille,Aaron F. Bobick|198|66|0|0
+76|State-space Planning by Integer Optimization.|Henry A. Kautz,Joachim P. Walser|124|28|0|0
+77|Using Planning Graphs for Solving HTN Planning Problems.|Amnon Lotem,Dana S. Nau,James A. Hendler|19|2|0|1
+78|On the Undecidability of Probabilistic Planning and Infinite-Horizon Partially Observable Markov Decision Problems.|Omid Madani,Steve Hanks,Anne Condon|183|71|0|3
+79|Contingent Planning Under Uncertainty via Stochastic Satisfiability.|Stephen M. Majercik,Michael L. Littman|72|27|0|6
+80|On the utility of Plan-space (Causal) Encodings.|Amol Dattatraya Mali,Subbarao Kambhampati|21|3|0|8
+81|Anytime Coordination for Progressive Planning Agents.|Abdel-Illah Mouaddib|10|1|0|2
+82|Generating qualitatively Different Plans througt Metatheoretic Biases.|Karen L. Myers,Thomas J. Lee|45|19|0|5
+83|Conditional, Probabilistic Planning: A Unifying Algorithm and Effective Search Control Mechanisms.|Nilufer Onder,Martha E. Pollack|81|6|0|12
+84|CPlan: A Constraint Programming Approach to Planning.|Peter van Beek,Xinguang Chen|196|31|0|4
+85|Total Order Planning is More Efficient than we Thought.|Vincent Vidal,Pierre Régnier|9|1|0|2
+86|Cooperative Plan Identification: Constructing Concise and Effective Plan Descriptions.|R. Michael Young|13|1|0|5
+87|Exploiting Symmetry in the Planning graph via Explanation-Guided Search.|Terry Zimmerman,Subbarao Kambhampati|25|3|0|8
+88|An Integrated System for Multi-Rover Scientific Exploration.|Tara A. Estlin,Alexander G. Gray,Tobias Mann,Gregg Rabideau,Rebecca Castaño,Steve A. Chien,Eric Mjolsness|64|5|0|17
+89|Integrated Natural Spoken Dialogue System of Jijo-2 Mobile Robot for Office Services.|Toshihiro Matsui,Hideki Asoh,John Fry,Yoichi Motomura,Futoshi Asano,Takio Kurita,Isao Hara,Nobuyuki Otsu|72|15|0|5
+90|Gesture-Based Interaction with a Pet Robot.|Milyn C. Moy|10|1|0|0
+91|Continuous Categories For a Mobile Robot.|Michael T. Rosenstein,Paul R. Cohen|47|8|1|3
+92|DISTANCE-SAT: Complexity and Algorithms.|Olivier Bailleux,Pierre Marquis|29|6|0|1
+93|Beyond NP: the QSAT phase transition.|Ian P. Gent,Toby Walsh|118|20|0|11
+94|Morphing: Combining Structure and Randomness.|Ian P. Gent,Holger H. Hoos,Patrick Prosser,Toby Walsh|83|28|0|17
+95|On the Run-time Behaviour of Stochastic Local Search Algorithms for SAT.|Holger H. Hoos|205|62|1|20
+96|Initial Experiments in Stochastic Satisfiability.|Michael L. Littman|38|9|0|1
+97|Trap Escaping Strategies in Discrete Lagrangian Methods for Solving Hard Satisfiability and Maximum Satisfiability Problems.|Zhe Wu,Benjamin W. Wah|48|11|0|2
+98|Scheduling Alternative Activities.|J. Christopher Beck,Mark S. Fox|56|21|12|3
+99|Algorithm Performance and Problem Structure for Flow-shop Scheduling.|Jean-Paul Watson,Laura Barbulescu,Adele E. Howe,L. Darrell Whitley|59|13|0|10
+100|Using Probabilistic Knowledge and Simulation to Play Poker.|Darse Billings,Lourdes Peña Castillo,Jonathan Schaeffer,Duane Szafron|105|35|0|13
+101|A Space-Time Tradeoff for Memory-Based Heuristics.|Robert C. Holte,István T. Hernádvölgyi|32|6|0|2
+102|PROVERB: The Probabilistic Cruciverbalist.|Greg A. Keim,Noam M. Shazeer,Michael L. Littman,Sushant Agarwal,Catherine M. Cheves,Joseph Fitzgerald,Jason Grosland,Fan Jiang,Shannon Pollard,Karl Weinmeister|42|6|0|4
+103|Value-Update Rules for Real-Time Search.|Sven Koenig,Boleslaw K. Szymanski|19|4|0|7
+104|Transposition Table Driven Work Scheduling in Distributed Search.|John W. Romein,Aske Plaat,Henri E. Bal,Jonathan Schaeffer|60|34|0|9
+105|A sequential reversible belief revision method based on polynomials.|Salem Benferhat,Didier Dubois,Odile Papini|18|0|0|9
+106|Point-Based Approaches to Qualitative Temporal Reasoning.|James P. Delgrande,Arvind Gupta,Tim Van Allen|5|0|0|1
+107|Querying Temporal Constraint Networks in PTIME.|Manolis Koubarakis,Spiros Skiadopoulos|8|0|0|4
+108|Polarity Guided Tractable Reasoning.|Zbigniew Stachniak|7|0|0|2
+109|Content-Based Retrieval from Medical Image Databases: A Synergy of Human Interaction, Machine Learning and Computer Vision.|Carla E. Brodley,Avinash C. Kak,Chi-Ren Shyu,Jennifer G. Dy,Lynn S. Broderick,Alex M. Aisen|57|22|0|3
+110|Using Vision to Improve Sound Source Separation.|Yukiko Nakagawa,Hiroshi G. Okuno,Hiroaki Kitano|40|3|0|25
+111|Automated Instructor Assistant for Ship Damage Control.|Vadim Bulitko,David C. Wilkins|31|7|1|3
+112|HKIA SAS: A Constraint-Based Airport Stand Allocation System Developed with Software Components.|Andy Hon Wai Chun,Steve Ho Chuen Chan,Francis Ming Fai Tsang,Dennis Wai Ming Yeung|6|2|0|3
+113|Last Minute Travel Application.|André Hübner,Mario Lenz,Roman Borch,Michael Posthoff|7|2|4|0
+114|A New Basis for Spreadsheet Computing: Interval Solver for Microsoft Excel.|Eero Hyvönen,Stefano De Pascale|22|3|0|0
+115|Ramp Activity Expert System for Scheduling and Co-ordination at an Airport.|GeunSik Jo,Kang-Hee Lee,Hwi-Yoon Lee,Sang-Ho Hyun|4|0|0|0
+116|Using Iterative Repair to Automate Planning and Scheduling of Shuttle Payload Operations.|Gregg Rabideau,Steve A. Chien,Jason Willis,Tobias Mann|11|2|1|0
+117|DLMS: Ten Years of AI for Vehicle Assembly Process Planning.|Nestor Rychtyckyj|20|1|0|13
+118|Using Intelligent Agents in Military Simulation or "Using Agents Intelligently".|Gil Tidhar,Clinton Heinze,Simon Goss,Graeme Murray,Dino Appla,Ian J. Lloyd|27|2|0|18
+119|Nurse Scheduling using Constraint Logic Programming.|Slim Abdennadher,Hans Schlenker|111|46|0|3
+120|The Wasabi Personal Shopper: A Case-Based Recommender System.|Robin D. Burke|126|43|15|8
+121|The Use of Word Sense Disambiguation in an Information Extraction System.|Joyce Yue Chai,Alan W. Biermann|25|11|0|2
+122|Using Artificial Intelligence Planning to Generate Antenna Tracking Plans.|Forest Fisher,Tara A. Estlin,Darren Mutz,Steve A. Chien|12|2|0|6
+123|In-Time Agent-Based Vehicle Routing with a Stochastic Improvement Heuristic.|Robert C. Kohout,Kutluhan Erol|77|36|0|0
+124|HICAP: An Interactive Case-Based Planning Architecture and its Application to Noncombatant Evacuation Operations.|Héctor Muñoz-Avila,David W. Aha,Len Breslow,Dana S. Nau|73|23|0|15
+125|Automated Capture of Rationale for the Detailed Design Process.|Karen L. Myers,Nina B. Zumel,Pablo Garcia|63|12|0|0
+126|A Multi-Agent System for Meting Out Influence in an Intelligent Environment.|M. V. Nagendra Prasad,Joseph F. McCarthy|8|3|0|3
+127|CMUnited-98: A Team of Robotic Soccer Agents.|Manuela M. Veloso,Michael H. Bowling,Sorin Achim,Kwun Han,Peter Stone|4|0|0|4
+128|Sensible Agents: Demonstration of Dynamic Configuration of Agent Organizations for Responsive Planning Operations.|K. Suzanne Barber,Anuj Goel,David C. Han,Joonoo Kim,Tse-Hsin Liu,Cheryl E. Martin,Ryan McKay|0|0|0|0
+129|The Disciple Integrated Shell and Methodology for Rapid Development of Knowledge-Based Agents.|Mihai Boicu,Kathryn Wright,Dorin Marcu,Seok Won Lee,Michael Bowman,Gheorghe Tecuci|10|0|0|7
+130|SMILE: Structural Modeling, Inference, and Learning Engine and GeNIE: A Development Environment for Graphical Decision-Theoretic Models.|Marek J. Druzdzel|154|109|0|4
+131|Knowledge Base Discovery Tool.|Erik Eilerts,Kathleen O'Neil Lossau,Christopher York|1|0|0|0
+132|TRIPS: The Rochester Interactive Planning System.|George Ferguson,James F. Allen|2|0|0|0
+133|A Natural-Language Speech Interface Constructed Entirely as a Set of Executable Specifications.|Richard A. Frost|4|1|1|1
+134|A System for the Semantic Interpretation of Unrestricted Domains using WordNet.|Fernando Gomez,Carlos Segami|0|0|0|0
+135|DIPLOMAT: Compiling Prioritized Default Rules into Ordinary Logic Programs, for E-Commerce Applications.|Benjamin N. Grosof|26|0|0|14
+136|Solving Crosswords with PROVERB.|Michael L. Littman,Greg A. Keim,Noam M. Shazeer|6|1|0|1
+137|Worldwide Aeronautical Route Planner.|Charles B. McVey,David P. Clements,Barton C. Massey,Andrew J. Parkes|2|1|0|0
+138|Authoring New Material in a Reading Tutor that Listens.|Jack Mostow,Gregory Aist|6|1|0|1
+139|Demonstration of Rational Communicative Behavior in Coordinated Defense.|Sanguk Noh,Piotr J. Gmytrasiewicz|0|0|0|0
+140|Automated Team Analysis.|Taylor Raines,Milind Tambe,Stacy Marsella|1|0|0|0
+141|eMediator: a Next Generation Electronic Commerce Server.|Tuomas Sandholm|312|45|14|53
+142|MailCat: An Intelligent Assistant for Organizing E-Mail.|Richard Segal,Jeffrey O. Kephart|243|59|17|1
+143|HIKE (HPKB Integrated Knowledge Environment) - A Query Interface and Integrated Knowledge Environment for HPKB.|Barbara Starr,Vinay K. Chaudhri,Boris Katz,Benjamin M. Good,Jérôme Thoméré|1|0|1|0
+144|Intelligent Agents in Computer Games.|Michael van Lent,John E. Laird,Josh Buckman,Joe Hartford,Steve Houchard,Kurt Steinkraus,Russ Tedrake|75|15|0|0
+145|Sensor Based Coverage of Unknown Environments for Land Mine Detection.|Ercan U. Acar,Morgan Simmons,Michael Rosenblatt,Maayan Roth,Mary Berna,Yonatan Mittlefehldt,Howie Choset|0|0|0|0
+146|A Natural Interface and Unified Skills for a Mobile Robot.|William Adams,Dennis Perzanowski,Alan C. Schultz|0|0|0|0
+147|Kansas State Robotics.|Frank Blecha,Tim Beese,Damon Kuntz,Jonathan Cameron,David Sexton,David A. Gustafson|1|0|0|0
+148|Web-Based Mobile Robot Simulator.|Daniel P. Stormont|3|0|0|1
+149|Elaboration Tolerance of Logical Theories.|Eyal Amir|2|0|0|1
+150|Approximation Algorithms for Solving Cost Observable Markov Decision Processes.|Valentina Bayer|0|0|0|0
+151|Using Formal Meta-Data Descriptions for Automated Ecological Modeling.|Virgínia V. B. Biris Brilhante|3|0|0|1
+152|Modelling Higher Cognitive Functions with Hebbian Cell Assemblies.|Marcin Chady|2|0|0|0
+153|Learning form-meaning mappings for language.|Nancy Chang|1|0|0|0
+154|Development of a Methodology and Software Shell for the Automatic Generation of Intelligent Tutoring Systems from Existing Generic Task-based Expert Systems.|Eman El-Sheikh|0|0|0|0
+155|Towards Bounded Optimal Meta-Level Control: A Case Study.|Daishi Harada|0|0|0|0
+156|Execution Monitoring and Diagnosis in Multi-Agent Environments.|Gal A. Kaminka|0|0|0|0
+157|Corpus-Based Induction of Lexical Representation and Meaning.|Maria Lapata|1|0|0|1
+158|Data Driven Profiling of Dynamic System Behavior using Hidden Markov Model based Combined Unsupervised and Supervised Classification.|Cen Li|0|0|0|0
+159|Planning Under Uncertainty via Stochastic Statisfiability.|Stephen M. Majercik|7|1|0|4
+160|Applying Supervised Learning to Real-World Problems.|Dragos D. Margineantu|0|0|0|0
+161|Modeling Prosody Automatically in Concept-to-Speech Generation.|Shimei Pan|1|0|0|0
+162|A Bayesian approach to object identification.|Hanna Pasula|0|0|0|0
+163|Over-Constrained Systems.|Hana Rudová|n/a
+164|Reasoning about Sensing Actions and Reactivity.|Tran Cao Son|0|0|0|0
+165|Applying Genetic Algorithms to Pronoun Resolution.|Donna K. Byron,James F. Allen|14|1|0|0
+166|Automatic Sample-by-sample Model Selection Between Two Off-the-shelf Classifiers.|Steve P. Chadwick|0|0|0|0
+167|Structural Knowledge Discovery in Chemical and Spatio-Temporal Databases.|Ravindra N. Chittimoori,Jesus A. Gonzalez,Lawrence B. Holder|5|2|0|2
+168|Learning Design Guidelines by Theory Refinement.|Jacob Eisenstein|0|0|0|0
+169|Using Neural Networks in Agent Teams to Speed Up Solution Discovery for Hard Multi-Criteria Problems.|Shaun Gittens,Richard Goodwin,Jayant Kalagnanam,Sesh Murthy|0|0|0|0
+170|OBDD-Based Planning with Real-Valued Variables in Non-Deterministic Environments.|Anuj Goel,K. Suzanne Barber|1|0|0|0
+171|Expectation-based Learning in Design.|Dan L. Grecu,David C. Brown|0|0|0|0
+172|A Framework for Problem Solving Activities in Multi-Agent Systems.|David C. Han,Tse-Hsin Liu,K. Suzanne Barber|2|0|0|0
+173|Robot Navigation with a Polar Neural Map.|Michail G. Lagoudakis,Anthony S. Maida|1|0|0|0
+174|Comparison of Clustering Metrics and Unsupervised Learning Algorithms on Genome-Wide Gene Expression Level Data.|Sonia M. Leach,Lawrence Hunter,David Landsman|2|1|0|0
+175|Knowledge Base Revision through Exception-driven Discovery and Learning.|Seok Won Lee,Gheorghe Tecuci|2|1|0|1
+176|Autonomous Discovery In Empirical Domains.|Gary Livingston,Bruce G. Buchanan|1|0|0|0
+177|Learning in Broker Agent.|Xiaocheng Luan,Yun Peng,Timothy W. Finin|n/a
+178|Text Compression as a Test for Artificial Intelligence.|Matthew V. Mahoney|33|25|0|0
+179|Externalizing Internal State.|Amol Dattatraya Mali|1|0|0|1
+180|Hybrid Propositional Encodings of Planning.|Amol Dattatraya Mali|n/a
+181|Causal Discovery from Population-Based Infant Birth and Death Records.|Subramani Mani,Gregory F. Cooper|0|0|0|0
+182|Interacting with a Pet Robot using Hand Gestures.|Milyn C. Moy|0|0|0|0
+183|Active Learning for Hierarchical Wrapper Induction.|Ion Muslea,Steven Minton,Craig A. Knoblock|9|3|0|0
+184|Decision-Theoretic Layered Robotic Control Architecture.|Gilbert L. Peterson,Diane J. Cook|1|0|0|0
+185|Learning of Compositional Hierarchies By Data-Driven Chunking.|Karl Pfleger|0|0|0|0
+186|A representation reducing approach to scientific discovery.|Joseph Phillips|0|0|0|0
+187|Minimal Cost Complexity Pruning of Meta-Classifiers.|Andreas L. Prodromidis,Salvatore J. Stolfo|3|0|0|2
+188|Comparison of Second-order Polynomial Model Selection Methods: an Experimental Survey.|Grace W. Rumantir|2|2|0|0
+189|Learning State Features from Policies to Bias Exploration in Reinforcement Learning.|Bryan Singer,Manuela M. Veloso|12|3|0|0
+190|Investigating the Effect of Relevance and Reachability Constraints on SAT Encodings of Planning.|Biplav Srivastava|19|2|0|7
+191|Learning to Handle Inconsistency for Multi-Source Integration.|Sheila Tejada,Craig A. Knoblock,Steven Minton|0|0|0|0
+192|Learning rewrite rules to improve plan quality.|Muhammad Afzal Upal|3|2|0|1
+193|Word Sense Disambiguation for Information Retrieval.|Özlem Uzuner,Boris Katz,Deniz Yuret|34|25|0|0
+194|Game Playing: The Next Moves.|Susan L. Epstein|27|12|0|0

@@ -1,0 +1,103 @@
+102
+1|Fourth International Conference on Computer Vision, ICCV 1993, Berlin, Germany, 11-14 May, 1993, Proceedings.|n/a
+2|A generalized brightness change model for computing optical flow.|Shahriar Negahdaripour,Chih-Ho Yu|132|19|0|12
+3|Robust computation of optical flow in a multi-scale differential framework.|Joseph Weber,Jitendra Malik|332|63|1|5
+4|Motion detection robust to perturbations: A statistical regularization and temporal integration framework.|Jean-Michel Létang,Veronique Rebuffel,Patrick Bouthemy|18|1|0|2
+5|A computational model of neural contour processing: Figure-ground segregation and illusory contours.|Friedrich Heitger,Rüdiger von der Heydt|199|18|0|4
+6|Active exploration: Knowing when we're wrong.|Peter Whaite,Frank P. Ferrie|20|0|0|6
+7|Looking for trouble: Using causal semantics to direct focus of attention.|Lawrence Birnbaum,Matthew Brand,Paul R. Cooper|53|3|0|5
+8|Ridge-detection for the perceptual organization without edges.|J. Brian Subirana-Vilanova,Kah Kay Sung|23|3|0|0
+9|Affine-invariant contour tracking with automatic control of spatiotemporal scale.|Andrew Blake,Rupert W. Curwen,Andrew Zisserman|100|7|0|5
+10|Tracking foveated corner clusters using affine structure.|Ian D. Reid,David W. Murray|64|2|0|18
+11|Experiments with monocular visual tracking and environment modeling.|Olli Silvén,Tapio Repo|7|0|0|1
+12|Tracking non-rigid objects in complex scenes.|Daniel P. Huttenlocher,Jae J. Noh,William Rucklidge|305|58|6|1
+13|A spherical representation for the recognition of curved objects.|Herve Delingette,Martial Hebert,Katsushi Ikeuchi|96|16|0|9
+14|Fast and robust 3D recognition by alignment.|Tao Daniel Alter,W. Eric L. Grimson|29|1|0|7
+15|Learning recognition and segmentation of 3-D objects from 2-D images.|John (Juyang) Weng,Narendra Ahuja,Thomas S. Huang|85|22|0|5
+16|Vision-based construction of CAD models from range images.|Xin Chen,Francis Schmitt|8|1|0|0
+17|Diffuse shading, visibility fields, and the geometry of ambient light.|Michael S. Langer,Steven W. Zucker|23|2|1|5
+18|Estimation of the light source distribution and its use in integrated shape recovery from stereo and shading.|Darrell R. Hougen,Narendra Ahuja|74|15|0|3
+19|Recovering reflectance and illumination in a world of painted polyhedra.|Pawan Sinha,Edward H. Adelson|103|50|28|3
+20|Diagonal transforms suffice for color constancy.|Graham D. Finlayson,Mark S. Drew,Brian V. Funt|105|37|4|11
+21|Enhanced image capture through fusion.|Peter J. Burt,Raymond J. Kolczynski|1000|445|13|6
+22|An extension of Marr's signature based edge classification and other methods determining diffuseness and height of edges, and bar edge width.|Wei Zhang,Fredrik Bergholm|18|1|0|1
+23|Segmentation and 2D motion estimation by region fragments.|Minoru Etoh,Yoshiaki Shirai|67|2|1|4
+24|Discrete models for energy-minimizing segmentation.|Andrew Ackah-Miezan,André Gagalowicz|18|1|1|3
+25|Optical flow from 1D correlation: Application to a simple time-to-crash detector.|Nicola Ancona,Tomaso A. Poggio|145|38|2|3
+26|Mathematical morphology: The Hamilton-Jacobi connection.|Alan B. Arehart,Luc Vincent,Benjamin B. Kimia|60|16|0|11
+27|Visual echo analysis.|Esfandiar Bandari,James J. Little|5|0|0|0
+28|Localization using combinations of model views.|Ronen Basri,Ehud Rivlin|5|0|0|2
+29|A framework for the robust estimation of optical flow.|Michael J. Black,P. Anandan|461|131|5|13
+30|A design for a visual motion transducer.|Andrew Blake,Gabriel Hamid,Lionel Tarassenko|1|0|0|0
+31|Building and using flexible models incorporating grey-level information.|Timothy F. Cootes,Christopher J. Taylor,Andreas Lanitis,David H. Cooper,Jim Graham|147|21|3|13
+32|A quantitative methodology for analyzing the performance of detection algorithms.|Tapas Kanungo,Mysore Y. Jaisimha,John Palmer,Robert M. Haralick|24|2|0|9
+33|Multiscale Markov random field models for parallel image classification.|Zoltan Kato,Marc Berthod,Josiane Zerubia|48|7|0|8
+34|A perceptually plausible model for global symmetry detection.|Francois Labonte,Yerucham Shapira,Paul Cohen|19|2|0|0
+35|3D object recognition by indexing structural invariants from multiple views.|Rakesh Mohan,Daphna Weinshall,Ramesh R. Sarukkai|19|0|0|4
+36|Silhouette-based object recognition through curvature scale space.|Farzin Mokhtarian,Hiroshi Murase|276|67|11|15
+37|Fast segmentation, tracking, and analysis of deformable objects.|Chahab Nastar,Nicholas Ayache|129|19|0|19
+38|Reflectance ratio: A photometric invariant for object recognition.|Shree K. Nayar,Ruud M. Bolle|39|2|0|3
+39|Contextual feature similarities for model-based object recognition.|Detlev Noll,Michael Schwarzinger,Werner von Seelen|2|0|0|0
+40|A linear complexity procedure for labelling line drawings of polyhedral scenes using vanishing points.|Pietro Parodi,Vincent Torre|5|0|0|0
+41|Learning object recognition models from images.|Arthur R. Pope,David G. Lowe|75|4|1|4
+42|Recognition of object classes from range data.|Ian D. Reid,J. Michael Brady|17|4|0|2
+43|A modal framework for correspondence and description.|Stan Sclaroff,Alex Pentland|37|1|0|8
+44|Incremental image sequence enhancement with implicit motion compensation.|A. Singh|0|0|0|0
+45|Recognizing mice, vegetables and hand printed characters based on implicit polynomials, invariants and Bayesian methods.|Jayashree Subrahmonia,Daniel Keren,David B. Cooper|4|0|0|0
+46|Understanding noise: The critical role of motion error in scene reconstruction.|J. Inigo Thomas,Allen R. Hanson,John Oliensis|23|2|1|0
+47|The reciprocal-wedge transform for space-invariant sensing.|Frank Tong,Ze-Nian Li|n/a
+48|Automatic feature point extraction and tracking in image sequences for unknown camera motion.|Qinfen Zheng,Rama Chellappa|39|3|0|0
+49|Eliciting qualitative structure from image curve deformations.|Andrew Zisserman,Andrew Blake,Charlie Rothwell,Luc J. Van Gool,Marc Van Diest|8|0|0|2
+50|Exploiting the generic view assumption to estimate scene parameters.|William T. Freeman|37|4|0|5
+51|Combining stereo and motion analysis for direct estimation of scene structure.|Keith J. Hanna,Neil E. Okamoto|80|9|7|1
+52|Motion segmentation and local structure.|David Sinclair|26|4|0|1
+53|Robust structure from motion using motion parallax.|Roberto Cipolla,Yasukazu Okamoto,Yoshinori Kuno|153|30|3|18
+54|Robust vergence with concurrent detection of occlusion and specular highlights.|Wee-Soon Ching,Peng-Seng Toh,Kap-Luk Chan,Meng Hwa Er|18|2|0|3
+55|Head-centered orientation strategies in animate vision.|Enrico Grosso,Dana H. Ballard|27|0|0|3
+56|Reactions to peripheral image motion using a head/eye platform.|David W. Murray,Philip F. McLauchlan,Ian D. Reid,Paul M. Sharkey|81|3|0|11
+57|Dynamic fixation [active vision].|Kourosh Pahlavan,Tomas Uhlin,Jan-Olof Eklundh|54|6|0|5
+58|Stereo matching, reconstruction and refinement of 3D curves using deformable contours.|Benedicte Bascle,Rachid Deriche|59|6|1|4
+59|A binocular stereo algorithm for reconstructing sloping, creased, and broken surfaces in the presence of half-occlusion.|Peter N. Belhumeur|68|9|0|4
+60|A complete two-plane camera calibration method and experimental comparisons.|Guo-Qing Wei,Song De Ma|113|40|1|1
+61|Direct estimation of multiple disparities for transparent multiple surfaces in binocular stereo.|Masahiko Shizawa|14|2|1|0
+62|A system for automatic vectorization and interpretation of map-drawings.|Sergey Ablameyko,Vladimir Bereishik,Oleg Frantskevich,Maria Homenko,E. Melnik,Oleg Okun,Nadeshda Paramonova|3|2|0|1
+63|Texture discrimination by local generalized symmetry.|Yoram Bonneh,Daniel Reisfeld,Yehezkel Yeshurun|17|1|0|1
+64|Euclidean constraints for uncalibrated reconstruction.|Boubakeur Boufama,Roger Mohr,Francoise Veillon|92|12|1|10
+65|Projectively invariant decomposition and recognition of planar shapes.|Stefan Carlsson|43|7|1|2
+66|Recognizing algebraic surfaces from their outlines.|David A. Forsyth|39|0|0|3
+67|Relative depth from vergence micromovements.|Antônio Francisco|4|0|0|2
+68|Distance accumulation and planar curvature.|Joon Hee Han,Timothy Poston|n/a
+69|Using hyperquadrics for shape recovery from range data.|Song Han,Dmitry B. Goldgof,Kevin W. Bowyer|48|6|0|1
+70|Interpretation of natural scenes using multi-parameter default models and qualitative constraints.|Michael Hild,Yoshiaki Shirai|10|0|0|2
+71|Cooperation of visually guided behaviors.|Jana Kosecka,Ruzena Bajcsy|21|1|0|5
+72|A note on existence and uniqueness in shape from shading.|Ryszard Kozera|9|0|0|2
+73|Minimum description length based 2D shape description.|Mengxiang Li|36|5|0|0
+74|A finite element model for 3D shape reconstruction and nonrigid motion tracking.|Tim McInerney,Demetri Terzopoulos|206|36|2|4
+75|Surface discontinuities in range images.|Tomás Pajdla,Václav Hlavác|9|5|0|0
+76|Accurate line parameters from an optimising Hough Transform for vanishing point detection.|Phil L. Palmer,Maria Petrou,Josef Kittler|8|1|1|0
+77|Optimal estimation of object pose from a single perspective view.|Thai Quynh Phong,Radu Horaud,Adnan Yassine,Dinh-Tuan Pham|29|6|0|2
+78|Relative 3D positioning and 3D convex hull computation from a weakly calibrated stereo pair.|Luc Robert,Olivier D. Faugeras|107|12|2|13
+79|Robust line-based pose enumeration from a single image.|Takeshi Shakunaga|9|1|0|0
+80|Occam algorithms for computing visual motion.|Haim Schweitzer|20|2|0|0
+81|2-D digital curve analysis: A regularity measure.|Bruno Vasselle,Gérard Giraudon|3|1|0|0
+82|A robust active contour model with insensitive parameters.|Gang Xu,Eigo Segawa,Saburo Tsuji|16|1|0|0
+83|Robust 3D-3D pose estimation.|Xinhua Zhuang,Yan Huang|n/a
+84|Extracting projective structure from single perspective views of 3D point sets.|Charlie Rothwell,David A. Forsyth,Andrew Zisserman,Joseph L. Mundy|163|12|0|20
+85|Projective depth: A geometric invariant for 3D reconstruction from two perspective/orthographic views and for visual recognition.|Amnon Shashua|89|3|2|8
+86|Computation of ego-motion and structure from visual and inertial sensors using the vertical cue.|Thierry Viéville,Emmanuelle Clergue,P. E. Dos Santos Facao|50|13|1|0
+87|Renormalization for unbiased estimation.|Kenichi Kanatani|64|26|0|18
+88|An all-transputer visual autobahn-autopilot/copilot.|Ernst D. Dickmanns,Reinhold Behringer,C. Brudigam,Dirk Dickmanns,Frank Thomanek,Volker van Holt|50|6|1|5
+89|Active and intelligent sensing of road obstacles: Application to the European Eureka-PROMETHEUS project.|Ming Xie,Laurent Trassoudaine,Joseph Alizon,Monique Thonnat,Jean Gallice|17|8|0|0
+90|Multiple knowledge sources and evidential reasoning for shape recognition.|Bernard Besserer,S. Estable,B. Ulmer|30|2|0|1
+91|Quantitative analysis of the viewpoint consistency constraint in model-based vision.|Li Du,Geoffrey D. Sullivan,Keith D. Baker|19|1|0|1
+92|Integration of quantitative and qualitative techniques for deformable model fitting from orthographic, perspective, and stereo projections.|Dimitris N. Metaxas,Sven J. Dickinson|33|2|0|12
+93|Large deformable splines, crest lines and matching.|André Guéziec|65|8|1|12
+94|An improved algorithm for algebraic curve and surface fitting.|Gabriel Taubin|96|11|0|2
+95|Probabilistic relaxation for matching problems in computer vision.|Josef Kittler,William J. Christmas,Maria Petrou|81|9|0|18
+96|Linear and incremental acquisition of invariant shape models from image sequences.|Daphna Weinshall,Carlo Tomasi|138|9|0|15
+97|Shape from texture from a multi-scale perspective.|Tony Lindeberg,Jonas Gårding|110|26|4|17
+98|A global algorithm for shape from shading.|John Oliensis,Paul Dupuis|91|10|2|2
+99|Egomotion analysis based on the Frenet-Serret motion model.|Zoran Duric,Azriel Rosenfeld,Larry S. Davis|25|3|0|11
+100|The critical sets of lines for camera displacement estimation: A mixed Euclidean-projective and constructive approach.|Nassir Navab,Olivier D. Faugeras,Thierry Viéville|52|12|0|4
+101|Grasping visual symmetry.|Andrew Blake,Michael J. Taylor,Adrian Cox|42|6|1|0
+102|Dynamic calibration of an active stereo head.|James L. Crowley,Philippe Bobet,Cordelia Schmid|11|1|0|1

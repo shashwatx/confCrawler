@@ -1,0 +1,152 @@
+151
+1|Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2013, New York, NY, USA, June 22-27, 2013.|Kenneth A. Ross,Divesh Srivastava,Dimitris Papadias|n/a
+2|Cumulon: optimizing statistical data analysis in the cloud.|Botong Huang,Shivnath Babu,Jun Yang|26|26|0|5
+3|Shark: SQL and rich analytics at scale.|Reynold S. Xin,Josh Rosen,Matei Zaharia,Michael J. Franklin,Scott Shenker,Ion Stoica|198|191|0|8
+4|Parallel analytics as a service.|Petrie Wong,Zhian He,Eric Lo|11|11|0|1
+5|MESSIAH: missing element-conscious SLCA nodes search in XML data.|Ba Quan Truong,Sourav S. Bhowmick,Curtis E. Dyreson,Aixin Sun|11|10|0|1
+6|Indexing for subtree similarity-search using edit distance.|Sara Cohen|10|9|0|1
+7|Discovering XSD keys from XML data.|Marcelo Arenas,Jonny Daenen,Frank Neven,Martín Ugarte,Jan Van den Bussche,Stijn Vansummeren|6|6|0|0
+8|A scalable lock manager for multicores.|Hyungsoo Jung,Hyuck Han,Alan David Fekete,Gernot Heiser,Heon Young Yeom|21|20|0|2
+9|Controlled lock violation.|Goetz Graefe,Mark Lillibridge,Harumi A. Kuno,Joseph Tucek,Alistair C. Veitch|1|1|0|0
+10|X-FTL: transactional FTL for SQLite databases.|Woon-Hak Kang,Sang-Won Lee,Bongki Moon,Gi-Hwan Oh,Changwoo Min|18|18|0|5
+11|Optimal splitters for temporal and multi-version databases.|Wangchao Le,Feifei Li,Yufei Tao,Robert Christensen|7|7|0|1
+12|Building an efficient RDF store over a relational database.|Mihaela A. Bornea,Julian Dolby,Anastasios Kementsietsidis,Kavitha Srinivas,Patrick Dantressangle,Octavian Udrea,Bishwaranjan Bhattacharjee|61|59|0|5
+13|Automatic synthesis of out-of-core algorithms.|Yannis Klonatos,Andres Nötzli,Andrej Spielmann,Christoph Koch,Viktor Kuncak|8|8|0|0
+14|InfoGather+: semantic matching and annotation of numeric and time-varying attributes in web tables.|Meihui Zhang,Kaushik Chakrabarti|18|18|0|3
+15|Value invention in data exchange.|Patricia C. Arocena,Boris Glavic,Renée J. Miller|6|6|0|4
+16|Indexing methods for moving object databases: games and other applications.|Hanan Samet,Jagan Sankaranarayanan,Michael Auerbach|6|6|0|1
+17|I/O efficient: computing SCCs in massive graphs.|Zhiwei Zhang,Jeffrey Xu Yu,Lu Qin,Lijun Chang,Xuemin Lin|7|7|0|4
+18|TF-Label: a topological-folding labeling scheme for reachability querying in a large graph.|James Cheng,Silu Huang,Huanhuan Wu,Ada Wai-Chee Fu|17|16|0|1
+19|Efficiently computing k-edge connected components via graph decomposition.|Lijun Chang,Jeffrey Xu Yu,Lu Qin,Xuemin Lin,Chengfei Liu,Weifa Liang|4|4|0|3
+20|An online cost sensitive decision-making method in crowdsourcing systems.|Jinyang Gao,Xuan Liu,Beng Chin Ooi,Haixun Wang,Gang Chen|25|24|0|2
+21|Leveraging transitive relations for crowdsourced joins.|Jiannan Wang,Guoliang Li,Tim Kraska,Michael J. Franklin,Jianhua Feng|58|54|0|7
+22|Crowd mining.|Yael Amsterdamer,Yael Grossman,Tova Milo,Pierre Senellart|44|43|0|7
+23|Efficient sentiment correlation for large-scale demographics.|Mikalai Tsytsarau,Sihem Amer-Yahia,Themis Palpanas|7|7|0|5
+24|EBM: an entropy-based model to infer social strength from spatiotemporal data.|Huy Pham,Cyrus Shahabi,Yan Liu|22|22|0|2
+25|Online search of overlapping communities.|Wanyun Cui,Yanghua Xiao,Haixun Wang,Yiqi Lu,Wei Wang|31|27|0|1
+26|BitWeaving: fast scans for main memory data processing.|Yinan Li,Jignesh M. Patel|23|21|0|4
+27|Performance and resource modeling in highly-concurrent OLTP workloads.|Barzan Mozafari,Carlo Curino,Alekh Jindal,Samuel Madden|23|23|0|5
+28|ODYS: an approach to building a massively-parallel search engine using a DB-IR tightly-integrated parallel DBMS for higher-level functionality.|Kyu-Young Whang,Tae-Seob Yun,Yeon-Mi Yeo,Il-Yeol Song,Hyuk-Yoon Kwon,In-Joong Kim|4|4|0|3
+29|Massive graph triangulation.|Xiaocheng Hu,Yufei Tao,Chin-Wan Chung|33|31|0|2
+30|Turboiso: towards ultrafast and robust subgraph isomorphism search in large graph databases.|Wook-Shin Han,Jinsoo Lee,Jeong-Hoon Lee|38|35|0|2
+31|Fast exact shortest-path distance queries on large networks by pruned landmark labeling.|Takuya Akiba,Yoichi Iwata,Yuichi Yoshida|67|65|0|6
+32|Improving regular-expression matching on strings using negative factors.|Xiaochun Yang,Bin Wang,Tao Qiu,Yaoshu Wang,Chen Li|1|0|0|1
+33|String similarity measures and joins with synonyms.|Jiaheng Lu,Chunbin Lin,Wei Wang,Chen Li,Haiyong Wang|13|13|0|2
+34|Efficient top-k algorithms for approximate substring matching.|Younghoon Kim,Kyuseok Shim|7|7|0|0
+35|Towards high-throughput gibbs sampling at scale: a study across storage managers.|Ce Zhang,Christopher Ré|24|23|0|10
+36|Latch-free data structures for DBMS: design, implementation, and evaluation.|Takashi Horikawa|10|9|0|0
+37|DBMS metrology: measuring query time.|Sabah Currim,Richard T. Snodgrass,Young-Kyoon Suh,Rui Zhang,Matthew Wong Johnson,Cheng Yi|1|1|0|1
+38|Quality and efficiency for kernel density estimates in large data.|Yan Zheng,Jeffrey Jestes,Jeff M. Phillips,Feifei Li|11|10|0|3
+39|Efficient ad-hoc search for personalized PageRank.|Yasuhiro Fujiwara,Makoto Nakatsuji,Hiroaki Shiokawa,Takeshi Mishima,Makoto Onizuka|13|9|0|1
+40|Provenance-based dictionary refinement in information extraction.|Sudeepa Roy,Laura Chiticariu,Vitaly Feldman,Frederick Reiss,Huaiyu Zhu|1|0|0|0
+41|CS2: a new database synopsis for query estimation.|Feng Yu,Wen-Chi Hou,Cheng Luo,Dunren Che,Mengxia Zhu|4|4|0|0
+42|Branch-and-bound algorithm for reverse top-k queries.|Akrivi Vlachou,Christos Doulkeridis,Kjetil Nørvåg,Yannis Kotidis|24|24|0|3
+43|On the correct and complete enumeration of the core search space.|Guido Moerkotte,Pit Fender,Marius Eich|6|6|0|4
+44|Trinity: a distributed graph engine on a memory cloud.|Bin Shao,Haixun Wang,Yatao Li|163|157|0|3
+45|Characterizing tenant behavior for placement and crisis mitigation in multitenant DBMSs.|Aaron J. Elmore,Sudipto Das,Alexander Pucher,Divyakant Agrawal,Amr El Abbadi,Xifeng Yan|18|17|0|2
+46|Minimal MapReduce algorithms.|Yufei Tao,Wenqing Lin,Xiaokui Xiao|30|29|0|2
+47|NADEEF: a commodity data cleaning system.|Michele Dallachiesa,Amr Ebaid,Ahmed Eldawy,Ahmed K. Elmagarmid,Ihab F. Ilyas,Mourad Ouzzani,Nan Tang|63|61|0|1
+48|Don't be SCAREd: use SCalable Automatic REpairing with maximal likelihood and bounded changes.|Mohamed Yakout,Laure Berti-Equille,Ahmed K. Elmagarmid|25|24|0|0
+49|Determining the relative accuracy of attributes.|Yang Cao,Wenfei Fan,Wenyuan Yu|12|12|0|3
+50|Photon: fault-tolerant and scalable joining of continuous data streams.|Rajagopal Ananthanarayanan,Venkatesh Basker,Sumit Das,Ashish Gupta,Haifeng Jiang,Tianhao Qiu,Alexey Reznichenko,Deomid Ryabkov,Manpreet Singh,Shivakumar Venkataraman|44|44|0|0
+51|Utility-maximizing event stream suppression.|Di Wang,Yeye He,Elke A. Rundensteiner,Jeffrey F. Naughton|6|4|0|1
+52|ε-Matching: event processing over noisy sequences in real time.|Zheng Li,Tingjian Ge,Cindy X. Chen|n/a
+53|Toward practical query pricing with QueryMarket.|Paraschos Koutris,Prasang Upadhyaya,Magdalena Balazinska,Bill Howe,Dan Suciu|12|11|0|2
+54|Generalized scale independence through incremental precomputation.|Michael Armbrust,Eric Liang,Tim Kraska,Armando Fox,Michael J. Franklin,David A. Patterson|13|12|0|1
+55|Simulation of database-valued markov chains using SimSQL.|Zhuhua Cai,Zografoula Vagena,Luis Leopoldo Perez,Subramanian Arumugam,Peter J. Haas,Christopher M. Jermaine|22|20|0|3
+56|Recursive mechanism: towards node differential privacy and unrestricted joins.|Shixi Chen,Shuigeng Zhou|17|15|0|0
+57|PrivGene: differentially private model fitting using genetic algorithms.|Jun Zhang,Xiaokui Xiao,Yin Yang,Zhenjie Zhang,Marianne Winslett|13|12|0|3
+58|Information preservation in statistical privacy and bayesian estimation of unattributed histograms.|Bing-Rong Lin,Daniel Kifer|10|9|0|4
+59|Collective spatial keyword queries: a distance owner-driven approach.|Cheng Long,Raymond Chi-Wing Wong,Ke Wang,Ada Wai-Chee Fu|27|26|0|1
+60|TOUCH: in-memory spatial join by hierarchical data-oriented partitioning.|Sadegh Nobari,Farhan Tauheed,Thomas Heinis,Panagiotis Karras,Stéphane Bressan,Anastasia Ailamaki|17|16|0|5
+61|Finding time period-based most frequent path in big trajectory data.|Wuman Luo,Haoyu Tan,Lei Chen,Lionel M. Ni|31|31|0|3
+62|Integrating scale out and fault tolerance in stream processing using operator state management.|Raul Castro Fernandez,Matteo Migliavacca,Evangelia Kalyvianaki,Peter Pietzuch|78|75|0|4
+63|Quantiles over data streams: an experimental study.|Lu Wang,Ge Luo,Ke Yi,Graham Cormode|9|9|0|0
+64|An efficient query indexing mechanism for filtering geo-textual data.|Lisi Chen,Gao Cong,Xin Cao|18|17|0|3
+65|Bolt-on causal consistency.|Peter Bailis,Ali Ghodsi,Joseph M. Hellerstein,Ion Stoica|73|69|0|8
+66|RTP: robust tenant placement for elastic in-memory database clusters.|Jan Schaffner,Tim Januschowski,Megan Kercher,Tim Kraska,Hasso Plattner,Michael J. Franklin,Dean Jacobs|23|23|0|0
+67|Inter-media hashing for large-scale retrieval from heterogeneous data sources.|Jingkuan Song,Yang Yang,Yi Yang,Zi Huang,Heng Tao Shen|62|57|0|11
+68|Mind the gap: large-scale frequent sequence mining.|Iris Miliaraki,Klaus Berberich,Rainer Gemulla,Spyros Zoupanos|18|17|0|1
+69|Reverse engineering complex join queries.|Meihui Zhang,Hazem Elmeleegy,Cecilia M. Procopiuc,Divesh Srivastava|14|12|0|0
+70|A direct mining approach to efficient constrained graph pattern discovery.|Feida Zhu,Zequn Zhang,Qiang Qu|5|3|0|2
+71|Calibrating trajectory data for similarity-based analysis.|Han Su,Kai Zheng,Haozhou Wang,Jiamin Huang,Xiaofang Zhou|21|20|0|12
+72|On optimal worst-case matching.|Cheng Long,Raymond Chi-Wing Wong,Philip S. Yu,Minhao Jiang|5|5|0|0
+73|Shortest path and distance queries on road networks: towards bridging theory and practice.|Andy Diwen Zhu,Hui Ma,Xiaokui Xiao,Siqiang Luo,Youze Tang,Shuigeng Zhou|23|23|0|1
+74|Fine-grained disclosure control for app ecosystems.|Gabriel Bender,Lucja Kot,Johannes Gehrke,Christoph Koch|6|5|0|1
+75|Lightweight authentication of linear algebraic queries on data streams.|Stavros Papadopoulos,Graham Cormode,Antonios Deligiannakis,Minos N. Garofalakis|8|7|0|2
+76|Column imprints: a secondary index structure.|Lefteris Sidirourgos,Martin L. Kersten|12|11|0|0
+77|DeltaNI: an efficient labeling scheme for versioned hierarchical data.|Jan Finis,Robert Brunel,Alfons Kemper,Thomas Neumann,Franz Färber,Norman May|6|6|0|4
+78|Big data in capital markets.|Alex Nazaruk,Michael Rauchman|4|4|0|0
+79|Managing database technology at enterprise scale.|Paul Yaron|0|0|0|0
+80|We are drowning in a sea of least publishable units (LPUs).|David J. DeWitt,Ihab F. Ilyas,Jeffrey F. Naughton,Michael Stonebraker|0|0|0|0
+81|Rethinking eventual consistency.|Philip A. Bernstein,Sudipto Das|20|19|0|0
+82|Workload management for big data analytics.|Ashraf Aboulnaga,Shivnath Babu|7|7|0|0
+83|Knowledge harvesting in the big-data era.|Fabian M. Suchanek,Gerhard Weikum|26|26|0|2
+84|Machine learning for big data.|Tyson Condie,Paul Mineiro,Neoklis Polyzotis,Markus Weimer|20|20|0|0
+85|Data management perspectives on business process management: tutorial overview.|Richard Hull,Jianwen Su,Roman Vaculín|12|12|0|5
+86|Data stream warehousing.|Lukasz Golab,Theodore Johnson|6|5|0|3
+87|Data-driven neuroscience: enabling breakthroughs via innovative data management.|Alexandros Stougiannis,Mirjana Pavlovic,Farhan Tauheed,Thomas Heinis,Anastasia Ailamaki|3|3|0|0
+88|TsingNUS: a location-based service system towards live city.|Guoliang Li,Nan Zhang,Ruicheng Zhong,Sitong Liu,Weihuang Huang,Ju Fan,Kian-Lee Tan,Lizhu Zhou,Jianhua Feng|3|3|0|1
+89|WOW: what the world of (data) warehousing can learn from the World of Warcraft.|René Müller,Tim Kaldewey,Guy M. Lohman,John McPherson|0|0|0|0
+90|Rule-based application development using Webdamlog.|Serge Abiteboul,Emilien Antoine,Gerome Miklau,Julia Stoyanovich,Jules Testard|4|4|0|0
+91|Speeding up database applications with Pyxis.|Alvin Cheung,Owen Arden,Samuel Madden,Andrew C. Myers|3|3|0|0
+92|Peckalytics: analyzing experts and interests on Twitter.|Alex Cheng,Nilesh Bansal,Nick Koudas|6|6|0|4
+93|Packing experiments for sharing and publication.|Fernando Seabra Chirigati,Dennis Shasha,Juliana Freire|6|6|0|2
+94|CHIC: a combination-based recommendation system.|Manasi Vartak,Samuel Madden|5|5|0|0
+95|Noah: a dynamic ridesharing system.|Charles Tian,Yan Huang,Zhi Liu,Favyen Bastani,Ruoming Jin|5|4|0|2
+96|A query answering system for data with evolution relationships.|Siarhei Bykau,Flavio Rizzolo,Yannis Velegrakis|2|2|0|2
+97|GeoDeepDive: statistical inference using familiar data-processing languages.|Ce Zhang,Vidhya Govindaraju,Jackson Borchardt,Tim Foltz,Christopher Ré,Shanan Peters|11|11|0|5
+98|Fact checking and analyzing the web.|François Goasdoué,Konstantinos Karanasos,Yannis Katsis,Julien Leblay,Ioana Manolescu,Stamatis Zampetakis|5|5|0|1
+99|Data mining algorithms as a service in the cloud exploiting relational database systems.|Carlos Ordonez,Javier García-García,Carlos Garcia-Alvarado,Wellington Cabrera,Veerabhadran Baladandayuthapani,Mohammed S. Quraishi|2|2|0|0
+100|SONDY: an open source platform for social dynamics mining and analysis.|Adrien Guille,Cécile Favre,Hakim Hacid,Djamel A. Zighed|16|16|0|8
+101|Interactive data mining with 3D-parallel-coordinate-trees.|Elke Achtert,Hans-Peter Kriegel,Erich Schubert,Arthur Zimek|43|41|0|11
+102|Stat!: an interactive analytics environment for big data.|Mike Barnett,Badrish Chandramouli,Robert DeLine,Steven M. Drucker,Danyel Fisher,Jonathan Goldstein,Patrick Morrison,John C. Platt|17|17|0|6
+103|PARAS: interactive parameter space exploration for association rule mining.|Abhishek Mukherji,Xika Lin,Christopher R. Botaish,Jason Whitehouse,Elke A. Rundensteiner,Matthew O. Ward,Carolina Ruiz|5|5|0|5
+104|STEM: a spatio-temporal miner for bursty activity.|Theodoros Lappas,Marcos R. Vieira,Dimitrios Gunopulos,Vassilis J. Tsotras|2|2|0|0
+105|The farm: where pig scripts are bred and raised.|Craig P. Sayers,Alkis Simitsis,Georgia Koutrika,Alejandro Guerrero Gonzalez,David Tamez Cantu,Meichun Hsu|1|1|0|1
+106|LinkIT: privacy preserving record linkage and integration via transformations.|Luca Bonomi,Li Xiong,James J. Lu|5|5|0|2
+107|Secure database-as-a-service with Cipherbase.|Arvind Arasu,Spyros Blanas,Ken Eguro,Manas Joglekar,Raghav Kaushik,Donald Kossmann,Ravishankar Ramamurthy,Prasang Upadhyaya,Ramarathnam Venkatesan|11|11|0|0
+108|DBalancer: distributed load balancing for NoSQL data-stores.|Ioannis Konstantinou,Dimitrios Tsoumakos,Ioannis Mytilinis,Nectarios Koziris|3|3|0|1
+109|COCCUS: self-configured cost-based query services in the cloud.|Ioannis Konstantinou,Verena Kantere,Dimitrios Tsoumakos,Nectarios Koziris|2|2|0|0
+110|Workload optimization using SharedDB.|Georgios Giannikis,Darko Makreshanski,Gustavo Alonso,Donald Kossmann|6|6|0|1
+111|SciQL: array data processing inside an RDBMS.|Ying Zhang,Martin L. Kersten,Stefan Manegold|16|15|0|1
+112|Iterative parallel data processing with stratosphere: an inside look.|Stephan Ewen,Sebastian Schelter,Kostas Tzoumas,Daniel Warneke,Volker Markl|17|15|0|3
+113|CARTILAGE: adding flexibility to the Hadoop skeleton.|Alekh Jindal,Jorge-Arnulfo Quiané-Ruiz,Samuel Madden|4|4|0|2
+114|Continuous outlier detection in data streams: an extensible framework and state-of-the-art algorithms.|Dimitrios Georgiadis,Maria Kontaki,Anastasios Gounaris,Apostolos N. Papadopoulos,Kostas Tsichlas,Yannis Manolopoulos|5|4|0|1
+115|FAST: differentially private real-time aggregate monitor with filtering and adaptive sampling.|Liyue Fan,Li Xiong,Vaidy S. Sunderam|9|7|0|3
+116|Execution and optimization of continuous queries with cyclops.|Harold Lim,Shivnath Babu|4|4|0|0
+117|Less watts, more performance: an intelligent storage engine for data appliances.|Louis Woods,Jens Teubner,Gustavo Alonso|7|6|0|4
+118|A demonstration of SQLVM: performance isolation in multi-tenant relational database-as-a-service.|Vivek R. Narasayya,Sudipto Das,Manoj Syamala,Surajit Chaudhuri,Feng Li,Hyunjung Park|26|24|0|2
+119|SQUIN: a traversal based query execution system for the web of linked data.|Olaf Hartig|12|12|0|1
+120|GRDB: a system for declarative and interactive analysis of noisy information networks.|Walaa Eldin Moustafa,Hui Miao,Amol Deshpande,Lise Getoor|0|0|0|0
+121|HiNGE: enabling temporal network analytics at scale.|Udayan Khurana,Amol Deshpande|3|3|0|1
+122|Research-insight: providing insight on research by publication network analysis.|Fangbo Tao,Xiao Yu,Kin Hou Lei,George Brova,Xiao Cheng,Jiawei Han,Rucha Kanade,Yizhou Sun,Chi Wang,Lidan Wang,Tim Weninger|3|3|0|2
+123|QUBLE: blending visual subgraph query formulation with query processing on large networks.|Ho Hoang Hung,Sourav S. Bhowmick,Ba Quan Truong,Byron Choi,Shuigeng Zhou|4|4|0|1
+124|StreamWorks: a system for dynamic graph search.|Sutanay Choudhury,Lawrence B. Holder,George Chin Jr.,Abhik Ray,Sherman Beus,John Feo|2|2|0|1
+125|Query processing on prefix trees live.|Thomas Kissinger,Benjamin Schlegel,Dirk Habich,Wolfgang Lehner|0|0|0|0
+126|xPAD: a platform for analytic data flows.|Alkis Simitsis,Kevin Wilkinson,Petar Jovanovic|6|6|0|3
+127|PBS at work: advancing data management with consistency metrics.|Peter Bailis,Shivaram Venkataraman,Michael J. Franklin,Joseph M. Hellerstein,Ion Stoica|6|5|0|3
+128|The power of data use management in action.|Prasang Upadhyaya,Nick R. Anderson,Magdalena Balazinska,Bill Howe,Raghav Kaushik,Ravishankar Ramamurthy,Dan Suciu|n/a
+129|CTrace: semantic comparison of multi-granularity process traces.|Qing Liu,Kerry Taylor,Xiang Zhao,Geoffrey Squire,Xuemin Lin,Corne Kloppers,Richard Miller|1|1|0|1
+130|The big data ecosystem at LinkedIn.|Roshan Sumbaly,Jay Kreps,Sam Shah|34|33|0|4
+131|On brewing fresh espresso: LinkedIn's distributed data serving platform.|Lin Qiao,Kapil Surlaker,Shirshanka Das,Tom Quiggle,Bob Schulman,Bhaskar Ghosh,Antony Curtis,Oliver Seeliger,Zhen Zhang,Aditya Auradkar,Chris Beaver,Gregory Brandt,Mihir Gandhi,Kishore Gopalakrishna,Wai Ip,Swaroop Jagadish,Shi Lu,Alexander Pachev,Aditya Ramesh,Abraham Sebastian,Rupa Shanbhag,Subbu Subramaniam,Yun Sun,Sajid Topiwala,Cuong Tran,Jemiah Westerman,David Zhang|15|14|0|1
+132|Fast data in the era of big data: Twitter's real-time related query suggestion architecture.|Gilad Mishne,Jeff Dalton,Zhenghua Li,Aneesh Sharma,Jimmy Lin|36|34|0|2
+133|Enhancements to SQL server column stores.|Per-Åke Larson,Cipri Clinciu,Campbell Fraser,Eric N. Hanson,Mostafa Mokhtar,Michal Nowakiewicz,Vassilis Papadimos,Susan L. Price,Srikumar Rangarajan,Remus Rusanu,Mayukh Saubhasik|24|24|0|1
+134|Query containment in entity SQL.|Guillem Rull,Philip A. Bernstein,Ivo Garcia dos Santos,Yannis Katsis,Sergey Melnik,Ernest Teniente|1|1|0|0
+135|Timeline index: a unified data structure for processing queries on temporal data in SAP HANA.|Martin Kaufmann,Amin Amiri Manjili,Panagiotis Vagenas,Peter M. Fischer,Donald Kossmann,Franz Färber,Norman May|24|24|0|7
+136|LinkBench: a database benchmark based on the Facebook social graph.|Timothy G. Armstrong,Vamsi Ponnekanti,Dhruba Borthakur,Mark Callaghan|73|70|0|0
+137|BigBench: towards an industry standard benchmark for big data analytics.|Ahmad Ghazal,Tilmann Rabl,Minqing Hu,Francois Raab,Meikel Poess,Alain Crolotte,Hans-Arno Jacobsen|104|101|0|8
+138|Building, maintaining, and using knowledge bases: a report from the trenches.|Omkar Deshpande,Digvijay S. Lamba,Michel Tourn,Sanjib Das,Sri Subramaniam,Anand Rajaraman,Venky Harinarayan,AnHai Doan|25|25|0|2
+139|Query processing on smart SSDs: opportunities and challenges.|Jaeyoung Do,Yang-Suk Kee,Jignesh M. Patel,Chanik Park,Kwanghyun Park,David J. DeWitt|26|24|0|3
+140|Micro adaptivity in Vectorwise.|Bogdan Raducanu,Peter A. Boncz,Marcin Zukowski|17|17|0|1
+141|Hekaton: SQL server's memory-optimized OLTP engine.|Cristian Diaconu,Craig Freedman,Erik Ismert,Per-Åke Larson,Pravin Mittal,Ryan Stonecipher,Nitin Verma,Mike Zwilling|101|98|0|3
+142|Split query processing in polybase.|David J. DeWitt,Alan Halverson,Rimma V. Nehme,Srinath Shankar,Josep Aguilar-Saborit,Artin Avanes,Miro Flasza,Jim Gramling|33|32|0|1
+143|Petabyte scale databases and storage systems at Facebook.|Dhruba Borthakur|6|5|0|0
+144|Incremental mapping compilation in an object-to-relational mapping system.|Philip A. Bernstein,Marie Jacob,Jorge Pérez,Guillem Rull,James F. Terwilliger|2|2|0|0
+145|FriendRouter: real-time path finder in social networks.|Wladston Viana,Mirella M. Moro|0|0|0|0
+146|Adaptive log compression for massive log data.|Robert Christensen,Feifei Li|2|2|0|0
+147|BUZZARD: a NUMA-aware in-memory indexing system.|Lukas M. Maas,Thomas Kissinger,Dirk Habich,Wolfgang Lehner|4|4|0|0
+148|Resa: realtime elastic streaming analytics in the cloud.|Tian Tan,Richard T. B. Ma,Marianne Winslett,Yin Yang,Yong Yu,Zhenjie Zhang|4|4|0|3
+149|Natural language question answering over RDF data.|Ruizhe Huang,Lei Zou|5|5|0|0
+150|Mobile interaction and query optimizationin a protein-ligand data analysis system.|Marvin Lapeine,Katherine G. Herbert,Emily Hill,Nina M. Goodey|1|1|0|0
+151|SIGMOD 2013 new researcher symposium.|Anish Das Sarma,Xin Luna Dong|0|0|0|0

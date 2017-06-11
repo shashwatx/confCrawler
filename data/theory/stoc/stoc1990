@@ -1,0 +1,61 @@
+60
+1|Proceedings of the 22nd Annual ACM Symposium on Theory of Computing, May 13-17, 1990, Baltimore, Maryland, USA.|Harriet Ortiz|n/a
+2|BLASTING through the Information Theoretic Barrier with FUSION TREES.|Michael L. Fredman,Dan E. Willard|60|19|1|4
+3|On the Dynamic Finger Conjecture for Splay Trees (Extended Abstract).|Richard Cole|0|0|0|0
+4|Unique Binary Search Tree Representations and Equality-testing of Sets and Sequences.|Rajamani Sundar,Robert Endre Tarjan|20|2|0|3
+5|The Information Theory Bound Is Tight for Selection in a Heap.|Greg N. Frederickson|9|1|0|1
+6|Lower Bounds for the Union-Find and the Split-Find Problem on Pointer Machines.|Johannes A. La Poutré|29|5|0|0
+7|Optimal Randomized Algorithms for Local Sorting and Set-Maxima.|Wayne Goddard,Valerie King,Leonard J. Schulman|35|3|0|2
+8|On the Necessity of Occam Algorithms.|Raymond A. Board,Leonard Pitt|105|16|0|4
+9|Learning Boolean Functions in an Infinite Atribute Space (Extended Abstract).|Avrim Blum|143|21|1|5
+10|Self-Testing/Correcting with Applications to Numerical Problems.|Manuel Blum,Michael Luby,Ronitt Rubinfeld|836|319|1|50
+11|Coherent Functions and Program Checkers (Extended Abstract).|Andrew Chi-Chih Yao|n/a
+12|The Use of a Synchronizer Yields Maximum Computation Rate in Distributed Networks (Extended Abstract).|Shimon Even,Sergio Rajsbaum|21|1|0|8
+13|The Wakeup Problem (Extended Abstract).|Michael J. Fischer,Shlomo Moran,Steven Rudich,Gadi Taubenfeld|n/a
+14|How to Distribute a Dictionary in a Complete Network.|Martin Dietzfelbinger,Friedhelm Meyer auf der Heide|40|4|0|8
+15|Computing with Unreliable Information (Preliminary Version).|Uriel Feige,David Peleg,Prabhakar Raghavan,Eli Upfal|n/a
+16|Efficient Robust Parallel Computations (Extended Abstract).|Zvi M. Kedem,Krishna V. Palem,Paul G. Spirakis|n/a
+17|On-line Algorithms for Path Selection in a Nonblocking Network (Extended Abstract).|Sanjeev Arora,Frank Thomson Leighton,Bruce M. Maggs|90|6|2|12
+18|Optimal Disk I/O with Parallel Block Transfer (Extended Abstract).|Jeffrey Scott Vitter,Elizabeth A. M. Shriver|88|4|1|7
+19|Deterministic Sampling-A New Technique for Fast Pattern Matching.|Uzi Vishkin|120|17|0|6
+20|Towards Overcoming the Transitive-Closure Bottleneck: Efficient Parallel Algorithms for Planar Digraphs.|Ming-Yang Kao,Philip N. Klein|42|2|0|8
+21|Deterministic Sorting in Nearly Logarithmic Time on the Hypercube and Related Computers.|Robert Cypher,C. Greg Plaxton|194|10|0|19
+22|Psuedorandom Generators for Space-Bounded Computation.|Noam Nisan|451|196|37|12
+23|Small-bias Probability Spaces: Efficient Constructions and Applications.|Joseph Naor,Moni Naor|660|219|0|20
+24|The Analysis of Closed Hashing under Limited Randomness (Extended Abstract).|Jeanette P. Schmidt,Alan Siegel|43|11|0|6
+25|The Computational Complexity of Universal Hashing.|Yishay Mansour,Noam Nisan,Prasoon Tiwari|184|54|0|6
+26|Not All Keys Can Be Hashed in Constant Time (Preliminary Version).|Joseph Gil,Friedhelm Meyer auf der Heide,Avi Wigderson|n/a
+27|A Technique for Lower Bounding the Cover Time.|David Zuckerman|63|26|0|1
+28|Approximate Inclusion-Exclusion.|Nathan Linial,Noam Nisan|149|54|0|3
+29|Towards Optimal Simulations of Formulas by Bounded-Width Programs.|Richard Cleve|35|14|0|0
+30|Functions with Bounded Symmetric Communication Complexity and Circuits with \mathop mod m Gates.|Mario Szegedy|n/a
+31|Monotone Circuits for Matching Require Linear Depth.|Ran Raz,Avi Wigderson|147|39|0|18
+32|A Separator Theorem for Graphs with an Excluded Minor and its Applications.|Noga Alon,Paul D. Seymour,Robin Thomas|200|61|0|3
+33|Separators in Two and Three Dimensions.|Gary L. Miller,William P. Thurston|86|13|0|6
+34|Leighton-Rao Might Be Practical: Faster Approximation Algorithms for Concurrent Flow with Uniform Capacities.|Philip N. Klein,Clifford Stein,Éva Tardos|42|5|0|7
+35|Output Sensitive Construction of Levels and Voronoi Diagrams in R^d of Order 1 to k.|Ketan Mulmuley|14|1|0|4
+36|Solving Query-Retrieval Problems by Compacting Voronoi Diagrams (Extended Abstract).|Alok Aggarwal,Mark Hansen,Frank Thomson Leighton|61|10|0|1
+37|Quantitative Steinitz's Theorems with Applications to Multifingered Grasping.|David G. Kirkpatrick,Bhubaneswar Mishra,Chee-Keng Yap|199|71|1|12
+38|An Optimal Algorithm for On-line Bipartite Matching.|Richard M. Karp,Umesh V. Vazirani,Vijay V. Vazirani|338|189|3|6
+39|Online Algorithms for Locating Checkpoints.|Marshall W. Bern,Daniel H. Greene,Arvind Raghunathan,Madhu Sudan|13|2|0|1
+40|Random Walks on Weighted Graphs, and Applications to On-line Algorithms (Preliminary Version).|Don Coppersmith,Peter Doyle,Prabhakar Raghavan,Marc Snir|161|30|1|2
+41|On the Power of Randomization in Online Algorithms (Extended Abstract).|Shai Ben-David,Allan Borodin,Richard M. Karp,Gábor Tardos,Avi Wigderson|432|75|0|7
+42|One-Way Functions are Necessary and Sufficient for Secure Signatures.|John Rompel|651|189|7|0
+43|Pseudo-Random Generators under Uniform Assumptions.|Johan Håstad|155|21|1|0
+44|The Discrete Log is Very Discreet.|A. W. Schrift,Adi Shamir|38|3|0|3
+45|Witness Indistinguishable and Witness Hiding Protocols.|Uriel Feige,Adi Shamir|504|146|4|6
+46|Public-key Cryptosystems Provably Secure against Chosen Ciphertext Attacks.|Moni Naor,Moti Yung|841|318|2|54
+47|On the Complexity of Local Search (Extended Abstract).|Christos H. Papadimitriou,Alejandro A. Schäffer,Mihalis Yannakakis|n/a
+48|Quantifiers and Approximation (Extended Abstract).|Alessandro Panconesi,Desh Ranjan|n/a
+49|On Polynomial Time Bounded Truth-Table Reducibility of NP Sets to Sparse Sets.|Mitsunori Ogiwara,Osamu Watanabe|179|17|0|8
+50|The Undecidability of the Semi-Unification Problem (Preliminary Report).|A. J. Kfoury,Jerzy Tiuryn,Pawel Urzyczyn|178|25|0|14
+51|Decidability of the Multiplicity Equivalence of Multitape Finite Automata.|Tero Harju,Juhani Karhumäki|13|1|0|2
+52|Perfect Zero-Knowledge in Constant Rounds.|Mihir Bellare,Silvio Micali,Rafail Ostrovsky|115|16|0|6
+53|The (True) Complexity of Statistical Zero Knowledge.|Mihir Bellare,Silvio Micali,Rafail Ostrovsky|87|9|1|24
+54|The Round Complexity of Secure Protocols (Extended Abstract).|Donald Beaver,Silvio Micali,Phillip Rogaway|n/a
+55|Efficient Computation on Oblivious RAMs.|Rafail Ostrovsky|135|100|2|15
+56|Computing in Quotient Groups.|William M. Kantor,Eugene M. Luks|45|7|0|9
+57|On the Decidability of Sparse Univariate Polynomial Interpolation (Preliminary Version).|Allan Borodin,Prasoon Tiwari|36|6|0|0
+58|Searching for Primitive Roots in Finite Fields.|Victor Shoup|150|51|0|6
+59|On the Complexity of Computing a Gröbner Basis for the Radical of a Zero Dimensional Ideal.|Yagati N. Lakshman|35|17|0|2
+60|The Number Field Sieve.|Arjen K. Lenstra,Hendrik W. Lenstra Jr.,Mark S. Manasse,John M. Pollard|789|227|0|35

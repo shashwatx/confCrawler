@@ -1,0 +1,32 @@
+31
+1|CCS '93, Proceedings of the 1st ACM Conference on Computer and Communications Security, Fairfax, Virginia, USA, November 3-5, 1993.|Dorothy E. Denning,Raymond Pyle,Ravi Ganesan,Ravi S. Sandhu,Victoria Ashby|n/a
+2|Does Licensing Require New Access Control Techniques?|Ralf C. Hauser|60|23|48|0
+3|A Cryptographic File System for UNIX.|Matt Blaze|603|180|61|5
+4|A Particular Solution to Provide Secure Communications in an Ethernet Environment.|Miguel Soriano,Jordi Forné,Francisco Recacha,José L. Melús|4|1|0|0
+5|Lower Bounds on Messages and Rounds for Network Authentication Protocols.|Li Gong|57|7|0|2
+6|Optimality of Multi-Domain Protocols.|Raphael Yahalom|7|0|0|0
+7|On Simple and Secure Key Distribution.|Gene Tsudik,Els Van Herreweghen|17|5|1|3
+8|A New Signature Scheme Based on the DSA Giving Message Recovery.|Kaisa Nyberg,Rainer A. Rueppel|325|89|0|6
+9|Random Oracles are Practical: A Paradigm for Designing Efficient Protocols.|Mihir Bellare,Phillip Rogaway|4073|1620|30|90
+10|Sorting Out Signature Schemes.|Birgit Pfitzmann|40|4|0|20
+11|Digital Signatures: Can They be Accepted as Legal Signatures in EDI?|Patrick W. Brown|26|10|15|0
+12|Design of the Commercial Data Masking Facility Data Privacy Algorithm.|Donald Byron Johnson,Stephen M. Matyas,An V. Le,John D. Wilkins|12|0|0|1
+13|Adding Time to a Logic of Authentication.|Paul F. Syverson|89|10|0|4
+14|NetCash: A Design for Practical Electronic Currency on the Internet.|Gennady Medvinsky,B. Clifford Neuman|378|103|74|6
+15|Security Planning for Personal Communications.|Dan Brown|8|1|0|0
+16|A Framework for Distributed Authorization.|Thomas Y. C. Woo,Simon S. Lam|62|19|15|2
+17|A Pump for Rapid, Reliable, Secure Communication.|Myong H. Kang,Ira S. Moskowitz|164|57|0|28
+18|Authorizations in Relational Database Management Systems.|Elisa Bertino,Pierangela Samarati,Sushil Jajodia|68|18|1|17
+19|High Assurance Discretionary Access Control for Object Bases.|Elisa Bertino,Pierangela Samarati,Sushil Jajodia|48|7|0|1
+20|Denial of Service.|Roger M. Needham|58|16|0|0
+21|Analysis of an Algorithm for Distributed Recognition and Accountability.|Calvin Ko,Deborah A. Frincke,Terrance Goan,Todd L. Heberlein,Karl N. Levitt,Biswanath Mukherjee,Christopher Wee|36|5|0|1
+22|Integration of DCE and Local Registries: Design Approaches.|Ping Lin,C. Sekar Chandersekaran|2|2|2|0
+23|Systematic Generation of Cryptographically Robust S-Boxes.|Jennifer Seberry,Xian-Mo Zhang,Yuliang Zheng|68|14|0|17
+24|Differential Cryptanalysis of Hash Functions Based on Block Ciphers.|Bart Preneel,René Govaerts,Joos Vandewalle|21|5|0|3
+25|Verifiable Secret Sharing for Monotone Access Structures.|Thomas Beth,Hans-Joachim Knobloch,Marcus Otten|19|1|0|3
+26|Securing a Global Village and Its Resources: Baseline Security for Interconnected Signaling System #7 Telecommunications Networks.|Hank M. Kluepfel|21|6|15|0
+27|Cryptanalysis and Protocol Failures (abstract).|Gustavus J. Simmons|n/a
+28|Why Cryptosystems Fail.|Ross J. Anderson|742|143|41|43
+29|Towards Practical ``Proven Secure'' Authenticated Key Distribution.|Yvo Desmedt,Mike Burmester|35|4|0|3
+30|Extending Cryptographic Logics of Belief to Key Agreement Protocols.|Paul C. van Oorschot|143|30|1|3
+31|Augmented Encrypted Key Exchange: A Password-Based Protocol Secure against Dictionary Attacks and Password File Compromise.|Steven M. Bellovin,Michael Merritt|504|137|17|2

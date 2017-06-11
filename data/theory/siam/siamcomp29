@@ -1,0 +1,96 @@
+95
+1|Multiple NonInteractive Zero Knowledge Proofs Under General Assumptions.|Uriel Feige,Dror Lapidot,Adi Shamir|227|82|0|0
+2|Tight Analyses of Two Local Load Balancing Algorithms.|Bhaskar Ghosh,Frank Thomson Leighton,Bruce M. Maggs,S. Muthukrishnan,C. Greg Plaxton,Rajmohan Rajaraman,Andréa W. Richa,Robert Endre Tarjan,David Zuckerman|48|14|0|1
+3|An Algorithm for Shortest Paths in Bipartite Digraphs with Concave Weight Matrices and its Applications.|Xin He,Zhi-Zhong Chen|2|1|0|1
+4|Regular Closure of Deterministic Languages.|Eberhard Bertsch,Mark-Jan Nederhof|17|5|0|2
+5|Constructing Evolutionary Trees in the Presence of Polymorphic Characters.|Maria Luisa Bonet,Cynthia A. Phillips,Tandy Warnow,Shibu Yooseph|24|3|0|11
+6|The Complexity of Tree Automata and Logics of Programs.|E. Allen Emerson,Charanjit S. Jutla|375|79|0|7
+7|Finding Separator Cuts in Planar Graphs within Twice the Optimal.|Naveen Garg,Huzur Saran,Vijay V. Vazirani|22|4|0|1
+8|Balanced Allocations.|Yossi Azar,Andrei Z. Broder,Anna R. Karlin,Eli Upfal|653|288|10|12
+9|The Algorithmic Aspects of Uncrowded Hypergraphs.|Claudia Bertram-Kretzberg,Hanno Lefmann|31|5|0|23
+10|Achilles, Turtle, and Undecidable Boundedness Problems for Small DATALOG Programs.|Jerzy Marcinkowski|10|6|0|1
+11|Tight Bounds on the Size of Fault-Tolerant Merging and Sorting Networks with Destructive Faults.|Frank Thomson Leighton,Yuan Ma|23|5|0|0
+12|Routing with Minimum Wire Length in the Dogleg-Free Manhattan Model is NP-Complete.|Tibor Szkaliczki|42|10|0|1
+13|On Regular Tree Embeddings.|Weimin Chen,Volker Turau|0|0|0|0
+14|Equivalence of Measures of Complexity Classes.|Josef M. Breutzmann,Jack H. Lutz|16|3|0|10
+15|The Swapping Problem on a Line.|Shoshana Anily,Michel Gendreau,Gilbert Laporte|26|12|0|10
+16|How Good is the Goemans-Williamson MAX CUT Algorithm?|Howard J. Karloff|93|22|0|1
+17|Solvability in Asynchronous Environments II: Finite Interactive Tasks.|Benny Chor,Lee-Bath Nelson|4|1|0|0
+18|Weakly Triangulated Comparability Graphs.|Elaine M. Eschen,Ryan Hayward,Jeremy P. Spinrad,R. Sritharan|8|3|0|1
+19|On Approximately Counting Colorings of Small Degree Graphs.|Russ Bubley,Martin E. Dyer,Catherine S. Greenhill,Mark Jerrum|39|16|0|7
+20|Ranking Primitive Recursions: The Low Grzegorczyk Classes Revisited.|Stephen J. Bellantoni,Karl-Heinz Niggl|37|10|0|11
+21|Communication-Efficient Parallel Sorting.|Michael T. Goodrich|159|35|0|6
+22|Proximity in Arrangements of Algebraic Sets.|J. H. Rieger|2|0|0|2
+23|Better Bounds for Online Scheduling.|Susanne Albers|246|76|0|16
+24|Tight Bounds for On-Line Tree Embeddings.|Sandeep N. Bhatt,David S. Greenberg,Frank Thomson Leighton,Pangfeng Liu|33|1|0|1
+25|A Randomized Fully Polynomial Time Approximation Scheme for the All-Terminal Network Reliability Problem.|David R. Karger|202|83|0|10
+26|On the Maximum Scatter Traveling Salesperson Problem.|Esther M. Arkin,Yi-Jen Chiang,Joseph S. B. Mitchell,Steven Skiena,Tae-Cheon Yang|18|10|0|1
+27|The Parametrized Complexity of Some Fundamental Problems in Coding Theory.|Rodney G. Downey,Michael R. Fellows,Alexander Vardy,Geoff Whittle|65|33|0|8
+28|Two- and Higher-Dimensional Pattern Matching in Optimal Expected Time.|Juha Kärkkäinen,Esko Ukkonen|28|3|0|4
+29|Kolmogorov Random Graphs and the Incompressibility Method.|Harry Buhrman,Ming Li,John Tromp,Paul M. B. Vitányi|27|6|0|3
+30|Self-Stabilizing Algorithms for Finding Centers and Medians of Trees.|Steven C. Bruell,Sukumar Ghosh,Mehmet Hakan Karaata,Sriram V. Pemmaraju|58|20|0|9
+31|Automatic Methods for Hiding Latency in Parallel and Distributed Computation.|Matthew Andrews,Frank Thomson Leighton,Panagiotis Takis Metaxas,Lisa Zhang|3|1|0|0
+32|Improved Approximation Guarantees for Packing and Covering Integer Programs.|Aravind Srinivasan|98|41|0|8
+33|An Efficient Algorithm for Generating Necklaces with Fixed Density.|Frank Ruskey,Joe Sawada|46|15|0|14
+34|Finding an Even Simple Path in a Directed Planar Graph.|Zhivko Prodanov Nedev|11|7|0|0
+35|The Angular-Metric Traveling Salesman Problem.|Alok Aggarwal,Don Coppersmith,Sanjeev Khanna,Rajeev Motwani,Baruch Schieber|57|32|0|0
+36|On Learning Functions from Noise-Free and Noisy Samples via Occam's Razor.|B. Natarajan|3|0|0|0
+37|Navigation in Hypertext Is Easy Only Sometimes.|Mark Levene,George Loizou|20|3|0|9
+38|A Polynomial-Time Approximation Scheme for Minimum Routing Cost Spanning Trees.|Bang Ye Wu,Giuseppe Lancia,Vineet Bafna,Kun-Mao Chao,R. Ravi,Chuan Yi Tang|163|37|0|35
+39|Complexity of Deciding Sense of Direction.|Paolo Boldi,Sebastiano Vigna|32|1|0|7
+40|Rigorous Time/Space Trade-offs for Inverting Functions.|Amos Fiat,Moni Naor|43|16|0|1
+41|Bubbles: Adaptive Routing Scheme for High-Speed Dynamic Networks.|Shlomi Dolev,Evangelos Kranakis,Danny Krizanc,David Peleg|27|0|0|17
+42|Randomly Sampling Molecules.|Leslie Ann Goldberg,Mark Jerrum|14|5|0|2
+43|Computational Sample Complexity.|Scott E. Decatur,Oded Goldreich,Dana Ron|21|12|0|1
+44|A Faster and Simpler Algorithm for Sorting Signed Permutations by Reversals.|Haim Kaplan,Ron Shamir,Robert Endre Tarjan|355|66|0|13
+45|Compression of Low Entropy Strings with Lempel-Ziv Algorithms.|S. Rao Kosaraju,Giovanni Manzini|90|36|0|6
+46|Vertical Decomposition of Shallow Levels in 3-Dimensional Arrangements and Its Applications.|Pankaj K. Agarwal,Alon Efrat,Micha Sharir|85|41|0|18
+47|A 2½-Approximation Algorithm for Shortest Superstring.|Z. Sweedyk|88|33|0|0
+48|On the Structure of Logspace Probabilistic Complexity Classes.|Ioan I. Macarie|4|0|0|1
+49|Approximation Algorithms for the Orthogonal Z-Oriented Three-Dimensional Packing Problem.|Flávio Keidi Miyazawa,Yoshiko Wakabayashi|43|10|0|10
+50|Examining Computational Geometry, Van Emde Boas Trees, and Hashing from the Perspective of the Fusion Tree.|Dan E. Willard|70|32|0|1
+51|Near-Optimal Parallel Prefetching and Caching.|Tracy Kimbrel,Anna R. Karlin|96|8|3|4
+52|Complexity Results for First-Order Two-Variable Logic with Counting.|Leszek Pacholski,Wieslaw Szwast,Lidia Tendera|71|20|0|4
+53|Making Nondeterminism Unambiguous.|Klaus Reinhardt,Eric Allender|111|51|0|22
+54|A Combinatorial Consistency Lemma with Application to Proving the PCP Theorem.|Oded Goldreich,Shmuel Safra|20|12|0|2
+55|Verification of Identities.|Sridhar Rajagopalan,Leonard J. Schulman|10|3|0|0
+56|Exploring Unknown Environments.|Susanne Albers,Monika Rauch Henzinger|259|108|0|3
+57|Reducibility and Completeness in Private Computations.|Joe Kilian,Eyal Kushilevitz,Silvio Micali,Rafail Ostrovsky|58|22|0|20
+58|Lower Bounds for (MODp-MODm) Circuits.|Vince Grolmusz,Gábor Tardos|23|6|0|0
+59|Shortest Path Queries Among Weighted Obstacles in the Rectilinear Plane.|Danny Z. Chen,Kevin S. Klenk,Hung-Yi Tu|34|7|0|8
+60|Reducing Randomness via Irrational Numbers.|Zhi-Zhong Chen,Ming-Yang Kao|73|33|0|1
+61|On the Power of Logic Resynthesis.|Wei-Liang Lin,Amir H. Farrahi,Majid Sarrafzadeh|n/a
+62|Application-Controlled Paging for a Shared Cache.|Rakesh D. Barve,Edward F. Grove,Jeffrey Scott Vitter|16|9|0|0
+63|Perfect-Information Leader Election with Optimal Resilience.|Ravi B. Boppana,Babu O. Narayanan|20|4|0|1
+64|Node-Disjoint Paths on the Mesh and a New Trade-Off in VLSI Layout.|Alok Aggarwal,Jon M. Kleinberg,David P. Williamson|20|10|0|0
+65|Quality Mesh Generation in Higher Dimensions.|Scott A. Mitchell,Stephen A. Vavasis|111|17|1|9
+66|Containment and Optimization of Object-Preserving Conjunctive Queries.|Edward P. F. Chan,Ron van der Meyden|3|1|0|1
+67|Robust Plane Sweep for Intersecting Segments.|Jean-Daniel Boissonnat,Franco P. Preparata|77|12|0|7
+68|Binary Space Partitions for Fat Rectangles.|Pankaj K. Agarwal,Edward F. Grove,T. M. Murali,Jeffrey Scott Vitter|24|4|0|3
+69|Wait-Free k-Set Agreement is Impossible: The Topology of Public Knowledge.|Michael E. Saks,Fotios Zaharoglou|186|107|0|0
+70|An Optimal Algorithm for Monte Carlo Estimation.|Paul Dagum,Richard M. Karp,Michael Luby,Sheldon M. Ross|152|70|0|6
+71|Separating Complexity Classes Using Autoreducibility.|Harry Buhrman,Lance Fortnow,Dieter van Melkebeek,Leen Torenvliet|32|8|0|5
+72|Maintenance of 2- and 3-Edge-Connected Components of Graphs II.|Johannes A. La Poutré|2|0|0|0
+73|Restructuring Partitioned Normal Form Relations without Information Loss.|Millist W. Vincent,Mark Levene|13|1|0|7
+74|Linear-Time Approximation Algorithms for Computing Numerical Summation with Provably Small Errors.|Ming-Yang Kao,Jie Wang|5|0|0|2
+75|Precision-Sensitive Euclidean Shortest Path in 3-Space.|Jürgen Sellen,Joonsoo Choi,Chee-Keng Yap|41|16|0|4
+76|Optimal Information Gathering on the Internet with Time and Cost Constraints.|Oren Etzioni,Steve Hanks,Tao Jiang,Omid Madani|6|0|0|0
+77|Virtual Path Layouts in ATM Networks.|Ladislav Stacho,Imrich Vrto|23|3|0|0
+78|Self-Testing without the Generator Bottleneck.|Funda Ergün,Ravi Kumar,D. Sivakumar|8|2|0|1
+79|Safe Constraint Queries.|Michael Benedikt,Leonid Libkin|210|5|0|13
+80|On Broadcast Disk Paging.|Sanjeev Khanna,Vincenzo Liberatore|51|7|1|9
+81|Contention Resolution in Hashing Based Shared Memory Simulations.|Artur Czumaj,Friedhelm Meyer auf der Heide,Volker Stemann|18|3|0|0
+82|All-Pairs Almost Shortest Paths.|Dorit Dor,Shay Halperin,Uri Zwick|212|98|0|11
+83|Improved Data Structures for Fully Dynamic Biconnectivity.|Monika Rauch Henzinger|56|2|0|1
+84|Optimal Combinatorial Functions Comparing Multiprocess Allocation Performance in Multiprocessor Systems.|Håkan Lennerstad,Lars Lundberg|11|0|0|10
+85|The CREW PRAM Complexity of Modular Inversion.|Joachim von zur Gathen,Igor Shparlinski|0|0|0|0
+86|Dynamic Maintenance of Maxima of 2-d Point Sets.|Sanjiv Kapoor|34|17|0|0
+87|The Complexity of the A B C Problem.|Jin-yi Cai,Richard J. Lipton,Yechezkel Zalcstein|14|7|0|0
+88|The Load and Availability of Byzantine Quorum Systems.|Dahlia Malkhi,Michael K. Reiter,Avishai Wool|97|13|11|27
+89|An Online Algorithm for Improving Performance in Navigation.|Avrim Blum,Prasad Chalasani|41|2|0|3
+90|On Interpolation and Automatization for Frege Systems.|Maria Luisa Bonet,Toniann Pitassi,Ran Raz|82|39|0|11
+91|Space-Time Tradeoffs for Emptiness Queries.|Jeff Erickson|25|6|0|3
+92|Parallel Sorting with Limited Bandwidth.|Micah Adler,John W. Byers,Richard M. Karp|53|5|0|6
+93|Constructing Planar Cuttings in Theory and Practice.|Sariel Har-Peled|26|6|0|10
+94|On Quiescent Reliable Communication.|Marcos Kawazoe Aguilera,Wei Chen,Sam Toueg|79|16|0|1
+95|Gadgets, Approximation, and Linear Programming.|Luca Trevisan,Gregory B. Sorkin,Madhu Sudan,David P. Williamson|252|79|0|41

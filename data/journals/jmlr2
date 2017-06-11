@@ -1,0 +1,32 @@
+31
+1|On the Size of Convex Hulls of Small Sets.|Shahar Mendelson|11|1|0|4
+2|Graph-Based Hierarchical Conceptual Clustering.|Istvan Jonyer,Diane J. Cook,Lawrence B. Holder|119|47|1|6
+3|Support Vector Machine Active Learning with Applications to Text Classification.|Simon Tong,Daphne Koller|1928|1170|6|4
+4|On the Influence of the Kernel on the Consistency of Support Vector Machines.|Ingo Steinwart|455|235|0|30
+5|Kernel Partial Least Squares Regression in Reproducing Kernel Hilbert Space.|Roman Rosipal,Leonard J. Trejo|672|351|4|16
+6|Support Vector Clustering.|Asa Ben-Hur,David Horn,Hava T. Siegelmann,Vladimir Vapnik|1048|448|2|2
+7|One-Class SVMs for Document Classification.|Larry M. Manevitz,Malik Yousef|783|481|1|7
+8|Uniform Object Generation for Optimizing One-class Classifiers.|David M. J. Tax,Robert P. W. Duin|242|106|0|6
+9|A Generalized Kernel Approach to Dissimilarity-based Classification.|Elzbieta Pekalska,Pavel Paclík,Robert P. W. Duin|330|139|0|26
+10|A New Approximate Maximal Margin Classification Algorithm.|Claudio Gentile|209|81|0|10
+11|Efficient SVM Training Using Low-Rank Kernel Representations.|Shai Fine,Katya Scheinberg|511|266|3|5
+12|On the Algorithmic Implementation of Multiclass Kernel-based Vector Machines.|Koby Crammer,Yoram Singer|1570|1020|3|18
+13|Exact Simplification of Support Vector Solutions.|Tom Downs,Kevin E. Gates,Annette Masters|241|109|1|1
+14|Classes of Kernels for Machine Learning: A Statistics Perspective.|Marc G. Genton|339|180|0|1
+15|Recommender Systems Using Linear Classifier.|Tong Zhang,Vijay S. Iyengar|124|62|0|3
+16|Machine Learning with Data Dependent Hypothesis Classes.|Adam Cannon,J. Mark Ettinger,Don R. Hush,Clint Scovel|33|11|0|4
+17|On Using Extended Statistical Queries to Avoid Membership Queries.|Nader H. Bshouty,Vitaly Feldman|54|22|0|18
+18|The Learning-Curve Sampling Method Applied to Model-Based Clustering.|Christopher Meek,Bo Thiesson,David Heckerman|54|25|0|0
+19|Text Classification using String Kernels.|Huma Lodhi,Craig Saunders,John Shawe-Taylor,Nello Cristianini,Christopher J. C. H. Watkins|1354|632|11|18
+20|Learning Equivalence Classes of Bayesian-Network Structures.|David Maxwell Chickering|586|261|3|3
+21|Stability and Generalization.|Olivier Bousquet,André Elisseeff|681|349|0|10
+22|Stability and Generalization.|Olivier Bousquet,André Elisseeff|681|349|0|10
+23|Covering Number Bounds of Certain Regularized Linear Function Classes.|Tong Zhang|134|84|0|8
+24|Introduction to Special Issue on Machine Learning Approaches to Shallow Parsing.|James Hammerton,Miles Osborne,Susan Armstrong,Walter Daelemans|78|27|0|0
+25|Memory-Based Shallow Parsing.|Erik F. Tjong Kim Sang|180|35|1|27
+26|Shallow Parsing using Specialized HMMs.|Antonio Molina,Ferran Pla|106|35|0|9
+27|Text Chunking based on a Generalization of Winnow.|Tong Zhang,Fred Damerau,David Johnson|209|56|4|13
+28|Shallow Parsing with PoS Taggers and Linguistic Features.|Beáta Megyesi|57|13|0|1
+29|Learning Rules and Their Exceptions.|Hervé Déjean|36|8|1|0
+30|Shallow Parsing using Noisy and Non-Stationary Training Material.|Miles Osborne|18|3|1|2
+31|Round Robin Classification.|Johannes Fürnkranz|400|182|0|0

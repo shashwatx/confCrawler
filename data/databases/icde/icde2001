@@ -1,0 +1,76 @@
+75
+1|Proceedings of the 17th International Conference on Data Engineering, April 2-6, 2001, Heidelberg, Germany.|Dimitrios Georgakopoulos,Alexander Buchmann|n/a
+2|Exactly-once Semantics in a Replicated Messaging System.|Yongqiang Huang,Hector Garcia-Molina|15|3|0|2
+3|CORBA Notification Service: Design Challenges and Scalable Solutions.|Robert E. Gruber,Balachander Krishnamurthy,Euthimios Panagos|18|4|0|0
+4|Measuring and Optimizing a System for Persistent Database Sessions.|Roger S. Barga,David B. Lomet|11|1|2|2
+5|A Temporal Algebra for an ER-Based Temporal Data Model.|Jae Young Lee,Ramez Elmasri|6|4|0|0
+6|A Split Operator for Now-Relative Bitemporal Databases.|Mikkel Agesen,Michael H. Böhlen,Lasse Poulsen,Kristian Torp|7|3|1|0
+7|Incremental Computation and Maintenance of Temporal Aggregates.|Jun Yang,Jennifer Widom|108|18|0|5
+8|The Importance of Extensible Database Systems for E-Commerce.|Samuel DeFazio,Ramkumar Krishnan,Jagannathan Srinivasan,Saydean Zeldin|10|0|0|0
+9|E-Business Applications for Supply Chain Automation: Challenges and Solutions.|Fabio Casati,Umeshwar Dayal,Ming-Chien Shan|30|5|0|0
+10|Model-Based Mediation with Domain Maps.|Bertram Ludäscher,Amarnath Gupta,Maryann E. Martone|128|17|9|15
+11|Processing Queries with Expensive Functions and Large Objects in Distributed Mediator Systems.|Luc Bouganim,Françoise Fabret,Fabio Porto,Patrick Valduriez|28|2|0|5
+12|Tuning an SQL-Based PDM System in a Worldwide Client/Server Environment.|Erich Müller,Peter Dadam,Jost Enderle,M. Feltes|10|0|0|2
+13|Bundles in Captivity: An Application of Superimposed Information.|Lois M. L. Delcambre,David Maier,Shawn Bowers,Mathew Weaver,Longxing Deng,Paul N. Gorman,Joan S. Ash,Mary Lavelle,Jason A. Lyman|58|15|5|19
+14|High-level Parallelism in a Database Cluster: A Feasibility Study Using Document Services.|Torsten Grabs,Klemens Böhm,Hans-Jörg Schek|21|3|1|8
+15|Efficient Sequenced Integrity Constraint Checking.|Wei Li,Richard T. Snodgrass,Shiyan Deng,Vineel Kumar Gattu,Aravindan Kasthurirangan|3|2|0|0
+16|XML Data and Object Databases: A Perfect Couple?|Andreas Renner|37|9|0|0
+17|Tamino - A DBMS designed for XML.|Harald Schöning|178|35|4|0
+18|The Nimble XML Data Integration System.|Denise Draper,Alon Y. Halevy,Daniel S. Weld|78|19|4|0
+19|High-Performance, Space-Efficient, Automated Object Locking.|Laurent Daynès,Grzegorz Czajkowski|11|2|1|2
+20|Differential Logging: A Commutative and Associative Logging Scheme for Highly Parallel Main Memory Databases.|Juchang Lee,Kihong Kim,Sang Kyun Cha|35|11|0|5
+21|Efficient Bulk Deletes in Relational Databases.|Andreas Gärtner,Alfons Kemper,Donald Kossmann,Bernhard Zeller|25|7|2|4
+22|On Dual Mining: From Patterns to Circumstances, and Back.|Gösta Grahne,Laks V. S. Lakshmanan,Xiaohong Wang,Ming Hao Xie|21|2|1|0
+23|Mining Partially Periodic Event Patterns with Unknown Periods.|Sheng Ma,Joseph L. Hellerstein|203|112|1|7
+24|PrefixSpan: Mining Sequential Patterns by Prefix-Projected Growth.|Jian Pei,Jiawei Han,Behzad Mortazavi-Asl,Helen Pinto,Qiming Chen,Umeshwar Dayal,Meichun Hsu|n/a
+25|Mobile Data Management: Challenges of Wireless and Offline Data Access.|Eric Gignere|23|3|0|0
+26|Microsoft Server Technology for Mobile and Wireless Applications.|Praveen Seshadri|0|0|0|0
+27|IBM DB2 Everyplace: A Small Footprint Relational Database System.|Jonas S. Karlsson,Amrish Lal,T. Y. Cliff Leung,Thanh Pham|40|6|1|0
+28|Dependable Computing in Virtual Laboratories.|Gustavo Alonso,Win Bausch,Cesare Pautasso,Ari Kahn,Michael T. Hallett|21|1|0|11
+29|Workflow and Process Synchronization with Interaction Expressions and Graphs.|Christian Heinlein|43|12|2|4
+30|Inter-Enterprise Collaborative Business Process Management.|Qiming Chen,Meichun Hsu|154|56|9|19
+31|Duality-Based Subsequence Matching in Time-Series Databases.|Yang-Sae Moon,Kyu-Young Whang,Woong-Kee Loh|132|55|0|19
+32|Variable Length Queries for Time Series Data.|Tamer Kahveci,Ambuj K. Singh|125|25|0|5
+33|TAR: Temporal Association Rules on Evolving Numerical Attributes.|Wei Wang,Jiong Yang,Richard R. Muntz|43|14|0|3
+34|Database Performance for Next Generation Telecommunications.|Munir Cochinwala|8|2|0|4
+35|SpinCircuit: A Collaboration Portal Powered by E-speak.|Rabindra Pathak|1|0|0|0
+36|Data Management Support of Web Applications.|Daniel H. Fishman|n/a
+37|An Automated Change Detection Algorithm for HTML Documents Based on Semantic Hierarchies.|Seung Jin Lim,Yiu-Kai Ng|56|22|0|5
+38|An XML Indexing Structure with Relative Region Coordinate.|Dao Dinh Kha,Masatoshi Yoshikawa,Shunsuke Uemura|119|16|0|5
+39|Querying XML Documents Made Easy: Nearest Concept Queries.|Albrecht Schmidt,Martin L. Kersten,Menzo Windhouwer|143|55|1|3
+40|A Graph-Based Approach For Extracting Terminological Properties of Elements of XML Documents.|Luigi Palopoli,Giorgio Terracina,Domenico Ursino|34|1|0|23
+41|B+ Tree Indexes with Hybrid Row Identifiers in Oracle 8i.|Eugene Inseok Chong,Souripriya Das,Chuck Freiwald,Jagannathan Srinivasan,Aravind Yalamanchi,Mahesh Jagannath,Anh-Tuan Tran,Ramkumar Krishnan|3|0|0|1
+42|B-Tree Indexes and CPU Caches.|Goetz Graefe,Per-Åke Larson|77|32|1|12
+43|Spatial Clustering in the Presence of Obstacles.|Anthony K. H. Tung,Jean Hou,Jiawei Han|223|79|0|6
+44|Selectivity Estimation for Spatial Joins.|Ning An,Zhen-Yu Yang,Anand Sivasubramaniam|49|14|0|1
+45|Integrating Data Mining with SQL Databases: OLE DB for Data Mining.|Amir Netz,Surajit Chaudhuri,Usama M. Fayyad,Jeff Bernhardt|74|21|2|3
+46|SAP Business Information Warehouse - From Data Warehousing to an E-business Platform.|Thomas Zurek,Klaus Kreplin|6|2|0|0
+47|fAST Refresh using Mass Query Optimization.|Wolfgang Lehner,Roberta Cochrane,Hamid Pirahesh,Markos Zaharioudakis|39|19|5|6
+48|Quality-Aware and Load-Sensitive Planning of Image Similarity Queries.|Klemens Böhm,Michael Mlivoncic,Roger Weber|11|1|0|3
+49|A Cost Model and Index Architecture for the Similarity Join.|Christian Böhm,Hans-Peter Kriegel|66|21|0|4
+50|The Skyline Operator.|Stephan Börzsönyi,Donald Kossmann,Konrad Stocker|1892|1290|5|4
+51|Mining Frequent Item Sets with Convertible Constraints.|Jian Pei,Jiawei Han,Laks V. S. Lakshmanan|337|103|0|25
+52|MAFIA: A Maximal Frequent Itemset Algorithm for Transactional Databases.|Douglas Burdick,Manuel Calimlim,Johannes Gehrke|858|301|5|4
+53|An Efficient Approximation Scheme for Data Mining Tasks.|George Kollios,Dimitrios Gunopulos,Nick Koudas,Stefan Berchtold|26|8|0|0
+54|Bringing the Internet to Your Database: Using SQLServer 2000 and XML to Build Loosely-Coupled Systems.|Michael Rys|77|9|9|3
+55|Infrasturucture for Web-based Application Integration.|Dieter Gawlick|10|0|0|0
+56|Developing Web Service.|Adam Bosworth|63|15|3|0
+57|An Index Structure for Efficient Reverse Nearest Neighbor Queries.|Congjun Yang,King-Ip Lin|215|115|0|3
+58|Distinctiveness-Sensitive Nearest Neighbor Search for Efficient Similarity Retrieval of Multimedia Information.|Norio Katayama,Shin'ichi Satoh|40|16|0|0
+59|Approximate Nearest Neighbor Searching in Multimedia Databases.|Hakan Ferhatosmanoglu,Ertem Tuncel,Divyakant Agrawal,Amr El Abbadi|119|30|2|9
+60|Rewriting OLAP Queries Using Materialized Views and Dimension Hierarchies in Data Warehouses.|Chang-Sup Park,Myoung-Ho Kim,Yoon-Joon Lee|34|14|3|3
+61|The MD-join: An Operator for Complex OLAP.|Damianos Chatziantoniou,Michael O. Akinde,Theodore Johnson,Samuel Kim|70|21|2|13
+62|Overcoming Limitations of Sampling for Aggregation Queries.|Surajit Chaudhuri,Gautam Das,Mayur Datar,Rajeev Motwani,Vivek R. Narasayya|154|60|3|17
+63|Pseudo Column Level Locking.|Nagavamsi Ponnekanti|2|1|1|0
+64|Discovery and Application of Check Constraints in DB2.|Jarek Gryz,K. Bernhard Schiefer,Jian Zheng,Calisto Zuzarte|19|5|4|5
+65|Database Managed External File Update.|Neeraj Mittal,Hui-I Hsiao|8|5|4|0
+66|Block Oriented Processing of Relational Database Operations in Modern Computer Architectures.|Sriram Padmanabhan,Timothy Malkemus,Ramesh C. Agarwal,Anant Jhingran|62|34|2|0
+67|Integrating Semi-Join-Reducers into State of the Art Query Processors.|Konrad Stocker,Donald Kossmann,Reinhard Braumandl,Alfons Kemper|52|27|6|1
+68|Using EELs, a Practical Approach to Outerjoin and Antijoin Reordering.|Jun Rao,Bruce G. Lindsay,Guy M. Lohman,Hamid Pirahesh,David E. Simmen|39|16|7|1
+69|Counting Twig Matches in a Tree.|Zhiyuan Chen,H. V. Jagadish,Flip Korn,Nick Koudas,S. Muthukrishnan,Raymond T. Ng,Divesh Srivastava|159|21|1|5
+70|An Index-Based Approach for Similarity Search Supporting Time Warping in Large Sequence Databases.|Sang-Wook Kim,Sanghyun Park,Wesley W. Chu|271|110|0|19
+71|High Dimensional Similarity Search With Space Filling Curves.|Swanwa Liao,Mario A. López,Scott T. Leutenegger|94|54|2|2
+72|Similarity Search without Tears: The OMNI Family of All-purpose Access Methods.|Roberto F. Santos Filho,Agma J. M. Traina,Caetano Traina Jr.,Christos Faloutsos|118|30|0|10
+73|Cache-on-Demand: Recycling with Certainty.|Kian-Lee Tan,Shen-Tat Goh,Beng Chin Ooi|11|7|0|1
+74|Cache-Aware Query Routing in a Cluster of Databases.|Uwe Röhm,Klemens Böhm,Hans-Jörg Schek|49|13|0|6
+75|Prefetching Based on Type-Level Access Pattern in Object-Relational DBMSs.|Wook-Shin Han,Yang-Sae Moon,Kyu-Young Whang,Il-Yeol Song|14|2|1|3

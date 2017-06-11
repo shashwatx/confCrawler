@@ -1,0 +1,49 @@
+48
+1|31st Annual Meeting of the Association for Computational Linguistics, 22-26 June 1993, Ohio State University, Columbus, Ohio, USA, Proceedings.|Lenhart K. Schubert|n/a
+2|Char_align: A Program for Aligning Parallel Texts at the Character Level.|Kenneth Ward Church|269|48|7|2
+3|Aligning Sentences in Bilingual Corpora using Lexical Information.|Stanley F. Chen|315|107|10|1
+4|An Algorithm for finding Noun Phrase Correspondences in Bilingual Corpora.|Julian Kupiec|309|90|30|0
+5|Sructural Matching of Parallel Texts.|Yuji Matsumoto,Hiroyuki Ishimoto,Takehito Utsuro|n/a
+6|Towards History-Based Grammars: Using Richer Models for Probabilistic Parsing.|Ezra Black,Frederick Jelinek,John D. Lafferty,David M. Magerman,Robert L. Mercer,Salim Roukos|288|34|0|8
+7|Using Bracketed Parses to evaluate a Grammar Checking Application.|Richard H. Wojcik,Philip Harrison,John Bremer|19|3|0|0
+8|A Speech-First Model for Repair Detection and Correction.|Christine H. Nakatani,Julia Hirschberg|91|13|0|1
+9|GEMINI: A Natural Language System for Spoken-Language Understanding.|John Dowding,Jean Mark Gawron,Douglas E. Appelt,John Bear,Lynn Cherny,Robert C. Moore,Douglas B. Moran|311|81|54|30
+10|The Effect of Establishing Coherence in Ellipsis and Anaphora Resolution.|Andrew Kehler|59|6|0|6
+11|Temporal Centering.|Megumi Kameyama,Rebecca J. Passonneau,Massimo Poesio|73|9|0|16
+12|Assigning a Semantic Scope to Operations.|Massimo Poesio|n/a
+13|Two Kinds of Metonymy.|David Stallard|69|21|0|0
+14|Planning Multimodal Discourse (Invited Talks Abstract).|Wolfgang Wahlster|n/a
+15|A Unification-Based Parser for Relational Grammar.|David E. Johnson,Adam Meyers,Lawrence S. Moss|11|1|0|8
+16|Parsing Free Word Order Languages in the Paninian Framework.|Akshar Bharati,Rajeev Sangal|75|42|0|12
+17|Principle-Based Parsing without Overgeneration.|Dekang Lin|183|45|4|17
+18|Lexicalized Context-Free Grammars.|Yves Schabes,Richard C. Waters|32|5|0|5
+19|Parallel Multiple Context-Free Grammars, Finite-State Translation Systems, and Polynomial-Time Recognizable Subclasses of Lexical-Functional Grammars.|Hiroyuki Seki,Ryuichi Nakanishi,Yuichi Kaji,Sachiko Ando,Tadao Kasami|17|5|0|1
+20|Feature-Based Allomorphy.|Hans-Ulrich Krieger,Hannes Pirker,John Nerbonne|29|5|0|4
+21|Intention-Based Segmentation: Human Reliability and Correlation with Linguistic Cues.|Rebecca J. Passonneau,Diane J. Litman|177|32|2|8
+22|A Language-Independent Anaphora Resolution System for Understanding Multilingual Texts.|Chinatsu Aone,Douglas McKee|35|6|0|6
+23|Contextual Word Similarity and Estimation from Sparse Data.|Ido Dagan,Shaul Marcus,Shaul Markovitch|234|59|1|11
+24|Towards the Automatic Identification of Adjectival Scales: Clustering Adjectives According to Meaning.|Vasileios Hatzivassiloglou,Kathleen McKeown|149|37|1|19
+25|Distributional Clustering of English Words.|Fernando C. N. Pereira,Naftali Tishby,Lillian Lee|1195|309|10|28
+26|Transfers of Meaning (Invited Talk Abstract).|Geoffrey Nunberg|n/a
+27|A Complete and Recursive Feature Theory.|Rolf Backofen,Gert Smolka|53|5|0|9
+28|On the Decidability of Functional Uncertainty.|Rolf Backofen|4|1|0|1
+29|A Logical Semantics for Nonmonotonic Sorts.|Mark A. Young,William C. Rounds|25|0|0|0
+30|F-PATR: A Functional Constraints for Unification-Based Grammars.|Kent Wittenburg|8|0|0|3
+31|Quantificational Domains and Recursive Contexts (Invited Talk Abstract).|Barbara Partee|n/a
+32|Tailoring Lexical Choice to the User's Vocabulary in Multimedia Explanation Generation.|Kathleen McKeown,Jacques Robin,Michael A. Tanenblatt|39|7|0|9
+33|Automatic Acquisition of a Large Subcategorization Dictionary from Corpora.|Christopher D. Manning|305|51|0|2
+34|An Empirical Study on Thematic Knowledge Acquisition Based on Syntactic Clues and Heuristics.|Rey-Long Liu,Von-Wun Soo|22|1|0|3
+35|Part-of-Speech Induction from Scratch.|Hinrich Schütze|136|31|7|0
+36|Automatic Grammar Induction and Parsing Free Text: A Transformation-Based Approach.|Eric Brill|245|29|7|10
+37|A Competition-Based Explanation of Syntactic Attachment Preferences and Garden Path Phenomena.|Suzanne Stevenson|32|2|1|4
+38|A Flexible Approach to Cooperative Response Generation in Information-Seeking Dialogues.|Liliana Ardissono,Alessandro Lombardo,Dario Sestero|20|3|0|15
+39|Identifying Relevant Prior Explanations.|James A. Rosenblum|0|0|0|0
+40|Responding to User Queries in a Collaborative Environment.|Jennifer Chu-Carroll|4|1|0|0
+41|The Imperfective Paradox and Trajectory-of-Motion Events.|Michael White|5|0|0|3
+42|Text Segmentation Based on Similarity between Words.|Hideki Kozima|280|59|0|4
+43|How do we count? The Problem of Tagging Phrasal Verbs in Parts.|Nava A. Shaked|2|0|0|0
+44|Raisins, Sultanas, and Currants: Lexical Classification and Abstraction via Context Priming.|David J. Hutches|0|0|0|0
+45|Guiding an HPSG Parser using Semantic and Pragmatic Expectations.|Jim Skon|0|0|0|0
+46|The Formal Consequences of using Variables in CCG Categories.|Beryl Hoffman|14|1|0|1
+47|Integrating Word Boundary Identification with Sentence Understanding.|Kok-Wee Gan|4|1|0|0
+48|Extending Kimmo's Two-Level Model of Morphology.|Anoop Sarkar|2|0|0|0

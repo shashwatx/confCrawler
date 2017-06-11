@@ -1,0 +1,75 @@
+74
+1|Hidden Translation and Translating Coset in Quantum Computing.|Katalin Friedl,Gábor Ivanyos,Frédéric Magniez,Miklos Santha,Pranab Sen|3|3|0|2
+2|On a Linear Program for Minimum-Weight Triangulation.|Arman Yousefi,Neal E. Young|0|0|0|0
+3|A Size-Popularity Tradeoff in the Stable Marriage Problem.|Telikepalli Kavitha|1|1|0|1
+4|Distributed (Delta+1)-Coloring in Linear (in Delta) Time.|Leonid Barenboim,Michael Elkin,Fabian Kuhn|81|72|0|10
+5|The Generalized Work Function Algorithm Is Competitive for the Generalized 2-Server Problem.|René Sitters|3|3|0|0
+6|Online Scheduling with General Cost Functions.|Sungjin Im,Benjamin Moseley,Kirk Pruhs|17|15|0|4
+7|New Lower Bounds for the Rank of Matrix Multiplication.|J. M. Landsberg|18|17|0|3
+8|Position-Based Quantum Cryptography: Impossibility and Constructions.|Harry Buhrman,Nishanth Chandran,Serge Fehr,Ran Gelles,Vipul Goyal,Rafail Ostrovsky,Christian Schaffner|71|67|1|5
+9|On the NP-Hardness of Max-Not-2.|Johan Håstad|n/a
+10|Characterizing Truthful Multi-armed Bandit Mechanisms.|Moshe Babaioff,Yogeshwer Sharma,Aleksandrs Slivkins|87|81|0|8
+11|Average Sensitivity and Noise Sensitivity of Polynomial Threshold Functions.|Ilias Diakonikolas,Prasad Raghavendra,Rocco A. Servedio,Li-Yang Tan|11|10|0|4
+12|Erratum: Polynomial Time Algorithms for Finding Integer Relations Among Real Numbers.|Johan Håstad,Bettina Just,J. C. Lagarias,Claus-Peter Schnorr|0|0|0|0
+13|Special Section on the Fifty-First Annual IEEE Symposium on Foundations of Computer Science (FOCS 2010).|Lap Chi Lau,Tal Malkin,Ryan O'Donnell,Luca Trevisan|0|0|0|0
+14|The Monotone Complexity of k-Clique on Random Graphs.|Benjamin Rossman|16|16|0|3
+15|Determinant Sums for Undirected Hamiltonicity.|Andreas Björklund|111|107|0|0
+16|Distance Oracles beyond the Thorup-Zwick Bound.|Mihai Patrascu,Liam Roditty|47|45|0|3
+17|Black-Box Randomized Reductions in Algorithmic Mechanism Design.|Shaddin Dughmi,Tim Roughgarden|48|47|0|7
+18|Approaching Optimality for Solving SDD Linear Systems.|Ioannis Koutis,Gary L. Miller,Richard Peng|144|140|2|27
+19|Fixed-Parameter Tractability of Multicut Parameterized by the Size of the Cutset.|Dániel Marx,Igor Razgon|80|78|0|15
+20|Coin Flipping with Constant Bias Implies One-Way Functions.|Iftach Haitner,Eran Omri|7|6|0|2
+21|Approximate Shortest Descending Paths.|Siu-Wing Cheng,Jiongxin Jin|4|4|0|2
+22|Computing the Discrete Fréchet Distance in Subquadratic Time.|Pankaj K. Agarwal,Rinat Ben Avraham,Haim Kaplan,Micha Sharir|37|36|0|6
+23|Nonmalleable Extractors with Short Seeds and Applications to Privacy Amplification.|Gil Cohen,Ran Raz,Gil Segev|29|29|0|2
+24|Linear-Time Compression of Bounded-Genus Graphs into Information-Theoretically Optimal Number of Bits.|Hsueh-I Lu|31|8|0|3
+25|Expanders via Random Spanning Trees.|Alan M. Frieze,Navin Goyal,Luis Rademacher,Santosh Vempala|41|29|0|1
+26|Monotone Submodular Maximization over a Matroid via Non-Oblivious Local Search.|Yuval Filmus,Justin Ward|11|9|0|1
+27|Improved Bounds for the Union of Locally Fat Objects in the Plane.|Boris Aronov,Mark de Berg,Esther Ezra,Micha Sharir|9|7|0|5
+28|Constraint Satisfaction Parameterized by Solution Size.|Andrei A. Bulatov,Dániel Marx|10|7|0|2
+29|Self-Improving Algorithms for Coordinatewise Maxima and Convex Hulls.|Kenneth L. Clarkson,Wolfgang Mulzer,C. Seshadhri|4|3|0|1
+30|Special Section on the Fifty-Second IEEE Annual Symposium on Foundations of Computer Science (FOCS 2011).|Eli Ben-Sasson,Rafail Ostrovsky|0|0|0|0
+31|Extractors for Circuit Sources.|Emanuele Viola|25|23|0|4
+32|On Range Searching in the Group Model and Combinatorial Discrepancy.|Kasper Green Larsen|18|16|0|3
+33|Near-Optimal Column-Based Matrix Reconstruction.|Christos Boutsidis,Petros Drineas,Malik Magdon-Ismail|99|95|0|26
+34|3-SAT Faster and Simpler - Unique-SAT Bounds for PPSZ Hold in General.|Timon Hertli|51|50|0|3
+35|Quadratic Goldreich-Levin Theorems.|Madhur Tulsiani,Julia Wolf|n/a
+36|A Constant-Factor Approximation Algorithm for Unsplittable Flow on Paths.|Paul S. Bonsma,Jens Schulz,Andreas Wiese|44|40|0|11
+37|Privacy Amplification and Nonmalleable Extractors Via Character Sums.|Yevgeniy Dodis,Xin Li,Trevor D. Wooley,David Zuckerman|28|28|0|10
+38|Efficient Fully Homomorphic Encryption from (Standard) $\mathsf{LWE}$.|Zvika Brakerski,Vinod Vaikuntanathan|1|1|0|0
+39|Min-Max Graph Partitioning and Small Set Expansion.|Nikhil Bansal,Uriel Feige,Robert Krauthgamer,Konstantin Makarychev,Viswanath Nagarajan,Joseph Naor,Roy Schwartz|30|29|0|2
+40|How to Garble Arithmetic Circuits.|Benny Applebaum,Yuval Ishai,Eyal Kushilevitz|31|28|0|5
+41|Bayesian Combinatorial Auctions: Expanding Single Buyer Mechanisms to Many Buyers.|Saeed Alaei|61|61|0|6
+42|Pseudorandom Generators for Regular Branching Programs.|Mark Braverman,Anup Rao,Ran Raz,Amir Yehudayoff|29|29|0|1
+43|Quantum Multiprover Interactive Proofs with Communicating Provers.|Michael Ben-Or,Avinatan Hassidim,Haran Pilpel|8|6|0|0
+44|Two-Variable First-Order Logic with Equivalence Closure.|Emanuel Kieronski,Jakub Michaliszyn,Ian Pratt-Hartmann,Lidia Tendera|32|32|0|10
+45|Skew Bisubmodularity and Valued CSPs.|Anna Huber,Andrei A. Krokhin,Robert Powell|29|26|0|3
+46|Efficient Approximations of Conjunctive Queries.|Pablo Barceló,Leonid Libkin,Miguel Romero|13|12|0|6
+47|A Full Characterization of Quantum Advice.|Scott Aaronson,Andrew Drucker|3|3|0|1
+48|Almost Polynomial Factor Hardness for Closest Vector Problem with Preprocessing.|Subhash Khot,Preyas Popat,Nisheeth K. Vishnoi|1|1|0|0
+49|Span Programs are Equivalent to Quantum Query Algorithms.|Ben W. Reichardt|0|0|0|0
+50|The Power of Reordering for Online Minimum Makespan Scheduling.|Matthias Englert,Deniz Özmen,Matthias Westermann|41|39|0|2
+51|Vertex Sparsifiers: New Results from Old Techniques.|Matthias Englert,Anupam Gupta,Robert Krauthgamer,Harald Räcke,Inbal Talgam-Cohen,Kunal Talwar|24|24|0|7
+52|Utilitarian Mechanism Design for Multiobjective Optimization.|Fabrizio Grandoni,Piotr Krysta,Stefano Leonardi,Carmine Ventre|12|10|0|5
+53|Position-Based Cryptography.|Nishanth Chandran,Vipul Goyal,Ryan Moriarty,Rafail Ostrovsky|88|83|2|5
+54|Approximating Minimum-Cost k-Node Connected Subgraphs via Independence-Free Graphs.|Joseph Cheriyan,László A. Végh|11|11|0|1
+55|Reporting Neighbors in High-Dimensional Euclidean Space.|Dror Aiger,Haim Kaplan,Micha Sharir|5|5|0|1
+56|Managing Unbounded-Length Keys in Comparison-Driven Data Structures with Applications to Online Indexing.|Amihood Amir,Gianni Franceschini,Roberto Grossi,Tsvi Kopelowitz,Moshe Lewenstein,Noa Lewenstein|8|8|0|2
+57|Correlation Testing for Affine Invariant Properties on 픽pn in the High Error Regime.|Hamed Hatami,Shachar Lovett|n/a
+58|Analyzing Walksat on Random Formulas.|Amin Coja-Oghlan,Alan M. Frieze|7|7|0|1
+59|Down the Rabbit Hole: Robust Proximity Search and Density Estimation in Sublinear Space.|Sariel Har-Peled,Nirman Kumar|6|6|0|3
+60|Impossibility of Differentially Private Universally Optimal Mechanisms.|Hai Brenner,Kobbi Nissim|38|38|0|0
+61|Almost Optimal Lower Bounds for Problems Parameterized by Clique-Width.|Fedor V. Fomin,Petr A. Golovach,Daniel Lokshtanov,Saket Saurabh|3|0|0|0
+62|Protecting Circuits from Computationally Bounded and Noisy Leakage.|Sebastian Faust,Tal Rabin,Leonid Reyzin,Eran Tromer,Vinod Vaikuntanathan|1|1|0|0
+63|Voting with Limited Information and Many Alternatives.|Flavio Chierichetti,Jon M. Kleinberg|5|4|0|0
+64|New Bounds for Matching Vector Families.|Abhishek Bhowmick,Zeev Dvir,Shachar Lovett|14|13|0|9
+65|The Geometry of Scheduling.|Nikhil Bansal,Kirk Pruhs|58|55|0|8
+66|On the Correlation of Parity and Small-Depth Circuits.|Johan Håstad|11|11|0|0
+67|Time Hierarchies for Sampling Distributions.|Thomas Watson|2|2|0|0
+68|Polynomial-Time Computation of Homotopy Groups and Postnikov Systems in Fixed Dimension.|Martin Cadek,Marek Krcál,Jirí Matousek,Lukás Vokrínek,Uli Wagner|22|21|0|3
+69|Optimal Dynamic Sequence Representations.|Gonzalo Navarro,Yakov Nekrich|33|32|0|8
+70|Matroid Secretary for Regular and Decomposable Matroids.|Michael Dinitz,Guy Kortsarz|14|14|0|1
+71|Submodular Function Maximization via the Multilinear Relaxation and Contention Resolution Schemes.|Chandra Chekuri,Jan Vondrák,Rico Zenklusen|73|68|0|6
+72|Recognizing Well-Parenthesized Expressions in the Streaming Model.|Frédéric Magniez,Claire Mathieu,Ashwin Nayak|36|36|0|9
+73|How to Schedule a Cascade in an Arbitrary Graph.|Flavio Chierichetti,Jon M. Kleinberg,Alessandro Panconesi|17|16|0|0
+74|The Complexity of Computing the Sign of the Tutte Polynomial.|Leslie Ann Goldberg,Mark Jerrum|2|2|0|0

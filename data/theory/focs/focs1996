@@ -1,0 +1,67 @@
+66
+1|37th Annual Symposium on Foundations of Computer Science, FOCS '96, Burlington, Vermont, USA, 14-16 October, 1996.|n/a
+2|Polynomial Time Approximation Schemes for Euclidean TSP and Other Geometric Problems.|Sanjeev Arora|440|105|0|8
+3|The Regularity Lemma and Approximation Schemes for Dense Problems.|Alan M. Frieze,Ravi Kannan|160|45|0|13
+4|A New Rounding Procedure for the Assignment Problem with Applications to Dense Graph Arrangement Problems.|Sanjeev Arora,Alan M. Frieze,Haim Kaplan|96|21|0|5
+5|Approximate Strip Packing.|Claire Kenyon,Eric Rémila|83|17|0|3
+6|A Decision Procedure for Unitary Linear Quantum Cellular Automata.|Christoph Dürr,Miklos Santha|33|7|0|1
+7|Polynomial Simulations of Decohered Quantum Computers.|Dorit Aharonov,Michael Ben-Or|52|10|0|6
+8|Fault-Tolerant Quantum Computation.|Peter W. Shor|765|244|3|7
+9|Single-Source Unsplittable Flow.|Jon M. Kleinberg|164|55|1|1
+10|The Optimal Path-Matching Problem.|William H. Cunningham,James F. Geelen|48|11|0|2
+11|Short Paths in Expander Graphs.|Jon M. Kleinberg,Ronitt Rubinfeld|92|35|0|2
+12|Spectral Partitioning Works: Planar Graphs and Finite Element Meshes.|Daniel A. Spielman,Shang-Hua Teng|356|127|5|15
+13|Computing Permanents over Fields of Characteristic 3: Where and Why It Becomes Difficult (extended abstract).|Grigory Kogan|5|0|0|0
+14|Solving Systems of Polynomial Congruences Modulo a Large Prime (extended abstract).|Ming-Deh A. Huang,Yiu-Chung Wong|13|2|0|2
+15|Median Selection Requires (2+epsilon)n Comparisons.|Dorit Dor,Uri Zwick|n/a
+16|Faster Deterministic Sorting and Searching in Linear Space.|Arne Andersson|118|19|1|15
+17|An Efficient Algorithm for Constructing Minimal Trellises for Codes over Finite Abelian Groups.|Vijay V. Vazirani,Huzur Saran,B. Sundar Rajan|53|20|0|2
+18|Highly Fault-Tolerant Parallel Computation (extended abstract).|Daniel A. Spielman|n/a
+19|Maximum Likelihood Decoding of Reed Solomon Codes.|Madhu Sudan|25|8|2|3
+20|New Coding Techniques for Improved Bandwidth Utilization.|Micah Adler|21|1|0|5
+21|Probabilistic Approximations of Metric Spaces and Its Algorithmic Applications.|Yair Bartal|599|209|1|42
+22|Factoring Graphs to Bound Mixing Rates.|Neal Madras,Dana Randall|26|3|0|9
+23|Sampling According to the Multivariate Normal Density.|Ravi Kannan,Guangxing Li|19|3|0|3
+24|Load Balancing and Density Dependent Jump Markov Processes (extended abstract).|Michael Mitzenmacher|73|14|1|13
+25|Tree Data Structures for N-Body Simulation.|Richard J. Anderson|52|16|0|1
+26|Efficient Information Gathering on the Internet (extended abstract).|Oren Etzioni,Steve Hanks,Tao Jiang,Richard M. Karp,Omid Madani,Orli Waarts|62|3|1|3
+27|Approximate Option Pricing.|Prasad Chalasani,Somesh Jha,Isaac Saias|19|5|0|0
+28|Temporal Logic and Semidirect Products: An Effective Characterization of the Until Hierarchy.|Denis Thérien,Thomas Wilke|42|5|0|13
+29|Equivalence in Finite-Variable Logics is Complete for Polynomial Time.|Martin Grohe|42|14|0|5
+30|Simplified and Improved Resolution Lower Bounds.|Paul Beame,Toniann Pitassi|193|42|0|13
+31|Computationally Hard Algebraic Problems (extended abstract).|Michael O. Rabin|n/a
+32|Approximating Minimum-Size k-Connected Spanning Subgraphs via Matching (extended abstract).|Joseph Cheriyan,Ramakrishna Thurimella|126|34|0|6
+33|A 3-Approximation for the Minimum Tree Spanning k Vertices.|Naveen Garg|191|59|0|1
+34|An 8-Approximation Algorithm for the Subset Feedback Vertex Set Problem.|Guy Even,Joseph Naor,Leonid Zosin|25|20|0|1
+35|Efficient Approximate and Dynamic Matching of Patterns Using a Labeling Paradigm (extended abstract).|Süleyman Cenk Sahinalp,Uzi Vishkin|118|39|0|11
+36|A Polynomial-Time Algorithm for Learning Noisy Linear Threshold Functions.|Avrim Blum,Alan M. Frieze,Ravi Kannan,Santosh Vempala|145|47|2|16
+37|Property Testing and Its Connection to Learning and Approximation.|Oded Goldreich,Shafi Goldwasser,Dana Ron|819|373|0|115
+38|On the Applications of Multiplicity Automata in Learning.|Amos Beimel,Francesco Bergadano,Nader H. Bshouty,Eyal Kushilevitz,Stefano Varricchio|44|4|0|12
+39|Learning Linear Transformations.|Alan M. Frieze,Mark Jerrum,Ravi Kannan|48|41|0|0
+40|Deterministic Routing with Bounded Buffers: Turning Offline into Online Protocols.|Friedhelm Meyer auf der Heide,Christian Scheideler|10|1|0|4
+41|Universal Stability Results for Greedy Contention-Resolution Protocols.|Matthew Andrews,Baruch Awerbuch,Antonio Fernández,Jon M. Kleinberg,Frank Thomson Leighton,Zhiyong Liu|141|12|1|18
+42|A General Approach to Dynamic Packet Routing with Bounded Buffers (extended abstract).|Andrei Z. Broder,Alan M. Frieze,Eli Upfal|39|4|0|3
+43|Path Coloring on the Mesh.|Yuval Rabani|71|2|0|0
+44|Discrepancy Sets and Pseudorandom Generators for Combinatorial Rectangles.|Roy Armoni,Michael E. Saks,Avi Wigderson,Shiyu Zhou|32|16|0|5
+45|The Boolean Isomorphism Problem.|Manindra Agrawal,Thomas Thierauf|42|9|1|5
+46|Potential of the Approximation Method (extended abstract).|Kazuyuki Amano,Akira Maruoka|n/a
+47|Static Dictionaries on AC0 RAMs: Query Time Theta(sqrt(log n/log log n)) is Necessary and Sufficient.|Arne Andersson,Peter Bro Miltersen,Søren Riis,Mikkel Thorup|n/a
+48|All Pairs Almost Shortest Paths.|Dorit Dor,Shay Halperin,Uri Zwick|212|98|0|11
+49|Computing Vertex Connectivity: New Bounds from Old Techniques.|Monika Rauch Henzinger,Satish Rao,Harold N. Gabow|59|27|0|3
+50|Better Lower Bounds for Halfspace Emptiness.|Jeff Erickson|n/a
+51|Binary Search Partitions for Fat Rectangles.|Pankaj K. Agarwal,Edward F. Grove,T. M. Murali,Jeffrey Scott Vitter|n/a
+52|On the Knowledge Complexity of NP.|Erez Petrank,Gábor Tardos|n/a
+53|Incoercible Multiparty Computation (extended abstract).|Ran Canetti,Rosario Gennaro|n/a
+54|Pseudorandom Functions Revisited: The Cascade Construction and Its Concrete Security.|Mihir Bellare,Ran Canetti,Hugo Krawczyk|202|60|0|33
+55|The Geometry of Coin-Weighing Problems.|Noga Alon,Dmitry N. Kozlov,Van H. Vu|26|13|0|2
+56|Universal Data Compression and Portfolio Selection.|Thomas M. Cover|22|12|1|0
+57|Near-Optimal Parallel Prefetching and Caching.|Tracy Kimbrel,Anna R. Karlin|96|8|3|4
+58|New Algorithms for the Disk Scheduling Problem.|Matthew Andrews,Michael A. Bender,Lisa Zhang|62|15|1|3
+59|Optimal Dynamic Interval Management in External Memory (extended abstract).|Lars Arge,Jeffrey Scott Vitter|167|37|1|33
+60|Fast Fault-Tolerant Concurrent Access to Shared Objects.|C. Greg Plaxton,Rajmohan Rajaraman|56|28|28|2
+61|Fault Tolerant Data Structures.|Yonatan Aumann,Michael A. Bender|61|25|0|0
+62|Approximate Checking of Polynomials and Functional Equations (extended abstract).|Funda Ergün,Ravi Kumar,Ronitt Rubinfeld|32|12|0|4
+63|Efficient Self-Testing/Self-Correction of Linear Recurrences.|Ravi Kumar,D. Sivakumar|6|1|0|3
+64|Verifying Identities (extended abstract).|Sridhar Rajagopalan,Leonard J. Schulman|n/a
+65|Gadgets, Approximation, and Linear Programming (extended abstract).|Luca Trevisan,Gregory B. Sorkin,Madhu Sudan,David P. Williamson|253|79|0|41
+66|Clique is Hard to Approximate Within n1-epsilon.|Johan Håstad|n/a

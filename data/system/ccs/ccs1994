@@ -1,0 +1,33 @@
+32
+1|CCS '94, Proceedings of the 2nd ACM Conference on Computer and Communications Security, Fairfax, Virginia, USA, November 2-4, 1994.|Dorothy E. Denning,Raymond Pyle,Ravi Ganesan,Ravi S. Sandhu|n/a
+2|Support for the File System Security Requirements of Computational E-Mail Systems.|Trent Jaeger,Atul Prakash|36|8|16|7
+3|Secure Wireless LANs.|Vaduvur Bharghavan|43|4|10|4
+4|The Design and Implementation of Tripwire: A File System Integrity Checker.|Gene H. Kim,Eugene H. Spafford|630|228|36|9
+5|Exchange of Patient Records - Prototype Implementation of a Security Attributes Service in X.500.|Marjan Jurecic,Herbert Bunz|8|0|1|2
+6|A Process-Oriented Methodology for Assessing and Improving Software Trustworthiness.|Edward Amoroso,Carol Taylor,John Watson,Jonathan Weiss|55|47|0|0
+7|Towards Acceptable Key Escrow Systems.|Thomas Beth,Hans-Joachim Knobloch,Marcus Otten,Gustavus J. Simmons,Peer Wichmann|23|0|2|0
+8|Protocol Failure in the Escrowed Encryption Standard.|Matt Blaze|102|14|3|0
+9|Secure Agreement Protocols: Reliable and Atomic Group Multicast in Rampart.|Michael K. Reiter|318|51|10|16
+10|On Key Distribution via True Broadcasting.|Mike Just,Evangelos Kranakis,Danny Krizanc,Paul C. van Oorschot|53|12|0|0
+11|Conditionally Secure Secret Sharing Schemes with Disenrollment Capability.|Chris Charnes,Josef Pieprzyk,Reihaneh Safavi-Naini|30|5|0|6
+12|Meta-ElGamal Signature Schemes.|Patrick Horster,Holger Petersen,Markus Michels|117|17|8|17
+13|Anonymous Credit Cards.|Steven H. Low,Sanjoy Paul,Nicholas F. Maxemchuk|147|25|48|7
+14|An Efficient Multiversion Algorithm for Secure Servicing of Transaction Reads.|Paul Ammann,Sushil Jajodia|16|2|0|3
+15|A Temporal Authorization Model.|Elisa Bertino,Claudio Bettini,Pierangela Samarati|n/a
+16|Propagation of Authorizations in Distributed Database Systems.|Pierangela Samarati,Paul Ammann,Sushil Jajodia|6|0|0|0
+17|The Design of Substitution-Permutation Networks Resistant to Differential and Linear Cryptanalysis.|Howard M. Heys,Stafford E. Tavares|22|12|1|1
+18|Information Leakage of Boolean Functions and Its Relationship to Other Cryptographic Criteria.|M. Zhang,Stafford E. Tavares,L. L. Campbell|12|2|0|2
+19|Authentication Codes That Are r-Fold Secure Against Spoofing.|L. Tombak,Reihaneh Safavi-Naini|5|1|0|4
+20|Endorsements, Licensing, and Insurance for Distributed System Services.|Gennady Medvinsky,Charlie Lai,B. Clifford Neuman|81|13|2|5
+21|New Protocols for Third-Party-Based Authentication and Secure Broadcast.|Li Gong|37|6|0|5
+22|How to Simultaneously Exchange Secrets by General Assumptions.|Tatsuaki Okamoto,Kazuo Ohta|74|17|0|2
+23|A Key Distribution Method for Object-Based Protection.|Warwick Ford,Michael J. Wiener|7|0|1|0
+24|How to Break Gifford's Cipher (extended abstract).|Thomas R. Cain,Alan T. Sherman|n/a
+25|Parallel Collision Search with Application to Hash Functions and Discrete Logarithms.|Paul C. van Oorschot,Michael J. Wiener|140|34|0|3
+26|Application Access Control at Network Level.|Refik Molva,Erich Rütsche|n/a
+27|Network Security Probe.|P. Rolin,Laurent Toutain,Sylvain Gombault|19|7|8|0
+28|Security Modelling for Organisations.|Alison Anderson,Dennis Longley,Lam-for Kwok|33|11|0|7
+29|"Mainstreaming" Automated Information Systems Security Engineering (a case study in security run amok).|James W. Coyne,Norman C. Kluksdahl|3|0|0|0
+30|The Compatibility of Policies.|Heather M. Hinton,E. Stewart Lee|16|8|0|1
+31|An Entropy Conservation Law for Testing the Completeness of Convert Channel Analysis.|Randy Browne|15|6|0|2
+32|Prerequisite Confidentiality.|John P. Nestor,E. S. Lee|n/a

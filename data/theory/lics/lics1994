@@ -1,0 +1,55 @@
+54
+1|Proceedings of the Ninth Annual Symposium on Logic in Computer Science (LICS '94), Paris, France, July 4-7, 1994.|n/a
+2|Terms, Proofs, and Refinement (Extended abstract).|Rod M. Burstall|n/a
+3|McColm's Conjecture.|Yuri Gurevich,Neil Immerman,Saharon Shelah|n/a
+4|The Expressive Power of Finitely Many Generalized Quantifiers.|Anuj Dawar,Lauri Hella|33|5|0|9
+5|Generalized Quantifiers for Simple Properties.|Martin Otto|7|0|0|2
+6|How to Define a Linear Order on Finite Models.|Lauri Hella,Phokion G. Kolaitis,Kerkko Luosto|22|0|0|3
+7|Finitary Fairness.|Rajeev Alur,Thomas A. Henzinger|55|22|0|6
+8|Bisimulation is Not Finitely (First Order) Equationally Axiomatisable.|Peter Sewell|42|3|0|1
+9|Foundations of Timed Concurrent Constraint Programming.|Vijay A. Saraswat,Radha Jagadeesan,Vineet Gupta|155|41|0|12
+10|A Fully Abstract Semantics for Concurrent Graph Reduction.|Alan Jeffrey|23|5|0|1
+11|An Axiomatization of Computationally Adequate Domain Theoretic Models of FPC.|Marcelo P. Fiore,Gordon D. Plotkin|71|6|0|8
+12|On Strong Stability and Higher-Order Sequentiality.|Loïc Colson,Thomas Ehrhard|14|1|0|5
+13|Linear Types, Approximation, and Topology.|Michael Huth,Achim Jung,Klaus Keimel|11|3|0|5
+14|Domain Theory and Integration.|Abbas Edalat|152|30|0|22
+15|Automatic Verification of Finite-State Concurrent Systems.|Edmund M. Clarke|n/a
+16|Negative Set Constraints with Equality.|Witold Charatonik,Leszek Pacholski|68|4|0|14
+17|Systems of Set Constraints with Negative Constraints are NEXPTIME-Complete.|Kjartan Stefánsson|55|8|0|0
+18|A Compositional Proof System for the Modal mu-Calculus.|Henrik Reif Andersen,Colin Stirling,Glynn Winskel|95|13|0|8
+19|On the Parallel Complexity of Model Checking in the Modal Mu-Calculus.|Shipei Zhang,Oleg Sokolsky,Scott A. Smolka|32|2|4|3
+20|Complexity Transfer for Modal Logic (Extended Abstract).|Edith Hemaspaandra|n/a
+21|Typability and Type-Checking in the Second-Order lambda-Calculus are Equivalent and Undecidable.|J. B. Wells|147|26|0|8
+22|Efficient Inference of Object Types.|Jens Palsberg|112|17|1|11
+23|Type Inference and Extensionality.|Adolfo Piperno,Simona Ronchi Della Rocca|9|1|1|3
+24|The Groupoid Model Refutes Uniqueness of Identity Proofs.|Martin Hofmann,Thomas Streicher|74|38|0|6
+25|A Non-Elementary Speed-Up in Proof Length by Structural Clause Form Transformation.|Matthias Baaz,Christian G. Fermüller,Alexander Leitsch|44|1|0|11
+26|Upper and Lower Bounds for Tree-Like Cutting Planes Proofs.|Russell Impagliazzo,Toniann Pitassi,Alasdair Urquhart|62|15|0|2
+27|The Power of Reflective Relational Machines.|Serge Abiteboul,Christos H. Papadimitriou,Victor Vianu|22|1|0|2
+28|A Syntactic Characterization of NP-Completeness.|J. Antonio Medina,Neil Immerman|14|6|0|4
+29|The Declarative Semantics of the Prolog Selection Rule.|Robert F. Stärk|15|0|0|0
+30|Semantics of Meta-Logic in an Algebra of Programs.|Antonio Brogi,Franco Turini|5|0|0|2
+31|A Multiple-Conclusion Meta-Logic.|Dale Miller|176|13|0|12
+32|Proof Search in First-Order Linear Logic and Other Cut-Free Sequent Calculi.|Patrick Lincoln,Natarajan Shankar|67|8|0|3
+33|Linear Logic, Totality and Full Completeness.|Ralph Loader|42|8|0|1
+34|The Emptiness Problem for Intersection Types.|Pawel Urzyczyn|39|20|0|5
+35|Subtyping and Parametricity.|Gordon D. Plotkin,Martín Abadi,Luca Cardelli|22|2|0|3
+36|On the Church-Rosser Property for Expressive Type Systems and its Consequences for their Metatheoretic Study.|Herman Geuvers,Benjamin Werner|41|9|0|5
+37|A Semantics of Object Types.|Martín Abadi,Luca Cardelli|51|8|0|8
+38|Passivity and Independence.|Uday S. Reddy|30|2|0|8
+39|A General Semantics for Evaluation Logic.|Eugenio Moggi|9|0|0|2
+40|Reflexive Graphs and Parametric Polymorphism.|E. P. Robinson,Giuseppe Rosolini|52|8|0|6
+41|Categories, Allegories and Circuit Design.|Carolyn Brown,Graham Hutton|46|14|0|2
+42|Rewrite Techniques for Transitive Relations.|Leo Bachmair,Harald Ganzinger|68|5|0|12
+43|Normalised Rewriting and Normalised Completion.|Claude Marché|48|9|0|2
+44|Modularity of Strong Normalization and Confluence in the algebraic-lambda-Cube.|Franco Barbanera,Maribel Fernández,Herman Geuvers|51|5|0|7
+45|Cyclic Lambda Graph Rewriting.|Zena M. Ariola,Jan Willem Klop|72|8|0|10
+46|Paths in the lambda-calculus.|Andrea Asperti,Vincent Danos,Cosimo Laneve,Laurent Regnier|n/a
+47|A Trace Based Extension of Linear Time Temporal Logic.|P. S. Thiagarajan|114|8|0|8
+48|Axioms for Knowledge and Time in Distributed Systems with Perfect Recall.|Ron van der Meyden|46|14|0|8
+49|Compositional Verification of Real-Time Systems.|Edward Y. Chang,Zohar Manna,Amir Pnueli|65|15|0|4
+50|Logical Bilattices and Inconsistent Data.|Ofer Arieli,Arnon Avron|49|11|0|16
+51|a modal logic for subjective default reasoning.|Shai Ben-David,Rachel Ben-Eliyahu|26|7|0|1
+52|Language Completeness of the Lambek Calculus.|Mati Pentus|28|4|0|2
+53|Rigid E-Unifiability is DEXPTIME-Complete.|Jean Goubault|n/a
+54|Higher-Order Narrowing.|Christian Prehofer|42|5|0|9

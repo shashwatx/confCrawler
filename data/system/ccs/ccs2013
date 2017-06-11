@@ -1,0 +1,160 @@
+159
+1|2013 ACM SIGSAC Conference on Computer and Communications Security, CCS'13, Berlin, Germany, November 4-8, 2013.|Ahmad-Reza Sadeghi,Virgil D. Gligor,Moti Yung|n/a
+2|A security framework for the analysis and design of software attestation.|Frederik Armknecht,Ahmad-Reza Sadeghi,Steffen Schulz,Christian Wachsmann|21|20|0|6
+3|OASIS: on achieving a sanctuary for integrity and secrecy on untrusted platforms.|Emmanuel Owusu,Jorge Guajardo,Jonathan M. McCune,James Newsome,Adrian Perrig,Amit Vasudevan|26|22|0|0
+4|BIOS chronomancy: fixing the core root of trust for measurement.|John Butterworth,Corey Kallenberg,Xeno Kovah,Amy Herzog|21|19|0|3
+5|Flexible and scalable digital signatures in TPM 2.0.|Liqun Chen,Jiangtao Li|20|19|0|2
+6|Rethinking SSL development in an appified world.|Sascha Fahl,Marian Harbach,Henning Perl,Markus Koetter,Matthew Smith|36|35|0|2
+7|Protocol misidentification made easy with format-transforming encryption.|Kevin P. Dyer,Scott E. Coull,Thomas Ristenpart,Thomas Shrimpton|31|30|0|4
+8|An empirical study of cryptographic misuse in android applications.|Manuel Egele,David Brumley,Yanick Fratantonio,Christopher Kruegel|65|61|0|5
+9|Detecting stealthy, distributed SSH brute-forcing.|Mobin Javed,Vern Paxson|16|15|0|0
+10|A clinical study of risk factors related to malware infections.|Fanny Lalonde Lévesque,Jude Nsiempba,José M. Fernandez,Sonia Chiasson,Anil Somayaji|19|19|0|0
+11|Delta: automatic identification of unknown web-based infection campaigns.|Kevin Borgolte,Christopher Kruegel,Giovanni Vigna|16|15|0|4
+12|Beheading hydras: performing effective botnet takedowns.|Yacin Nadji,Manos Antonakakis,Roberto Perdisci,David Dagon,Wenke Lee|22|21|0|1
+13|Shady paths: leveraging surfing crowds to detect malicious web pages.|Gianluca Stringhini,Christopher Kruegel,Giovanni Vigna|35|31|0|6
+14|Honeywords: making password-cracking detectable.|Ari Juels,Ronald L. Rivest|47|45|2|5
+15|Quantifying the security of graphical passwords: the case of android unlock patterns.|Sebastian Uellenbeck,Markus Dürmuth,Christopher Wolf,Thorsten Holz|48|45|0|3
+16|Measuring password guessability for an entire university.|Michelle L. Mazurek,Saranga Komanduri,Timothy Vidas,Lujo Bauer,Nicolas Christin,Lorrie Faith Cranor,Patrick Gage Kelley,Richard Shay,Blase Ur|45|41|0|8
+17|SAuth: protecting user accounts from password database leaks.|Georgios Kontaxis,Elias Athanasopoulos,Georgios Portokalidis,Angelos D. Keromytis|13|13|0|1
+18|Monitor integrity protection with space efficiency and separate compilation.|Ben Niu,Gang Tan|19|15|0|4
+19|Relational abstract interpretation for the verification of 2-hypersafety properties.|Máté Kovács,Helmut Seidl,Bernd Finkbeiner|11|11|0|2
+20|Formal verification of information flow security for a simple arm-based separation kernel.|Mads Dam,Roberto Guanciale,Narges Khakpour,Hamed Nemati,Oliver Schwarz|25|25|0|5
+21|ShadowReplica: efficient parallelization of dynamic data flow tracking.|Kangkook Jee,Vasileios P. Kemerlis,Angelos D. Keromytis,Georgios Portokalidis|19|17|0|1
+22|Multi-cloud oblivious storage.|Emil Stefanov,Elaine Shi|37|35|0|3
+23|Policy-based secure deletion.|Christian Cachin,Kristiyan Haralambiev,Hsu-Chun Hsiao,Alessandro Sorniotti|15|14|0|0
+24|Secure data deletion from persistent media.|Joel Reardon,Hubert Ritzdorf,David A. Basin,Srdjan Capkun|13|13|0|1
+25|PoWerStore: proofs of writing for efficient and robust storage.|Dan Dobre,Ghassan Karame,Wenting Li,Matthias Majuntke,Neeraj Suri,Marko Vukolic|10|10|0|4
+26|Path ORAM: an extremely simple oblivious RAM protocol.|Emil Stefanov,Marten van Dijk,Elaine Shi,Christopher W. Fletcher,Ling Ren,Xiangyao Yu,Srinivas Devadas|171|155|1|29
+27|PHANTOM: practical oblivious computation in a secure processor.|Martin Maas,Eric Love,Emil Stefanov,Mohit Tiwari,Elaine Shi,Krste Asanovic,John Kubiatowicz,Dawn Song|57|53|0|16
+28|Practical dynamic proofs of retrievability.|Elaine Shi,Emil Stefanov,Charalampos Papamanthou|43|40|0|5
+29|Users get routed: traffic correlation on tor by realistic adversaries.|Aaron Johnson,Chris Wacek,Rob Jansen,Micah Sherr,Paul F. Syverson|76|68|0|10
+30|PCTCP: per-circuit TCP-over-IPsec transport for anonymous communication overlay networks.|Mashael AlSabah,Ian Goldberg|4|4|0|1
+31|Cover your ACKs: pitfalls of covert channel censorship circumvention.|John Geddes,Max Schuchard,Nicholas Hopper|25|24|0|2
+32|An analysis of the EMV channel establishment protocol.|Christina Brzuska,Nigel P. Smart,Bogdan Warinschi,Gaven J. Watson|12|9|0|2
+33|On the security of TLS renegotiation.|Florian Giesen,Florian Kohlar,Douglas Stebila|28|25|0|10
+34|Using SMT solvers to automate design tasks for encryption and signature schemes.|Joseph A. Akinyele,Matthew Green,Susan Hohenberger|10|10|0|2
+35|The science, engineering and business of cyber security.|Ravi Sandhu|0|0|0|0
+36|AVANT-GUARD: scalable and vigilant switch flow management in software-defined networks.|Seungwon Shin,Vinod Yegneswaran,Phillip A. Porras,Guofei Gu|92|86|0|9
+37|MinimaLT: minimal-latency networking through better security.|W. Michael Petullo,Xu Zhang,Jon A. Solworth,Daniel J. Bernstein,Tanja Lange|12|12|0|4
+38|Impact of integrity attacks on real-time pricing in smart grids.|Rui Tan,Varun Badrinath Krishna,David K. Y. Yau,Zbigniew Kalbarczyk|15|14|0|1
+39|Configuration-based IDS for advanced metering infrastructure.|Muhammad Qasim Ali,Ehab Al-Shaer|6|6|0|2
+40|Practical constructions and new proof methods for large universe attribute-based encryption.|Yannis Rouselakis,Brent Waters|51|49|0|2
+41|Blackbox traceable CP-ABE: how to catch people leaking their keys by selling decryption devices on ebay.|Zhen Liu,Zhenfu Cao,Duncan S. Wong|29|27|0|9
+42|Obfuscation resilient binary code reuse through trace-oriented programming.|Junyuan Zeng,Yangchun Fu,Kenneth A. Miller,Zhiqiang Lin,Xiangyu Zhang,Dongyan Xu|10|9|0|3
+43|Chucky: exposing missing checks in source code for vulnerability discovery.|Fabian Yamaguchi,Christian Wressnegger,Hugo Gascon,Konrad Rieck|16|16|0|6
+44|Scheduling black-box mutational fuzzing.|Maverick Woo,Sang Kil Cha,Samantha Gottlieb,David Brumley|20|19|0|3
+45|Fast two-party secure computation with minimal assumptions.|Abhi Shelat,Chih-Hao Shen|24|24|0|0
+46|More efficient oblivious transfer and extensions for faster secure computation.|Gilad Asharov,Yehuda Lindell,Thomas Schneider,Michael Zohner|51|50|0|11
+47|An architecture for practical actively secure MPC with dishonest majority.|Marcel Keller,Peter Scholl,Nigel P. Smart|24|21|0|4
+48|Belief semantics of authorization logic.|Andrew K. Hirsch,Michael R. Clarkson|1|1|0|0
+49|Automatic verification of protocols with lists of unbounded length.|Bruno Blanchet,Miriam Paiola|5|5|0|2
+50|Relational abstraction in community-based secure collaboration.|Philip W. L. Fong,Pooya Mehregan,Ram Krishnan|4|4|0|2
+51|When kids' toys breach mobile phone security.|Abdul Serwadda,Vir V. Phoha|20|19|0|3
+52|Vetting undesirable behaviors in android apps with permission use analysis.|Yuan Zhang,Min Yang,Bingquan Xu,Zhemin Yang,Guofei Gu,Peng Ning,Xiaoyang Sean Wang,Binyu Zang|98|87|0|8
+53|The impact of vendor customizations on android security.|Lei Wu,Michael C. Grace,Yajin Zhou,Chiachih Wu,Xuxian Jiang|56|52|0|5
+54|Unauthorized origin crossing on mobile platforms: threats and mitigation.|Rui Wang,Luyi Xing,XiaoFeng Wang,Shuo Chen|35|32|0|6
+55|Security analysis of pseudo-random number generators with input: /dev/random is not robust.|Yevgeniy Dodis,David Pointcheval,Sylvain Ruhault,Damien Vergnaud,Daniel Wichs|40|36|0|3
+56|Predictability of Android OpenSSL's pseudo random number generator.|Soo Hyeon Kim,Daewan Han,Dong Hoon Lee|13|12|0|1
+57|Delegatable pseudorandom functions and applications.|Aggelos Kiayias,Stavros Papadopoulos,Nikos Triandopoulos,Thomas Zacharias|91|78|0|1
+58|Ensuring high-quality randomness in cryptographic key generation.|Henry Corrigan-Gibbs,Wendy Mu,Dan Boneh,Bryan Ford|3|3|0|0
+59|FANCI: identification of stealthy malicious logic using boolean functional analysis.|Adam Waksman,Matthew Suozzo,Simha Sethumadhavan|37|35|0|4
+60|Security analysis of integrated circuit camouflaging.|Jeyavijayan Rajendran,Michael Sam,Ozgur Sinanoglu,Ramesh Karri|37|33|0|4
+61|Low-fat pointers: compact encoding and efficient gate-level implementation of fat pointers for spatial safety and capability-based security.|Albert Kwon,Udit Dhawan,Jonathan M. Smith,Thomas F. Knight Jr.,André DeHon|15|13|0|1
+62|Breaking and entering through the silicon.|Clemens Helfmeier,Dmitry Nedospasov,Christopher Tarnovsky,Jan Starbug Krissler,Christian Boit,Jean-Pierre Seifert|24|23|0|3
+63|Polyglots: crossing origins by crossing formats.|Jonas Magazinius,Billy K. Rios,Andrei Sabelfeld|6|6|0|0
+64|ViceROI: catching click-spam in search ad networks.|Vacha Dave,Saikat Guha,Yin Zhang|21|17|0|2
+65|mXSS attacks: attacking well-secured web-applications by using innerHTML mutations.|Mario Heiderich,Jörg Schwenk,Tilman Frosch,Jonas Magazinius,Edward Z. Yang|26|25|0|5
+66|When private set intersection meets big data: an efficient and scalable protocol.|Changyu Dong,Liqun Chen,Zikai Wen|51|44|0|7
+67|Privacy-preserving matrix factorization.|Valeria Nikolaenko,Stratis Ioannidis,Udi Weinsberg,Marc Joye,Nina Taft,Dan Boneh|36|32|0|1
+68|PICCO: a general-purpose compiler for private distributed computation.|Yihua Zhang,Aaron Steele,Marina Blanton|30|29|0|7
+69|Düppel: retrofitting commodity operating systems to mitigate cache side channels in the cloud.|Yinqian Zhang,Michael K. Reiter|39|37|0|2
+70|Tappan Zee (north) bridge: mining memory accesses for introspection.|Brendan Dolan-Gavitt,Tim Leek,Josh Hodosh,Wenke Lee|21|18|0|4
+71|Towards reducing the attack surface of software backdoors.|Felix Schuster,Thorsten Holz|7|6|0|0
+72|Verifiable delegation of computation on outsourced data.|Michael Backes,Dario Fiore,Raphael M. Reischuk|59|56|0|7
+73|Outsourced symmetric private information retrieval.|Stanislaw Jarecki,Charanjit S. Jutla,Hugo Krawczyk,Marcel-Catalin Rosu,Michael Steiner|34|34|0|4
+74|Membership privacy: a unifying framework for privacy definitions.|Ninghui Li,Wahbeh H. Qardaji,Dong Su,Yi Wu,Weining Yang|10|8|0|0
+75|Geo-indistinguishability: differential privacy for location-based systems.|Miguel E. Andrés,Nicolás Emilio Bordenabe,Konstantinos Chatzikokolakis,Catuscia Palamidessi|97|87|0|12
+76|Control-Alt-Hack: the design and evaluation of a card game for computer security awareness and education.|Tamara Denning,Adam Lerner,Adam Shostack,Tadayoshi Kohno|13|13|0|2
+77|Security analysis of a widely deployed locking system.|Michael Weiner,Maurice Massar,Erik Tews,Dennis Giese,Wolfgang Wieser|4|4|0|0
+78|The cyber arms race.|Mikko Hypponen|n/a
+79|How to keep a secret: leakage deterring public-key cryptosystems.|Aggelos Kiayias,Qiang Tang|7|7|0|4
+80|Zero-knowledge using garbled circuits: how to prove non-algebraic statements efficiently.|Marek Jawurek,Florian Kerschbaum,Claudio Orlandi|20|17|0|3
+81|Elligator: elliptic-curve points indistinguishable from uniform random strings.|Daniel J. Bernstein,Mike Hamburg,Anna Krasnova,Tanja Lange|31|31|0|3
+82|ASIST: architectural support for instruction set randomization.|Antonis Papadogiannakis,Laertis Loutsis,Vassilis Papaefstathiou,Sotiris Ioannidis|11|11|0|0
+83|Librando: transparent code randomization for just-in-time compilers.|Andrei Homescu,Stefan Brunthaler,Per Larsen,Michael Franz|31|27|0|10
+84|LogGC: garbage collecting audit log.|Kyu Hyung Lee,Xiangyu Zhang,Dongyan Xu|2|2|0|0
+85|Identity, location, disease and more: inferring your secrets from android public resources.|Xiao-yong Zhou,Soteris Demetriou,Dongjing He,Muhammad Naveed,Xiaorui Pan,XiaoFeng Wang,Carl A. Gunter,Klara Nahrstedt|47|43|0|6
+86|Preventing accidental data disclosure in modern operating systems.|Adwait Nadkarni,William Enck|25|21|0|3
+87|AppIntent: analyzing sensitive data transmission in android for privacy leakage detection.|Zhemin Yang,Min Yang,Yuan Zhang,Guofei Gu,Peng Ning,Xiaoyang Sean Wang|109|99|0|7
+88|Cross-origin pixel stealing: timing attacks using CSS filters.|Robert Kotcher,Yutong Pei,Pranjal Jumde,Collin Jackson|15|11|0|0
+89|Seeing double: reconstructing obscured typed input from repeated compromising reflections.|Yi Xu,Jared Heinly,Andrew M. White,Fabian Monrose,Jan-Michael Frahm|17|15|0|1
+90|The robustness of hollow CAPTCHAs.|Haichang Gao,Wei Wang,Jiao Qi,Xuqin Wang,Xiyang Liu,Jeff Yan|6|3|0|1
+91|Anonymous credentials light.|Foteini Baldimtsi,Anna Lysyanskaya|45|40|0|5
+92|Heart-to-heart (H2H): authentication for implanted medical devices.|Masoud Rostami,Ari Juels,Farinaz Koushanfar|27|27|1|1
+93|OAKE: a new family of implicitly authenticated diffie-hellman protocols.|Andrew Chi-Chih Yao,Yunlei Zhao|14|12|0|1
+94|FPDetective: dusting the web for fingerprinters.|Gunes Acar,Marc Juárez,Nick Nikiforakis,Claudia Díaz,Seda F. Gürses,Frank Piessens,Bart Preneel|81|71|0|10
+95|Addressing the concerns of the lacks family: quantification of kin genomic privacy.|Mathias Humbert,Erman Ayday,Jean-Pierre Hubaux,Amalio Telenti|42|39|0|18
+96|Hang with your buddies to resist intersection attacks.|David Isaac Wolinsky,Ewa Syta,Bryan Ford|10|8|0|4
+97|Content-based isolation: rethinking isolation policy design on client systems.|Alexander Moshchuk,Helen J. Wang,Yunxin Liu|5|3|0|1
+98|Diglossia: detecting code injection attacks with precision and efficiency.|Sooel Son,Kathryn S. McKinley,Vitaly Shmatikov|12|11|1|0
+99|25 million flows later: large-scale detection of DOM-based XSS.|Sebastian Lekies,Ben Stock,Martin Johns|19|16|0|5
+100|deDacota: toward preventing server-side XSS via automatic code and data separation.|Adam Doupé,Weidong Cui,Mariusz H. Jakubowski,Marcus Peinado,Christopher Kruegel,Giovanni Vigna|15|13|0|1
+101|Certified computer-aided cryptography: efficient provably secure machine code from high-level implementations.|José Bacelar Almeida,Manuel Barbosa,Gilles Barthe,François Dupressoir|32|32|0|1
+102|Computationally complete symbolic attacker and key exchange.|Gergei Bana,Koji Hasebe,Mitsuhiro Okada|6|6|0|4
+103|Fully automated analysis of padding-based encryption in the computational model.|Gilles Barthe,Juan Manuel Crespo,Benjamin Grégoire,César Kunz,Yassine Lakhnech,Benedikt Schmidt,Santiago Zanella Béguelin|18|17|0|9
+104|Deduction soundness: prove one, get five for free.|Florian Böhl,Véronique Cortier,Bogdan Warinschi|9|7|0|1
+105|Efficient targeted key subset retrieval in fractal hash sequences.|Kelsey Cairns,Thoshitha T. Gamage,Carl Hauser|2|2|0|0
+106|HIFS: history independence for file systems.|Sumeet Bajaj,Radu Sion|5|3|0|2
+107|AUTOCRYPT: enabling homomorphic computation on servers to protect sensitive web content.|Shruti Tople,Shweta Shinde,Zhaofeng Chen,Prateek Saxena|10|10|0|5
+108|Protecting sensitive web content from client-side vulnerabilities with CRYPTONS.|Xinshu Dong,Zhaofeng Chen,Hossein Siadati,Shruti Tople,Prateek Saxena,Zhenkai Liang|8|8|0|1
+109|Adjustably encrypted in-memory column-store.|Florian Kerschbaum,Patrick Grofig,Isabelle Hang,Martin Härterich,Mathias Kohler,Andreas Schaad,Axel Schröpfer,Walter Tighzert|6|6|1|2
+110|Demonstrating a trust framework for evaluating GNSS signal integrity.|Xihui Chen,Carlo Harpes,Gabriele Lenzini,Miguel Martins,Sjouke Mauw,Jun Pang|5|4|0|2
+111|Inherent PUFs and secure PRNGs on commercial off-the-shelf microcontrollers.|Anthony Van Herrewege,André Schaller,Stefan Katzenbeisser,Ingrid Verbauwhede|1|1|0|0
+112|An IDS framework for internet of things empowered by 6LoWPAN.|Prabhakaran Kasinathan,Gianfranco Costamagna,Hussein Khaleel,Claudio Pastrone,Maurizio A. Spirito|6|6|0|1
+113|Secure and customizable web development in the safe activation framework.|Raphael M. Reischuk,Florian Schröder,Johannes Gehrke|0|0|0|0
+114|Enabling trusted stores for android.|Yury Zhauniarovich,Olga Gadyatskaya,Bruno Crispo|0|0|0|0
+115|Gradiant asymmetric encryption and verification systems based on handwritten signature.|Enrique Argones-Rúa,Francisco Javier García Salomón,Luis Pérez-Freire|0|0|0|0
+116|On the real-time masking of the sound of credit cards using hot patching.|Manish Shukla,Purushotam G. Radadia,Shirish Subhash Karande,Sachin Lodha|0|0|0|0
+117|Critique of the CISSP common body of knowledge of cryptography.|Stephan Neuhaus,Gabriela Gheorghe|1|0|0|0
+118|Preserving privacy and accountability for personal devices.|Gabriela Gheorghe,Stephan Neuhaus|n/a
+119|Caching oblivious memory access: an extension to the HCRYPT virtual machine.|Michael Brenner,Matthew Smith|0|0|0|0
+120|Data quality evaluation: integrating security and accuracy.|Leon Reznik,Elisa Bertino|3|3|0|3
+121|Graphical password using object-based image ranking.|Cuong Xuan Nguyen,Hung-Hsuan Huang,Kyoji Kawagoe|2|2|0|0
+122|A semantic-aware approach to reasoning about network traffic relations.|Hao Zhang,Danfeng (Daphne) Yao,Naren Ramakrishnan|2|2|0|1
+123|Detecting malware through temporal function-based features.|Eitan Menahem,Asaf Shabtai,Adi Levhar|1|1|0|0
+124|Event-based isolation of critical data in the cloud.|Sebastian Biedermann,Stefan Katzenbeisser|3|2|0|0
+125|BotFlex: a community-driven tool for botnetdetection.|Sheharbano Khattak,Zaafar Ahmed,Affan A. Syed,Syed Ali Khayam|0|0|0|0
+126|Signal anomaly based attack detection in wireless sensor networks.|Jeton Bacaj,Leon Reznik|1|1|0|0
+127|Enhanced embedded device security by combining hardware-based trust mechanisms.|Martin Schramm,Karl Leidl,Andreas Grzemba,Nicolai Kuntze|1|1|0|1
+128|On the anonymity of Israel's general elections.|Tomer Ashur,Orr Dunkelman|n/a
+129|Secure authentication from facial attributeswith no privacy loss.|Orr Dunkelman,Margarita Osadchy,Mahmood Sharif|1|1|0|0
+130|Performance signatures of mobile phone browsers.|Bilal Shebaro,Di Jin,Elisa Bertino|n/a
+131|A new framework against privilege escalation attacks on android.|Wenming Zhou,Yuqing Zhang,Xuefeng Liu|1|1|0|0
+132|TRIPLEX: verifying data minimisation in communication systems.|Meilof Veeningen,Mayla Brusò,Jerry den Hartog,Nicola Zannone|2|2|0|2
+133|SHAMROCK: self contained cryptography and key management processor.|Daniil M. Utin,Roger Khazan,Joshua Kramer,Michael Vai,David Whelihan|0|0|0|0
+134|trend of online flash XSS vulnerabilities.|Qixu Liu,Yuqing Zhang,Huan Yang|3|3|0|0
+135|Cross-platform malware: write once, infect everywhere.|Martina Lindorfer,Matthias Neumayr,Juan Caballero,Christian Platzer|0|0|0|0
+136|Introducing pathogen: a real-time virtualmachine introspection framework.|Anthony Roberts,Richard McClatchey,Saad Liaquat,Nigel Edwards,Mike Wray|8|7|0|0
+137|PnP: improving web browsing performance over tor using web resource prefetch-and-push.|Giang T. K. Nguyen,Xun Gong,Anupam Das,Nikita Borisov|0|0|0|0
+138|Sniffing and propagating malwares through WPAD deception in LANs.|Dan Li,Chaoge Liu,Xu Cui,Xiang Cui|0|0|0|0
+139|A footprint of third-party tracking on mobile web.|Ashar Javed|1|1|0|0
+140|Dr. Watson provides data for post-breach analysis.|Wasim Ahmad Bhat,S. M. K. Quadri|0|0|0|0
+141|Reflected attacks abusing honeypots.|Martin Husák,Martin Vizváry|0|0|0|0
+142|TouchCtrl: fine-grained access control for collaborative environments.|Benjamin Güldenring,Volker Roth|0|0|0|0
+143|CRYPTSERVER: strong data protection in commodity LAMP servers.|Zhaofeng Chen,Xinshu Dong,Prateek Saxena,Zhenkai Liang|0|0|0|0
+144|Identity-based steganography and its applications to censorship resistance.|Tim Ruffing,Jonas Schneider,Aniket Kate|2|1|0|0
+145|Sechduler: a security-aware kernel scheduler.|Parisa Haghani,Saman A. Zonouz|n/a
+146|Passwords on flexible display devices.|Sana Maqsood,Sonia Chiasson,Audrey Girouard|n/a
+147|Revisiting anomaly detection system design philosophy.|Ayesha Binte Ashfaq,Muhammad Qasim Ali,Ehab Al-Shaer,Syed Ali Khayam|1|1|0|1
+148|12th workshop on privacy in the electronic society (WPES 2013).|Sara Foresti|0|0|0|0
+149|Third international workshop on trustworthy embedded devices (TrustED 2013).|Frederik Armknecht,Jean-Pierre Seifert|0|0|0|0
+150|CyCAR'2013: first international academic workshop on security, privacy and dependability for cybervehicles.|Arslan Munir,Farinaz Koushanfar,Hervé Seudie,Ahmad-Reza Sadeghi|0|0|0|0
+151|Summary/overview for artificial intelligence and security (AISec'13).|Blaine Nelson,Christos Dimitrakakis,Elaine Shi|0|0|0|0
+152|The first workshop on language support for privacy-enhancing technologies (PETShop'13).|Martin Franz,Andreas Holzer,Rupak Majumdar,Bryan Parno,Helmut Veith|0|0|0|0
+153|Fifth ACM cloud computing security workshop (CCSW 2013).|Ari Juels,Bryan Parno|0|0|0|0
+154|CCS'13 co-located workshop summary for SPSM 2013.|Adrienne Porter Felt,N. Asokan|n/a
+155|Smart energy grid security workshop (SEGS'13).|Klaus Kursawe,Benessa Defend|0|0|0|0
+156|Eighth ACM workshop on digital identity management (DIM 2013): identity at the crossroads.|Thomas Groß,Marit Hansen|0|0|0|0
+157|Constructive and destructive aspects of embedded security in the internet of things.|Christof Paar|1|1|0|0
+158|Trusted execution environments on mobile devices.|Jan-Erik Ekberg,Kari Kostiainen,N. Asokan|5|4|0|0
+159|Easily instrumenting android applications for security purposes.|Eric Bodden|2|2|0|0

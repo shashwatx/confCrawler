@@ -1,0 +1,27 @@
+26
+1|Proceedings of the 10th International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS-X), San Jose, California, USA, October 5-9, 2002.|Kourosh Gharachorloo|n/a
+2|Keynote address: Sensor network research: emerging challenges for architecture, systems, and languages.|Deborah Estrin|9|3|0|0
+3|Transactional lock-free execution of lock-based programs.|Ravi Rajwar,James R. Goodman|336|133|8|11
+4|Speculative synchronization: applying thread-level speculation to explicitly parallel applications.|José F. Martínez,Josep Torrellas|206|82|31|7
+5|Temporally silent stores.|Kevin M. Lepak,Mikko H. Lipasti|44|11|0|2
+6|Automatically characterizing large scale program behavior.|Timothy Sherwood,Erez Perelman,Greg Hamerly,Brad Calder|1505|585|13|33
+7|Bytecode fetch optimization for a Java interpreter.|Kazunori Ogata,Hideaki Komatsu,Toshio Nakatani|14|4|0|1
+8|Understanding and improving operating system effects in control flow prediction.|Tao Li,Lizy Kurian John,Anand Sivasubramaniam,Narayanan Vijaykrishnan,Juan Rubio|42|16|3|8
+9|Maté: a tiny virtual machine for sensor networks.|Philip Levis,David E. Culler|1321|528|8|20
+10|Energy-efficient computing for wildlife tracking: design tradeoffs and early experiences with ZebraNet.|Philo Juang,Hidekazu Oki,Yong Wang,Margaret Martonosi,Li-Shiuan Peh,Daniel Rubenstein|2116|1200|1|35
+11|Enabling trusted software integrity.|Darko Kirovski,Milenko Drinic,Miodrag Potkonjak|101|42|17|2
+12|ECOSystem: managing energy as a first class operating system resource.|Heng Zeng,Carla Schlatter Ellis,Alvin R. Lebeck,Amin Vahdat|447|216|11|5
+13|Cool-Mem: combining statically speculative memory accessing with selective address translation for energy efficiency.|Raksit Ashok,Saurabh Chheda,Csaba Andras Moritz|17|3|0|3
+14|Joint local and global hardware adaptations for energy.|Ruchira Sasanka,Christopher J. Hughes,Sarita V. Adve|81|15|0|14
+15|Design and evaluation of compiler algorithms for pre-execution.|Dongkeun Kim,Donald Yeung|111|49|12|11
+16|Compiler optimization of scalar value communication between speculative threads.|Antonia Zhai,Christopher B. Colohan,J. Gregory Steffan,Todd C. Mowry|137|41|0|25
+17|Enhancing software reliability with speculative threads.|Jeffrey T. Oplinger,Monica S. Lam|118|38|14|0
+18|Dynamic dead-instruction detection and elimination.|J. Adam Butts,Gurindar S. Sohi|59|21|0|2
+19|An adaptive, non-uniform cache structure for wire-delay dominated on-chip caches.|Changkyu Kim,Doug Burger,Stephen W. Keckler|717|405|13|32
+20|A comparative study of arbitration algorithms for the Alpha 21364 pipelined router.|Shubhendu S. Mukherjee,Federico Silla,Peter J. Bannon,Joel S. Emer,Steven Lang,David Webb|41|25|3|4
+21|Increasing web server throughput with network interface data caching.|Hyong-youb Kim,Vijay S. Pai,Scott Rixner|45|6|0|9
+22|Programming language optimizations for modular router configurations.|Eddie Kohler,Robert Morris,Benjie Chen|44|17|6|1
+23|Evolving RPC for active storage.|Muthian Sivathanu,Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau|24|7|0|1
+24|A stateless, content-directed data prefetching mechanism.|Robert Cooksey,Stéphan Jourdan,Dirk Grunwald|125|44|3|1
+25|A stream compiler for communication-exposed architectures.|Michael I. Gordon,William Thies,Michal Karczmarek,Jasper Lin,Ali S. Meli,Andrew A. Lamb,Chris Leger,Jeremy Wong,Henry Hoffmann,David Maze,Saman P. Amarasinghe|344|161|3|16
+26|Mondrian memory protection.|Emmett Witchel,Josh Cates,Krste Asanovic|284|128|12|3

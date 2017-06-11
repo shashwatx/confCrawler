@@ -1,0 +1,42 @@
+41
+1|Proceedings of the Sixth Annual Symposium on Logic in Computer Science (LICS '91), Amsterdam, The Netherlands, July 15-18, 1991.|n/a
+2|A Foundational Delineation of Computational Feasiblity.|Daniel Leivant|88|25|0|4
+3|Towards a Semantics for the QUEST Language.|Fabio Alessi,Franco Barbanera|n/a
+4|Term Declaration Logic and Generalised Composita.|Peter Aczel|18|4|0|1
+5|Logic Programming in a Fragment of Intuitionistic Linear Logic.|Joshua S. Hodas,Dale Miller|555|93|0|55
+6|Games Semantics for Linear Logic.|Yves Lafont,Thomas Streicher|98|17|0|0
+7|Linearizing Intuitionistic Implication.|Patrick Lincoln,Andre Scedrov,Natarajan Shankar|40|5|0|5
+8|Some Results on the Interpretation of lambda-calculus in Operator Algebras.|Pasquale Malacaria,Laurent Regnier|32|4|0|2
+9|Unification and Anti-Unification in the Calculus of Constructions.|Frank Pfenning|146|30|0|23
+10|Partial Objects in the Calculus of Constructions.|Philippe Audebaud|27|1|0|2
+11|An Evaluation Semantics for Classical Proofs.|Chetan R. Murthy|154|37|0|2
+12|A Theory of Testing for Real-Time.|Rance Cleaveland,Amy E. Zwarico|73|4|1|9
+13|Complexity Bounds of Hoare-style Proof Systems.|Hardi Hungar|0|0|0|0
+14|Semantics of Pointers, Referencing and Dereferencing with Intensional Logic.|Hing-Kai Hung,Jeffery I. Zucker|15|5|0|2
+15|Sequentiality and Strong Stability.|Antonio Bucciarelli,Thomas Ehrhard|101|21|0|18
+16|Parallel PCF Has a Unique Extensional Model.|Allen Stoughton|4|1|0|0
+17|The Fixed Point Property in Synthetic Domain Theory.|Paul Taylor|88|10|0|18
+18|On Computational Open-Endedness in Martin-Löf's Type Theory.|Douglas J. Howe|48|6|1|11
+19|Predicative Type Universes and Primitive Recursion.|Nax Paul Mendler|26|6|0|0
+20|Freyd's Hierarchy of Combinator Monoids.|Richard Statman|n/a
+21|Equational Prgoramming in lambda-calculus.|Enrico Tronci|n/a
+22|An Inverse of the Evaluation Functional for Typed lambda-calculus.|Ulrich Berger,Helmut Schwichtenberg|233|59|0|19
+23|A Completeness Theorem for Kleene Algebras and the Algebra of Regular Events.|Dexter Kozen|613|236|0|49
+24|On First Order Database Query Languages.|Arnon Avron,Yoram Hirshfeld|11|0|1|2
+25|Specifying and Proving Serializability in Temporal Logic.|Doron A. Peled,Shmuel Katz,Amir Pnueli|28|1|0|11
+26|CCS with Priority Choice.|Juanito Camilleri,Glynn Winskel|93|13|0|1
+27|Rabin Measures and Their Applications to Fairness and Automata Theory.|Nils Klarlund,Dexter Kozen|26|5|0|7
+28|Specification and Refinement of Probabilistic Processes.|Bengt Jonsson,Kim Guldstrand Larsen|296|134|0|23
+29|On the 0-1 Law for the class of Existential Second Order Minimal Gödel Sentences with Equality.|Leszek Pacholski,Wieslaw Szwast|5|0|0|0
+30|On the Deduction Rule and the Number of Proof Lines.|Maria Luisa Bonet,Samuel R. Buss|5|0|0|3
+31|Logic Programs as Types for Logic Programs.|Thom W. Frühwirth,Ehud Y. Shapiro,Moshe Y. Vardi,Eyal Yardeni|197|30|1|0
+32|A First-Order Theory of Types and Polymorphism in Logic Programming.|Michael Kifer,James Wu|11|0|0|1
+33|Prop revisited: Propositional Formula as Abstract Domain for Groundness Analysis.|Agostino Cortesi,Gilberto Filé,William H. Winsborough|127|3|0|11
+34|Constructive Negation for Constraint Logic Programming.|Peter J. Stuckey|128|9|0|3
+35|Higher-Order Critical Pairs.|Tobias Nipkow|341|58|0|4
+36|A Computation Model for Executable Higher-Order Algebraic Specification Languages.|Jean-Pierre Jouannaud,Mitsuhiro Okada|173|40|0|21
+37|Defaults and Revision in Structured Theories.|Mark Ryan|52|2|0|15
+38|Actions Speak Louder than Words: Proving Bisimilarity for Context-Free Processes.|Hans Hüttel,Colin Stirling|96|11|0|12
+39|On the Relationship Between Process Algebra and Input/Output Automata.|Frits W. Vaandrager|126|25|0|5
+40|A Compositional Proof System for Dynamic Process Creation.|Frank S. de Boer|4|0|0|0
+41|A Partial Approach to Model Checking.|Patrice Godefroid,Pierre Wolper|330|37|1|15

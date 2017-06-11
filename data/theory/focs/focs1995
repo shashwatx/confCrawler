@@ -1,0 +1,75 @@
+74
+1|36th Annual Symposium on Foundations of Computer Science, Milwaukee, Wisconsin, 23-25 October 1995.|n/a
+2|Cognitive Computation (Extended Abstract).|Leslie G. Valiant|n/a
+3|Spectral Methods for Matrix Rigidity with Applications to Size-Depth Tradeoffs and Communication Complexity.|Satyanarayana V. Lokam|49|8|0|2
+4|Lower Bounds for Arithmetic Circuits via Partial Serivatives (Preliminary Version).|Noam Nisan,Avi Wigderson|116|68|0|5
+5|Pseudorandom Generators, Measure Theory, and Natural Proofs.|Kenneth W. Regan,D. Sivakumar,Jin-yi Cai|59|3|0|5
+6|Counting Bottlenecks to Show Monotone P <=> NP.|Armin Haken|49|12|1|2
+7|Private Information Retrieval.|Benny Chor,Oded Goldreich,Eyal Kushilevitz,Madhu Sudan|1517|801|15|40
+8|Disjoint Paths in Densely Embedded Graphs.|Jon M. Kleinberg,Éva Tardos|164|25|0|1
+9|Divide-and-Conquer Approximation Algorithms via Spreading Metrics (Extended Abstract).|Guy Even,Joseph Naor,Satish Rao,Baruch Schieber|209|61|0|19
+10|The Loading Time Scheduling Problem (Extended Abstract).|Randeep Bhatia,Samir Khuller,Joseph Naor|n/a
+11|Approximability of Flow Shop Scheduling.|Leslie A. Hall|111|37|0|0
+12|A Representation of Cuts within 6/5 Times the Edge Connectivity with Applications.|András A. Benczúr|15|3|0|0
+13|Contention Resolution with Bounded Delay.|Mike Paterson,Aravind Srinivasan|11|1|0|0
+14|Tight Bounds for a Distributed Selection Game with Applications to Fixed-Connection Machines.|C. Greg Plaxton|1|0|0|0
+15|Efficient Parallel Solution of Sparse Eigenvalue and Eigenvector Problems.|John H. Reif|2|0|0|0
+16|Approximating the Volume of Definable Sets.|Pascal Koiran|33|2|0|3
+17|An Optimal Algorithm for Monte Carlo Estimation (Extended Abstract).|Paul Dagum,Richard M. Karp,Michael Luby,Sheldon M. Ross|152|70|0|6
+18|Markov Chain Algorithms for Planar Lattice Structures (Extended Abstract).|Michael Luby,Dana Randall,Alistair Sinclair|120|52|0|22
+19|Derandomizing Semidefinite Programming Based Approximation Algorithms.|Sanjeev Mahajan,Ramesh Hariharan|119|13|0|5
+20|Synthesizers and Their Application to the Parallel Construction of Psuedo-Random Functions.|Moni Naor,Omer Reingold|112|48|0|14
+21|Splitters and Near-Optimal Derandomization.|Moni Naor,Leonard J. Schulman,Aravind Srinivasan|179|106|0|1
+22|A Unified Analysis of Paging and Caching.|Eric Torng|83|22|0|1
+23|Application-Controlled Paging for a Shared Cache (Extended Abstract).|Rakesh D. Barve,Edward F. Grove,Jeffrey Scott Vitter|16|9|0|0
+24|Speed is as Powerful as Clairvoyance.|Bala Kalyanasundaram,Kirk Pruhs|330|170|0|32
+25|Perspectives on Database Theory.|Mihalis Yannakakis|10|2|0|1
+26|Algebraic Decompositions of Non-Convex Polyhedra.|Herbert Edelsbrunner|24|7|0|4
+27|Improved Lower Bound on Testing Membership to a Polyhedron by Algebraic Decision Trees.|Dima Grigoriev,Marek Karpinski,Nicolai Vorobjov|16|1|0|9
+28|Optimal Algorithms for Curves on Surfaces.|Tamal K. Dey,Sumanta Guha|8|1|0|4
+29|Integral Geometry of Higher-Dimensional Polytopes and the Average Case in Combinatorial Optimization.|Alexander I. Barvinok|5|1|0|2
+30|Finding Points on Curves over Finite Fields (Extended Abstract).|Joachim von zur Gathen,Igor Shparlinski|12|2|0|6
+31|Learning Polynomials with Queries: The Highly Noisy Case.|Oded Goldreich,Ronitt Rubinfeld,Madhu Sudan|176|45|0|30
+32|Simple Learning Algorithms for Decision Trees and Multivariate Polynomials.|Nader H. Bshouty,Yishay Mansour|19|5|0|3
+33|Tracking the Best Disjunction.|Peter Auer,Manfred K. Warmuth|114|28|0|21
+34|Gambling in a Rigged Casino: The Adversarial Multi-Arm Bandit Problem.|Peter Auer,Nicolò Cesa-Bianchi,Yoav Freund,Robert E. Schapire|493|234|0|6
+35|Efficient Algorithms for Learning to Play Repeated Games Against Computationally Bounded Adversaries.|Yoav Freund,Michael J. Kearns,Yishay Mansour,Dana Ron,Ronitt Rubinfeld,Robert E. Schapire|41|9|0|3
+36|RSPACE(S) \subseteq DSPACE(S3/2).|Michael E. Saks,Shiyu Zhou|n/a
+37|Sparse P-Hard Sets Yield Space-Efficient Algorithms.|Mitsunori Ogihara|34|3|0|6
+38|The Resolution of a Hartmanis Conjecture.|Jin-yi Cai,D. Sivakumar|25|3|0|6
+39|A Scheduling Model for Reduced CPU Energy.|F. Frances Yao,Alan J. Demers,Scott Shenker|1302|613|2|0
+40|Load Balancing in the Lp Norm.|Baruch Awerbuch,Yossi Azar,Edward F. Grove,Ming-Yang Kao,P. Krishnan,Jeffrey Scott Vitter|104|41|1|17
+41|Competitive Access Time via Dynamic Storage Rearrangement (Preliminary Version).|Amos Fiat,Yishay Mansour,Adi Rosén,Orli Waarts|7|2|1|0
+42|Reductions, Codes, PCPs, and Inapproximability.|Sanjeev Arora|22|3|0|1
+43|Improved Hardness Results for Approximating the Chromatic Number.|Martin Fürer|33|7|0|0
+44|Free Bits, PCPs and Non-Approximability - Towards Tight Results.|Mihir Bellare,Oded Goldreich,Madhu Sudan|455|145|0|52
+45|Linearity Testing in Characteristic Two.|Mihir Bellare,Don Coppersmith,Johan Håstad,Marcos A. Kiwi,Madhu Sudan|172|81|0|5
+46|3-Coloring in Time O(1.3446n): A No-MIS Algorithm.|Richard Beigel,David Eppstein|112|23|0|7
+47|Computing Simulations on Finite and Infinite Graphs.|Monika Rauch Henzinger,Thomas A. Henzinger,Peter W. Kopke|407|171|0|13
+48|Minimum Coloring Random and Semi-Random Graphs in Polynomial Expected Time.|C. R. Subramanian|6|0|0|2
+49|Improved Algorithms and Analysis for Secretary Problems and Generalizations.|Miklós Ajtai,Nimrod Megiddo,Orli Waarts|51|22|0|1
+50|Controllability, Recognizability, and Complexity Issues in Robot Motion Planning.|Jean-Claude Latombe|3|2|0|1
+51|Coding for Computing.|Alon Orlitsky,James R. Roche|258|182|0|0
+52|Linear Time Erasure Codes with Nearly Optimal Recovery (Extended Abstract).|Noga Alon,Jeff Edmonds,Michael Luby|66|15|3|7
+53|Using Autoreducibility to Separate Complexity Classes.|Harry Buhrman,Lance Fortnow,Leen Torenvliet|42|5|0|11
+54|On One-Dimensional Quantum Cellular Automata.|John Watrous|130|35|0|2
+55|Hard-Core Distributions for Somewhat Hard Problems.|Russell Impagliazzo|221|80|0|20
+56|Efficient Access to Optical Bandwidth - Wavelength Routing on Directed Fiber Trees, Rings, and Trees of Rings.|Milena Mihail,Christos Kaklamanis,Satish Rao|176|9|0|23
+57|Routing on Butterfly Networks with Random Faults.|Richard Cole,Bruce M. Maggs,Ramesh K. Sitaraman|28|0|0|1
+58|Fault Diagnosis in a Flash.|Richard Beigel,William Hurwood,Nabil Kahale|34|5|0|4
+59|Transforming Men into Mice (Polynomial Algorithm for Genomic Distance Problem).|Sridhar Hannenhalli,Pavel A. Pevzner|369|130|0|18
+60|Algorithms for Matrix Groups and the Tits Alternative.|Robert Beals|12|2|0|5
+61|Optimal On-Line Search and Sublinear Time Update in String Matching.|Paolo Ferragina,Roberto Grossi|33|10|1|4
+62|Reconstructing Strings from Substrings in Rounds.|Dimitris Margaritis,Steven Skiena|51|11|0|4
+63|The Bit Vector Intersection Problem (Preliminary Version).|Richard M. Karp,Orli Waarts,Geoffrey Zweig|n/a
+64|Faster Algorithms for the Construction of Parameterized Suffix Trees (Preliminary Version).|S. Rao Kosaraju|49|19|0|0
+65|An Approximation Scheme for Planar Graph TSP.|Michelangelo Grigni,Elias Koutsoupias,Christos H. Papadimitriou|115|40|0|8
+66|Amortization, Lazy Evaluation, and Persistence: Lists with Catenation via Lazy Linking.|Chris Okasaki|35|2|0|8
+67|Sublogarithmic Searching without Multiplications.|Arne Andersson|61|1|0|16
+68|Fully Dynamic Biconnectivity and Transitive Closure.|Monika Rauch Henzinger,Valerie King|111|31|0|6
+69|Lower Bounds for Monotone Span Programs.|Amos Beimel,Anna Gál,Mike Paterson|48|18|0|14
+70|On Computing Boolean Functions by Sparse Real Polynomials.|Matthias Krause,Pavel Pudlák|19|3|0|0
+71|Improved Depth Lower Vounds for Small Distance Connectivity.|Paul Beame,Russell Impagliazzo,Toniann Pitassi|14|4|0|2
+72|Tight Fault Locality (Extended Abstract).|Shay Kutten,David Peleg|n/a
+73|Faster Approximate Agreement with Multi-Writer Registers.|Eric Schenk|6|0|0|1
+74|Resolving Message Complexity of Byzantine Agreement and beyond.|Zvi Galil,Alain J. Mayer,Moti Yung|64|13|0|5

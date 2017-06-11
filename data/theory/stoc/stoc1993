@@ -1,0 +1,88 @@
+87
+1|Proceedings of the Twenty-Fifth Annual ACM Symposium on Theory of Computing, May 16-18, 1993, San Diego, CA, USA.|S. Rao Kosaraju,David S. Johnson,Alok Aggarwal|n/a
+2|Some complexity issues on the simply connected regions of the two-dimensional plane.|Arthur W. Chou,Ker-I Ko|5|1|0|1
+3|Quantum complexity theory.|Ethan Bernstein,Umesh V. Vazirani|1440|390|0|16
+4|Thermodynamics of computation and information distance.|Charles H. Bennett,Péter Gács,Ming Li,Paul M. B. Vitányi,Wojciech H. Zurek|46|12|0|4
+5|Fully polynomial Byzantine agreement in t+1 rounds.|Juan A. Garay,Yoram Moses|50|17|0|1
+6|Fast asynchronous Byzantine agreement with optimal resilience.|Ran Canetti,Tal Rabin|189|74|11|3
+7|Asynchronous secure computation.|Michael Ben-Or,Ran Canetti,Oded Goldreich|148|53|0|22
+8|k one-way heads cannot do string-matching.|Tao Jiang,Ming Li|15|2|0|4
+9|A theory of parameterized pattern matching: algorithms and applications.|Brenda S. Baker|141|39|2|6
+10|Multiple matching of rectangular patterns.|Ramana M. Idury,Alejandro A. Schäffer|31|6|0|1
+11|Generalized FLP impossibility result for t-resilient asynchronous computations.|Elizabeth Borowsky,Eli Gafni|353|140|0|48
+12|Wait-free k-set agreement is impossible: the topology of public knowledge.|Michael E. Saks,Fotios Zaharoglou|186|107|0|0
+13|The asynchronous computability theorem for t-resilient tasks.|Maurice Herlihy,Nir Shavit|189|33|0|26
+14|Linear programming without the matrix.|Christos H. Papadimitriou,Mihalis Yannakakis|109|31|1|3
+15|Comparison-based search in the presence of errors.|Ryan S. Borgstrom,S. Rao Kosaraju|62|18|0|0
+16|A robust model for finding optimal evolutionary trees.|Martin Farach,Sampath Kannan,Tandy Warnow|180|33|0|14
+17|Maximum k-chains in planar point sets: combinatorial structure and algorithms.|Stefan Felsner,Lorenz Wernisch|28|14|0|3
+18|Lower bounds for randomized mutual exclusion.|Eyal Kushilevitz,Yishay Mansour,Michael O. Rabin,David Zuckerman|9|0|0|1
+19|Competitive distributed file allocation.|Baruch Awerbuch,Yair Bartal,Amos Fiat|193|18|3|19
+20|Contention in shared memory algorithms.|Cynthia Dwork,Maurice Herlihy,Orli Waarts|82|21|0|5
+21|What can be computed locally?|Moni Naor,Larry J. Stockmeyer|245|106|1|2
+22|Reinventing the wheel: an optimal data structure for connectivity queries.|Robert F. Cohen,Giuseppe Di Battista,Arkady Kanevsky,Roberto Tamassia|15|1|0|5
+23|Locality based graph coloring.|Mario Szegedy,Sundar Vishwanathan|53|24|0|0
+24|Separator based sparsification for dynamic planar graph algorithms.|David Eppstein,Zvi Galil,Giuseppe F. Italiano,Thomas H. Spencer|49|3|0|10
+25|Polynomial space polynomial delay algorithms for listing families of graphs.|Leslie Ann Goldberg|18|11|0|0
+26|A linear time algorithm for finding tree-decompositions of small treewidth.|Hans L. Bodlaender|1379|588|0|106
+27|More deterministic simulation in logspace.|Noam Nisan,David Zuckerman|78|15|0|7
+28|Expanders that beat the eigenvalue bound: explicit construction and applications.|Avi Wigderson,David Zuckerman|88|24|0|23
+29|The biased coin problem.|Ravi B. Boppana,Babu O. Narayanan|19|4|0|1
+30|Efficient construction of a small hitting set for combinatorial rectangles in high dimension.|Nathan Linial,Michael Luby,Michael E. Saks,David Zuckerman|37|16|0|3
+31|Constructing small sample spaces satisfying given constraints.|Daphne Koller,Nimrod Megiddo|58|15|0|3
+32|Mapping the genome: some combinatorial problems arising in molecular biology.|Richard M. Karp|150|40|1|1
+33|On the hardness of approximating minimization problems.|Carsten Lund,Mihalis Yannakakis|1081|261|3|16
+34|Efficient probabilistically checkable proofs and applications to approximations.|Mihir Bellare,Shafi Goldwasser,Carsten Lund,A. Russeli|355|77|0|12
+35|Probabilistically checkable debate systems and approximation algorithms for PSPACE-hard functions.|Anne Condon,Joan Feigenbaum,Carsten Lund,Peter W. Shor|67|6|0|9
+36|Efficient learning of typical finite automata from random walks.|Yoav Freund,Michael J. Kearns,Dana Ron,Ronitt Rubinfeld,Robert E. Schapire,Linda Sellie|85|15|0|9
+37|Finiteness results for sigmoidal "neural" networks.|Angus Macintyre,Eduardo D. Sontag|102|7|0|16
+38|Bounds for the computational power and learning complexity of analog neural nets.|Wolfgang Maass|104|12|0|13
+39|Proportionate progress: a notion of fairness in resource allocation.|Sanjoy K. Baruah,N. K. Cohen,C. Greg Plaxton,Donald A. Varvel|731|376|1|16
+40|Self-routing superconcentrators.|Nicholas Pippenger|n/a
+41|Space-efficient scheduling of multithreaded computations.|Robert D. Blumofe,Charles E. Leiserson|186|64|0|20
+42|Cryptographic hardness of distribution-specific learning.|Michael Kharitonov|114|25|0|2
+43|How to use expert advice.|Nicolò Cesa-Bianchi,Yoav Freund,David P. Helmbold,David Haussler,Robert E. Schapire,Manfred K. Warmuth|658|197|5|54
+44|Efficient noise-tolerant learning from statistical queries.|Michael J. Kearns|579|244|1|5
+45|Online load balancing and network flow.|Steven Phillips,Jeffery Westbrook|72|6|0|3
+46|Markov chains, computer proofs, and average-case analysis of best fit bin packing.|Edward G. Coffman Jr.,David S. Johnson,Peter W. Shor,Richard R. Weber|43|6|0|8
+47|On-line algorithms for cache sharing.|Marshall W. Bern,Daniel H. Greene,Arvind Raghunathan|6|1|0|0
+48|Angles of planar triangular graphs.|Giuseppe Di Battista,Luca Vismara|65|20|0|7
+49|Many birds with one stone: multi-objective approximation algorithms.|R. Ravi,Madhav V. Marathe,S. S. Ravi,Daniel J. Rosenkrantz,Harry B. Hunt III|153|40|0|38
+50|A parallel approximation algorithm for positive linear programming.|Michael Luby,Noam Nisan|184|57|1|1
+51|Randomness-optimal unique element isolation, with applications to perfect matching and related problems.|Suresh Chari,Pankaj Rohatgi,Aravind Srinivasan|38|13|0|0
+52|Decision trees: old and new results.|Rudolf Fleischer|7|2|0|0
+53|A deterministic algorithm for the three-dimensional diameter problem.|Jirí Matousek,Otfried Schwarzkopf|31|1|0|0
+54|Matrix searching with the shortest path metric.|John Hershberger,Subhash Suri|24|5|0|3
+55|Improved bounds on weak epsilon-nets for convex sets.|Bernard Chazelle,Herbert Edelsbrunner,Michelangelo Grigni,Leonidas J. Guibas,Micha Sharir,Emo Welzl|54|23|0|6
+56|Piecewise linear paths among convex obstacles.|Mark de Berg,Jirí Matousek,Otfried Schwarzkopf|10|2|0|1
+57|Depth reduction for noncommutative arithmetic circuits.|Eric Allender,Jia Jiao|20|1|0|6
+58|Modified ranks of tensors and the size of circuits.|Pavel Pudlák,Vojtech Rödl|24|1|1|0
+59|Characterizing non-deterministic circuit size.|Mauricio Karchmer,Avi Wigderson|12|3|0|3
+60|Size-depth trade-offs for threshold circuits.|Russell Impagliazzo,Ramamohan Paturi,Michael E. Saks|13|0|0|0
+61|Simulating threshold circuits by majority circuits.|Mikael Goldmann,Marek Karpinski|48|7|0|0
+62|Multi-scale self-simulation: a technique for reconfiguring arrays with faults.|Richard Cole,Bruce M. Maggs,Ramesh K. Sitaraman|28|2|0|1
+63|How much can hardware help routing?|Allan Borodin,Prabhakar Raghavan,Baruch Schieber,Eli Upfal|38|1|0|2
+64|Routing permutations on graphs via matchings.|Noga Alon,Fan R. K. Chung,Ronald L. Graham|79|20|0|3
+65|Parametric real-time reasoning.|Rajeev Alur,Thomas A. Henzinger,Moshe Y. Vardi|311|118|0|15
+66|Constant time factors do matter.|Neil D. Jones|49|7|0|13
+67|Monotone monadic SNP and constraint satisfaction.|Tomás Feder,Moshe Y. Vardi|118|33|0|7
+68|On-line load balancing with applications to machine scheduling and virtual circuit routing.|James Aspnes,Yossi Azar,Amos Fiat,Serge A. Plotkin,Orli Waarts|218|43|2|24
+69|Approximate load balancing on dynamic and asynchronous networks.|William Aiello,Baruch Awerbuch,Bruce M. Maggs,Satish Rao|95|20|0|8
+70|Optimal online scheduling of parallel jobs with dependencies.|Anja Feldmann,Ming-Yang Kao,Jirí Sgall,Shang-Hua Teng|63|7|0|6
+71|Time optimal self-stabilizing synchronization.|Baruch Awerbuch,Shay Kutten,Yishay Mansour,Boaz Patt-Shamir,George Varghese|149|35|0|26
+72|Fast perfection-information leader-election protocol with linear immunity.|Jason Cooper,Nathan Linial|35|8|0|2
+73|Cryptographic defense against traffic analysis.|Charles Rackoff,Daniel R. Simon|134|26|0|3
+74|Excluded minors, network decomposition, and multicommodity flow.|Philip N. Klein,Serge A. Plotkin,Satish Rao|178|58|1|11
+75|Improved bounds on the max-flow min-cut ratio for multicommodity flows.|Serge A. Plotkin,Éva Tardos|50|7|0|1
+76|Approximate max-flow min-(multi)cut theorems and their applications.|Naveen Garg,Vijay V. Vazirani,Mihalis Yannakakis|392|136|2|12
+77|A primal-dual approximation algorithm for generalized Steiner network problems.|David P. Williamson,Michel X. Goemans,Milena Mihail,Vijay V. Vazirani|198|41|0|43
+78|Time-space trade-offs for undirected st-connectivity on a JAG.|Jeff Edmonds|22|5|0|2
+79|Short random walks on graphs.|Greg Barnes,Uriel Feige|73|19|0|7
+80|Matchings in lattice graphs.|Claire Kenyon,Dana Randall,Alistair Sinclair|13|1|0|4
+81|Deterministic coding for interactive communication.|Leonard J. Schulman|53|35|0|7
+82|An O~(n2) algorithm for minimum cuts.|David R. Karger,Clifford Stein|n/a
+83|Finding minimum-quotient cuts in planar graphs.|James K. Park,Cynthia A. Phillips|34|17|0|0
+84|The network inhibition problem.|Cynthia A. Phillips|218|78|0|1
+85|Checking approximate computations over the reals.|Sigal Ar,Manuel Blum,Bruno Codenotti,Peter Gemmell|51|7|0|7
+86|On the generation of multivariate polynomials which are hard to factor.|Adi Shamir|22|5|0|1
+87|Counting curves and their projections.|Joachim von zur Gathen,Marek Karpinski,Igor Shparlinski|46|17|0|9

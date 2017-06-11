@@ -1,0 +1,171 @@
+170
+1|Proceedings of the 39th Design Automation Conference, DAC 2002, New Orleans, LA, USA, June 10-14, 2002.|n/a
+2|Wall street evaluates EDA.|Moshe Gavrielov,Richard Goering,Lucio Lanza,Vishal Saluja,Jay Vleeschhouwer|0|0|0|0
+3|IP delivery for FPGAs using Applets and JHDL.|Michael J. Wirthlin,Brian McMurtrey|17|4|1|0
+4|Watermarking integer linear programming solutions.|Seapahn Megerian,Milenko Drinic,Miodrag Potkonjak|10|4|1|2
+5|Model design using hierarchical web-based libraries.|Fabrice Bernardi,Jean François Santucci|23|8|8|4
+6|Behavioral synthesis via engineering change.|Milenko Drinic,Darko Kirovski|5|1|0|0
+7|A universal technique for fast and flexible instruction-set architecture simulation.|Achim Nohl,Gunnar Braun,Oliver Schliebusch,Rainer Leupers,Heinrich Meyr,Andreas Hoffmann|260|109|7|11
+8|A fast on-chip profiler memory.|Roman L. Lysecky,Susan Cotterell,Frank Vahid|18|9|2|4
+9|Design of an one-cycle decompression hardware for performance increase in embedded systems.|Haris Lekatsas,Jörg Henkel,Venkata Jakkula|55|15|3|8
+10|A factorization-based framework for passivity-preserving model reduction of RLC systems.|Q. Su,Venkataramanan Balakrishnan,Cheng-Kok Koh|6|0|0|2
+11|Model order reduction for strictly passive and causal distributed systems.|Luca Daniel,Joel R. Phillips|30|9|0|2
+12|Guaranteed passive balancing transformations for model order reduction.|Joel R. Phillips,Luca Daniel,Luis Miguel Silveira|283|130|6|24
+13|Uncertainty-aware circuit optimization.|Xiaoliang Bai,Chandramouli Visweswariah,Philip N. Strenski|107|27|0|1
+14|Congestion-driven codesign of power and signal networks.|Haihua Su,Jiang Hu,Sachin S. Sapatnekar,Sani R. Nassif|27|3|0|7
+15|On metrics for comparing routability estimation methods for FPGAs.|PariVallal Kannan,Shankar Balachandran,Dinesh Bhatia|26|5|1|6
+16|Tools or users: which is the bigger bottleneck?|Andrew B. Kahng,Ronald Collett,Patrick Groeneveld,Lavi Lev,Nancy Nettleton,Paul K. Rodman,Lambert van den Hoven|1|0|0|0
+17|Life is CMOS: why chase the life after?|George Sery,Shekhar Borkar,Vivek De|124|45|0|8
+18|The next chip challenge: effective methods for viable mixed technology SoCs.|H. Bernhard Pogge|12|1|0|0
+19|Few electron devices: towards hybrid CMOS-SET integrated circuits.|Adrian M. Ionescu,Michel J. Declercq,Santanu Mahapatra,Kaustav Banerjee,Jacques Gautier|52|11|0|11
+20|Carbon nanotube field-effect transistors and logic circuits.|R. Martel,V. Derycke,Jörg Appenzeller,Shalom J. Wind,Phaedon Avouris|181|73|82|0
+21|Efficient state representation for symbolic simulation.|Valeria Bertacco,Kunle Olukotun|22|2|0|8
+22|Handling special constructs in symbolic simulation.|Alfred Kölbl,James H. Kukula,Kurt Antreich,Robert F. Damiano|19|5|0|0
+23|A hybrid verification approach: getting deep into the design.|Scott Hazelhurst,Osnat Weissberg,Gila Kamhi,Limor Fix|38|8|0|0
+24|Can BDDs compete with SAT solvers on bounded model checking?|Gianpiero Cabodi,Paolo Camurati,Stefano Quer|43|16|2|4
+25|RTL c-based methodology for designing and verifying a multi-threaded processor.|Luc Séméria,Renu Mehra,Barry M. Pangrle,Arjuna Ekanayake,Andrew Seawright,Daniel Ng|49|10|2|0
+26|High-Level specification and automatic generation of IP interface monitors.|Marcio T. Oliveira,Alan J. Hu|59|11|0|3
+27|Achieving maximum performance: a method for the verification of interlocked pipeline control logic.|Kerstin Eder,Geoff Barrett|0|0|0|0
+28|Formal verification of module interfaces against real time specifications.|Arindam Chakrabarti,Pallab Dasgupta,P. P. Chakrabarti,Ansuman Banerjee|7|1|0|3
+29|Automated timing model generation.|Ajay J. Daga,Loa Mize,Subramanyam Sripada,Chris Wolff,Qiuyang Wu|25|9|4|2
+30|Timing model extraction of hierarchical blocks by graph reduction.|Cho W. Moon,Harish Kriplani,Krishna P. Belkhale|25|6|4|2
+31|Efficient stimulus independent timing abstraction model based on a new concept of circuit block transparency.|Martin Foltin,Brian Foutz,Sean Tyler|12|2|2|0
+32|An implication-based method to detect multi-cycle paths in large sequential circuits.|Hiroyuki Higuchi|10|4|2|2
+33|The wearable motherboard: a framework for personalized mobile information processing (PMIP).|Sungmee Park,Kenneth Mackenzie,Sundaresan Jayaraman|106|46|1|3
+34|Challenges and opportunities in electronic textiles modeling and optimization.|Diana Marculescu,Radu Marculescu,Pradeep K. Khosla|52|18|0|2
+35|Analog intellectual property: now? Or never?|Mike Brunoli,Masao Hotta,Felicia James,Rudy Koch,Roy McGuffin,Andrew J. Moore|8|2|0|0
+36|Task scheduling and voltage selection for energy minimization.|Yumin Zhang,Xiaobo Hu,Danny Z. Chen|393|171|0|7
+37|Battery-conscious task sequencing for portable devices including voltage/clock scaling.|Daler N. Rakhmatov,Sarma B. K. Vrudhula,Chaitali Chakrabarti|50|14|0|6
+38|An energy saving strategy based on adaptive loop parallelization.|Ismail Kadayif,Mahmut T. Kandemir,Mustafa Karaköy|27|8|1|6
+39|River PLAs: a regular circuit structure.|Fan Mo,Robert K. Brayton|36|2|0|4
+40|Layout-aware synthesis of arithmetic circuits.|Junhyung Um,Taewhan Kim|15|2|0|0
+41|Automatic data migration for reducing energy consumption in multi-bank memory systems.|Victor De La Luz,Mahmut T. Kandemir,Ibrahim Kolcu|92|30|8|0
+42|Exploiting shared scratch pad memory space in embedded multiprocessor systems.|Mahmut T. Kandemir,J. Ramanujam,Alok N. Choudhary|91|54|16|11
+43|Address assignment combined with scheduling in DSP code generation.|Yoonseo Choi,Taewhan Kim|39|8|0|2
+44|Multifunctional photonic integration for the agile optical internet.|Edward H. Sargent|1|0|0|0
+45|Computer aided design of long-haul optical transmission systems.|James G. Maloney,Brian E. Brewington,Curtis R. Menyuk|0|0|0|0
+46|A fast optical propagation technique for modeling micro-optical systems.|Timothy P. Kurzweg,Steven P. Levitan,Jose A. Martinez,Mark Kahrs,Donald M. Chiarulli|15|1|1|3
+47|Nanometer design: what hurts next...?|Robert W. Brodersen,Anthony M. Hill,John Kibarian,Desmond Kirkpatrick,Mark A. Lavin,Mitsumasa Koyanagi|0|0|0|0
+48|Low-cost sequential ATPG with clock-control DFT.|Miron Abramovici,Xiaoming Yu,Elizabeth M. Rudnick|11|1|1|0
+49|Effective diagnostics through interval unloads in a BIST environment.|Peter Wohl,John A. Waicukauski,Sanjay Patel,Gregory A. Maston|44|19|2|4
+50|On output response compression in the presence of unknown output values.|Irith Pomeranz,Sandip Kundu,Sudhakar M. Reddy|74|21|0|9
+51|Software-based diagnosis for processors.|Li Chen,Sujit Dey|27|11|0|2
+52|Design of a high-throughput low-power IS95 Viterbi decoder.|Xun Liu,Marios C. Papaefthymiou|16|4|1|0
+53|A detailed cost model for concurrent use with hardware/software co-design.|Daniel Ragan,Peter Sandborn,Paul Stoaks|24|6|0|0
+54|Efficient code synthesis from extended dataflow graphs for multimedia applications.|Hyunok Oh,Soonhoi Ha|20|8|0|4
+55|Transformation based communication and clock domain refinement for system design.|Ingo Sander,Axel Jantsch|20|2|0|7
+56|Model composition for scheduling analysis in platform design.|Kai Richter,Dirk Ziegenbein,Marek Jersak,Rolf Ernst|60|14|0|20
+57|Timed compiled-code simulation of embedded software for performance analysis of SOC design.|Jong-Yeol Lee,In-Cheol Park|31|15|0|0
+58|Automated equivalence checking of switch level circuits .|Simon Jolly,Atanas N. Parashkevov,Tim McDougall|16|1|3|1
+59|A practical and efficient method for compare-point matching.|Demos Anastasakis,Robert F. Damiano,Hi-Keung Tony Ma,Ted Stanion|49|11|1|1
+60|Self-referential verification of gate-level implementations of arithmetic circuits.|Ying-Tsai Chang,Kwang-Ting Cheng|9|2|0|0
+61|Whither (or wither?) ASIC handoff?|Michael Santarini,Sudhakar Jilla,Mark Miller,Tommy Eng,Sandeep Khanna,Kamalesh N. Ruparel,Tom Russell,Kazu Yamada|1|0|0|0
+62|Software synthesis from synchronous specifications using logic simulation techniques.|Yunjian Jiang,Robert K. Brayton|34|3|0|5
+63|Complex library mapping for embedded software using symbolic algebra.|Armita Peymandoust,Giovanni De Micheli,Tajana Simunic|12|1|0|0
+64|Retargetable binary utilities.|Maghsoud Abbaspour,Jianwen Zhu|20|5|1|2
+65|Exploiting operation level parallelism through dynamically reconfigurable datapaths.|Zhining Huang,Sharad Malik|34|6|1|5
+66|Dynamic hardware plugins in an FPGA with partial run-time reconfiguration.|Edson L. Horta,John W. Lockwood,David E. Taylor,David B. Parlour|196|69|4|12
+67|A reconfigurable FPGA-based readback signal generator for hard-drive read channel simulator.|Jinghuan Chen,Jaekyun Moon,Kia Bazargan|13|4|1|0
+68|Embedded software-based self-testing for SoC design.|Angela Krstic,Wei-Cheng Lai,Kwang-Ting Cheng,Li Chen,Sujit Dey|22|8|2|3
+69|A novel wavelet transform based transient current analysis for fault detection and localization.|Swarup Bhunia,Kaushik Roy,Jaume Segura|73|32|0|5
+70|Signal integrity fault analysis using reduced-order modeling.|Amir Attarha,Mehrdad Nourani|8|5|0|0
+71|Enhancing test efficiency for delay fault testing using multiple-clocked schemes.|Jing-Jia Liou,Li-C. Wang,Kwang-Ting Cheng,Jennifer Dworak,M. Ray Mercer,Rohit Kapur,Thomas W. Williams|23|8|0|4
+72|Going mobile: the next horizon for multi-million gate designs in the semi-conductor industry.|Christian Berthet|14|1|1|0
+73|HiPRIME: hierarchical and passivity reserved interconnect macromodeling engine for RLKC power delivery.|Yahong Cao,Yu-Min Lee,Tsung-Hao Chen,Charlie Chung-Ping Chen|51|7|0|7
+74|High-level current macro-model for power-grid analysis.|Srinivas Bodapati,Farid N. Najm|20|10|1|1
+75|Macro-modeling concepts for the chip electrical interface.|Brian W. Amick,Claude R. Gauthier,Dean Liu|2|2|1|0
+76|Modeling and analysis of regular symmetrically structured power/ground distribution networks.|Hui Zheng,Lawrence T. Pileggi|11|0|0|0
+77|Clock tree optimization in synchronous CMOS digital circuits for substrate noise reduction using folding of supply current transients.|Mustafa Badaroglu,Kris Tiri,Stéphane Donnay,Piet Wambacq,Hugo De Man,Ingrid Verbauwhede,Georges G. E. Gielen|25|6|0|4
+78|Resynthesis and peephole transformations for the optimization of large-scale asynchronous systems.|Tiberiu Chelcea,Steven M. Nowick|41|8|2|6
+79|Design of asynchronous circuits by synchronous CAD tools.|Alex Kondratyev,Kelvin Lwin|132|59|9|5
+80|Implementing asynchronous circuits using a conventional EDA tool-flow.|Christos P. Sotiriou|29|14|1|2
+81|Transformation rules for designing CNOT-based quantum circuits.|Kazuo Iwama,Yahiko Kambayashi,Shigeru Yamashita|178|62|0|5
+82|Fast three-level logic minimization based on autosymmetry.|Anna Bernasconi,Valentina Ciriani,Fabrizio Luccio,Linda Pagli|11|3|0|4
+83|An efficient optimization--based technique to generate posynomial performance models for analog integrated circuits.|Walter Daems,Georges G. E. Gielen,Willy M. C. Sansen|37|9|1|6
+84|Remembrance of circuits past: macromodeling by data mining in large analog design spaces.|Hongzhou Liu,Amith Singhee,Rob A. Rutenbar,L. Richard Carley|100|21|3|4
+85|Optimal design of delta-sigma ADCs by design space exploration.|Ovidiu Bajdechi,Johan H. Huijsing,Georges G. E. Gielen|6|0|0|0
+86|Systematic design of a 200 MS/s 8-bit interpolating/averaging A/D converter.|Jan Vandenbussche,K. Uyttenhove,Erik Lauwers,Michiel Steyaert,Georges G. E. Gielen|5|1|0|1
+87|Petri net modeling of gate and interconnect delays for power estimation.|Ashok K. Murugavel,N. Ranganathan|26|7|0|1
+88|Power estimation in global interconnects and its reduction using a novel repeater optimization methodology.|Pawan Kapur,Gaurav Chandra,Krishna Saraswat|88|19|0|5
+89|Low-swing clock domino logic incorporating dual supply and dual threshold voltages.|Seong-Ook Jung,Ki-Wook Kim,Sung-Mo Kang|15|2|1|1
+90|DRG-cache: a data retention gated-ground cache for low power.|Amit Agarwal,Hai Li,Kaushik Roy|172|76|6|11
+91|Unified tools for SoC embedded systems: mission critical, mission impossible or mission irrelevant?|Gary Smith,Daya Nadamuni,Sharad Malik,Rick Chapman,John Fogelin,Kurt Keutzer,Grant Martin,Brian Bailey|0|0|0|0
+92|Dynamic and leakage power reduction in MTCMOS circuits using an automated efficient gate clustering technique.|Mohab Anis,Mohamed Mahmoud,Mohamed I. Elmasry,Shawki Areibi|181|76|3|5
+93|Total power optimization by simultaneous dual-Vt allocation and device sizing in high performance microprocessors.|Tanay Karnik,Yibin Ye,James Tschanz,Liqiong Wei,Steven M. Burns,Venkatesh Govindarajulu,Vivek De,Shekhar Borkar|106|29|1|6
+94|An optimal voltage synthesis technique for a power-efficient satellite application.|Dong-In Kang,Jinwoo Suh,Stephen P. Crago|1|0|0|0
+95|Fast and accurate behavioral simulation of fractional-N frequency synthesizers and other PLL/DLL circuits.|Michael H. Perrott|103|34|3|7
+96|Time-domain steady-state simulation of frequency-dependent components using multi-interval Chebyshev method.|Baolin Yang,Joel R. Phillips|6|1|0|1
+97|A time-domain RF steady-state method for closely spaced tones.|Jaijeet S. Roychowdhury|5|2|0|0
+98|An algorithm for frequency-domain noise analysis in nonlinear systems.|Giorgio Casinovi|5|1|0|2
+99|System-level performance optimization of the data queueing memory management in high-speed network processors.|Chantal Ykman-Couvreur,J. Lambrecht,Diederik Verkest,Francky Catthoor,Aristides Nikologiannis,George E. Konstantoulakis|18|6|0|2
+100|Analysis of power consumption on switch fabrics in network routers.|Terry Tao Ye,Giovanni De Micheli,Luca Benini|440|233|0|7
+101|Memory optimization in single chip network switch fabrics.|David Whelihan,Herman Schmit|19|4|4|2
+102|Behavioral modeling of (coupled) harmonic oscillators.|Piet Vanassche,Georges G. E. Gielen,Willy M. C. Sansen|25|6|0|3
+103|Model checking algorithms for analog verification.|Walter Hartong,Lars Hedrich,Erich Barke|96|46|0|19
+104|Regularization of hierarchical VHDL-AMS models using bipartite graphs.|Jochen Mades,Manfred Glesner|5|1|1|1
+105|Improving the generality of the fictitious magnetic charge approach to computing inductances in the presence of permeable materials.|Yehia Massoud,Jacob White|30|25|0|26
+106|A general probabilistic framework for worst case timing analysis.|Michael Orshansky,Kurt Keutzer|224|55|5|8
+107|False timing path identification using ATPG techniques and delay-based information.|Jing Zeng,Magdy S. Abadir,Jacob A. Abraham|14|3|0|4
+108|False-path-aware statistical timing analysis and efficient path selection for delay testing and timing validation.|Jing-Jia Liou,Angela Krstic,Li-C. Wang,Kwang-Ting Cheng|167|65|2|20
+109|A fast, inexpensive and scalable hardware acceleration technique for functional simulation.|Srihari Cadambi,Chandra Mulpuri,Pranav Ashar|34|4|1|0
+110|Formal verification methods: getting around the brick wall.|David L. Dill,Nate James,Shishpal Rawat,Gérard Berry,Limor Fix,Harry Foster,Rajeev K. Ranjan,Gunnar Stålmarck,Curt Widdoes|1|0|0|0
+111|S-Tree: a technique for buffered routing tree synthesis.|Milos Hrkic,John Lillis|35|1|0|7
+112|An algorithm for integrated pin assignment and buffer planning.|Hua Xiang,D. F. Wong,Xiaoping Tang|13|1|0|0
+113|An efficient routing database.|Narendra V. Shenoy,William Nicholls|5|0|1|0
+114|Automatic generation of embedded memory wrapper for multiprocessor SoC.|Ferid Gharsalli,Samy Meftali,Frédéric Rousseau,Ahmed Amine Jerraya|48|5|0|5
+115|A novel synthesis technique for communication controller hardware from declarative data communication protocol specifications.|Robert Siegmund,Dietmar Müller|12|2|0|0
+116|An integrated algorithm for memory allocation and assignment in high-level synthesis.|Jaewon Seo,Taewhan Kim,Preeti Ranjan Panda|35|6|0|3
+117|High-level synthesis of multiple-precision circuitsindependent of data-objects length.|María C. Molina,José M. Mendías,Román Hermida|8|2|0|2
+118|Schedulability of event-driven code blocks in real-time embedded systems.|Samarjit Chakraborty,Thomas Erlebach,Simon Künzli,Lothar Thiele|12|1|0|4
+119|Associative caches in formal software timing analysis.|Fabian Wolf,Jan Staschulat,Rolf Ernst|25|1|0|2
+120|Compiler-directed scratch pad memory hierarchy design and management.|Mahmut T. Kandemir,Alok N. Choudhary|167|62|1|9
+121|Unlocking the design secrets of a 2.29 Gb/s Rijndael processor.|Patrick Schaumont,Henry Kuo,Ingrid Verbauwhede|47|10|3|0
+122|The iCOREtm 520 MHz synthesizable CPU core.|Nick Richardson,Lun Bin Huang,Razak Hossain,Tommy Zounes,Naresh Soni,Julian Lewis|n/a
+123|A flexible accelerator for layer 7 networking applications.|Gokhan Memik,William H. Mangione-Smith|11|0|1|0
+124|What's the next EDA driver?|Jan M. Rabaey,Joachim Kunkel,Dennis Brophy,Raul Camposano,Davoud Samani,Larry Lerner,Rick Hetherington|1|0|0|0
+125|Estimation of the likelihood of capacitive coupling noise.|Sarma B. K. Vrudhula,David Blaauw,Supamas Sirichotiyakul|21|2|0|2
+126|Crosstalk noise estimation for noise management.|Paul B. Morton,Wayne Wei-Ming Dai|2|0|0|0
+127|Variable frequency crosstalk noise analysis: : a methodology to guarantee functionality from dc to fmax.|Byron Krauter,David Widiger|4|1|0|0
+128|Towards global routing with RLC crosstalk constraints.|James D. Z. Ma,Lei He|24|2|0|3
+129|Reduction of SOC test data volume, scan power and testing time using alternating run-length codes.|Anshuman Chandra,Krishnendu Chakrabarty|144|51|21|0
+130|Embedded test control schemes for compression in SOCs.|Douglas Kay,Sung Chung,Samiha Mourad|5|0|0|1
+131|Wrapper/TAM co-optimization, constraint-driven test scheduling, and tester data volume reduction for SOCs.|Vikram Iyengar,Krishnendu Chakrabarty,Erik Jan Marinissen|61|14|0|11
+132|Communication architecture based power management for battery efficient system design.|Kanishka Lahiri,Sujit Dey,Anand Raghunathan|29|5|0|1
+133|Scheduler-based DRAM energy management.|Victor Delaluz,Anand Sivasubramaniam,Mahmut T. Kandemir,Narayanan Vijaykrishnan,Mary Jane Irwin|167|76|28|1
+134|An integer linear programming based approach for parallelizing applications in On-chip multiprocessors.|Ismail Kadayif,Mahmut T. Kandemir,Ugur Sezer|61|25|0|12
+135|Embedding infrastructure IP for SOC yield improvement.|Yervant Zorian|28|2|5|8
+136|Using embedded FPGAs for SoC yield improvement.|Miron Abramovici,Charles E. Stroud,Marty Emmert|50|12|3|6
+137|A proof engine approach to solving combinational design automation problems.|Gunnar Andersson,Per Bjesse,Byron Cook,Ziyad Hanna|35|10|0|5
+138|Solving difficult SAT instances in the presence of symmetry.|Fadi A. Aloul,Arathi Ramani,Igor L. Markov,Karem A. Sakallah|114|47|0|9
+139|Satometer: how much have we searched?|Fadi A. Aloul,Brian D. Sierawski,Karem A. Sakallah|22|3|1|1
+140|SAT with partial clauses and back-leaps.|Slawomir Pilarski,Gracia Hu|17|2|0|0
+141|Combining strengths of circuit-based and CNF-based algorithms for a high-performance SAT solver.|Malay K. Ganai,Pranav Ashar,Aarti Gupta,Lintao Zhang,Sharad Malik|133|22|5|20
+142|A solenoidal basis method for efficient inductance extraction.|Hemant Mahawar,Vivek Sarin,Weiping Shi|13|0|0|11
+143|On the efficacy of simplified 2D on-chip inductance models.|Tao Lin,Michael W. Beattie,Lawrence T. Pileggi|23|4|2|2
+144|A physical model for the transient response of capacitively loaded distributed rlc interconnects.|Raguraman Venkatesan,Jeffrey A. Davis,James D. Meindl|18|1|0|2
+145|HSpeedEx: a high-speed extractor for substrate noise analysis in complex mixed signal SOC.|Adil Koukab,Catherine Dehollain,Michel J. Declercq|5|1|0|2
+146|Combined BEM/FEM substrate resistance modeling.|Eelco Schrik,N. P. van der Meijs|50|21|0|4
+147|System design methodologies for a wireless security processing platform.|Srivaths Ravi,Anand Raghunathan,Nachiketh R. Potlapally,Murugan Sankaradass|77|16|1|16
+148|Constraint-driven communication synthesis.|Alessandro Pinto,Luca P. Carloni,Alberto L. Sangiovanni-Vincentelli|90|9|1|5
+149|Component-based design approach for multicore SoCs.|Wander O. Cesário,Amer Baghdadi,Lovic Gauthier,Damien Lyonnard,Gabriela Nicolescu,Yanick Paviot,Sungjoo Yoo,Ahmed Amine Jerraya,Mario Diaz-Nava|191|38|5|9
+150|Traffic analysis for on-chip networks design of multimedia applications.|Girish Varatkar,Radu Marculescu|138|57|0|4
+151|Deriving a simulation input generator and a coverage metric from a formal specification.|Kanna Shimizu,David L. Dill|78|14|1|0
+152|Hole analysis for functional coverage data.|Oded Lachish,Eitan Marcus,Shmuel Ur,Avi Ziv|62|15|5|12
+153|Effective safety property checking using simulation-based sequential ATPG.|Shuo Sheng,Koichiro Takayama,Michael S. Hsiao|16|0|0|5
+154|A comparison of three verification techniques: directed testing, pseudo-random testing and property checking.|Mike Bartley,Darren Galpin,Tim Blackmore|50|15|3|2
+155|Energy-efficient communication protocols.|Carla-Fabiana Chiasserini,Pavan Nuggehalli,Vikram Srinivasan|25|6|0|1
+156|Reliable and energy-efficient digital signal processing.|Naresh R. Shanbhag|55|38|0|1
+157|CMOS: a paradigm for low power wireless?|Michiel Steyaert,Peter J. Vancorenland|14|9|1|7
+158|TCG-S: orthogonal coupling of P*-admissible representations for general floorplans.|Jai-Ming Lin,Yao-Wen Chang|92|39|0|9
+159|Floorplanning with alignment and performance constraints.|Xiaoping Tang,D. F. Wong|59|12|1|6
+160|Algorithms for simultaneous satisfaction of multiple constraints and objective optimization in a placement flow with application to congestion control.|Ke Zhong,Shantanu Dutt|15|4|0|2
+161|Coping with buffer delay change due to power and ground noise.|Lauren Hui Chen,Malgorzata Marek-Sadowska,Forrest Brewer|36|13|0|2
+162|Osculating Thevenin model for predicting delay and slew of capacitively characterized cells.|Bernard N. Sheehan|13|6|2|1
+163|Timed pattern generation for noise-on-delay calculation.|Seung Hoon Choi,Kaushik Roy,Florentin Dartu|5|0|0|0
+164|VeriCDF: a new verification methodology for charged device failures.|Jaesik Lee,Ki-Wook Kim,Sung-Mo Kang|16|4|1|0
+165|A framework for evaluating design tradeoffs in packet processing architectures.|Lothar Thiele,Samarjit Chakraborty,Matthias Gries,Simon Künzli|109|35|0|22
+166|Energy estimation and optimization of embedded VLIW processors based on instruction clustering.|Andrea Bona,Mariagiovanna Sami,Donatella Sciuto,Vittorio Zaccaria,Cristina Silvano,Roberto Zafalon|63|7|0|6
+167|Energy exploration and reduction of SDRAM memory systems.|Yongsoo Joo,Yongseok Choi,Hojun Shim,Hyung Gyu Lee,Kwanho Kim,Naehyuck Chang|30|8|0|4
+168|Coordinated transformations for high-level synthesis of high performance microprocessor blocks.|Sumit Gupta,Nick Savoiu,Nikil D. Dutt,Rajesh K. Gupta,Alexandru Nicolau,Timothy Kam,Michael Kishinevsky,Shai Rotem|15|3|0|5
+169|Forward-looking objective functions: concept & applications in high level synthesis.|Jennifer L. Wong,Seapahn Megerian,Miodrag Potkonjak|7|1|0|0
+170|ILP-based engineering change.|Farinaz Koushanfar,Jennifer L. Wong,Jessica Feng,Miodrag Potkonjak|8|0|0|1

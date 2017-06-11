@@ -1,0 +1,67 @@
+66
+1|Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics, July 6-12, 2002, Philadelphia, PA, USA.|n/a
+2|Parameter Estimation for Probabilistic Finite-State Transducers.|Jason Eisner|137|71|3|17
+3|Sequential Conditional Generalized Iterative Scaling.|Joshua Goodman|84|34|4|3
+4|Generation as Dependency Parsing.|Alexander Koller,Kristina Striegnitz|64|17|0|10
+5|Machine-learned contexts for linguistic operations in German sentence realization.|Michael Gamon,Eric K. Ringger,Simon Corston-Oliver,Robert C. Moore|14|0|0|5
+6|Performance Issues and Error Analysis in an Open-Domain Question Answering System.|Dan I. Moldovan,Marius Pasca,Sanda M. Harabagiu,Mihai Surdeanu|278|87|8|7
+7|Learning surface text patterns for a Question Answering System.|Deepak Ravichandran,Eduard H. Hovy|833|352|3|18
+8|OT Syntax - Decidability of Generation-based Optimization.|Jonas Kuhn|7|2|0|1
+9|Phonological Comprehension and the Compilation of Optimality Theory.|Jason Eisner|19|9|0|2
+10|Generalized Encoding of Description Spaces and its Application to Typed Feature Structures.|Gerald Penn|3|1|0|2
+11|Ellipsis Resolution with Underspecified Scope.|Michael Schiehlen|9|0|0|0
+12|Resolving Pronominal Reference to Abstract Entities.|Donna K. Byron|137|54|0|4
+13|Pronominalization in Generated Discourse and Dialogue.|Charles B. Callaway,James C. Lester|23|9|0|2
+14|Generating Minimal Definite Descriptions.|Claire Gardent|94|36|0|1
+15|Improving Machine Learning Approaches to Coreference Resolution.|Vincent Ng,Claire Gardent|635|310|0|31
+16|Parsing non-recursive CFGs.|Mark-Jan Nederhof,Giorgio Satta|n/a
+17|Active Learning for Statistical Natural Language Parsing.|Min Tang,Xiaoqiang Luo,Salim Roukos|163|86|3|2
+18|A Generative Constituent-Context Model for Improved Grammar Induction.|Dan Klein,Christopher D. Manning|199|101|0|7
+19|A Simple Pattern-matching Algorithm for Recovering Empty Nodes and their Antecedents.|Mark Johnson|103|36|0|0
+20|Pronunciation Modeling for Improved Spelling Correction.|Kristina Toutanova,Robert C. Moore|150|96|2|0
+21|Measuring Text Reuse.|Paul D. Clough,Robert J. Gaizauskas,Scott Songlin Piao,Yorick Wilks|107|71|0|9
+22|Semi-Supervised Maximum Entropy Based Approach to Acronym and Abbreviation Normalization in Medical Texts.|Sergey V. Pakhomov|121|54|1|4
+23|A framework and graphical development environment for robust NLP tools and applications.|Hamish Cunningham,Diana Maynard,Kalina Bontcheva,Valentin Tablan|1830|870|3|116
+24|Improving Language Model Size Reduction using Better Pruning Criteria.|Jianfeng Gao,Min Zhang|25|13|0|1
+25|Exploring Asymmetric Clustering for Statistical Language Modeling.|Jianfeng Gao,Joshua Goodman,Guihong Cao,Hang Li|17|6|1|3
+26|A Study on Richer Syntactic Dependencies for Structured Language Modeling.|Peng Xu,Ciprian Chelba,Frederick Jelinek|47|11|0|7
+27|Entropy Rate Constancy in Text.|Dmitriy Genzel,Eugene Charniak|103|84|2|1
+28|A Multilingual Paradigm for Automatic Verb Classification.|Paola Merlo,Suzanne Stevenson,Vivian Tsang,Gianluca Allaria|47|31|0|2
+29|Verb Paraphrase based on Case Frame Alignment.|Nobuhiro Kaji,Daisuke Kawahara,Sadao Kurohashi,Satoshi Sato|41|15|0|8
+30|Inducing German Semantic Verb Classes from Purely Syntactic Subcategorisation Information.|Sabine Schulte im Walde,Chris Brew|85|38|0|4
+31|Scaling Context Space.|James R. Curran,Marc Moens|75|34|1|9
+32|The Necessity of Parsing for Predicate Argument Recognition.|Daniel Gildea,Martha Stone Palmer|236|76|0|13
+33|The Descent of Hierarchy, and Selection in Relational Semantics.|Barbara Rosario,Marti A. Hearst,Charles J. Fillmore|72|20|0|5
+34|An Unsupervised Method for Word Sense Tagging using Parallel Corpora.|Mona T. Diab,Philip Resnik|232|100|1|9
+35|New Ranking Algorithms for Parsing and Tagging: Kernels over Discrete Structures, and the Voted Perceptron.|Michael Collins,Nigel Duffy|536|251|2|10
+36|Parsing the Wall Street Journal using a Lexical-Functional Grammar and Discriminative Estimation Techniques.|Stefan Riezler,Tracy H. King,Ronald M. Kaplan,Richard S. Crouch,John T. Maxwell III,Mark Johnson|302|98|1|38
+37|Dynamic programming for parsing and estimation of stochastic unification-based grammars.|Stuart Geman,Mark Johnson|69|20|1|1
+38|Markov Parsing: Lattice Rescoring with a Statistical Parser.|Brian Roark|21|7|0|1
+39|Discriminative Training and Maximum Entropy Models for Statistical Machine Translation.|Franz Josef Och,Hermann Ney|1072|518|22|59
+40|A Decoder for Syntax-based Statistical MT.|Kenji Yamada,Kevin Knight|164|71|4|9
+41|Bleu: a Method for Automatic Evaluation of Machine Translation.|Kishore Papineni,Salim Roukos,Todd Ward,Wei-Jing Zhu|5361|3300|31|5
+42|Coupling CCG and Hybrid Logic Dependency Semantics.|Jason Baldridge,Geert-Jan M. Kruijff|118|41|0|32
+43|Building Deep Dependency Structures using a Wide-Coverage CCG Parser.|Stephen Clark,Julia Hockenmaier,Mark Steedman|98|35|0|21
+44|Generative Models for Statistical Parsing with Combinatory Categorial Grammar.|Julia Hockenmaier,Mark Steedman|177|65|0|29
+45|Word Translation Disambiguation Using Bilingual Bootstrapping.|Cong Li,Hang Li|110|25|2|6
+46|Applying Co-Training to Reference Resolution.|Christoph Müller,Stefan Rapp,Michael Strube|93|26|1|3
+47|Bootstrapping.|Steven P. Abney|n/a
+48|An Unsupervised Approach to Recognizing Discourse Relations.|Daniel Marcu,Abdessamad Echihabi|323|169|0|0
+49|MATCH: An Architecture for Multimodal Dialogue Systems.|Michael Johnston,Srinivas Bangalore,Gunaranjan Vasireddy,Amanda Stent,Patrick Ehlen,Marilyn A. Walker,Steve Whittaker,Preetam Maloor|240|78|3|30
+50|What's the Problem: Automatically Identifying Problematic Dialogues in DARPA Communicator Dialogue Systems.|Helen Wright Hastie,Rashmi Prasad,Marilyn A. Walker|18|6|0|0
+51|Evaluating Translational Correspondence using Annotation Projection.|Rebecca Hwa,Philip Resnik,Amy Weinberg,Okan Kolak|116|41|0|19
+52|Translating Named Entities Using Monolingual and Bilingual Resources.|Yaser Al-Onaizan,Kevin Knight|250|116|12|3
+53|Using Similarity Scoring to Improve the Bilingual Dictionary for Sub-sentential Alignment.|Katharina Probst,Ralf D. Brown|9|2|0|0
+54|Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews.|Peter D. Turney|3611|2660|13|2
+55|Is It the Right Answer? Exploiting Web Redundancy for Answer Validation.|Bernardo Magnini,Matteo Negri,Roberto Prevete,Hristo Tanev|190|59|1|13
+56|Shallow Parsing on the Basis of Words Only: A Case Study.|Antal van den Bosch,Sabine Buchholz|29|7|0|4
+57|An Integrated Archictecture for Shallow and Deep Processing.|Berthold Crysmann,Anette Frank,Bernd Kiefer,Stefan Mueller,Günter Neumann,Jakub Piskorski,Ulrich Schäfer,Melanie Siegel,Hans Uszkoreit,Feiyu Xu,Markus Becker,Hans-Ulrich Krieger|72|14|1|9
+58|A Noisy-Channel Model for Document Compression.|Hal Daumé III,Daniel Marcu|75|44|0|6
+59|From Single to Multi-document Summarization.|Chin-Yew Lin,Eduard H. Hovy|n/a
+60|Supervised Ranking in Open-Domain Text Summarization.|Tadashi Nomoto,Yuji Matsumoto|4|1|0|1
+61|Named Entity Recognition using an HMM-based Chunk Tagger.|Guodong Zhou,Jian Su|466|240|6|21
+62|Teaching a Weaker Classifier: Named Entity Recognition on Upper Case Text.|Hai Leong Chieu,Hwee Tou Ng|9|0|0|0
+63|Ranking Algorithms for Named Entity Extraction: Boosting and the Voted Perceptron.|Michael Collins|262|107|7|7
+64|Revision Learning and its Application to Part-of-Speech Tagging.|Tetsuji Nakagawa,Taku Kudo,Yuji Matsumoto|30|7|0|7
+65|An Empirical Study of Active Learning with Support Vector Machines for Japanese Word Segmentation.|Manabu Sassano|68|34|2|2
+66|Memory-Based Learning of Morphology with Stochastic Transducers.|Alexander Clark|31|12|0|4

@@ -1,0 +1,75 @@
+74
+1|46th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2005), 23-25 October 2005, Pittsburgh, PA, USA, Proceedings.|n/a
+2|FOCS 2005 - Title Page.|n/a
+3|FOCS 2005 - Copyright.|n/a
+4|Foreword.|n/a
+5|Committees.|n/a
+6|Best Paper Awards.|n/a
+7|Machtey Award.|n/a
+8|Knuth Prize.|n/a
+9|Reviewers.|n/a
+10|Corporate Sponsors.|n/a
+11|On the Unique Games Conjecture.|Subhash Khot|78|66|0|5
+12|Algorithmic Techniques and Tools from Computational Geometry.|Bernard Chazelle|1|1|0|0
+13|Agnostically Learning Halfspaces.|Adam Tauman Kalai,Adam R. Klivans,Yishay Mansour,Rocco A. Servedio|139|98|0|24
+14|Noise stability of functions with low in.uences invariance and optimality.|Elchanan Mossel,Ryan O'Donnell,Krzysztof Oleszkiewicz|n/a
+15|Every decision tree has an in.uential variable.|Ryan O'Donnell,Michael E. Saks,Oded Schramm,Rocco A. Servedio|n/a
+16|Lower Bounds for the Noisy Broadcast Problem.|Navin Goyal,Guy Kindler,Michael E. Saks|38|24|0|0
+17|The Unique Games Conjecture, Integrality Gap for Cut Problems and Embeddability of Negative Type Metrics into l1.|Subhash Khot,Nisheeth K. Vishnoi|251|142|0|6
+18|The Closest Substring problem with small distances.|Dániel Marx|60|37|0|8
+19|Fitting tree metrics: Hierarchical clustering and Phylogeny.|Nir Ailon,Moses Charikar|44|21|0|7
+20|Metric Embeddings with Relaxed Guarantees.|Ittai Abraham,Yair Bartal,Hubert T.-H. Chan,Kedar Dhamdhere,Anupam Gupta,Jon M. Kleinberg,Ofer Neiman,Aleksandrs Slivkins|76|39|0|7
+21|Nonembeddability theorems via Fourier analysis.|Subhash Khot,Assaf Naor|69|46|0|12
+22|On the Complexity of Two-PlayerWin-Lose Games.|Timothy G. Abbott,Daniel M. Kane,Paul Valiant|60|33|0|3
+23|Nash Equilibria in Random Games.|Imre Bárány,Santosh Vempala,Adrian Vetta|53|32|0|5
+24|Query Incentive Networks.|Jon M. Kleinberg,Prabhakar Raghavan|102|68|0|12
+25|Sink Equilibria and Convergence.|Michel X. Goemans,Vahab S. Mirrokni,Adrian Vetta|174|92|0|13
+26|On the Complexity of Real Functions.|Mark Braverman|43|22|0|7
+27|Linear Lower Bounds on Real-World Implementations of Concurrent Objects.|Faith Ellen Fich,Danny Hendler,Nir Shavit|29|19|0|10
+28|Towards a Final Analysis of Pairing Heaps.|Seth Pettie|35|20|0|2
+29|Structuring labeled trees for optimal succinctness, and beyond.|Paolo Ferragina,Fabrizio Luccio,Giovanni Manzini,S. Muthukrishnan|113|50|1|13
+30|Approximation Algorithms for Unique Games.|Luca Trevisan|81|52|0|3
+31|On Non-Approximability for Quadratic Programs.|Sanjeev Arora,Eli Berger,Elad Hazan,Guy Kindler,Muli Safra|49|34|0|1
+32|Hardness of Approximating the Closest Vector Problem with Pre-Processing.|Mikhail Alekhnovich,Subhash Khot,Guy Kindler,Nisheeth K. Vishnoi|23|14|0|4
+33|Hardness of the Undirected Edge-Disjoint Paths Problem with Congestion.|Matthew Andrews,Julia Chuzhoy,Sanjeev Khanna,Lisa Zhang|70|26|0|10
+34|A Recursive Greedy Algorithm for Walks in Directed Graphs.|Chandra Chekuri,Martin Pál|110|88|1|4
+35|Approximation Algorithms for Scheduling on Multiple Machines.|V. S. Anil Kumar,Madhav V. Marathe,Srinivasan Parthasarathy,Aravind Srinivasan|26|10|0|1
+36|AdWords and Generalized On-line Matching.|Aranyak Mehta,Amin Saberi,Umesh V. Vazirani,Vijay V. Vazirani|436|284|4|17
+37|The Parking Permit Problem.|Adam Meyerson|35|26|0|1
+38|Correcting Errors Beyond the Guruswami-Sudan Radius in Polynomial Time.|Farzad Parvaresh,Alexander Vardy|158|80|0|4
+39|Error Correction via Linear Programming.|Emmanuel J. Candès,Mark Rudelson,Terence Tao,Roman Vershynin|247|148|1|4
+40|Error-Correcting Codes for Automatic Control.|Rafail Ostrovsky,Yuval Rabani,Leonard J. Schulman|25|25|0|1
+41|Almost Orthogonal Linear Codes are Locally Testable.|Tali Kaufman,Simon Litsyn|41|26|1|15
+42|On Delsarte's Linear Programming Bounds for Binary Codes.|Michael Navon,Alex Samorodnitsky|9|4|0|4
+43|Fast Algorithms for Approximate Semide.nite Programming using the Multiplicative Weights Update Method.|Sanjeev Arora,Elad Hazan,Satyen Kale|n/a
+44|Improved Smoothed Analysis of the Shadow Vertex Simplex Method.|Amit Deshpande,Daniel A. Spielman|18|8|0|1
+45|Sampling-based Approximation Algorithms for Multi-stage Stochastic.|Chaitanya Swamy,David B. Shmoys|76|40|0|10
+46|How to Pay, Come What May: Approximation Algorithms for Demand-Robust Covering Problems.|Kedar Dhamdhere,Vineet Goyal,R. Ravi,Mohit Singh|63|40|0|8
+47|Group-theoretic Algorithms for Matrix Multiplication.|Henry Cohn,Robert D. Kleinberg,Balázs Szegedy,Christopher Umans|175|111|2|4
+48|Answering distance queries in directed graphs using fast matrix multiplication.|Raphael Yuster,Uri Zwick|24|15|0|3
+49|A Randomness-Efficient Sampler for Matrix-valued Functions and Applications.|Avi Wigderson,David Xiao|14|4|0|4
+50|Deterministic Extractors for Affine Sources over Large Fields.|Ariel Gabizon,Ran Raz|76|53|0|10
+51|Additive Approximation for Edge-Deletion Problems.|Noga Alon,Asaf Shapira,Benny Sudakov|34|13|0|11
+52|A Characterization of the (natural) Graph Properties Testable with One-Sided Error.|Noga Alon,Asaf Shapira|166|96|0|26
+53|An Algorithmic Version of the Hypergraph Regularity Method.|Penny E. Haxell,Brendan Nagle,Vojtech Rödl|21|10|0|11
+54|Cryptography In the Bounded Quantum-Storage Model.|Ivan Damgård,Serge Fehr,Louis Salvail,Christian Schaffner|140|98|2|18
+55|Quantum Information and the PCP Theorem.|Ran Raz|18|2|0|1
+56|From optimal measurement to efficient quantum algorithms for the hidden subgroup problem over semidirect product groups.|Dave Bacon,Andrew M. Childs,Wim van Dam|108|44|0|12
+57|The Symmetric Group Defies Strong Fourier Sampling.|Cristopher Moore,Alexander Russell,Leonard J. Schulman|67|25|0|21
+58|On Learning Mixtures of Heavy-Tailed Distributions.|Anirban Dasgupta,John E. Hopcroft,Jon M. Kleinberg,Mark Sandler|51|24|0|1
+59|Learning mixtures of product distributions over discrete domains.|Jon Feldman,Ryan O'Donnell,Rocco A. Servedio|61|37|0|8
+60|A general lower bound for mixing of single-site dynamics on graphs.|Thomas P. Hayes,Alistair Sinclair|36|27|0|5
+61|Analysis and Prediction of the Long-Run Behavior of Probabilistic Sequential Programs with Recursion (Extended Abstract).|Tomás Brázdil,Javier Esparza,Antonín Kucera|31|12|0|4
+62|Safraless Decision Procedures.|Orna Kupferman,Moshe Y. Vardi|n/a
+63|How To Play Almost Any Mental Game Over The Net - Concurrent Composition via Super-Polynomial Simulation.|Boaz Barak,Amit Sahai|77|48|0|10
+64|On the Impossibility of Obfuscation with Auxiliary Input.|Shafi Goldwasser,Yael Tauman Kalai|175|102|0|15
+65|Concurrent Non-Malleable Commitments.|Rafael Pass,Alon Rosen|n/a
+66|The Complexity of Online Memory Checking.|Moni Naor,Guy N. Rothblum|114|91|5|5
+67|Rational Secure Computation and Ideal Mechanism Design.|Sergei Izmalkov,Silvio Micali,Matt Lepinski|121|83|1|8
+68|Truthful and Near-Optimal Mechanism Design via Linear Programming.|Ron Lavi,Chaitanya Swamy|216|152|0|15
+69|Mechanism Design via Machine Learning.|Maria-Florina Balcan,Avrim Blum,Jason D. Hartline,Yishay Mansour|90|46|2|15
+70|Beyond VCG: Frugality of Truthful Mechanisms.|Anna R. Karlin,David Kempe,Tami Tamir|98|56|0|8
+71|An Approximation Algorithm for the Disjoint Paths Problem in Even-Degree Planar Graphs.|Jon M. Kleinberg|35|18|0|0
+72|Algorithmic Graph Minor Theory: Decomposition, Approximation, and Coloring.|Erik D. Demaine,Mohammad Taghi Hajiaghayi,Ken-ichi Kawarabayashi|149|93|0|15
+73|A linear-time approximation scheme for planar weighted TSP.|Philip N. Klein|n/a
+74|A Tale of Two Dimensional Bin Packing.|Nikhil Bansal,Andrea Lodi,Maxim Sviridenko|24|12|0|5

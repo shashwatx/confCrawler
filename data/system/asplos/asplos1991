@@ -1,0 +1,30 @@
+29
+1|ASPLOS-IV Proceedings - Forth International Conference on Architectural Support for Programming Languages and Operating Systems, Santa Clara, California, USA, April 8-11, 1991.|David A. Patterson|n/a
+2|A Variable Instruction Stream Extension to the VLIW Architecture.|Andrew Wolfe,John Paul Shen|104|8|7|5
+3|Reducing the Branch Penalty by Rearranging Instructions in Double-Width Memory.|Manolis Katevenis,Nestoras Tzartzanis|9|2|0|0
+4|The Floating-Point Performance of a Superscalar SPARC Processor.|Roland L. Lee,Alex Y. Kwok,Faye A. Briggs|23|3|0|0
+5|Software Prefetching.|David Callahan,Ken Kennedy,Allan Porterfield|571|68|16|1
+6|High-Bandwidth Data Memory Systems for Superscalar Processors.|Gurindar S. Sohi,Manoj Franklin|230|22|2|10
+7|The Cache Performance and Optimizations of Blocked Algorithms.|Monica S. Lam,Edward E. Rothberg,Michael E. Wolf|1107|200|9|4
+8|The Effect of Context Switches on Cache Performance.|Jeffrey C. Mogul,Anita Borg|279|50|1|4
+9|A Portable Interface for On-the-Fly Instruction Space Modifiction.|David Keppel|49|7|16|3
+10|Virtual Memory Primitives for User Programs.|Andrew W. Appel,Kai Li|271|32|6|5
+11|The Interaction of Architecture and Operating System Design.|Thomas E. Anderson,Henry M. Levy,Brian N. Bershad,Edward D. Lazowska|278|13|3|16
+12|Integrating Register Allocation and Instruction Scheduling for RISCs.|David G. Bradlee,Susan J. Eggers,Robert R. Henry|194|19|3|4
+13|Code Generation for Streaming: An Access/Execute Mechanism.|Manuel E. Benitez,Jack W. Davidson|69|0|2|6
+14|Efficient Implementation of High Level Parallel Programs.|Rajive L. Bagrodia,Sharad Mathur|17|0|0|4
+15|Vector Register Design for Polycyclic Vector Scheduling.|William H. Mangione-Smith,Santosh G. Abraham,Edward S. Davidson|24|1|0|3
+16|Fine-Grain Parallelism with Minimal Hardware Support: A Compiler-Controlled Threaded Abstract Machine.|David E. Culler,Anurag Sah,Klaus E. Schauser,Thorsten von Eicken,John Wawrzynek|375|24|1|12
+17|Limits of Instruction-Level Parallelism.|David W. Wall|893|183|17|1
+18|Performance Consequences of Parity Placement in Disk Arrays.|Edward K. Lee,Randy H. Katz|104|11|4|7
+19|Integration of Compression and Caching for a Two-Level File System.|Vincent Cate,Thomas R. Gross|71|17|1|0
+20|NUMA Policies and Their Relation to Memory Architecture.|William J. Bolosky,Michael L. Scott,Robert P. Fitzgerald,Robert J. Fowler,Alan L. Cox|138|25|5|13
+21|LimitLESS Directories: A Scalable Cache Coherence Scheme.|David Chaiken,John Kubiatowicz,Anant Agarwal|422|66|16|36
+22|An Efficient Cache-Based Access Anomaly Detection Scheme.|Sang Lyul Min,Jong-Deok Choi|99|42|1|3
+23|Performance Evaluation of Memory Consistency Models for Shared Memory Multiprocessors.|Kourosh Gharachorloo,Anoop Gupta,John L. Hennessy|293|33|3|20
+24|Process Coordination with Fetch-and-Increment.|Eric Freudenthal,Allan Gottlieb|54|13|1|2
+25|Synchronization without Contention.|John M. Mellor-Crummey,Michael L. Scott|172|44|9|5
+26|The Case for a Read Barrier.|Douglas Johnson|20|0|0|0
+27|An Analysis of SPARC and MIPS Instruction Set Utilization on the SPEC Benchmarks.|Robert F. Cmelik,Shing I. Kong,David R. Ditzel,Edmund J. Kelly|67|5|0|0
+28|Performance Characteristics of Architectural Features of the IBM RISC System/6000.|C. Brian Hall,Kevin O'Brien|25|0|0|0
+29|Performance From Architecture: Comparing a RISC and CISC with Similar Hardware Organization.|Dileep Bhandarkar,Douglas W. Clark|58|14|0|3

@@ -1,0 +1,78 @@
+77
+1|EDBT 2008, 11th International Conference on Extending Database Technology, Nantes, France, March 25-29, 2008, Proceedings.|Alfons Kemper,Patrick Valduriez,Noureddine Mouaddib,Jens Teubner,Mokrane Bouzeghoub,Volker Markl,Laurent Amsaleg,Ioana Manolescu|n/a
+2|Reality check: a case study of an EII research prototype encountering customer needs.|Eric Simon|5|3|0|0
+3|Biocomputational puzzles: data, algorithms, and visualization.|Dennis Shasha|0|0|0|0
+4|Building web applications without a database system.|Donald Kossmann|7|5|0|2
+5|P2P systems with transactional semantics.|Shyam Antony,Divyakant Agrawal,Amr El Abbadi|12|9|0|0
+6|Summary management in P2P systems.|Rabab Hayek,Guillaume Raschia,Patrick Valduriez,Noureddine Mouaddib|22|16|0|2
+7|Semantic peer, here are the neighbors you want!|Wilma Penzo,Stefano Lodi,Federica Mandreoli,Riccardo Martoglia,Simona Sassatelli|46|32|0|8
+8|Scalable XQuery type matching.|Jens Teubner|8|5|0|2
+9|Engineering succinct DOM.|O'Neil Delpratt,Rajeev Raman,Naila Rahman|15|10|0|7
+10|Revisiting redundancy and minimization in an XPath fragment.|Benny Kimelfeld,Yehoshua Sagiv|29|14|0|3
+11|Schema merging and mapping creation for relational sources.|Rachel Pottinger,Philip A. Bernstein|53|45|0|2
+12|Schema mapping verification: the spicy way.|Angela Bonifati,Giansalvatore Mecca,Alessandro Pappalardo,Salvatore Raunich,Gianvito Summa|73|54|0|13
+13|SeMap: a generic mapping construction system.|Ting Wang,Rachel Pottinger|14|10|0|2
+14|Deleting index entries from compliance storage.|Soumyadeb Mitra,Marianne Winslett,Nikita Borisov|10|6|0|2
+15|Online recovery in cluster databases.|WeiBin Liang,Bettina Kemme|16|6|0|1
+16|A concurrency control protocol for parallel B-tree structures without latch-coupling for explosively growing digital content.|Tomohiro Yoshihara,Dai Kobayashi,Haruo Yokota|5|5|0|4
+17|Robustness in automatic physical database design.|Kareem El Gebaly,Ashraf Aboulnaga|31|22|0|0
+18|Self-organizing strategies for a column-store database.|Milena Ivanova,Martin L. Kersten,Niels Nes|22|21|1|1
+19|Load distribution of analytical query workloads for database cluster architectures.|Thomas Phan,Wen-Syan Li|6|5|0|2
+20|A novel spectral coding in a large graph database.|Lei Zou,Lei Chen,Jeffrey Xu Yu,Yansheng Lu|105|93|0|15
+21|Fast computing reachability labelings for large graphs with high compression rate.|Jiefeng Cheng,Jeffrey Xu Yu,Xuemin Lin,Haixun Wang,Philip S. Yu|78|72|0|19
+22|Finding time-dependent shortest paths over large graphs.|Bolin Ding,Jeffrey Xu Yu,Lu Qin|147|131|4|1
+23|Taxonomy-superimposed graph mining.|Ali Cakmak,Gultekin Özsoyoglu|14|12|0|1
+24|Compacting music signatures for efficient music retrieval.|Bin Cui,H. V. Jagadish,Beng Chin Ooi,Kian-Lee Tan|11|7|0|0
+25|Indexing high-dimensional data in dual distance spaces: a symmetrical encoding approach.|Yi Zhuang,Yueting Zhuang,Qing Li,Lei Chen,Yi Yu|15|14|0|0
+26|The TS-tree: efficient time series search and retrieval.|Ira Assent,Ralph Krieger,Farzad Afschari,Thomas Seidl|53|44|0|5
+27|Anonymity for continuous data publishing.|Benjamin C. M. Fung,Ke Wang,Ada Wai-Chee Fu,Jian Pei|102|75|0|17
+28|Ownership protection of shape datasets with geodesic distance preservation.|Michail Vlachos,Claudio Lucchese,Deepak Rajan,Philip S. Yu|4|4|0|3
+29|Zerber: r-confidential indexing for distributed documents.|Sergej Zerr,Elena Demidova,Daniel Olmedilla,Wolfgang Nejdl,Marianne Winslett,Soumyadeb Mitra|37|31|0|2
+30|XCraft: boosting the performance of active XML materialization.|Gabriela Ruberg,Marta Mattoso|20|14|0|2
+31|Exact and inexact methods for selecting views and indexes for OLAP performance improvement.|Zohreh Asgharzadeh Talebi,Rada Chirkova,Yahya Fathi,Matthias F. Stallmann|37|21|0|7
+32|Providing freshness guarantees for outsourced databases.|Min Xie,Haixun Wang,Jian Yin,Xiaofeng Meng|52|47|0|3
+33|Dynamic skyline queries in metric spaces.|Lei Chen,Xiang Lian|60|48|0|5
+34|Fast contextual preference scoring of database tuples.|Kostas Stefanidis,Evaggelia Pitoura|45|37|0|6
+35|Efficient online top-K retrieval with arbitrary similarity measures.|Prasad M. Deshpande,Deepak Padmanabhan,Krishna Kummamuru|26|20|1|6
+36|Mining all frequent projection-selection queries from a relational table.|Tao-Yuan Jen,Dominique Laurent,Nicolas Spyratos|18|14|0|10
+37|Cost-based query optimization for complex pattern mining on multiple databases.|Ruoming Jin,David Fuhry,Abdulkareem Alali|2|1|0|1
+38|On-line discovery of hot motion paths.|Dimitris Sacharidis,Kostas Patroumpas,Manolis Terrovitis,Verena Kantere,Michalis Potamias,Kyriakos Mouratidis,Timos K. Sellis|45|39|0|2
+39|Schema polynomials and applications.|Kenneth A. Ross,Julia Stoyanovich|0|0|0|0
+40|Expressive query specification through form customization.|Magesh Jayapandian,H. V. Jagadish|65|56|0|5
+41|Synthesizing structured text from logical database subsets.|Alkis Simitsis,Georgia Koutrika,Yannis Alexandrakis,Yannis E. Ioannidis|12|8|0|8
+42|HISSCLU: a hierarchical density-based method for semi-supervised clustering.|Christian Böhm,Claudia Plant|30|25|0|3
+43|Processing transitive nearest-neighbor queries in multi-channel access environments.|Xiao Zhang,Wang-Chien Lee,Prasenjit Mitra,Baihua Zheng|12|10|0|0
+44|Multi-dimensional search for personal information management systems.|Christopher Peery,Wei Wang,Amélie Marian,Thu D. Nguyen|27|19|1|6
+45|Ensuring correctness over untrusted private database.|Sarvjeet Singh,Sunil Prabhakar|13|10|0|3
+46|Data exchange in the presence of arithmetic comparisons.|Foto N. Afrati,Chen Li,Vassia Pavlaki|17|11|0|2
+47|SPARQLing constraints for RDF.|Georg Lausen,Michael Meier,Michael Schmidt|64|50|0|8
+48|Probabilistic ranked queries in uncertain databases.|Xiang Lian,Lei Chen|94|69|0|13
+49|The SBC-tree: an index for run-length compressed sequences.|Mohamed Y. Eltabakh,Wing-Kai Hon,Rahul Shah,Walid G. Aref,Jeffrey Scott Vitter|21|16|0|2
+50|Efficient LCA based keyword search in XML data.|Yu Xu,Yannis Papakonstantinou|140|122|1|4
+51|Querying time-series streams.|Vivekanand Gopalkrishnan|2|2|0|0
+52|Optimizing on-demand data broadcast scheduling in pervasive environments.|Rinku Dewri,Indrakshi Ray,Indrajit Ray,Darrell Whitley|23|18|0|3
+53|On the brink: searching for drops in sensor data.|Gong Chen,Junghoo Cho,Mark H. Hansen|2|0|0|0
+54|A stratified approach to progressive approximate joins.|Wee Hyong Tok,Stéphane Bressan,Mong-Li Lee|7|3|0|0
+55|Continuous multi-way joins over distributed hash tables.|Stratos Idreos,Erietta Liarou,Manolis Koubarakis|21|11|0|2
+56|Ring-constrained join: deriving fair middleman locations from pointsets via a geometric constraint.|Man Lung Yiu,Panagiotis Karras,Nikos Mamoulis|6|6|0|1
+57|Why go logarithmic if we can go linear?: Towards effective distinct counting of search traffic.|Ahmed Metwally,Divyakant Agrawal,Amr El Abbadi|33|27|1|2
+58|Automatic content targeting on mobile phones.|Giovanni Giuffrida,Catarina Sismeiro,Giuseppe Tribulato|5|3|0|0
+59|BI batch manager: a system for managing batch workloads on enterprise data-warehouses.|Abhay Mehta,Chetan Gupta,Umeshwar Dayal|26|24|2|1
+60|Data challenges at Yahoo!|Ricardo A. Baeza-Yates,Raghu Ramakrishnan|16|12|0|0
+61|OrthoCluster: a new tool for mining synteny blocks and applications in comparative genomics.|Xinghuo Zeng,Matthew J. Nesbitt,Jian Pei,Ke Wang,Ismael A. Vergara,Nansheng Chen|24|19|0|7
+62|Social ties and their relevance to churn in mobile telecom networks.|Koustuv Dasgupta,Rahul Singh,Balaji Viswanathan,Dipanjan Chakraborty,Sougata Mukherjea,Amit Anil Nanavati,Anupam Joshi|239|208|2|1
+63|Highly scalable trip grouping for large-scale collective transportation systems.|Gyözö Gidófalvi,Torben Bach Pedersen,Tore Risch,Erik Zeitler|27|23|0|2
+64|Data services in your spreadsheet!|Régis Saint-Paul,Boualem Benatallah,Julien Vayssière|11|7|0|3
+65|BeMatch: a platform for matchmaking service behavior models.|Juan Carlos Corrales,Daniela Grigori,Mokrane Bouzeghoub,Javier Ernesto Burbano|29|22|0|11
+66|The TELAR mobile mashup platform for Nokia internet tablets.|Andreas Brodt,Daniela Nicklas|41|33|1|1
+67|MCSE: a multimedia context-based security engine.|Bechara al Bouna,Richard Chbeir|0|0|0|0
+68|iDataGuard: middleware providing a secure network drive interface to untrusted internet data storage.|Ravi Chandra Jammalamadaka,Roberto Gamboni,Sharad Mehrotra,Kent E. Seamons,Nalini Venkatasubramanian|15|10|2|3
+69|ACCOn: checking consistency of XML write-access control policies.|Loreto Bravo,James Cheney,Irini Fundulaki|14|13|0|3
+70|Flint: Google-basing the Web.|Lorenzo Blanco,Valter Crescenzi,Paolo Merialdo,Paolo Papotti|15|12|0|5
+71|Mine your own business, mine others' news!|Quang-Khai Pham,Régis Saint-Paul,Boualem Benatallah,Noureddine Mouaddib,Guillaume Raschia|2|1|0|0
+72|BioScout: a life-science query monitoring system.|Anastasios Kementsietsidis,Frank Neven,Dieter Van de Craen|3|0|0|2
+73|BIBEX: a bibliographic exploration tool based on the DEX graph query engine.|Sergio Gómez-Villamor,Gerard Soldevila-Miranda,Aleix Giménez-Vañó,Norbert Martínez-Bazan,Victor Muntés-Mulero,Josep-Lluis Larriba-Pey|9|8|0|0
+74|An inductive database and query language in the relational model.|Lothar Richter,Jörg Wicker,Kristina Kessler,Stefan Kramer|6|3|0|3
+75|Streaming in a connected world: querying and tracking distributed data streams.|Graham Cormode,Minos N. Garofalakis|44|26|0|7
+76|Virtualization and databases: state of the art and research challenges.|Ashraf Aboulnaga,Cristiana Amza,Kenneth Salem|14|11|0|1
+77|Quality of service and predictability in DBMS.|Kai-Uwe Sattler,Wolfgang Lehner|2|2|0|1

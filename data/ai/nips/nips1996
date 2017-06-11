@@ -1,0 +1,25 @@
+24
+1|Neural Networks: Tricks of the Trade, this book is an outgrowth of a 1996 NIPS workshop.|Genevieve B. Orr,Klaus-Robert Müller|n/a
+2|Introduction.|Genevieve B. Orr,Klaus-Robert Müller|n/a
+3|Speeding Learning: Preface.|Genevieve B. Orr,Klaus-Robert Müller|n/a
+4|Effiicient BackProp.|Yann LeCun,Léon Bottou,Genevieve B. Orr,Klaus-Robert Müller|n/a
+5|Regularization Techniques to Improve Generalization: Preface.|Genevieve B. Orr,Klaus-Robert Müller|0|0|0|0
+6|Early Stopping-But When?|Lutz Prechelt|193|103|0|0
+7|A Simple Trick for Estimating the Weight Decay Parameter.|Thorsteinn S. Rögnvaldsson|13|4|0|0
+8|Controling the Hyperparameter Search in MacKay's Bayesian Neural Network Framework.|Tony Plate|6|2|0|0
+9|Adaptive Regularization in Neural Network Modeling.|Jan Larsen,Claus Svarer,Lars Nonboe Andersen,Lars Kai Hansen|54|13|0|4
+10|Large Ensemble Averaging.|David Horn,Ury Naftaly,Nathan Intrator|2|0|0|0
+11|Improving Network Models and Algorithmic Tricks: Preface.|Genevieve B. Orr,Klaus-Robert Müller|0|0|0|0
+12|Square Unit Augmented, Radially Extended, Multilayer Perceptrons.|Gary William Flake|56|6|0|1
+13|A Dozen Tricks with Multitask Learning.|Rich Caruana|11|4|0|0
+14|Solving the Ill-Conditioning in Neural Network Learning.|P. Patrick van der Smagt,Gerd Hirzinger|24|6|0|7
+15|Centering Neural Network Gradient Factors.|Nicol N. Schraudolph|24|10|0|2
+16|Avoiding Roundoff Error in Backpropagating Derivatives.|Tony Plate|n/a
+17|Representing and Incorporating Prior Knowledge in Neural Network Training: Preface.|Genevieve B. Orr,Klaus-Robert Müller|0|0|0|0
+18|Transformation Invariance in Pattern Recognition-Tangent Distance and Tangent Propagation.|Patrice Y. Simard,Yann LeCun,John S. Denker,Bernard Victorri|269|99|15|2
+19|Combining Neural Networks and Context-Driven Search for On-Line, Printed Handwriting Recognition in the Newton.|Larry S. Yaeger,Brandyn J. Webb,Richard F. Lyon|n/a
+20|Neural Network Classification and Prior Class Probabilities.|Steve Lawrence,Ian Burns,Andrew D. Back,Ah Chung Tsoi,C. Lee Giles|113|42|0|2
+21|applying Divide and Conquer to Large Scale Pattern Recognition Tasks.|Jürgen Fritsch,Michael Finke|12|1|0|0
+22|Tricks for Time Series: Preface.|Genevieve B. Orr,Klaus-Robert Müller|n/a
+23|Forecasting the Economy with Neural Nets: A Survey of Challenges and Solutions.|John E. Moody|23|2|0|0
+24|How to Train Neural Networks.|Ralph Neuneier,Hans-Georg Zimmermann|95|28|0|29

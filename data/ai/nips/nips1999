@@ -1,0 +1,152 @@
+151
+1|Advances in Neural Information Processing Systems 12, [NIPS Conference, Denver, Colorado, USA, November 29 - December 4, 1999].|Sara A. Solla,Todd K. Leen,Klaus-Robert Müller|n/a
+2|Recognizing Evoked Potentials in a Virtual Environment.|Jessica D. Bayliss,Dana H. Ballard|30|9|0|2
+3|A Neurodynamical Approach to Visual Attention.|Gustavo Deco,Josef Zihl|0|0|0|0
+4|Effects of Spatial and Temporal Contiguity on the Acquisition of Spatial Information.|Thea B. Ghiselli-Crippa,Paul W. Munro|2|0|0|1
+5|Acquisition in Autoshaping.|Sham Kakade,Peter Dayan|12|1|0|0
+6|Robust Recognition of Noisy and Superimposed Patterns via Selective Attention.|Soo-Young Lee,Michael Mozer|6|1|0|6
+7|Perceptual Organization Based on Temporal Dynamics.|Xiuwen Liu,DeLiang L. Wang|12|1|0|1
+8|Information Factorization in Connectionist Models of Perception.|Javier R. Movellan,James L. McClelland|0|0|0|0
+9|Graded Grammaticality in Prediction Fractal Machines.|Shan Parfitt,Peter Tiño,Georg Dorffner|3|0|0|0
+10|Rules and Similarity in Concept Learning.|Joshua B. Tenenbaum|186|71|0|20
+11|Evolving Learnable Languages.|Bradley Tonkes,Alan D. Blair,Janet Wiles|15|4|0|3
+12|Learning Statistically Neutral Tasks without Expert Guidance.|Ton Weijters,Antal van den Bosch,Eric O. Postma|0|0|0|0
+13|A Generative Model for Attractor Dynamics.|Richard S. Zemel,Michael Mozer|1|0|0|0
+14|Recurrent Cortical Competition: Strengthen or Weaken?|Péter Adorján,Lars Schwabe,Christian Piepenbrock,Klaus Obermayer|10|0|0|2
+15|Effective Learning Requires Neuronal Remodeling of Hebbian Synapses.|Gal Chechik,Isaac Meilijson,Eytan Ruppin|1|0|0|0
+16|Wiring Optimization in the Brain.|Dmitri B. Chklovskii,Charles F. Stevens|18|4|0|0
+17|Optimal Sizes of Dendritic and Axonal Arbors.|Dmitri B. Chklovskii|0|0|0|0
+18|Neural Representation of Multi-Dimensional Stimuli.|Christian W. Eurich,Stefan D. Wilke,Helmut Schwegler|6|2|0|3
+19|Spiking Boltzmann Machines.|Geoffrey E. Hinton,Andrew D. Brown|35|21|0|1
+20|Distributed Synchrony of Spiking Neurons in a Hebbian Cell Assembly.|David Horn,Nir Levy,Isaac Meilijson,Eytan Ruppin|18|1|0|0
+21|Can VI Mechanisms Account for Figure-Ground and Medial Axis Effects?|Zhaoping Li|6|0|0|1
+22|Channel Noise in Excitable Neural Membranes.|Amit Manwani,Peter N. Steinmetz,Christof Koch|11|5|0|1
+23|LTD Facilitates Learning in a Noisy Environment.|Paul W. Munro,Gerardina Hernández|8|0|0|0
+24|Memory Capacity of Linear vs. Nonlinear Models of Dendritic Integration.|Panayiota Poirazi,Bartlett W. Mel|3|1|0|0
+25|Predictive Sequence Learning in Recurrent Neocortical Circuits.|Rajesh P. N. Rao,Terrence J. Sejnowski|96|16|0|0
+26|A Recurrent Model of the Interaction Between Prefrontal and Inferotemporal Cortex in Delay Tasks.|Alfonso Renart,Néstor Parga,Edmund T. Rolls|18|2|0|15
+27|Information Capacity and Robustness of Stochastic Neuron Models.|Elad Schneidman,Idan Segev,Naftali Tishby|16|7|0|0
+28|An MEG Study of Response Latency and Variability in the Human Visual System During a Visual-Motor Integration Task.|Akaysha C. Tang,Barak A. Pearlmutter,Tim A. Hely,Michael Zibulevsky,Michael P. Weisend|18|0|0|1
+29|Population Decoding Based on an Unfaithful Model.|Si Wu,Hiroyuki Nakahara,Noboru Murata,Shun-ichi Amari|18|3|0|11
+30|Spike-based Learning Rules and Stabilization of Persistent Neural Activity.|Xiaohui Xie,H. Sebastian Seung|36|8|1|1
+31|A Variational Baysian Framework for Graphical Models.|Hagai Attias|631|335|1|4
+32|Model Selection in Clustering by Uniform Convergence Bounds.|Joachim M. Buhmann,Marcus Held|6|0|0|1
+33|Uniqueness of the SVM Solution.|Christopher J. C. Burges,David J. Crisp|116|35|1|0
+34|Model Selection for Support Vector Machines.|Olivier Chapelle,Vladimir Vapnik|308|85|0|3
+35|Dynamics of Supervised Learning with Restricted Training Sets and Noisy Teachers.|Anthony C. C. Coolen,C. W. H. Mace|3|0|0|3
+36|A Geometric Interpretation of v-SVM Classifiers.|David J. Crisp,Christopher J. C. Burges|180|96|0|0
+37|Efficient Approaches to Gaussian Process Classification.|Lehel Csató,Ernest Fokoué,Manfred Opper,Bernhard Schottky,Ole Winther|57|21|0|15
+38|Potential Boosters?|Nigel Duffy,David P. Helmbold|n/a
+39|Bayesian Averaging is Well-Temperated.|Lars Kai Hansen|14|1|0|4
+40|Regular and Irregular Gallager-zype Error-Correcting Codes.|Yoshiyuki Kabashima,Tatsuto Murayama,David Saad,Renato Vicente|2|0|0|2
+41|Mixture Density Estimation.|Jonathan Q. Li,Andrew R. Barron|217|91|15|1
+42|Statistical Dynamics of Batch Learning.|Song Li,K. Y. Michael Wong|2|0|0|0
+43|Neural Computation with Winner-Take-All as the Only Nonlinear Operation.|Wolfgang Maass|37|10|0|4
+44|Boosting with Multi-Way Branching in Decision Trees.|Yishay Mansour,David A. McAllester|7|2|0|1
+45|Inference for the Generalization Error.|Claude Nadeau,Yoshua Bengio|584|306|0|7
+46|Resonance in a Stochastic Neuron Model with Delayed Interaction.|Toru Ohira,Yuzuru Sato,Jack D. Cowan|1|0|0|1
+47|Understanding Stepwise Generalization of Support Vector Machines: a Toy Model.|Sebastian Risau-Gusman,Mirta B. Gordon|6|0|0|5
+48|Lower Bounds on the Complexity of Approximating Continuous Functions by Sigmoidal Neural Networks.|Michael Schmitt|6|0|0|2
+49|Noisy Neural Networks and Generalizations.|Hava T. Siegelmann,Alexander Roitershtein,Asa Ben-Hur|9|1|0|4
+50|The Entropy Regularization Information Criterion.|Alexander J. Smola,John Shawe-Taylor,Bernhard Schölkopf,Robert C. Williamson|1|1|0|0
+51|Probabilistic Methods for Support Vector Machines.|Peter Sollich|94|33|14|5
+52|Algebraic Analysis for Non-regular Learning Machines.|Sumio Watanabe|13|0|0|5
+53|Semiparametric Approach to Multichannel Blind Deconvolution of Nonminimum Phase Systems.|Liqing Zhang,Shun-ichi Amari,Andrzej Cichocki|5|0|0|0
+54|Some Theoretical Results Concerning the Convergence of Compositions of Regularized Linear Functions.|Tong Zhang|2|0|0|0
+55|Robust Full Bayesian Methods for Neural Networks.|Christophe Andrieu,João F. G. de Freitas,Arnaud Doucet|11|0|0|3
+56|Independent Factor Analysis with Temporally Structured Sources.|Hagai Attias|n/a
+57|Gaussian Fields for Approximate Inference in Layered Sigmoid Belief Networks.|David Barber,Peter Sollich|17|5|0|7
+58|Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks.|Yoshua Bengio,Samy Bengio|44|30|0|10
+59|Robust Neural Network Regression for Offline and Online Learning.|Thomas Briegel,Volker Tresp|13|5|0|1
+60|Reconstruction of Sequential Data with Probabilistic Models and Continuity Constraints.|Miguel Á. Carreira-Perpiñán|36|16|0|0
+61|Transductive Inference for Estimating Values of Functions.|Olivier Chapelle,Vladimir Vapnik,Jason Weston|n/a
+62|The Nonnegative Boltzmann Machine.|Oliver B. Downs,David J. C. MacKay,Daniel D. Lee|17|7|0|4
+63|Differentiating Functions of the Jacobian with Respect to the Weights.|Gary William Flake,Barak A. Pearlmutter|7|0|0|0
+64|Local Probability Propagation for Factor Analysis.|Brendan J. Frey|7|1|1|0
+65|Variational Inference for Bayesian Mixtures of Factor Analysers.|Zoubin Ghahramani,Matthew J. Beal|386|173|0|27
+66|Bayesian Transduction.|Thore Graepel,Ralf Herbrich,Klaus Obermayer|30|2|0|5
+67|Learning to Parse Images.|Geoffrey E. Hinton,Zoubin Ghahramani,Yee Whye Teh|30|4|0|0
+68|Maximum Entropy Discrimination.|Tommi S. Jaakkola,Marina Meila,Tony Jebara|272|106|3|20
+69|Topographic Transformation as a Discrete Latent Variable.|Nebojsa Jojic,Brendan J. Frey|28|0|4|15
+70|An Improved Decomposition Algorithm for Regression Support Vector Machines.|Pavel Laskov|42|11|0|3
+71|Algorithms for Independent Components Analysis and Higher Order Statistics.|Daniel D. Lee,Uri Rokni,Haim Sompolinsky|2|1|0|0
+72|The Relaxed Online Maximum Margin Algorithm.|Yi Li,Philip M. Long|180|77|0|1
+73|Bayesian Network Induction via Local Neighborhoods.|Dimitris Margaritis,Sebastian Thrun|231|136|3|8
+74|Boosting Algorithms as Gradient Descent.|Llew Mason,Jonathan Baxter,Peter L. Bartlett,Marcus R. Frean|422|213|2|2
+75|A Multi-class Linear Learning Algorithm Related to Winnow.|Chris Mesterharm|15|1|0|4
+76|Invariant Feature Extraction and Classification in Kernel Spaces.|Sebastian Mika,Gunnar Rätsch,Jason Weston,Bernhard Schölkopf,Alexander J. Smola,Klaus-Robert Müller|181|63|3|4
+77|Approximate Inference A lgorithms for Two-Layer Bayesian Networks.|Andrew Y. Ng,Michael I. Jordan|15|5|0|0
+78|Optimal Kernel Shapes for Local Linear Regression.|Dirk Ormoneit,Trevor Hastie|11|2|0|2
+79|Large Margin DAGs for Multiclass Classification.|John C. Platt,Nello Cristianini,John Shawe-Taylor|2076|942|9|3
+80|The Infinite Gaussian Mixture Model.|Carl Edward Rasmussen|685|481|4|11
+81|v-Arc: Ensemble Learning in the Presence of Outliers.|Gunnar Rätsch,Bernhard Schölkopf,Alexander J. Smola,Klaus-Robert Müller,Takashi Onoda,Sebastian Mika|10|4|0|0
+82|Nonlinear Discriminant Analysis Using Kernel Functions.|Volker Roth,Volker Steinhage|274|62|2|17
+83|An Analysis of Turbo Decoding with Gaussian Densities.|Paat Rusmevichientong,Benjamin Van Roy|21|0|0|1
+84|Support Vector Method for Novelty Detection.|Bernhard Schölkopf,Robert C. Williamson,Alexander J. Smola,John Shawe-Taylor,John C. Platt|521|306|0|1
+85|Better Generative Models for Sequential Data Problems: Bidirectional Recurrent Mixture Density Networks.|Mike Schuster|2|2|0|0
+86|Greedy Importance Sampling.|Dale Schuurmans|8|3|0|2
+87|Bayesian Model Selection for Support Vector Machines, Gaussian Processes and Other Kernel Classifiers.|Matthias W. Seeger|126|37|0|11
+88|Leveraged Vector Machines.|Yoram Singer|13|3|0|0
+89|Agglomerative Information Bottleneck.|Noam Slonim,Naftali Tishby|n/a
+90|Training Data Selection for Optimal Generalization in Trigonometric Polynomial Networks.|Masashi Sugiyama,Hidemitsu Ogawa|4|1|0|3
+91|Predictive App roaches for Choosing Hyperparameters in Gaussian Processes.|S. Sundararajan,S. Sathiya Keerthi|73|47|0|4
+92|On Input Selection with Reversible Jump Markov Chain Monte Carlo Sampling.|Peter Sykacek|16|1|0|1
+93|Building Predictive Models from Fractal Representations of Symbolic Sequences.|Peter Tiño,Georg Dorffner|5|0|0|3
+94|The Relevance Vector Machine.|Michael E. Tipping|n/a
+95|Support Vector Method for Multivariate Density Estimation.|Vladimir Vapnik,Sayan Mukherjee|152|67|0|1
+96|Dual Estimation and the Unscented Transformation.|Eric A. Wan,Rudolph van der Merwe,Alex T. Nelson|230|107|2|9
+97|Correctness of Belief Propagation in Gaussian Graphical Models of Arbitrary Topology.|Yair Weiss,William T. Freeman|507|228|3|8
+98|A MCMC Approach to Hierarchical Mixture Modelling.|Christopher K. I. Williams|59|23|0|1
+99|Data Visualization and Feature Selection: New Algorithms for Nongaussian Data.|Howard Hua Yang,John E. Moody|89|57|0|1
+100|Manifold Stochastic Dynamics for Bayesian Learning.|Mark Zlochin,Yoram Baram|9|5|0|0
+101|The Parallel Problems Server: an Interactive Tool for Large Scale Machine Learning.|Charles Lee Isbell Jr.,Parry Husbands|2|1|0|0
+102|An Oculo-Motor System with Multi-Chip Neuromorphic Analog VLSI Control.|Oliver Landolt,Steve Gyger|1|0|0|1
+103|A Winner-Take-All Circuit with Controllable Soft Max Property.|Shih-Chii Liu|9|1|0|2
+104|A Neuromorphic VLSI System for Modeling the Neural Control of Axial Locomotion.|Girish N. Patel,Edgar A. Brown,Stephen P. DeWeerth|9|1|0|3
+105|Bifurcation Analysis of a Silicon Neuron.|Girish N. Patel,Gennady S. Cymbalyuk,Ronald L. Calabrese,Stephen P. DeWeerth|15|1|0|5
+106|An Analog VLSI Model of Periodicity Extraction.|André van Schaik|1|0|0|1
+107|An Oscillatory Correlation Frame work for Computational Auditory Scene Analysis.|Guy J. Brown,DeLiang L. Wang|5|0|0|0
+108|Bayesian Modelling of fMRI lime Series.|Pedro A. d. F. R. Højen-Sørensen,Lars Kai Hansen,Carl Edward Rasmussen|n/a
+109|Neural System Model of Human Sound Localization.|Craig T. Jin,Simon Carlile|1|0|0|0
+110|Spectral Cues in Human Sound Localization.|Craig T. Jin,Anna Corderoy,Simon Carlile,André van Schaik|5|0|0|2
+111|Broadband Direction-Of-Arrival Estimation Based on Second Order Statistics.|Justinian P. Rosca,Joseph Ó Ruanaidh,Alexander Jourjine,Scott Rickard|10|0|1|1
+112|Constrained Hidden Markov Models.|Sam T. Roweis|35|10|0|3
+113|Online Independent Component Analysis with Local Learning Rate Adaptation.|Nicol N. Schraudolph,Xavier Giannakopoulos|21|5|0|6
+114|Speech Modelling Using Subspace and EM Techniques.|Gavin Smith,João F. G. de Freitas,Tony Robinson,Mahesan Niranjan|12|5|0|0
+115|Search for Information Bearing Components in Speech.|Howard Hua Yang,Hynek Hermansky|6|3|0|0
+116|Audio Vision: Using Audio-Visual Synchrony to Locate Sounds.|John R. Hershey,Javier R. Movellan|237|72|5|3
+117|Bayesian Reconstruction of 3D Human Motion from Single-Camera Video.|Nicholas R. Howe,Michael E. Leventon,William T. Freeman|280|72|1|3
+118|Emergence of Topography and Complex Cell Properties from Natural Images using Extensions of ICA.|Aapo Hyvärinen,Patrik O. Hoyer|41|8|0|1
+119|An Information-Theoretic Framework for Understanding Saccadic Eye Movements.|Tai Sing Lee,Stella X. Yu|43|18|0|1
+120|Learning Sparse Codes with a Mixture-of-Gaussians Prior.|Bruno A. Olshausen,K. Jarrod Millman|98|26|0|6
+121|Hierarchical Image Probability (H1P) Models.|Clay Spence,Lucas C. Parra|n/a
+122|Scale Mixtures of Gaussians and the Statistics of Natural Images.|Martin J. Wainwright,Eero P. Simoncelli|401|203|1|28
+123|A SNoW-Based Face Detector.|Ming-Hsuan Yang,Dan Roth,Narendra Ahuja|435|133|12|11
+124|Managing Uncertainty in Cue Combination.|Zhiyong Yang,Richard S. Zemel|5|1|0|1
+125|Robust Learning of Chaotic Attractors.|Rembrandt Bakker,Jaap C. Schouten,Marc-Olivier Coppens,Floris Takens,C. Lee Giles,Cor M. van den Bleek|7|0|0|4
+126|Image Representations for Facial Expression Coding.|Marian Stewart Bartlett,Gianluca Donato,Javier R. Movellan,Joseph C. Hager,Paul Ekman,Terrence J. Sejnowski|29|8|0|9
+127|Low Power Wireless Communication via Reinforcement Learning.|Timothy X. Brown|17|5|0|1
+128|Learning Informative Statistics: A Nonparametnic Approach.|John W. Fisher III,Alexander T. Ihler,Paul A. Viola|23|2|0|9
+129|Kirchoff Law Markov Fields for Analog Circuit Design.|Richard M. Golden|0|0|0|0
+130|Learning the Similarity of Documents: An Information-Geometric Approach to Document Retrieval and Categorization.|Thomas Hofmann|135|58|5|3
+131|Constructing Heterogeneous Committees Using Input Feature Grouping: Application to Economic Forecasting.|Yuansong Liao,John E. Moody|36|11|0|0
+132|From Coexpression to Coregulation: An Approach to Inferring Transcriptional Regulation among Gene Classes from Large-Scale Expression Data.|Eric Mjolsness,Tobias Mann,Rebecca Castaño,Barbara J. Wold|56|8|0|3
+133|Churn Reduction in the Wireless Industry.|Michael Mozer,Richard H. Wolniewicz,David B. Grimes,Eric Johnson,Howard Kaushansky|48|28|0|1
+134|Unmixing Hyperspectral Data.|Lucas C. Parra,Clay Spence,Paul Sajda,Andreas Ziehe,Klaus-Robert Müller|141|33|0|6
+135|Application of Blind Separation of Sources to Optical Recording of Brain Activity.|Holger Schoner,Martin Stetter,Ingo Schießl,John E. W. Mayhew,Jennifer S. Lund,Niall McLoughlin,Klaus Obermayer|9|0|0|2
+136|Reinforcement Learning for Spoken Dialogue Systems.|Satinder P. Singh,Michael J. Kearns,Diane J. Litman,Marilyn A. Walker|150|79|2|8
+137|Image Recognition in Context: Application to Microscopic Urinalysis.|Xubo B. Song,Joseph Sill,Yaser S. Abu-Mostafa,Harvey Kasdan|9|2|0|1
+138|Generalized Model Selection for Unsupervised Learning in High Dimensions.|Shivakumar Vaithyanathan,Byron Dom|42|11|0|2
+139|Learning from User Feedback in Image Retrieval Systems.|Nuno Vasconcelos,Andrew Lippman|154|38|0|2
+140|An Environment Model for Nonstationary Reinforcement Learning.|Samuel P. M. Choi,Dit-Yan Yeung,Nevin Lianwen Zhang|18|7|0|4
+141|State Abstraction in MAXQ Hierarchical Reinforcement Learning.|Thomas G. Dietterich|58|18|0|0
+142|Approximate Planning in Large POMDPs via Reusable Trajectories.|Michael J. Kearns,Yishay Mansour,Andrew Y. Ng|129|32|0|4
+143|Actor-Critic Algorithms.|Vijay R. Konda,John N. Tsitsiklis|201|74|1|4
+144|Bayesian Map Learning in Dynamic Environments.|Kevin P. Murphy|454|199|0|2
+145|Policy Search via Density Estimation.|Andrew Y. Ng,Ronald Parr,Daphne Koller|40|8|0|4
+146|Neural Network Based Model Predictive Control.|Stephen Piche,James D. Keeler,Greg Martin,Gene Boe,Doug Johnson,Mark Gerules|n/a
+147|Reinforcement Learning Using Approximate Belief States.|Andres C. Rodriguez,Ronald Parr,Daphne Koller|11|4|0|0
+148|Coastal Navigation with Mobile Robots.|Nicholas Roy,Sebastian Thrun|n/a
+149|Learning Factored Representations for Partially Observable Markov Decision Processes.|Brian Sallans|21|3|0|5
+150|Policy Gradient Methods for Reinforcement Learning with Function Approximation.|Richard S. Sutton,David A. McAllester,Satinder P. Singh,Yishay Mansour|899|461|1|14
+151|Monte Carlo POMDPs.|Sebastian Thrun|244|99|0|7

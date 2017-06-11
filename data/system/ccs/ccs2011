@@ -1,0 +1,104 @@
+103
+1|Proceedings of the 18th ACM Conference on Computer and Communications Security, CCS 2011, Chicago, Illinois, USA, October 17-21, 2011.|Yan Chen,George Danezis,Vitaly Shmatikov|n/a
+2|Reflections on the evolution of internet threats: the growing imperative for a cyber secure society.|Farnam Jahanian|0|0|0|0
+3|VIPER: verifying the integrity of PERipherals' firmware.|Yanlin Li,Jonathan M. McCune,Adrian Perrig|62|60|0|3
+4|Unicorn: two-factor attestation for data security.|Mohammad Mannan,Beom Heyn Kim,Afshar Ganjali,David Lie|18|18|1|1
+5|Combining control-flow integrity and static analysis for efficient and validated data sandboxing.|Bin Zeng,Gang Tan,Greg Morrisett|52|49|0|7
+6|Composition theorems without pre-established session identifiers.|Ralf Küsters,Max Tuengerthal|27|26|0|2
+7|Composability of bellare-rogaway key exchange protocols.|Christina Brzuska,Marc Fischlin,Bogdan Warinschi,Stephen C. Williams|21|18|0|8
+8|A composable computational soundness notion.|Véronique Cortier,Bogdan Warinschi|18|16|0|1
+9|On the requirements for successful GPS spoofing attacks.|Nils Ole Tippenhauer,Christina Pöpper,Kasper Bonne Rasmussen,Srdjan Capkun|97|93|1|1
+10|Protecting consumer privacy from electric load monitoring.|Stephen E. McLaughlin,Patrick McDaniel,William Aiello|95|95|0|1
+11|PaperSpeckle: microscopic fingerprinting of paper.|Ashlesh Sharma,Lakshminarayanan Subramanian,Eric A. Brewer|21|19|1|2
+12|On the vulnerability of FPGA bitstream encryption against power analysis attacks: extracting keys from xilinx Virtex-II FPGAs.|Amir Moradi,Alessandro Barenghi,Timo Kasper,Christof Paar|109|107|2|18
+13|Text-based CAPTCHA strengths and weaknesses.|Elie Bursztein,Matthieu Martin,John C. Mitchell|144|138|0|2
+14|An efficient user verification system via mouse movements.|Nan Zheng,Aaron Paloski,Haining Wang|86|84|0|1
+15|Policy auditing over incomplete logs: theory, implementation and applications.|Deepak Garg,Limin Jia,Anupam Datta|68|67|0|20
+16|Automatic error finding in access-control policies.|Karthick Jayaraman,Vijay Ganesh,Mahesh V. Tripunitara,Martin C. Rinard,Steve J. Chapin|55|54|0|3
+17|Trust-based anonymous communication: adversary models and routing algorithms.|Aaron Johnson,Paul F. Syverson,Roger Dingledine,Nick Mathewson|34|33|0|5
+18|Cirripede: circumvention infrastructure using router redirection with plausible deniability.|Amir Houmansadr,Giang T. K. Nguyen,Matthew Caesar,Nikita Borisov|70|69|0|10
+19|Forensic investigation of the OneSwarm anonymous filesharing system.|Swagatika Prusty,Brian Neil Levine,Marc Liberatore|14|14|0|2
+20|Stealthy traffic analysis of low-latency anonymous communication using throughput fingerprinting.|Prateek Mittal,Ahmed Khurshid,Joshua Juen,Matthew Caesar,Nikita Borisov|43|43|0|4
+21|App isolation: get the security of multiple browsers with just one.|Eric Yawei Chen,Jason Bau,Charles Reis,Adam Barth,Collin Jackson|47|45|3|1
+22|Crouching tiger - hidden payload: security risks of scalable vectors graphics.|Mario Heiderich,Tilman Frosch,Meiko Jensen,Thorsten Holz|15|15|0|4
+23|Fear the EAR: discovering and mitigating execution after redirect vulnerabilities.|Adam Doupé,Bryce Boe,Christopher Kruegel,Giovanni Vigna|28|28|0|4
+24|Automated black-box detection of side-channel vulnerabilities in web applications.|Peter Chapman,David Evans|22|22|0|0
+25|Deobfuscation of virtualization-obfuscated software: a semantics-based approach.|Kevin Coogan,Gen Lu,Saumya K. Debray|37|36|0|5
+26|The power of procrastination: detection and mitigation of execution-stalling malicious code.|Clemens Kolbitsch,Engin Kirda,Christopher Kruegel|40|39|1|5
+27|MIDeA: a multi-parallel intrusion detection architecture.|Giorgos Vasiliadis,Michalis Polychronakis,Sotiris Ioannidis|76|74|1|7
+28|BitShred: feature hashing malware for scalable triage and semantic analysis.|Jiyong Jang,David Brumley,Shobha Venkataraman|105|102|3|5
+29|Trace equivalence decision: negative tests and non-determinism.|Vincent Cheval,Hubert Comon-Lundh,Stéphanie Delaune|44|43|0|20
+30|Extracting and verifying cryptographic models from C protocol code by symbolic execution.|Mihhail Aizatulin,Andrew D. Gordon,Jan Jürjens|39|39|0|5
+31|Modular code-based cryptographic verification.|Cédric Fournet,Markulf Kohlweiss,Pierre-Yves Strub|53|52|0|10
+32|Information-flow types for homomorphic encryptions.|Cédric Fournet,Jérémy Planul,Tamara Rezk|15|15|0|1
+33|Cryptographic primitives for building secure and privacy respecting protocols.|Jan Camenisch|1|1|0|0
+34|Process out-grafting: an efficient "out-of-VM" approach for fine-grained process execution monitoring.|Deepa Srinivasan,Zhi Wang,Xuxian Jiang,Dongyan Xu|55|49|0|3
+35|SICE: a hardware-level strongly isolated computing environment for x86 multi-core platforms.|Ahmed M. Azab,Peng Ning,Xiaolan Zhang|81|78|0|2
+36|AmazonIA: when elasticity snaps back.|Sven Bugiel,Stefan Nürnberger,Thomas Pöppelmann,Ahmad-Reza Sadeghi,Thomas Schneider|77|74|0|1
+37|Eliminating the hypervisor attack surface for a more secure cloud.|Jakub Szefer,Eric Keller,Ruby B. Lee,Jennifer Rexford|169|165|0|7
+38|How to break XML encryption.|Tibor Jager,Juraj Somorovsky|36|36|0|9
+39|Ciphers that securely encipher their own keys.|Mihir Bellare,David Cash,Sriram Keelveedhi|5|5|0|0
+40|Password-protected secret sharing.|Ali Bagherzandi,Stanislaw Jarecki,Nitesh Saxena,Yanbin Lu|35|32|0|2
+41|Practical delegation of computation using multiple servers.|Ran Canetti,Ben Riva,Guy N. Rothblum|55|50|1|3
+42|Fashion crimes: trending-term exploitation on the web.|Tyler Moore,Nektarios Leontiadis,Nicolas Christin|40|37|0|17
+43|SURF: detecting and measuring search poisoning.|Long Lu,Roberto Perdisci,Wenke Lee|47|47|0|4
+44|Cloak and dagger: dynamics of web search cloaking.|David Y. Wang,Stefan Savage,Geoffrey M. Voelker|51|42|0|6
+45|Proofs of ownership in remote storage systems.|Shai Halevi,Danny Harnik,Benny Pinkas,Alexandra Shulman-Peleg|202|191|0|0
+46|How to tell if your cloud files are vulnerable to drive crashes.|Kevin D. Bowers,Marten van Dijk,Ari Juels,Alina Oprea,Ronald L. Rivest|53|51|0|3
+47|Sedic: privacy-aware data intensive computing on hybrid clouds.|Kehuan Zhang,Xiao-yong Zhou,Yangyi Chen,XiaoFeng Wang,Yaoping Ruan|146|143|3|0
+48|iSpy: automatic reconstruction of typed input from compromising reflections.|Rahul Raguram,Andrew M. White,Dibyendusekhar Goswami,Fabian Monrose,Jan-Michael Frahm|37|34|0|2
+49|Televisions, video privacy, and powerline electromagnetic interference.|Miro Enev,Sidhant Gupta,Tadayoshi Kohno,Shwetak N. Patel|30|29|0|1
+50|(sp)iPhone: decoding vibrations from nearby keyboards using mobile phone accelerometers.|Philip Marquardt,Arunabh Verma,Henry Carter,Patrick Traynor|59|57|1|0
+51|Predictive mitigation of timing channels in interactive systems.|Danfeng Zhang,Aslan Askarov,Andrew C. Myers|50|47|0|10
+52|WAPTEC: whitebox analysis of web applications for parameter tampering exploit construction.|Prithvi Bisht,Timothy L. Hinrichs,Nazari Skrupsky,V. N. Venkatakrishnan|40|38|0|4
+53|Context-sensitive auto-sanitization in web templating languages using type qualifiers.|Mike Samuel,Prateek Saxena,Dawn Song|36|32|1|1
+54|SCRIPTGARD: automatic context-sensitive sanitization for large-scale legacy web applications.|Prateek Saxena,David Molnar,Benjamin Livshits|56|41|3|8
+55|Fortifying web-based applications automatically.|Shuo Tang,Nathan Dautenhahn,Samuel T. King|22|22|0|0
+56|Android permissions demystified.|Adrienne Porter Felt,Erika Chin,Steve Hanna,Dawn Song,David Wagner|763|739|4|7
+57|These aren't the droids you're looking for: retrofitting android to protect data from imperious applications.|Peter Hornyack,Seungyeop Han,Jaeyeon Jung,Stuart E. Schechter,David Wetherall|122|121|3|0
+58|Privacy and accountability for location-based aggregate statistics.|Raluca A. Popa,Andrew J. Blumberg,Hari Balakrishnan,Frank H. Li|31|29|0|1
+59|Auctions in do-not-track compliant internet advertising.|Alexey Reznichenko,Saikat Guha,Paul Francis|26|26|0|2
+60|Practical PIR for electronic commerce.|Ryan Henry,Femi G. Olumofin,Ian Goldberg|29|28|0|6
+61|Countering GATTACA: efficient and secure testing of fully-sequenced human genomes.|Pierre Baldi,Roberta Baronio,Emiliano De Cristofaro,Paolo Gasti,Gene Tsudik|101|97|2|13
+62|Automatically optimizing secure computation.|Florian Kerschbaum|27|27|2|10
+63|VMCrypt: modular software architecture for scalable secure computation.|Lior Malka|58|57|1|0
+64|Poster: Destabilizing BitTorrent's clusters to attack high bandwidth leechers.|Florian Adamsky,Hassan Khan,Muttukrishnan Rajarajan,Syed Ali Khayam,Rudolf Jäger|2|2|0|2
+65|Poster: a geometric approach for multicast authentication in adversarial channels.|Seyed Ali Ahmadzadeh,Gordon B. Agnew|2|2|0|0
+66|Demo: a comprehensive framework enabling data-minimizing authentication.|Patrik Bichsel,Franz-Stefan Preiss|2|1|0|0
+67|Demo: the ff hardware prototype for privacy-preserving RFID authentication.|Erik-Oliver Blass,Kaoutar Elkhiyaoui,Refik Molva,Olivier Savry,Cédric Vérhilac|0|0|0|0
+68|Poster: the quest for security against privilege escalation attacks on android.|Sven Bugiel,Lucas Davi,Alexandra Dmitrienko,Thomas Fischer,Ahmad-Reza Sadeghi,Bhargava Shastry|5|5|0|1
+69|Poster: a path-cutting approach to blocking XSS worms in social web networks.|Yinzhi Cao,Vinod Yegneswaran,Phillip A. Porras,Yan Chen|2|1|0|0
+70|Poster: control-flow integrity for smartphones.|Lucas Davi,Alexandra Dmitrienko,Manuel Egele,Thomas Fischer,Thorsten Holz,Ralf Hund,Stefan Nürnberger,Ahmad-Reza Sadeghi|3|3|0|0
+71|Poster: arbitrators in the security infrastructure, supporting positive anonymity.|Shlomi Dolev,Niv Gilboa,Ofer Hermoni|1|1|0|1
+72|Poster: attribute based broadcast encryption with permanent revocation.|Shlomi Dolev,Niv Gilboa,Marina Kopeetsky|1|1|0|0
+73|Poster: SMURFEN: a rule sharing collaborative intrusion detection network.|Carol J. Fung,Quanyan Zhu,Raouf Boutaba,Tamer Basar|3|3|0|2
+74|Poster: applying unsupervised context-based analysis for detecting unauthorized data disclosure.|Ma'ayan Gafny,Asaf Shabtai,Lior Rokach,Yuval Elovici|7|7|0|1
+75|Poster: online spam filtering in social networks.|Hongyu Gao,Yan Chen,Kathy Lee,Diana Palsetia,Alok N. Choudhary|3|3|0|0
+76|Poster: on trust evaluation with missing information in reputation systems.|Xi Gong,Ting Yu,Adam J. Lee|0|0|0|0
+77|Poster: collaborative policy administration.|Weili Han,Zheran Fang,Weifeng Chen,Wenyuan Xu,Chang Lei|3|3|0|3
+78|Poster: using quantified risk and benefit to strengthen the security of information sharing.|Weili Han,Chenguang Shen,Yuliang Yin,Yun Gu,Chen Chen|2|2|0|1
+79|Poster: CUD: crowdsourcing for URL spam detection.|Jun Hu,Hongyu Gao,Zhichun Li,Yan Chen|0|0|0|0
+80|Poster: DIEGO: a fine-grained access control for web browsers.|Ashar Javed|0|0|0|0
+81|Poster: privacy-preserving profile similarity computation in online social networks.|Arjan Jeckmans,Qiang Tang,Pieter H. Hartel|6|6|0|1
+82|Poster: practical embedded remote attestation using physically unclonable functions.|Ünal Koçabas,Ahmad-Reza Sadeghi,Christian Wachsmann,Steffen Schulz|2|2|0|0
+83|Poster: mimicry attacks against wireless link signature.|Yao Liu,Peng Ning|10|10|0|5
+84|Poster: fast, automatic iPhone shoulder surfing.|Stefano Maggi,Alberto Volpatto,Simone Gasparini,Giacomo Boracchi,Stefano Zanero|13|12|0|0
+85|Poster: preliminary analysis of Google+'s privacy.|Shah Mahmood,Yvo Desmedt|13|13|0|3
+86|Poster: shaping network topology for privacy and performance.|Nayantara Mallesh,Matthew K. Wright|0|0|0|0
+87|Poster: trans-organizational role-based access control.|Ramon Francisco Pacquiao Mejia,Yuichi Kaji,Hiroyuki Seki|0|0|0|0
+88|Poster: towards attribute based group key management.|Mohamed Nabeel,Elisa Bertino|28|27|0|8
+89|Poster: making the case for intrinsic personal physical unclonable functions (IP-PUFs).|Rishab Nithyanand,Radu Sion,John Solis|n/a
+90|Poster: uPro: a compartmentalization tool supporting fine-grained and flexible security configuration.|Ben Niu,Gang Tan|0|0|0|0
+91|Poster: recoverable botnets: a hybrid C&C approach.|Peng Liao,Xiang Cui,Shuhao Li,Chaoge Liu|0|0|0|0
+92|Poster: an implementation of the fully homomorphic smart-vercauteren crypto-system.|Henning Perl,Michael Brenner,Matthew Smith|17|16|0|1
+93|Poster: ESPOONERBAC: enforcing security policies in outsourced environments with encrypted RBAC.|Muhammad Rizwan Asghar,Giovanni Russello,Bruno Crispo|5|5|0|4
+94|Poster: inference attacks against searchable encryption protocols.|Mohammad Saiful Islam,Mehmet Kuzu,Murat Kantarcioglu|4|4|0|1
+95|Demo: secure computation in JavaScript.|Axel Schröpfer,Florian Kerschbaum|3|3|1|2
+96|Poster: can it be more practical?: improving mouse dynamics biometric performance.|Chao Shen,Zhongmin Cai,Xiaohong Guan|2|2|0|1
+97|Poster: Towards detecting DMA malware.|Patrick Stewin,Jean-Pierre Seifert,Collin Mulliner|7|7|0|2
+98|Poster: LBMS: load balancing based on multilateral security in cloud.|Pengfei Sun,Qingni Shen,Ying Chen,Zhonghai Wu,Cong Zhang,Anbang Ruan,Liang Gu|7|7|0|0
+99|Poster: protecting information in systems of systems.|Daniel Trivellato,Nicola Zannone,Sandro Etalle|5|5|0|2
+100|Poster: a certificateless proxy re-encryption scheme for cloud-based data sharing.|Xiaoxin Wu,Lei Xu,Xinwen Zhang|5|5|0|1
+101|Poster: towards formal verification of DIFC policies.|Zhi Yang,Lihua Yin,Miyi Duan,Shuyuan Jin|0|0|0|0
+102|Poster: on quantitative information flow metrics.|Ji Zhu,Mudhakar Srivatsa|2|2|0|0
+103|Poster: temporal attribute-based encryption in clouds.|Yan Zhu,Hongxin Hu,Gail-Joon Ahn,Xiaorui Gong,Shimin Chen|5|5|0|0

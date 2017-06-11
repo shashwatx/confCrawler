@@ -1,0 +1,232 @@
+231
+1|Proceedings of the 16th International Conference on World Wide Web, WWW 2007, Banff, Alberta, Canada, May 8-12, 2007.|Carey L. Williamson,Mary Ellen Zurko,Peter F. Patel-Schneider,Prashant J. Shenoy|n/a
+2|Homepage live: automatic block tracing for web personalization.|Jie Han,Dingyi Han,Chenxi Lin,Hua-Jun Zeng,Zheng Chen,Yong Yu|9|3|0|0
+3|Open user profiles for adaptive news systems: help or harm?|Jae-wook Ahn,Peter Brusilovsky,Jonathan Grady,Daqing He,Sue Yeon Syn|171|130|3|12
+4|Investigating behavioral variability in web search.|Ryen W. White,Steven M. Drucker|253|186|3|42
+5|Csurf: a context-driven non-visual web-browser.|Jalal Mahmud,Yevgen Borodin,I. V. Ramakrishnan|76|41|2|19
+6|Geotracker: geospatial and temporal RSS navigation.|Yih-Farn Robin Chen,Giuseppe Di Fabbrizio,David C. Gibbon,Rittwik Jana,Serban Jora,Bernard Renger,Bin Wei|71|37|0|2
+7|Learning information intent via observation.|Anthony Tomasic,Isaac Simmons,John Zimmerman|7|4|0|1
+8|Page-level template detection via isotonic smoothing.|Deepayan Chakrabarti,Ravi Kumar,Kunal Punera|109|78|3|2
+9|Towards domain-independent information extraction from web tables.|Wolfgang Gatterbauer,Paul Bohunsky,Marcus Herzog,Bernhard Krüpl,Bernhard Pollak|202|158|2|2
+10|Web object retrieval.|Zaiqing Nie,Yunxiao Ma,Shuming Shi,Ji-Rong Wen,Wei-Ying Ma|133|88|2|6
+11|Summarizing email conversations with clue words.|Giuseppe Carenini,Raymond T. Ng,Xiaodong Zhou|82|59|4|16
+12|Organizing and searching the world wide web of facts -- step two: harnessing the wisdom of the crowds.|Marius Pasca|114|79|2|0
+13|Do not crawl in the dust: different urls with similar text.|Ziv Bar-Yossef,Idit Keidar,Uri Schonfeld|98|62|3|1
+14|A new suffix tree similarity measure for document clustering.|Hung Chim,Xiaotie Deng|113|80|1|1
+15|Scaling up all pairs similarity search.|Roberto J. Bayardo,Yiming Ma,Ramakrishnan Srikant|475|401|3|7
+16|Detecting near-duplicates for web crawling.|Gurmeet Singh Manku,Arvind Jain,Anish Das Sarma|389|329|8|0
+17|Demographic prediction based on user's browsing behavior.|Jian Hu,Hua-Jun Zeng,Hua Li,Cheng Niu,Zheng Chen|141|116|10|0
+18|Why we search: visualizing and predicting user behavior.|Eytan Adar,Daniel S. Weld,Brian N. Bershad,Steven D. Gribble|103|79|0|0
+19|Topic sentiment mixture: modeling facets and opinions in weblogs.|Qiaozhu Mei,Xu Ling,Matthew Wondra,Hang Su,ChengXiang Zhai|495|427|4|17
+20|Wherefore art thou r3579x?: anonymized social networks, hidden patterns, and structural steganography.|Lars Backstrom,Cynthia Dwork,Jon M. Kleinberg|690|576|1|5
+21|Information flow modeling based on diffusion rate for prediction and ranking.|Xiaodan Song,Yun Chi,Koji Hino,Belle L. Tseng|117|97|0|3
+22|Netprobe: a fast and scalable system for fraud detection in online auction networks.|Shashank Pandit,Duen Horng Chau,Samuel Wang,Christos Faloutsos|239|199|17|35
+23|The complex dynamics of collaborative tagging.|Harry Halpin,Valentin Robu,Hana Shepherd|646|447|1|18
+24|Expertise networks in online communities: structure and algorithms.|Jun Zhang,Mark S. Ackerman,Lada A. Adamic|660|519|3|11
+25|Internet-scale collection of human-reviewed data.|Qi Su,Dmitry Pavlov,Jyh-Herng Chow,Wendell C. Baker|129|91|0|1
+26|Detectives: detecting coalition hit inflation attacks in advertising networks streams.|Ahmed Metwally,Divyakant Agrawal,Amr El Abbadi|81|65|1|10
+27|Extraction and search of chemical formulae in text documents on the web.|Bingjun Sun,Qingzhao Tan,Prasenjit Mitra,C. Lee Giles|35|13|1|16
+28|A content-driven reputation system for the wikipedia.|B. Thomas Adler,Luca de Alfaro|410|298|0|13
+29|Google news personalization: scalable online collaborative filtering.|Abhinandan Das,Mayur Datar,Ashutosh Garg,Shyamsundar Rajaram|998|852|45|0
+30|Exploring in the weblog space by detecting informative and affective articles.|Xiaochuan Ni,Gui-Rong Xue,Xiao Ling,Yong Yu,Qiang Yang|89|54|1|2
+31|Spam double-funnel: connecting web spammers with advertisers.|Yi-Min Wang,Ming Ma,Yuan Niu,Hao Chen|106|68|0|1
+32|Globetp: template-based database replication for scalable web applications.|Tobias Groothuyse,Swaminathan Sivasubramanian,Guillaume Pierre|25|12|0|0
+33|Consistency-preserving caching of dynamic database content.|Niraj Tolia,M. Satyanarayanan|29|17|0|2
+34|Optimized query planning of continuous aggregation queries in dynamic data dissemination networks.|Rajeev Gupta,Krithi Ramamritham|27|15|1|5
+35|A scalable application placement controller for enterprise data centers.|Chunqiang Tang,Malgorzata Steinder,Mike Spreitzer,Giovanni Pacifici|264|236|3|18
+36|A unified platform for data driven web applications with automatic client-server partitioning.|Fan Yang,Nitin Gupta,Nicholas Gerner,Xin Qi,Alan J. Demers,Johannes Gehrke,Jayavel Shanmugasundaram|52|40|4|3
+37|MyXDNS: a resquest routing dns server with decoupled server selection.|Hussein A. Alzoubi,Michael Rabinovich,Oliver Spatscheck|7|5|0|1
+38|Robust web page segmentation for mobile terminal using content-distances and page layout information.|Gen Hattori,Keiichiro Hoashi,Kazunori Matsumoto,Fumiaki Sugaya|98|78|2|0
+39|PRIVE: anonymous location-based queries in distributed mobile systems.|Gabriel Ghinita,Panos Kalnis,Spiros Skiadopoulos|378|284|0|12
+40|A mobile application framework for the geospatial web.|Rainer Simon,Peter Fröhlich|84|57|9|2
+41|Navigationaided retrieval.|Shashank Pandit,Christopher Olston|n/a
+42|Efficient search engine measurements.|Ziv Bar-Yossef,Maxim Gurevich|50|32|0|3
+43|Efficient search in large textual collections with redundancy.|Jiangong Zhang,Torsten Suel|33|16|1|5
+44|The discoverability of the web.|Anirban Dasgupta,Arpita Ghosh,Ravi Kumar,Christopher Olston,Sandeep Pandey,Andrew Tomkins|71|44|0|3
+45|Combining classifiers to identify online databases.|Luciano Barbosa,Juliana Freire|82|61|0|9
+46|An adaptive crawler for locating hiddenwebentry points.|Luciano Barbosa,Juliana Freire|137|106|0|16
+47|Random web crawls.|Toufik Bennouas,Fabien de Montgolfier|n/a
+48|Extraction and classification of dense communities in the web.|Yon Dourisboure,Filippo Geraci,Marco Pellegrini|121|96|0|1
+49|Web projections: learning from contextual subgraphs of the web.|Jure Leskovec,Susan T. Dumais,Eric Horvitz|43|25|1|2
+50|Supervised rank aggregation.|Yuting Liu,Tie-Yan Liu,Tao Qin,Zhiming Ma,Hang Li|116|92|3|3
+51|Navigating the intranet with high precision.|Huaiyu Zhu,Sriram Raghavan,Shivakumar Vaithyanathan,Alexander Löser|30|23|1|6
+52|Optimizing web search using social annotations.|Shenghua Bao,Gui-Rong Xue,Xiaoyuan Wu,Yong Yu,Ben Fei,Zhong Su|598|435|0|7
+53|Robust methodologies for modeling web click distributions.|Kamal Ali,Mark Scarr|16|10|0|0
+54|Predicting clicks: estimating the click-through rate for new ads.|Matthew Richardson,Ewa Dominowska,Robert Ragno|440|356|22|1
+55|Dynamics of bid optimization in online advertisement auctions.|Christian Borgs,Jennifer T. Chayes,Nicole Immorlica,Kamal Jain,Omid Etesami,Mohammad Mahdian|171|95|4|2
+56|Compare&contrast: using the web to discover comparable cases for news stories.|Jiahui Liu,Earl Wagner,Larry Birnbaum|14|8|0|2
+57|Answering bounded continuous search queries in the world wide web.|Dirk Kukulenz,Alexandros Ntoulas|15|8|0|2
+58|Answering relationship queries on the web.|Gang Luo,Chunqiang Tang,Ying-li Tian|62|25|2|2
+59|Dynamic personalized pagerank in entity-relation graphs.|Soumen Chakrabarti|170|123|1|4
+60|A large-scale evaluation and analysis of personalized search strategies.|Zhicheng Dou,Ruihua Song,Ji-Rong Wen|439|354|3|9
+61|Privacy-enhancing personalized web search.|Yabo Xu,Ke Wang,Benyu Zhang,Zheng Chen|202|170|3|0
+62|Defeating script injection attacks with browser-enforced embedded policies.|Trevor Jim,Nikhil Swamy,Michael Hicks|334|241|14|4
+63|Subspace: secure cross-domain communication for web mashups.|Collin Jackson,Helen J. Wang|183|109|14|6
+64|Exposing private information by timing web applications.|Andrew Bortz,Dan Boneh|89|70|0|4
+65|On anonymizing query logs via token-based hashing.|Ravi Kumar,Jasmine Novak,Bo Pang,Andrew Tomkins|79|50|1|2
+66|Cantina: a content-based approach to detecting phishing web sites.|Yue Zhang,Jason I. Hong,Lorrie Faith Cranor|382|311|16|3
+67|Learning to detect phishing emails.|Ian Fette,Norman M. Sadeh,Anthony Tomasic|337|261|1|0
+68|A large-scale study of web password habits.|Dinei A. F. Florêncio,Cormac Herley|652|563|2|23
+69|A fault model and mutation testing of access control policies.|Evan Martin,Tao Xie|118|86|0|16
+70|Analyzing web access control policies.|Vladimir Kolovski,James A. Hendler,Bijan Parsia|189|138|0|5
+71|Compiling cryptographic protocols for deployment on the web.|Jay A. McCarthy,Shriram Krishnamurthi,Joshua D. Guttman,John D. Ramsdell|6|5|0|1
+72|Yago: a core of semantic knowledge.|Fabian M. Suchanek,Gjergji Kasneci,Gerhard Weikum|1679|1410|2|138
+73|Ontology summarization based on rdf sentence graph.|Xiang Zhang,Gong Cheng,Yuzhong Qu|104|80|0|17
+74|Just the right amount: extracting modules from ontologies.|Bernardo Cuenca Grau,Ian Horrocks,Yevgeny Kazakov,Ulrike Sattler|238|131|1|27
+75|Toward expressive syndication on the web.|Christian Halaschek-Wiener,James A. Hendler|17|7|0|5
+76|Exhibit: lightweight structured data publishing.|David F. Huynh,David R. Karger,Robert C. Miller|242|159|0|9
+77|Explorations in the use of semantic web technologies for product information management.|Jean-Sébastien Brunner,Li Ma,Chen Wang,Lei Zhang,Daniel C. Wolfson,Yue Pan,Kavitha Srinivas|29|18|0|5
+78|Measuring semantic similarity between words using web search engines.|Danushka Bollegala,Yutaka Matsuo,Mitsuru Ishizuka|521|388|9|16
+79|Using Google distance to weight approximate ontology matches.|Risto Gligorov,Warner ten Kate,Zharko Aleksovski,Frank van Harmelen|133|86|0|1
+80|Hierarchical, perceptron-like learning for ontology-based information extraction.|Yaoyong Li,Kalina Bontcheva|61|34|0|8
+81|From SPARQL to rules (and back).|Axel Polleres|192|122|0|27
+82|SPARQ2L: towards support for subgraph extraction queries in rdf databases.|Kemafor Anyanwu,Angela Maduko,Amit P. Sheth|119|70|0|4
+83|Bridging the gap between OWL and relational databases.|Boris Motik,Ian Horrocks,Ulrike Sattler|226|160|0|7
+84|ActiveRDF: object-oriented semantic web programming.|Eyal Oren,Renaud Delbru,Sebastian Gerke,Armin Haller,Stefan Decker|87|52|1|9
+85|The two cultures: mashing up web 2.0 and the semantic web.|Anupriya Ankolekar,Markus Krötzsch,Thanh Tran,Denny Vrandecic|356|198|2|2
+86|Analysis of topological characteristics of huge online social networking services.|Yong-Yeol Ahn,Seungyeop Han,Haewoon Kwak,Sue B. Moon,Hawoong Jeong|865|719|0|10
+87|P-TAG: large scale automatic generation of personalized annotation tags for the web.|Paul-Alexandru Chirita,Stefania Costache,Wolfgang Nejdl,Siegfried Handschuh|180|103|2|1
+88|Connecting the "bottom of the pyramid": an exploratory case study of india's rural communication environment.|Sarita Seshagiri,Sagar Aman,Dhaval Joshi|22|17|0|0
+89|Communication as information-seeking: the case for mobile social software for developing regions.|Beth E. Kolko,Emma J. Rose,Erica J. Johnson|51|35|0|3
+90|Optimal audio-visual representations for illiterate users of computers.|Indrani Medhi,Archana Prasad,Kentaro Toyama|82|52|0|12
+91|Identifying and discriminating between web and peer-to-peer traffic in the network core.|Jeffrey Erman,Anirban Mahanti,Martin F. Arlitt,Carey L. Williamson|192|139|1|4
+92|Long distance wireless mesh network planning: problem formulation and solution.|Sayandeep Sen,Bhaskaran Raman|83|51|0|5
+93|Is high-quality vod feasible using P2P swarming?|Siddhartha Annapureddy,Saikat Guha,Christos Gkantsidis,Dinan Gunawardena,Pablo Rodriguez|179|117|1|0
+94|Turning portlets into services: the consumer profile.|Oscar Díaz,Salvador Trujillo,Sandy Pérez|16|7|0|4
+95|A framework for rapid integration of presentation components.|Jin Yu,Boualem Benatallah,Régis Saint-Paul,Fabio Casati,Florian Daniel,Maristella Matera|172|107|1|9
+96|Integrating value-based requirement engineering models to webml using vip business modeling framework.|Farooque Azam,Zhang Li,Rashid Ahmad|7|3|0|0
+97|Towards effective browsing of large scale social annotations.|Rui Li,Shenghua Bao,Yong Yu,Ben Fei,Zhong Su|149|93|2|7
+98|Supporting end-users in the creation of dependable web clips.|Sandeep Lingam,Sebastian G. Elbaum|19|12|0|0
+99|Effort estimation: how valuable is it for a web company to use a cross-company data set, compared to using its own single-company data set?|Emilia Mendes,Sergio Di Martino,Filomena Ferrucci,Carmine Gravino|24|15|0|14
+100|Towards the theoretical foundation of choreography.|Zongyan Qiu,Xiangpeng Zhao,Chao Cai,Hongli Yang|135|96|0|9
+101|Introduction and evaluation of Martlet: a scientific workflow language for abstracted parallelisation.|Daniel James Goodman|32|16|0|0
+102|Semi-automated adaptation of service interactions.|Hamid R. Motahari Nezhad,Boualem Benatallah,Axel Martens,Francisco Curbera,Fabio Casati|303|196|1|8
+103|Reliable QoS monitoring based on client feedback.|Radu Jurca,Boi Faltings,Walter Binder|142|94|3|8
+104|Preference-based selection of highly configurable web services.|Steffen Lamparter,Anupriya Ankolekar,Rudi Studer,Stephan Grimm|153|102|3|6
+105|Speeding up adaptation of web service compositions using expiration times.|John Harney,Prashant Doshi|65|39|0|5
+106|DIANE: an integrated approach to automated service discovery, matchmaking and composition.|Ulrich Küster,Birgitta König-Ries,Mirco Stern,Michael Klein|85|40|0|1
+107|Multiway SLCA-based keyword search in XML data.|Chong Sun,Chee Yong Chan,Amit K. Goenka|197|156|1|0
+108|Visibly pushdown automata for streaming XML.|Viraj Kumar,P. Madhusudan,Mahesh Viswanathan|56|32|0|1
+109|Mapping-driven XML transformation.|Haifeng Jiang,Howard Ho,Lucian Popa,Wook-Shin Han|43|23|1|2
+110|Querying and maintaining a compact XML storage.|Raymond K. Wong,Franky Lam,William M. Shui|38|26|0|4
+111|XML design for relational storage.|Solmaz Kolahi,Leonid Libkin|6|4|0|1
+112|A high-performance interpretive approach to schema-directed parsing.|Morris Matsa,Eric Perkins,Abraham Heifets,Margaret Gaitatzes Kostoulas,Daniel Silva,Noah Mendelsohn,Michelle Leger|14|6|0|0
+113|Collaborative ICT for Indian business clusters.|Soumya Roy,Shantanu Biswas|2|2|0|0
+114|Delay tolerant applications for low bandwidth and intermittently connected users: the aAQUA experience.|Saurabh Sahni,Krithi Ramamritham|4|2|0|2
+115|A cautious surfer for PageRank.|Lan Nie,Baoning Wu,Brian D. Davison|10|5|0|3
+116|A clustering method for web data with multi-type interrelated components.|Levent Bolelli,Seyda Ertekin,Ding Zhou,C. Lee Giles|4|2|0|1
+117|A large-scale study of robots.txt.|Yang Sun,Ziming Zhuang,C. Lee Giles|43|33|0|4
+118|A link-based ranking scheme for focused search.|Philip O'Brien,Tony Abou-Assaleh,Tapajyoti Das,Weizheng Gao,Yingbo Miao,Zhen Zhen|8|6|0|0
+119|A link classification based approach to website topic hierarchy generation.|Nan Liu,Christopher C. Yang|9|4|0|1
+120|A search-based Chinese word segmentation method.|Xin-Jing Wang,Yong Qin,Wen Liu|18|10|0|0
+121|Anchor-based proximity measures.|Amruta Joshi,Ravi Kumar,Benjamin Reed,Andrew Tomkins|18|12|0|0
+122|Automatic search engine performance evaluation with click-through data analysis.|Yiqun Liu,Yupeng Fu,Min Zhang,Shaoping Ma,Liyun Ru|42|32|0|2
+123|Automatic searching of tables in digital libraries.|Ying Liu,Kun Bai,Prasenjit Mitra,C. Lee Giles|12|6|0|2
+124|Bayesian network based sentence retrieval model.|Keke Cai,Jiajun Bu,Chun Chen,Kangmiao Liu,Wei Chen|1|0|0|0
+125|Brand awareness and the evaluation of search results.|Bernard J. Jansen,Mimi Zhang,Ying Zhang|14|9|0|0
+126|Causal relation of queries from temporal logs.|Yizhou Sun,Kunqing Xie,Ning Liu,Shuicheng Yan,Benyu Zhang,Zheng Chen|13|10|0|0
+127|Classifying web sites.|Christoph Lindemann,Lars Littig|n/a
+128|Comparing apples and oranges: normalized pagerank for evolving graphs.|Klaus Berberich,Srikanta J. Bedathur,Gerhard Weikum,Michalis Vazirgiannis|9|4|0|2
+129|Designing efficient sampling techniques to detect webpage updates.|Qingzhao Tan,Ziming Zhuang,Prasenjit Mitra,C. Lee Giles|9|3|0|2
+130|Determining the user intent of web search engine queries.|Bernard J. Jansen,Danielle L. Booth,Amanda Spink|165|126|3|0
+131|EPCI: extracting potentially copyright infringement texts from the web.|Takashi Tashiro,Takanori Ueda,Taisuke Hori,Yu Hirate,Hayato Yamana|5|1|0|0
+132|Efficient training on biased minimax probability machine for imbalanced text classification.|Xiang Peng,Irwin King|2|0|0|0
+133|Electoral search using the VerkiezingsKijker: an experience report.|Valentin Jijkoun,Maarten Marx,Maarten de Rijke,Frank van Waveren|6|4|0|5
+134|Exploration of query context for information retrieval.|Keke Cai,Chun Chen,Jiajun Bu,Peng Huang,Zhiming Kang|2|1|0|0
+135|First-order focused crawling.|Qingyang Xu,Wanli Zuo|21|14|0|1
+136|Academic web search engine: generating a survey automatically.|Ye Wang,Zhihua Geng,Sheng Huang,Xiaoling Wang,Aoying Zhou|5|1|0|1
+137|Generative models for name disambiguation.|Yang Song,Jian Huang,Isaac G. Councill,Jia Li,C. Lee Giles|12|9|0|1
+138|GigaHash: scalable minimal perfect hashing for billions of urls.|Kumar Chellapilla,Anton Mityagin,Denis Xavier Charles|6|3|1|1
+139|How NAGA uncoils: searching with entities and relations.|Gjergji Kasneci,Fabian M. Suchanek,Maya Ramanath,Gerhard Weikum|11|6|0|2
+140|Identifying ambiguous queries in web search.|Ruihua Song,Zhenxiao Luo,Ji-Rong Wen,Yong Yu,Hsiao-Wuen Hon|64|41|0|1
+141|Web page classification with heterogeneous data fusion.|Zenglin Xu,Irwin King,Michael R. Lyu|27|18|0|2
+142|Learning information diffusion process on the web.|Xiaojun Wan,Jianwu Yang|21|14|0|1
+143|MedSearch: a specialized search engine for medical information.|Gang Luo,Chunqiang Tang,Hao Yang,Xing Wei|n/a
+144|Mining contiguous sequential patterns from web logs.|Jinlin Chen,Terry Cook|31|21|0|2
+145|Monitoring the evolution of cached content in Google and MSN.|Ioannis Anagnostopoulos|0|0|0|0
+146|Multi-factor clustering for a marketplace search interface.|Neel Sundaresan,Kavita Ganesan,Roopnath Grandhi|0|0|0|0
+147|On ranking techniques for desktop search.|Sara Cohen,Carmel Domshlak,Naama Zwerdling|23|19|0|0
+148|Query-driven indexing for peer-to-peer text retrieval.|Gleb Skobeltsyn,Toan Luu,Karl Aberer,Martin Rajman,Ivana Podnar Zarko|9|3|0|3
+149|Query topic detection for reformulation.|Xuefeng He,Jun Yan,Jinwen Ma,Ning Liu,Zheng Chen|12|10|0|0
+150|Review spam detection.|Nitin Jindal,Bing Liu|181|166|1|7
+151|SCAN: a small-world structured p2p overlay for multi-dimensional queries.|Xiaoping Sun|24|16|0|0
+152|SRing: a structured non dht p2p overlay supporting string range queries.|Xiaoping Sun,Xue Chen|2|1|0|1
+153|Search engine retrieval of changing information.|Yang Sok Kim,Byeong Ho Kang,Paul Compton,Hiroshi Motoda|11|8|0|1
+154|Search engines and their public interfaces: which apis are the most synchronized?|Frank McCown,Michael L. Nelson|22|15|0|2
+155|Spam and popularity ratings for combating link spam.|Mukesh Dalal|0|0|0|0
+156|Summary attributes and perceived search quality.|Daniel E. Rose,David Orr,Raj Gopal Prasad Kantamneni|13|9|0|1
+157|Tag clouds for summarizing web search results.|Byron Yu-Lin Kuo,Thomas Hentrich,Benjamin M. Good,Mark D. Wilkinson|174|135|5|0
+158|Towards efficient dominant relationship exploration of the product items on the web.|Zhenglu Yang,Lin Li,Botao Wang,Masaru Kitsuregawa|2|1|0|2
+159|Understanding web search via a learning paradigm.|Bernard J. Jansen,Brian Keith Smith,Danielle L. Booth|3|1|0|3
+160|Using d-gap patterns for index compression.|Jinlin Chen,Terry Cook|7|4|0|1
+161|Utility analysis for topically biased PageRank.|Christian Kohlschütter,Paul-Alexandru Chirita,Wolfgang Nejdl|12|11|0|0
+162|Sliding window technique for the web log analysis.|Nikolai Buzikashvili|18|9|0|1
+163|A password stretching method using user specific salts.|ChangHee Lee,Heejo Lee|1|1|0|0
+164|Simple authentication for the web.|Timothy W. van der Horst,Kent E. Seamons|30|17|2|5
+165|A management and performance framework for semantic web servers.|Malena R. Mesarina,Venugopal Srinivasmurthy,Nic Lyons,Craig Sayers|1|0|0|0
+166|A probabilistic semantic approach for discovering web services.|Jiangang Ma,Jinli Cao,Yanchun Zhang|21|12|0|4
+167|Acquiring ontological knowledge from query logs.|Satoshi Sekine,Hisami Suzuki|46|37|4|3
+168|Altering document term vectors for classification: ontologies as expectations of co-occurrence.|Meenakshi Nagarajan,Amit P. Sheth,Marcos Kawazoe Aguilera,Kimberly Keeton,Arif Merchant,Mustafa Uysal|20|11|0|0
+169|Building and managing personalized semantic portals.|Melike Sah,Wendy Hall|12|6|0|2
+170|Deriving knowledge from figures for digital libraries.|Xiaonan Lu,James Ze Wang,Prasenjit Mitra,C. Lee Giles|10|5|0|3
+171|Development of a semantic web based mobile local search system.|Joo Seong Jeon,Gi Jeong Lee|5|1|0|0
+172|Estimating the cardinality of RDF graph patterns.|Angela Maduko,Kemafor Anyanwu,Amit P. Sheth,Paul Schliekelman|26|17|0|0
+173|Extending WebML towards semantic web.|Federico Michele Facca,Marco Brambilla|10|2|0|3
+174|Image annotation by hierarchical mapping of features.|Qiankun Zhao,Prasenjit Mitra,C. Lee Giles|6|0|0|3
+175|Integrating web directories by learning their structures.|Christopher C. Yang,Jianfeng Lin|0|0|0|0
+176|Learning ontologies to improve the quality of automatic web service matching.|Hui Guo,Anca-Andreea Ivan,Rama Akkiraju,Richard Goodwin|36|33|2|1
+177|Ontology engineering using volunteer labor.|Benjamin M. Good,Mark D. Wilkinson|5|4|0|1
+178|Semantic personalization of web portal contents.|Christina Tziviskou,Marco Brambilla|18|10|0|2
+179|The largest scholarly semantic network...ever.|Johan Bollen,Marko A. Rodriguez,Herbert Van de Sompel,Lyudmila Balakireva,Aric A. Hagberg|10|7|0|5
+180|A kernel based structure matching for web services search.|Jianjun Yu,Shengmin Guo,Hao Su,Hui Zhang,Ke Xu|13|9|0|0
+181|A novel collaborative filtering-based framework for personalized services in m-commerce.|Qiudan Li,Chunheng Wang,Guanggang Geng,Ruwei Dai|14|9|0|1
+182|Towards service pool based approach for services discovery and subscription.|Xuanzhe Liu,Li Zhou,Gang Huang,Hong Mei|11|3|0|4
+183|Crawling multiple UDDI business registries.|Eyhab Al-Masri,Qusay H. Mahmoud|43|29|0|11
+184|Discovering the best web service.|Eyhab Al-Masri,Qusay H. Mahmoud|218|183|0|4
+185|Mobile shopping assistant: integration of mobile applications and web services.|Huaigu Wu,Yuri Natchetoi|20|11|0|2
+186|On automated composition for web services.|Zhongnan Shen,Jianwen Su|5|0|0|2
+187|Providing session management as core business service.|Ismail Ari,Jun Li,Riddhiman Ghosh,Mohamed Dekhil|4|1|0|4
+188|Towards automating regression test selection for web services.|Michael Ruth,Shengru Tu|62|49|0|1
+189|Towards environment generated media: object-participation-type weblog in home sensor network.|Takuya Maekawa,Yutaka Yanagisawa,Takeshi Okadome|6|1|0|4
+190|BlogScope: spatio-temporal analysis of the blogosphere.|Nilesh Bansal,Nick Koudas|39|27|0|2
+191|EOS: expertise oriented search using social networks.|Juan-Zi Li,Jie Tang,Jing Zhang,Qiong Luo,Yunhao Liu,MingCai Hong|41|28|2|0
+192|Exploring social dynamics in online media sharing.|Martin Halvey,Mark T. Keane|92|57|3|0
+193|Finding community structure in mega-scale social networks: [extended abstract].|Ken Wakita,Toshiyuki Tsurumi|307|255|0|5
+194|Life is sharable: mechanisms to support and sustain blogging life experience.|Yun-Maw Cheng,Tzu-Chuan Chou,Wai Yu,Li-Chieh Chen,Ching-Long Yeh,Meng Chang Chen|3|0|0|0
+195|Measuring credibility of users in an e-learning environment.|Wei Wei,Jimmy Ho-Man Lee,Irwin King|16|13|0|2
+196|Modeling user behavior in recommender systems based on maximum entropy.|Tomoharu Iwata,Kazumi Saito,Takeshi Yamada|19|17|0|0
+197|Parallel crawling for online social networks.|Duen Horng Chau,Shashank Pandit,Samuel Wang,Christos Faloutsos|103|90|0|0
+198|Personalized social & real-time collaborative search.|Mukesh Dalal|24|16|1|0
+199|Towards extracting flickr tag semantics.|Tye Rattenbury,Nathan Good,Mor Naaman|28|19|0|0
+200|A no-frills architecture for lightweight answer retrieval.|Marius Pasca|0|0|0|0
+201|AutoPerf: an automated load generator and performance measurement tool for multi-tier software systems.|Shrirang Sudhir Shirodkar,Varsha Apte|12|8|0|3
+202|Construction by linking: the linkbase method.|Johannes Meinecke,Frederic Majer,Martin Gaedke|4|1|0|2
+203|Image collector III: a web image-gathering system with bag-of-keypoints.|Keiji Yanai|14|5|0|4
+204|Mirror site maintenance based on evolution associations of web directories.|Ling Chen,Sourav S. Bhowmick,Wolfgang Nejdl|2|0|0|2
+205|On building graphs of documents with artificial ants.|Hanane Azzag,Julien Lavergne,Christiane Guinot,Gilles Venturini|0|0|0|0
+206|Towards a scalable search and query engine for the web.|Aidan Hogan,Andreas Harth,Jürgen Umbrich,Stefan Decker|38|21|1|8
+207|Web4CE: accessing web-based applications on consumer devices.|Walter Dees,Paul Shrubsole|28|16|4|0
+208|Web mashup scripting language.|Marwan Sabbouh,Jeff Higginson,Salim Semy,Danny Gagne|72|39|0|3
+209|A browser for a public-domain SpeechWeb.|Richard A. Frost,Xiaoli Ma,Yue Shi|4|1|0|3
+210|A novel clustering-based RSS aggregator.|Xin Li,Jun Yan,Zhi-Hong Deng,Lei Ji,Weiguo Fan,Benyu Zhang,Zheng Chen|30|14|1|0
+211|Adaptive faceted browser for navigation in open information spaces.|Michal Tvarozek,Mária Bieliková|12|3|0|2
+212|An assessment of tag presentation techniques.|Martin Halvey,Mark T. Keane|270|195|2|0
+213|An information state-based dialogue manager for making voice web smarter.|Marta Gatius,Meritxell González,Elisabet Comelles|4|1|0|1
+214|Behavior based web page evaluation.|Ganesan Velayathan,Seiji Yamada|53|38|3|3
+215|Generating efficient labels to facilitate web accessibility.|Leo Spalteholz,Kin Fun Li,Nigel Livingston|2|1|0|2
+216|Generation, documentation and presentation of mathematical equations and symbolic scientific expressions using pure HTML and CSS.|Kehinde Alabi|2|1|0|0
+217|GeoTV: navigating geocoded rss to create an iptv experience.|Yih-Farn Chen,Giuseppe Di Fabbrizio,David C. Gibbon,Rittwik Jana,Serban Jora,Bernard Renger,Bin Wei|10|7|0|1
+218|Summarization of online image collections via implicit feedback.|Shane Ahern,Simon King,Mor Naaman,Rahul Nair|5|4|2|1
+219|System for reminding a user of information obtainedthrough a web browsing experience.|Tetsushi Morita,Tetsuo Hidaka,Akimichi Tanaka,Yasuhisa Kato|7|6|0|0
+220|The ScratchPad: sensemaking support for the web.|David Gotz|17|12|1|2
+221|Towards multi-granularity multi-facet e-book retrieval.|Chong Huang,YongHong Tian,Zhi Zhou,Tiejun Huang|5|2|0|1
+222|Visualizing structural patterns in web collections.|Mir Sadek Ali,Mariano P. Consens,Flavio Rizzolo|5|3|0|2
+223|Adaptive record extraction from web pages.|Justin Park,Denilson Barbosa|24|16|1|0
+224|Exploit sequencing views in semantic cache to accelerate xpath query evaluation.|Jianhua Feng,Na Ta,Yong Zhang,Guoliang Li|7|5|0|2
+225|Extensible schema documentation with XSLT 2.0.|Felix Michel,Erik Wilde|2|0|0|2
+226|Preserving XML queries during schema evolution.|Mirella Moura Moro,Susan Malaika,Lipyeow Lim|43|28|0|3
+227|SPath: a path language for XML schema.|Erik Wilde,Felix Michel|5|1|1|4
+228|The use of XML to express a historical knowledge base.|Katsuko T. Nakahira,Masashi Matsui,Yoshiki Mikami|4|3|0|0
+229|U-REST: an unsupervised record extraction system.|Yuan Kui Shen,David R. Karger|7|6|0|0
+230|XML-based multimodal interaction framework for contact center applications.|Nikolay A. Anisimov,Brian Galvin,Herbert Ristock|0|0|0|0
+231|XML-based XML schema access.|Erik Wilde,Felix Michel|2|0|0|2

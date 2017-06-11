@@ -1,0 +1,194 @@
+193
+1|Proceedings of the 12th International Joint Conference on Artificial Intelligence. Sydney, Australia, August 24-30, 1991.|John Mylopoulos,Raymond Reiter|n/a
+2|A Methodology for Systematic Verification of OPS5-Based AI Applications.|G. Ravi Prakash,Eswaran Subrahmanian,Hosaker N. Mahabala|8|1|0|0
+3|Intelligent Assistance through Collaborative Manipulation.|Loren G. Terveen,David A. Wroblewski,Steven N. Tighe|18|0|0|3
+4|Effects of Parallelism on Blackboard System Scheduling.|Keith Decker,Alan Garvey,Marty Humphrey,Victor R. Lesser|12|0|0|6
+5|The Automated Analysis of Rule-based Systems, Based on their Procedural Semantics.|Rick Evertsz|19|2|0|1
+6|Holographic Reduced Representations: Convolution Algebra for Compositional Distributed Representations.|Tony Plate|143|47|0|1
+7|A Macro Actor/Token Implementation of Production Systems on a Data-Mow Multiprocessor.|Andrea Sohn,Jean-Luc Gaudiot|9|1|0|3
+8|Performance Comparison of Models for Multiple Rule Firing.|Steve Kuo,Dan I. Moldovan|8|1|0|1
+9|On Supporting Associative Access and Processing over Dynamic Knowledge Bases.|Ian N. Robinson|0|0|0|0
+10|Negotiations Over Time in a Multi-Agent Environment: Preliminary Report.|Sarit Kraus,Jonathan Wilkenfeld|78|6|0|21
+11|A Decision-Theoretic Approach to Coordinating Multi-agent Interactions.|Piotr J. Gmytrasiewicz,Edmund H. Durfee,David K. Wehe|112|9|0|20
+12|Towards a Formal Theory of Communication for Multi-agent Systems.|Munindar P. Singh|81|13|0|7
+13|Communication and Inference through Situations.|Hideyuki Nakashima,Stanley Peters,Hinrich Schütze|21|1|0|3
+14|Commitment and Effectiveness of Situated Agents.|David Kinny,Michael P. Georgeff|277|48|0|7
+15|Generating Integrated Interpretation of Partial Information Based on Distributed Qualitative Reasoning.|Takashi Nishiyama,Osamu Katai,Sosuke Iwai,Tetsuo Sawaragi,Hiroshi Masuichi|1|0|0|0
+16|A Resolution Method for Temporal Logic.|Michael Fisher|176|43|0|45
+17|Formalizing and Using Persistency.|Thomas Guckenbiehl|n/a
+18|Reflective Reasoning with and between a Declarative Metatheory and the Implementation Code.|Fausto Giunchiglia,Paolo Traverso|27|1|0|12
+19|Ordering-Based Strategies for Horn Clauses.|Nachum Dershowitz|23|8|0|6
+20|A Model Elimination Calculus for Generalized Clauses.|Toni Bollinger|10|1|0|2
+21|Consolution and its Relation with Resolution.|Elmar Eder|38|4|0|2
+22|How to Prove Higher Order Theorems in First Order Logic.|Manfred Kerber|34|3|0|7
+23|Reasoning of Geometric Concepts based on Algebraic Constraint-directed Method.|Hitoshi Iba,Hirochika Inoue|3|0|0|1
+24|An Inference Rule for Hypothesis Generation.|Robert Demolombe,Luis Fariñas del Cerro|43|7|0|12
+25|Consequence-Finding Based on Ordered Linear Resolution.|Katsumi Inoue|48|7|0|2
+26|Proof Transformation with Built-in Equality Predicate.|Christoph Lingenfelder,Axel Präcklein|6|0|0|1
+27|An Expected-Cost Analysis of Backtracking and Non-Backtracking Algorithms.|Colin J. H. McDiarmid,Gregory M. Provan|29|3|0|0
+28|Admissible Search Methods for Minimum Penalty Sequencing of Jobs with Setup Times on One and Two Machines.|Anup K. Sen,Amitava Bagchi,Bani K. Sinha|3|0|0|2
+29|Learning Admissible Heuristics while Solving Problems.|Anna Bramanti-Gregor,Henry W. Davis|7|2|0|2
+30|Using Aspiration Windows for Minimax Algorithms.|Reza Shams,Hermann Kaindl,Helmut Horacek|12|5|0|1
+31|High-Performance A\ast Search Using Rapidly Growing Heuristics.|Stephen V. Chenoweth,Henry W. Davis|n/a
+32|Moving Target Search.|Toru Ishida,Richard E. Korf|159|55|0|12
+33|Composing Real-Time Systems.|Stuart J. Russell,Shlomo Zilberstein|204|18|1|19
+34|Bottleneck Identification Using Process Chronologies.|Eric Biefeld,Lynne Cooper|46|4|0|1
+35|Incomplete Information and Deception in Multi-Agent Negotiation.|Gilad Zlotkin,Jeffrey S. Rosenschein|92|15|0|17
+36|Solving "How to Clear a Block" with Constructive Matching Methodology.|Marta Franová,Yves Kodratoff|3|0|0|0
+37|Generalizing Nonlinear Planning to Handle Complex Goals and Actions with Context-Dependent Effects.|Edwin P. D. Pednault|52|5|0|0
+38|A Formal Model for Classical Planning.|Jens Christensen,Adam J. Grove|12|1|0|0
+39|Localized Search for Multiagent Planning.|Amy L. Lansky|31|7|0|5
+40|Commitment Strategies in Planning: A Comparative Analysis.|Steven Minton,John L. Bresina,Mark Drummond|91|12|1|1
+41|Parallel Non-Binary Planning in Polynomial Time.|Christer Bäckström,Inger Klein|38|5|0|3
+42|Complexity Results for Planning.|Tom Bylander|238|48|0|5
+43|A Message Passing Algorithm for Plan Recognition.|Dekang Lin,Randy Goebel|22|2|0|6
+44|The Downward Refinement Property.|Fahiem Bacchus,Qiang Yang|57|14|0|11
+45|A Logically Complete Reasoning Maintenance System Based on a Logical Constraint Solver.|Jean Christophe Madre,Olivier Coudert|50|3|0|11
+46|Contexts for Nonmonotonic RMSes.|Jérôme Euzenat|2|0|0|2
+47|On Semantics of TMS.|Xianchang Wang,Huowang Chen|6|1|0|0
+48|Prioritized Defaults: Implementation by TMS and Application to Diagnosis.|Ulrich Junker|12|1|0|2
+49|On the Feasibility of Distributed Constraint Satisfaction.|Zeev Collin,Rina Dechter,Shmuel Katz|100|22|0|12
+50|An Efficient Arc Consistency Algorithm for a Class of CSP Problems.|Yves Deville,Pascal Van Hentenryck|116|17|0|4
+51|Where the Really Hard Problems Are.|Peter Cheeseman,Bob Kanefsky,William M. Taylor|1247|274|0|2
+52|How Situated is Cognition?|Jacobijn Sandberg,Bob J. Wielinga|26|3|0|0
+53|Index Transformation Techniques for Facilitating Creative Use of Multiple Cases.|Katia P. Sycara,Dundee Navinchandra|42|6|0|2
+54|Plan Debugging in an Intentional System.|Gregg Collins,Lawrence Birnbaum,Bruce Krulwich,Michael Freed|14|4|0|6
+55|Reasoning Visually about Spatial Interactions.|N. Hari Narayanan,B. Chandrasekaran|45|0|0|16
+56|A Cognitive Model of Figure Segregation.|Akira Shimaya,Isamu Yoroizawa|4|0|0|1
+57|An MFIS for Computing a Raw Cognitive Map.|Wai K. Yeap,Margaret E. Jefferies,P. S. Naylor|7|1|0|4
+58|Nonmonotonic Databases and Epistemic Queries.|Vladimir Lifschitz|155|62|0|1
+59|Commonsense Entailment: A Modal Tneory of Non-monotonic Reasoning.|Nicholas Asher,Michael Morreau|215|34|0|48
+60|Modal Interpretations of Default Logic.|Miroslaw Truszczynski|70|5|0|0
+61|Constructive Tightly Grounded Autoepistemic Reasoning.|Ilkka Niemelä|12|0|0|0
+62|A Unified View of Consequence Relation, Belief Revision and Conditional Logic.|Hirofumi Katsuno,Ken Satoh|65|8|0|0
+63|Inaccessible Worlds and Irrelevance: Preliminary Report.|Craig Boutilier|35|0|0|14
+64|Possibilistic Logic, Preferential Models, Non-monotonicity and Related Issues.|Didier Dubois,Henri Prade|138|21|0|4
+65|Query Answering in Circumscription.|Nicolas Helft,Katsumi Inoue,David Poole|15|0|0|10
+66|Circumscription and Definability.|Yves Moinard,Raymond Rolland|5|1|0|1
+67|Circumscribing Defaults.|Zhaogang Qian,Keki B. Irani|n/a
+68|Augmenting Concept Languages by Transitive Closure of Roles: An Alternative to Terminological Cycles.|Franz Baader|192|28|0|33
+69|A Scheme for Integrating Concrete Domains into Concept Languages.|Franz Baader,Philipp Hanschke|481|80|0|38
+70|Tractable Concept Languages.|Francesco M. Donini,Maurizio Lenzerini,Daniele Nardi,Werner Nutt|172|14|0|23
+71|A Correspondence Theory for Terminological Logics: Preliminary Report.|Klaus Schild|607|140|0|4
+72|Generalizing Term Subsumption Languages to Fuzzy Logic.|John Yen|155|54|0|1
+73|A Skeptic's Menagerie: Conflictors, Preemptors, Reinstaters, and Zombies in Nonrnonotonic Inheritance.|David S. Touretzky,Richmond H. Thomason,John F. Horty|49|9|0|4
+74|A New Logic of Beliefs: Monotonic and Non-Monotonic Beliefs - Part 1.|Sukhamay Kundu|6|0|0|1
+75|A Model of Decidable Introspective Reasoning with Quantifying-In.|Gerhard Lakemeyer|4|0|0|3
+76|Asymmetry Thesis and Side-Effect Problems in Linear-Time and Branching-Time Intention Logics.|Anand S. Rao,Michael P. Georgeff|n/a
+77|A Model of Events and Processes.|Periklis Belegrinos,Michael P. Georgeff|14|0|0|1
+78|Parameter Structures for Parametrized Modal Operators.|Hans Jürgen Ohlbach,Andreas Herzig|8|0|0|3
+79|Measuring and Improving the Effectiveness of Representations.|Russell Greiner,Charles Elkan|n/a
+80|Propositional Non-Monotonic Reasoning and Inconsistency in Symrnetric Neural Networks.|Gadi Pinkas|94|23|0|2
+81|Contextual Negations and Reasoning with Contradictions.|Walter Alexandre Carnielli,Luis Fariñas del Cerro,Mamede Lima-Marques|23|4|0|4
+82|Ex contradictione nihil sequitur.|Gerd Wagner|59|5|0|8
+83|The Role of Chess in Artificial Intelligence Research.|Robert Levinson,Feng-hsiung Hsu,T. Anthony Marsland,Jonathan Schaeffer,David E. Wilkins|18|2|0|3
+84|Multiple Approaches to Multiple Agent Problem Solving.|James A. Hendler,Daniel G. Bobrow,Les Gasser,Carl Hewitt,Marvin Minsky|2|0|0|0
+85|AI in Telecommunications.|Andrew Jennings,Adam E. Irgon,Akira Kurematsu,Greg Vessonder,Jon R. Wright|0|0|0|0
+86|Massively Parallel Artificial Intelligence.|Hiroaki Kitano,James A. Hendler,Tetsuya Higuchi,Dan I. Moldovan,David L. Waltz|29|3|0|0
+87|AI and Design.|Saul Amarel,Alvin M. Despain,H. Penny Nii,Louis I. Steinberg,Marty Tenenbaum,Peter M. Will|n/a
+88|Intelligence Without Reason.|Rodney A. Brooks|191|24|0|0
+89|Logic Programing in Artificial Intelligence.|Robert A. Kowalski|n/a
+90|Quantitative Evaluation of Explanation-Based Learning as an Optimisation Tool for a Large-Scale Natural Language System.|Christer Samuelsson,Manny Rayner|66|1|0|18
+91|A Formalization of Explanation-Based Macro-operator Learning.|Prasad Tadepalli|30|4|0|5
+92|An Augmented EBL and its Application to the Utility Problem.|Masayuki Yamamura,Shigenobu Kobayashi|8|1|0|0
+93|Concept Formation over Explanations and Problem-Solving Experience.|Jungsoon P. Yoo,Douglas H. Fisher|0|0|0|0
+94|Classifiers: A Theoretical and Empirical Study.|Wray L. Buntine|61|4|0|2
+95|A Hybrid Genetic Algorithm for Classification.|James D. Kelly Jr.,Lawrence Davis|180|36|0|1
+96|Learning Concept Classification Rules Using Genetic Algorithms.|Kenneth A. De Jong,William M. Spears|235|39|0|3
+97|Flexible Matching for Noisy Structural Descriptions.|Floriana Esposito,Donato Malerba,Giovanni Semeraro|30|4|0|12
+98|Theoretical Underpinnings of Version Spaces.|Haym Hirsh|46|2|0|4
+99|Empirical Bias for Version Space.|Jacques Nicolas|4|0|0|1
+100|Reduced Complexity Rule Induction.|Sholom M. Weiss,Nitin Indurkhya|71|22|0|7
+101|Qualitative Model Evolution.|Alen Varsek|24|11|0|0
+102|Semantic Model for Induction of First Order Theories.|Céline Rouveirol|21|2|0|1
+103|Bayesian Classification with Correlation and Inheritance.|Robin Hanson,John Stutz,Peter Cheeseman|88|12|0|6
+104|A Scheme for Feature Construction and a Comparison of Empirical Methods.|Der-Shung Yang,Larry A. Rendell,Gunnar Blix|56|12|0|3
+105|Learning with a Helpful Teacher.|Steven Salzberg,Arthur L. Delcher,David G. Heath,Simon Kasif|39|5|0|7
+106|Towards a Model of Grounded Concept Formation.|Stefan Wrobel|25|2|0|3
+107|Machine Discovery of Effective Admissible Heuristics.|Armand Prieditis|97|24|0|2
+108|Input Generalization in Delayed Reinforcement Learning: An Algorithm and Performance Comparisons.|David Chapman,Leslie Pack Kaelbling|311|57|0|8
+109|Learning to Classify Observed Motor Behavior.|Wayne Iba|11|1|0|4
+110|Modelling Experiments in Scientific Discovery.|Peter C.-H. Cheng|13|0|0|3
+111|Determinate Literals in Inductive Logic Programming.|J. Ross Quinlan|124|15|0|6
+112|Inductive Learning from Good Examples.|Charles X. Ling|32|1|0|2
+113|Refinement Strategies for Inductive Leaming of Simple Prolog Programs.|Marc Kirschenbaum,Leon Sterling|16|1|0|1
+114|Overprvning Large Decision Trees.|Jason Catlett|n/a
+115|Learning Structural Decision Trees from Examples.|Larry Watanabe,Larry A. Rendell|34|3|0|0
+116|Learning Nested Concept Classes with Limited Storage.|David G. Heath,Simon Kasif,S. Rao Kosaraju,Steven Salzberg,Gregory F. Sullivan|8|0|0|1
+117|Acquiring Knowledge by Efficient Query Learning.|Achim G. Hoffmann,Sunil Thakar|6|3|0|2
+118|The Base Selection Task in Analogical Planning.|Diane J. Cook|17|0|0|2
+119|FGP: A Virtual Machine for Acquiring Knowledge from Cases.|Scott Fertig,David Gelernter|11|0|0|0
+120|CABOT: An Adaptive Approach to Case-Based Search.|James P. Callan,Tom Fawcett,Edwina L. Rissland|37|3|0|2
+121|Constraints on Tree Structure in Concept Formation.|Kathleen B. McKusick,Pat Langley|64|11|0|5
+122|An Interactive Visual Language for Term Subsumption Languages.|Brian R. Gaines|102|6|1|40
+123|Cooperative Hybrid Systems.|Matthias Gutknecht,Rolf Pfeifer,Markus Stolze|n/a
+124|Integration of Neural Networks and Expert Systems for Process Fault Diagnosis.|Warren R. Becraft,Peter L. Lee,Robert B. Newell|23|2|0|0
+125|Analyzing Images Containing Multiple Sparse Patterns with Neural Networks.|Rangachari Anand,Kishan Mehrotra,Chilukuri K. Mohan,Sanjay Ranka|19|0|0|1
+126|The Utility of Feature Construcuon for Back-Propagation.|Harish Ragavan,Selwyn Piramuthu|n/a
+127|Weak Equivalence for Constraint Sets.|Sieger van Denneheuvel,Karen L. Kwast|8|0|0|3
+128|Fitting Semantics for Conditional Term Rewriting.|Chilukuri K. Mohan|1|0|0|0
+129|Derivation Procedures for Extended Stable Models.|Luís Moniz Pereira,Joaquim Nunes Aparício,José Júlio Alferes|72|6|0|23
+130|An Architecture for Visualizing the Execution of Parallel Logic Programs.|Mike Brayshaw|5|1|1|0
+131|A Non-shared Binding Scheme for Parallel Prolog Implementation.|Kang Zhang,Ray Thomas|5|0|0|4
+132|Programming in Autoepistemic Logic.|Kienchung Kuo|5|0|0|1
+133|Indefinite Reasoning with Definite Rules.|L. Thorne McCarty,Ron van der Meyden|19|3|0|16
+134|The Incomplete Database.|Karen L. Kwast|3|1|0|1
+135|Compiling Integrity Checking into Update Procedures.|Mark Wallace|33|2|0|5
+136|High Performance Natural Language Processing on Semantic Network Array Processor.|Hiroaki Kitano,Dan I. Moldovan,Seungho Cha|15|3|0|8
+137|Massively Parallel Memory-Based Parsing.|Hiroaki Kitano,Tetsuya Higuchi|42|4|0|9
+138|Incremental Syntactic and Semantic Processing.|Esther König|3|0|0|0
+139|An Environment for Experimentation with Parsing Strategies.|Gregor Erbach|11|0|0|3
+140|Resolving Plan Ambiguity for Cooperative Response Generation.|Peter van Beek,Robin Cohen|49|2|0|6
+141|Your Metaphor or Mine: Belief Ascription and Metaphor Interpretation.|Yorick Wilks,John A. Barnden,Jin Wang|12|3|0|1
+142|Confirmations and Joint Action.|Philip R. Cohen,Hector J. Levesque|156|34|0|13
+143|POST: Using Probabilities in Language Processing.|Marie Meteer,Richard M. Schwartz,Ralph M. Weischedel|63|6|0|0
+144|The Re-use of Linguistic Resources across Languages in Multilingual Generation Components.|John A. Bateman,Christian Matthiessen,Keizo Nanri,Licheng Zeng|55|2|0|9
+145|Natural Language and Exploration of an Information Space: The ALFresco Interactive System.|Oliviero Stock|76|4|1|10
+146|Efficient Representation of Linguistic Knowledge for Continuous Speech Understanding.|Paolo Baggia,Elisabetta Gerbino,Egidio P. Giachin,Claudio Rullent|9|1|0|5
+147|Organizational Issues Arising from the Integration of the Lexicon and Concept Network in a Text Understanding System.|Padraig Cunningham,Tony Veale|15|1|0|11
+148|Logic and Feature Structures.|Mark Johnson|40|1|0|6
+149|Interpretation of Definite Noun Phrases.|Liliana Ardissono,Leonardo Lesmo,Paolo Pogliano,Paolo Terenziani|4|1|0|1
+150|Using Pattern-Action Rules for the Generation of GPSG Structures from MT-Oriented Semantics.|Stephan Busemann|2|0|0|1
+151|Coordinated Morphological and Syntactic Analysis of Japanese Language.|Tsunenori Mine,Rin-ichiro Taniguchi,Makoto Amamiya|6|4|0|1
+152|A Parsing Method for Identifying Words in Mandarin Chinese Sentences.|Liang-Jyh Wang,Tzusheng Pei,Wei-Chuan Li,Lih-Ching R. Huang|19|0|0|1
+153|X2MORF: A Morphological Component Based on Augmented Two-Level Morphology.|Harald Trost|29|2|0|10
+154|Parsing = Parsimonious Covering? (Abduction in Logical Form Generation).|Venu Dasigi|6|1|0|2
+155|The Philosophy of Automated Theorem Proving.|Francis Jeffry Pelletier|22|0|0|3
+156|Generalised Inference and Inferential Modelling.|Raymond E. Jennings,Christine W. Chan,M. J. Dowad|13|1|0|5
+157|The Implications of Paraconsistency.|John K. Slaney|20|2|0|2
+158|Actions and Movements.|David J. Israel,John Perry,Syun Tutiya|34|2|0|4
+159|In Defense of Hyper-Logicist AI.|Selmer Bringsjord,Michael Zenzen|11|0|0|10
+160|The Problem of Induction and Machine Learning.|Francesco Bergadano|7|1|0|4
+161|UMRAO: A Chess Endgame Tutor.|Dinesh Gadwal,Jim E. Greer,Gordon I. McCalla|6|0|0|2
+162|Reasoning about Student Knowledge and Reasoning.|Luigia Carlucci Aiello,Maria Cialdea,Daniele Nardi|22|1|0|2
+163|Integration-Kid: A Learning Companion System.|Tak-Wai Chan|58|9|0|14
+164|An Endorsement-based Approach to Student Modeling for Planner-controlled Tutors.|William R. Murray|15|0|0|1
+165|When Oscillators Stop Oscillating.|Philippe Dague,Olivier Jehl,Philippe Deves,Pierre Luciani,Patrick Taillibert|36|3|0|2
+166|Diagnosing Temporal Misbehavior.|Gerhard Friedrich,Franz Lackinger|n/a
+167|Integrating Model-Based Monitoring and Diagnosis of Complex Dynamic Systems.|Franz Lackinger,Wolfgang Nejdl|35|8|0|1
+168|Representing Diagnostic Knowledge for Probabilistic Horn Abduction.|David Poole|48|6|0|8
+169|The Hybrid Phenomena Theory.|Erling A. Woods|50|8|0|3
+170|Extracting and Representing Qualitative Behaviors of Complex Systems in Phase Spaces.|Feng Zhao|105|9|0|28
+171|A Geometric Approach to Total Envisioning.|Toyoaki Nishida,Shuji Doshita|11|0|0|6
+172|Combining Qualitative and Quantitative Knowledge to Generate Models of Physical Systems.|Ulf Söderman,Jan-Erik Strömberg|12|0|0|0
+173|Directed Constraint Networks: A Relational Framework for Causal Modeling.|Rina Dechter,Judea Pearl|51|1|0|16
+174|Computational and Physical Causality.|Jan L. Top,Hans Akkermans|45|2|0|2
+175|Reified Temporal Theories and How to Unreify Them.|Antony Galton|47|9|0|3
+176|Characterizing Belief with Minimum Commitment.|Yen-Teh Hsia|35|13|0|2
+177|On a Tool for Reasoning with Mass Distributions.|Rudolf Kruse,Erhard Schwecke,Frank Klawonn|7|2|0|4
+178|Evidential Probability.|Henry E. Kyburg Jr.|n/a
+179|Propagation of Preference Relations in Qualitative Inference Networks.|S. K. Michael Wong,Pawan Lingras,Yiyu Yao|10|1|0|3
+180|Parallel Distributed Belief Networks That Learn.|Wilson X. Wen,Andrew Jennings|6|0|0|2
+181|Emergent Frame Recognition and Its Use in Artificial Creatures.|Luc Steels|15|0|0|3
+182|Integrating Reaction Plans and Layered Competences Through Synchronous Control.|R. Peter Bonasso|69|7|0|7
+183|Planning Robot Control Parameter Values with Qualitative Reasoning.|Stephen F. Peters,Shigeoki Hirai,Toru Omata,Tomomasa Sato|1|0|0|0
+184|Mobile Robot Navigation by an Active Control of the Vision System.|Patrick Stelmaszyk,Hiroshi Ishiguro,Saburo Tsuji|9|1|0|1
+185|Determining Robot Egomotion from Motion Parallax Observed by an Active Camera.|Matthew J. Barth,Hiroshi Ishiguro,Saburo Tsuji|7|2|0|0
+186|A Pictorial Approach to Object Classification.|Yerucham Shapira,Shimon Ullman|18|1|0|1
+187|Natural Object Recognition: A Theoretical Framework and Its Implementation.|Thomas M. Strat,Martin A. Fischler|13|1|0|4
+188|On Seeing Spaghetti: A Novel Self-Adjusting Seven Parameter Hough Space for Analyzing Flexible Extruded Objects.|John R. Kender,Rick Kjeldsen|n/a
+189|HyperBF Networks for Real Object Recognition.|Roberto Brunelli,Tomaso A. Poggio|44|4|0|12
+190|Shading-Based Two-View Matching.|Michel Audette,Paul R. Cohen,Juyang Weng|3|0|0|0
+191|Combining Stereo and Monocular Information to Compute Dense Depth Maps that Preserve Depth Discontinuities.|Pascal Fua|153|39|0|5
+192|Visual Interpretation of Lambertian Surface Deformation.|R. Mike Cameron-Jones|1|0|0|0
+193|Line Labeling and Junction Labeling: A Coupled System for Image Interpretation.|Terry Regier|4|1|0|0

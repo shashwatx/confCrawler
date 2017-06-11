@@ -1,0 +1,51 @@
+50
+1|Proceedings, 11th Annual IEEE Symposium on Logic in Computer Science, New Brunswick, New Jersey, USA, July 27-30, 1996.|n/a
+2|A Generalization of Fagin's Theorem.|J. Antonio Medina,Neil Immerman|1|1|0|1
+3|DATALOG SIRUPs Uniform Boundedness is Undecidable.|Jerzy Marcinkowski|6|0|0|0
+4|On the Structure of Queries in Constraint Query Languages.|Michael Benedikt,Leonid Libkin|46|0|0|18
+5|A Fully Abstract Domain Model for the pi-Calculus.|Ian Stark|122|14|0|3
+6|A Fully-Abstract Model for the pi-Calculus (Extended Abstract).|Marcelo P. Fiore,Eugenio Moggi,Davide Sangiorgi|n/a
+7|Higher Dimensional Transition Systems.|Gian Luca Cattani,Vladimiro Sassone|77|29|0|7
+8|An Algebraic Theory of Process Efficiency.|V. Natarajan,Rance Cleaveland|48|2|1|4
+9|The Subtyping Problem for Second-Order Types is Undecidable.|Jerzy Tiuryn,Pawel Urzyczyn|35|4|0|3
+10|Subtyping Dependent Types (Summary).|David Aspinall,Adriana B. Compagnoni|73|7|0|10
+11|Reduction-Free Normalisation for a Polymorphic System.|Thorsten Altenkirch,Martin Hofmann,Thomas Streicher|30|3|0|6
+12|An Until Hierarchy for Temporal Logic.|Kousha Etessami,Thomas Wilke|63|16|0|14
+13|Locally Linear Time Temporal Logic.|Ramaswamy Ramanujam|64|8|0|11
+14|A Modal Mu-Calculus for Durational Transition Systems.|Helmut Seidl|7|0|0|1
+15|Tarskian Set Constraints.|David A. McAllester,Robert Givan,Carl Witty,Dexter Kozen|32|2|0|1
+16|Reasoning about Local Variables with Operationally-Based Logical Relations.|Andrew M. Pitts|47|5|0|3
+17|The Essence of Parallel Algol.|Stephen D. Brookes|38|4|0|13
+18|Games and Full Abstraction for FPC.|Guy McCusker|51|8|0|9
+19|A Temporal-Logic Approach to Binding-Time Analysis.|Rowan Davies|151|36|0|2
+20|Symbolic Protocol Verification With Queue BDDs.|Patrice Godefroid,David E. Long|55|6|0|4
+21|Reactive Modules.|Rajeev Alur,Thomas A. Henzinger|687|187|6|63
+22|Model-Checking of Correctness Conditions for Concurrent Objects.|Rajeev Alur,Kenneth L. McMillan,Doron A. Peled|65|19|0|4
+23|A Semantic View of Classical Proofs: Type-Theoretic, Categorical, and Denotational Characterizations (Preliminary Extended Abstract).|C.-H. Luke Ong|97|20|0|2
+24|Syntactic Considerations on Recursive Types.|Martín Abadi,Marcelo P. Fiore|46|9|0|0
+25|On the Expressive Power of Simply Typed and Let-Polymorphic Lambda Calculi.|Gerd G. Hillebrand,Paris C. Kanellakis|16|5|0|0
+26|A Linear Logical Framework.|Iliano Cervesato,Frank Pfenning|217|59|0|57
+27|The Theory of Hybrid Automata.|Thomas A. Henzinger|1986|902|4|19
+28|Partial-Order Methods for Model Checking: From Linear Time to Branching Time.|Bernard Willems,Pierre Wolper|47|10|0|1
+29|Efficient Model Checking via the Equational µ-Calculus.|Girish Bhat,Rance Cleaveland|n/a
+30|General Decidability Theorems for Infinite-State Systems.|Parosh Aziz Abdulla,Karlis Cerans,Bengt Jonsson,Yih-Kuen Tsay|418|196|0|49
+31|Relating Word and Tree Automata.|Orna Kupferman,Shmuel Safra,Moshe Y. Vardi|26|5|0|8
+32|More About Recursive Structures: Descriptive Complexity and Zero-One Laws.|Tirza Hirst,David Harel|8|1|0|2
+33|On the Expressive Power of Variable-Confined Logics.|Phokion G. Kolaitis,Moshe Y. Vardi|21|1|0|7
+34|Zero-One Laws for Gilbert Random Graphs.|Gregory L. McColm|2|0|0|0
+35|The Scott Topology Induces the Weak Topology.|Abbas Edalat|19|4|0|4
+36|Integration in Real PCF.|Abbas Edalat,Martín Hötzel Escardó|36|3|0|13
+37|Game Semantics & Abstract Machines.|Vincent Danos,Hugo Herbelin,Laurent Regnier|n/a
+38|Semantics of Normal Logic Programs and Contested Information.|Shekhar Pradhan|4|0|0|2
+39|Linear Logic, Monads and the Lambda Calculus.|P. N. Benton,Philip Wadler|88|29|0|11
+40|Order-Incompleteness and Finite Lambda Models (Extended Abstract).|Peter Selinger|20|1|0|1
+41|Confluence and Preservation of Strong Normalisation in an Explicit Substitutions Calculus.|César A. Muñoz|47|1|0|3
+42|Completing Partial Combinatory Algebras With Unique Head-Normal Forms.|Inge Bethke,Jan Willem Klop,Roel C. de Vrijer|9|3|0|2
+43|Complexity Analysis Based on Ordered Resolution.|David A. Basin,Harald Ganzinger|48|17|0|5
+44|Solving Linear Equations over Polynomial Semirings.|Paliath Narendran|24|3|0|9
+45|Basic Paramodulation and Decidable Theories (Extended Abstract).|Robert Nieuwenhuis|59|12|0|6
+46|Counting Modulo Quantifiers on Finite Linearly Ordered Trees.|Juha Nurmonen|4|0|0|2
+47|Simultaneous E-Unification and Related Algorithmic Problems.|Anatoli Degtyarev,Yuri Matiyasevich,Andrei Voronkov|41|4|0|8
+48|Decidability Problems for the Prenex Fragment of Intuitionistic Logic.|Anatoli Degtyarev,Andrei Voronkov|34|4|0|12
+49|On the Complexity of Abduction.|V. Wiktor Marek,Anil Nerode,Jeffrey B. Remmel|6|0|0|1
+50|Decision Problems for Semi-Thue Systems with a Few Rules.|Yuri Matiyasevich,Géraud Sénizergues|91|15|0|3

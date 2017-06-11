@@ -1,0 +1,74 @@
+73
+1|Proceedings of the seventh ACM SIGKDD international conference on Knowledge discovery and data mining, San Francisco, CA, USA, August 26-29, 2001.|Doheon Lee,Mario Schkolnick,Foster J. Provost,Ramakrishnan Srikant|n/a
+2|Challenges for knowledge discovery in biology.|Russ B. Altman|2|0|0|0
+3|Extracting targeted data from the web.|Tom M. Mitchell|7|1|0|0
+4|Mass collaboration and data mining.|Raghu Ramakrishnan|6|3|0|1
+5|Applications of generalized support vector machines to predictive modeling.|Nitin Agrarwal|2|0|0|0
+6|Data mining: are we there yet?|Herb Edelstein|1|0|0|0
+7|Mining e-commerce data: the good, the bad, and the ugly.|Ron Kohavi|185|59|16|3
+8|Data mining platform for database developers.|Amir Netz|n/a
+9|Recommender systems in commerce and community.|John Riedl|2|0|0|0
+10|The "DGX" distribution for mining massive, skewed data.|Zhiqiang Bi,Christos Faloutsos,Flip Korn|100|43|0|19
+11|Data mining criteria for tree-based regression and classification.|Andreas Buja,Yung-Seop Lee|69|16|0|3
+12|Probabilistic modeling of transaction data with applications to profiling, visualization, and prediction.|Igor V. Cadez,Padhraic Smyth,Heikki Mannila|80|33|2|4
+13|GESS: a scalable similarity-join algorithm for mining large data sets in high dimensional spaces.|Jens-Peter Dittrich,Bernhard Seeger|61|31|0|8
+14|Mining the network value of customers.|Pedro M. Domingos,Matthew Richardson|1556|1200|7|13
+15|Empirical bayes screening for multi-item associations.|William DuMouchel,Daryl Pregibon|235|111|1|14
+16|Proximal support vector machine classifiers.|Glenn Fung,Olvi L. Mangasarian|5|4|0|0
+17|Data mining with sparse grids using simplicial basis functions.|Jochen Garcke,Michael Griebel|22|7|0|6
+18|Mining time-changing data streams.|Geoff Hulten,Laurie Spencer,Pedro M. Domingos|1201|644|17|4
+19|Visualizing multi-dimensional clusters, trends, and outliers using star coordinates.|Eser Kandogan|257|97|1|2
+20|Ensemble-index: a new approach to indexing large databases.|Eamonn J. Keogh,Selina Chu,Michael J. Pazzani|9|2|0|0
+21|Robust space transformations for distance-based operations.|Edwin M. Knorr,Raymond T. Ng,Ruben H. Zamar|47|9|0|1
+22|Molecular feature mining in HIV data.|Stefan Kramer,Luc De Raedt,Christoph Helma|249|63|1|34
+23|Discovering unexpected information from your competitors' web sites.|Bing Liu,Yiming Ma,Philip S. Yu|101|26|0|5
+24|Personalization from incomplete data: what you don't know can hurt.|Balaji Padmanabhan,Zhiqiang (Eric) Zheng,Steven Orla Kimbrough|77|25|0|7
+25|Probabilistic query models for transaction data.|Dmitry Pavlov,Padhraic Smyth|13|0|0|3
+26|Extracting collective probabilistic forecasts from web games.|David M. Pennock,Steve Lawrence,Finn Årup Nielsen,C. Lee Giles|91|31|2|10
+27|Tri-plots: scalable tools for multidimensional data mining.|Agma J. M. Traina,Caetano Traina Jr.,Spiros Papadimitriou,Christos Faloutsos|35|8|0|3
+28|Efficient discovery of error-tolerant frequent itemsets in high dimensions.|Cheng Yang,Usama M. Fayyad,Paul S. Bradley|146|49|0|1
+29|Learning and making decisions when costs and probabilities are both unknown.|Bianca Zadrozny,Charles Elkan|330|148|5|18
+30|Data mining case study: modeling the behavior of offenders who commit serious sexual assaults.|Richard Adderley,Peter B. Musgrove|44|21|0|2
+31|A human-computer cooperative system for effective high dimensional clustering.|Charu C. Aggarwal|41|5|0|5
+32|Mining massively incomplete data sets by conceptual reconstruction.|Charu C. Aggarwal,Srinivasan Parthasarathy|37|9|1|8
+33|Evaluating the novelty of text-mined rules using lexical knowledge.|Sugato Basu,Raymond J. Mooney,Krupakar V. Pasupuleti,Joydeep Ghosh|57|19|0|4
+34|Fast ordering of large categorical datasets for better visualization.|Alina Beygelzimer,Chang-Shing Perng,Sheng Ma|14|2|0|2
+35|Random projection in dimensionality reduction: applications to image and text data.|Ella Bingham,Heikki Mannila|795|506|2|1
+36|Gaining insights into support vector machine pattern classifiers using projection-based tour methods.|Doina Caragea,Dianne Cook,Vasant Honavar|32|17|1|3
+37|PVA: a self-adaptive personal view agent system.|Chien Chin Chen,Meng Chang Chen,Yeali S. Sun|107|34|2|3
+38|A robust and scalable clustering algorithm for mixed type attributes in large database environment.|Tom Chiu,DongPing Fang,John Chen,Yao Wang,Christopher Jeris|437|279|0|2
+39|Co-clustering documents and words using bipartite spectral graph partitioning.|Inderjit S. Dhillon|1283|750|22|7
+40|A spectral method to separate disconnected and nearly-disconnected web graph components.|Chris H. Q. Ding,Xiaofeng He,Hongyuan Zha|54|18|0|8
+41|Clustering spatial data using random walks.|David Harel,Yehuda Koren|85|28|1|2
+42|Solving regression problems with rule-based ensemble classifiers.|Nitin Indurkhya,Sholom M. Weiss|27|17|0|3
+43|Mining top-n local outliers in large databases.|Wen Jin,Anthony K. H. Tung,Jiawei Han|303|133|2|12
+44|Generalized clustering, supervised learning, and data assignment.|Annaka Kalton,Pat Langley,Kiri Wagstaff,Jungsoon P. Yoo|43|15|0|0
+45|Mining a stream of transactions for customer patterns.|Diane Lambert,José C. Pinheiro|23|3|0|1
+46|The distributed boosting algorithm.|Aleksandar Lazarevic,Zoran Obradovic|84|38|0|1
+47|Induction of semantic classes from natural language text.|Dekang Lin,Patrick Pantel|136|60|5|5
+48|DIRT @SBT@discovery of inference rules from text.|Dekang Lin,Patrick Pantel|536|339|14|2
+49|Identifying non-actionable association rules.|Bing Liu,Wynne Hsu,Yiming Ma|61|15|0|2
+50|Discovering the set of fundamental rule changes.|Bing Liu,Wynne Hsu,Yiming Ma|75|24|0|0
+51|Finding simple intensity descriptions from event sequence data.|Heikki Mannila,Marko Salmenkivi|26|11|1|4
+52|Data filtering for automatic classification of rocks from reflectance spectra.|Jonathan Moody,Ricardo Bezerra de Andrade e Silva,Joseph Vanderwaart|8|2|0|0
+53|Mining frequent neighboring class sets in spatial databases.|Yasuhiko Morimoto|157|64|1|2
+54|Experimental comparisons of online and batch versions of bagging and boosting.|Nikunj C. Oza,Stuart J. Russell|109|69|1|2
+55|TreeDT: gene mapping by tree disequilibrium test.|Petteri Sevon,Hannu Toivonen,Vesa Ollikainen|11|1|2|4
+56|Detecting graph-based spatial outliers: algorithms and applications (a summary of results).|Shashi Shekhar,Chang-Tien Lu,Pusheng Zhang|166|64|0|27
+57|A streaming ensemble algorithm (SEA) for large-scale classification.|W. Nick Street,YongSeog Kim|686|440|2|7
+58|Discovering associations with numeric variables.|Geoffrey I. Webb|106|36|0|10
+59|Discovering outlier filtering rules from unlabeled data: combining a supervised learner with an unsupervised learner.|Kenji Yamanishi,Jun-ichi Takeuchi|111|54|1|2
+60|Infominer: mining surprising periodic patterns.|Jiong Yang,Wei Wang,Philip S. Yu|92|47|2|6
+61|Real world performance of association rule algorithms.|Zijian Zheng,Ron Kohavi,Llew Mason|497|202|5|2
+62|Segmentation-based modeling for advanced targeted marketing.|Chidanand Apté,E. Bibelnieks,Ramesh Natarajan,Edwin P. D. Pednault,Fateh Tipu,Deb Campbell,Bryan Nelson|44|20|4|10
+63|Interactive path analysis of web site traffic.|Pavel Berkhin,Jonathan D. Becher,Dee Jay Randall|41|11|1|0
+64|Estimating business targets.|Piew Datta,James Drew,Andrew Betz,D. R. Mani,Jeffery Howard|1|0|0|0
+65|Magical thinking in data mining: lessons from CoIL challenge 2000.|Charles Elkan|96|52|2|1
+66|REVI-MINER, a KDD-environment for deviation detection and analysis of warranty and goodwill cost statements in automotive industry.|Edgar Hotz,Udo Grimmer,W. Heuser,Gholamreza Nakhaeizadeh,M. Wieczorek|15|0|0|2
+67|Data mining techniques to improve forecast accuracy in airline business.|Christoph Hueglin,Francesco Vannotti|15|9|0|0
+68|Mining from open answers in questionnaire data.|Hang Li,Kenji Yamanishi|41|14|2|2
+69|Funnel report mining for the MSN network.|Teresa Mah,Hank Hoek,Ying Li|9|3|0|1
+70|Evaluation of prediction models for marketing campaigns.|Saharon Rosset,Einat Neumann,Uri Eick,Nurit Vatnik,Yizhak Idan|36|10|1|5
+71|Knowledge base maintenance using knowledge gap analysis.|W. Scott Spangler,Jeffrey T. Kreulen|10|3|2|0
+72|Mining user session data to facilitate user interaction with a customer service knowledge base in RightNow Web.|Doug Warner,J. Neal Richter,Stephen D. Durbin,Bikramjit Banerjee|7|1|1|3
+73|Mining web logs for prediction models in WWW caching and prefetching.|Qiang Yang,Henry Haining Zhang,Ian Tian Yi Li|203|73|18|8

@@ -1,0 +1,93 @@
+92
+1|Symposium on Theory of Computing, STOC 2014, New York, NY, USA, May 31 - June 03, 2014.|David B. Shmoys|n/a
+2|Fingerprinting codes and the price of approximate differential privacy.|Mark Bun,Jonathan Ullman,Salil P. Vadhan|31|28|0|13
+3|Analyze gauss: optimal bounds for privacy-preserving principal component analysis.|Cynthia Dwork,Kunal Talwar,Abhradeep Thakurta,Li Zhang|18|16|0|3
+4|Private matchings and allocations.|Justin Hsu,Zhiyi Huang,Aaron Roth,Tim Roughgarden,Zhiwei Steven Wu|23|21|0|10
+5|Rounding sum-of-squares relaxations.|Boaz Barak,Jonathan A. Kelner,David Steurer|25|23|0|8
+6|Constant factor approximation for balanced cut in the PIE model.|Konstantin Makarychev,Yury Makarychev,Aravindan Vijayaraghavan|7|6|0|0
+7|Entropy, optimization and counting.|Mohit Singh,Nisheeth K. Vishnoi|7|6|0|0
+8|Polynomial bounds for the grid-minor theorem.|Chandra Chekuri,Julia Chuzhoy|43|40|0|7
+9|An excluded half-integral grid theorem for digraphs and the directed disjoint paths problem.|Ken-ichi Kawarabayashi,Yusuke Kobayashi,Stephan Kreutzer|3|3|0|2
+10|Cops, robbers, and threatening skeletons: padded decomposition for minor-free graphs.|Ittai Abraham,Cyril Gavoille,Anupam Gupta,Ofer Neiman,Kunal Talwar|4|3|0|0
+11|Deciding first-order properties of nowhere dense graphs.|Martin Grohe,Stephan Kreutzer,Sebastian Siebertz|35|31|0|7
+12|Pseudorandom generators with optimal seed length for non-boolean poly-size circuits.|Sergei Artemenko,Ronen Shaltiel|1|1|0|1
+13|On derandomizing algorithms that err extremely rarely.|Oded Goldreich,Avi Wigderson|1|1|0|1
+14|Super-polynomial lower bounds for depth-4 homogeneous arithmetic formulas.|Neeraj Kayal,Nutan Limaye,Chandan Saha,Srikanth Srinivasan|7|7|0|2
+15|Lower bounds for depth 4 formulas computing iterated matrix multiplication.|Hervé Fournier,Nutan Limaye,Guillaume Malod,Srikanth Srinivasan|36|36|0|3
+16|The limits of depth reduction for arithmetic formulas: it's all about the top fan-in.|Mrinal Kumar,Shubhangi Saraf|20|20|0|6
+17|A super-polynomial lower bound for regular arithmetic formulas.|Neeraj Kayal,Chandan Saha,Ramprasad Saptharishi|31|31|0|12
+18|A characterization of locally testable affine-invariant properties via decomposition theorems.|Yuichi Yoshida|5|5|0|2
+19|Lp-testing.|Piotr Berman,Sofya Raskhodnikova,Grigory Yaroslavtsev|n/a
+20|Turnstile streaming algorithms might as well be linear sketches.|Yi Li,Huy L. Nguyen,David P. Woodruff|15|14|0|5
+21|Linear time construction of compressed text indices in compact space.|Djamal Belazzougui|9|8|0|5
+22|New algorithms and lower bounds for circuits with linear threshold gates.|Ryan Williams|18|15|0|8
+23|Formulas vs. circuits for small distance connectivity.|Benjamin Rossman|5|5|0|3
+24|Toward better formula lower bounds: an information complexity approach to the KRW composition conjecture.|Dmitry Gavinsky,Or Meir,Omri Weinstein,Avi Wigderson|7|6|0|3
+25|Breaking the minsky-papert barrier for constant-depth circuits.|Alexander A. Sherstov|7|7|0|2
+26|Economic efficiency requires interaction.|Shahar Dobzinski,Noam Nisan,Sigal Oren|11|10|0|2
+27|The sample complexity of revenue maximization.|Richard Cole,Tim Roughgarden|23|22|0|5
+28|Optimal competitive auctions.|Ning Chen,Nick Gravin,Pinyan Lu|11|11|0|1
+29|The matching polytope has exponential extension complexity.|Thomas Rothvoß|70|69|0|0
+30|Homological product codes.|Sergey Bravyi,Matthew B. Hastings|14|14|0|0
+31|Exponential improvement in precision for simulating sparse Hamiltonians.|Dominic W. Berry,Andrew M. Childs,Richard Cleve,Robin Kothari,Rolando D. Somma|29|27|0|4
+32|A quantum algorithm for computing the unit group of an arbitrary degree number field.|Kirsten Eisenträger,Sean Hallgren,Alexei Kitaev,Fang Song|11|7|0|0
+33|Primal beats dual on online packing LPs in the random-order model.|Thomas Kesselheim,Klaus Radke,Andreas Tönnis,Berthold Vöcking|22|20|0|3
+34|Competitive algorithms from competitive equilibria: non-clairvoyant scheduling under polyhedral constraints.|Sungjin Im,Janardhan Kulkarni,Kamesh Munagala|9|9|0|6
+35|Minimum bisection is fixed parameter tractable.|Marek Cygan,Daniel Lokshtanov,Marcin Pilipczuk,Michal Pilipczuk,Saket Saurabh|17|17|0|3
+36|An efficient parallel solver for SDD linear systems.|Richard Peng,Daniel A. Spielman|27|27|0|5
+37|Solving SDD linear systems in nearly mlog1/2n time.|Michael B. Cohen,Rasmus Kyng,Gary L. Miller,Jakub W. Pachocki,Richard Peng,Anup Rao,Shen Chen Xu|18|18|0|5
+38|Optimal CUR matrix decompositions.|Christos Boutsidis,David P. Woodruff|27|25|0|5
+39|From hierarchical partitions to hierarchical covers: optimal fault-tolerant spanners for doubling metrics.|Shay Solomon|8|8|0|4
+40|Shortest paths on polyhedral surfaces and terrains.|Siu-Wing Cheng,Jiongxin Jin|3|3|0|1
+41|Embedding and canonizing graphs of bounded genus in logspace.|Michael Elberfeld,Ken-ichi Kawarabayashi|5|4|0|2
+42|Testing surface area with arbitrary accuracy.|Joe Neeman|1|0|0|0
+43|Coin flipping of any constant bias implies one-way functions.|Itay Berman,Iftach Haitner,Aris Tentes|3|2|0|1
+44|An almost-optimally fair three-party coin-flipping protocol.|Iftach Haitner,Eliad Tsfadia|3|1|0|1
+45|Robust protocols for securely expanding randomness and distributing keys using untrusted quantum devices.|Carl A. Miller,Yaoyun Shi|33|32|0|3
+46|Infinite randomness expansion with a constant number of devices.|Matthew Coudron,Henry Yuen|15|15|0|0
+47|The average sensitivity of an intersection of half spaces.|Daniel M. Kane|4|4|0|0
+48|From average case complexity to improper learning complexity.|Amit Daniely,Nati Linial,Shai Shalev-Shwartz|24|23|0|6
+49|The power of localization for efficiently learning linear separators with noise.|Pranjal Awasthi,Maria-Florina Balcan,Philip M. Long|17|17|0|4
+50|Bandits with switching costs: T2/3 regret.|Ofer Dekel,Jian Ding,Tomer Koren,Yuval Peres|7|6|0|4
+51|Online local learning via semidefinite programming.|Paul Christiano|7|7|0|2
+52|How to use indistinguishability obfuscation: deniable encryption, and more.|Amit Sahai,Brent Waters|158|129|0|23
+53|How to delegate computations: the power of no-signaling proofs.|Yael Tauman Kalai,Ran Raz,Ron D. Rothblum|30|21|0|5
+54|Circuits resilient to additive attacks with applications to secure computation.|Daniel Genkin,Yuval Ishai,Manoj Prabhakaran,Amit Sahai,Eran Tromer|9|8|0|1
+55|On the existence of extractable one-way functions.|Nir Bitansky,Ran Canetti,Omer Paneth,Alon Rosen|26|23|0|5
+56|Black-box non-black-box zero knowledge.|Vipul Goyal,Rafail Ostrovsky,Alessandra Scafuro,Ivan Visconti|3|3|0|3
+57|Dichotomies in equilibrium computation, and complementary pivot algorithms for a new class of non-separable utility functions.|Jugal Garg,Ruta Mehta,Vijay V. Vazirani|5|5|0|5
+58|Query complexity of approximate nash equilibria.|Yakov Babichenko|13|13|0|3
+59|Constant rank bimatrix games are PPAD-hard.|Ruta Mehta|6|6|0|1
+60|Approximation algorithms for bipartite matching with metric and geometric costs.|Pankaj K. Agarwal,R. Sharathkumar|2|2|0|0
+61|Distributed approximation algorithms for weighted shortest paths.|Danupon Nanongkai|31|28|0|7
+62|Parallel algorithms for geometric graph problems.|Alexandr Andoni,Aleksandar Nikolov,Krzysztof Onak,Grigory Yaroslavtsev|10|9|0|0
+63|Fourier PCA and robust tensor decomposition.|Navin Goyal,Santosh Vempala,Ying Xiao|25|24|0|4
+64|Smoothed analysis of tensor decompositions.|Aditya Bhaskara,Moses Charikar,Ankur Moitra,Aravindan Vijayaraghavan|36|35|0|3
+65|Efficient density estimation via piecewise polynomial approximation.|Siu-on Chan,Ilias Diakonikolas,Rocco A. Servedio,Xiaorui Sun|27|25|0|10
+66|Super-polylogarithmic hypergraph coloring hardness via low-degree long codes.|Venkatesan Guruswami,Prahladh Harsha,Johan Håstad,Srikanth Srinivasan,Girish Varma|12|12|0|6
+67|Analytical approach to parallel repetition.|Irit Dinur,David Steurer|46|44|0|2
+68|A characterization of strong approximation resistance.|Subhash Khot,Madhur Tulsiani,Pratik Worah|6|6|0|1
+69|A strongly polynomial algorithm for generalized flow maximization.|László A. Végh|3|3|0|0
+70|Approximate distance oracles with constant query time.|Shiri Chechik|18|15|0|3
+71|Faster all-pairs shortest paths via circuit complexity.|Ryan Williams|55|48|0|7
+72|Sublinear-time decremental algorithms for single-source reachability and shortest paths on directed graphs.|Monika Henzinger,Sebastian Krinninger,Danupon Nanongkai|10|9|0|5
+73|Zig-zag sort: a simple deterministic data-oblivious sorting algorithm running in O(n log n) time.|Michael T. Goodrich|12|10|0|0
+74|Community detection thresholds and the weak Ramanujan property.|Laurent Massoulié|87|78|0|0
+75|Distributed computability in Byzantine asynchronous systems.|Hammurabi Mendes,Christine Tasson,Maurice Herlihy|2|2|0|1
+76|Are lock-free concurrent algorithms practically wait-free?|Dan Alistarh,Keren Censor-Hillel,Nir Shavit|15|15|0|5
+77|Multiway cut, pairwise realizable distributions, and descending thresholds.|Ankit Sharma,Jan Vondrák|5|5|0|0
+78|Cluster before you hallucinate: approximating node-capacitated network design and energy efficient routing.|Ravishankar Krishnaswamy,Viswanath Nagarajan,Kirk Pruhs,Cliff Stein|3|2|0|0
+79|Approximation algorithms for regret-bounded vehicle routing and applications to distance-constrained vehicle routing.|Zachary Friggstad,Chaitanya Swamy|5|4|0|0
+80|Improved approximation algorithms for degree-bounded network design problems with node connectivity requirements.|Alina Ene,Ali Vakilian|4|3|0|0
+81|Every list-decodable code for high noise has abundant near-optimal rate puncturings.|Atri Rudra,Mary Wootters|4|4|0|3
+82|Non-malleable codes from additive combinatorics.|Divesh Aggarwal,Yevgeniy Dodis,Shachar Lovett|41|36|0|11
+83|Breaking the quadratic barrier for 3-LCC's over the reals.|Zeev Dvir,Shubhangi Saraf,Avi Wigderson|6|6|0|2
+84|Optimal error rates for interactive coding I: adaptivity and other settings.|Mohsen Ghaffari,Bernhard Haeupler,Madhu Sudan|25|23|0|8
+85|The asymptotic k-SAT threshold.|Amin Coja-Oghlan|25|19|0|3
+86|Satisfiability threshold for random regular NAE-SAT.|Jian Ding,Allan Sly,Nike Sun|6|4|0|1
+87|Inapproximability for antiferromagnetic spin systems in the tree non-uniqueness region.|Andreas Galanis,Daniel Stefankovic,Eric Vigoda|17|16|0|6
+88|Efficient deterministic approximate counting for low-degree polynomial threshold functions.|Anindya De,Rocco A. Servedio|2|2|0|1
+89|Communication is bounded by root of rank.|Shachar Lovett|20|19|0|3
+90|Communication lower bounds via critical block sensitivity.|Mika Göös,Toniann Pitassi|8|8|0|0
+91|Computing with a full memory: catalytic space.|Harry Buhrman,Richard Cleve,Michal Koucký,Bruno Loff,Florian Speelman|8|4|0|2
+92|Hitting sets for multilinear read-once algebraic branching programs, in any order.|Michael A. Forbes,Ramprasad Saptharishi,Amir Shpilka|15|15|0|7

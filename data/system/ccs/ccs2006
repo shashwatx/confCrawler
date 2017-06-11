@@ -1,0 +1,41 @@
+40
+1|Proceedings of the 13th ACM Conference on Computer and Communications Security, CCS 2006, Alexandria, VA, USA, Ioctober 30 - November 3, 2006.|Ari Juels,Rebecca N. Wright,Sabrina De Capitani di Vimercati|n/a
+2|System and network trustworthiness in perspective.|Peter G. Neumann|14|7|0|1
+3|Providing witness anonymity in peer-to-peer systems.|Bo Zhu,Sanjeev Setia,Sushil Jajodia|9|4|0|1
+4|Salsa: a structured approach to large-scale anonymity.|Arjun Nambiar,Matthew K. Wright|143|93|1|7
+5|Hot or not: revealing hidden services by their clock skew.|Steven J. Murdoch|195|133|0|4
+6|Packet vaccine: black-box exploit detection and signature generation.|XiaoFeng Wang,Zhuowei Li,Jun Xu,Michael K. Reiter,Chongkyung Kil,Jong Youl Choi|82|34|2|6
+7|Protomatching network traffic for high throughputnetwork intrusion detection.|Shai Rubin,Somesh Jha,Barton P. Miller|22|8|0|2
+8|Evading network anomaly detection systems: formal reasoning and practical techniques.|Prahlad Fogla,Wenke Lee|117|81|3|2
+9|Data collection with self-enforcing privacy.|Philippe Golle,Frank McSherry,Ilya Mironov|41|24|0|0
+10|Searchable symmetric encryption: improved definitions and efficient constructions.|Reza Curtmola,Juan A. Garay,Seny Kamara,Rafail Ostrovsky|746|667|5|1
+11|Attribute-based encryption for fine-grained access control of encrypted data.|Vipul Goyal,Omkant Pandey,Amit Sahai,Brent Waters|2323|2090|20|58
+12|Secure attribute-based systems.|Matthew Pirretti,Patrick Traynor,Patrick McDaniel,Brent Waters|398|319|8|2
+13|Resiliency policies in access control.|Ninghui Li,Mahesh V. Tripunitara,Qihua Wang|34|27|0|4
+14|Safety and consistency in policy-based authorization systems.|Adam J. Lee,Marianne Winslett|32|18|0|5
+15|On the modeling and analysis of obligations.|Keith Irwin,Ting Yu,William H. Winsborough|100|62|0|8
+16|RoleMiner: mining roles using subset enumeration.|Jaideep Vaidya,Vijayalakshmi Atluri,Janice Warner|149|111|1|20
+17|Doppelganger: Better browser privacy without the bother.|Umesh Shankar,Chris Karlof|46|29|0|2
+18|Fourth-factor authentication: somebody you know.|John G. Brainard,Ari Juels,Ronald L. Rivest,Michael Szydlo,Moti Yung|182|141|11|1
+19|An effective defense against email spam laundering.|Mengjun Xie,Heng Yin,Haining Wang|39|26|2|3
+20|Forward-secure signatures with untrusted update.|Xavier Boyen,Hovav Shacham,Emily Shen,Brent Waters|50|30|0|0
+21|How to win the clonewars: efficient periodic n-times anonymous authentication.|Jan Camenisch,Susan Hohenberger,Markulf Kohlweiss,Anna Lysyanskaya,Mira Meyerovich|185|131|5|32
+22|A fully collusion resistant broadcast, trace, and revoke system.|Dan Boneh,Brent Waters|158|117|2|11
+23|Puppetnets: misusing web browsers as a distributed attack infrastructure.|Vinh The Lam,Spyros Antonatos,Periklis Akritidis,Kostas G. Anagnostakis|n/a
+24|A natural language approach to automated cryptanalysis of two-time pads.|Joshua Mason,Kathryn Watkins,Jason Eisner,Adam Stubblefield|13|6|0|0
+25|Dictionary attacks using keyboard acoustic emanations.|Yigael Berger,Avishai Wool,Arie Yeredor|69|51|0|0
+26|Inferring the source of encrypted HTTP connections.|Marc Liberatore,Brian Neil Levine|207|162|1|3
+27|TinySeRSync: secure and resilient time synchronization in wireless sensor networks.|Kun Sun,Peng Ning,Cliff Wang|175|108|0|8
+28|Secure hierarchical in-network aggregation in sensor networks.|Haowen Chan,Adrian Perrig,Dawn Xiaodong Song|350|229|1|9
+29|Provably-secure time-bound hierarchical key assignment schemes.|Giuseppe Ateniese,Alfredo De Santis,Anna Lisa Ferrara,Barbara Masucci|108|86|0|13
+30|Optimizing BGP security by exploiting path stability.|Kevin R. B. Butler,Patrick McDaniel,William Aiello|63|43|1|1
+31|Replayer: automatic protocol replay by binary analysis.|James Newsome,David Brumley,Jason Franklin,Dawn Xiaodong Song|96|50|0|10
+32|EXE: automatically generating inputs of death.|Cristian Cadar,Vijay Ganesh,Peter M. Pawlowski,David L. Dill,Dawson R. Engler|825|606|16|29
+33|A scalable approach to attack graph generation.|Xinming Ou,Wayne F. Boyer,Miles A. McQueen|391|282|2|22
+34|Formal specification and verification of data separation in a separation kernel for an embedded system.|Constance L. Heitmeyer,Myla Archer,Elizabeth I. Leonard,John D. McLean|73|50|0|5
+35|Beyond separation of duty: an algebra for specifying high-level security policies.|Ninghui Li,Qihua Wang|56|42|0|2
+36|Computationally sound secrecy proofs by mechanized flow analysis.|Michael Backes,Peeter Laud|62|27|0|33
+37|Stateful public-key cryptosystems: how to encrypt with one 160-bit exponentiation.|Mihir Bellare,Tadayoshi Kohno,Victor Shoup|49|28|1|2
+38|Multi-signatures in the plain public-Key model and a general forking lemma.|Mihir Bellare,Gregory Neven|247|188|1|11
+39|Deniable authentication and key exchange.|Mario Di Raimondo,Rosario Gennaro,Hugo Krawczyk|56|40|0|1
+40|Secure function evaluation with ordered binary decision diagrams.|Louis Kruger,Somesh Jha,Eu-Jin Goh,Dan Boneh|65|57|8|0

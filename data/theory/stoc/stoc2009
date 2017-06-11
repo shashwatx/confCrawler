@@ -1,0 +1,81 @@
+80
+1|Proceedings of the 41st Annual ACM Symposium on Theory of Computing, STOC 2009, Bethesda, MD, USA, May 31 - June 2, 2009.|Michael Mitzenmacher|n/a
+2|The work of Leslie Valiant.|Avi Wigderson|0|0|0|0
+3|Message passing algorithms and improved LP decoding.|Sanjeev Arora,Constantinos Daskalakis,David Steurer|52|50|1|0
+4|List decoding tensor products and interleaved codes.|Parikshit Gopalan,Venkatesan Guruswami,Prasad Raghavendra|23|22|0|3
+5|Artin automorphisms, cyclotomic function fields, and folded list-decodable codes.|Venkatesan Guruswami|6|3|0|2
+6|A deterministic reduction for the gap minimum distance problem: [extended abstract].|Qi Cheng,Daqing Wan|17|17|0|2
+7|3-query locally decodable codes of subexponential length.|Klim Efremenko|109|98|2|4
+8|Exact learning of random DNF over the uniform distribution.|Linda Sellie|13|11|0|0
+9|Polynomial-time theory of matrix groups.|László Babai,Robert Beals,Ákos Seress|28|24|0|8
+10|Affine dispersers from subspace polynomials.|Eli Ben-Sasson,Swastik Kopparty|39|35|0|7
+11|On oblivious PTAS's for nash equilibrium.|Constantinos Daskalakis,Christos H. Papadimitriou|47|41|0|12
+12|The extended BG-simulation and the characterization of t-resiliency.|Eli Gafni|35|34|0|5
+13|An efficient algorithm for partial order production.|Jean Cardinal,Samuel Fiorini,Gwenaël Joret,Raphaël M. Jungers,J. Ian Munro|17|15|0|7
+14|A nearly optimal oracle for avoiding failed vertices and edges.|Aaron Bernstein,David R. Karger|40|35|0|0
+15|Distributed (delta+1)-coloring in linear (in delta) time.|Leonid Barenboim,Michael Elkin|81|72|0|10
+16|Near-perfect load balancing by randomized rounding.|Tobias Friedrich,Thomas Sauerwald|25|22|0|11
+17|New direct-product testers and 2-query PCPs.|Russell Impagliazzo,Valentine Kabanets,Avi Wigderson|22|21|0|1
+18|On proximity oblivious testing.|Oded Goldreich,Dana Ron|42|36|0|20
+19|Testing juntas nearly optimally.|Eric Blais|71|68|0|15
+20|Green's conjecture and testing linear-invariant properties.|Asaf Shapira|34|31|0|4
+21|Athena lecture: Controlling Access to Programs?|Shafi Goldwasser|1|1|0|0
+22|Fully homomorphic encryption using ideal lattices.|Craig Gentry|2094|2010|36|32
+23|A unified framework for concurrent security: universal composability from stand-alone non-malleability.|Huijia Lin,Rafael Pass,Muthuramakrishnan Venkitasubramaniam|63|61|0|18
+24|Non-malleability amplification.|Huijia Lin,Rafael Pass|29|28|0|12
+25|Approximating edit distance in near-linear time.|Alexandr Andoni,Krzysztof Onak|36|33|0|6
+26|Numerical linear algebra in the streaming model.|Kenneth L. Clarkson,David P. Woodruff|155|150|0|32
+27|A fast and efficient algorithm for low-rank approximation of a matrix.|Nam H. Nguyen,Thong T. Do,Trac D. Tran|43|41|0|5
+28|An improved constant-time approximation algorithm for maximum~matchings.|Yuichi Yoshida,Masaki Yamamoto,Hiro Ito|37|34|0|7
+29|Finding sparse cuts locally using evolving sets.|Reid Andersen,Yuval Peres|89|83|0|0
+30|On the geometry of graphs with a forbidden minor.|James R. Lee,Anastasios Sidiropoulos|16|14|0|8
+31|Twice-ramanujan sparsifiers.|Joshua D. Batson,Daniel A. Spielman,Nikhil Srivastava|186|171|0|19
+32|Max cut and the smallest eigenvalue.|Luca Trevisan|62|57|0|2
+33|Homology flows, cohomology cuts.|Erin W. Chambers,Jeff Erickson,Amir Nayyeri|43|37|0|10
+34|Integrality gaps for Sherali-Adams relaxations.|Moses Charikar,Konstantin Makarychev,Yury Makarychev|96|78|0|2
+35|Sherali-adams relaxations of the matching polytope.|Claire Mathieu,Alistair Sinclair|29|25|0|1
+36|CSP gaps and reductions in the lasserre hierarchy.|Madhur Tulsiani|92|84|0|8
+37|Linear time approximation schemes for the Gale-Berlekamp game and related minimization problems.|Marek Karpinski,Warren Schudy|22|18|0|6
+38|Non-monotone submodular maximization under matroid and knapsack constraints.|Jon Lee,Vahab S. Mirrokni,Viswanath Nagarajan,Maxim Sviridenko|109|96|0|5
+39|Public-key cryptosystems from the worst-case shortest vector problem: extended abstract.|Chris Peikert|396|354|7|26
+40|A constructive proof of the Lovász local lemma.|Robin A. Moser|n/a
+41|Universally utility-maximizing privacy mechanisms.|Arpita Ghosh,Tim Roughgarden,Mukund Sundararajan|195|185|1|4
+42|Private coresets.|Dan Feldman,Amos Fiat,Haim Kaplan,Kobbi Nissim|n/a
+43|Differential privacy and robust statistics.|Cynthia Dwork,Jing Lei|184|168|0|10
+44|On the complexity of differentially private data release: efficient algorithms and hardness results.|Cynthia Dwork,Moni Naor,Omer Reingold,Guy N. Rothblum,Salil P. Vadhan|171|162|0|13
+45|Quantum algorithms using the curvelet transform.|Yi-Kai Liu|5|4|0|1
+46|Short seed extractors against quantum storage.|Amnon Ta-Shma|22|22|0|0
+47|Efficient discrete-time simulations of continuous-time quantum query algorithms.|Richard Cleve,Daniel Gottesman,Michele Mosca,Rolando D. Somma,David L. Yonge-Mallo|27|23|0|5
+48|The detectability lemma and quantum gap amplification.|Dorit Aharonov,Itai Arad,Zeph Landau,Umesh V. Vazirani|39|36|0|16
+49|Affiliation networks.|Silvio Lattanzi,D. Sivakumar|n/a
+50|Fault-tolerant spanners for general graphs.|Shiri Chechik,Michael Langberg,David Peleg,Liam Roditty|38|33|0|11
+51|Hadwiger's conjecture is decidable.|Ken-ichi Kawarabayashi,Bruce A. Reed|21|21|0|4
+52|Finding, minimizing, and counting weighted subgraphs.|Virginia Vassilevska,Ryan Williams|55|42|0|4
+53|On the complexity of communication complexity.|Eyal Kushilevitz,Enav Weinreb|13|11|0|1
+54|Bit-probe lower bounds for succinct data structures.|Emanuele Viola|19|15|0|6
+55|Randomly supported independence and resistance.|Per Austrin,Johan Håstad|31|30|0|5
+56|Conditional hardness for satisfiable 3-CSPs.|Ryan O'Donnell,Yi Wu|34|26|0|4
+57|A new approach to auctions and resilient mechanism design.|Jing Chen,Silvio Micali|10|7|0|7
+58|Intrinsic robustness of the price of anarchy.|Tim Roughgarden|222|207|0|24
+59|On the convergence of regret minimization dynamics in concave games.|Eyal Even-Dar,Yishay Mansour,Uri Nadav|37|33|0|6
+60|Multiplicative updates outperform generic no-regret learning in congestion games: extended abstract.|Robert Kleinberg,Georgios Piliouras,Éva Tardos|75|60|0|14
+61|MaxMin allocation via degree lower-bounded arborescences.|MohammadHossein Bateni,Moses Charikar,Venkatesan Guruswami|55|51|0|0
+62|How long does it take to catch a wild kangaroo?|Ravi Montenegro,Prasad Tetali|13|11|0|2
+63|Random walks on polytopes and an affine interior point method for linear programming.|Ravi Kannan,Hariharan Narayanan|33|31|0|7
+64|Mixing time for the solid-on-solid model.|Fabio Martinelli,Alistair Sinclair|13|13|0|7
+65|Reconstruction for the Potts model.|Allan Sly|28|28|0|9
+66|Tight lower bounds for greedy routing in uniform small world rings.|Martin Dietzfelbinger,Philipp Woelfel|24|20|0|3
+67|Non-malleable extractors and symmetric key cryptography from weak secrets.|Yevgeniy Dodis,Daniel Wichs|70|65|0|12
+68|Inaccessible entropy.|Iftach Haitner,Omer Reingold,Salil P. Vadhan,Hoeteck Wee|32|27|0|12
+69|On cryptography with auxiliary input.|Yevgeniy Dodis,Yael Tauman Kalai,Shachar Lovett|149|126|0|18
+70|Every planar graph is the intersection graph of segments in the plane: extended abstract.|Jérémie Chalopin,Daniel Gonçalves|n/a
+71|Small-size epsilon-nets for axis-parallel rectangles and boxes.|Boris Aronov,Esther Ezra,Micha Sharir|75|70|0|8
+72|Explicit construction of a small epsilon-net for linear threshold functions.|Yuval Rabani,Amir Shpilka|29|27|0|2
+73|A constant-factor approximation for stochastic Steiner forest.|Anupam Gupta,Amit Kumar|15|14|0|1
+74|Multiple intents re-ranking.|Yossi Azar,Iftah Gamzu,Xiaoxin Yin|17|16|0|2
+75|A competitive algorithm for minimizing weighted flow time on unrelatedmachines with speed augmentation.|Jivitej S. Chadha,Naveen Garg,Amit Kumar,V. N. Muralidhara|39|36|0|3
+76|Online and stochastic survivable network design.|Anupam Gupta,Ravishankar Krishnaswamy,R. Ravi|19|17|0|3
+77|An axiomatic approach to algebrization.|Russell Impagliazzo,Valentine Kabanets,Antonina Kolokolova|12|11|0|4
+78|Random graphs and the parity quantifier.|Phokion G. Kolaitis,Swastik Kopparty|9|9|0|2
+79|Holant problems and counting CSP.|Jin-yi Cai,Pinyan Lu,Mingji Xia|69|64|0|32
+80|A new line of attack on the dichotomy conjecture.|Gábor Kun,Mario Szegedy|31|29|0|2

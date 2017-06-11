@@ -1,0 +1,57 @@
+56
+1|19th IEEE International Symposium on High Performance Computer Architecture, HPCA 2013, Shenzhen, China, February 23-27, 2013.|n/a
+2|Power struggles: Revisiting the RISC vs. CISC debate on contemporary ARM and x86 architectures.|Emily R. Blem,Jaikrishnan Menon,Karthikeyan Sankaralingam|56|55|0|1
+3|High-performance and energy-efficient mobile web browsing on big/little systems.|Yuhao Zhu,Vijay Janapa Reddi|43|42|0|5
+4|Skinflint DRAM system: Minimizing DRAM chip writes for low power.|Yebin Lee,Soontae Kim,Seokin Hong,Jongmin Lee|8|8|0|1
+5|Enabling distributed generation powered sustainable high-performance data center.|Chao Li,Ruijin Zhou,Tao Li|27|25|0|10
+6|A group-commit mechanism for ROB-based processors implementing the X86 ISA.|Furat Afram,Hui Zeng,Kanad Ghose|5|4|0|0
+7|Store-Load-Branch (SLB) predictor: A compiler assisted branch prediction for data dependent branches.|Muhammad Umar Farooq,Khubaib,Lizy K. John|7|6|0|0
+8|Two level bulk preload branch prediction.|James Bonanno,Adam Collura,Daniel Lipetz,Ulrich Mayer,Brian Prasky,Anthony Saporito|4|4|0|0
+9|RECAP: A region-based cure for the common cold (cache).|Jason Zebchuk,Harold W. Cain,Xin Tong,Vijayalakshmi Srinivasan,Andreas Moshovos|5|5|0|0
+10|Navigating heterogeneous processors with market mechanisms.|Marisabel Guevara,Benjamin Lubin,Benjamin C. Lee|30|27|0|7
+11|Application-to-core mapping policies to reduce memory system interference in multi-core systems.|Reetuparna Das,Rachata Ausavarungnirun,Onur Mutlu,Akhilesh Kumar,Mani Azimi|37|35|0|3
+12|Improving multi-core performance using mixed-cell cache architecture.|Samira Manabi Khan,Alaa R. Alameldeen,Chris Wilkerson,Jaydeep Kulkarni,Daniel A. Jiménez|13|12|0|0
+13|ECM: Effective Capacity Maximizer for high-performance compressed caching.|Seungcheol Baek,Hyung Gyu Lee,Chrysostomos Nicopoulos,Junghee Lee,Jongman Kim|18|17|0|3
+14|Technology comparison for large last-level caches (L3Cs): Low-leakage SRAM, low write-energy STT-RAM, and refresh-optimized eDRAM.|Mu-Tien Chang,Paul Rosenfeld,Shih-Lien Lu,Bruce Jacob|60|53|0|4
+15|Modeling performance variation due to cache sharing.|Andreas Sandberg,Andreas Sembrant,Erik Hagersten,David Black-Schaffer|13|12|0|1
+16|A novel system architecture for web scale applications using lightweight CPUs and virtualized I/O.|Kshitij Sudan,Saisanthosh Balakrishnan,Sean Lie,Min Xu,Dhiraj Mallick,Gary Lauterbach,Rajeev Balasubramonian|3|3|0|1
+17|Cost effective data center servers.|Rui Hou,Tao Jiang,Liuhang Zhang,Pengfei Qi,Jianbo Dong,Haibin Wang,Xiongli Gu,Shujie Zhang|12|10|0|4
+18|Optimizing Google's warehouse scale computers: The NUMA experience.|Lingjia Tang,Jason Mars,Xiao Zhang,Robert Hagmann,Robert Hundt,Eric Tune|20|19|0|3
+19|Runnemede: An architecture for Ubiquitous High-Performance Computing.|Nicholas P. Carter,Aditya Agrawal,Shekhar Borkar,Romain Cledat,Howard David,Dave Dunning,Joshua B. Fryman,Ivan Ganev,Roger A. Golliver,Rob C. Knauerhase,Richard Lethin,Benoît Meister,Asit K. Mishra,Wilfred R. Pinfold,Justin Teller,Josep Torrellas,Nicolas Vasilache,Ganesh Venkatesh,Jianping Xu|42|42|0|0
+20|Exploring high-performance and energy proportional interface for phase change memory systems.|Zhongqi Li,Ruijin Zhou,Tao Li|10|10|0|0
+21|Coset coding to extend the lifetime of memory.|Adam N. Jacobvitz,A. Robert Calderbank,Daniel J. Sorin|23|16|0|0
+22|i2WAP: Improving non-volatile cache lifetime by reducing inter- and intra-set write variations.|Jue Wang,Xiangyu Dong,Yuan Xie,Norman P. Jouppi|31|30|0|3
+23|Architecture support for guest-transparent VM protection from untrusted hypervisor and physical attacks.|Yubin Xia,Yutao Liu,Haibo Chen|28|27|0|8
+24|SCRAP: Architecture for signature-based protection from Code Reuse Attacks.|Mehmet Kayaalp,Timothy Schmitt,Junaid Nomani,Dmitry Ponomarev,Nael B. Abu-Ghazaleh|11|11|0|1
+25|Adaptive Reliability Chipkill Correct (ARCC).|Xun Jian,Rakesh Kumar|9|9|0|3
+26|Accelerating write by exploiting PCM asymmetries.|Jianhui Yue,Yifeng Zhu|42|40|0|0
+27|Hybrid latency tolerance for robust energy-efficiency on 1000-core data parallel processors.|Neal Clayton Crago,Omid Azizi,Steven S. Lumetta,Sanjay J. Patel|1|1|0|0
+28|Optimizing virtual machine scheduling in NUMA multicore systems.|Jia Rao,Kun Wang,Xiaobo Zhou,Cheng-Zhong Xu|27|26|0|3
+29|Sonic Millip3De: A massively parallel 3D-stacked accelerator for 3D ultrasound.|Richard Sampson,Ming Yang,Siyuan Wei,Chaitali Chakrabarti,Thomas F. Wenisch|23|23|0|9
+30|Power-efficient computing for compute-intensive GPGPU applications.|Syed Zohaib Gilani,Nam Sung Kim,Michael J. Schulte|22|19|0|0
+31|Power-performance co-optimization of throughput core architecture using resistive memory.|Nilanjan Goswami,Bingyi Cao,Tao Li|32|30|1|0
+32|Reducing GPU offload latency via fine-grained CPU-GPU synchronization.|Daniel Lustig,Margaret Martonosi|42|40|0|3
+33|Worm-Bubble Flow Control.|Lizhong Chen,Timothy Mark Pinkston|13|12|0|1
+34|Breaking the on-chip latency barrier using SMART.|Tushar Krishna,Chia-Hsin Owen Chen,Woo-Cheol Kwon,Li-Shiuan Peh|23|22|0|4
+35|TS-Router: On maximizing the Quality-of-Allocation in the On-Chip Network.|Yuan-Ying Chang,Yoshi Shih-Chieh Huang,Matthew Poremba,Vijaykrishnan Narayanan,Yuan Xie,Chung-Ta King|7|6|0|0
+36|Refrint: Intelligent refresh to minimize power in on-chip multiprocessor cache hierarchies.|Aditya Agrawal,Prabhat Jain,Amin Ansari,Josep Torrellas|23|19|0|1
+37|Warped register file: A power efficient register file for GPGPUs.|Mohammad Abdel-Majeed,Murali Annavaram|32|30|0|5
+38|Disintegrated control for energy-efficient and heterogeneous memory systems.|Tae Jun Ham,Bharath K. Chelepalli,Neng Xue,Benjamin C. Lee|18|14|0|0
+39|Illusionist: Transforming lightweight cores into aggressive cores on demand.|Amin Ansari,Shuguang Feng,Shantanu Gupta,Josep Torrellas,Scott A. Mahlke|5|5|0|0
+40|ESESC: A fast multicore simulator using Time-Based Sampling.|Ehsan K. Ardestani,Jose Renau|42|41|0|2
+41|How to implement effective prediction and forwarding for fusable dynamic multicore architectures.|Behnam Robatmili,Dong Li,Hadi Esmaeilzadeh,Madhu Saravana Sibi Govindan,Aaron Smith,Andrew Putnam,Doug Burger,Stephen W. Keckler|4|4|0|0
+42|Bridging the semantic gap: Emulating biological neuronal behaviors with simple digital neurons.|Andrew Nere,Atif Hashmi,Mikko H. Lipasti,Giulio Tononi|3|3|0|0
+43|Layout-conscious random topologies for HPC off-chip interconnects.|Michihiro Koibuchi,Ikki Fujiwara,Hiroki Matsutani,Henri Casanova|16|16|0|7
+44|Scaling towards kilo-core processors with asymmetric high-radix topologies.|Nilmini Abeyratne,Reetuparna Das,Qingkun Li,Korey Sewell,Bharan Giridhar,Ronald G. Dreslinski,David Blaauw,Trevor N. Mudge|15|14|0|1
+45|Energy-efficient interconnect via Router Parking.|Ahmad Samih,Ren Wang,Anil Krishna,Christian Maciocco,Tsung-Yuan Charlie Tai,Yan Solihin|27|27|0|2
+46|In-network traffic regulation for Transactional Memory.|Lihang Zhao,Woojin Choi,Lizhong Chen,Jeffrey T. Draper|4|3|0|3
+47|Macho: A failure model-oriented adaptive cache architecture to enable near-threshold voltage scaling.|Tayyeb Mahmood,Soontae Kim,Seokin Hong|3|3|0|1
+48|EnergySmart: Toward energy-efficient manycores for Near-Threshold Computing.|Ulya R. Karpuzcu,Abhishek A. Sinkar,Nam Sung Kim,Josep Torrellas|25|22|0|3
+49|Rainbow: Efficient memory dependence recording with high replay parallelism for relaxed memory model.|Xuehai Qian,He Huang,Benjamin Sahelices,Depei Qian|8|8|0|2
+50|High-speed formal verification of heterogeneous coherence hierarchies.|Jesse G. Beu,Jason A. Poovey,Eric R. Hein,Thomas M. Conte|6|6|0|0
+51|Cache coherence for GPU architectures.|Inderpreet Singh,Arrvindh Shriraman,Wilson W. L. Fung,Mike O'Connor,Tor M. Aamodt|50|49|0|3
+52|The dual-path execution model for efficient GPU control flow.|Minsoo Rhu,Mattan Erez|25|23|0|3
+53|A multiple SIMD, multiple data (MSMD) architecture: Parallel execution of dynamic and static SIMD fragments.|Yaohua Wang,Shuming Chen,Jianghua Wan,Jiayuan Meng,Kai Zhang,Wei Liu,Xi Ning|4|3|0|1
+54|Tiered-latency DRAM: A low latency and low cost DRAM architecture.|Donghyuk Lee,Yoongu Kim,Vivek Seshadri,Jamie Liu,Lavanya Subramanian,Onur Mutlu|58|51|0|17
+55|A case for Refresh Pausing in DRAM memory systems.|Prashant J. Nair,Chia-Chen Chou,Moinuddin K. Qureshi|28|24|0|2
+56|MISE: Providing performance predictability and improving fairness in shared main memory systems.|Lavanya Subramanian,Vivek Seshadri,Yoongu Kim,Ben Jaiyen,Onur Mutlu|46|40|0|13

@@ -1,0 +1,56 @@
+55
+1|30th Annual Meeting of the Association for Computational Linguistics, 28 June - 2 July 1992, University of Delaware, Newark, Deleware, USA, Proceedings.|Henry S. Thompson|n/a
+2|Interferring Discourse Relations in Context.|Alex Lascarides,Nicholas Asher,Jon Oberlander|n/a
+3|An Algorithm for VP Ellipsis.|Daniel Hardt|28|1|0|2
+4|A Simple But Useful Approach to Conjunct Identification.|Rajeev Agarwal,Lois Boggess|86|19|0|7
+5|The Representation of Multimodal User Interface Dialogues Using Discourse Pegs.|Susann LuperFoy|51|13|0|5
+6|Monotonic Semantic Interpretation.|Hiyan Alshawi,Richard S. Crouch|188|24|0|19
+7|Efficiency, Robustness and Accuracy in Picky Chart Parsing.|David M. Magerman,Carl Weir|81|12|3|1
+8|A Functional Approach to Generation with TAG.|Kathleen F. McCoy,K. Vijay-Shanker,Gijoo Yang|20|2|0|1
+9|Integrating Multiple Knowledge Sources for Detection and Correction of Repairs in Human-Computer Dialog.|John Bear,John Dowding,Elizabeth Shriberg|211|58|37|11
+10|Conversational Implicatures in Indirect Replies.|Nancy Green,Sandra Carberry|30|0|0|1
+11|Reasoning with Descriptions of Trees.|James Rogers,K. Vijay-Shanker|59|4|0|6
+12|Comparing Two Grammar-Based Generation Algorithms: A Case Study.|Miroslav Martinovic,Tomek Strzalkowski|14|1|0|2
+13|Recognition of Linear Context-Free Rewriting Systems.|Giorgio Satta|32|22|0|7
+14|Accommodating Context Change.|Bonnie L. Webber,Breck Baldwin|20|3|0|4
+15|Information Retrieval Using Robust Natural Language Processing.|Tomek Strzalkowski,Barbara Vauthey|78|13|4|12
+16|Prosodic Aids to Syntactic and Semantic Analysis of Spoken English.|Chris D. Rowles,Xiuming Huang|4|1|0|0
+17|Understanding Natural Language Instructions: The Case of Purpose Clauses.|Barbara Di Eugenio|49|6|0|3
+18|Inside-Outside Reestimation from Partially Bracketed Corpora.|Fernando C. N. Pereira,Yves Schabes|465|91|2|5
+19|Linear Context-Free Rewriting Systems and Deterministic Tree-Walking Transducers.|David J. Weir|44|16|0|0
+20|A Connectionist Parser for Structure Unification Grammar.|James Henderson|4|1|0|0
+21|Would I Lie to You? Modelling Misrepresentation and Context in Dialogue.|Carl Gutwin,Gordon I. McCalla|4|0|0|0
+22|Lattice-Based Word Identification in CLARE.|David M. Carter|10|1|0|0
+23|An Alternative Conception of Tree-Adjoining Derivation.|Yves Schabes,Stuart M. Shieber|166|39|0|9
+24|GPSM: A Generalized Probabilistic Semantic Model for Ambiguity Resolution.|Jing-Shin Chang,Yih-Fen Luo,Keh-Yih Su|60|14|1|16
+25|Development and Evaluation of a Broad-Coverage Probabilistic Grammar of English-Language Computer Manuals.|Ezra Black,John D. Lafferty,Salim Roukos|63|7|0|2
+26|Modeling Negotiation Subdialogues.|Lynn Lambert,Sandra Carberry|n/a
+27|Handling Linear Precedence Constraints by Unification.|Judith Engelkamp,Gregor Erbach,Hans Uszkoreit|48|9|0|4
+28|A Unification-Based Semantic Interpretation for Coordinate Constructs.|Jong C. Park|13|0|0|6
+29|Corpus-Based Acquisition of Relative Pronoun Disambiguation Heuristics.|Claire Cardie|30|1|2|7
+30|Association-Based Natural Language Processing with Neural Networks.|Kazuhiro Kimura,Takashi Suzuoka,Shin'ya Amano|10|6|6|0
+31|Tense Trees as the "Fine Structure" of Discourse.|Chung Hee Hwang,Lenhart K. Schubert|86|20|0|11
+32|Connection Relations and Quantifier Scope.|Longin Jan Latecki|3|1|0|0
+33|Estimating Upper and Lower Bounds on the Performance of Word-Sense Disambiguation Programs.|William A. Gale,Kenneth Ward Church,David Yarowsky|248|48|0|0
+34|A Parameterized Approach to Integrating Aspect with Lexical-Semanics for Machine Translation.|Bonnie J. Dorr|21|6|0|9
+35|Using Classification to Generate Text.|Ehud Reiter,Chris Mellish|39|6|0|8
+36|Correcting Illegal NP Omissions Using Local Focus.|Linda Z. Suri|6|1|0|4
+37|Some Problematic Cases of VP Ellipsis.|Daniel Hardt|0|0|0|0
+38|Understanding Repetition in Natural Language Instructions - The Semantics of Extent.|Sheila Rock|2|0|0|1
+39|On the Intonation of Mono- and Di-Syllabic Words within the Discourse Framework of Conversational Games.|Jacqueline C. Kowtko|4|0|0|1
+40|Right Association Revisited.|Michael Niv|18|10|0|0
+41|An LR Category-Neutral Parser with Left Corner Prediction.|Paola Merlo|0|0|0|0
+42|Incremental Dependency Parsing.|Vincenzo Lombardo|n/a
+43|Documentation Parser to Extract Software Test Conditions.|Patricia Lutsky|4|0|0|0
+44|A Linguistic and Computational Analysis of the German "Third Construction".|Owen Rambow|7|0|0|0
+45|A CCG Approach to Free Word Order Languages.|Beryl Hoffman|24|7|0|5
+46|Information States as First Class Citizens.|Jørgen Villadsen|1|0|0|1
+47|Spatial Lexicalization in the Translation of Prepositional Phrases.|Arturo Trujillo|8|2|0|4
+48|Metonymy: Reassessment, Survey of Acceptability, and its Treatment in a Machine Translation System.|Shin-ichiro Kamei,Takahiro Wakao|28|12|0|0
+49|A Basis for a Formalization of Linguistic Style.|Stephen J. Green|7|1|0|1
+50|Elaboration in Object Descriptions through Examples.|Vibhu O. Mittal|1|0|0|0
+51|The Expression of Local Rhetorical Relations in Instructional Text.|Keith Vander Linden|9|1|0|0
+52|Generating a Specific Class of Metaphors.|Mark Alan Jones|7|4|0|2
+53|SEXTANT: Exploring Unexplored Contexts for Semantic Extraction from Syntactic Analysis.|Gregory Grefenstette|71|20|0|1
+54|A Class-Based Approach to Lexical Discovery.|Philip Resnik|33|2|1|0
+55|Sense-Linking in a Machine Readable Dictionary.|Robert Krovetz|9|1|0|1

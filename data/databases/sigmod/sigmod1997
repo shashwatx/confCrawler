@@ -1,0 +1,69 @@
+68
+1|SIGMOD 1997, Proceedings ACM SIGMOD International Conference on Management of Data, May 13-15, 1997, Tucson, Arizona, USA.|Joan Peckham|n/a
+2|Fast Parallel Similarity Search in Multimedia Databases.|Stefan Berchtold,Christian Böhm,Bernhard Braunmüller,Daniel A. Keim,Hans-Peter Kriegel|191|21|1|13
+3|Similarity-Based Queries for Time Series Data.|Davood Rafiei,Alberto O. Mendelzon|455|99|7|11
+4|Meaningful Change Detection in Structured Data.|Sudarshan S. Chawathe,Hector Garcia-Molina|415|103|12|10
+5|Improved Query Performance with Variant Indexes.|Patrick E. O'Neil,Dallan Quass|693|182|30|2
+6|Highly Concurrent Cache Consistency for Indices in Client-Server Database Systems.|Markos Zaharioudakis,Michael J. Carey|23|3|0|0
+7|Concurrency and Recovery in Generalized Search Trees.|Marcel Kornacker,C. Mohan,Joseph M. Hellerstein|177|50|13|9
+8|Range Queries in OLAP Data Cubes.|Ching-Tien Ho,Rakesh Agrawal,Nimrod Megiddo,Ramakrishnan Srikant|335|80|20|5
+9|Cubetree: Organization of and Bulk Updates on the Data Cube.|Nick Roussopoulos,Yannis Kotidis,Mema Roussopoulos|185|37|5|16
+10|Maintenance of Data Cubes and Summary Tables in a Warehouse.|Inderpal Singh Mumick,Dallan Quass,Barinderpal Singh Mumick|371|83|46|3
+11|Database Buffer Size Investigation for OLTP Workloads (Experience Paper).|Thin-Fong Tsuei,Allan Packer,Keng-Tai Ko|31|5|0|1
+12|Database Performance in the Real World - TPC-D and SAP R/3 (Experience Paper).|Jochen Doppelhammer,Thomas Höppler,Alfons Kemper,Donald Kossmann|37|10|1|0
+13|The BUCKY Object-Relational Benchmark (Experience Paper).|Michael J. Carey,David J. DeWitt,Jeffrey F. Naughton,Mohammad Asgarian,Paul Brown,Johannes Gehrke,Dhaval Shah|n/a
+14|The STRIP Rule System For Efficiently Maintaining Derived Data.|Brad Adelberg,Hector Garcia-Molina,Jennifer Widom|67|10|33|1
+15|An Array-Based Algorithm for Simultaneous Multidimensional Aggregates.|Yihong Zhao,Prasad Deshpande,Jeffrey F. Naughton|521|107|8|10
+16|Online Aggregation.|Joseph M. Hellerstein,Peter J. Haas,Helen J. Wang|839|270|22|42
+17|Balancing Push and Pull for Data Broadcast.|Swarup Acharya,Michael J. Franklin,Stanley B. Zdonik|561|84|14|9
+18|InfoSleuth: Semantic Integration of Information in Open and Dynamic Environments (Experience Paper).|Roberto J. Bayardo Jr.,William Bohrer,Richard S. Brice,Andrzej Cichocki,Jerry Fowler,Abdelsalam Helal,Vipul Kashyap,Tomasz Ksiezyk,Gale Martin,Marian H. Nodine,Mosfeq Rashid,Marek Rusinkiewicz,Ray Shea,C. Unnikrishnan,Amy Unruh,Darrell Woelk|n/a
+19|STARTS: Stanford Proposal for Internet Meta-Searching (Experience Paper).|Luis Gravano,Kevin Chen-Chuan Chang,Hector Garcia-Molina,Andreas Paepcke|322|52|11|24
+20|On Saying "Enough Already!" in SQL.|Michael J. Carey,Donald Kossmann|326|73|6|13
+21|A Framework for Implementing Hypothetical Queries.|Timothy Griffin,Richard Hull|20|6|2|0
+22|High-Performance Sorting on Networks of Workstations.|Andrea C. Arpaci-Dusseau,Remzi H. Arpaci-Dusseau,David E. Culler,Joseph M. Hellerstein,David A. Patterson|198|25|7|12
+23|Dynamic Itemset Counting and Implication Rules for Market Basket Data.|Sergey Brin,Rajeev Motwani,Jeffrey D. Ullman,Shalom Tsur|2231|756|4|8
+24|Beyond Market Baskets: Generalizing Association Rules to Correlations.|Sergey Brin,Rajeev Motwani,Craig Silverstein|1697|609|5|1
+25|Scalable Parallel Data Mining for Association Rules.|Eui-Hong Han,George Karypis,Vipin Kumar|313|55|7|15
+26|Efficiently Supporting Ad Hoc Queries in Large Datasets of Time Sequences.|Flip Korn,H. V. Jagadish,Christos Faloutsos|457|168|13|25
+27|DEVise: Integrated Querying and Visualization of Large Datasets.|Miron Livny,Raghu Ramakrishnan,Kevin S. Beyer,Guangshun Chen,Donko Donjerkovic,Shilpa Lawande,Jussi Myllymaki,R. Kent Wenger|n/a
+28|Partitioned Garbage Collection of Large Object Store.|Umesh Maheshwari,Barbara Liskov|39|2|2|2
+29|Size Separation Spatial Join.|Nick Koudas,Kenneth C. Sevcik|157|27|1|4
+30|Building a Scaleable Geo-Spatial DBMS: Technology, Implementation, and Evaluation.|Jignesh M. Patel,Jie-Bing Yu,Navin Kabra,Kristin Tufte,Biswadeep Nag,Josef Burger,Nancy E. Hall,Karthikeyan Ramasamy,Roger Lueder,Curt J. Ellmann,Jim Kupsch,Shelly Guo,David J. DeWitt,Jeffrey F. Naughton|n/a
+31|A Toolkit for Negotiation Support Interfaces to Multi-Dimensional Data.|Michael Gebhardt,Matthias Jarke,Stephan Jacobs|47|6|1|12
+32|Distance-Based Indexing for High-Dimensional Metric Spaces.|Tolga Bozkaya,Z. Meral Özsoyoglu|450|95|1|3
+33|The SR-tree: An Index Structure for High-Dimensional Nearest Neighbor Queries.|Norio Katayama,Shin'ichi Satoh|1120|263|16|10
+34|Wave-Indices: Indexing Evolving Databases.|Narayanan Shivakumar,Hector Garcia-Molina|39|16|1|3
+35|On-Line Warehouse View Maintenance.|Dallan Quass,Jennifer Widom|211|27|14|0
+36|Supporting Multiple View Maintenance Policies.|Latha S. Colby,Akira Kawaguchi,Daniel F. Lieuwen,Inderpal Singh Mumick,Kenneth A. Ross|146|27|4|2
+37|Efficient View Maintenance at Data Warehouses.|Divyakant Agrawal,Amr El Abbadi,Ambuj K. Singh,Tolga Yurek|336|67|7|14
+38|Eliminating Costly Redundant Computations from SQL Trigger Executions.|François Llirbat,Françoise Fabret,Eric Simon|14|1|3|1
+39|Temporal Aggregation in Active Database Rules.|Iakovos Motakis,Carlo Zaniolo|81|18|0|15
+40|Association Rules over Interval Data.|Renée J. Miller,Yuping Yang|331|81|1|7
+41|Secure Transaction Processing in Firm Real-Time Database Systems.|Binto George,Jayant R. Haritsa|57|12|11|6
+42|A Unified Framework for Enforcing Multiple Access Control Policies.|Sushil Jajodia,Pierangela Samarati,V. S. Subrahmanian,Elisa Bertino|385|83|9|27
+43|Revisiting Commit Processing in Distributed Database Systems.|Ramesh Gupta,Jayant R. Haritsa,Krithi Ramamritham|76|15|0|2
+44|Lessons from Wall Street: Case Studies in Configuration, Tuning, and Distribution (Tutorial).|Dennis Shasha|8|0|1|0
+45|Object-Relational Database Systems: Principles, Products, and Challenges (Tutorial).|Michael J. Carey,Nelson Mendonça Mattos,Anil Nori|n/a
+46|Databases on the Web: Technologies for Federation Architectures and Case Studies (Tutorial).|Ralf Kramer|15|0|1|0
+47|Data Warehousing and OLAP for Decision Support (Tutorial).|Surajit Chaudhuri,Umeshwar Dayal|105|30|7|0
+48|Query Optimization at the Crossroads (Panel).|Surajit Chaudhuri|n/a
+49|Delaunay: A Database Visualization System.|Isabel F. Cruz,Michael Averbuch,Wendy T. Lucas,Melissa Radzyminski,Kirby Zhang|30|3|0|3
+50|Picture Programming Project.|Nita Goyal,Charles Hoch,Ravi Krishnamurthy,Brian Meckler,Michael Suckow,Moshé M. Zloof|2|0|0|0
+51|DEVise: Integrated Querying and Visual Exploration of Large Datasets (Demo Abstract).|Miron Livny,Raghu Ramakrishnan,Kevin S. Beyer,Guangshun Chen,Donko Donjerkovic,Shilpa Lawande,Jussi Myllymaki,R. Kent Wenger|1|0|0|0
+52|SEMCOG: An Object-based Image Retrieval System and Its Visual Query Interface.|Wen-Syan Li,K. Selçuk Candan,Kyoji Hirata,Yoshinori Hara|6|0|0|2
+53|The COntext INterchange Mediator Prototype.|Stéphane Bressan,Cheng Hian Goh,Kofi Fynn,Marta Jessica Jakobisiak,Karim Hussein,Henry B. Kon,Thomas Lee,Stuart E. Madnick,Tito Pena,Jessica Qu,Annie W. Shum,Michael Siegel|106|9|0|16
+54|MDM: a Multiple-Data-Model Tool for the Management of Heterogeneous Database Schemes.|Paolo Atzeni,Riccardo Torlone|47|7|0|5
+55|Template-Based Wrappers in the TSIMMIS System.|Joachim Hammer,Hector Garcia-Molina,Svetlozar Nestorov,Ramana Yerneni,Markus M. Breunig,Vasilis Vassalos|336|31|3|25
+56|Languages for Multi-database Interoperability.|Frédéric Gingras,Laks V. S. Lakshmanan,Iyer N. Subramanian,Despina Papoulis,Nematollaah Shiri|14|0|0|3
+57|Infomaster: An Information Integration System.|Michael R. Genesereth,Arthur M. Keller,Oliver M. Duschka|513|74|3|2
+58|The InfoSleuth Project.|Roberto J. Bayardo Jr.,William Bohrer,Richard S. Brice,Andrzej Cichocki,Jerry Fowler,Abdelsalam Helal,Vipul Kashyap,Tomasz Ksiezyk,Gale Martin,Marian H. Nodine,Mosfeq Rashid,Marek Rusinkiewicz,Ray Shea,C. Unnikrishnan,Amy Unruh,Darrell Woelk|14|1|0|0
+59|The Distributed Information Search Component (Disco) and the World Wide Web.|Anthony Tomasic,Rémy Amouroux,Philippe Bonnet,Olga Kapitskaia,Hubert Naacke,Louiqa Raschid|85|13|0|5
+60|STRUDEL: A Web-site Management System.|Mary F. Fernández,Daniela Florescu,Jaewoo Kang,Alon Y. Levy,Dan Suciu|216|13|0|9
+61|GeoMiner: A System Prototype for Spatial Data Mining.|Jiawei Han,Krzysztof Koperski,Nebojsa Stefanovic|267|60|0|9
+62|The WHIPS Prototype for Data Warehouse Creation and Maintenance.|Wilburt Labio,Yue Zhuge,Janet L. Wiener,Himanshu Gupta,Hector Garcia-Molina,Jennifer Widom|78|10|0|0
+63|Structural Matching and Discovery in Document Databases.|Jason Tsong-Li Wang,Dennis Shasha,George Jyh-Shian Chang,Liam Relihan,Kaizhong Zhang,Girish Patel|36|0|1|3
+64|S3: Similarity Search in CAD Database Systems.|Stefan Berchtold,Hans-Peter Kriegel|130|15|2|18
+65|PREDATOR: An OR-DBMS with Enhanced Data Types.|Praveen Seshadri,Mark Paskin|n/a
+66|SENTINEL: An Object-Oriented DBMS With Event-Based Rules.|Sharma Chakravarthy|54|13|0|0
+67|The MENTOR Workbench for Enterprise-wide Workflow Management.|Dirk Wodtke,Jeanine Weißenfels,Gerhard Weikum,Angelika Kotz Dittrich,Peter Muth|24|3|1|1
+68|ZOO: A Desktop Emperiment Management Environment.|Yannis E. Ioannidis,Miron Livny,Anastassia Ailamaki,Anand Narayanan,Andrew Therber|120|19|1|4

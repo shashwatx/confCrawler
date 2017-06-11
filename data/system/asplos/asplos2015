@@ -1,0 +1,52 @@
+51
+1|Proceedings of the Twentieth International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS '15, Istanbul, Turkey, March 14-18, 2015.|Özcan Özturk,Kemal Ebcioglu,Sandhya Dwarkadas|n/a
+2|Architectural Support for Cyber-Physical Systems.|Edward A. Lee|2|2|0|0
+3|Mojim: A Reliable and Highly-Available Non-Volatile Memory System.|Yiying Zhang,Jian Yang,Amirsaman Memaripour,Steven Swanson|5|5|0|1
+4|SD-PCM: Constructing Reliable Super Dense Phase Change Memory under Write Disturbance.|Rujia Wang,Lei Jiang,Youtao Zhang,Jun Yang|1|1|0|0
+5|DEUCE: Write-Efficient Encryption for Non-Volatile Memories.|Vinson Young,Prashant J. Nair,Moinuddin K. Qureshi|4|3|0|0
+6|Temporally Bounding TSO for Fence-Free Asymmetric Synchronization.|Adam Morrison,Yehuda Afek|0|0|0|0
+7|Reduced Hardware NOrec: A Safe and Scalable Hybrid Transactional Memory.|Alexander Matveev,Nir Shavit|13|12|0|4
+8|Synchronization Using Remote-Scope Promotion.|Marc S. Orr,Shuai Che,Ayse Yilmazer,Bradford M. Beckmann,Mark D. Hill,David A. Wood|4|3|0|1
+9|GhostRider: A Hardware-Software System for Memory Trace Oblivious Computation.|Chang Liu,Austin Harris,Martin Maas,Michael W. Hicks,Mohit Tiwari,Elaine Shi|8|8|0|3
+10|Freecursive ORAM: [Nearly] Free Recursion and Integrity Verification for Position-based Oblivious RAM.|Christopher W. Fletcher,Ling Ren,Albert Kwon,Marten van Dijk,Srinivas Devadas|6|4|0|4
+11|Beyond the PDP-11: Architectural Support for a Memory-Safe C Abstract Machine.|David Chisnall,Colin Rothwell,Robert N. M. Watson,Jonathan Woodruff,Munraj Vadera,Simon W. Moore,Michael Roe,Brooks Davis,Peter G. Neumann|13|10|0|2
+12|Supporting Differentiated Services in Computers via Programmable Architecture for Resourcing-on-Demand (PARD).|Jiuyue Ma,Xiufeng Sui,Ninghui Sun,Yupeng Li,Zihao Yu,Bowen Huang,Tianni Xu,Zhicheng Yao,Yun Chen,Haibin Wang,Lixin Zhang,Yungang Bao|1|1|0|1
+13|Improving Agility and Elasticity in Bare-metal Clouds.|Yushi Omote,Takahiro Shinagawa,Kazuhiko Kato|2|2|0|1
+14|Few-to-Many: Incremental Parallelism for Reducing Tail Latency in Interactive Services.|Md. E. Haque,Yong Hun Eom,Yuxiong He,Sameh Elnikety,Ricardo Bianchini,Kathryn S. McKinley|6|4|0|2
+15|Protecting Data on Smartphones and Tablets from Memory Attacks.|Patrick Colp,Jiawen Zhang,James Gleeson,Sahil Suneja,Eyal de Lara,Himanshu Raj,Stefan Saroiu,Alec Wolman|5|5|0|0
+16|Nested Kernel: An Operating System Architecture for Intra-Kernel Privilege Separation.|Nathan Dautenhahn,Theodoros Kasampalis,Will Dietz,John Criswell,Vikram S. Adve|2|1|0|0
+17|DIABLO: A Warehouse-Scale Computer Network Simulator using FPGAs.|Zhangxi Tan,Zhenghao Qian,Xi Chen,Krste Asanovic,David A. Patterson|0|0|0|0
+18|Sirius: An Open End-to-End Voice and Vision Personal Assistant and Its Implications for Future Warehouse Scale Computers.|Johann Hauswald,Michael A. Laurenzano,Yunqi Zhang,Cheng Li,Austin Rovinski,Arjun Khurana,Ronald G. Dreslinski,Trevor N. Mudge,Vinicius Petrucci,Lingjia Tang,Jason Mars|13|9|0|1
+19|Automated OS-level Device Runtime Power Management.|Chao Xu,Felix Xiaozhu Lin,Yuyang Wang,Lin Zhong|3|2|0|0
+20|CoolAir: Temperature- and Variation-Aware Management for Free-Cooled Datacenters.|Iñigo Goiri,Thu D. Nguyen,Ricardo Bianchini|3|1|0|1
+21|A Probabilistic Graphical Model-based Approach for Minimizing Energy Under Performance Constraints.|Nikita Mishra,Huazhe Zhang,John D. Lafferty,Henry Hoffmann|7|6|0|2
+22|More is Less, Less is More: Molecular-Scale Photonic NoC Power Topologies.|Jun Pang,Chris Dwyer,Alvin R. Lebeck|0|0|0|0
+23|Memory Errors in Modern Systems: The Good, The Bad, and The Ugly.|Vilas Sridharan,Nathan DeBardeleben,Sean Blanchard,Kurt B. Ferreira,Jon Stearley,John Shalf,Sudhanva Gurumurthi|13|12|0|0
+24|CommGuard: Mitigating Communication Errors in Error-Prone Parallel Execution.|Yavuz Yetim,Sharad Malik,Margaret Martonosi|4|4|0|3
+25|Dual Execution for On the Fly Fine Grained Execution Comparison.|Dohyeong Kim,Yonghwi Kwon,William N. Sumner,Xiangyu Zhang,Dongyan Xu|0|0|0|0
+26|VARAN the Unbelievable: An Efficient N-version Execution Framework.|Petr Hosek,Cristian Cadar|2|1|0|2
+27|rIOMMU: Efficient IOMMU for I/O Devices that Employ Ring Buffers.|Moshe Malka,Nadav Amit,Muli Ben-Yehuda,Dan Tsafrir|6|6|0|2
+28|PuDianNao: A Polyvalent Machine Learning Accelerator.|Dao-Fu Liu,Tianshi Chen,Shaoli Liu,Jinhong Zhou,Shengyuan Zhou,Olivier Temam,Xiaobing Feng,Xuehai Zhou,Yunji Chen|15|11|0|2
+29|ApproxHadoop: Bringing Approximations to MapReduce Frameworks.|Iñigo Goiri,Ricardo Bianchini,Santosh Nagarakatte,Thu D. Nguyen|11|8|0|1
+30|Monitoring and Debugging the Quality of Results in Approximate Programs.|Michael F. Ringenburg,Adrian Sampson,Isaac Ackerman,Luis Ceze,Dan Grossman|5|4|0|2
+31|Watson and the Era of Cognitive Computing.|Guruduth Banavar|0|0|0|0
+32|Ziria: A DSL for Wireless Systems Programming.|Gordon Stewart,Mahanth Gowda,Geoffrey Mainland,Bozidar Radunovic,Dimitrios Vytiniotis,Cristina Luengo Agullo|5|4|0|1
+33|PolyMage: Automatic Optimization for Image Processing Pipelines.|Ravi Teja Mullapudi,Vinay Vasista,Uday Bondhugula|10|7|0|3
+34|Compiler Management of Communication and Parallelism for Quantum Computation.|Jeff Heckey,Shruti Patil,Ali JavadiAbhari,Adam Holmes,Daniel Kudrow,Kenneth R. Brown,Diana Franklin,Frederic T. Chong,Margaret Martonosi|1|1|0|0
+35|Kinetic Dependence Graphs.|Muhammad Amber Hassaan,Donald D. Nguyen,Keshav Pingali|3|3|0|0
+36|Targeted Automatic Integer Overflow Discovery Using Goal-Directed Conditional Branch Enforcement.|Stelios Sidiroglou-Douskos,Eric Lahtinen,Nathan Rittenhouse,Paolo Piselli,Fan Long,Deokhwan Kim,Martin C. Rinard|6|6|0|2
+37|Architectural Support for Software-Defined Metadata Processing.|Udit Dhawan,Catalin Hritcu,Raphael Rubin,Nikos Vasilakis,Silviu Chiricescu,Jonathan M. Smith,Thomas F. Knight Jr.,Benjamin C. Pierce,André DeHon|13|11|0|4
+38|A Hardware Design Language for Timing-Sensitive Information-Flow Security.|Danfeng Zhang,Yao Wang,G. Edward Suh,Andrew C. Myers|7|6|0|4
+39|SPECS: A Lightweight Runtime Mechanism for Protecting Software from Security-Critical Processor Bugs.|Matthew Hicks,Cynthia Sturton,Samuel T. King,Jonathan M. Smith|0|0|0|0
+40|Asymmetric Memory Fences: Optimizing Both Performance and Implementability.|Yuelu Duan,Nima Honarmand,Josep Torrellas|0|0|0|0
+41|DeNovoSync: Efficient Support for Arbitrary Synchronization without Writer-Initiated Invalidations.|Hyojin Sung,Sarita V. Adve|9|7|0|2
+42|Hybrid Static: Dynamic Analysis for Statically Bounded Region Serializability.|Aritra Sengupta,Swarnendu Biswas,Minjia Zhang,Michael D. Bond,Milind Kulkarni|9|7|0|8
+43|GPU Concurrency: Weak Behaviours and Programming Assumptions.|Jade Alglave,Mark Batty,Alastair F. Donaldson,Ganesh Gopalakrishnan,Jeroen Ketema,Daniel Poetzl,Tyler Sorensen,John Wickerson|17|14|0|7
+44|Chimera: Collaborative Preemption for Multitasking on a Shared GPU.|Jason Jong Kyu Park,Yongjun Park,Scott A. Mahlke|3|3|0|0
+45|Page Placement Strategies for GPUs within Heterogeneous Memory Systems.|Neha Agarwal,David W. Nellans,Mark Stephenson,Mike O'Connor,Stephen W. Keckler|8|6|0|3
+46|On-the-Fly Principled Speculation for FSM Parallelization.|Zhijia Zhao,Xipeng Shen|1|1|0|0
+47|Asynchronized Concurrency: The Secret to Scaling Concurrent Search Data Structures.|Tudor David,Rachid Guerraoui,Vasileios Trigonakis|11|8|0|2
+48|iThreads: A Threading Library for Parallel Incremental Computation.|Pramod Bhatotia,Pedro Fonseca,Umut A. Acar,Björn B. Brandenburg,Rodrigo Rodrigues|2|2|0|1
+49|NumaGiC: a Garbage Collector for Big Data on Big NUMA Machines.|Lokesh Gidra,Gaël Thomas,Julien Sopena,Marc Shapiro,Nhan Nguyen|5|3|0|1
+50|FACADE: A Compiler and Runtime for (Almost) Object-Bounded Big Data Applications.|Khanh Nguyen,Kai Wang,Yingyi Bu,Lu Fang,Jianfei Hu,Guoqing (Harry) Xu|10|9|0|2
+51|Architectural Support for Dynamic Linking.|Varun Agrawal,Abhiroop Dabral,Tapti Palit,Yongming Shen,Michael Ferdman|1|1|0|0

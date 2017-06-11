@@ -1,0 +1,84 @@
+83
+1|Proceedings of the 14th international conference on World Wide Web, WWW 2005, Chiba, Japan, May 10-14, 2005.|Allan Ellis,Tatsuya Hagino|n/a
+2|WWW at 15 years: looking forward.|Tim Berners-Lee|8|6|0|0
+3|Semantic similarity between search engine queries using temporal correlation.|Steve Chien,Nicole Immorlica|202|120|29|0
+4|Duplicate detection in click streams.|Ahmed Metwally,Divyakant Agrawal,Amr El Abbadi|124|77|5|9
+5|Improving recommendation lists through topic diversification.|Cai-Nicolas Ziegler,Sean M. McNee,Joseph A. Konstan,Georg Lausen|976|738|10|31
+6|GlobeDB: autonomic data replication for web applications.|Swaminathan Sivasubramanian,Gustavo Alonso,Guillaume Pierre,Maarten van Steen|80|27|1|9
+7|Hierarchical substring caching for efficient content distribution to low-bandwidth clients.|Utku Irmak,Torsten Suel|24|13|9|4
+8|Executing incoherency bounded continuous queries at web data aggregators.|Rajeev Gupta,Ashish Puri,Krithi Ramamritham|32|20|0|11
+9|Fully automatic wrapper generation for search engines.|Hongkun Zhao,Weiyi Meng,Zonghuan Wu,Vijay V. Raghavan,Clement T. Yu|345|231|10|15
+10|Web data extraction based on partial tree alignment.|Yanhong Zhai,Bing Liu|561|363|13|14
+11|Thresher: automating the unwrapping of semantic content from the World Wide Web.|Andrew W. Hogue,David R. Karger|153|80|16|3
+12|The case for technology for developing regions.|Eric A. Brewer|331|186|0|14
+13|Ranking a stream of news.|Gianna M. Del Corso,Antonio Gulli,Francesco Romani|137|71|5|1
+14|Algorithmic detection of semantic similarity.|Ana Gabriela Maguitman,Filippo Menczer,Heather Roinestad,Alessandro Vespignani|210|108|4|16
+15|SemRank: ranking complex relationship search results on the semantic web.|Kemafor Anyanwu,Angela Maduko,Amit P. Sheth|280|177|18|13
+16|A service creation environment based on end to end composition of Web services.|Vikas Agarwal,Koustuv Dasgupta,Neeran M. Karnik,Arun Kumar,Ashish Kundu,Sumit Mittal,Biplav Srivastava|174|56|4|9
+17|Ensuring required failure atomicity of composite Web services.|Sami Bhiri,Olivier Perrin,Claude Godart|163|91|3|17
+18|Web service interfaces.|Dirk Beyer,Arindam Chakrabarti,Thomas A. Henzinger|169|72|0|3
+19|Building adaptable and reusable XML applications with model transformations.|Ivan Kurtev,Klaas van den Berg|15|4|0|1
+20|Exception handling in workflow-driven Web applications.|Marco Brambilla,Stefano Ceri,Sara Comai,Christina Tziviskou|79|35|1|4
+21|AwareDAV: a generic WebDAV notification framework and implementation.|Henning Qin Jehøj,Niels Olof Bouvin,Kaj Grønbæk|4|0|0|0
+22|Learning domain ontologies for Web service descriptions: an experiment in bioinformatics.|Marta Sabou,Chris Wroe,Carole A. Goble,Gilad Mishne|126|62|0|9
+23|Making RDF presentable: integrated global and local semantic Web browsing.|Lloyd Rutledge,Jacco van Ossenbruggen,Lynda Hardman|58|26|0|6
+24|Shared lexicon for distributed annotations on the Web.|Paolo Avesani,Marco Cova|9|3|0|2
+25|Using XForms to simplify Web programming.|Richard Cardone,Danny Soroker,Alpana Tiwari|53|22|0|1
+26|Web-assisted annotation, semantic indexing and search of television and radio news.|Mike Dowman,Valentin Tablan,Hamish Cunningham,Borislav Popov|91|39|5|6
+27|Improving Web search efficiency via a locality based static pruning method.|Edleno Silva de Moura,Célia Francisca dos Santos,Daniel R. Fernandes,Altigran Soares da Silva,Pável Calado,Mario A. Nascimento|59|22|0|4
+28|Sampling search-engine results.|Aris Anagnostopoulos,Andrei Z. Broder,David Carmel|84|47|14|0
+29|Three-level caching for efficient query processing in large Web search engines.|Xiaohui Long,Torsten Suel|155|108|3|6
+30|Innovation for a human-centered network: NTT's R&D activities for achieving the NTT group's medium-term management strategy.|Yuji Inoue|0|0|0|0
+31|Sub-document queries over XML with XSQirrel.|Arnaud Sahuguet,Bogdan Alexe|13|3|0|1
+32|XJ: facilitating XML processing in Java.|Matthew Harren,Mukund Raghavachari,Oded Shmueli,Michael G. Burke,Rajesh Bordawekar,Igor Pechtchanski,Vivek Sarkar|70|20|1|6
+33|XQuery containment in presence of variable binding dependencies.|Li Chen,Elke A. Rundensteiner|16|4|1|1
+34|eBag: a ubiquitous Web infrastructure for nomadic learning.|Christina Brodersen,Bent Guldbjerg Christensen,Kaj Grønbæk,Christian Dindler,Balasuthas Sundararajah|57|22|0|4
+35|Online curriculum on the semantic Web: the CSD-UoC portal for peer-to-peer e-learning.|Dimitris Kotzinos,Sofia Pediaditaki,Apostolos Apostolidis,Nikolaos Athanasis,Vassilis Christophides|26|10|0|1
+36|The classroom sentinel: supporting data-driven decision-making in the classroom.|Mark K. Singley,Richard B. Lam|17|9|0|0
+37|Topic segmentation of message hierarchies for indexing and navigation support.|Jong Wook Kim,K. Selçuk Candan,Mehmet Emin Dönderler|32|10|1|9
+38|Gimme' the context: context-driven automatic semantic annotation with C-PANKOW.|Philipp Cimiano,Günter Ladwig,Steffen Staab|225|102|0|10
+39|Opinion observer: analyzing and comparing opinions on the Web.|Bing Liu,Minqing Hu,Junsheng Cheng|1241|948|11|23
+40|Towards usable Web privacy and security.|Lorrie Faith Cranor|7|3|0|0
+41|Accessibility: a Web engineering approach.|Peter Plessers,Sven Casteleyn,Yeliz Yesilada,Olga De Troyer,Robert Stevens,Simon Harper,Carole A. Goble|103|39|1|10
+42|A multilingual usage consultation tool based on internet searching: more than a search engine, less than QA.|Kumiko Tanaka-Ishii,Hiroshi Nakagawa|27|9|1|5
+43|Improving portlet interoperability through deep annotation.|Oscar Díaz,Jon Iturrioz,Arantza Irastorza|29|11|1|3
+44|CubeSVD: a novel approach to personalized Web search.|Jian-Tao Sun,Hua-Jun Zeng,Huan Liu,Yuchang Lu,Zheng Chen|310|196|7|4
+45|Automatic identification of user goals in Web search.|Uichin Lee,Zhenyu Liu,Junghoo Cho|506|313|4|4
+46|User-centric Web crawling.|Sandeep Pandey,Christopher Olston|110|56|2|6
+47|An abuse-free fair contract signing protocol based on the RSA signature.|Guilin Wang|34|33|0|0
+48|TrustGuard: countering vulnerabilities in reputation management for decentralized overlay networks.|Mudhakar Srivatsa,Li Xiong,Ling Liu|332|187|0|10
+49|Static approximation of dynamically generated Web pages.|Yasuhiko Minamide|250|181|22|8
+50|A search engine for natural language applications.|Michael J. Cafarella,Oren Etzioni|119|50|1|7
+51|An enhanced model for searching in semantic portals.|Lei Zhang,Yong Yu,Jian Zhou,Chenxi Lin,Yin Yang|91|37|1|2
+52|Disambiguating Web appearances of people in a social network.|Ron Bekkerman,Andrew McCallum|308|158|3|3
+53|A convenient method for securely managing passwords.|J. Alex Halderman,Brent Waters,Edward W. Felten|208|124|10|2
+54|Improving understanding of website privacy policies with fine-grained policy anchors.|Stephen E. Levy,Carl Gutwin|22|9|0|0
+55|Hardening Web browsers against man-in-the-middle and eavesdropping attacks.|Xia Brustoloni,José Carlos Brustoloni|82|46|1|4
+56|ATMEN: a triggered network measurement infrastructure.|Balachander Krishnamurthy,Harsha V. Madhyastha,Oliver Spatscheck|30|11|1|2
+57|On the lack of typical behavior in the global Web traffic network.|Mark Meiss,Filippo Menczer,Alessandro Vespignani|34|13|0|9
+58|Analysis of multimedia workloads with implications for internet streaming.|Lei Guo,Songqing Chen,Zhen Xiao,Xiaodong Zhang|72|33|0|12
+59|On optimal service selection.|Piero A. Bonatti,P. Festa|115|67|1|2
+60|G-ToPSS: fast filtering of graph-based metadata.|Milenko Petrovic,Haifeng Liu,Hans-Arno Jacobsen|87|39|1|26
+61|Automating metadata generation: the simple indexing interface.|Kris Cardinaels,Michael Meire,Erik Duval|187|55|0|31
+62|Real and the future of digital media.|Rob Glaser|n/a
+63|PageRank as a function of the damping factor.|Paolo Boldi,Massimo Santini,Sebastiano Vigna|181|101|2|15
+64|Object-level ranking: bringing order to Web objects.|Zaiqing Nie,Yuanzhi Zhang,Ji-Rong Wen,Wei-Ying Ma|315|193|14|31
+65|A uniform approach to accelerated PageRank computation.|Frank McSherry|107|69|9|2
+66|Information search and re-access strategies of experienced web users.|Anne Aula,Natalie Jhaveri,Mika Käki|195|121|5|6
+67|Browsing fatigue in handhelds: semantic bookmarking spells relief.|Saikat Mukherjee,I. V. Ramakrishnan|13|2|0|1
+68|WebPod: persistent Web browsing sessions with pocketable storage devices.|Shaya Potter,Jason Nieh|21|7|0|6
+69|Named graphs, provenance and trust.|Jeremy J. Carroll,Christian Bizer,Patrick J. Hayes,Patrick Stickler|570|334|1|8
+70|OWL DL vs. OWL flight: conceptual modeling and reasoning for the semantic Web.|Jos de Bruijn,Rubén Lara,Axel Polleres,Dieter Fensel|154|37|0|28
+71|Debugging OWL ontologies.|Bijan Parsia,Evren Sirin,Aditya Kalyanpur|218|103|0|9
+72|Scaling link-based similarity search.|Dániel Fogaras,Balázs Rácz|127|87|1|1
+73|LSH forest: self-tuning indexes for similarity search.|Mayank Bawa,Tyson Condie,Prasanna Ganesan|179|112|1|2
+74|Partitioning of Web graphs by community topology.|Hidehiko Ino,Mineichi Kudo,Atsuyoshi Nakamura|92|42|5|2
+75|Incremental maintenance for materialized XPath/XSLT views.|Makoto Onizuka,Fong Yee Chan,Ryusuke Michigami,Takashi Honishi|32|12|0|0
+76|Compiling XSLT 2.0 into XQuery 1.0.|Achille Fokoue,Kristoffer Høgsbro Rose,Jérôme Siméon,Lionel Villard|26|10|2|0
+77|An adaptive, fast, and safe XML parser based on byte sequences memorization.|Toshiro Takase,Hisashi Miyashita,Toyotaro Suzumura,Michiaki Tatsubori|47|12|4|2
+78|CaTTS: calendar types and constraints for Web applications.|François Bry,Frank-André Rieß,Stephanie Spranger|29|3|0|12
+79|Expressiveness of XSDs: from practice to theory, there and back again.|Geert Jan Bex,Wim Martens,Frank Neven,Thomas Schwentick|36|11|0|5
+80|WEESA: Web engineering for semantic Web applications.|Gerald Reif,Harald C. Gall,Mehdi Jazayeri|55|26|2|3
+81|A multi-threaded PIPELINED Web server architecture for SMP/SoC machines.|Gyu Sang Choi,Jin-Ha Kim,Deniz Ersoz,Chita R. Das|24|20|0|1
+82|Cataclysm: policing extreme overloads in internet applications.|Bhuvan Urgaonkar,Prashant J. Shenoy|56|22|1|1
+83|Design for verification for asynchronously communicating Web services.|Aysu Betin-Can,Tevfik Bultan,Xiang Fu|54|16|0|9

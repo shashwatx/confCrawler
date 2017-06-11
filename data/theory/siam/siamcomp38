@@ -1,0 +1,102 @@
+101
+1|On the Algorithmic Aspects of Discrete and Lexicographic Helly-Type Theorems and the Discrete LP-Type Model.|Nir Halman|1|1|0|0
+2|Lower Bounds for Randomized and Quantum Query Complexity Using Kolmogorov Arguments.|Sophie Laplante,Frédéric Magniez|82|30|0|6
+3|Minimizing Disjunctive Normal Form Formulas and AC0 Circuits Given a Truth Table.|Eric Allender,Lisa Hellerstein,Paul McCabe,Toniann Pitassi,Michael E. Saks|19|19|0|4
+4|Uniform Hashing in Constant Time and Optimal Space.|Anna Pagh,Rasmus Pagh|52|47|2|5
+5|Fuzzy Extractors: How to Generate Strong Keys from Biometrics and Other Noisy Data.|Yevgeniy Dodis,Rafail Ostrovsky,Leonid Reyzin,Adam Smith|1037|676|16|14
+6|Sub-Constant Error Low Degree Test of Almost-Linear Size.|Dana Moshkovitz,Ran Raz|34|21|0|12
+7|On Approximating Restricted Cycle Covers.|Bodo Manthey|10|4|0|3
+8|Testing Graph Isomorphism.|Eldar Fischer,Arie Matsliah|35|28|0|7
+9|Improving the Stretch Factor of a Geometric Network by Edge Augmentation.|Mohammad Farshi,Panos Giannopoulos,Joachim Gudmundsson|14|12|0|4
+10|Equitable Cost Allocations via Primal--Dual-Type Algorithms.|Kamal Jain,Vijay V. Vazirani|46|8|0|9
+11|Vertical Ray Shooting and Computing Depth Orders for Fat Objects.|Mark de Berg,Chris Gray|17|4|0|12
+12|Convergence of Autonomous Mobile Robots with Inaccurate Sensors and Movements.|Reuven Cohen,David Peleg|45|15|0|5
+13|Plottable Real Number Functions and the Computable Graph Theorem.|Vasco Brattka|32|25|0|8
+14|MAX ONES Generalized to Larger Domains.|Peter Jonsson,Fredrik Kuivinen,Gustav Nordh|19|15|0|4
+15|Exponential Separation of Quantum and Classical One-Way Communication Complexity.|Ziv Bar-Yossef,T. S. Jayram,Iordanis Kerenidis|66|17|0|9
+16|The Euclidean Orienteering Problem Revisited.|Ke Chen,Sariel Har-Peled|18|15|0|4
+17|Lower Bound for the Online Bin Packing Problem with Restricted Repacking.|János Balogh,József Békési,Gábor Galambos,Gerhard Reinelt|13|11|0|4
+18|An APTAS for Generalized Cost Variable-Sized Bin Packing.|Leah Epstein,Asaf Levin|30|27|0|3
+19|Binary Space Partitions for Axis-Aligned Fat Rectangles.|Csaba D. Tóth|4|4|0|0
+20|An O(logn loglogn) Space Algorithm for Undirected st-Connectivity.|Vladimir Trifonov|16|5|0|2
+21|The Mixing Time of the Thorp Shuffle.|Ben Morris|18|7|0|4
+22|Every Monotone Graph Property Is Testable.|Noga Alon,Asaf Shapira|112|58|0|12
+23|The Round Complexity of Two-Party Random Selection.|Saurabh Sanghvi,Salil P. Vadhan|14|4|0|2
+24|Short PCPs with Polylog Query Complexity.|Eli Ben-Sasson,Madhu Sudan|70|60|0|14
+25|Lower-Stretch Spanning Trees.|Michael Elkin,Yuval Emek,Daniel A. Spielman,Shang-Hua Teng|n/a
+26|Improved Approximation Algorithms for Minimum Weight Vertex Separators.|Uriel Feige,MohammadTaghi Hajiaghayi,James R. Lee|210|140|0|23
+27|Tree-Walking Automata Do Not Recognize All Regular Languages.|Mikolaj Bojanczyk,Thomas Colcombet|48|23|0|0
+28|New and Improved Constructions of Nonmalleable Cryptographic Protocols.|Rafael Pass,Alon Rosen|122|80|0|23
+29|Tensor Norms and the Classical Communication Complexity of Nonlocal Quantum Measurement.|Yaoyun Shi,Yufan Zhu|16|8|0|1
+30|I/O-Efficient Planar Separators.|Anil Maheshwari,Norbert Zeh|12|9|0|4
+31|Approximate Shortest Paths in Anisotropic Regions.|Siu-Wing Cheng,Hyeon-Suk Na,Antoine Vigneron,Yajun Wang|31|22|0|8
+32|A Primal-Dual Bicriteria Distributed Algorithm for Capacitated Vertex Cover.|Fabrizio Grandoni,Jochen Könemann,Alessandro Panconesi,Mauro Sozio|13|9|0|2
+33|On the Complexity of Verifying Consistency of XML Specifications.|Marcelo Arenas,Wenfei Fan,Leonid Libkin|48|41|0|8
+34|Competitive Online Approximation of the Optimal Search Ratio.|Rudolf Fleischer,Thomas Kamphans,Rolf Klein,Elmar Langetepe,Gerhard Trippen|18|16|0|4
+35|On Approximating the Depth and Related Problems.|Boris Aronov,Sariel Har-Peled|114|73|0|21
+36|Efficient Algorithms for Description Problems over Finite Totally Ordered Domains.|Àngel J. Gil,Miki Hermann,Gernot Salzer,Bruno Zanuttini|4|1|0|2
+37|Approximating the Spanning Star Forest Problem and Its Application to Genomic Sequence Alignment.|C. Thach Nguyen,Jian Shen,Minmei Hou,Li Sheng,Webb Miller,Louxin Zhang|23|15|0|2
+38|Simulating Quantum Computation by Contracting Tensor Networks.|Igor L. Markov,Yaoyun Shi|97|59|1|3
+39|Efficient Colored Orthogonal Range Counting.|Haim Kaplan,Natan Rubin,Micha Sharir,Elad Verbin|19|19|0|2
+40|Finding Branch-Decompositions and Rank-Decompositions.|Petr Hlinený,Sang-il Oum|95|71|0|9
+41|Query-Efficient Algorithms for Polynomial Interpolation over Composites.|Parikshit Gopalan|5|3|0|3
+42|Exact Algorithms for Treewidth and Minimum Fill-In.|Fedor V. Fomin,Dieter Kratsch,Ioan Todinca,Yngve Villanger|50|38|0|20
+43|Dimensions of Points in Self-Similar Fractals.|Jack H. Lutz,Elvira Mayordomo|22|14|0|10
+44|The Complexity of Monadic Second-Order Unification.|Jordi Levy,Manfred Schmidt-Schauß,Mateu Villaret|14|14|0|3
+45|The Spectral Method for General Mixture Models.|Ravindran Kannan,Hadi Salmasian,Santosh Vempala|93|47|0|8
+46|Improved Approximation Algorithms for Broadcast Scheduling.|Nikhil Bansal,Don Coppersmith,Maxim Sviridenko|53|31|0|5
+47|Geometric Complexity Theory II: Towards Explicit Obstructions for Embeddings among Class Varieties.|Ketan Mulmuley,Milind A. Sohoni|70|56|0|17
+48|Fault-Tolerant Quantum Computation with Constant Error Rate.|Dorit Aharonov,Michael Ben-Or|77|57|0|4
+49|Mitotic Classes in Inductive Inference.|Sanjay Jain,Frank Stephan|2|2|0|2
+50|On Monotone Formula Composition of Perfect Zero-Knowledge Languages.|Alfredo De Santis,Giovanni Di Crescenzo,Giuseppe Persiano,Moti Yung|2|2|0|1
+51|Network Failure Detection and Graph Connectivity.|Jon M. Kleinberg,Mark Sandler,Aleksandrs Slivkins|41|21|0|0
+52|Resolution Is Not Automatizable Unless W[P] Is Tractable.|Michael Alekhnovich,Alexander A. Razborov|81|19|0|8
+53|Preservation under Extensions on Well-Behaved Finite Structures.|Albert Atserias,Anuj Dawar,Martin Grohe|21|7|0|5
+54|Closest Substring Problems with Small Distances.|Dániel Marx|60|37|0|8
+55|Approximation Algorithms for Data Placement Problems.|Ivan D. Baev,Rajmohan Rajaraman,Chaitanya Swamy|110|99|2|5
+56|Faster Algorithms for Minimum Cycle Basis in Directed Graphs.|Ramesh Hariharan,Telikepalli Kavitha,Kurt Mehlhorn|8|4|0|3
+57|Linear Equations Modulo 2 and the L1 Diameter of Convex Bodies.|Subhash Khot,Assaf Naor|23|20|0|1
+58|Combination Can Be Hard: Approximability of the Unique Coverage Problem.|Erik D. Demaine,Uriel Feige,MohammadTaghi Hajiaghayi,Mohammad R. Salavatipour|122|65|0|3
+59|Approximation Algorithm and Perfect Sampler for Closed Jackson Networks with Single Servers.|Shuji Kijima,Tomomi Matsui|5|5|0|2
+60|Approximation Algorithms for Biclustering Problems.|Lusheng Wang,Yu Lin,Xiaowen Liu|4|3|0|0
+61|A Deterministic Subexponential Algorithm for Solving Parity Games.|Marcin Jurdzinski,Mike Paterson,Uri Zwick|183|107|0|4
+62|Linear-Time Algorithms for Dominators and Other Path-Evaluation Problems.|Adam L. Buchsbaum,Loukas Georgiadis,Haim Kaplan,Anne Rogers,Robert Endre Tarjan,Jeffery Westbrook|43|37|0|19
+63|The Combined Power of Conditions and Information on Failures to Solve Asynchronous Set Agreement.|Achour Mostéfaoui,Sergio Rajsbaum,Michel Raynal,Corentin Travers|18|14|0|11
+64|The Price of Stability for Network Design with Fair Cost Allocation.|Elliot Anshelevich,Anirban Dasgupta,Jon M. Kleinberg,Éva Tardos,Tom Wexler,Tim Roughgarden|647|393|0|16
+65|A Lower Bound for the Size of Syntactically Multilinear Arithmetic Circuits.|Ran Raz,Amir Shpilka,Amir Yehudayoff|39|27|0|20
+66|Cost-Distance: Two Metric Network Design.|Adam Meyerson,Kamesh Munagala,Serge A. Plotkin|109|30|1|10
+67|Universal Arguments and their Applications.|Boaz Barak,Oded Goldreich|144|59|1|20
+68|Exponential Separation for One-Way Quantum Communication Complexity, with Applications to Cryptography.|Dmitry Gavinsky,Julia Kempe,Iordanis Kerenidis,Ran Raz,Ronald de Wolf|125|89|0|15
+69|Graph Distances in the Data-Stream Model.|Joan Feigenbaum,Sampath Kannan,Andrew McGregor,Siddharth Suri,Jian Zhang|56|52|0|6
+70|Private Approximation of Search Problems.|Amos Beimel,Paz Carmi,Kobbi Nissim,Enav Weinreb|27|15|0|4
+71|Approximating Minimum Max-Stretch Spanning Trees on Unweighted Graphs.|Yuval Emek,David Peleg|42|9|0|2
+72|The CSP Dichotomy Holds for Digraphs with No Sources and No Sinks (A Positive Answer to a Conjecture of Bang-Jensen and Hell).|Libor Barto,Marcin Kozik,Todd Niven|107|81|0|21
+73|Spanners of Complete k-Partite Geometric Graphs.|Prosenjit Bose,Paz Carmi,Mathieu Couture,Anil Maheshwari,Pat Morin,Michiel H. M. Smid|2|1|0|1
+74|Profiles of Tries.|GaHyun Park,Hsien-Kuei Hwang,Pierre Nicodème,Wojciech Szpankowski|46|33|0|4
+75|On Fixed-Points of Multivalued Functions on Complete Lattices and Their Application to Generalized Logic Programs.|Umberto Straccia,Manuel Ojeda-Aciego,Carlos Viegas Damásio|27|26|0|0
+76|Impossibility Results and Lower Bounds for Consensus under Link Failures.|Ulrich Schmid,Bettina Weiss,Idit Keidar|57|48|0|10
+77|Locally Decodable Codes from Nice Subsets of Finite Fields and Prime Factors of Mersenne Numbers.|Kiran S. Kedlaya,Sergey Yekhanin|21|17|0|5
+78|The Complexity of Weighted Boolean CSP.|Martin E. Dyer,Leslie Ann Goldberg,Mark Jerrum|59|52|0|11
+79|On the Complexity of Numerical Analysis.|Eric Allender,Peter Bürgisser,Johan Kjeldgaard-Pedersen,Peter Bro Miltersen|124|92|0|5
+80|Interval Completion Is Fixed Parameter Tractable.|Yngve Villanger,Pinar Heggernes,Christophe Paul,Jan Arne Telle|40|36|0|5
+81|Optimizing Schema Languages for XML: Numerical Constraints and Interleaving.|Wouter Gelade,Wim Martens,Frank Neven|33|16|0|6
+82|Stream Order and Order Statistics: Quantile Estimation in Random-Order Streams.|Sudipto Guha,Andrew McGregor|38|30|1|8
+83|Sampling Algorithms and Coresets for $\ellp Regression.|Anirban Dasgupta,Petros Drineas,Boulos Harb,Ravi Kumar,Michael W. Mahoney|52|43|0|4
+84|Hierarchical Unambiguity.|Holger Spakowski,Rahul Tripathi|n/a
+85|SeparatingAC0 from Depth-2 Majority Circuits.|Alexander A. Sherstov|n/a
+86|Interpolation of Depth-3 Arithmetic Circuits with Two Multiplication Gates.|Amir Shpilka|25|15|0|9
+87|Breaking a Time-and-Space Barrier in Constructing Full-Text Indices.|Wing-Kai Hon,Kunihiko Sadakane,Wing-Kin Sung|n/a
+88|Linear-Time Haplotype Inference on Pedigrees without Recombinations and Mating Loops.|Mee Yee Chan,Wun-Tat Chan,Francis Y. L. Chin,Stanley P. Y. Fung,Ming-Yang Kao|4|3|0|0
+89|Efficient Algorithms for Reconstructing Zero-Recombinant Haplotypes on a Pedigree Based on Fast Elimination of Redundant Linear Equations.|Jing Xiao,Lan Liu,Lirong Xia,Tao Jiang|7|7|0|4
+90|Polylogarithmic Independence Can Fool DNF Formulas.|Louay M. J. Bazzi|54|48|0|0
+91|On the Value of Coordination in Network Design.|Susanne Albers|72|53|0|2
+92|Metric Embeddings with Relaxed Guarantees.|T.-H. Hubert Chan,Kedar Dhamdhere,Anupam Gupta,Jon M. Kleinberg,Aleksandrs Slivkins|76|39|0|7
+93|The Connectivity of Boolean Satisfiability: Computational and Structural Dichotomies.|Parikshit Gopalan,Phokion G. Kolaitis,Elitza N. Maneva,Christos H. Papadimitriou|68|65|0|0
+94|The Undecidability of the Infinite Ribbon Problem: Implications for Computing by Self-Assembly.|Leonard M. Adleman,Jarkko Kari,Lila Kari,Dustin Reishus,Petr Sosík|21|16|0|5
+95|Dynamic Programming Optimization over Random Data: The Scaling Exponent for Near-Optimal Solutions.|David J. Aldous,Charles Bordenave,Marc Lelarge|4|3|0|0
+96|Random Hyperplane Search Trees.|Luc Devroye,James King,Colin McDiarmid|7|7|0|3
+97|A Constant Factor Approximation for the Single Sink Edge Installation Problem.|Sudipto Guha,Adam Meyerson,Kamesh Munagala|15|13|0|0
+98|A 2EXPTIME Complete Varietal Membership Problem.|Marcin Kozik|3|3|0|0
+99|Stateless Distributed Gradient Descent for Positive Linear Programs.|Baruch Awerbuch,Rohit Khandekar|32|26|1|4
+100|Improved Lower Bounds for Embeddings intoL1$.|Robert Krauthgamer,Yuval Rabani|78|47|0|12
+101|Testing Hereditary Properties of Nonexpanding Bounded-Degree Graphs.|Artur Czumaj,Asaf Shapira,Christian Sohler|40|32|0|13

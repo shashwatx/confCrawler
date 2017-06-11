@@ -1,0 +1,66 @@
+65
+1|Proceedings of the Fifth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Diego, CA, USA, August 15-18, 1999.|Usama M. Fayyad,Surajit Chaudhuri,David Madigan|n/a
+2|Data Mining: Crossing the Chasm (Invited talk, Abstract only).|Rakesh Agrawal|n/a
+3|Farming the Web for Systematic Business Intelligence (Invited talk, Abstract only).|Richard D. Hackathorn|11|6|0|0
+4|2001: A Statistical Odyssey (Invited talk, Abstract only).|Daryl Pregibon|n/a
+5|Squashing Flat Files Flatter.|William DuMouchel,Chris Volinsky,Theodore Johnson,Corinna Cortes,Daryl Pregibon|155|31|0|7
+6|Fast and Effective Text Mining Using Linear-Time Document Clustering.|Bjornar Larsen,Chinatsu Aone|873|392|9|0
+7|Efficient Progressive Sampling.|Foster J. Provost,David Jensen,Tim Oates|312|104|4|13
+8|Event Detection from Time Series Data.|Valery Guralnik,Jaideep Srivastava|404|168|6|1
+9|Efficient Mining of Emerging Patterns: Discovering Trends and Differences.|Guozhu Dong,Jinyan Li|1024|475|1|77
+10|Activity Monitoring: Noticing Interesting Changes in Behavior.|Tom Fawcett,Foster J. Provost|379|167|8|7
+11|Trajectory Clustering with Mixtures of Regression Models.|Scott Gaffney,Padhraic Smyth|370|222|10|13
+12|CACTUS - Clustering Categorical Data Using Summaries.|Venkatesh Ganti,Johannes Gehrke,Raghu Ramakrishnan|548|198|9|7
+13|Entropy-based Subspace Clustering for Mining Numerical Data.|Chun Hung Cheng,Ada Wai-Chee Fu,Yi Zhang|548|252|1|3
+14|Statistics and Data Mining Techniques for Lifetime Value Modeling.|D. R. Mani,James Drew,Andrew Betz,Piew Datta|71|16|2|2
+15|Mining GPS Data to Augment Road Models.|Seth Rogers,Pat Langley,Christopher Wilson|86|49|4|3
+16|Mining in a Data-Flow Environment: Experience in Network Intrusion Detection.|Wenke Lee,Salvatore J. Stolfo,Kui W. Mok|271|69|13|24
+17|Pruning and Summarizing the Discovered Associations.|Bing Liu,Wynne Hsu,Yiming Ma|456|132|0|22
+18|Mining Optimized Gain Rules for Numeric Attributes.|Sergey Brin,Rajeev Rastogi,Kyuseok Shim|67|13|1|1
+19|Mining the Most Interesting Rules.|Roberto J. Bayardo Jr.,Rakesh Agrawal|713|194|2|2
+20|MetaCost: A General Method for Making Classifiers Cost-Sensitive.|Pedro M. Domingos|1134|596|15|3
+21|Extending Naïve Bayes Classifiers Using Long Itemsets.|Dimitris Meretakis,Beat Wüthrich|143|38|1|4
+22|A Classification-Based Methodology for Planning Audit Strategies in Fraud Detection.|Francesco Bonchi,Fosca Giannotti,Gianni Mainetto,Dino Pedreschi|84|28|1|5
+23|Estimating Campaign Benefits and Modeling Lift.|Gregory Piatetsky-Shapiro,Brij M. Masand|78|30|1|3
+24|Generalized Additive Neural Networks.|William J. E. Potts|14|6|0|0
+25|Horting Hatches an Egg: A New Graph-Theoretic Approach to Collaborative Filtering.|Charu C. Aggarwal,Joel L. Wolf,Kun-Lung Wu,Philip S. Yu|485|199|3|7
+26|Discovering Roll-Up Dependencies.|Jef Wijsen,Raymond T. Ng,Toon Calders|20|1|0|9
+27|Compressed Data Cubes for OLAP Aggregate Query Approximation on Continuous Dimensions.|Jayavel Shanmugasundaram,Usama M. Fayyad,Paul S. Bradley|177|40|8|1
+28|Density-Based Indexing for Approximate Nearest-Neighbor Queries.|Kristin P. Bennett,Usama M. Fayyad,Dan Geiger|117|44|2|4
+29|Using a Knowledge Cache for Interactive Discovery of Association Rules.|Biswadeep Nag,Prasad Deshpande,David J. DeWitt|84|15|0|1
+30|Using Association Rules for Product Assortment Decisions: A Case Study.|Tom Brijs,Gilbert Swinnen,Koen Vanhoof,Geert Wets|319|152|2|4
+31|A Statistical Theory for Quantitative Association Rules.|Yonatan Aumann,Yehuda Lindell|174|39|1|0
+32|A Study of Support Vectors on Model Independent Example Selection.|Nadeem Ahmed Syed,Huan Liu,Kah Kay Sung|34|2|0|4
+33|Accelerating Exact k-means Algorithms with Geometric Reasoning.|Dan Pelleg,Andrew W. Moore|345|135|2|2
+34|Adaptive Query Processing for Time-Series Data.|Yun-Wu Huang,Philip S. Yu|94|21|1|0
+35|An Efficient Algorithm to Update Large Itemsets with Early Pruning.|Necip Fazil Ayan,Abdullah Uz Tansel,M. Erol Arkun|158|44|0|3
+36|Applying General Bayesian Techniques to Improve TAN Induction.|Jesús Cerquides|19|2|0|4
+37|Breaking the Barrier of Transactions: Mining Inter-Transaction Association Rules.|Anthony K. H. Tung,Hongjun Lu,Jiawei Han,Ling Feng|108|33|0|6
+38|Detecting Change in Categorical Data: Mining Contrast Sets.|Stephen D. Bay,Michael J. Pazzani|199|86|4|8
+39|Evaluating a Class of Distance-Mapping Algorithms for Data Mining and Clustering.|Jason Tsong-Li Wang,Xiong Wang,King-Ip Lin,Dennis Shasha,Bruce A. Shapiro,Kaizhong Zhang|100|34|1|4
+40|Fast Density Estimation Using CF-Kernel for Very Large Databases.|Tian Zhang,Raghu Ramakrishnan,Miron Livny|35|13|1|2
+41|Handling Concept Drifts in Incremental Learning with Support Vector Machines.|Nadeem Ahmed Syed,Huan Liu,Kah Kay Sung|146|82|4|3
+42|Identifying Distinctive Subsequences in Multivariate Time Series by Clustering.|Tim Oates|86|20|0|6
+43|Information Mining Platforms: An Infrastructure for KDD Rapid Deployment.|Corinna Cortes,Daryl Pregibon|11|2|0|6
+44|Interestingness via What is Not Interesting.|Sigal Sahar|122|33|0|6
+45|Mining Association Rules with Multiple Minimum Supports.|Bing Liu,Wynne Hsu,Yiming Ma|681|348|1|15
+46|Mining Features for Sequence Classification.|Neal Lesh,Mohammed Javeed Zaki,Mitsunori Ogihara|156|54|1|1
+47|Mining Lesion-Deficit Associations in a Brain Image Database.|Vasileios Megalooikonomou,Christos Davatzikos,Edward Herskovits|48|14|0|7
+48|On the Merits of Building Categorization Systems by Supervised Clustering.|Charu C. Aggarwal,Stephen C. Gates,Philip S. Yu|140|40|1|9
+49|Prediction with Local Patterns using Cross-Entropy.|Heikki Mannila,Dmitry Pavlov,Padhraic Smyth|35|7|0|6
+50|The Application of AdaBoost for Distributed, Scalable and On-Line Learning.|Wei Fan,Salvatore J. Stolfo,Junxin Zhang|107|46|1|2
+51|The Impact of Changing Populations on Classifier Performance.|Mark G. Kelly,David J. Hand,Niall M. Adams|164|86|0|18
+52|Towards Automated Synthesis of Data Mining Programs.|Wray L. Buntine,Bernd Fischer,Thomas Pressburger|16|1|0|8
+53|User Profiling in Personalization Applications Through Rule Discovery and Validation.|Gediminas Adomavicius,Alexander Tuzhilin|171|48|44|4
+54|Using Approximations to Scale Exploratory Data Analysis in Datacubes.|Daniel Barbará,Xintao Wu|14|1|0|4
+55|Bayesian Networks for Lossless Dataset Compression.|Scott Davies,Andrew W. Moore|13|3|0|2
+56|Visual Classification: An Interactive Approach to Decision Tree Construction.|Mihael Ankerst,Christian Elsen,Martin Ester,Hans-Peter Kriegel|191|71|1|7
+57|Text Mining: Finding Nuggets in Mountains of Textual Data.|Jochen Dörre,Peter Gerstl,Roland Seiffert|191|65|4|0
+58|Monitoring a Newsfeed for Hot Topics.|Mark Shewhart,Mark Wasson|17|4|2|1
+59|Origami: A New Data Visualization Tool.|Jen Que Louie,Tom Kraay|3|0|0|0
+60|Discovery of Fraud Rules for Telecommunications - Challenges and Solutions.|Saharon Rosset,Uzi Murad,Einat Neumann,Yizhak Idan,Gadi Pinkas|110|36|1|3
+61|Optimization of Collection Efforts in Automobile Financing - a KDD Supported Environment.|H. Kauderer,Gholamreza Nakhaeizadeh,F. Artiles,H. Jeromin|4|0|1|1
+62|WAPS, a Data Mining Support Environment for the Planning of Warranty and Goodwill Costs in the Automobile Industry.|Edgar Hotz,Gholamreza Nakhaeizadeh,B. Petzsche,H. Spiegelberger|15|1|1|3
+63|The PanQ Tool and EMF SQL for Complex Data Management.|Damianos Chatziantoniou|15|2|0|8
+64|NonStop SQL/MX Primitives for Knowledge Discovery.|John Clear,Debbie Dunn,Brad Harvey,Michael L. Heytens,Peter Lohman,Abhay Mehta,Mark Melton,Lars Rohrberg,Ashok Savasere,Robert M. Wehrmeister,Melody Xu|70|32|1|0
+65|Mining Interesting Knowledge Using DM-II.|Bing Liu,Wynne Hsu,Yiming Ma,Shu Chen|26|1|0|0

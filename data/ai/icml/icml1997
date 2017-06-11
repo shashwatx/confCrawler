@@ -1,0 +1,50 @@
+49
+1|Proceedings of the Fourteenth International Conference on Machine Learning (ICML 1997), Nashville, Tennessee, USA, July 8-12, 1997.|Douglas H. Fisher|n/a
+2|Feature Engineering and Classifier Selection: A Case Study in Venusian Volcano Detection.|Lars Asker,Richard Maclin|12|0|0|2
+3|Robot Learning From Demonstration.|Christopher G. Atkeson,Stefan Schaal|477|223|1|21
+4|On Learning From Multi-Instance Examples: Empirical Evaluation of a Theoretical Approach.|Peter Auer|116|23|0|2
+5|Using Optimal Dependency-Trees for Combinational Optimization.|Shumeet Baluja,Scott Davies|n/a
+6|The Canonical Distortion Measure for Vector Quantization and Function Approximation.|Jonathan Baxter|24|1|0|2
+7|FONN: Combining First Order Logic with Connectionist Learning.|Marco Botta,Attilio Giordana,Roberto Piola|34|2|0|5
+8|Improving Minority Class Prediction Using Case-Specific Feature Weights.|Claire Cardie,Nicholas Nowe|130|40|0|4
+9|A Comparative Study of Inductive Logic Programming Methods for Software Fault Prediction.|William W. Cohen,Premkumar T. Devanbu|21|3|0|0
+10|Learning Symbolic Prototypes.|Piew Datta,Dennis F. Kibler|16|6|0|0
+11|PAC Learning with Constant-Partition Classification Noise and Applications to Decision Tree Induction.|Scott E. Decatur|37|12|0|0
+12|Efficient Feature Selection in Conceptual Clustering.|Mark Devaney,Ashwin Ram|142|36|1|0
+13|Knowledge Acquisition form Examples Vis Multiple Models.|Pedro M. Domingos|n/a
+14|Improving Regressors using Boosting Techniques.|Harris Drucker|342|142|0|1
+15|Expected Mistake Bound Model for On-Line Reinforcement Learning.|Claude-Nicolas Fiechter|23|4|0|1
+16|Learning Belief Networks in the Presence of Missing Values and Hidden Variables.|Nir Friedman|451|153|8|16
+17|Probabilistic Linear Tree.|João Gama|29|5|0|9
+18|A Probabilistic Analysis of the Rocchio Algorithm with TFIDF for Text Categorization.|Thorsten Joachims|1460|499|15|6
+19|Reinforcement Learning in POMDPs with Function Approximation.|Hajime Kimura,Kazuteru Miyazaki,Shigenobu Kobayashi|85|27|0|8
+20|Option Decision Trees with Majority Votes.|Ron Kohavi,Clayton Kunz|119|40|0|8
+21|Hierarchically Classifying Documents Using Very Few Words.|Daphne Koller,Mehran Sahami|1105|317|49|10
+22|Addressing the Curse of Imbalanced Training Sets: One-Sided Selection.|Miroslav Kubat,Stan Matwin|1272|784|2|14
+23|Automatic Rule Acquisition for Spelling Correction.|Lidia Mangu,Eric Brill|146|44|2|7
+24|Pessimistic decision tree pruning based Continuous-time.|Yishay Mansour|8|1|0|0
+25|Pruning Adaptive Boosting.|Dragos D. Margineantu,Thomas G. Dietterich|417|204|0|1
+26|On the Decomposition of Polychotomies into Dichotomies.|Eddy Mayoraz,Miguel Moreira|70|14|0|5
+27|ARCCHNID: Adaptive Retrieval Agents Choosing Heuristic Neighborhoods.|Filippo Menczer|132|29|2|22
+28|Efficient Locally Weighted Polynomial Regression Predictions.|Andrew W. Moore,Jeff G. Schneider,Kan Deng|n/a
+29|Preventing "Overfitting" of Cross-Validation Data.|Andrew Y. Ng|112|57|0|2
+30|The Effects of Training Set Size on Decision Tree Complexity.|Tim Oates,David Jensen|n/a
+31|The Effective Size of a Neural Network: A Principal Component Approach.|David W. Opitz|3|0|0|0
+32|Exponentiated Gradient Methods for Reinforcement Learning.|Doina Precup,Richard S. Sutton|16|5|0|0
+33|Learning Goal-Decomposition Rules using Exercises.|Chandra Reddy,Prasad Tadepalli|54|15|0|10
+34|Learning String Edit Distance.|Eric Sven Ristad,Peter N. Yianilos|698|356|6|2
+35|An adaptation of Relief for attribute estimation in regression.|Marko Robnik-Sikonja,Igor Kononenko|268|164|2|13
+36|Predicting Multiprocessor Memory Access Patterns with Learning Models.|M. F. Sakr,Steven P. Levitan,Donald M. Chiarulli,Bill G. Horne,C. Lee Giles|24|8|0|0
+37|Using output codes to boost multiclass learning problems.|Robert E. Schapire|314|106|4|12
+38|Boosting the margin: A new explanation for the effectiveness of voting methods.|Robert E. Schapire,Yoav Freund,Peter Barlett,Wee Sun Lee|2468|878|21|80
+39|Why Experimentation can be better than "Perfect Guidance".|Tobias Scheffer,Russell Greiner,Christian Darken|9|1|0|2
+40|Characterizing the generalization performance of model selection strategies.|Dale Schuurmans,Lyle H. Ungar,Dean P. Foster|14|1|0|4
+41|A Bayesian Approach to Model Learning in Non-Markovian Environments.|Nobuo Suematsu,Akira Hayashi,Shigang Li|9|5|0|1
+42|Hierarchical Explanation-Based Reinforcement Learning.|Prasad Tadepalli,Thomas G. Dietterich|29|6|0|5
+43|Stacking Bagged and Dagged Models.|Kai Ming Ting,Ian H. Witten|129|89|0|3
+44|Declarative Bias in Equation Discovery.|Ljupco Todorovski,Saso Dzeroski|137|42|0|36
+45|Functional Models for Regression Tree Leaves.|Luís Torgo|111|28|0|6
+46|Integrating Feature Construction with Multiple Classifiers in Decision Tree Induction.|Ricardo Vilalta,Larry A. Rendell|4|2|0|0
+47|Instance Pruning Techniques.|D. Randall Wilson,Tony R. Martinez|212|74|0|6
+48|A Comparative Study on Feature Selection in Text Categorization.|Yiming Yang,Jan O. Pedersen|5231|2410|55|24
+49|Machine Learning by Function Decomposition.|Blaz Zupan,Marko Bohanec,Ivan Bratko,Janez Demsar|61|11|0|10

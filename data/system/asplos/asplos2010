@@ -1,0 +1,35 @@
+34
+1|Proceedings of the 15th International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2010, Pittsburgh, Pennsylvania, USA, March 13-17, 2010.|James C. Hoe,Vikram S. Adve|n/a
+2|Technology for developing regions: Moore's law is not enough.|Eric A. Brewer|0|0|0|0
+3|Dynamically replicated memory: building reliable systems from nanoscale resistive memories.|Engin Ipek,Jeremy Condit,Edmund B. Nightingale,Doug Burger,Thomas Moscibroda|126|124|1|3
+4|A power-efficient all-optical on-chip interconnect using wavelength-based oblivious routing.|Nevin Kirman,José F. Martínez|77|74|0|0
+5|A real system evaluation of hardware atomicity for software speculation.|Naveen Neelakantam,David R. Ditzel,Craig B. Zilles|19|18|1|2
+6|Dynamic filtering: multi-purpose architecture support for language runtime systems.|Tim Harris,Sasa Tomic,Adrián Cristal,Osman S. Unsal|8|8|0|2
+7|CoreDet: a compiler and runtime system for deterministic multithreaded execution.|Tom Bergan,Owen Anderson,Joseph Devietti,Luis Ceze,Dan Grossman|231|223|2|13
+8|Speculative parallelization using software multi-threaded transactions.|Arun Raman,Hanjun Kim,Thomas R. Mason,Thomas B. Jablin,David I. August|90|87|2|5
+9|Respec: efficient online multiprocessor replayvia speculation and external determinism.|Dongyoon Lee,Benjamin Wester,Kaushik Veeraraghavan,Satish Narayanasamy,Peter M. Chen,Jason Flinn|122|118|1|8
+10|Probabilistic job symbiosis modeling for SMT processor scheduling.|Stijn Eyerman,Lieven Eeckhout|54|51|0|4
+11|Request behavior variations.|Kai Shen|15|15|0|6
+12|Decoupling contention management from scheduling.|Ryan Johnson,Radu Stoica,Anastasia Ailamaki,Todd C. Mowry|42|41|0|3
+13|Addressing shared resource contention in multicore processors via scheduling.|Sergey Zhuravlev,Sergey Blagodurov,Alexandra Fedorova|427|415|0|20
+14|SherLog: error diagnosis by connecting clues from run-time logs.|Ding Yuan,Haohui Mai,Weiwei Xiong,Lin Tan,Yuanyuan Zhou,Shankar Pasupathy|133|129|1|9
+15|Analyzing multicore dumps to facilitate concurrency bug reproduction.|Dasarath Weeratunge,Xiangyu Zhang,Suresh Jagannathan|50|47|0|2
+16|A randomized scheduler with probabilistic guarantees of finding bugs.|Sebastian Burckhardt,Pravesh Kothari,Madanlal Musuvathi,Santosh Nagarakatte|134|126|2|1
+17|ConMem: detecting severe concurrency bugs through an effect-oriented approach.|Wei Zhang,Chong Sun,Shan Lu|77|76|1|12
+18|Characterizing processor thermal behavior.|Francisco J. Mesa-Martinez,Ehsan K. Ardestani,Jose Renau|59|59|0|3
+19|Conservation cores: reducing the energy of mature computations.|Ganesh Venkatesh,Jack Sampson,Nathan Goulding,Saturnino Garcia,Vladyslav Bryksin,Jose Lugo-Martinez,Steven Swanson,Michael Bedford Taylor|298|288|1|8
+20|Micro-pages: increasing DRAM efficiency with locality-aware data placement.|Kshitij Sudan,Niladrish Chatterjee,David W. Nellans,Manu Awasthi,Rajeev Balasubramonian,Al Davis|137|136|13|8
+21|Power routing: dynamic power provisioning in the data center.|Steven Pelley,David Meisner,Pooya Zandevakili,Thomas F. Wenisch,Jack Underwood|84|82|4|5
+22|Joint optimization of idle and cooling power in data centers while maintaining response time.|Faraz Ahmad,T. N. Vijaykumar|149|141|0|0
+23|Butterfly analysis: adapting dataflow analysis to dynamic parallel monitoring.|Michelle L. Goodstein,Evangelos Vlachos,Shimin Chen,Phillip B. Gibbons,Michael A. Kozuch,Todd C. Mowry|21|20|0|6
+24|ParaLog: enabling and accelerating online parallel monitoring of multithreaded applications.|Evangelos Vlachos,Michelle L. Goodstein,Michael A. Kozuch,Shimin Chen,Babak Falsafi,Phillip B. Gibbons,Todd C. Mowry|39|39|0|10
+25|MacroSS: macro-SIMDization of streaming applications.|Amir Hormati,Yoonseo Choi,Mark Woh,Manjunath Kudlur,Rodric M. Rabbah,Trevor N. Mudge,Scott A. Mahlke|28|26|0|2
+26|COMPASS: a programmable data prefetcher using idle GPU shaders.|Dong Hyuk Woo,Hsien-Hsin S. Lee|23|23|0|2
+27|Flexible architectural support for fine-grain scheduling.|Daniel Sanchez,Richard M. Yoo,Christos Kozyrakis|82|79|0|5
+28|Specifying and dynamically verifying address translation-aware memory consistency.|Bogdan F. Romanescu,Alvin R. Lebeck,Daniel J. Sorin|12|9|1|2
+29|Fairness via source throttling: a configurable and high-performance fairness substrate for multi-core memory systems.|Eiman Ebrahimi,Chang Joo Lee,Onur Mutlu,Yale N. Patt|163|153|14|24
+30|An asymmetric distributed shared memory model for heterogeneous parallel systems.|Isaac Gelado,Javier Cabezas,Nacho Navarro,John E. Stone,Sanjay J. Patel,Wen-mei W. Hwu|158|156|1|5
+31|Inter-core cooperative TLB for chip multiprocessors.|Abhishek Bhattacharjee,Margaret Martonosi|54|52|1|9
+32|Orthrus: efficient software integrity protection on multi-cores.|Ruirui C. Huang,Daniel Y. Deng,G. Edward Suh|20|20|0|0
+33|Shoestring: probabilistic soft error reliability on the cheap.|Shuguang Feng,Shantanu Gupta,Amin Ansari,Scott A. Mahlke|114|111|0|7
+34|Virtualized and flexible ECC for main memory.|Doe Hyun Yoon,Mattan Erez|74|73|0|12

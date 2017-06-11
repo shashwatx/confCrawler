@@ -1,0 +1,88 @@
+87
+1|Proceedings of the Thirty-First Annual ACM Symposium on Theory of Computing, May 1-4, 1999, Atlanta, Georgia, USA.|Jeffrey Scott Vitter,Lawrence L. Larmore,Frank Thomson Leighton|n/a
+2|A Constant-Factor Approximation Algorithm for the k-Median Problem (Extended Abstract).|Moses Charikar,Sudipto Guha,Éva Tardos,David B. Shmoys|497|199|1|23
+3|A Polynomial Combinatorial Algorithm for Generalized Minimum Cost Flow.|Kevin D. Wayne|88|44|0|1
+4|Near-Optimal Hardness Results and Approximation Algorithms for Edge-Disjoint Paths and Related Problems.|Venkatesan Guruswami,Sanjeev Khanna,Rajmohan Rajaraman,F. Bruce Shepherd,Mihalis Yannakakis|261|81|1|19
+5|PCP Characterizations of NP: Towards a Polynomially-Small Error-Probability.|Irit Dinur,Eldar Fischer,Guy Kindler,Ran Raz,Shmuel Safra|58|17|0|20
+6|Fast Approximate PCPs.|Funda Ergün,Ravi Kumar,Ronitt Rubinfeld|24|7|0|2
+7|Approximate Testing with Relative Error.|Marcos A. Kiwi,Frédéric Magniez,Miklos Santha|7|1|0|3
+8|All Pairs Lightest Shortest Paths.|Uri Zwick|10|3|0|6
+9|Unique Maximum Matching Algorithms.|Harold N. Gabow,Haim Kaplan,Robert Endre Tarjan|46|17|0|1
+10|Improved Upper Bounds on Information-Theoretic Private Information Retrieval (Extended Abstract).|Yuval Ishai,Eyal Kushilevitz|76|21|0|19
+11|One-Way Functions Are Essential for Single-Server Private Information Retrieval.|Amos Beimel,Yuval Ishai,Eyal Kushilevitz,Tal Malkin|66|13|0|12
+12|On targeting Markov segments.|Moses Charikar,Ravi Kumar,Prabhakar Raghavan,Sridhar Rajagopalan,Andrew Tomkins|20|9|5|6
+13|Exploiting Regularities in Web Traffic Patterns for Cache Replacement.|Edith Cohen,Haim Kaplan|44|4|0|7
+14|Optimal Buy-and-Hold Strategies for Financial Markets with Bounded Daily Returns.|Gen-Huey Chen,Ming-Yang Kao,Yuh-Dauh Lyuu,Hsing-Kuo Wong|32|23|0|1
+15|Algorithmic Mechanism Design (Extended Abstract).|Noam Nisan,Amir Ronen|n/a
+16|Construction of Extractors Using Pseudo-Random Generators (Extended Abstract).|Luca Trevisan|0|0|0|0
+17|Extracting all the Randomness and Reducing the Error in Trevisan's Extractors.|Ran Raz,Omer Reingold,Salil P. Vadhan|171|66|0|18
+18|On Recycling the Randomness of States in Space Bounded Computation.|Ran Raz,Omer Reingold|75|37|0|21
+19|Security-Preserving Hardness-Amplification for Any Regular One-Way Function.|Giovanni Di Crescenzo,Russell Impagliazzo|8|2|0|2
+20|Scheduling in the Dark.|Jeff Edmonds|171|71|1|20
+21|Scheduling Data Transfers in a Network and the Set Scheduling Problem.|Ashish Goel,Monika Rauch Henzinger,Serge A. Plotkin,Éva Tardos|22|5|0|1
+22|Minimizing the Flow Time Without Migration.|Baruch Awerbuch,Yossi Azar,Stefano Leonardi,Oded Regev|91|20|0|18
+23|Stability of Adaptive and Non-Adaptive Packet Routing Policies in Adversarial Queueing Networks.|David Gamarnik|56|3|0|4
+24|From Static to Dynamic Routing: Efficient Transformations of Store-and-Forward Protocols.|Christian Scheideler,Berthold Vöcking|27|4|1|10
+25|Chinese Remaindering with Errors.|Oded Goldreich,Dana Ron,Madhu Sudan|152|76|0|7
+26|A Displacement Approach to Efficient Decoding of Algebraic-Geometric Codes.|Vadim Olshevsky,Mohammad Amin Shokrollahi|58|13|1|9
+27|Oblivious Transfer and Polynomial Evaluation.|Moni Naor,Benny Pinkas|602|213|12|17
+28|Secure Computation with Honest-Looking Parties: What If Nobody Is Truly Honest? (Extended Abstract).|Ran Canetti,Rafail Ostrovsky|n/a
+29|Bit Complexity of Breaking and Achieving Symmetry in Chains and Rings (Extended Abstract).|Yefim Dinitz,Shlomo Moran,Sergio Rajsbaum|21|19|0|2
+30|Lifting Markov Chains to Speed up Mixing.|Fang Chen,László Lovász,Igor Pak|61|33|0|1
+31|Faster Mixing via Average Conductance.|László Lovász,Ravi Kannan|75|32|0|3
+32|Majorizing Estimators and the Approximation of #P-Complete Problems.|Leonard J. Schulman,Vijay V. Vazirani|5|0|0|1
+33|Optimal Bounds for the Predecessor Problem.|Paul Beame,Faith E. Fich|108|18|0|0
+34|A Lower Bound on the Complexity of Approximate Nearest-Neighbor Searching on the Hamming Cube.|Amit Chakrabarti,Bernard Chazelle,Benjamin Gum,Alexey Lvov|47|8|0|2
+35|Lower Bounds for High Dimensional Nearest Neighbor Search and Related Problems.|Allan Borodin,Rafail Ostrovsky,Yuval Rabani|111|25|2|2
+36|Molecular Scale Heat Engines and Scalable Quantum Computation.|Leonard J. Schulman,Umesh V. Vazirani|80|17|2|3
+37|Quantum Fourier Sampling Simplified.|Lisa Hales,Sean Hallgren|34|0|0|4
+38|Lower Bounds for Leader Election and Collective Coin-Flipping in the Perfect Information Model.|Alexander Russell,Michael E. Saks,David Zuckerman|27|7|0|3
+39|A Theorem on Sensitivity and Applications in Private Computation.|Anna Gál,Adi Rosén|12|1|0|0
+40|Exponential Separation of Quantum and Classical Communication Complexity.|Ran Raz|197|48|0|2
+41|Undecidability on Quantum Finite Automata.|Masami Amano,Kazuo Iwama|64|23|0|2
+42|Dense Quantum Coding and a Lower Bound for 1-Way Quantum Automata.|Andris Ambainis,Ashwin Nayak,Amnon Ta-Shma,Umesh V. Vazirani|99|34|0|12
+43|The Quantum Query Complexity of Approximating the Median and Related Statistics.|Ashwin Nayak,Felix Wu|118|31|0|1
+44|Makespan Minimization in Job Shops: A Polynomial Time Approximation Scheme.|Klaus Jansen,Roberto Solis-Oba,Maxim Sviridenko|54|6|0|16
+45|A PTAS for Minimizing the Weighted Sum of Job Completion Times on Parallel Machines.|Martin Skutella,Gerhard J. Woeginger|25|4|0|8
+46|Improved Approximation Schemes for Scheduling Unrelated Parallel Machines.|Klaus Jansen,Lorant Porkolab|143|58|1|18
+47|A Polynomial Time Approximation Scheme for General Multiprocessor Job Scheduling (Extended Abstract).|Jianer Chen,Antonio Miranda|71|13|0|11
+48|Sublinear Time Algorithms for Metric Space Problems.|Piotr Indyk|168|54|0|4
+49|Subquadratic Approximation Algorithms for Clustering Problems in High Dimensional Spaces.|Allan Borodin,Rafail Ostrovsky,Yuval Rabani|49|5|0|3
+50|Covering Rectilinear Polygons with Axis-Parallel Rectangles.|V. S. Anil Kumar,H. Ramesh|31|10|0|1
+51|Compact Grid Layouts of Multi-Level Networks.|S. Muthukrishnan,Mike Paterson,Süleyman Cenk Sahinalp,Torsten Suel|22|1|0|0
+52|Complexity of Graph Partition Problems.|Tomás Feder,Pavol Hell,Sulamita Klein,Rajeev Motwani|115|45|0|25
+53|Finding Similar Regions in Many Strings.|Ming Li,Bin Ma,Lusheng Wang|141|30|0|26
+54|Multi-Method Dispatching: A Geometric Approach With Applications to String Matching Problems.|Paolo Ferragina,S. Muthukrishnan,Mark de Berg|45|17|0|3
+55|A Fully Dynamic Algorithm for Maintaining the Transitive Closure.|Valerie King,Garry Sagert|81|24|0|3
+56|Worst-Case and Amortised Optimality in Union-Find (Extended Abstract).|Stephen Alstrup,Amir M. Ben-Amram,Theis Rauhe|28|6|0|7
+57|The Complexity of the Matrix Eigenproblem.|Victor Y. Pan,Zhao Q. Chen|88|60|0|9
+58|Short Proofs are Narrow - Resolution Made Simple.|Eli Ben-Sasson,Avi Wigderson|425|170|0|29
+59|On the Complexity of Diophantine Geometry in Low Dimensions (Extended Abstract).|J. Maurice Rojas|4|0|0|4
+60|Pseudorandom Generators Without the XOR Lemma (Extended Abstract).|Madhu Sudan,Luca Trevisan,Salil P. Vadhan|303|110|0|39
+61|Linear Gaps Between Degrees for the Polynomial Calculus Modulo Distinct Primes.|Samuel R. Buss,Dima Grigoriev,Russell Impagliazzo,Toniann Pitassi|69|29|0|11
+62|Packet Routing with Arbitrary End-to-End Delay Requirements.|Matthew Andrews,Lisa Zhang|13|5|1|3
+63|Static and Dynamic Evaluation of QoS Properties.|Gopal Pandurangan,Eli Upfal|0|0|0|0
+64|Efficient Recovery from Power Outage (Extended Abstract).|Sudipto Guha,Anna Moss,Joseph Naor,Baruch Schieber|n/a
+65|Nonmonotonic Phenomena in Packet Routing.|Uriel Feige|15|2|0|0
+66|Graph Ramsey Theory and the Polynomial Hierarchy.|Marcus Schaefer|43|14|0|4
+67|The Communication Complexity of Pointer Chasing: Applications of Entropy and Sampling.|Stephen Ponzio,Jaikumar Radhakrishnan,Srinivasan Venkatesh|12|0|0|1
+68|Connection Caching.|Edith Cohen,Haim Kaplan,Uri Zwick|n/a
+69|Approximating the Throughput of Multiple Machines Under Real-Time Scheduling.|Amotz Bar-Noy,Sudipto Guha,Joseph Naor,Baruch Schieber|43|6|0|6
+70|Determinism versus Non-Determinism for Linear Time RAMs (Extended Abstract).|Miklós Ajtai|57|4|0|3
+71|Robust Logics.|Leslie G. Valiant|78|32|0|10
+72|Hypergraph Isomorphism and Structural Equivalence of Boolean Functions.|Eugene M. Luks|46|28|0|0
+73|Graph Nonisomorphism has Subexponential Size Proofs Unless the Polynomial-Time Hierarchy Collapses.|Adam Klivans,Dieter van Melkebeek|204|63|0|17
+74|Rounding Algorithms for a Geometric Embedding of Minimum Multiway Cut.|David R. Karger,Philip N. Klein,Clifford Stein,Mikkel Thorup,Neal E. Young|139|58|0|0
+75|Outward Rotations: A Tool for Rounding Solutions of Semidefinite Programming Relaxations, with Applications to MAX CUT and Other Problems.|Uri Zwick|151|29|0|10
+76|Approximation Schemes for Minimum Latency Problems.|Sanjeev Arora,George Karakostas|44|16|0|5
+77|Embedding Tree Metrics Into Low Dimensional Euclidean Spaces.|Anupam Gupta|57|20|1|1
+78|Computational Sample Complexity and Attribute-Efficient Learning.|Rocco A. Servedio|28|14|0|4
+79|On the Complexity of Computing Short Linearly Independent Vectors and Short Bases in a Lattice.|Johannes Blömer,Jean-Pierre Seifert|62|29|0|1
+80|Satisfiability of Word Equations with Constants is in NEXPTIME.|Wojciech Plandowski|43|8|0|9
+81|Hardness and Hierarchy Theorems for Probabilistic Quasi-Polynomial Time.|Jin-yi Cai,Ajay Nerurkar,D. Sivakumar|13|3|0|0
+82|Inerpolation of Symmetric Functions and a New Type of Combinatorial Design.|Piotr Indyk|5|1|0|0
+83|Small Universal Graphs.|Michael R. Capalbo,S. Rao Kosaraju|20|13|0|0
+84|Design Networks with Bounded Pairwise Distance.|Yevgeniy Dodis,Sanjeev Khanna|111|55|0|0
+85|Random Sampling of Large Planar Maps and Convex Polyhedra.|Gilles Schaeffer|68|16|0|11
+86|Efficient Computation of Geodesic Shortest Paths.|Sanjiv Kapoor|122|32|1|2
+87|Backing Up in Singly Linked Lists.|Amir M. Ben-Amram,Holger Petersen|6|1|0|0

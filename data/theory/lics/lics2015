@@ -1,0 +1,68 @@
+67
+1|30th Annual ACM/IEEE Symposium on Logic in Computer Science, LICS 2015, Kyoto, Japan, July 6-10, 2015.|n/a
+2|Higher-Order Model Checking: An Overview.|Luke Ong|2|1|0|0
+3|Privacy and the Price of Data.|Daniel Kifer|n/a
+4|From Categorical Logic to Facebook Engineering.|Peter W. O'Hearn|0|0|0|0
+5|Names and Symmetry in Computer Science (Invited Tutorial).|Andrew M. Pitts|n/a
+6|Recent Developments in Quantitative Information Flow (Invited Tutorial).|Geoffrey Smith|0|0|0|0
+7|Reachability in Two-Dimensional Vector Addition Systems with States Is PSPACE-Complete.|Michael Blondin,Alain Finkel,Stefan Göller,Christoph Haase,Pierre McKenzie|7|5|0|0
+8|Long-Run Average Behaviour of Probabilistic Vector Addition Systems.|Tomás Brázdil,Stefan Kiefer,Antonín Kucera,Petr Novotný|2|2|0|0
+9|Demystifying Reachability in Vector Addition Systems.|Jérôme Leroux,Sylvain Schmitz|12|6|0|6
+10|Petri Automata for Kleene Allegories.|Paul Brunet,Damien Pous|2|1|0|2
+11|Complexity Bounds for Sum-Product Logic via Additive Proof Nets and Petri Nets.|Willem Heijltjes,Dominic J. D. Hughes|0|0|0|0
+12|A Cubical Approach to Synthetic Homotopy Theory.|Daniel R. Licata,Guillaume Brunerie|8|6|0|1
+13|Game Semantics for Type Soundness.|Tim Disney,Cormac Flanagan|0|0|0|0
+14|Programs for Cheap!|Jennifer Hackett,Graham Hutton|0|0|0|0
+15|Polarised Intermediate Representation of Lambda Calculus with Sums.|Guillaume Munch-Maccagnoni,Gabriel Scherer|2|1|0|1
+16|On the Relative Usefulness of Fireballs.|Beniamino Accattoli,Claudio Sacerdoti Coen|3|1|0|3
+17|Bisimilarity in Fresh-Register Automata.|Andrzej S. Murawski,Steven J. Ramsay,Nikos Tzevelekos|0|0|0|0
+18|Branching Bisimilarity of Normed BPA Processes Is in NEXPTIME.|Wojciech Czerwinski,Petr Jancar|3|2|0|1
+19|Branching Bisimilarity on Normed BPA Is EXPTIME-Complete.|Chaodong He,Mingzhang Huang|2|1|0|0
+20|Distributed Graph Automata.|Fabian Reiter|4|2|0|2
+21|Separating Regular Languages with Two Quantifiers Alternations.|Thomas Place|4|4|0|2
+22|Star Height via Games.|Mikolaj Bojanczyk|n/a
+23|Nondeterminism in Game Semantics via Sheaves.|Takeshi Tsukada,C.-H. Luke Ong|2|2|0|0
+24|The Parallel Intensionally Fully Abstract Games Model of PCF.|Simon Castellan,Pierre Clairambault,Glynn Winskel|3|3|0|1
+25|Unifying Two Views on Multiple Mean-Payoff Objectives in Markov Decision Processes.|Krishnendu Chatterjee,Zuzana Komárková,Jan Kretínský|6|5|0|0
+26|Multidimensional beyond Worst-Case and Almost-Sure Problems for Mean-Payoff Objectives.|Lorenzo Clemente,Jean-François Raskin|7|5|0|1
+27|Improved Algorithms for One-Pair and k-Pair Streett Objectives.|Krishnendu Chatterjee,Monika Henzinger,Veronika Loitzenbauer|5|4|0|2
+28|The Hunt for a Red Spider: Conjunctive Query Determinacy Is Undecidable.|Tomasz Gogacz,Jerzy Marcinkowski|n/a
+29|The Complexity of Boundedness for Guarded Logics.|Michael Benedikt,Balder ten Cate,Thomas Colcombet,Michael Vanden Boom|0|0|0|0
+30|Finite Open-World Query Answering with Number Restrictions.|Antoine Amarilli,Michael Benedikt|2|1|0|1
+31|Tree-like Queries in OWL 2 QL: Succinctness and Complexity Results.|Meghyn Bienvenu,Stanislav Kikot,Vladimir V. Podolskii|4|2|0|3
+32|Path Logics for Querying Graphs: Combining Expressiveness and Efficiency.|Diego Figueira,Leonid Libkin|0|0|0|0
+33|PDL Is the Bisimulation-Invariant Fragment of Weak Chain Logic.|Facundo Carreiro|1|1|0|1
+34|Monadic Second-Order Logic and Bisimulation Invariance for Coalgebras.|Sebastian Enqvist,Fatemeh Seifan,Yde Venema|3|3|0|1
+35|Defining Winning Strategies in Fixed-Point Logic.|Felix Canavoi,Erich Grädel,Simon Leßenich,Wied Pakusa|1|0|0|0
+36|Interpolation with Decidable Fixpoint Logics.|Michael Benedikt,Balder ten Cate,Michael Vanden Boom|0|0|0|0
+37|A Complete Axiomatization of MSO on Infinite Trees.|Anupam Das,Colin Riba|0|0|0|0
+38|A Fibrational Account of Local States.|Kenji Maillard,Paul-André Melliès|0|0|0|0
+39|Varieties of Languages in a Category.|Jirí Adámek,Robert S. R. Myers,Henning Urbat,Stefan Milius|6|4|0|0
+40|Extensions of Domain Maps in Differential and Integral Calculus.|Abbas Edalat|0|0|0|0
+41|Descriptive Set Theory in the Category of Represented Spaces.|Arno Pauly,Matthew de Brecht|3|3|0|3
+42|Domains of Commutative C-Subalgebras.|Chris Heunen,Bert Lindenhovius|4|2|0|1
+43|From Complexity to Algebra and Back: Digraph Classes, Collapsibility, and the PGP.|Catarina Carvalho,Florent R. Madelaine,Barnaby Martin|2|2|0|0
+44|Locally Finite Constraint Satisfaction Problems.|Bartek Klin,Eryk Kopczynski,Joanna Ochremiak,Szymon Torunczyk|2|0|0|1
+45|Descriptive Complexity of List H-Coloring Problems in Logspace: A Refined Dichotomy.|Víctor Dalmau,László Egri,Pavol Hell,Benoit Larose,Arash Rafiey|1|1|0|1
+46|One Context Unification Problems Solvable in Polynomial Time.|Adria Gascón,Ashish Tiwari,Manfred Schmidt-Schauß|1|1|0|1
+47|Extending ALCQIO with Trees.|Tomer Kotek,Mantas Simkus,Helmut Veith,Florian Zuleger|n/a
+48|Feedback Turing Computability, and Turing Computability as Feedback.|Nathanael Leedom Ackerman,Cameron E. Freer,Robert S. Lubarsky|1|0|0|0
+49|Regularity Preserving but Not Reflecting Encodings.|Jörg Endrullis,Clemens Grabmayer,Dimitri Hendriks|1|1|0|0
+50|Hyper Natural Deduction.|Arnold Beckmann,Norbert Preining|0|0|0|0
+51|Parallelism and Synchronization in an Infinitary Context.|Ugo Dal Lago,Claudia Faggian,Benoît Valiron,Akira Yoshimizu|2|1|0|0
+52|A Diagrammatic Axiomatisation for Qubit Entanglement.|Amar Hadzihasanovic|1|1|0|1
+53|A Unifying Approach to the Gamma Question.|Benoit Monin,André Nies|3|2|0|2
+54|Abstract Hidden Markov Models: A Monadic Account of Quantitative Information Flow.|Annabelle McIver,Carroll Morgan,Tahiry M. Rabehaja|3|3|0|1
+55|How Good Is a Strategy in a Game with Nature?|Arnaud Carayol,Olivier Serre|1|1|0|0
+56|Entailment among Probabilistic Implications.|Albert Atserias,José L. Balcázar|1|1|0|0
+57|Metric Reasoning about λ-Terms: The Affine Case.|Raphaëlle Crubillé,Ugo Dal Lago|n/a
+58|On the Complexity of Temporal Equilibrium Logic.|Laura Bozzelli,David Pearce|2|2|0|0
+59|A Note on the Complexity of Classical and Intuitionistic Proofs.|Matthias Baaz,Alexander Leitsch,Giselle Reis|0|0|0|0
+60|On the Complexity of Linear Arithmetic with Divisibility.|Antonia Lechner,Joël Ouaknine,James Worrell|1|1|0|1
+61|Characterising Choiceless Polynomial Time with First-Order Interpretations.|Erich Grädel,Wied Pakusa,Svenja Schalthöfer,Lukasz Kaiser|2|1|0|1
+62|Universal Covers, Color Refinement, and Two-Variable Counting Logic: Lower Bounds for the Depth.|Andreas Krebs,Oleg Verbitsky|0|0|0|0
+63|A Canonical Form for Weighted Automata and Applications to Approximate Minimization.|Borja Balle,Prakash Panangaden,Doina Precup|2|2|0|2
+64|Automata-Based Abstraction Refinement for µHORS Model Checking.|Naoki Kobayashi,Xin Li|1|1|0|1
+65|Nested Weighted Automata.|Krishnendu Chatterjee,Thomas A. Henzinger,Jan Otop|2|2|0|2
+66|Timed Pushdown Automata Revisited.|Lorenzo Clemente,Slawomir Lasota|5|4|0|1
+67|The Target Discounted-Sum Problem.|Udi Boker,Thomas A. Henzinger,Jan Otop|4|3|0|0

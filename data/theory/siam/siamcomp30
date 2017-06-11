@@ -1,0 +1,91 @@
+90
+1|On the Dynamic Finger Conjecture for Splay Trees. Part I: Splay Sorting log n-Block Sequences.|Richard Cole,Bud Mishra,Jeanette P. Schmidt,Alan Siegel|79|30|0|2
+2|On the Dynamic Finger Conjecture for Splay Trees. Part II: The Proof.|Richard Cole|104|36|0|2
+3|On RAM Priority Queues.|Mikkel Thorup|83|6|0|0
+4|Robot Navigation with Distance Queries.|Dana Angluin,Jeffery Westbrook,Wenhong Zhu|11|8|0|0
+5|Preemptive Scheduling of Parallel Jobs on Multiprocessors.|Xiaotie Deng,Nian Gu,Tim Brecht,KaiCheng Lu|55|18|1|3
+6|Nonuniform Discretization for Kinodynamic Motion Planning and its Applications.|John H. Reif,Hongyan Wang|21|12|0|1
+7|Allocating Bandwidth for Bursty Connections.|Jon M. Kleinberg,Yuval Rabani,Éva Tardos|139|78|1|0
+8|Motion Planning of Legged Robots.|Jean-Daniel Boissonnat,Olivier Devillers,Sylvain Lazard|42|3|0|5
+9|Tight Fault Locality.|Shay Kutten,David Peleg|48|12|0|17
+10|Convergence Criteria for Genetic Algorithms.|David Greenhalgh,Stephen Marshall|103|51|0|0
+11|A More Efficient Approximation Scheme for Tree Alignment.|Lusheng Wang,Tao Jiang,Dan Gusfield|60|12|0|8
+12|Beyond Competitive Analysis.|Elias Koutsoupias,Christos H. Papadimitriou|268|61|0|4
+13|On the Difficulty of Designing Good Classifiers.|Michelangelo Grigni,Vincent Mirelli,Christos H. Papadimitriou|9|2|0|0
+14|Two-Prover Protocols - Low Error at Affordable Rates.|Uriel Feige,Joe Kilian|105|18|0|8
+15|Message Multicasting in Heterogeneous Networks.|Amotz Bar-Noy,Sudipto Guha,Joseph Naor,Baruch Schieber|73|24|0|0
+16|Complexity of Some Problems Concerning Varieties and Quasi-Varieties of Algebras.|Clifford Bergman,Giora Slutzki|27|5|0|2
+17|An Algorithm for Heilbronn's Problem.|Claudia Bertram-Kretzberg,Thomas Hofmeister,Hanno Lefmann|27|4|0|14
+18|Nonmalleable Cryptography.|Danny Dolev,Cynthia Dwork,Moni Naor|n/a
+19|Time and Space Lower Bounds for Nonblocking Implementations.|Prasad Jayanti,King Tan,Sam Toueg|61|29|0|2
+20|Efficient Search for Approximate Nearest Neighbor in High Dimensional Spaces.|Eyal Kushilevitz,Rafail Ostrovsky,Yuval Rabani|442|147|11|14
+21|When Hamming Meets Euclid: The Approximability of Geometric TSP and Steiner Tree.|Luca Trevisan|34|14|0|1
+22|Self-Stabilization by Counter Flushing.|George Varghese|96|28|0|8
+23|The Power of Migration in Multiprocessor Scheduling of Real-Time Systems.|Gilad Koren,Emanuel Dar,Amihood Amir|20|3|0|0
+24|Approximating Minimum-Size k-Connected Spanning Subgraphs via Matching.|Joseph Cheriyan,Ramakrishna Thurimella|126|34|0|6
+25|Random Sampling, Halfspace Range Reporting, and Construction of (<= k)-Levels in Three Dimensions.|Timothy M. Chan|80|37|0|14
+26|A Generalization of Resource-Bounded Measure, with Application to the BPP vs. EXP Problem.|Harry Buhrman,Dieter van Melkebeek,Kenneth W. Regan,D. Sivakumar,Martin Strauss|28|8|0|2
+27|Cavity Matchings, Label Compressions, and Unrooted Evolutionary Trees.|Ming-Yang Kao,Tak Wah Lam,Wing-Kin Sung,Hing-Fung Ting|14|2|0|4
+28|Constructive, Deterministic Implementation of Shared Memory on Meshes.|Andrea Pietracaprina,Geppino Pucci,Jop F. Sibeyn|6|0|0|3
+29|How to Make a Square Grid Framework with Cables Rigid.|Harold N. Gabow,Tibor Jordán|17|3|0|4
+30|On a Conjecture by Coffman, Flatto, and Wright on Stochastic Machine Minimization.|Nah-Oak Song,Demosthenis Teneketzis|0|0|0|0
+31|All of Us Are Smarter than Any of Us: Nondeterministic Wait-Free Hierarchies Are Not Robust.|Wai-Kau Lo,Vassos Hadzilacos|12|1|0|1
+32|From Gene Trees to Species Trees.|Bin Ma,Ming Li,Louxin Zhang|136|83|3|11
+33|The General Structure of Edge-Connectivity of a Vertex Subset in a Graph and its Incremental Maintenance. Odd Case.|Yefim Dinitz,Alek Vainshtein|1|1|0|0
+34|Formal-Language-Constrained Path Problems.|Christopher L. Barrett,Riko Jacob,Madhav V. Marathe|141|63|0|5
+35|A Fast General Methodology for Information-Theoretically Optimal Encodings of Graphs.|Xin He,Ming-Yang Kao,Hsueh-I Lu|47|14|0|7
+36|Efficiently Constructing the Visibility Graph of a Simple Polygon with Obstacles.|Sanjiv Kapoor,S. N. Maheshwari|20|7|0|5
+37|Optimal Worst Case Formulas Comparing Cache Memory Associativity.|Håkan Lennerstad,Lars Lundberg|9|0|0|7
+38|Markov Paging.|Anna R. Karlin,Steven J. Phillips,Prabhakar Raghavan|91|8|0|2
+39|Asymptotic Behavior of the Height in a Digital Search Tree and the Longest Phrase of the Lempel-Ziv Scheme.|Charles Knessl,Wojciech Szpankowski|28|9|0|12
+40|Simple Confluently Persistent Catenable Lists.|Haim Kaplan,Chris Okasaki,Robert Endre Tarjan|25|9|0|2
+41|Approximating the Stretch Factor of Euclidean Graphs.|Giri Narasimhan,Michiel H. M. Smid|76|26|0|9
+42|The Formula Isomorphism Problem.|Manindra Agrawal,Thomas Thierauf|37|15|0|0
+43|The Computational Complexity to Evaluate Representations of General Linear Groups.|Peter Bürgisser|10|4|0|0
+44|The Computational Complexity of Immanants.|Peter Bürgisser|19|13|0|0
+45|An Algorithmic Regularity Lemma for Hypergraphs.|Andrzej Czygrinow,Vojtech Rödl|34|13|0|3
+46|A Polynomial Approximation Algorithm for the Minimum Fill-In Problem.|Assaf Natanzon,Ron Shamir,Roded Sharan|67|28|0|3
+47|Parallel Complexity of Computations with General and Toeplitz-Like Matrices Filled with Integers and Extensions.|Victor Y. Pan|18|1|0|16
+48|From Static to Dynamic Routing: Efficient Transformations of Store-and-Forward Protocols.|Christian Scheideler,Berthold Vöcking|27|4|1|10
+49|Determining Consensus Numbers.|Eric Ruppert|27|5|0|7
+50|Early Detection of Message Forwarding Faults.|Amir Herzberg,Shay Kutten|31|7|1|1
+51|The Density of Weakly Complete Problems under Adaptive Reductions.|Jack H. Lutz,Yong Zhao|8|1|0|1
+52|A Finite State Version of the Kraft--McMillan Theorem.|Frédérique Bassino,Marie-Pierre Béal,Dominique Perrin|12|3|0|9
+53|An 8-Approximation Algorithm for the Subset Feedback Vertex Set Problem.|Guy Even,Joseph Naor,Leonid Zosin|25|20|0|1
+54|Computationally Sound Proofs.|Silvio Micali|210|134|7|16
+55|The Complexity of Modular Graph Automorphism.|Vikraman Arvind,Richard Beigel,Antoni Lozano|7|4|0|0
+56|Approximating Shortest Paths on a Nonconvex Polyhedron.|Kasturi R. Varadarajan,Pankaj K. Agarwal|67|21|0|6
+57|Taking a Walk in a Planar Arrangement.|Sariel Har-Peled|45|15|0|11
+58|Finding Sets Covering a Point with Application to Mesh-Free Galerkin Methods.|Xiaoxu Han,Suely Oliveira,David E. Stewart|5|0|0|2
+59|An O(nlog n) Algorithm for the Maximum Agreement Subtree Problem for Binary Trees.|Richard Cole,Martin Farach-Colton,Ramesh Hariharan,Teresa M. Przytycka,Mikkel Thorup|109|23|0|1
+60|The WARM-UP Algorithm: A Lagrangian Construction of Length Restricted Huffman Codes.|Ruy Luiz Milidiú,Eduardo Sany Laber|10|1|0|1
+61|A Near-Tight Lower Bound on the Time Complexity of Distributed Minimum-Weight Spanning Tree Construction.|David Peleg,Vitaly Rubinovich|88|58|0|10
+62|Fast and Optimal Parallel Multidimensional Search in PRAMs with Applications to Linear Programming and Related Problems.|Martin E. Dyer,Sandeep Sen|1|0|0|0
+63|On the Relative Complexity of Resolution Refinements and Cutting Planes Proof Systems.|Maria Luisa Bonet,Juan Luis Esteban,Nicola Galesi,Jan Johannsen|71|27|0|19
+64|Randomness is Hard.|Harry Buhrman,Leen Torenvliet|15|0|0|4
+65|On the Determinization of Weighted Finite Automata.|Adam L. Buchsbaum,Raffaele Giancarlo,Jeffery Westbrook|63|19|2|0
+66|Algorithms for the Relaxed Online Bin-Packing Model.|Giorgio Gambosi,Alberto Postiglione,Maurizio Talamo|36|23|0|0
+67|Tight Bounds for Searching a Sorted Array of Strings.|Arne Andersson,Torben Hagerup,Johan Håstad,Ola Petersson|18|6|0|0
+68|Minimum Networks in Uniform Orientation Metrics.|Marcus Brazil,Doreen A. Thomas,Jia F. Weng|32|5|0|12
+69|General Dynamic Routing with Per-Packet Delay Guarantees of O(Distance + 1/Session Rate).|Matthew Andrews,Antonio Fernández,Mor Harchol-Balter,Frank Thomson Leighton,Lisa Zhang|47|8|1|10
+70|A Decomposition Theorem for Task Systems and Bounds for Randomized Server Problems.|Avrim Blum,Howard J. Karloff,Yuval Rabani,Michael E. Saks|28|6|0|0
+71|Linear Time Algorithms for Hamiltonian Problems on (Claw, Net)-Free Graphs.|Andreas Brandstädt,Feodor F. Dragan,Ekkehard Köhler|24|8|0|1
+72|Squarish k-d Trees.|Luc Devroye,Jean Jabbour,Carlos Zamora-Cura|34|11|0|3
+73|Computations of Uniform Recurrence Equations Using Minimal Memory Size.|Bruno Gaujal,Alain Jean-Marie,Jean Mairesse|7|0|0|3
+74|Approximation Algorithms for Curvature-Constrained Shortest Paths.|Pankaj K. Agarwal,Hongyan Wang|42|9|0|4
+75|On Bipartite Drawings and the Linear Arrangement Problem.|Farhad Shahrokhi,Ondrej Sýkora,László A. Székely,Imrich Vrto|58|18|0|1
+76|Edge-Disjoint Paths in Expander Graphs.|Alan M. Frieze|44|16|0|0
+77|Efficient Dynamic Traitor Tracing.|Omer Berkman,Michal Parnas,Jirí Sgall|62|18|0|0
+78|Quantum Entanglement and Communication Complexity.|Harry Buhrman,Richard Cleve,Wim van Dam|154|51|0|13
+79|Regular Languages are Testable with a Constant Number of Queries.|Noga Alon,Michael Krivelevich,Ilan Newman,Mario Szegedy|130|43|0|23
+80|The Approximability of Constraint Satisfaction Problems.|Sanjeev Khanna,Madhu Sudan,Luca Trevisan,David P. Williamson|166|64|0|5
+81|Dual-Issue Scheduling for Binary Trees with Spills and Pipelined Loads.|Waleed Meleis|5|1|0|0
+82|A Polynomial Time Approximation Scheme for Inferring Evolutionary Trees from Quartet Topologies and Its Application.|Tao Jiang,Paul E. Kearney,Ming Li|77|34|0|4
+83|An Extension of Path Coupling and Its Application to the Glauber Dynamics for Graph Colorings.|Martin E. Dyer,Leslie Ann Goldberg,Catherine S. Greenhill,Mark Jerrum,Michael Mitzenmacher|28|2|0|6
+84|Optimal Simulations between Unary Automata.|Carlo Mereghetti,Giovanni Pighizzini|59|34|0|19
+85|An Approximation Algorithm for Feedback Vertex Sets in Tournaments.|Mao-cheng Cai,Xiaotie Deng,Wenan Zang|49|19|0|7
+86|The Shortest Vector in a Lattice is Hard to Approximate to within Some Constant.|Daniele Micciancio|259|108|0|24
+87|Dual-Bounded Generating Problems: Partial and Multiple Transversals of a Hypergraph.|Endre Boros,Vladimir Gurvich,Leonid Khachiyan,Kazuhisa Makino|47|6|0|29
+88|A Constant-Factor Approximation Algorithm for Packet Routing and Balancing Local vs. Global Criteria.|Aravind Srinivasan,Chung-Piaw Teo|83|19|1|7
+89|Variable-Sized Bin Packing: Tight Absolute Worst-Case Performance Ratios for Four Approximation Algorithms.|Chengbin Chu,Rémy La|35|17|0|2
+90|First-Order Specifications of Programmable Data Types.|Grazyna Mirkowska,Andrzej Salwicki,Marian Srebrny,Andrzej Tarlecki|3|2|0|3

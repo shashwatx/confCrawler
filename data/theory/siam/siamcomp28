@@ -1,0 +1,116 @@
+115
+1|Optimal Biweighted Binary Trees and the Complexity of Maintaining Partial Sums.|Haripriyan Hampapuram,Michael L. Fredman|30|4|0|1
+2|Dynamic 2-Connectivity with Backtracking.|Johannes A. La Poutré,Jeffery Westbrook|0|0|0|0
+3|On the Structure of NP_C.|Gregorio Malajovich,Klaus Meer|n/a
+4|Weighted NP Optimization Problems: Logical Definability and Approximation Properties.|Marius Zimand|18|5|0|1
+5|The Computational Structure of Monotone Monadic SNP and Constraint Satisfaction: A Study through Datalog and Group Theory.|Tomás Feder,Moshe Y. Vardi|757|336|0|54
+6|Asymptotically Tight Bounds for Performing BMMC Permutations on Parallel Disk Systems.|Thomas H. Cormen,Thomas Sundquist,Leonard F. Wisniewski|81|3|0|25
+7|L-Printable Sets.|Lance Fortnow,Judy Goldsmith,Matthew A. Levy,Stephen R. Mahaney|3|0|0|0
+8|The Inverse Satisfiability Problem.|Dimitris J. Kavvadias,Martha Sideri|65|11|0|3
+9|On Syntactic versus Computational Views of Approximability.|Sanjeev Khanna,Rajeev Motwani,Madhu Sudan,Umesh V. Vazirani|340|75|0|18
+10|Maximum k-Chains in Planar Point Sets: Combinatorial Structure and Algorithms.|Stefan Felsner,Lorenz Wernisch|28|14|0|3
+11|Fast Algorithms for Constructing t-Spanners and Paths with Stretch t.|Edith Cohen|126|56|0|2
+12|Smart SMART Bounds for Weighted Response Time Scheduling.|Uwe Schwiegelshohn,Walter Ludwig,Joel L. Wolf,John Turek,Philip S. Yu|59|9|0|7
+13|New Approximation Guarantees for Minimum-Weight k-Trees and Prize-Collecting Salesmen.|Baruch Awerbuch,Yossi Azar,Avrim Blum,Santosh Vempala|184|56|0|15
+14|Near-Linear Time Construction of Sparse Neighborhood Covers.|Baruch Awerbuch,Bonnie Berger,Lenore Cowen,David Peleg|84|27|0|5
+15|Unoriented Theta-Maxima in the Plane: Complexity and Algorithms.|David Avis,Bryan Beresford-Smith,Luc Devroye,Hossam A. ElGindy,Eric Guévremont,Ferran Hurtado,Binhai Zhu|27|12|0|0
+16|A Spectral Algorithm for Seriation and the Consecutive Ones Problem.|Jonathan E. Atkins,Erik G. Boman,Bruce Hendrickson|147|66|0|0
+17|New Collapse Consequences of NP Having Small Circuits.|Johannes Köbler,Osamu Watanabe|72|11|0|15
+18|Sublogarithmic Bounds on Space and Reversals.|Viliam Geffert,Carlo Mereghetti,Giovanni Pighizzini|12|6|0|8
+19|Separator-Based Sparsification II: Edge and Vertex Connectivity.|David Eppstein,Zvi Galil,Giuseppe F. Italiano,Thomas H. Spencer|23|6|0|10
+20|A Downward Collapse within the Polynomial Hierarchy.|Edith Hemaspaandra,Lane A. Hemaspaandra,Harald Hempel|37|2|0|11
+21|Genericity, Randomness, and Polynomial-Time Approximations.|Yongge Wang|7|0|0|3
+22|Universal Limit Laws for Depths in Random Trees.|Luc Devroye|97|35|0|13
+23|Average-Case Lower Bounds for Noisy Boolean Decision Trees.|William S. Evans,Nicholas Pippenger|15|6|0|0
+24|Competitive Algorithms for Layered Graph Traversal.|Amos Fiat,Dean P. Foster,Howard J. Karloff,Yuval Rabani,Yiftach Ravid,Sundar Vishwanathan|49|3|0|8
+25|On Multirate Rearrangeable Clos Networks.|Ding-Zhu Du,Biao Gao,Frank K. Hwang,J. H. Kim|27|7|0|4
+26|Finding the Constrained Delaunay Triangulation and Constrained Voronoi Diagram of a Simple Polygon in Linear Time.|Francis Y. L. Chin,Cao An Wang|28|10|0|3
+27|Reconstructing Algebraic Functions from Mixed Data.|Sigal Ar,Richard J. Lipton,Ronitt Rubinfeld,Madhu Sudan|94|15|1|19
+28|Optimal Broadcast with Partial Knowledge.|Baruch Awerbuch,Israel Cidon,Shay Kutten,Yishay Mansour,David Peleg|10|1|0|2
+29|Primal-Dual RNC Approximation Algorithms for Set Cover and Covering Integer Programs.|Sridhar Rajagopalan,Vijay V. Vazirani|117|38|1|5
+30|Optimal Construction of Edge-Disjoint Paths in Random Graphs.|Andrei Z. Broder,Alan M. Frieze,Stephen Suen,Eli Upfal|44|19|0|3
+31|Fully Dynamic Algorithms for Bin Packing: Being (Mostly) Myopic Helps.|Zoran Ivkovic,Errol L. Lloyd|42|24|0|1
+32|Dynamic Trees and Dynamic Point Location.|Michael T. Goodrich,Roberto Tamassia|79|2|0|17
+33|Query Order.|Lane A. Hemaspaandra,Harald Hempel,Gerd Wechsung|n/a
+34|Finding the k Shortest Paths.|David Eppstein|1481|635|11|6
+35|Exact Learning of Discretized Geometric Concepts.|Nader H. Bshouty,Paul W. Goldberg,Sally A. Goldman,H. David Mathias|22|7|0|8
+36|Fast Exponentiation Using Data Compression.|Yacov Yacobi|11|2|0|0
+37|A Polynomial Time Complexity Bound for Computations on Curves.|P. G. Walsh|4|3|0|0
+38|Stochastic Contention Resolution With Short Delays.|Prabhakar Raghavan,Eli Upfal|63|23|0|1
+39|Asymptotically Optimal Election on Weighted Rings.|Lisa Higham,Teresa M. Przytycka|2|0|0|0
+40|The Queue-Read Queue-Write PRAM Model: Accounting for Contention in Parallel Algorithms.|Phillip B. Gibbons,Yossi Matias,Vijaya Ramachandran|100|16|0|8
+41|A Constant-Factor Approximation Algorithm for the Geometric k-MST Problem in the Plane.|Joseph S. B. Mitchell,Avrim Blum,Prasad Chalasani,Santosh Vempala|25|3|0|4
+42|Solvability of Consensus: Composition Breaks Down for NonDeterministic Types.|Prasad Jayanti|7|0|0|1
+43|A Lower Bound for Integer Multiplication with Read-Once Branching Programs.|Stephen Ponzio|80|11|0|0
+44|Total Coloring With Delta + (log Delta) Colors.|Hugh Hind,Michael Molloy,Bruce A. Reed|n/a
+45|Computing components and projections of curves over finite fields.|Joachim von zur Gathen,Igor Shparlinski|6|1|0|3
+46|Bipartite Edge Coloring in O(Delta m) Time.|Alexander Schrijver|n/a
+47|Row-Major Sorting on Meshes.|Jop F. Sibeyn|2|0|0|1
+48|Robust Proximity Queries: An Illustration of Degree-Driven Algorithm Design.|Giuseppe Liotta,Franco P. Preparata,Roberto Tamassia|82|19|0|10
+49|Failure Detection and Randomization: A Hybrid Approach to Solve Consensus.|Marcos Kawazoe Aguilera,Sam Toueg|60|4|0|1
+50|Average Profile of the Generalized Digital Search Tree and the Generalized Lempel-Ziv Algorithm.|Guy Louchard,Wojciech Szpankowski,Jing Tang|30|8|2|11
+51|The Maximum Partition Matching Problem with Applications.|Chi-Chang Chen,Jianer Chen|6|1|0|4
+52|Optimal Bidding Algorithms Against Cheating in Multiple-Object Auctions.|Ming-Yang Kao,Junfeng Qi,Lei Tan|9|0|0|3
+53|Three-Processor Tasks Are Undecidable.|Eli Gafni,Elias Koutsoupias|45|22|0|12
+54|Simple Algorithms for Routing on Butterfly Networks with Bounded Queues.|Bruce M. Maggs,Ramesh K. Sitaraman|32|2|0|9
+55|Fast and Simple Algorithms for Recognizing Chordal Comparability Graphs and Interval Graphs.|Wen-Lian Hsu,Tze-Heng Ma|53|21|0|3
+56|Fast Connected Components Algorithms for the EREW PRAM.|David R. Karger,Noam Nisan,Michal Parnas|37|4|0|4
+57|Products and Help Bits in Decision Trees.|Noam Nisan,Steven Rudich,Michael E. Saks|23|11|0|0
+58|A Time-Space Tradeoff for Undirected Graph Traversal by Walking Automata.|Paul Beame,Allan Borodin,Prabhakar Raghavan,Walter L. Ruzzo,Martin Tompa|12|4|0|1
+59|On the Approximability of Numerical Taxonomy (Fitting Distances by Tree Metrics).|Richa Agarwala,Vineet Bafna,Martin Farach,Mike Paterson,Mikkel Thorup|188|36|0|5
+60|Competitive On-Line Algorithms for Distributed Data Management.|Carsten Lund,Nick Reingold,Jeffery Westbrook,Dicky C. K. Yan|30|9|0|0
+61|Efficient Database Updates with Independent Schemes.|Riccardo Torlone,Paolo Atzeni|1|0|0|0
+62|Learning DNF over the Uniform Distribution Using a Quantum Example Oracle.|Nader H. Bshouty,Jeffrey C. Jackson|54|17|0|3
+63|Approximability and Nonapproximability Results for Minimizing Total Flow Time on a Single Machine.|Hans Kellerer,Thomas Tautenhahn,Gerhard J. Woeginger|131|24|1|11
+64|Fast Estimation of Diameter and Shortest Paths (Without Matrix Multiplication).|Donald Aingworth,Chandra Chekuri,Piotr Indyk,Rajeev Motwani|193|90|0|2
+65|Constructing Approximate Shortest Path Maps in Three Dimensions.|Sariel Har-Peled|66|28|0|9
+66|New Lower Bounds for Convex Hull Problems in Odd Dimensions.|Jeff Erickson|46|23|0|2
+67|The Height and Size of Random Hash Trees and Random Pebbled Hash Trees.|Luc Devroye|6|2|0|0
+68|On Rearrangeability of Multirate Clos Networks.|Guo-Hui Lin,Ding-Zhu Du,Xiao-Dong Hu,Guoliang Xue|19|2|0|2
+69|Design of On-Line Algorithms Using Hitting Times.|Prasad Tetali|13|2|0|0
+70|Efficient Generation of Minimal Length Addition Chains.|Edward G. Thurber|39|17|1|0
+71|Distributional Word Problem for Groups.|Jie Wang|9|0|0|1
+72|Linear Time Algorithms for Dominating Pairs in Asteroidal Triple-free Graphs.|Derek G. Corneil,Stephan Olariu,Lorna Stewart|72|22|0|12
+73|Guillotine Subdivisions Approximate Polygonal Subdivisions: A Simple Polynomial-Time Approximation Scheme for Geometric TSP, k-MST, and Related Problems.|Joseph S. B. Mitchell|396|149|0|29
+74|Fine Separation of Average-Time Complexity Classes.|Jin-yi Cai,Alan L. Selman|17|0|0|4
+75|Buckets, Heaps, Lists, and Monotone Priority Queues.|Boris V. Cherkassky,Andrew V. Goldberg,Craig Silverstein|101|37|0|5
+76|Distributed Anonymous Mobile Robots: Formation of Geometric Patterns.|Ichiro Suzuki,Masafumi Yamashita|557|238|1|30
+77|A Pseudorandom Generator from any One-way Function.|Johan Håstad,Russell Impagliazzo,Leonid A. Levin,Michael Luby|1091|497|1|23
+78|Local Labeling and Resource Allocation Using Preprocessing.|Hagit Attiya,Hadas Shachnai,Tami Tamir|11|6|0|0
+79|Space-efficient Routing Tables for Almost All Networks and the Incompressibility Method.|Harry Buhrman,Jaap-Henk Hoepman,Paul M. B. Vitányi|22|1|0|2
+80|Computing with Very Weak Random Sources.|Aravind Srinivasan,David Zuckerman|130|32|0|9
+81|Lower Bounds in a Parallel Model without Bit Operations.|Ketan Mulmuley|36|19|0|14
+82|Stack and Queue Layouts of Directed Acyclic Graphs: Part I.|Lenwood S. Heath,Sriram V. Pemmaraju,Ann N. Trenk|83|25|0|5
+83|Diagnosis of Wiring Networks: An Optimal Randomized Algorithm for Finding Connected Components of Unknown Graphs.|Weiping Shi,Douglas B. West|1|0|0|1
+84|Product Range Spaces, Sensitive Sampling, and Derandomization.|Hervé Brönnimann,Bernard Chazelle,Jirí Matousek|48|1|0|9
+85|Automatic Nonzero Structure Analysis.|Aart J. C. Bik,Harry A. G. Wijshoff|21|3|0|0
+86|Stack and Queue Layouts of Directed Acyclic Graphs: Part II.|Lenwood S. Heath,Sriram V. Pemmaraju|67|18|0|4
+87|Membership in Constant Time and Almost-Minimum Space.|Andrej Brodnik,J. Ian Munro|123|40|1|10
+88|Derandomizing Approximation Algorithms Based on Semidefinite Programming.|Sanjeev Mahajan,H. Ramesh|78|23|0|0
+89|The Dynamic Parallel Complexity of Computational Circuits.|Gary L. Miller,Shang-Hua Teng|4|1|0|0
+90|The Relationship Between Breaking the Diffie-Hellman Protocol and Computing Discrete Logarithms.|Ueli M. Maurer,Stefan Wolf|160|39|0|5
+91|Selecting the Median.|Dorit Dor,Uri Zwick|62|26|0|4
+92|Structure in Approximation Classes.|Pierluigi Crescenzi,Viggo Kann,Riccardo Silvestri,Luca Trevisan|78|26|0|4
+93|An Efficient Data Structure for Lattice Operations.|Maurizio Talamo,Paola Vocca|13|7|0|2
+94|Bandwidth Allocation with Preemption.|Amotz Bar-Noy,Ran Canetti,Shay Kutten,Yishay Mansour,Baruch Schieber|51|10|0|4
+95|An Optical Simulation of Shared Memory.|Leslie Ann Goldberg,Yossi Matias,Satish Rao|65|4|0|3
+96|Time-Lapse Snapshots.|Cynthia Dwork,Maurice Herlihy,Serge A. Plotkin,Orli Waarts|55|1|0|14
+97|The Construction of Huffman Codes is a Submodular ("Convex") Optimization Problem Over a Lattice of Binary Trees.|Douglas Stott Parker Jr.,Prasad Ram|32|12|0|1
+98|Tractability of Parameterized Completion Problems on Chordal, Strongly Chordal, and Proper Interval Graphs.|Haim Kaplan,Ron Shamir,Robert Endre Tarjan|119|57|0|3
+99|Tree Data Structures for N-Body Simulation.|Richard J. Anderson|52|16|0|1
+100|The Power of Vacillation in Language Learning.|John Case|85|24|0|40
+101|An Associative Block Design ABD(8, 5).|Andries E. Brouwer|n/a
+102|On the Robustness of Functional Equations.|Ronitt Rubinfeld|90|15|0|10
+103|New Results on the Old k-opt Algorithm for the Traveling Salesman Problem.|Barun Chandra,Howard J. Karloff,Craig A. Tovey|69|40|0|0
+104|Parallel Complexity of Numerically Accurate Linear System Solvers.|Mauro Leoncini,Giovanni Manzini,Luciano Margara|4|1|0|1
+105|Approximate Complex Polynomial Evaluation in Near Constant Work Per Point.|John H. Reif|12|4|0|0
+106|Optimal Search in Trees.|Yosi Ben-Asher,Eitan Farchi,Ilan Newman|43|14|0|2
+107|Weak Random Sources, Hitting Sets, and BPP Simulations.|Alexander E. Andreev,Andrea E. F. Clementi,José D. P. Rolim,Luca Trevisan|46|4|0|5
+108|Dominators in Linear Time.|Stephen Alstrup,Dov Harel,Peter W. Lauridsen,Mikkel Thorup|122|59|0|2
+109|Approximating Capacitated Routing and Delivery Problems.|Prasad Chalasani,Rajeev Motwani|111|56|0|0
+110|On Floor-Plan of Plane Graphs.|Xin He|59|30|0|4
+111|Horn Extensions of a Partially Defined Boolean Function.|Kazuhisa Makino,Ken'ichi Hatanaka,Toshihide Ibaraki|12|5|0|4
+112|Fast Approximate Graph Partitioning Algorithms.|Guy Even,Joseph Naor,Satish Rao,Baruch Schieber|134|63|0|9
+113|An Optimal Algorithm for Euclidean Shortest Paths in the Plane.|John Hershberger,Subhash Suri|247|129|2|4
+114|Tight Lower Bounds for st-Connectivity on the NNJAG Model.|Jeff Edmonds,Chung Keung Poon,Dimitris Achlioptas|29|17|0|2
+115|Computing Two-Dimensional Integer Hulls.|Warwick Harvey|54|27|0|1

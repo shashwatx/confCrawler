@@ -1,0 +1,41 @@
+40
+1|16th International Conference on High-Performance Computer Architecture (HPCA-16 2010), 9-14 January 2010, Bangalore, India.|Matthew T. Jacob,Chita R. Das,Pradip Bose|n/a
+2|Exascale computing: The challenges and opportunities in the next decade.|Tilak Agerwala|8|8|0|0
+3|Value Based BTB Indexing for indirect jump prediction.|Muhammad Umar Farooq,Lei Chen,Lizy Kurian John|18|18|0|2
+4|Operating system support for overlapping-ISA heterogeneous multi-core architectures.|Tong Li,Paul Brett,Rob C. Knauerhase,David A. Koufaty,Dheeraj Reddy,Scott Hahn|99|98|5|7
+5|Scalable architectural support for trusted software.|David Champagne,Ruby B. Lee|81|76|3|16
+6|ATLAS: A scalable and high-performance scheduling algorithm for multiple memory controllers.|Yoongu Kim,Dongsu Han,Onur Mutlu,Mor Harchol-Balter|249|241|5|18
+7|Understanding how off-chip memory bandwidth partitioning in Chip Multiprocessors affects system performance.|Fang Liu,Xiaowei Jiang,Yan Solihin|67|65|1|7
+8|LeadOut: Composing low-overhead frequency-enhancing techniques for single-thread performance in configurable multicores.|Brian Greskamp,Ulya R. Karpuzcu,Josep Torrellas|4|4|0|0
+9|LiteTM: Reducing transactional state overhead.|Syed Ali Raza Jafri,Mithuna Thottethodi,T. N. Vijaykumar|14|14|0|0
+10|A bandwidth-aware memory-subsystem resource management using non-invasive resource profilers for large CMP systems.|Dimitris Kaseridis,Jeffrey Stuecheli,Jian Chen,Lizy Kurian John|28|28|0|2
+11|HARE: Hardware assisted reverse execution.|Ioannis Doudalis,Milos Prvulovic|4|3|0|3
+12|Designing a processor from the ground up to allow voltage/reliability tradeoffs.|Andrew B. Kahng,Seokhyeong Kang,Rakesh Kumar,John Sartori|91|89|1|10
+13|IADVS: On-demand performance for interactive applications.|Mingsong Bi,Igor Crk,Chris Gniady|14|12|0|1
+14|A Hybrid solid-state storage architecture for the performance, energy consumption, and lifetime improvement.|Guangyu Sun,Yongsoo Joo,Yibo Chen,Dimin Niu,Yuan Xie,Yiran Chen,Hai Li|103|102|1|7
+15|Extreme scale computing: Challenges and opportunities.|Josep Torrellas,Bill Gropp,Vivek Sarkar,Jaime H. Moreno,Kunle Olukotun|0|0|0|0
+16|Is hardware innovation over?|Arvind|n/a
+17|Improving read performance of Phase Change Memories via Write Cancellation and Write Pausing.|Moinuddin K. Qureshi,Michele Franceschini,Luis Alfonso Lastras-Montaño|180|177|6|7
+18|DMA++: on the fly data realignment for on-chip memories.|Nikola Vujic,Marc González,Felipe Cabarcas,Alex Ramírez,Xavier Martorell,Eduard Ayguadé|5|5|0|0
+19|Delay-Hiding energy management mechanisms for DRAM.|Mingsong Bi,Ran Duan,Chris Gniady|16|15|1|3
+20|UNified Instruction/Translation/Data (UNITD) coherence: One protocol to rule them all.|Bogdan F. Romanescu,Alvin R. Lebeck,Daniel J. Sorin,Anne Bracy|20|19|2|2
+21|StimulusCache: Boosting performance of chip multiprocessors with excess cache.|Hyunjin Lee,Sangyeun Cho,Bruce R. Childers|12|12|0|1
+22|ESP-NUCA: A low-cost adaptive Non-Uniform Cache Architecture.|Javier Merino,Valentin Puente,José-Ángel Gregorio|35|34|0|2
+23|CHOP: Adaptive filter-based DRAM caching for CMP server platforms.|Xiaowei Jiang,Niti Madan,Li Zhao,Mike Upton,Ravishankar Iyer,Srihari Makineni,Donald Newell,Yan Solihin,Rajeev Balasubramonian|66|66|2|3
+24|Towards scalable, energy-efficient, bus-based on-chip networks.|Aniruddha N. Udipi,Naveen Muralimanohar,Rajeev Balasubramonian|68|64|0|0
+25|Simple virtual channel allocation for high throughput and high frequency on-chip routers.|Yi Xu,Bo Zhao,Youtao Zhang,Jun Yang|34|32|0|3
+26|High performance network virtualization with SR-IOV.|Yaozu Dong,Xiaowei Yang,Xiaoyong Li,Jianhui Li,Kun Tian,Haibing Guan|132|129|0|16
+27|DMA cache: Using on-chip storage to architecturally separate I/O data from CPU data for improving I/O performance.|Dan Tang,Yungang Bao,Weiwu Hu,Mingyu Chen|22|22|0|1
+28|Graphite: A distributed parallel simulator for multicores.|Jason E. Miller,Harshad Kasture,George Kurian,Charles Gruenwald III,Nathan Beckmann,Christopher Celio,Jonathan Eastep,Anant Agarwal|302|298|0|1
+29|Interval simulation: Raising the level of abstraction in architectural simulation.|Davy Genbrugge,Stijn Eyerman,Lieven Eeckhout|65|64|0|12
+30|Application performance modeling in a virtualized environment.|Sajib Kundu,Raju Rangaswami,Kaushik Dutta,Ming Zhao|88|86|1|5
+31|COMIC++: A software SVM system for heterogeneous multicore accelerator clusters.|Jaejin Lee,Jun Lee,Sangmin Seo,Jungwon Kim,Seungkyun Kim,Zehra Sura|9|9|0|3
+32|BOLT: Energy-efficient Out-of-Order Latency-Tolerant execution.|Andrew D. Hilton,Amir Roth|18|18|1|1
+33|SIF: Overcoming the limitations of SIMD devices via implicit permutation.|Libo Huang,Li Shen,Zhiying Wang,Wei Shi,Nong Xiao,Sheng Ma|14|13|0|4
+34|Handling branches in TLS systems with Multi-Path Execution.|Polychronis Xekalakis,Marcelo Cintra|5|5|0|2
+35|Explaining cache SER anomaly using DUE AVF measurement.|Arijit Biswas,Charles Recchia,Shubhendu S. Mukherjee,Vinod Ambrose,Leo Chan,Aamer Jaleel,Athanasios E. Papathanasiou,Mike Plaster,Norbert Seifert|20|20|0|0
+36|Worth their watts? - an empirical study of datacenter servers.|Arunchandar Vasan,Anand Sivasubramaniam,Vikrant Shimpi,T. Sivabalan,Rajesh Subbiah|48|46|0|10
+37|High-Performance low-vcc in-order core.|Jaume Abella,Pedro Chaparro,Xavier Vera,Javier Carretero,Antonio González|5|5|0|0
+38|Architecting for power management: The IBM POWER7TM approach.|Malcolm S. Ware,Karthick Rajamani,Michael S. Floyd,Bishop Brock,Juan C. Rubio,Freeman L. Rawson III,John B. Carter|n/a
+39|An optimized 3D-stacked memory architecture by exploiting excessive, high-density TSV bandwidth.|Dong Hyuk Woo,Nak Hee Seong,Dean L. Lewis,Hsien-Hsin S. Lee|168|165|0|3
+40|FlexiShare: Channel sharing for an energy-efficient nanophotonic crossbar.|Yan Pan,John Kim,Gokhan Memik|100|96|0|6

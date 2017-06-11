@@ -1,0 +1,72 @@
+71
+1|Association for Computational Linguistic, 39th Annual Meeting and 10th Conference of the European Chapter, Proceedings of the Conference, July 9-11, 2001, Toulouse, France.|n/a
+2|Interpreting the Human Genome Sequence, Using Stochastic Grammars.|Richard Durbin|0|0|0|0
+3|Processing Broadcast Audio for Information Access.|Jean-Luc Gauvain,Lori Lamel,Gilles Adda,Martine Adda-Decker,Claude Barras,Langzhou Chen,Yannick de Kercadio|3|0|0|0
+4|Improvement of a Whole Sentence Maximum Entropy Language Model Using Grammatical Features.|Fredy A. Amaya,José-Miguel Benedí|11|5|0|0
+5|Low-cost, High-Performance Translation Retrieval: Dumber is Better.|Timothy Baldwin|17|6|0|5
+6|Scaling to Very Very Large Corpora for Natural Language Disambiguation.|Michele Banko,Eric Brill|407|204|0|4
+7|Evaluation Tool for Rule-based Anaphora Resolution Methods.|Catalina Barbu,Ruslan Mitkov|48|12|0|4
+8|Guided Parsing of Range Concatenation Languages.|François Barthélemy,Pierre Boullier,Philippe Deschamp,Eric Villemonte de la Clergerie|21|8|0|7
+9|Extracting Paraphrases from a Parallel Corpus.|Regina Barzilay,Kathleen McKeown|449|204|10|5
+10|Alternative Phrases and Natural Languages Information Retrieval.|Gann Bierner|16|1|0|0
+11|What is the Minimal Set of Fragments that Achieves Maximal Parse Accuracy?|Rens Bod|101|23|0|19
+12|Underspecified Beta Reduction.|Manuel Bodirsky,Katrin Erk,Alexander Koller,Joachim Niehren|6|0|0|5
+13|Chinese Text Segmentation With MBDP-1: Making the Most of Training Corpora.|Michael R. Brent,Xiaopeng Tao|20|2|0|0
+14|Towards Automatic Classification of Discourse Elements in Essays.|Jill Burstein,Daniel Marcu,Slava Andreyev,Martin Chodorow|62|19|3|6
+15|From RAGS to RICHES: Exploiting the Potential of a Flexible Generation Architecture.|Lynne J. Cahill,John A. Carroll,Roger Evans,Daniel S. Paiva,Richard Power,Donia Scott,Kees van Deemter|22|3|0|7
+16|Non-Verbal Cues for Discourse Structure.|Justine Cassell,Yukiko I. Nakano,Timothy W. Bickmore,Candace L. Sidner,Charles Rich|189|60|0|11
+17|Immediate-Head Parsing for Language Models.|Eugene Charniak|366|87|3|10
+18|Constraints on Strong Generative Power.|David Chiang|7|1|0|2
+19|An Algebra for Semantic Construction in Constraint-based Grammars.|Ann A. Copestake,Alex Lascarides,Dan Flickinger|157|43|0|25
+20|A Machine Learning Approach to the Automatic Evaluation of Machine Translation.|Simon Corston-Oliver,Michael Gamon,Chris Brockett|71|33|0|2
+21|Towards Abstract Categorial Grammars.|Philippe de Groote|214|138|0|14
+22|Grammars for Local and Long Dependencies.|Alexander Ja. Dikovsky|12|6|0|4
+23|Practical Issues in Compiling Typed Unification Grammars for Speech Recognition.|John Dowding,Beth Ann Hockey,Jean Mark Gawron,Christopher Culy|26|0|0|10
+24|Empirically Estimating Order Constraints for Content Planning in Generation.|Pablo Ariel Duboué,Kathleen McKeown|36|13|0|2
+25|Topological Dependency Trees: A Constraint-Based Account of Linear Precedence.|Denys Duchier,Ralph Debusmann|128|35|0|27
+26|Methods for the Qualitative Evaluation of Lexical Association Measures.|Stefan Evert,Brigitte Krenn|192|76|3|11
+27|Oganizing Encyclopedic Knowledge based on the Web and its Application to Question Answering.|Atsushi Fujii,Tetsuya Ishikawa|30|7|0|8
+28|Refined Lexikon Models for Statistical Machine Translation Using a Maximum Entropy Approach.|Ismael García-Varea,Franz Josef Och,Hermann Ney,Francisco Casacuberta|40|7|0|11
+29|Generating with a Grammar Based on Tree Descriptions: a Constraint-Based Approach.|Claire Gardent,Stefan Thater|7|0|0|0
+30|Word Order in German: A Formal Dependency Grammar Using a Topological Hierarchy.|Kim Gerdes,Sylvain Kahane|78|23|0|21
+31|Fast Decoding and Optimal Decoding for Machine Translation.|Ulrich Germann,Michael Jahr,Kevin Knight,Daniel Marcu,Kenji Yamada|299|74|6|16
+32|Resolving Ellipsis in Clarification.|Jonathan Ginzburg,Robin Cooper|51|6|0|19
+33|Mapping Lexical Entries in a Verbs Database to WordNet Senses.|Rebecca Green,Lisa Pearl,Bonnie J. Dorr,Philip Resnik|22|3|0|2
+34|XML-Based Data Preparation for Robust Deep Parsing.|Claire Grover,Alex Lascarides|35|3|0|4
+35|Serial Combination of Rules and Statistics: A Case Study in Czech Tagging.|Jan Hajic,Pavel Krbec,Pavel Kveton,Karel Oliva,Vladimir Petkevic|87|33|0|2
+36|Topic-focus and Salience.|Eva Hajicová,Petr Sgall|17|2|0|2
+37|The Role of Lexico-Semantic Feedback in Open-Domain Textual Question-Answering.|Sanda M. Harabagiu,Dan I. Moldovan,Marius Pasca,Rada Mihalcea,Mihai Surdeanu,Razvan C. Bunescu,Roxana Girju,Vasile Rus,Paul Morarescu|114|31|8|11
+38|Generation of VP Ellipsis: A Corpus-Based Approach.|Daniel Hardt,Owen Rambow|13|3|0|0
+39|Information Extraction from Voicemail.|Jing Huang,Geoffrey Zweig,Mukund Padmanabhan|26|13|0|1
+40|A Common Framework for Syntactic Annotation.|Nancy Ide,Laurent Romary|35|4|3|7
+41|Japanese Named Entity Recognition based on a Simple Rule Generator and Decision Tree Learning.|Hideki Isozaki|60|35|0|5
+42|Joint and Conditional Estimation of Tagging and Parsing Models.|Mark Johnson|70|21|2|2
+43|A Language-Independent Shallow-Parser Compiler.|Alexandra Kinyon|29|10|0|0
+44|Parsing with Treebank Grammars: Empirical Bounds, Theoretical Models, and the Structure of the Penn Treebank.|Dan Klein,Christopher D. Manning|48|18|3|3
+45|From Chunks to function-Argument Structure: A Similarity-Based Approach.|Sandra Kübler,Erhard W. Hinrichs|n/a
+46|Evaluating Smoothing Algorithms against Plausibility Judgements.|Maria Lapata,Frank Keller,Scott McDonald|30|10|0|6
+47|Extending Lambek Grammars: a Logical Account of Minimalist Grammars.|Alain Lecomte,Christian Retoré|53|18|0|9
+48|Predicting User Reactions to System Error.|Diane J. Litman,Julia Hirschberg,Marc Swerts|32|1|0|10
+49|Building Semantic Perceptron Net for Topic Spotting.|Jimin Liu,Tat-Seng Chua|33|9|2|10
+50|Towards a Unified Approach to Memory- and Statistical-Based Machine Translation.|Daniel Marcu|83|21|3|4
+51|Error Profiling: Toward a Model of English Acquisition for Deaf Learners.|Lisa N. Michaud,Kathleen F. McCoy|14|3|0|3
+52|Logic Form Transformation of WordNet and its Applicability to Question Answering.|Dan I. Moldovan,Vasile Rus|139|36|1|17
+53|Automatic Detection of Syllable Boundaries Combining the Advantages of Treebank and Bracketed Corpora Training.|Karin Müller|19|2|0|0
+54|Tractability and Structural Closures in Attribute Logic Type Signatures.|Gerald Penn|6|0|0|4
+55|Using Machine Learning to Maintain Rule-based Named-Entity Recognition and Classification Systems.|Georgios Petasis,Frantz Vichot,Francis Wolinski,Georgios Paliouras,Vangelis Karkaletsis,Constantine D. Spyropoulos|39|23|0|1
+56|Evaluating a Trainable Sentence Planner for a Spoken Dialogue System.|Owen Rambow,Monica Rogati,Marilyn A. Walker|19|7|0|8
+57|Using a Randomised Controlled Clinical Trial to Evaluate an NLG System.|Ehud Reiter,Roma Robertson,A. Scott Lennox,Liesl Osman|21|3|0|2
+58|Evaluating CETEMPublico, a Free Resource for Portuguese.|Diana Santos,Paulo Rocha|79|46|0|13
+59|Producing Biographical Summaries: Combining Linguistic Knowledge with Corpus Statistics.|Barry Schiffman,Inderjeet Mani,Kristian J. Concepcion|86|26|7|4
+60|Parse Forest Computation of Expected Governors.|Helmut Schmid,Mats Rooth|9|2|0|1
+61|Computational Properties of Environment-based Disambiguation.|William Schuler|25|3|0|6
+62|Incremental Construction of Compact Acyclic NFAs.|Kyriakos N. Sgarbas,Nikos Fakotakis,George K. Kokkinakis|15|4|0|1
+63|A Bayesian Model for Morpheme and Paradigm Identification.|Matthew G. Snover,Michael R. Brent|48|15|0|2
+64|A Statistical Model for Domain-Independent Text Segmentation.|Masao Utiyama,Hitoshi Isahara|255|133|1|0
+65|Detecting Problematic Turns in Human-Machine Interactions: Rule-induction Versus Memory-based Learning Approaches.|Antal van den Bosch,Emiel Krahmer,Marc Swerts|36|4|0|11
+66|A Generic Approach to Parallel Chart Parsing with an Application to LinGO.|Marcel P. van Lohuizen|4|3|0|0
+67|Quantitative and Qualitative Evaluation of Darpa Communicator Spoken Dialogue Systems.|Marilyn A. Walker,Rebecca J. Passonneau,Julie E. Boland|157|50|0|5
+68|A Syntax-based Statistical Translation Model.|Kenji Yamada,Kevin Knight|810|353|19|32
+69|Multi-Class Composite N-gram Language Model for Spoken Language Processing Using Multiple Word Clusters.|Hirofumi Yamamoto,Shuntaro Isogai,Yoshinori Sagisaka|23|6|1|5
+70|Text Chunking using Regularized Winnow.|Tong Zhang,Fred Damerau,David Johnson|59|21|0|1
+71|Using Machine Learning Techniques to Interpret WH-questions.|Ingrid Zuckerman,Eric Horvitz|30|6|1|4

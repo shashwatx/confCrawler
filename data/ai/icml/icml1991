@@ -1,0 +1,130 @@
+129
+1|Proceedings of the Eighth International Workshop (ML91), Northwestern University, Evanston, Illinois, USA.|Lawrence Birnbaum,Gregg Collins|n/a
+2|Design Rationale Capture as Knowledge Acquisition.|Thomas R. Gruber,Catherine Baudin,John H. Boose,Jay Webber|n/a
+3|A Domain-Independent Framework for Effective Experimentation in Planning.|Yolanda Gil|18|1|0|3
+4|Knowledge Refinement Using a High Level, Non-Technical Vocabulary.|Eric K. Jones|2|0|0|2
+5|Improving the Performance of Inconsistent Knowledge Bases via Combined Optimization Method.|Yong Ma,David C. Wilkins|12|0|0|0
+6|The Flexibility of Speculative Refinement.|Susan Craw,Derek H. Sleeman|20|1|0|7
+7|Generating Error Candidates for Assigning Blame in a Knowledge Base.|Michael A. Weintraub,Tom Bylander|n/a
+8|A Prototype Based Symbolic Concept Learning System.|Michael de la Maza|20|0|0|0
+9|Combining Evidence of Deep and Surface Similarity.|Douglas H. Fisher,Jungsoon P. Yoo|6|0|0|0
+10|The Importance of Causal Structure and Facts in Evaluating Explanations.|Mary Gick,Stan Matwin|1|0|0|0
+11|Learning Words From Context.|Peter M. Hastings,Steven L. Lytinen,Robert K. Lindsay|1434|590|0|26
+12|Modeling the Acquisition and Improvement of Motor Skkills.|Wayne Iba|5|0|0|0
+13|A Computational Model of Acquisition for Children's Addtion Strategies.|Randolph M. Jones,Kurt VanLehn|2|1|0|0
+14|Internal World Models and Supervised Learning.|Michael I. Jordan,David E. Rumelhart|34|6|0|0
+15|Babel: A Psychologically Plausible Cross-Linguistic Model of Lexical and Syntactic Acquisition.|Rick Kazman|7|1|0|1
+16|The Acquisition of Human Planning Expertise.|Pat Langley,John A. Allen|11|0|0|1
+17|Adaptive Pattern-Oriented Chess.|Robert Levinson,Richard Snyder|81|7|0|13
+18|Variability Bias and Category Learning.|Joel D. Martin,Dorrit Billman|n/a
+19|A Constraint-Motivated Model of Lexical Acquisition.|Craig S. Miller,John E. Laird|n/a
+20|Computer Modelling of Acquisition Orders in Child Language.|Sheldon Nicholl,David C. Wilkins|0|0|0|0
+21|Simulating Stages of Human Cognitive Development With Connectionist Models.|Thomas R. Shultz|21|2|0|4
+22|Learning Physics Via Explanation-Based Learning of Correctness and Analogical Search Control.|Kurt VanLehn,Randolph M. Jones|8|3|0|2
+23|Incremental Constructive Induction: An Instance-Based Approach.|David W. Aha|n/a
+24|A Transformational Approach to Constructive Induction.|James P. Callan,Paul E. Utgoff|n/a
+25|Learning Variable Descriptors for Applying Heuristics Across CSP Problems.|David S. Day|n/a
+26|Informed Pruning in Constructive Induction.|George Drastal|n/a
+27|A Hybrid Method for Feature Generation.|Tom Fawcett,Paul E. Utgoff|n/a
+28|Abstracting Concepts with Inverse Resolution.|Attilio Giordana,Lorenza Saitta,Davide Roverso|n/a
+29|Opportunistic Constructive Induction.|Gregg H. Gunsch,Larry A. Rendell|n/a
+30|Quantifying the Value of Constructive Induction, Knowledge, and Noise Filtering on Inductive Learning.|Carl Myers Kadie|n/a
+31|Discovering Production Rules with Higher Order Neural Networks.|Adam Kowalczyk,Herman L. Ferrá,Ken Gardiner|12|0|0|2
+32|Constructive Induction on Symbolic Features.|Bing Leng,Bruce G. Buchanan|n/a
+33|Comparison of Methods Based on Inverse Resolution.|Xiaofeng Ling,Malur Aji Narayan|n/a
+34|The Need for Constructive Induction.|Christopher J. Matheus|n/a
+35|Constructive Induction in Theory Refinement.|Raymond J. Mooney,Dirk Ourston|n/a
+36|Constructive Induction of M-of-N Terms.|Patrick M. Murphy,Michael J. Pazzani|n/a
+37|Relations, Knowledge and Empirical Learning.|Harish Ragavan,Larry A. Rendell|n/a
+38|Learning Concepts by Synthesizing Minimal Threshold Gate Networks.|Arlindo L. Oliveira,Alberto L. Sangiovanni-Vincentelli|1|0|0|1
+39|On the Effect of Instance Representation on Generalization.|Sharad Saxena|n/a
+40|Relational Clichés: Constraining Induction During Relational Learning.|Glenn Silverstein,Michael J. Pazzani|n/a
+41|Learning Polynomial Functions by Feature Construction.|Richard S. Sutton,Christopher J. Matheus|26|3|0|1
+42|Constructive Induction in Knowledge-Based Neural Networks.|Geoffrey G. Towell,Mark Craven,Jude W. Shavlik|n/a
+43|Feature Construction in Structural Decision Trees.|Larry Watanabe,Larry A. Rendell|n/a
+44|Fringe-Like Feature Construction: A Comparative Study and a Unifying Scheme.|Der-Shung Yang,Larry A. Rendell,Gunnar Blix|n/a
+45|A Neural Network Approach to Constructive Induction.|Dit-Yan Yeung|n/a
+46|Learning in Intelligent Information Retrieval.|David D. Lewis|n/a
+47|A Probabilistic Retrieval Scheme for Cluster-based Adaptive Information Retrieval.|Jay N. Bhuyan,Vijay V. Raghavan|n/a
+48|Classification Trees for Information Retrieval.|Stuart L. Crawford,Robert M. Fung,Lee A. Appelbaum,Richard M. Tong|n/a
+49|Query Formulation Through Knowledge Acquisition.|Sanjiv K. Bhatia,Jitender S. Deogun,Vijay V. Raghavan|n/a
+50|Incremental Learning in a Probalistic Information Retrieval System.|A. Goker,T. L. McCluskey|n/a
+51|Query Learning Using an ANN with Adaptive Architecture.|K. L. Kwok|n/a
+52|A Goal-Based Approach to Intelligent Information Retrieval.|Ashwin Ram,Lawrence Hunter|11|2|0|5
+53|Machine Learning in the Combination of Expert Opinion Approach to IR.|Paul Thompson|n/a
+54|Predicting Actions from Induction on Past Performance.|Steven Walczak|n/a
+55|Decision-Theoretic Learning in an Action System.|Matthew Brand|n/a
+56|On Becoming Decreasingly Reactive: Learning to Deliberate Minimally.|Steve A. Chien,Melinda T. Gervasio,Gerald DeJong|n/a
+57|Learning the Persistence of Actions in Reactive Control Rules.|Helen G. Cobb,John J. Grefenstette|n/a
+58|Learning to Avoid Obstacles Through Reinforcement.|José del R. Millán,Carme Torras|n/a
+59|Learning Football Evaluation for a Walking Robot.|Goang-Tay Hsu,Reid G. Simmons|n/a
+60|The Blind Leading the Blind: Mutual Refinement of Approximate Theories.|Smadar Kedar,John L. Bresina,C. Lisa Dent|11|0|0|1
+61|Learning to Select a Model in a Changing World.|Mieczyslaw M. Kokar,Spyros A. Reveliotis|4|0|0|3
+62|Learning from Deliberated Reactivity.|Bruce Krulwich|3|0|0|1
+63|Self-improvement Based on Reinforcement Learning, Planning and Teaching.|Long Ji Lin|32|3|0|1
+64|Scaling Reinforcement Learning to Robotics by Exploiting the Subsumption Architecture.|Sridhar Mahadevan,Jonathan Connell|72|4|0|0
+65|Variable Resolution Dynamic Programming.|Andrew W. Moore|n/a
+66|Learning a Set of Primitive Actions with an Uninterpreted Sensorimotor Apparatus.|David R. Pierce|15|1|0|4
+67|Incremental Development of Complex Behaviors.|Mark B. Ring|n/a
+68|Transfer of Learning Across Compositions of Sequentail Tasks.|Satinder P. Singh|36|5|0|1
+69|Planning by Incremental Dynamic Programming.|Richard S. Sutton|170|27|0|6
+70|Learning a Cost-Sensitive Internal Representation for Reinforcement Learning.|Ming Tan|28|2|0|0
+71|Complexity and Cooperation in Q-Learning.|Steven D. Whitehead|78|15|1|0
+72|Scaling Reinforcement Learning Techniques via Modularity.|Lambert E. Wixson|22|1|0|0
+73|Probabilistic Concept Formation in Relational Domains.|John A. Allen,Kevin Thompson|6|2|0|1
+74|Experiments in Non-Monotonic Learning.|Michael Bain|15|1|0|7
+75|Learning Qualitative Models of Dynamic Systems.|Ivan Bratko,Stephen Muggleton,Alen Varsek|104|16|0|24
+76|An Investigation of Noise-Tolerant Relational Concept Learning Algorithms.|Clifford Brunk,Michael J. Pazzani|102|24|0|3
+77|Integrity Constraints and Interactive Concept-Learning.|Luc De Raedt,Maurice Bruynooghe,Bern Martens|9|0|0|4
+78|Learning Relations from Noisy Examples: An Empirical Comparison of LINUS and FOIL.|Saso Dzeroski,Nada Lavrac|28|5|0|1
+79|Inducing Temporal Fault Diagnostic Rules from a Qualitative Model.|C. Feng|77|9|0|0
+80|Learning Spatial Relations from Images.|Kazuo Hiraki,John H. Gennari,Yoshinobu Yamamoto,Yuichiro Anzai|n/a
+81|Using Inverse Resolution to Learn Relations from Experiments.|David Humme,Claude Sammut|13|1|0|0
+82|Efficient Learning of Logic Programs with Non-determinant, Non-discriminating Literals.|Boonserm Kijsirikul,Masayuki Numao,Masamichi Shimura|29|1|0|8
+83|Learning Search Control Rules for Planning: An Inductive Approach.|Christopher Leckie,Ingrid Zukerman|26|4|0|1
+84|Learning Constrained Atoms.|C. David Page Jr.,Alan M. Frisch|n/a
+85|A Knowledge-intensive Approach to Learning Relational Concepts.|Michael J. Pazzani,Clifford Brunk,Glenn Silverstein|n/a
+86|The Consistent Concept Axiom.|Zhaogang Qian,Keki B. Irani|n/a
+87|Determinate Literals in Inductive Logic Programming.|J. Ross Quinlan|n/a
+88|First-Order Theory Revision.|Bradley L. Richards,Raymond J. Mooney|77|9|0|8
+89|Completeness for Inductive Procedures.|Céline Rouveirol|n/a
+90|Constraints on Predicate Invention.|Rüdiger Wirth,Paul O'Rorke|62|4|0|1
+91|Revising Relational Domain Theories.|James Wogulis|42|7|0|1
+92|Learning Stochastic Motifs from Genetic Sequences.|Kenji Yamanishi,Akihiko Konagaya|15|0|0|0
+93|Refinement of Approximate Reasoning-based Controllers by Reinforcement Learning.|Hamid R. Berenji|55|4|6|0
+94|Improving Learning Using Causality and Abduction.|Marco Botta,S. Ravotto,Lorenza Saitta,S. B. Sperotto|0|0|0|0
+95|The DUCTOR: A Theory Revision System for Propositional Domains.|Timothy Cain|32|3|0|0
+96|The Generality of Overgenerality.|William W. Cohen|24|2|0|3
+97|Probabilistic Evaluating of Bias for Learning Systems.|Marie desJardins|n/a
+98|Incremental Refinement of Approximate Domain Theories.|Ronen Feldman,Alberto Maria Segre,Moshe Koppel|n/a
+99|An Enhancer for Reactive Plans.|Diana F. Gordon|11|0|0|0
+100|A Hybrid Approach to Guaranteed Effective Control Strategies.|Jonathan Gratch,Gerald DeJong|n/a
+101|Revision Cost for Theory Refinement.|Rei Hamakawa|n/a
+102|Revision of Reduced Theories.|Xiaofeng Ling,Marco Valtorta|n/a
+103|Refining Domain Theories Expressed as Finite-State Automata.|Richard Maclin,Jude W. Shavlik|19|2|0|2
+104|A Smallest Generalization Step Strategy.|Claire Nedellec|n/a
+105|Improving Shared Rules in Multiple Category Domain Theories.|Dirk Ourston,Raymond J. Mooney|9|0|0|5
+106|Discovering Regularities from Large Knowledge Bases.|Wei-Min Shen|n/a
+107|Learning with Incrutable Theories.|Prasad Tadepalli|n/a
+108|A Method for Multistrategy Task-Adaptive Learning Based on Plausible Justifications.|Gheorghe Tecuci,Ryszard S. Michalski|25|0|0|14
+109|Using Background Knowledge in Concept Formation.|Kevin Thompson,Pat Langley,Wayne Iba|n/a
+110|A Study of How Domain Knowledge Improves Knowledge-Based Learning Systems.|Bradley L. Whitehall,Stephen C. Y. Lu|n/a
+111|Is it a Pocket or a Purse? Tighly Coupled Theory and Data Driven Learing.|Edward J. Wisniewski,Douglas L. Medin|n/a
+112|Identifying Cost Effective Boundaries of Operationality.|Jungsoon P. Yoo,Douglas H. Fisher|n/a
+113|Machine Learning in Engineering Automation.|Steve A. Chien,Bradley L. Whitehall,Thomas G. Dietterich,Richard J. Doyle,Brian Falkenhainer,James Garrett,Stephen C. Y. Lu|n/a
+114|Noise-Resistant Classification.|Leonid V. Belyaev,Loretta P. Falcone|n/a
+115|Comparing Stochastic Planning to the Acquisition of Increasingly Permissive Plans.|Scott Bennett,Gerald DeJong|n/a
+116|Conceptual Clustering and Exploratory Data Analysis.|Gautam Biswas,Jerry B. Weinberg,Qian Yang,Glenn R. Koller|n/a
+117|Megainduction: A Test Flight.|Jason Catlett|n/a
+118|Knowledge Compilation to Speed Up Numerical Optimization.|Giuseppe Cerbone,Thomas G. Dietterich|4|0|0|3
+119|Model Revision: A Theory of Incremental Model Learning.|Ashok K. Goel|n/a
+120|Learning Analytical Knowledge About VLSI-Design from Observation.|Jürgen Herrmann|n/a
+121|Continous Conceptual Set Covering: Learning Robot Operators From Examples.|Carl Myers Kadie|5|0|0|0
+122|Machine Learning for Nondestructive Evaluation.|Paul O'Rorke,Steven Morris,Michael Amirfathi,William E. Bond,Daniel C. St. Clair|n/a
+123|Improving Recognition Effectiveness of Noisy Texture Concepts.|Peter Pachowicz,Jerzy W. Bala|n/a
+124|Knowledge-Based Equation Discovery in Engineering Domains.|R. Bharat Rao,Stephen C. Y. Lu,Robert E. Stepp|n/a
+125|Design Integrated Learning Systems for Engineering Design.|Yoram Reich|n/a
+126|Database Consistency via Inductive Learning.|Jeffrey C. Schlimmer|n/a
+127|AIMS: An Adaptive Interactive Modeling System for Supporting Engineering Decision Making.|David K. Tcheng,Bruce L. Lambert,Stephen C. Y. Lu,Larry A. Rendell|n/a
+128|Decision Tree Induction of 3-D Manufacturing Features.|Larry Watanabe,Sudhakar Yerramareddy|n/a
+129|Knowledge Acquisition Combining Analytical and Empirrcal Techniques.|Mario Martín,Ramon Sangüesa,Ulises Cortés|n/a

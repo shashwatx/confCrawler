@@ -1,0 +1,47 @@
+46
+1|Advances in Database Technology - EDBT'96, 5th International Conference on Extending Database Technology, Avignon, France, March 25-29, 1996, Proceedings.|Peter M. G. Apers,Mokrane Bouzeghoub,Georges Gardarin|2|0|0|0
+2|Mining Sequential Patterns: Generalizations and Performance Improvements.|Ramakrishnan Srikant,Rakesh Agrawal|2661|1130|41|7
+3|SLIQ: A Fast Scalable Classifier for Data Mining.|Manish Mehta,Rakesh Agrawal,Jorma Rissanen|1038|314|26|15
+4|The PARK Semantics for Active Rules.|Georg Gottlob,Guido Moerkotte,V. S. Subrahmanian|29|1|0|5
+5|Composite Events in Chimera.|Rosa Meo,Giuseppe Psaila,Stefano Ceri|45|5|0|0
+6|Management of Multiple Models in an Extensible Database Design Tool.|Paolo Atzeni,Riccardo Torlone|105|23|1|29
+7|An Assessment of Non-Standard DBMSs for CASE Environments.|Udo Kelter,Dirk Däberitz|10|0|0|4
+8|Correct Schema Transformations.|Xiaolei Qian|20|3|0|0
+9|VALIDITY: Applications of a DOOD System.|Oris Friesen,Alexandre Lefebvre,Laurent Vieille|12|2|0|0
+10|The Need for an Object Relational Model and its Use.|Daisy Bonjour|1|0|0|0
+11|Data Integration using Self-Maintainable Views.|Ashish Gupta,H. V. Jagadish,Inderpal Singh Mumick|227|33|3|9
+12|Monet And Its Geographic Extensions: A Novel Approach to High Performance GIS Processing.|Peter A. Boncz,Wilko Quak,Martin L. Kersten|46|5|0|13
+13|Optimizing Queries with Aggregate Views.|Surajit Chaudhuri,Kyuseok Shim|92|23|11|2
+14|Translating OSQL-Queries into Efficient Set Expressions.|Hennie J. Steenhagen,Rolf A. de By,Henk M. Blanken|8|2|0|0
+15|Knowledge Discovery from Epidemiological Databases.|Gérard Pavillon|1|0|0|0
+16|Scalable Update Propagation in Epidemic Replicated Databases.|Michael Rabinovich,Narain H. Gehani,Alex Kononov|80|8|4|1
+17|Database Support for Efficiently Maintaining Derived Data.|Brad Adelberg,Ben Kao,Hector Garcia-Molina|67|15|5|7
+18|Optimal Multi-Block Read Schedule for Partitioned Signature Files.|Paolo Ciaccia|1|0|0|0
+19|Amalgamating SGML Documents and Databases.|Masatoshi Yoshikawa,Osamu Ichikawa,Shunsuke Uemura|13|0|0|1
+20|Indexing Nucleotide Databases for Fast Query Evaluation.|Hugh E. Williams,Justin Zobel|36|1|0|11
+21|Version Management for Scientific Databases.|I-Min A. Chen,Victor M. Markowitz,Stanley Letovsky,Peter Li,Kenneth H. Fasman|14|2|0|2
+22|First-Order Queries over Temporal Databases Inexpressible in Temporal Logic.|David Toman,Damian Niwinski|46|7|0|19
+23|Querying TSQL2 Databases with Temporal Logic.|Michael H. Böhlen,Jan Chomicki,Richard T. Snodgrass,David Toman|43|9|1|4
+24|A Formal Temporal Object-Oriented Data Model.|Elisa Bertino,Elena Ferrari,Giovanna Guerrini|64|6|0|5
+25|Dynamic Development and Refinement of HyperMedia Documents.|Lois M. L. Delcambre,Catherine Hamon,Michel Biezunski,Radhika Reddy,Steven R. Newcomb|0|0|0|0
+26|MATISSE: A Multimedia Web DBMS.|Sheldon J. Finkelstein,Eric Lemoine,René Lenaers|0|0|0|0
+27|Doing Business with the Web: The Informix/Illustra Approach.|Brian Baker|3|0|0|0
+28|A Hash Partition Strategy for Distributed Query Processing.|Chengwen Liu,Hao Chen|23|7|0|0
+29|Fine-granularity Locking and Client-Based Logging for Distributed Architectures.|Euthimios Panagos,Alexandros Biliris,H. V. Jagadish,Rajeev Rastogi|9|0|1|1
+30|Exploiting Persistent Intermediate Code Representations in Open Database Environments.|Andreas Gawecki,Florian Matthes|8|2|0|7
+31|Providing High Availability in Very Large Worklflow Management Systems.|Mohan Kamath,Gustavo Alonso,Roger Günthör,C. Mohan|102|5|0|17
+32|Semantic Workflow Interoperability.|Fabio Casati,Stefano Ceri,Barbara Pernici,Giuseppe Pozzi|37|0|0|2
+33|LabFlow-1: A Database Benchmark for High-Throughput Workflow Management.|Anthony J. Bonner,Adel Shrufi,Steve Rozen|45|5|0|2
+34|Adaptive Parallel Query Execution in DBS3.|Luc Bouganim,Benoît Dageville,Patrick Valduriez|14|1|0|4
+35|IRO-DB: Making Relational and Object-Oriented Database Systems Interoperable.|Peter Fankhauser,Béatrice Finance,Wolfgang Klas|5|0|0|1
+36|Object Query Services for Telecommunication Networks.|Jerome Fessy,Yann Lepetit,Philippe Pucheral|3|0|0|2
+37|Accomodating Integrity Constraints During Database Design.|Dimitris Plexousakis,John Mylopoulos|23|10|0|10
+38|Reasoning with Aggregation Constraints.|Alon Y. Levy,Inderpal Singh Mumick|32|2|0|4
+39|How to Tackle Schema Validation by View Updating.|Hendrik Decker,Ernest Teniente,Toni Urpí|32|5|0|0
+40|LoT: Dynamic Declustering of TSB-Tree Nodes for Parallel Access to Temporal Data.|Peter Muth,Achim Kraiss,Gerhard Weikum|9|0|0|0
+41|LH*LH: A scalable High Performance Data Structure for Switched Multicomputers.|Jonas S. Karlsson,Witold Litwin,Tore Risch|23|1|0|10
+42|Declustering Spatial Databases on a Multi-Computer Architecture.|Nick Koudas,Christos Faloutsos,Ibrahim Kamel|103|23|1|4
+43|Object Framework for Business Applications.|Marco Emrich|2|1|0|0
+44|Commit Scope Control in Nested Transactions.|Qiming Chen,Umeshwar Dayal|6|0|0|5
+45|Fundamental Techniques for Order Optimization.|David E. Simmen,Eugene J. Shekita,Timothy Malkemus|109|32|7|0
+46|Dealing with Asynchrony in Technology Transfer.|Gio Wiederhold|3|2|0|1

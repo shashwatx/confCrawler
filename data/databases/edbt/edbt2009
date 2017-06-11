@@ -1,0 +1,112 @@
+111
+1|EDBT 2009, 12th International Conference on Extending Database Technology, Saint Petersburg, Russia, March 24-26, 2009, Proceedings.|Martin L. Kersten,Boris Novikov,Jens Teubner,Vladimir Polutin,Stefan Manegold|n/a
+2|Data integration flows for business intelligence.|Umeshwar Dayal,Malú Castellanos,Alkis Simitsis,Kevin Wilkinson|136|126|2|22
+3|Optimized union of non-disjoint distributed data sets.|Itay Dar,Tova Milo,Elad Verbin|1|1|0|0
+4|Shore-MT: a scalable storage manager for the multicore era.|Ryan Johnson,Ippokratis Pandis,Nikos Hardavellas,Anastasia Ailamaki,Babak Falsafi|143|134|0|21
+5|Workload-aware data partitioning in community-driven data grids.|Tobias Scholl,Bernhard Bauer,Jessica Müller,Benjamin Gufler,Angelika Reiser,Alfons Kemper|12|11|0|2
+6|Sequenced spatio-temporal aggregation in road networks.|Igor Timko,Michael H. Böhlen,Johann Gamper|8|8|0|0
+7|Processing probabilistic spatio-temporal range queries over moving objects with uncertainty.|Bruce S. E. Chung,Wang-Chien Lee,Arbee L. P. Chen|24|22|0|0
+8|Anonymizing moving objects: how to hide a MOB in a crowd?|Roman Yarovoy,Francesco Bonchi,Laks V. S. Lakshmanan,Wendy Hui Wang|110|98|1|4
+9|Type-based categorization of relational attributes.|Babak Ahmadi,Marios Hadjieleftheriou,Thomas Seidl,Divesh Srivastava,Suresh Venkatasubramanian|9|9|0|1
+10|AlphaSum: size-constrained table summarization using value lattices.|K. Selçuk Candan,Huiping Cao,Yan Qi,Maria Luisa Sapino|9|8|1|4
+11|Answering aggregate keyword queries on relational databases using minimal group-bys.|Bin Zhou,Jian Pei|26|24|0|1
+12|Rule-based multi-query optimization.|Mingsheng Hong,Mirek Riedewald,Christoph Koch,Johannes Gehrke,Alan J. Demers|25|25|1|0
+13|Managing long-running queries.|Stefan Krompass,Harumi A. Kuno,Janet L. Wiener,Kevin Wilkinson,Umeshwar Dayal,Alfons Kemper|29|27|0|4
+14|Continuous visible nearest neighbor queries.|Yunjun Gao,Baihua Zheng,Wang-Chien Lee,Gencai Chen|38|34|0|9
+15|Query ranking in probabilistic XML data.|Lijun Chang,Jeffrey Xu Yu,Lu Qin|24|21|1|5
+16|On rewriting XPath queries using views.|Foto N. Afrati,Rada Chirkova,Manolis Gergatsoulis,Benny Kimelfeld,Vassia Pavlaki,Yehoshua Sagiv|n/a
+17|Parallelization of XPath queries using multi-core processors: challenges and experiences.|Rajesh Bordawekar,Lipyeow Lim,Oded Shmueli|34|30|0|5
+18|GADDI: distance index based subgraph matching in biological networks.|Shijie Zhang,Shirong Li,Jiong Yang|111|105|0|11
+19|A novel approach for efficient supergraph query processing on graph databases.|Shuo Zhang,Jianzhong Li,Hong Gao,Zhaonian Zou|46|46|0|0
+20|Flexible query answering on graph-modeled data.|Federica Mandreoli,Riccardo Martoglia,Giorgio Villani,Wilma Penzo|32|31|0|3
+21|Privacy-preserving data mashup.|Noman Mohammed,Benjamin C. M. Fung,Ke Wang,Patrick C. K. Hung|54|47|1|11
+22|On the comparison of microdata disclosure control algorithms.|Rinku Dewri,Indrajit Ray,Indrakshi Ray,Darrell Whitley|6|2|0|4
+23|Detecting privacy violations in database publishing using disjoint queries.|Millist W. Vincent,Mukesh K. Mohania,Mizuho Iwaihara|3|3|0|0
+24|On keys, foreign keys and nullable attributes in relational mapping systems.|Luca Cabibbo|16|14|0|0
+25|A runtime approach to model-independent schema and data translation.|Paolo Atzeni,Luigi Bellomarini,Francesca Bugiotti,Giorgio Gianforme|15|13|0|6
+26|A methodology for preference-based personalization of contextual data.|Antonio Miele,Elisa Quintarelli,Letizia Tanca|38|37|0|13
+27|Scalable stream join processing with expensive predicates: workload distribution and adaptation by time-slicing.|Song Wang,Elke A. Rundensteiner|12|12|0|0
+28|Indexing density models for incremental learning and anytime classification on data streams.|Thomas Seidl,Ira Assent,Philipp Kranen,Ralph Krieger,Jennifer Herrmann|33|30|0|13
+29|Exploiting the power of relational databases for efficient stream processing.|Erietta Liarou,Romulo Goncalves,Stratos Idreos|52|49|3|7
+30|A sampling approach for XML query selectivity estimation.|Cheng Luo,Zhewei Jiang,Wen-Chi Hou,Feng Yu,Qiang Zhu|25|24|0|0
+31|Recursion in XQuery: put your distributivity safety belt on.|Loredana Afanasiev,Torsten Grust,Maarten Marx,Jan Rittinger,Jens Teubner|11|6|0|5
+32|Expressive, yet tractable XML keys.|Sven Hartmann,Sebastian Link|22|18|0|14
+33|It takes variety to make a world: diversification in recommender systems.|Cong Yu,Laks V. S. Lakshmanan,Sihem Amer-Yahia|130|121|1|13
+34|Supporting annotations on relations.|Mohamed Y. Eltabakh,Walid G. Aref,Ahmed K. Elmagarmid,Mourad Ouzzani,Yasin N. Silva|n/a
+35|Data clouds: summarizing keyword search results over structured data.|Georgia Koutrika,Zahra Mohammadi Zadeh,Hector Garcia-Molina|93|87|1|5
+36|Sample synopses for approximate answering of group-by queries.|Philipp Rösch,Wolfgang Lehner|11|10|0|2
+37|A query processor for prediction-based monitoring of data streams.|Sergio Ilarri,Ouri Wolfson,Eduardo Mena,Arantza Illarramendi,A. Prasad Sistla|7|7|0|0
+38|Flower-CDN: a hybrid P2P overlay for efficient query processing in CDN.|Manal El Dick,Esther Pacitti,Bettina Kemme|34|30|0|5
+39|Zerber+R: top-k retrieval from a confidential index.|Sergej Zerr,Daniel Olmedilla,Wolfgang Nejdl,Wolf Siberski|58|52|0|1
+40|Efficient top-k count queries over imprecise duplicates.|Sunita Sarawagi,Vinay S. Deshpande,Sourabh Kasliwal|7|5|0|2
+41|The C-ND tree: a multidimensional index for hybrid continuous and non-ordered discrete data spaces.|Changqing Chen,Sakti Pramanik,Qiang Zhu,Alok Watve,Gang Qian|7|5|0|4
+42|G-hash: towards fast kernel-based similarity search in large graph databases.|Xiaohong Wang,Aaron M. Smalter,Jun Huan,Gerald H. Lushington|29|29|0|1
+43|On-line exact shortest distance query processing.|Jiefeng Cheng,Jeffrey Xu Yu|59|57|1|11
+44|Efficiently indexing shortest paths by exploiting symmetry in graphs.|Yanghua Xiao,Wentao Wu,Jian Pei,Wei Wang,Zhenying He|52|49|0|2
+45|Estimating the number of frequent itemsets in a large database.|Ruoming Jin,Scott McCallen,Yuri Breitbart,David Fuhry,Dong Wang|6|3|0|0
+46|FOGGER: an algorithm for graph generator discovery.|Zhiping Zeng,Jianyong Wang,Jun Zhang,Lizhu Zhou|22|21|0|2
+47|Neighbor-based pattern detection for windows over streaming data.|Di Yang,Elke A. Rundensteiner,Matthew O. Ward|36|32|0|9
+48|Efficient constraint evaluation in categorical sequential pattern mining for trajectory databases.|Leticia I. Gómez,Alejandro A. Vaisman|12|11|0|1
+49|Flexible and efficient querying and ranking on hyperlinked data sources.|Ramakrishna Varadarajan,Vagelis Hristidis,Louiqa Raschid,Maria-Esther Vidal,Luis Daniel Ibáñez,Héctor Rodríguez-Drumond|17|14|0|3
+50|RankClus: integrating clustering with ranking for heterogeneous information network analysis.|Yizhou Sun,Jiawei Han,Peixiang Zhao,Zhijun Yin,Hong Cheng,Tianyi Wu|189|176|0|41
+51|Evaluating very large datalog queries on social networks.|Royi Ronen,Oded Shmueli|22|18|0|5
+52|A sequential indexing scheme for flash-based embedded systems.|Shaoyi Yin,Philippe Pucheral,Xiaofeng Meng|33|31|2|8
+53|Secondary bitmap indexes with vertical and horizontal partitioning.|Guadalupe Canahuate,Tan Apaydin,Ahmet Sacan,Hakan Ferhatosmanoglu|9|8|0|0
+54|Automating the loading of business process data warehouses.|Malú Castellanos,Alkis Simitsis,Kevin Wilkinson,Umeshwar Dayal|20|18|0|1
+55|Hiding distinguished ones into crowd: privacy-preserving publishing data with outliers.|Wendy Hui Wang,Ruilin Liu|1|1|0|1
+56|An efficient online auditing approach to limit private data disclosure.|Haibing Lu,Yingjiu Li,Vijayalakshmi Atluri,Jaideep Vaidya|1|1|0|1
+57|Continuous privacy preserving publishing of data streams.|Bin Zhou,Yi Han,Jian Pei,Bin Jiang,Yufei Tao,Yan Jia|51|49|0|0
+58|Top-k dominating queries in uncertain databases.|Xiang Lian,Lei Chen|55|50|0|7
+59|Evaluating probability threshold k-nearest-neighbor queries over uncertain data.|Reynold Cheng,Lei Chen,Jinchuan Chen,Xike Xie|68|59|0|10
+60|PROUD: a probabilistic approach to processing similarity queries over uncertain data streams.|Mi-Yen Yeh,Kun-Lung Wu,Philip S. Yu,Ming-Syan Chen|46|44|0|1
+61|Fair, effective, efficient and differentiated scheduling in an enterprise data warehouse.|Chetan Gupta,Abhay Mehta,Song Wang,Umeshwar Dayal|12|11|1|0
+62|Efficient identification of starters and followers in social media.|Michael Mathioudakis,Nick Koudas|42|42|0|0
+63|A data damage tracking quarantine and recovery (DTQR) scheme for mission-critical database systems.|Kun Bai,Peng Liu|12|12|1|2
+64|Unrestricted wavelet synopses under maximum error bound.|Chaoyi Pang,Qing Zhang,David P. Hansen,Anthony J. Maeder|11|10|0|4
+65|Distributed similarity search in high dimensions using locality sensitive hashing.|Parisa Haghani,Sebastian Michel,Karl Aberer|65|62|0|2
+66|Multiplicative synopses for relative-error metrics.|Panagiotis Karras|6|4|0|3
+67|LCS-Hist: taming massive high-dimensional data cube compression.|Alfredo Cuzzocrea,Paolo Serafino|31|31|2|21
+68|Caching content-based queries for robust and efficient image retrieval.|Fabrizio Falchi,Claudio Lucchese,Salvatore Orlando,Raffaele Perego,Fausto Rabitti|17|13|0|3
+69|An approach to detecting relevant updates to cached data using XML and active databases.|Essam Mansour,Hagen Höpfner|3|1|0|2
+70|Self-tuning query mesh for adaptive multi-route query processing.|Rimma V. Nehme,Elke A. Rundensteiner,Elisa Bertino|20|17|0|9
+71|Retrieving meaningful relaxed tightest fragments for XML keyword search.|Lingbo Kong,Rémi Gilleron,Aurélien Lemay|50|46|0|0
+72|Approximate substring selectivity estimation.|Hongrae Lee,Raymond T. Ng,Kyuseok Shim|13|11|0|3
+73|Finding frequent co-occurring terms in relational keyword search.|Yufei Tao,Jeffrey Xu Yu|31|30|0|3
+74|Time-completeness trade-offs in record linkage using adaptive query processing.|Roald Lengu,Paolo Missier,Alvaro A. A. Fernandes,Giovanna Guerrini,Marco Mesiti|7|6|0|1
+75|Interactive query refinement.|Chaitanya Mishra,Nick Koudas|53|49|0|1
+76|Continuous probabilistic nearest-neighbor queries for uncertain trajectories.|Goce Trajcevski,Roberto Tamassia,Hui Ding,Peter Scheuermann,Isabel F. Cruz|68|65|0|7
+77|Reverse k-nearest neighbor search in dynamic and general metric databases.|Elke Achtert,Hans-Peter Kriegel,Peer Kröger,Matthias Renz,Andreas Züfle|51|46|0|5
+78|Top-k dominant web services under multi-criteria matching.|Dimitrios Skoutas,Dimitris Sacharidis,Alkis Simitsis,Verena Kantere,Timos K. Sellis|54|49|0|4
+79|Ranking objects based on relationships and fixed associations.|Albert Angel,Surajit Chaudhuri,Gautam Das,Nick Koudas|24|24|0|2
+80|Towards integrated and efficient scientific sensor data processing: a database approach.|Ji Wu,Yongluan Zhou,Karl Aberer,Kian-Lee Tan|12|10|0|2
+81|Flexible and scalable storage management for data-intensive stream processing.|Irina Botan,Gustavo Alonso,Peter M. Fischer,Donald Kossmann,Nesime Tatbul|30|26|0|6
+82|A view selection algorithm with performance guarantee.|Nicolas Hanusse,Sofian Maabout,Radu Tofan|29|23|0|9
+83|Efficient provenance storage over nested data collections.|Manish Kumar Anand,Shawn Bowers,Timothy M. McPhillips,Bertram Ludäscher|56|50|0|10
+84|Schema-conscious filtering of XML documents.|Panu Silvasti,Seppo Sippu,Eljas Soisalon-Soininen|10|9|0|3
+85|Provenance for nested subqueries.|Boris Glavic,Gustavo Alonso|19|18|0|8
+86|A data model for trip planning in multimodal transportation systems.|Joel Booth,A. Prasad Sistla,Ouri Wolfson,Isabel F. Cruz|36|32|0|2
+87|Parsimonious temporal aggregation.|Juozas Gordevicius,Johann Gamper,Michael H. Böhlen|8|7|0|2
+88|Fast object search on road networks.|Ken C. K. Lee,Wang-Chien Lee,Baihua Zheng|29|27|0|3
+89|Finding the influence set through skylines.|Xiaobing Wu,Yufei Tao,Raymond Chi-Wing Wong,Ling Ding,Jeffrey Xu Yu|23|22|0|1
+90|Efficient skyline computation in metric space.|David Fuhry,Ruoming Jin,Donghui Zhang|42|38|0|0
+91|Efficient skyline retrieval with arbitrary similarity measures.|Deepak Padmanabhan,Prasad M. Deshpande,Debapriyo Majumdar,Raghu Krishnapuram|4|4|0|2
+92|Transactions on the multiversion B+-tree.|Tuukka Haapasalo,Ibrahim Jaluta,Bernhard Seeger,Seppo Sippu,Eljas Soisalon-Soininen|5|5|0|0
+93|Efficient maintenance techniques for views over active documents.|Serge Abiteboul,Pierre Bourhis,Bogdan Marinoiu|20|13|0|6
+94|Towards materialized view selection for distributed databases.|Leonardo Weiss Ferreira Chaves,Erik Buchmann,Fabian Hueske,Klemens Böhm|30|27|0|0
+95|Personalizing entity detection and recommendation with a fusion of web log mining techniques.|Kathleen Tsoukalas,Bin Zhou,Jian Pei,Davor Cubranic|0|0|0|0
+96|Estimating aggregates in time-constrained approximate queries in Oracle.|Ying Hu,Seema Sundara,Jagannathan Srinivasan|5|5|0|1
+97|BaseX & DeepFS joint storage for filesystem and database.|Alexander Holupirek,Christian Grün,Marc H. Scholl|19|16|0|7
+98|Xoom: a tool for zooming in and out of XML documents.|Maya Ramanath,Kondreddi Sarath Kumar|2|2|0|0
+99|HIDE: heterogeneous information DE-identification.|James J. Gardner,Li Xiong,Kanwei Li,James J. Lu|12|12|0|3
+100|MVT: a schema mapping validation tool.|Guillem Rull,Carles Farré,Ernest Teniente,Toni Urpí|7|7|1|1
+101|A tool for mapping discovery over revealing schemas.|Verena Kantere,Dimos Bousounis,Timos K. Sellis|3|3|0|3
+102|GCIP: exploiting the generation and optimization of integration processes.|Matthias Böhm,Uwe Wloka,Dirk Habich,Wolfgang Lehner|4|4|0|2
+103|CourseCloud: summarizing and refining keyword searches over structured data.|Georgia Koutrika,Zahra Mohammadi Zadeh,Hector Garcia-Molina|16|16|0|0
+104|EventSummarizer: a tool for summarizing large event sequences.|Jerry Kiernan,Evimaria Terzi|13|10|0|2
+105|High-performance information extraction with AliBaba.|Peter Palaga,Long Nguyen,Ulf Leser,Jörg Hakenberg|26|26|0|0
+106|Exploiting similarity-aware grouping in decision support systems.|Yasin N. Silva,Muhammad U. Arshad,Walid G. Aref|6|6|0|3
+107|MarcoPolo: a community system for sharing and integrating travel information on maps.|Yueguo Chen,Su Chen,Yu Gu,Mei Hui,Feng Li,Chen Liu,Liangxu Liu,Beng Chin Ooi,Xiaoyan Yang,Dongxiang Zhang,Yuan Zhou|10|10|0|2
+108|NNexus: an automatic linker for collaborative web-based corpora.|James J. Gardner,Aaron Krowne,Li Xiong|12|11|0|2
+109|Performance evaluation in database research: principles and experience.|Stefan Manegold,Ioana Manolescu|6|1|0|3
+110|Geographic privacy-aware knowledge discovery and delivery.|Fosca Giannotti,Dino Pedreschi,Yannis Theodoridis|5|3|0|0
+111|Scalable OLAP and mining of information networks.|Jiawei Han,Xifeng Yan,Philip S. Yu|7|6|0|0

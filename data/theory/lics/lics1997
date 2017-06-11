@@ -1,0 +1,41 @@
+40
+1|Proceedings, 12th Annual IEEE Symposium on Logic in Computer Science, Warsaw, Poland, June 29 - July 2, 1997.|n/a
+2|Combination of Compatible Reduction Orderings that are Total on Ground Terms.|Franz Baader|4|0|0|0
+3|Automata-Driven Automated Induction.|Adel Bouhoula,Jean-Pierre Jouannaud|27|4|0|8
+4|Ground Reducibility is EXPTIME-Complete.|Hubert Comon,Florent Jacquemard|40|13|0|7
+5|Strong Normalization of Explicit Substitutions via Cut Elimination in Proof Nets (Extended Abstract).|Roberto Di Cosmo,Delia Kesner|56|4|0|8
+6|Temporal Linear Logic Specifications for Concurrent Processes (Extended Abstract).|Max I. Kanovich,Takayasu Ito|27|4|0|2
+7|Full Abstraction for Functional Languages with Control.|James Laird|122|33|0|8
+8|Believe it or not, AJM's Games Model is a Model of Classical Linear Logic.|Patrick Baillot,Vincent Danos,Thomas Ehrhard,Laurent Regnier|57|13|0|3
+9|Games and Definability for System F.|Dominic J. D. Hughes|27|6|0|0
+10|Boolean Expression Diagrams (Extended Abstract).|Henrik Reif Andersen,Henrik Hulgaard|n/a
+11|How Much Memory is Needed to Win Infinite Games?|Stefan Dziembowski,Marcin Jurdzinski,Igor Walukiewicz|121|57|0|1
+12|Quantitative Analysis and Model Checking.|Michael Huth,Marta Z. Kwiatkowska|n/a
+13|A Partially Deadlock-Free Typed Process Calculus.|Naoki Kobayashi|158|32|0|20
+14|Unique Fixpoint Induction for Value-Passing Processes (Extended Abstract).|Julian Rathke|9|2|0|1
+15|Bisimulation for Labelled Markov Processes.|Richard Blute,Josee Desharnais,Abbas Edalat,Prakash Panangaden|244|110|0|32
+16|A Kleene Theorem for Timed Automata.|Eugene Asarin,Paul Caspi,Oded Maler|124|13|0|8
+17|Automata, Tableaus and a Reduction Theorem for Fixpoint Calculi in Arbitrary Complete Lattices.|David Janin|13|8|0|3
+18|An Expressively Complete Linear Time Temporal Logic for Mazurkiewicz Traces.|P. S. Thiagarajan,Igor Walukiewicz|68|4|0|10
+19|On the Complexity of Reasoning in Kleene Algebra.|Dexter Kozen|43|2|0|10
+20|On the Forms of Locality over Finite Models.|Leonid Libkin|38|4|0|15
+21|Large Finite Structures with Few Lk-Types.|Martin Grohe|29|8|0|5
+22|First-Order Logic with Two Variables and Unary Temporal Logic.|Kousha Etessami,Moshe Y. Vardi,Thomas Wilke|117|63|0|5
+23|The Monadic Quantifier Alternation Hierarchy over Graphs is Infinite.|Oliver Matz,Wolfgang Thomas|58|13|0|10
+24|Semantics of Exact Real Arithmetic.|Peter John Potts,Abbas Edalat,Martín Hötzel Escardó|63|12|0|9
+25|A Relational Account of Call-by-Value Sequentiality.|Jon G. Riecke,Anders Sandholm|21|1|0|2
+26|Complete Cuboidal Sets in Axiomatic Domain Theory.|Marcelo P. Fiore,Gordon D. Plotkin,A. John Power|28|3|0|5
+27|Towards a Mathematical Operational Semantics.|Daniele Turi,Gordon D. Plotkin|340|144|0|11
+28|The "Hardest" Natural Decidable Theory.|Sergei G. Vorobyov|17|3|0|5
+29|Two-Variable Logic with Counting is Decidable.|Erich Grädel,Martin Otto,Eric Rosen|157|50|0|8
+30|Complexity of Two-Variable Logic with Counting.|Leszek Pacholski,Wieslaw Szwast,Lidia Tendera|81|32|0|1
+31|Complexity of Power Default Reasoning.|Guo-Qiang Zhang,William C. Rounds|17|2|0|10
+32|On the Cubic Bottleneck in Subtyping and Flow Analysis.|Nevin Heintze,David A. McAllester|50|11|0|5
+33|The Complexity of Subtype Entailment for Simple Types.|Fritz Henglein,Jakob Rehof|55|4|0|3
+34|Set Constraints with Intersection.|Witold Charatonik,Andreas Podelski|58|1|0|12
+35|Induction and Recursion on the Partial Real Line via Biquotients of Bifree Algebras.|Martín Hötzel Escardó,Thomas Streicher|8|0|0|2
+36|Continuation Models are Universal for Lambda-Mu-Calculus.|Martin Hofmann,Thomas Streicher|88|23|0|2
+37|Discrimination by Parallel Observers.|Mariangiola Dezani-Ciancaglini,Jerzy Tiuryn,Pawel Urzyczyn|14|0|0|7
+38|Ramified Higher-Order Unification.|Jean Goubault-Larrecq|4|2|0|2
+39|Linear Higher-Order Pre-Unification.|Iliano Cervesato,Frank Pfenning|30|6|0|9
+40|A Logic for Reasoning with Higher-Order Abstract Syntax.|Raymond McDowell,Dale Miller|73|6|0|13

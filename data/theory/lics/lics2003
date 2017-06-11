@@ -1,0 +1,41 @@
+40
+1|18th IEEE Symposium on Logic in Computer Science (LICS 2003), 22-25 June 2003, Ottawa, Canada, Proceedings.|n/a
+2|Proof Nets for Unit-free Multiplicative-Additive Linear Logic (Extended abstract).|Dominic J. D. Hughes,Rob J. van Glabbeek|109|46|0|3
+3|About Translations of Classical Logic into Polarized Linear Logic.|Olivier Laurent,Laurent Regnier|34|21|0|1
+4|System ST \beta-reduction and completeness.|Christophe Raffalli|n/a
+5|Types and Programming Languages: The Next Generation.|Benjamin C. Pierce|5|3|0|0
+6|Reasoning about Hierarchical Storage.|Amal J. Ahmed,Limin Jia,David Walker|40|4|0|6
+7|Formal Verification at Intel.|John Harrison|31|21|0|0
+8|New Directions in Instantiation-Based Theorem Proving.|Harald Ganzinger,Konstantin Korovin|89|40|0|10
+9|Abstract Saturation-Based Inference.|Nachum Dershowitz,Claude Kirchner|15|2|0|10
+10|Orienting Equalities with the Knuth-Bendix Order.|Konstantin Korovin,Andrei Voronkov|4|1|0|4
+11|Dependent Intersection: A New Way of Defining Records in Type Theory.|Alexei Kopylov|42|10|0|1
+12|Structural Subtyping of Non-Recursive Types is Decidable.|Viktor Kuncak,Martin C. Rinard|42|8|0|10
+13|On Program Equivalence in Languages with Ground-Type References.|Andrzej S. Murawski|27|2|0|9
+14|A Proof Theory for Generic Judgments: An extended abstract.|Dale Miller,Alwen Fernanto Tiu|n/a
+15|Polynomial-time Algorithms from Ineffective Proofs.|Paulo Oliva|13|0|0|2
+16|The Complexity of Resolution Refinements.|Josh Buresh-Oppenheim,Toniann Pitassi|27|9|0|2
+17|Successor-Invariance in the Finite.|Benjamin Rossman|13|2|0|3
+18|Will Deflation Lead to Depletion? On Non-Monotone Fixed Point Inductions.|Erich Grädel,Stephan Kreutzer|15|8|0|3
+19|On Automatic Partial Orders.|Bakhadyr Khoussainov,Sasha Rubin,Frank Stephan|36|14|0|5
+20|Logical Definability and Query Languages over Unranked Trees.|Leonid Libkin,Frank Neven|11|3|0|2
+21|Query Evaluation on Compressed Trees (Extended Abstract).|Markus Frick,Martin Grohe,Christoph Koch|n/a
+22|Revisiting Digitization, Robustness, and Decidability for Timed Automata.|Joël Ouaknine,James Worrell|75|27|0|7
+23|Satisfiability in Alternating-time Temporal Logic.|Govert van Drimmelen|49|16|0|0
+24|Strong Bisimilarity on Basic Parallel Processes is PSPACE-complete.|Petr Jancar|66|23|0|5
+25|Logic in Access Control.|Martín Abadi|158|69|0|6
+26|The Planning Spectrum - One, Two, Three, Infinity.|Marco Pistore,Moshe Y. Vardi|18|7|0|2
+27|Advice about logical AI.|John McCarthy|0|0|0|0
+28|A Sound Framework for Untrusted Verification-Condition Generators.|George C. Necula,Robert R. Schneck|34|3|0|1
+29|An NP Decision Procedure for Protocol Insecurity with XOR.|Yannick Chevalier,Ralf Küsters,Michaël Rusinowitch,Mathieu Turuani|225|63|0|27
+30|Intruder Deductions, Constraint Solving and Insecurity Decision in Presence of Exclusive or.|Hubert Comon-Lundh,Vitaly Shmatikov|211|68|0|22
+31|Spectrum Hierarchies and Subdiagonal Functions.|Aaron Hunter|n/a
+32|Spectra of Monadic Second-Order Formulas with One Unary Function.|Yuri Gurevich,Saharon Shelah|22|11|0|4
+33|Convergence Law for Random Graphs with Specified Degree Sequence.|James F. Lynch|10|10|0|0
+34|Homomorphism Closed vs. Existential Positive.|Tomás Feder,Moshe Y. Vardi|30|11|0|1
+35|Tractable conservative Constraint Satisfaction Problems.|Andrei A. Bulatov|212|77|0|14
+36|Labelled Markov Processes: Stronger and Faster Approximations.|Vincent Danos,Josee Desharnais|31|12|0|8
+37|Model checking for probability and time: from theory to practice .|Marta Z. Kwiatkowska|134|36|0|2
+38|Model Checking Guarded Protocols.|E. Allen Emerson,Vineet Kahlon|42|14|0|4
+39|Model-checking Trace Event Structures.|P. Madhusudan|15|8|0|1
+40|Micro-Macro Stack Systems: A New Frontier of Elementary Decidability for Sequential Systems.|Nir Piterman,Moshe Y. Vardi|5|0|0|2

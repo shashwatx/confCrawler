@@ -1,0 +1,78 @@
+77
+1|Proceedings of the Thirtieth Annual ACM Symposium on the Theory of Computing, Dallas, Texas, USA, May 23-26, 1998.|Jeffrey Scott Vitter|n/a
+2|On the Limits of Non-Approximability of Lattice Problems.|Oded Goldreich,Shafi Goldwasser|204|47|0|14
+3|The Shortest Vector Problem in L2 is NP-hard for Randomized Reductions (Extended Abstract).|Miklós Ajtai|451|188|1|3
+4|Quantum Circuits with Mixed States.|Dorit Aharonov,Alexei Kitaev,Noam Nisan|287|93|0|10
+5|Exact Sampling and Approximate Counting Techniques.|Mark Huber|53|11|0|11
+6|A Polynomial Approximation Algorithm for the Minimum Fill-In Problem.|Assaf Natanzon,Ron Shamir,Roded Sharan|67|28|0|3
+7|An Improved Approximation Algorithm for Multiway Cut.|Gruia Calinescu,Howard J. Karloff,Yuval Rabani|183|75|0|6
+8|A Framework for Fast Quantum Mechanical Algorithms.|Lov K. Grover|199|52|0|3
+9|Quantum vs. Classical Communication and Computation.|Harry Buhrman,Richard Cleve,Avi Wigderson|331|102|0|27
+10|Finding Maximum Flows in Undirected Graphs Seems Easier than Bipartite Matching.|David R. Karger,Matthew S. Levine|67|22|0|5
+11|Poly-Logarithmic Deterministic Fully-Dynamic Algorithms for Connectivity, Minimum Spanning Tree, 2-Edge, and Biconnectivity.|Jacob Holm,Kristian de Lichtenberg,Mikkel Thorup|335|132|1|15
+12|Approximating the Bandwidth via Volume Respecting Embeddings (Extended Abstract).|Uriel Feige|165|30|0|7
+13|Semi-Definite Relaxations for Minimum Bandwidth and other Vertex-Ordering Problems.|Avrim Blum,Goran Konjevod,R. Ravi,Santosh Vempala|76|28|0|8
+14|Approximation Schemes for Euclidean k-Medians and Related Problems.|Sanjeev Arora,Prabhakar Raghavan,Satish Rao|349|119|1|8
+15|Rounding via Trees: Deterministic Approximation Algorithms for Group Steiner Trees and k-Median.|Moses Charikar,Chandra Chekuri,Ashish Goel,Sudipto Guha|140|25|0|15
+16|One Help Bit Doesn't Help.|Richard Beigel,Tirza Hirst|n/a
+17|Perfectly One-Way Probabilistic Hash Functions (Preliminary Version).|Ran Canetti,Daniele Micciancio,Omer Reingold|156|62|0|11
+18|Non-Interactive and Non-Malleable Commitment.|Giovanni Di Crescenzo,Yuval Ishai,Rafail Ostrovsky|158|49|6|16
+19|Protecting Data Privacy in Private Information Retrieval Schemes.|Yael Gertner,Yuval Ishai,Eyal Kushilevitz,Tal Malkin|342|117|3|39
+20|On Approximating Arbitrary Metrices by Tree Metrics.|Yair Bartal|474|157|1|23
+21|Trees and Euclidean Metrics.|Nathan Linial,Avner Magen,Michael E. Saks|21|4|0|0
+22|Random Generation of Embedded Graphs and an Extension to Dobrushin Uniqueness (Extended Abstract).|Marcus Peinado,Thomas Lengauer|4|1|0|1
+23|Efficient Algorithms for Constructing Fault-Tolerant Geometric Spanners.|Christos Levcopoulos,Giri Narasimhan,Michiel H. M. Smid|46|20|0|6
+24|Almost Optimal Dispersers.|Amnon Ta-Shma|34|0|0|4
+25|NP Might Not Be As Easy As Detecting Unique Solutions.|Richard Beigel,Harry Buhrman,Lance Fortnow|31|6|0|6
+26|The Random Oracle Methodology, Revisited (Preliminary Version).|Ran Canetti,Oded Goldreich,Shai Halevi|n/a
+27|Randomized Complexity Lower Bounds.|Dima Grigoriev|17|1|0|2
+28|Weak Alternating Automata and Tree Automata Emptiness.|Orna Kupferman,Moshe Y. Vardi|101|34|0|30
+29|Over Words, Two Variables Are as Powerful as One Quantifier Alternation.|Denis Thérien,Thomas Wilke|106|57|0|14
+30|Decoding Algebraic-Geometric Codes Beyond the Error-Correction Bound.|Mohammad Amin Shokrollahi,Hal Wasserman|26|5|1|6
+31|Analysis of Low Density Codes and Improved Designs Using Irregular Graphs.|Michael Luby,Michael Mitzenmacher,Mohammad Amin Shokrollahi,Daniel A. Spielman|349|98|15|7
+32|Spot-Checkers.|Funda Ergün,Sampath Kannan,Ravi Kumar,Ronitt Rubinfeld,Mahesh Viswanathan|203|87|1|20
+33|The Power of a Pebble: Exploring and Mapping Directed Graphs.|Michael A. Bender,Antonio Fernández,Dana Ron,Amit Sahai,Salil P. Vadhan|154|49|0|2
+34|Linear-Time Pointer-Machine Algorithms for Least Common Ancestors, MST Verification, and Dominators.|Adam L. Buchsbaum,Haim Kaplan,Anne Rogers,Jeffery Westbrook|59|11|0|4
+35|A Sublinear Bipartiteness Tester for Bunded Degree Graphs.|Oded Goldreich,Dana Ron|124|51|0|46
+36|Recycling Queries in PCPs and in Linearity Tests (Extended Abstract).|Luca Trevisan|46|12|0|6
+37|The Closure of Monadic NP (Extended Abstract).|Miklós Ajtai,Ronald Fagin,Larry J. Stockmeyer|n/a
+38|Information Theoretic Implications for Pairing Heaps.|Michael L. Fredman|0|0|0|0
+39|Min-Wise Independent Permutations (Extended Abstract).|Andrei Z. Broder,Moses Charikar,Alan M. Frieze,Michael Mitzenmacher|n/a
+40|The Approximability of NP-hard Problems.|Sanjeev Arora|57|22|0|0
+41|Algorithms for Capacitated Vehicle Routing.|Moses Charikar,Samir Khuller,Balaji Raghavachari|57|25|1|2
+42|Adaptive Packet Routing for Bursty Adversarial Traffic.|William Aiello,Eyal Kushilevitz,Rafail Ostrovsky,Adi Rosén|99|16|1|7
+43|Stability Results for Networks with Input and Output Blocking.|Matthew Andrews,Lisa Zhang|14|3|0|4
+44|Randomized Protocols for Low Congestion Circuit Routing in Multistage Interconnection Networks.|Richard Cole,Bruce M. Maggs,Friedhelm Meyer auf der Heide,Michael Mitzenmacher,Andréa W. Richa,Klaus Schröder,Ramesh K. Sitaraman,Berthold Vöcking|50|12|1|2
+45|TCP Dynamic Acknowledgment Delay: Theory and Practice (Extended Abstract).|Daniel R. Dooly,Sally A. Goldman,Stephen D. Scott|n/a
+46|Honest-Verifier Statistical Zero-Knowledge Equals General Statistical Zero-Knowledge.|Oded Goldreich,Amit Sahai,Salil P. Vadhan|107|26|0|26
+47|Concurrent Zero-Knowledge.|Cynthia Dwork,Moni Naor,Amit Sahai|559|212|0|40
+48|A Modular Approach to the Design and Analysis of Authentication and Key Exchange Protocols (Extended Abstract).|Mihir Bellare,Ran Canetti,Hugo Krawczyk|594|204|2|20
+49|A Characterization of Span Program Size and Improved Lower Bounds for Monotone Span Programs.|Anna Gál|52|18|0|0
+50|Checking Polynomial Identities over any Field: Towards a Derandomization?|Daniel Lewin,Salil P. Vadhan|60|26|0|0
+51|Multicasting in Heterogeneous Networks.|Amotz Bar-Noy,Sudipto Guha,Joseph Naor,Baruch Schieber|72|19|0|0
+52|Minimizing Stall Time in Single and Parallel Disk Systems.|Susanne Albers,Naveen Garg,Stefano Leonardi|65|10|0|6
+53|On Indexed Data Broadcast.|Sanjeev Khanna,Shiyu Zhou|53|6|0|0
+54|Segmentation Problems.|Jon M. Kleinberg,Christos H. Papadimitriou,Prabhakar Raghavan|n/a
+55|Computing Local Dimension of a Semialgebraic Set.|Nicolai Vorobjov|2|0|0|1
+56|Asymptotic Acceleration of Solving Multivariate Polynomial Systems of Equations.|Bernard Mourrain,Victor Y. Pan|48|10|0|23
+57|A Black Box Approach to the Algebraic Set Decomposition Problem.|Ming-Deh A. Huang,Ashwin J. Rao|0|0|0|0
+58|Are Lower Bounds Easier over the Reals?|Hervé Fournier,Pascal Koiran|24|4|0|10
+59|Planar Map Graphs.|Zhi-Zhong Chen,Michelangelo Grigni,Christos H. Papadimitriou|44|8|0|11
+60|Further Algorithmic Aspects of the Local Lemma.|Michael Molloy,Bruce A. Reed|199|119|0|11
+61|Decision Algorithms for Unsplittable Flow and the Half-Disjoint Paths Problem.|Jon M. Kleinberg|37|13|0|0
+62|Approximating Geometrical Graphs via "Spanners" and "Banyans".|Satish Rao,Warren D. Smith|177|54|0|2
+63|Finding Almost-Satisfying Assignments.|Uri Zwick|53|12|0|4
+64|On the Complexity of Unsatisfiability Proofs for Random k-CNF Formulas.|Paul Beame,Richard M. Karp,Toniann Pitassi,Michael E. Saks|118|16|0|13
+65|K-sat on Groups and Undecidability.|Michael H. Freedman|7|1|0|0
+66|An Exponential Lower Bound for Depth 3 Arithmetic Circuits.|Dima Grigoriev,Marek Karpinski|80|41|0|1
+67|A New Composition Theorem for Learning Algorithms.|Nader H. Bshouty|9|2|0|6
+68|Adaptive versus Nonadaptive Attribute-Efficient Learning.|Peter Damaschke|49|13|0|9
+69|On the Complexity of Protein Folding (Extended Abstract).|Pierluigi Crescenzi,Deborah Goldman,Christos H. Papadimitriou,Antonio Piccolboni,Mihalis Yannakakis|n/a
+70|Approximate Nearest Neighbors: Towards Removing the Curse of Dimensionality.|Piotr Indyk,Rajeev Motwani|2568|1650|39|59
+71|Efficient Search for Approximate Nearest Neighbor in High Dimensional Spaces.|Eyal Kushilevitz,Rafail Ostrovsky,Yuval Rabani|442|147|11|14
+72|Improved Bounds for Acyclic Job Shop Scheduling (Extended Abstract).|Uriel Feige,Christian Scheideler|31|3|0|4
+73|On Broadcast Disk Paging.|Sanjeev Khanna,Vincenzo Liberatore|51|7|1|9
+74|A Deterministic Strongly Polynomial Algorithm for Matrix Scaling and Approximate Permanents.|Nathan Linial,Alex Samorodnitsky,Avi Wigderson|138|48|0|14
+75|On Separating the Read-k-Times Branching Program Hierarchy.|Jayram S. Thathachar|38|3|0|1
+76|Robust Efficient Distributed RSA-Key Generation.|Yair Frankel,Philip D. MacKenzie,Moti Yung|210|51|14|13
+77|The Cost of the Missing Bit: Communication Complexity with Help.|László Babai,Thomas P. Hayes,Peter G. Kimmel|58|23|0|4

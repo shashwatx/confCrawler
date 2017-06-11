@@ -1,0 +1,79 @@
+78
+1|33rd Annual Symposium on Foundations of Computer Science, Pittsburgh, Pennsylvania, USA, 24-27 October 1992.|n/a
+2|Probabilistic Checking of Proofs; A New Characterization of NP.|Sanjeev Arora,Shmuel Safra|1192|430|0|44
+3|Proof Verification and Hardness of Approximation Problems.|Sanjeev Arora,Carsten Lund,Rajeev Motwani,Madhu Sudan,Mario Szegedy|2237|637|5|45
+4|Undirected Connectivity in O(log ^1.5 n) Space.|Noam Nisan,Endre Szemerédi,Avi Wigderson|108|13|0|9
+5|The Isomorphism Conjecture Holds Relative to an Oracle.|Stephen A. Fenner,Lance Fortnow,Stuart A. Kurtz|40|4|0|7
+6|Data Structural Bootstrapping, Linear Path Compression, and Catenable Heap Ordered Double Ended Queues.|Adam L. Buchsbaum,Rajamani Sundar,Robert Endre Tarjan|36|4|0|15
+7|Fully Dynamic Biconnectivity in Graphs.|Monika Rauch|44|2|0|3
+8|Sparsification-A Technique for Speeding up Dynamic Graph Algorithms (Extended Abstract).|David Eppstein,Zvi Galil,Giuseppe F. Italiano,Amnon Nissenzweig|349|91|0|39
+9|On Four-Connecting a Triconnected Graph (Extended Abstract).|Tsan-sheng Hsu|n/a
+10|Dynamic Half-Space Reporting, Geometric Optimization, and Minimum Spanning Trees.|Pankaj K. Agarwal,David Eppstein,Jirí Matousek|34|8|0|1
+11|Randomized Geometric Algorithms and Pseudo-Random Generators (Extended Abstract).|Ketan Mulmuley|30|7|0|1
+12|Drawing Planar Graphs Using the lmc-Ordering (Extended Abstract).|Goos Kant|111|16|0|9
+13|Computing in Solvable Matrix Groups.|Eugene M. Luks|65|14|0|5
+14|Fast Algorithms for Matrix Normal Forms.|Mark Giesbrecht|9|4|0|1
+15|Improved Parallel Polynomial Division and Its Extensions.|Dario Bini,Victor Y. Pan|7|1|0|2
+16|Randomized Consensus in Expected O(n log ^2 n) Operations Per Processor.|James Aspnes,Orli Waarts|41|12|0|17
+17|Clock Construction in Fully Asynchronous Parallel Systems and PRAM Simulation (Extended Abstract).|Yonatan Aumann,Michael O. Rabin|62|5|0|8
+18|Fault-tolerant Wait-free Shared Objects.|Prasad Jayanti,Tushar Deepak Chandra,Sam Toueg|97|24|1|2
+19|Hierarchies in Transitive Closure Logic, Stratified Datalog and Infinitary Logic.|Erich Grädel,Gregory L. McColm|28|10|0|2
+20|Back to the Future: Towards a Theory of Timed Regular Languages.|Rajeev Alur,Thomas A. Henzinger|89|16|0|16
+21|The Complexity of the Hajós Calculus.|Toniann Pitassi,Alasdair Urquhart|31|5|0|3
+22|A Decomposition Theorem and Bounds for Randomized Server Problems.|Avrim Blum,Howard J. Karloff,Yuval Rabani,Michael E. Saks|48|12|0|4
+23|Markov Paging (Extended Abstract).|Anna R. Karlin,Steven J. Phillips,Prabhakar Raghavan|n/a
+24|On-line Load Balancing (Extended Abstract).|Yossi Azar,Andrei Z. Broder,Anna R. Karlin|n/a
+25|Improved Lower Bounds for Shellsort.|C. Greg Plaxton,Bjorn Poonen,Torsten Suel|16|3|0|5
+26|The Asymptotic Complexity of Merging Networks.|Peter Bro Miltersen,Mike Paterson,Jun Tarui|27|3|0|0
+27|Truly Alphabet-Independent Two-Dimensional Pattern Matching.|Zvi Galil,Kunsoo Park|90|6|0|0
+28|Amplification and Percolation.|Moshe Dubiner,Uri Zwick|n/a
+29|Algebraic Decision Trees and Euler Characteristics.|Andrew Chi-Chih Yao|52|5|0|1
+30|Separating the Communication Complexities of MOD m and MOD p Circuits.|Vince Grolmusz|40|4|0|13
+31|Lower Bounds on the Depth of Monotone Arithmetic Computations (Extended Summary).|Don Coppersmith,Baruch Schieber|2|1|0|0
+32|On the Second Eigenvalue and Linear Expansion of Regular Graphs.|Nabil Kahale|23|0|0|2
+33|Quadratic Dynamical Systems (Preliminary Version).|Yuri Rabinovich,Alistair Sinclair,Avi Wigderson|n/a
+34|On the Bit Extraction Problem.|Joel Friedman|90|18|0|1
+35|A Mildly Exponential Approximation Algorithm for the Permanent.|Mark Jerrum,Umesh V. Vazirani|34|8|0|2
+36|Competitive Analysis of Financial Games.|Ran El-Yaniv,Amos Fiat,Richard M. Karp,G. Turpin|111|27|0|8
+37|Lower Bounds on the Competitive Ratio for Mobile User Tracking and Distributed Job Scheduling (Extended Abstract).|Noga Alon,Gil Kalai,Moty Ricklin,Larry J. Stockmeyer|49|13|0|4
+38|The Distributed k-Server Problem-A Competitive Distributed Translator for k-Server Algorithms.|Yair Bartal,Adi Rosén|38|10|9|4
+39|Undecidability of the Horn-Clause Implication Problem.|Jerzy Marcinkowski,Leszek Pacholski|50|6|0|4
+40|Efficient Inference of Partial Types.|Dexter Kozen,Jens Palsberg,Michael I. Schwartzbach|86|10|1|28
+41|On the Completeness of Object-Creating Query Languages (Extended Abstract).|Jan Van den Bussche,Dirk Van Gucht,Marc Andries,Marc Gyssens|40|5|0|8
+42|Enumerating the k Closest Pairs Optimally.|Hans-Peter Lenhof,Michiel H. M. Smid|26|2|0|8
+43|Safe and Effective Determinant Evaluation.|Kenneth L. Clarkson|155|24|0|0
+44|On Minimum and Maximum Spanning Trees of Linearly Moving Points.|Naoki Katoh,Takeshi Tokuyama,Kazuo Iwano|37|7|0|8
+45|Towards a Computational Theory of Statistical Tests (Extended Abstract).|Manuel Blum,Oded Goldreich|14|1|0|1
+46|Witnesses for Boolean Matrix Multiplication and for Shortest Paths.|Noga Alon,Zvi Galil,Oded Margalit,Moni Naor|62|21|0|4
+47|Zero-Knowledge Proofs of Knowledge Without Interaction (Extended Abstract).|Alfredo De Santis,Giuseppe Persiano|156|38|0|10
+48|Fast Unimodular Reduction: Planar Integer Lattices (Extended Abstract).|Chee-Keng Yap|24|5|0|1
+49|How to Denest Ramanujan's Nested Radicals.|Johannes Blömer|9|1|0|0
+50|On Efficient Band Matrix Arithmetic.|Wayne Eberly|11|1|0|2
+51|A Subexponential Algorithm for Abstract Optimization Problems.|Bernd Gärtner|95|17|0|0
+52|The Algorithmic Aspects of the Regularity Lemma (Extended Abstract).|Noga Alon,Richard A. Duke,Hanno Lefmann,Vojtech Rödl,Raphael Yuster|269|95|0|45
+53|On the Randomized Complexity of Volume and Diameter.|László Lovász,Miklós Simonovits|44|9|0|6
+54|Apple Tasting and Nearly One-Sided Learning.|David P. Helmbold,Nick Littlestone,Philip M. Long|21|2|0|3
+55|Reconstructing Algebraic Functions from Mixed Data.|Sigal Ar,Richard J. Lipton,Ronitt Rubinfeld,Madhu Sudan|94|15|1|19
+56|On the Exact Learning of Formulas in Parallel (Extended Abstract).|Nader H. Bshouty,Richard Cleve|32|1|0|8
+57|Read-Thrice DNF Is Hard to Learn With Membership and Equivalence Queries.|Howard Aizenstein,Lisa Hellerstein,Leonard Pitt|47|4|0|10
+58|Efficient Self-Embedding of Butterfly Networks with Random Faults.|Hisao Tamaki|13|0|0|4
+59|On the Fault Tolerance of Some Popular Bounded-Degree Networks.|Frank Thomson Leighton,Bruce M. Maggs,Ramesh K. Sitaraman|104|11|0|7
+60|Exact Analysis of Hot-Potato Routing (Extended Abstract).|Uriel Feige,Prabhakar Raghavan|n/a
+61|A Theory of Wormhole Routing in Parallel Computers (Extended Abstract).|Sergio A. Felperin,Prabhakar Raghavan,Eli Upfal|59|3|0|4
+62|Computing a Shortest k-Link Path in a Polygon.|Joseph S. B. Mitchell,Christine D. Piatko,Esther M. Arkin|44|7|0|14
+63|Efficient Minimum Cost Matching Using Quadrangle Inequality.|Alok Aggarwal,Amotz Bar-Noy,Samir Khuller,Dina Kravets,Baruch Schieber|24|10|0|0
+64|Optimal Parallel Hull Construction for Simple Polygons in \calO(log log n) Time.|Hubert Wagener|10|1|0|0
+65|Tighter Bounds on the Exact Complexity of String Matching (Extended Abstract).|Richard Cole,Ramesh Hariharan|40|1|0|1
+66|Tiling a Polygon with Rectangles.|Claire Kenyon,Richard W. Kenyon|66|17|0|8
+67|Mick Gets Some (the Odds Are on His Side).|Vasek Chvátal,Bruce A. Reed|348|90|0|5
+68|Waste Makes Haste: Tight Bounds for Loose Parallel Sorting.|Torben Hagerup,Rajeev Raman|49|3|0|11
+69|The Complexity of Parallel Prefix Problems on Small Domains.|Shiva Chaudhuri,Jaikumar Radhakrishnan|9|1|0|3
+70|Approximate Max Flow on Small Depth Networks.|Edith Cohen|24|4|0|0
+71|Newton's Method for Fractional Combinatorial Optimization.|Tomasz Radzik|59|13|0|3
+72|A Class of Logic Problems Solvable by Linear Programming.|Michele Conforti,Gérard Cornuéjols|35|6|0|7
+73|Maximizing Non-Linear Concave Functions in Fixed Dimension.|Sivan Toledo|18|2|0|0
+74|Halvers and Expanders.|Miklós Ajtai,János Komlós,Endre Szemerédi|n/a
+75|Fault Tolerant Graphs, Perfect Hash Functions and Disjoint Paths.|Miklós Ajtai,Noga Alon,Jehoshua Bruck,Robert Cypher,Ching-Tien Ho,Moni Naor,Endre Szemerédi|29|10|0|3
+76|The Power of Combining the Techiques of Algebraic and Numerical Computing: Improved Approximate Multipoint Polynomial Evaluation and Improved Multipole Algorithms.|Victor Y. Pan,John H. Reif,Stephen R. Tate|20|4|0|8
+77|Processor-Efficient Parallel Solution of Linear Systems II: The Positive Characteristic and Singular Cases (Extended Abstract).|Erich Kaltofen,Victor Y. Pan|n/a
+78|Communication on Noisy Channels: A Coding Theorem for Computation.|Leonard J. Schulman|51|33|0|7

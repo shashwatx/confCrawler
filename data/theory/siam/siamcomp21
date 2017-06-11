@@ -1,0 +1,72 @@
+71
+1|Efficient Motion Planning for an L-Shaped Object.|Dan Halperin,Mark H. Overmars,Micha Sharir|29|4|0|9
+2|On the Average Size of the Intersection of Binary Trees.|Ricardo A. Baeza-Yates,Rafael Casas,Josep Díaz,Conrado Martinez|14|3|0|3
+3|Polynomial Threshold Functions, AC^0 Functions, and Spectral Norms.|Jehoshua Bruck,Roman Smolensky|142|22|1|9
+4|The Average Complexity of Parallel Comparison Merging.|Mihály Geréb-Graus,Danny Krizanc|4|0|0|2
+5|A Note on the Height of Suffix Trees.|Luc Devroye,Wojciech Szpankowski,Bonita Rais|52|9|0|14
+6|Computing Algebraic Formulas Using a Constant Number of Registers.|Michael Ben-Or,Richard Cleve|86|48|0|4
+7|Asymptotic Analysis of an Algorithm for Balanced Parallel Processor Scheduling.|Li-Hui Tsai|31|6|0|1
+8|Conditions for Unique Graph Realizations.|Bruce Hendrickson|428|207|2|2
+9|Simplification of Nested Radicals.|Susan Landau|46|5|1|6
+10|Gossiping in Minimal Time.|David W. Krumme,George Cybenko,K. N. Venkataraman|156|17|0|4
+11|Using Interior-Point Methods for Fast Parallel Algorithms for Bipartite Matching and Related Problems.|Andrew V. Goldberg,Serge A. Plotkin,David B. Shmoys,Éva Tardos|36|8|0|2
+12|Efficient Embeddings of Trees in Hypercubes.|Sandeep N. Bhatt,Fan R. K. Chung,Frank Thomson Leighton,Arnold L. Rosenberg|98|10|0|3
+13|On the Exact Location of Steiner Points in General Dimension.|Timothy Law Snyder|38|14|0|2
+14|On Learning Ring-Sum-Expansions.|Paul Fischer,Hans-Ulrich Simon|51|3|0|3
+15|Locality in Distributed Graph Algorithms.|Nathan Linial|472|236|0|2
+16|Partitioning Planar Graphs.|Thang Nguyen Bui,Andrew Peck|45|7|0|7
+17|A Polynomial-Time Algorithm for the Equivalence of Probabilistic Automata.|Wen-Guey Tzeng|93|53|0|2
+18|Subgroup Refinement Algorithms for Root Finding in GF(q).|Alfred Menezes,Paul C. van Oorschot,Scott A. Vanstone|9|4|0|0
+19|Learning Integer Lattices.|David P. Helmbold,Robert H. Sloan,Manfred K. Warmuth|92|10|0|5
+20|Efficient Point Location in a Convex Spatial Cell-Complex.|Franco P. Preparata,Roberto Tamassia|53|5|0|6
+21|A Heuristic of Scheduling Parallel Tasks and its Analysis.|Qingzhou Wang,Kam-Hoi Cheng|92|18|0|1
+22|Heuristic Sampling: A Method for Predicting the Performance of Tree Searching Programs.|Pang C. Chen|56|28|0|1
+23|Counting Classes are at Least as Hard as the Polynomial-Time Hierarchy.|Seinosuke Toda,Mitsunori Ogiwara|141|17|0|5
+24|Lower Bounds for Threshold and Symmetric Functions in Parallel Computation.|Yossi Azar|14|1|0|0
+25|Convex Decomposition of Polyhedra and Robustness.|Chandrajit L. Bajaj,Tamal K. Dey|132|30|0|9
+26|Fast Gossiping for the Hypercube.|David W. Krumme|53|4|0|2
+27|Recognizing P_4 Sparse Graphs in Linear Time.|Beverly Jamison,Stephan Olariu|72|37|0|4
+28|On the Exact Complexity of String Matching: Upper Bounds.|Zvi Galil,Raffaele Giancarlo|66|17|0|3
+29|Probably Approximate Learning Over Classes of Distributions.|B. K. Natarajan|19|1|0|3
+30|The Complexity of the Lin-Kernighan Heuristic for the Traveling Salesman Problem.|Christos H. Papadimitriou|83|12|0|2
+31|Optimal Parallel Randomized Algorithms for Three-Dimensional Convex Hulls and Related Problems.|John H. Reif,Sandeep Sen|62|12|0|7
+32|Processor Efficient Parallel Algorithms for the Two Disjoint Paths Problem and for Finding a Kuratowski Homeomorph.|Samir Khuller,Stephen G. Mitchell,Vijay V. Vazirani|18|2|0|1
+33|Algorithms for Splicing Systems.|R. W. Gatterdam|25|5|0|2
+34|Relating Equivalence and Reducibility to Sparse Sets.|Eric Allender,Lane A. Hemachandra,Mitsunori Ogiwara,Osamu Watanabe|56|5|0|6
+35|Ray Shooting and Other Applications of Spanning Trees with Low Stabbing Number.|Pankaj K. Agarwal|97|9|0|21
+36|The Nilpotency Problem of One-Dimensional Cellular Automata.|Jarkko Kari|106|52|0|12
+37|Learning Monotone Boolean Functions by Uniformly Distributed Examples.|Qian-Ping Gu,Akira Maruoka|14|0|0|5
+38|Shortest Paths Help Solve Geometric Optimization Problems in Planar Regions.|Elefterios A. Melissaratos,Diane L. Souvaine|25|16|0|0
+39|Dynamic Tree Embeddings in Butterflies and Hypercubes.|Frank Thomson Leighton,Mark Newman,Abhiram G. Ranade,Eric J. Schwabe|97|3|0|5
+40|Circuit Definitions of Nondeterministic Complexity Classes.|H. Venkateswaran|57|8|0|7
+41|An Optimal Algorithm for Intersecting Three-Dimensional Convex Polyhedra.|Bernard Chazelle|106|30|2|8
+42|The Power of the Queue.|Ming Li,Luc Longpré,Paul M. B. Vitányi|21|3|0|3
+43|Maximum Size of a Dynamic Data Structure: Hashing with Lazy Deletion Revisited.|David Aldous,Micha Hofri,Wojciech Szpankowski|18|2|0|5
+44|Complete Problems and Strong Polynomial Reducibilities.|K. Ganesan,Steven Homer|34|1|0|6
+45|On the Structure of Bounded Queries to Arbitrary NP Sets.|Richard Chang|15|0|0|3
+46|An Optimal Parallel Algorithm for Formula Evaluation.|Samuel R. Buss,Stephen A. Cook,A. Gupta,V. Ramachandran|105|33|0|2
+47|On the Complexity of Polynomial Zeros.|Dario Bini,Luca Gemignani|20|2|0|2
+48|Increasing the Size of a Network by a Constant Factor can Increase Performance by more than a Constant Factor.|Richard Koch|54|2|0|0
+49|Representability of Design Objects by Ancestor-Controlled Hierarchical Specifications.|Lin Yu,Daniel J. Rosenkrantz|1|0|0|1
+50|A Lower Bound for Parallel String Matching.|Dany Breslauer,Zvi Galil|53|7|0|24
+51|Searching for a Mobile Intruder in a Polygonal Region.|Ichiro Suzuki,Masafumi Yamashita|305|105|0|15
+52|Determinism vs. Nondeterminism in Multiparty Communication Complexity.|Danny Dolev,Tomás Feder|9|3|0|1
+53|On Threshold Circuits and Polynomial Computation.|John H. Reif,Stephen R. Tate|126|24|0|2
+54|Generalizing the Continued Fraction Algorithm to Arbitrary Dimensions.|Bettina Just|16|5|0|0
+55|Laying out Graphs Using Queues.|Lenwood S. Heath,Arnold L. Rosenberg|111|29|0|13
+56|Optimal On-Line Simulations of Tree Machines by Random Access Machines.|Michael C. Loui,David R. Luginbuhl|8|2|0|1
+57|New Results on Dynamic Planar Point Location.|Siu-Wing Cheng,Ravi Janardan|73|10|0|1
+58|Addendum: Minimum Weighted Coloring of Triangulated Graphs, with Application to Maximum Weight Vertex Packing and Clique Finding in Arbitrary Graphs.|Egon Balas,Jue Xue|79|15|0|7
+59|Reducing the Steiner Problem in a Normed Space.|Ding-Zhu Du,Frank K. Hwang|41|6|0|6
+60|On the Computational Complexity of Approximating Solutions for Real Algebraic Formulae.|James Renegar|33|8|0|4
+61|An O(n² log n) Algorithm for the Hamiltonian Cycle Problem on Circular-Arc Graphs.|Wei-Kuan Shih,T. C. Chern,Wen-Lian Hsu|36|13|0|0
+62|Fully Dynamic Algorithms for 2-Edge Connectivity.|Zvi Galil,Giuseppe F. Italiano|71|7|0|11
+63|Work-Optimal Asynchronous Algorithms for Shared Memory Parallel Computers.|Charles U. Martel,Arvin Park,Ramesh Subramonian|57|2|0|4
+64|Polynomial Time Productivity, Approximations, and Levelability.|Jie Wang|6|1|0|0
+65|Optimal Reductions of Two-Terminal Directed Acyclic Graphs.|Wolfgang W. Bein,Jerzy Kamburowski,Matthias F. M. Stallmann|141|44|0|2
+66|Preemptive Ensemble Motion Planning on a Tree.|Greg N. Frederickson,D. J. Guan|70|18|0|8
+67|Lower Bounds on Universal Traversal Sequences for Cycles and Other Low Degree Graphs.|Martin Tompa|18|1|0|5
+68|Approximation and Small-Depth Frege Proofs.|Stephen Bellantoni,Toniann Pitassi,Alasdair Urquhart|44|5|0|9
+69|External Internal Nodes in Digital Search Trees via Mellin Transforms.|Helmut Prodinger|5|2|0|1
+70|Verification and Sensitivity Analysis of Minimum Spanning Trees in Linear Time.|Brandon Dixon,Monika Rauch,Robert Endre Tarjan|154|36|0|8
+71|Optimal Algorithms for Multiplication in Certain Finite Fields Using Elliptic Curves.|Mohammad Amin Shokrollahi|31|12|0|4

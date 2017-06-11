@@ -1,0 +1,18 @@
+17
+1|CCS '99, Proceedings of the 6th ACM Conference on Computer and Communications Security, Singapore, November 1-4, 1999.|Juzar Motiwalla,Gene Tsudik|n/a
+2|The Base-Rate Fallacy and Its Implications for the Difficulty of Intrusion Detection.|Stefan Axelsson|318|101|1|4
+3|A High-Performance Network Intrusion Detection System.|R. Sekar,Y. Guang,S. Verma,T. Shanbhag|147|22|3|9
+4|The Proactive Security Toolkit and Applications.|Boaz Barak,Amir Herzberg,Dalit Naor,Eldad Shai|40|7|0|2
+5|A Fuzzy Commitment Scheme.|Ari Juels,Martin Wattenberg|1192|752|22|6
+6|On the Fly Signatures Based on Factoring.|Guillaume Poupard,Jacques Stern|59|12|0|6
+7|Signature Schemes Based on the Strong RSA Assumption.|Ronald Cramer,Victor Shoup|509|148|3|9
+8|Proof-Carrying Authentication.|Andrew W. Appel,Edward W. Felten|299|80|1|12
+9|Public-Key Cryptography and Password Protocols: The Multi-User Case.|Maurizio Kliban Boyarsky|100|24|2|0
+10|Password Hardening Based on Keystroke Dynamics.|Fabian Monrose,Michael K. Reiter,Susanne Wetzel|498|229|9|11
+11|Secure Protocol Transformation via "Expansion": From Two-Party to Groups.|Alain J. Mayer,Moti Yung|39|8|2|2
+12|A Compact and Fast Hybrid Signature Scheme for Multicast Packet Authentication.|Pankaj Rohatgi|211|44|1|2
+13|Scalable Multicast Security in Dynamic Groups.|Refik Molva,Alain Pannetrat|72|13|1|2
+14|Anonymous Authentication with Subset Queries (extended abstract).|Dan Boneh,Matthew K. Franklin|55|11|2|0
+15|Efficient Private Bidding and Auctions with an Oblivious Third Party.|Christian Cachin|326|99|1|0
+16|Using Smartcards to Secure a Personalized Gambling Device.|William Aiello,Aviel D. Rubin,Martin Strauss|13|2|3|0
+17|Efficient Verifiable Encryption (and Fair Exchange) of Digital Signatures.|Giuseppe Ateniese|196|64|0|5

@@ -1,0 +1,52 @@
+51
+1|Machine Learning, Proceedings of the Seventh International Conference on Machine Learning, Austin, Texas, USA, June 21-23, 1990.|Bruce W. Porter,Raymond J. Mooney|n/a
+2|Knowledge Acquisition from Examples using Maximal Representation Learning.|S. Arunkumar,S. Yegneshwar|n/a
+3|KBG : A Knowledge Based Generalizer.|Gilles Bisson|n/a
+4|Performance Analysis of a Probabilistic Inductive Learning System.|Keith C. C. Chan,Andrew K. C. Wong|n/a
+5|A Comparative Study of ID3 and Backpropagation for English Text-to-Speech Mapping.|Thomas G. Dietterich,Hermann Hild,Ghulum Bakiri|99|10|0|7
+6|Learning from Data with Bounded Inconsistency.|Haym Hirsh|n/a
+7|Conceptual Set Covering: Improving Fit-And-Split Algorithms.|Carl Myers Kadie|n/a
+8|Incremental Learning of Rules and Meta-rules.|Marc Schoenauer,Michèle Sebag|19|2|0|4
+9|An Incremental Method for Finding Multivariate Splits for Decision Trees.|Paul E. Utgoff,Carla E. Brodley|n/a
+10|Incremental Induction of Topologically Minimal Trees.|Walter Van de Velde|44|6|0|0
+11|A Rational Analysis of Categorization.|John R. Anderson,Michael Matessa|57|9|0|3
+12|Search Control, Utility, and Concept Induction.|Brian M. Carlson,Jerry B. Weinberg,Douglas H. Fisher|11|0|0|1
+13|Graph Clustering and Model Learning by Data Compression.|Jakub Segen|31|5|0|1
+14|An Analysis of Representation Shift in Concept Learning.|William W. Cohen|14|2|0|0
+15|Learning Procedures by Environment-Driven Constructive Induction.|David V. Hume|5|0|0|0
+16|Beyond Inversion of Resolution.|Céline Rouveirol,Jean-Francois Puget|63|5|0|5
+17|Genetic Programming.|Hugo de Garis|n/a
+18|Improving the Performance of Genetic Algorithms in Automated Discovery of Parameters.|Nagesh Kadaba,Kendall E. Nygard|23|3|0|0
+19|Using Genetic Algorithms to Learn Disjunctive Rules from Examples.|Andrew McCallum,Kent A. Spackman|40|4|0|0
+20|Newboole: A Fast GBML System.|Pierre Bonelli,Alexandre Parodi,Sandip Sen,Stewart W. Wilson|100|9|0|5
+21|Learning Functions in k-DNF from Reinforcement.|Leslie Pack Kaelbling|12|1|0|1
+22|Is Learning Rate a Good Performance Criterion for Learning?|Claude Sammut,James Cribb|25|1|0|0
+23|Active Perception and Reinforcement Learning.|Steven D. Whitehead,Dana H. Ballard|226|19|0|10
+24|Learning Plans for Competitive Domains.|Susan L. Epstein|22|3|0|9
+25|Explanations of Empirically Derived Reactive Plans.|Diana F. Gordon,John J. Grefenstette|n/a
+26|Learning and Enforcement: Stabilizing Environments to Facilitate Activity.|Kristian J. Hammond|n/a
+27|Simulation-Assisted Learning by Competition: Effects of Noise Differences Between Training Model and Target Environment.|Connie Loggia Ramsey,John J. Grefenstette,Alan C. Schultz|n/a
+28|Integrated Architectures for Learning, Planning, and Reacting Based on Approximating Dynamic Programming.|Richard S. Sutton|n/a
+29|Reducing Real-world Failures of Approximate Explanation-based Rules.|Scott W. Bennett|n/a
+30|Correcting and Extending Domain Knowledge using Outside Guidance.|John E. Laird,Michael Hucka,Eric S. Yager,Christopher M. Tuck|n/a
+31|Acquisition of Dynamic Control Knowledge for a Robotic Manipulator.|Andrew W. Moore|71|5|0|5
+32|Feature Extraction and Clustering of Tactile Impressions with Connectionist Models.|Marcus Thint,Paul P. Wang|5|1|0|2
+33|Generalizing the Order of Goals as an Approach to Generalizing Number.|Henrik Boström|n/a
+34|Learning Approximate Control Rules of High Utility.|William W. Cohen|n/a
+35|Applying Abstraction and Simplification to Learn in Intractable Domains.|Nicholas S. Flann|n/a
+36|Explanation-Based Learning with Incomplete Theories: A Three-step Approach.|Jean Genest,Stan Matwin,Boris Plante|n/a
+37|Using Abductive Recovery of Failed Proofs for Problem Solving by Analogy.|Yves Kodratoff|11|0|0|1
+38|Issues in the Design of Operator Composition Systems.|Steven Minton|n/a
+39|Incremental Learning of Explanation Patterns and Their Indices.|Ashwin Ram|14|2|0|7
+40|Integrated Learning in a real Domain.|Francesco Bergadano,Attilio Giordana,Lorenza Saitta,Davide De Marchi,Filippo Brancadori|9|0|0|2
+41|Incremental Version-Space Merging.|Haym Hirsh|90|10|0|12
+42|Average Case Analysis of Conjunctive Learning Algorithms.|Michael J. Pazzani,Wendy Sarrett|21|3|0|1
+43|A Framework for Multi-Paradigmatic Learning.|Bernard Silver,William J. Frawley,Glenn A. Iba,John Vittal,Kelly Bradford|25|1|0|3
+44|An Integrated Framework of Inducing Rules from Examples.|Yihua Wu,Shulin Wang,Qing Zhou|2|0|0|0
+45|A General Method for Learning Idiosyncratic Grammars.|Jill Fain Lehman|n/a
+46|A Comparison of Learning Techniques in Second Language Learning.|Steven L. Lytinen,Carol E. Moon|6|0|0|0
+47|Learning String Patterns and Tree Patterns from Examples.|Ker-I Ko,Assaf Marron,Wen-Guey Tzeng|30|2|0|1
+48|Learning with Discrete Multi-Valued Neurons.|Zoran Obradovic,Ian Parberry|24|3|0|4
+49|The General Utility Problem in Machine Learning.|Lawrence B. Holder|26|1|0|1
+50|A Robust Approach to Numeric Discovery.|Bernd Nordhausen,Pat Langley|20|3|0|1
+51|More Results on the Complexity of Knowledge Base Refinement: Belief Networks.|Marco Valtorta|6|1|0|2

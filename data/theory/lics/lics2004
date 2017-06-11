@@ -1,0 +1,48 @@
+47
+1|19th IEEE Symposium on Logic in Computer Science (LICS 2004), 14-17 July 2004, Turku, Finland, Proceedings.|n/a
+2|Model Checking Synchronized Products of Infinite Transition Systems.|Stefan Wöhrle,Wolfgang Thomas|26|12|0|5
+3|Model Checking Probabilistic Pushdown Automata.|Javier Esparza,Antonín Kucera,Richard Mayr|136|65|0|30
+4|Spi Calculus Translated to ?--Calculus Preserving May-Tests.|Michael Baldamus,Joachim Parrow,Björn Victor|20|6|0|2
+5|Transition Invariants.|Andreas Podelski,Andrey Rybalchenko|252|158|0|34
+6|Automatic Structures: Richness and Limitations.|Bakhadyr Khoussainov,André Nies,Sasha Rubin,Frank Stephan|94|48|0|18
+7|On the Language Inclusion Problem for Timed Automata: Closing a Decidability Gap.|Joël Ouaknine,James Worrell|75|32|0|9
+8|Vector Addition Tree Automata.|Philippe de Groote,Bruno Guillaume,Sylvain Salvati|46|26|0|1
+9|Testing, Optimizaton, and Games.|Mihalis Yannakakis|n/a
+10|Proving Termination Assertions in Dynamic Logics.|Daniel Leivant|3|0|0|1
+11|Deciding Quantifier-Free Presburger Formulas Using Parameterized Solution Bounds.|Sanjit A. Seshia,Randal E. Bryant|51|14|0|8
+12|On the Automata Size for Presburger Arithmetic.|Felix Klaedtke|42|9|0|2
+13|From Automata to Formulas: Convex Integer Polyhedra.|Louis Latour|19|2|0|4
+14|Feasible Proofs and Computations: Partnership and Fusion.|Alexander A. Razborov|0|0|0|0
+15|A Sequent Calculus for Nominal Logic.|Murdoch Gabbay,James Cheney|54|19|0|15
+16|Nominal Games and Full Abstraction for the Nu-Calculus.|Samson Abramsky,Dan R. Ghica,Andrzej S. Murawski,C.-H. Luke Ong,Ian D. B. Stark|76|38|0|20
+17|Games with Secure Equilibria.|Krishnendu Chatterjee,Thomas A. Henzinger,Marcin Jurdzinski|36|30|0|6
+18|Three-Valued Abstractions of Games: Uncertainty, but with Precision.|Luca de Alfaro,Patrice Godefroid,Radha Jagadeesan|60|22|0|4
+19|Proof Nets and Boolean Circuits.|Kazushige Terui|36|24|0|1
+20|An Arithmetical Hierarchy of the Law of Excluded Middle and Related Principles.|Yohji Akama,Stefano Berardi,Susumu Hayashi,Ulrich Kohlenbach|61|40|0|20
+21|The Omega Rule is II_2^0-Hard in the lambda beta -Calculus.|Benedetto Intrigila,Richard Statman|n/a
+22|On the Geometry of Interaction for Classical Logic.|Carsten Führmann,David J. Pym|33|6|0|5
+23|Beyond Image-Finiteness: Labelled Transition Systems as a Stone Space.|Michael Huth|4|0|0|4
+24|First-Order Definable Retraction Problems for Posets and Reflexive Graph.|Víctor Dalmau,Andrei A. Krokhin,Benoit Larose|14|2|0|7
+25|Parametric Limits.|Brian P. Dunphy,Uday S. Reddy|n/a
+26|Self-Adjusting Computation.|Robert Harper|1|1|0|0
+27|The Strength of Replacement in Weak Arithmetic.|Stephen A. Cook,Neil Thapen|25|9|0|7
+28|Light Types for Polynomial Time Computation in Lambda-Calculus.|Patrick Baillot,Kazushige Terui|71|24|0|11
+29|The Sensible Graph Theories of Lambda Calculus.|Antonio Bucciarelli,Antonino Salibra|25|5|0|16
+30|A Symmetric Modal Lambda Calculus for Distributed Computing.|Tom Murphy VII,Karl Crary,Robert Harper,Frank Pfenning|123|65|0|2
+31|Bisimulation: From The Origins to Today.|Davide Sangiorgi|28|10|0|0
+32|Congruence for SOS with Data.|Mohammad Reza Mousavi,Michel A. Reniers,Jan Friso Groote|28|7|0|9
+33|Towards Imperative Modules: Reasoning about Invariants and Sharing of Mutable State.|David A. Naumann,Michael Barnett|54|10|0|25
+34|A Computational Interpretation of Open Induction.|Ulrich Berger|35|25|0|7
+35|The Existence of Finite Abstractions for Branching Time Model Checking.|Dennis Dams,Kedar S. Namjoshi|63|18|0|2
+36|Multi-Clock Timed Networks.|Parosh Aziz Abdulla,Johann Deneux,Pritha Mahata|32|23|0|12
+37|A Landscape with Games in the Backgroun.|Igor Walukiewicz|n/a
+38|An Algebraic Approach to the Complexity of Propositional Circumscription.|Gustav Nordh,Peter Jonsson|11|4|0|2
+39|VTC circ: A Second-Order Theory for TCcirc.|Phuong Nguyen,Stephen A. Cook|n/a
+40|Model-Checking Problems as a Basis for Parameterized Intractability.|Jörg Flum,Martin Grohe|28|6|0|9
+41|A Second-Order Theory for NL.|Stephen A. Cook,Antonina Kolokolova|9|2|0|2
+42|High-Level Methods for Quantum Computation and Information.|Samson Abramsky|31|12|0|6
+43|A Categorical Semantics of Quantum Protocols.|Samson Abramsky,Bob Coecke|502|310|0|88
+44|Semantics of a Sequential Language for Exact Real-Number Computation.|José Raymundo Marcial-Romero,Martín Hötzel Escardó|47|23|0|4
+45|The Succinctness of First-Order Logic on Linear Orders.|Martin Grohe,Nicole Schweikardt|37|23|0|3
+46|A Graph of a Relational Structure and Constraint Satisfaction Problems.|Andrei A. Bulatov|57|16|0|5
+47|Equicardinality on Linear Orders.|Kerkko Luosto|n/a

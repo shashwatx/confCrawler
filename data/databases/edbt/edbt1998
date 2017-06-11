@@ -1,0 +1,35 @@
+34
+1|Advances in Database Technology - EDBT'98, 6th International Conference on Extending Database Technology, Valencia, Spain, March 23-27, 1998, Proceedings.|Hans-Jörg Schek,Fèlix Saltor,Isidro Ramos,Gustavo Alonso|0|0|0|0
+2|On the Ubiquity of Information Services and the Absence of Guaranteed Service Quality.|Gerhard Weikum|2|0|0|0
+3|Processing Complex Similarity Queries with Distance-Based Access Methods.|Paolo Ciaccia,Marco Patella,Pavel Zezula|65|6|1|19
+4|HySpirit - A Probabilistic Inference Engine for Hypermedia Retrieval in Large Databases.|Norbert Fuhr,Thomas Rölleke|67|8|0|12
+5|Towards Optimal Indexing for Segment Databases.|Elisa Bertino,Barbara Catania,Boris Shidlovsky|11|5|0|2
+6|Fusion Queries over Internet Databases.|Ramana Yerneni,Yannis Papakonstantinou,Serge Abiteboul,Hector Garcia-Molina|32|1|0|1
+7|Efficient Queries over Web Views.|Giansalvatore Mecca,Alberto O. Mendelzon,Paolo Merialdo|34|1|0|11
+8|Equal Time for Data on the Internet with WebSemantics.|George A. Mihaila,Louiqa Raschid,Anthony Tomasic|30|1|0|11
+9|Pincer Search: A New Algorithm for Discovering the Maximum Frequent Set.|Dao-I Lin,Zvi M. Kedem|428|114|2|2
+10|Multivariate and Multidimensional OLAP.|Shin-Chung Shao|8|0|1|0
+11|Incremental Generalization for Mining in a Data Warehousing Environment.|Martin Ester,Rüdiger Wittmann|24|9|0|1
+12|Modelling Large Scale OLAP Scenarios.|Wolfgang Lehner|229|52|27|5
+13|Discovery-Driven Exploration of OLAP Data Cubes.|Sunita Sarawagi,Rakesh Agrawal,Nimrod Megiddo|373|140|12|4
+14|A Logical Approach to Multidimensional Databases.|Luca Cabibbo,Riccardo Torlone|340|74|1|18
+15|Efficient Dynamic Programming Algorithms for Ordering Expensive Joins and Selections.|Wolfgang Scheufele,Guido Moerkotte|24|1|3|4
+16|Improving the Query Performance of High-Dimensional Index Structures by Bulk-Load Operations.|Stefan Berchtold,Christian Böhm,Hans-Peter Kriegel|109|19|0|11
+17|An Evaluation of Alternative Disk Scheduling Techniques in Support of Variable Bit Rate Continuous Media.|Jaber Al-Marri,Shahram Ghandeharizadeh|16|0|0|1
+18|Buffer Management in Distributed Database Systems: A Data Mining Based Approach.|Ling Feng,Hongjun Lu,Y. C. Tay,Anthony K. H. Tung|5|0|0|3
+19|Complex Aggregation at Multiple Granularities.|Kenneth A. Ross,Divesh Srivastava,Damianos Chatziantoniou|60|8|5|15
+20|Parallel Processing of Multiple Aggregate Queries on Shared-Nothing Multiprocessors.|Takeshi Fukuda,Hirofumi Matsuzawa|3|0|0|0
+21|Minimizing Detail Data in Data Warehouses.|Michael O. Akinde,Ole Guttorm Jensen,Michael H. Böhlen|20|4|0|0
+22|Static Management of Integrity in Object-Oriented Databases: Design and Implementation.|Véronique Benzaken,Xavier Schaefer|18|1|0|1
+23|OCB: A Generic Benchmark to Evaluate the Performances of Object-Oriented Database Systems.|Jérôme Darmont,Bertrand Petit,Michel Schneider|16|2|0|8
+24|A Path Removing Technique for Detecting Trigger Termination.|Sin Yeung Lee,Tok Wang Ling|33|7|0|3
+25|The CVS Algorithm for View Synchronization in Evolvable Large-Scale Information Systems.|Anisoara Nica,Amy J. Lee,Elke A. Rundensteiner|73|12|0|32
+26|Integration of Incremental View Maintenance into Query Optimizers.|Dimitra Vista|10|3|0|0
+27|Maintaining Temporal Views over Non-Temporal Information Sources for Data Warehousing.|Jun Yang,Jennifer Widom|83|13|6|5
+28|Referential Actions: From Logical Semantics to Implementation.|Bertram Ludäscher,Wolfgang May|2|0|0|1
+29|A Conceptual Model and a Tool Environment for Developing More Scalable, Dynamic, and Customizable Web Applications.|Piero Fraternali,Paolo Paolini|182|14|0|18
+30|Design and Maintenance of Data-Intensive Web Sites.|Paolo Atzeni,Giansalvatore Mecca,Paolo Merialdo|254|12|0|16
+31|Dynamic and Structured Presentation of Database Contents on the Web.|Motomichi Toyama,Takuhiro Nagafuji|23|0|0|2
+32|Mining Process Models from Workflow Logs.|Rakesh Agrawal,Dimitrios Gunopulos,Frank Leymann|863|438|6|9
+33|A Scheme to Specify and Implement Ad-Hoc Recovery in Workflow Systems.|Jian Tang,San-Yih Hwang|22|2|0|2
+34|Exploring Heterogeneous Biological Databases: Tools and Applications.|Anthony Kosky,I-Min A. Chen,Victor M. Markowitz,Ernest Szeto|21|0|0|3

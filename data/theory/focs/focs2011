@@ -1,0 +1,90 @@
+89
+1|IEEE 52nd Annual Symposium on Foundations of Computer Science, FOCS 2011, Palm Springs, CA, USA, October 22-25, 2011.|Rafail Ostrovsky|n/a
+2|The Promise of Differential Privacy: A Tutorial on Algorithmic Techniques.|Cynthia Dwork|20|20|0|0
+3|Green Computing Algorithmics.|Kirk Pruhs|10|9|0|0
+4|Computing Blindfolded: New Developments in Fully Homomorphic Encryption.|Vinod Vaikuntanathan|77|74|0|3
+5|Min-max Graph Partitioning and Small Set Expansion.|Nikhil Bansal,Uriel Feige,Robert Krauthgamer,Konstantin Makarychev,Viswanath Nagarajan,Joseph Naor,Roy Schwartz|30|29|0|2
+6|The Graph Minor Algorithm with Parity Conditions.|Ken-ichi Kawarabayashi,Bruce A. Reed,Paul Wollan|15|15|0|4
+7|Separator Theorems for Minor-Free and Shallow Minor-Free Graphs with Applications.|Christian Wulff-Nilsen|11|11|0|1
+8|A Constant Factor Approximation Algorithm for Unsplittable Flow on Paths.|Paul S. Bonsma,Jens Schulz,Andreas Wiese|44|40|0|11
+9|How Bad is Forming Your Own Opinion?|David Bindel,Jon M. Kleinberg,Sigal Oren|47|44|0|1
+10|The Complexity of the Homotopy Method, Equilibrium Selection, and Lemke-Howson Solutions.|Paul W. Goldberg,Christos H. Papadimitriou,Rahul Savani|24|24|0|7
+11|Welfare and Profit Maximization with Production Costs.|Avrim Blum,Anupam Gupta,Yishay Mansour,Ankit Sharma|15|15|0|2
+12|Mechanism Design with Set-Theoretic Beliefs.|Jing Chen,Silvio Micali|9|9|0|4
+13|Efficient Fully Homomorphic Encryption from (Standard) LWE.|Zvika Brakerski,Vinod Vaikuntanathan|550|526|2|31
+14|Fully Homomorphic Encryption without Squashing Using Depth-3 Arithmetic Circuits.|Craig Gentry,Shai Halevi|142|139|7|8
+15|Coin Flipping with Constant Bias Implies One-Way Functions.|Iftach Haitner,Eran Omri|7|6|0|2
+16|How to Garble Arithmetic Circuits.|Benny Applebaum,Yuval Ishai,Eyal Kushilevitz|31|28|0|5
+17|Sharp Mixing Time Bounds for Sampling Random Surfaces.|Pietro Caputo,Fabio Martinelli,Fabio Lucio Toninelli|1|1|0|0
+18|Improved Mixing Condition on the Grid for Counting and Sampling Independent Sets.|Ricardo Restrepo,Jinwoo Shin,Prasad Tetali,Eric Vigoda,Linji Yang|25|25|0|1
+19|Solving Connectivity Problems Parameterized by Treewidth in Single Exponential Time.|Marek Cygan,Jesper Nederlof,Marcin Pilipczuk,Michal Pilipczuk,Johan M. M. van Rooij,Jakub Onufry Wojtaszczyk|136|132|0|30
+20|The Minimum k-way Cut of Bounded Size is Fixed-Parameter Tractable.|Ken-ichi Kawarabayashi,Mikkel Thorup|24|23|0|2
+21|Multiple-Source Multiple-Sink Maximum Flow in Directed Planar Graphs in Near-Linear Time.|Glencora Borradaile,Philip N. Klein,Shay Mozes,Yahav Nussbaum,Christian Wulff-Nilsen|41|37|0|13
+22|Minimum Weight Cycles and Triangles: Equivalences and Algorithms.|Liam Roditty,Virginia Vassilevska Williams|12|11|0|2
+23|Graph Connectivities, Network Coding, and Expander Graphs.|Ho Yee Cheung,Lap Chi Lau,Kai Man Leung|18|18|0|4
+24|Maximum Edge-Disjoint Paths in Planar Graphs with Congestion 2.|Loïc Seguin-Charbonneau,F. Bruce Shepherd|14|13|0|0
+25|Online Node-Weighted Steiner Tree and Related Problems.|Joseph Naor,Debmalya Panigrahi,Mohit Singh|12|11|0|5
+26|Extractors for Circuit Sources.|Emanuele Viola|25|23|0|4
+27|Randomness Buys Depth for Approximate Counting.|Emanuele Viola|14|14|0|2
+28|Pseudorandomness for Read-Once Formulas.|Andrej Bogdanov,Periklis A. Papakonstantinou,Andrew Wan|14|14|0|2
+29|Dispersers for Affine Sources with Sub-polynomial Entropy.|Ronen Shaltiel|20|18|0|3
+30|A Small PRG for Polynomial Threshold Functions of Gaussians.|Daniel M. Kane|12|12|0|6
+31|A Polylogarithmic-Competitive Algorithm for the k-Server Problem.|Nikhil Bansal,Niv Buchbinder,Aleksander Madry,Joseph Naor|36|36|0|3
+32|3-SAT Faster and Simpler - Unique-SAT Bounds for PPSZ Hold in General.|Timon Hertli|51|50|0|3
+33|On the Power of Adaptivity in Sparse Recovery.|Piotr Indyk,Eric Price,David P. Woodruff|33|33|0|8
+34|(1 + eps)-Approximate Sparse Recovery.|Eric Price,David P. Woodruff|7|7|0|2
+35|Near Optimal Column-Based Matrix Reconstruction.|Christos Boutsidis,Petros Drineas,Malik Magdon-Ismail|99|95|0|26
+36|Near Linear Lower Bound for Dimension Reduction in L1.|Alexandr Andoni,Moses Charikar,Ofer Neiman,Huy L. Nguyen|16|16|0|0
+37|The 1D Area Law and the Complexity of Quantum States: A Combinatorial Approach.|Dorit Aharonov,Itai Arad,Zeph Landau,Umesh V. Vazirani|13|13|0|3
+38|On the Complexity of Commuting Local Hamiltonians, and Tight Conditions for Topological Order in Such Systems.|Dorit Aharonov,Lior Eldar|26|25|0|2
+39|Quantum Query Complexity of State Conversion.|Troy Lee,Rajat Mittal,Ben W. Reichardt,Robert Spalek,Mario Szegedy|77|76|0|7
+40|Optimal Bounds for Quantum Bit Commitment.|André Chailloux,Iordanis Kerenidis|26|24|0|7
+41|Streaming Algorithms via Precision Sampling.|Alexandr Andoni,Robert Krauthgamer,Krzysztof Onak|32|31|0|3
+42|Steiner Shallow-Light Trees are Exponentially Lighter than Spanning Ones.|Michael Elkin,Shay Solomon|9|9|0|2
+43|Fully Dynamic Maximal Matching in O (log n) Update Time.|Surender Baswana,Manoj Gupta,Sandeep Sen|21|19|0|3
+44|Which Networks are Least Susceptible to Cascading Failures?|Lawrence E. Blume,David A. Easley,Jon M. Kleinberg,Robert Kleinberg,Éva Tardos|49|48|0|3
+45|The Power of Linear Estimators.|Gregory Valiant,Paul Valiant|39|37|0|11
+46|An Algebraic Proof of a Robust Social Choice Impossibility Theorem.|Dvir Falik,Ehud Friedgut|4|4|0|0
+47|Planar Graphs: Random Walks and Bipartiteness Testing.|Artur Czumaj,Morteza Monemizadeh,Krzysztof Onak,Christian Sohler|5|5|0|0
+48|Testing and Reconstruction of Lipschitz Functions with Applications to Data Privacy.|Madhav Jha,Sofya Raskhodnikova|40|37|0|14
+49|How to Play Unique Games Against a Semi-random Adversary: Study of Semi-random Models of Unique Games.|Alexandra Kolla,Konstantin Makarychev,Yury Makarychev|19|19|0|9
+50|The Grothendieck Constant is Strictly Smaller than Krivine's Bound.|Mark Braverman,Konstantin Makarychev,Yury Makarychev,Assaf Naor|37|37|0|1
+51|A Parallel Approximation Algorithm for Positive Semidefinite Programming.|Rahul Jain,Penghui Yao|19|19|0|3
+52|Rounding Semidefinite Programming Hierarchies via Global Correlation.|Boaz Barak,Prasad Raghavendra,David Steurer|68|64|0|11
+53|Lasserre Hierarchy, Higher Eigenvalues, and Approximation Schemes for Graph Partitioning and Quadratic Integer Programming with PSD Objectives.|Venkatesan Guruswami,Ali Kemal Sinop|59|56|0|10
+54|Markov Layout.|Flavio Chierichetti,Ravi Kumar,Prabhakar Raghavan|n/a
+55|Limitations of Randomized Mechanisms for Combinatorial Auctions.|Shaddin Dughmi,Jan Vondrák|34|32|0|2
+56|Bayesian Combinatorial Auctions: Expanding Single Buyer Mechanisms to Many Buyers.|Saeed Alaei|61|61|0|6
+57|Extreme-Value Theorems for Optimal Multidimensional Pricing.|Yang Cai,Constantinos Daskalakis|44|43|0|15
+58|Efficient Computation of Approximate Pure Nash Equilibria in Congestion Games.|Ioannis Caragiannis,Angelo Fanelli,Nick Gravin,Alexander Skopalik|21|21|0|6
+59|On Range Searching in the Group Model and Combinatorial Discrepancy.|Kasper Green Larsen|18|16|0|3
+60|A Randomized Rounding Approach to the Traveling Salesman Problem.|Shayan Oveis Gharan,Amin Saberi,Mohit Singh|78|73|0|8
+61|Approximating Graphic TSP by Matchings.|Tobias Mömke,Ola Svensson|76|73|0|4
+62|A Unified Continuous Greedy Algorithm for Submodular Maximization.|Moran Feldman,Joseph Naor,Roy Schwartz|53|52|0|10
+63|Enumerative Lattice Algorithms in any Norm Via M-ellipsoid Coverings.|Daniel Dadush,Chris Peikert,Santosh Vempala|41|41|0|14
+64|A Nearly-m log n Time Solver for SDD Linear Systems.|Ioannis Koutis,Gary L. Miller,Richard Peng|96|93|0|17
+65|Balls and Bins: Smaller Hash Families and Faster Evaluation.|L. Elisa Celis,Omer Reingold,Gil Segev,Udi Wieder|19|19|0|5
+66|Lexicographic Products and the Power of Non-linear Network Coding.|Anna Blasiak,Robert Kleinberg,Eyal Lubetzky|37|35|0|3
+67|Quadratic Goldreich-Levin Theorems.|Madhur Tulsiani,Julia Wolf|n/a
+68|Optimal Testing of Multivariate Polynomials over Small Prime Fields.|Elad Haramaty,Amir Shpilka,Madhu Sudan|16|16|0|6
+69|Tight Lower Bounds for 2-query LCCs over Finite Fields.|Arnab Bhattacharyya,Zeev Dvir,Amir Shpilka,Shubhangi Saraf|12|12|0|5
+70|A Two Prover One Round Game with Strong Soundness.|Subhash Khot,Muli Safra|10|10|0|4
+71|The Randomness Complexity of Parallel Repetition.|Kai-Min Chung,Rafael Pass|5|5|0|4
+72|Privacy Amplification and Non-malleable Extractors via Character Sums.|Yevgeniy Dodis,Xin Li,Trevor D. Wooley,David Zuckerman|28|28|0|10
+73|Stateless Cryptographic Protocols.|Vipul Goyal,Hemanta K. Maji|16|16|0|2
+74|Storing Secrets on Continually Leaky Devices.|Yevgeniy Dodis,Allison B. Lewko,Brent Waters,Daniel Wichs|45|42|0|2
+75|Medium Access Using Queues.|Devavrat Shah,Jinwoo Shin,Prasad Tetali|27|26|0|6
+76|Local Distributed Decision.|Pierre Fraigniaud,Amos Korman,David Peleg|40|40|0|19
+77|The Complexity of Renaming.|Dan Alistarh,James Aspnes,Seth Gilbert,Rachid Guerraoui|23|23|0|9
+78|Mutual Exclusion with O(log^2 Log n) Amortized Work.|Michael A. Bender,Seth Gilbert|21|21|0|2
+79|Algorithms for the Generalized Sorting Problem.|Zhiyi Huang,Sampath Kannan,Sanjeev Khanna|7|7|0|0
+80|Information Equals Amortized Communication.|Mark Braverman,Anup Rao|92|87|0|21
+81|Delays and the Capacity of Continuous-Time Channels.|Sanjeev Khanna,Madhu Sudan|2|2|0|0
+82|Efficient and Explicit Coding for Interactive Communication.|Ran Gelles,Ankur Moitra,Amit Sahai|41|40|0|11
+83|Efficient Reconstruction of Random Multilinear Formulas.|Ankit Gupta,Neeraj Kayal,Satyanarayana V. Lokam|5|5|0|2
+84|New Extension of the Weil Bound for Character Sums with Applications to Coding.|Tali Kaufman,Shachar Lovett|17|16|0|4
+85|Maximizing Expected Utility for Stochastic Combinatorial Optimization Problems.|Jian Li,Amol Deshpande|12|11|0|4
+86|Approximation Algorithms for Submodular Multiway Partition.|Chandra Chekuri,Alina Ene|28|26|0|9
+87|An FPTAS for #Knapsack and Related Counting Problems.|Parikshit Gopalan,Adam Klivans,Raghu Meka,Daniel Stefankovic,Santosh Vempala,Eric Vigoda|24|23|0|1
+88|Approximation Algorithms for Correlated Knapsacks and Non-martingale Bandits.|Anupam Gupta,Ravishankar Krishnaswamy,Marco Molinaro,R. Ravi|36|36|0|5
+89|Evolution with Recombination.|Varun Kanade|n/a

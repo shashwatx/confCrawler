@@ -1,0 +1,48 @@
+47
+1|Architectural Support for Programming Languages and Operating Systems, ASPLOS '13, Houston, TX, USA - March 16 - 20, 2013.|Vivek Sarkar,Rastislav Bodík|n/a
+2|GPUDet: a deterministic GPU architecture.|Hadi Jooybar,Wilson W. L. Fung,Mike O'Connor,Joseph Devietti,Tor M. Aamodt|n/a
+3|DeNovoND: efficient hardware support for disciplined non-determinism.|Hyojin Sung,Rakesh Komuravelli,Sarita V. Adve|25|23|0|8
+4|Parallelizing data race detection.|Benjamin Wester,David Devecsery,Peter M. Chen,Jason Flinn,Satish Narayanasamy|17|16|0|0
+5|Cooperative empirical failure avoidance for multithreaded programs.|Brandon Lucia,Luis Ceze|19|17|0|3
+6|Parasol and GreenSwitch: managing datacenters powered by renewable energy.|Iñigo Goiri,William A. Katsak,Kien Le,Thu D. Nguyen,Ricardo Bianchini|87|84|0|10
+7|Power containers: an OS facility for fine-grained power and energy management on multicore servers.|Kai Shen,Arrvindh Shriraman,Sandhya Dwarkadas,Xiao Zhang,Zhuan Chen|32|28|0|0
+8|Paragon: QoS-aware scheduling for heterogeneous datacenters.|Christina Delimitrou,Christos Kozyrakis|123|113|0|13
+9|ReQoS: reactive static/dynamic compilation for QoS in warehouse scale computers.|Lingjia Tang,Jason Mars,Wei Wang,Tanima Dey,Mary Lou Soffa|21|20|0|9
+10|Production-run software failure diagnosis via hardware performance counters.|Joy Arulraj,Po-Chun Chang,Guoliang Jin,Shan Lu|15|14|0|4
+11|ConAir: featherweight concurrency bug recovery via single-threaded idempotent execution.|Wei Zhang,Marc de Kruijf,Ang Li,Shan Lu,Karthikeyan Sankaralingam|12|11|0|2
+12|Transparent mutable replay for multicore debugging and patch validation.|Nicolas Viennot,Siddharth Nair,Jason Nieh|19|18|0|1
+13|Using likely invariants for automated software fault localization.|Swarup Kumar Sahoo,John Criswell,Chase Geigle,Vikram S. Adve|25|23|0|0
+14|The rise of the expert amateur: DIY culture and the evolution of computer science.|Eric Paulos|4|4|0|0
+15|Computational sprinting on a hardware/software testbed.|Arun Raghavan,Laurel Emurian,Lei Shao,Marios C. Papaefthymiou,Kevin P. Pipe,Thomas F. Wenisch,Milo M. K. Martin|22|20|0|5
+16|DeAliaser: alias speculation using atomic region support.|Wonsun Ahn,Yuelu Duan,Josep Torrellas|4|4|0|1
+17|Regularities considered harmful: forcing randomness to memory accesses to reduce row buffer conflicts for multi-core, multi-bank systems.|Heekwon Park,Seungjae Baek,Jongmoo Choi,Donghee Lee,Sam H. Noh|22|22|0|3
+18|Cyrus: unintrusive application-level record-replay for replay parallelism.|Nima Honarmand,Nathan Dautenhahn,Josep Torrellas,Samuel T. King,Gilles Pokam,Cristiano Pereira|16|15|0|5
+19|Why you should care about quantile regression.|Augusto Born de Oliveira,Sebastian Fischmeister,Amer Diwan,Matthias Hauswirth,Peter F. Sweeney|10|10|0|0
+20|STABILIZER: statistically sound performance evaluation.|Charlie Curtsinger,Emery D. Berger|31|30|0|3
+21|A study of the scalability of stop-the-world garbage collectors on multicores.|Lokesh Gidra,Gaël Thomas,Julien Sopena,Marc Shapiro|19|18|0|4
+22|Discerning the dominant out-of-order performance advantage: is it speculation or dynamism?|Daniel S. McFarlin,Charles Tucker,Craig B. Zilles|18|18|0|1
+23|Iago attacks: why the system call API is a bad untrusted RPC interface.|Stephen Checkoway,Hovav Shacham|38|35|0|0
+24|InkTag: secure applications on an untrusted operating system.|Owen S. Hofmann,Sangman Kim,Alan M. Dunn,Michael Z. Lee,Emmett Witchel|70|68|2|2
+25|Safe and automatic live update for operating systems.|Cristiano Giuffrida,Anton Kuijsten,Andrew S. Tanenbaum|23|21|0|9
+26|Verifying security invariants in ExpressOS.|Haohui Mai,Edgar Pek,Hui Xue,Samuel Talmadge King,Parthasarathy Madhusudan|26|26|0|9
+27|Stochastic superoptimization.|Eric Schkufza,Rahul Sharma,Alex Aiken|61|52|0|7
+28|Automated repair of binary and assembly programs for cooperating embedded devices.|Eric M. Schulte,Jonathan DiLorenzo,Westley Weimer,Stephanie Forrest|15|14|0|4
+29|Verifying systems rules using rule-directed symbolic execution.|Heming Cui,Gang Hu,Jingyue Wu,Junfeng Yang|26|24|0|2
+30|HOTL: a higher order theory of locality.|Xiaoya Xiang,Chen Ding,Hao Luo,Bin Bao|29|26|1|14
+31|To hardware prefetch or not to prefetch?: a virtualized environment study and core binding approach.|Hui Kang,Jennifer L. Wong|8|8|0|1
+32|Demand-based coordinated scheduling for SMP VMs.|Hwanju Kim,Sangwook Kim,Jinkyu Jeong,Joonwon Lee,Seungryoul Maeng|24|21|0|1
+33|Traffic management: a holistic approach to memory placement on NUMA systems.|Mohammad Dashti,Alexandra Fedorova,Justin R. Funston,Fabien Gaud,Renaud Lachaize,Baptiste Lepers,Vivien Quéma,Mark Roth|80|75|0|4
+34|OWL: cooperative thread array aware scheduling techniques for improving GPGPU performance.|Adwait Jog,Onur Kayiran,Nachiappan Chidambaram Nachiappan,Asit K. Mishra,Mahmut T. Kandemir,Onur Mutlu,Ravishankar Iyer,Chita R. Das|92|86|0|9
+35|Improving GPGPU concurrency with elastic kernels.|Sreepathi Pai,Matthew J. Thazhuthaveetil,R. Govindarajan|35|34|0|1
+36|Practical automatic loop specialization.|Taewook Oh,Hanjun Kim,Nick P. Johnson,Jae W. Lee,David I. August|5|5|0|1
+37|Portable performance on heterogeneous architectures.|Phitchaya Mangpo Phothilimthana,Jason Ansel,Jonathan Ragan-Kelley,Saman P. Amarasinghe|43|38|2|2
+38|Efficient virtualization on embedded power architecture® platforms.|Aashish Mittal,Dushyant Bansal,Sorav Bansal,Varun Sethi|2|1|0|0
+39|Research directions for 21st century computer systems: asplos 2013 panel.|Mark D. Hill|0|0|0|0
+40|Unikernels: library operating systems for the cloud.|Anil Madhavapeddy,Richard Mortier,Charalampos Rotsos,David J. Scott,Balraj Singh,Thomas Gazagnaire,Steven Smith,Steven Hand,Jon Crowcroft|73|70|0|14
+41|Fine-grained fault tolerance using device checkpoints.|Asim Kadav,Matthew J. Renzelmann,Michael M. Swift|29|29|0|1
+42|GPUfs: integrating a file system with GPUs.|Mark Silberstein,Bryan Ford,Idit Keidar,Emmett Witchel|35|34|0|4
+43|DDOS: taming nondeterminism in distributed systems.|Nicholas Hunt,Tom Bergan,Luis Ceze,Steven D. Gribble|21|20|0|1
+44|TSO_ATOMICITY: efficient hardware primitive for TSO-preserving region optimizations.|Cheng Wang,Youfeng Wu|0|0|0|0
+45|Wait-n-GoTM: improving HTM performance by serializing cyclic dependencies.|Syed Ali Raza Jafri,Gwendolyn Voskuilen,T. N. Vijaykumar|9|8|0|1
+46|Volition: scalable and precise sequential consistency violation detection.|Xuehai Qian,Josep Torrellas,Benjamin Sahelices,Depei Qian|14|12|0|7
+47|Hardware support for fine-grained event-driven computation in Anton 2.|J. P. Grossman,Jeffrey Kuskin,Joseph A. Bank,Michael Theobald,Ron O. Dror,Douglas J. Ierardi,Richard H. Larson,U. Ben Schafer,Brian Towles,Cliff Young,David E. Shaw|9|9|0|3

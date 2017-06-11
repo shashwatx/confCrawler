@@ -1,0 +1,57 @@
+56
+1|21st IEEE International Symposium on High Performance Computer Architecture, HPCA 2015, Burlingame, CA, USA, February 7-11, 2015.|n/a
+2|Exploring architectural heterogeneity in intelligent vision systems.|Nandhini Chandramoorthy,Giuseppe Tagliavini,Kevin M. Irick,Antonio Pullini,Siddharth Advani,Sulaiman Al Habsi,Matthew Cotter,John Sampson,Vijaykrishnan Narayanan,Luca Benini|4|3|0|0
+3|BeBoP: A cost effective predictor infrastructure for superscalar value prediction.|Arthur Perais,André Seznec|3|3|0|1
+4|VSR sort: A novel vectorised sorting algorithm & architecture extensions for future microprocessors.|Timothy Hayes,Oscar Palomar,Osman S. Unsal,Adrián Cristal,Mateo Valero|2|1|0|2
+5|Increasing multicore system efficiency through intelligent bandwidth shifting.|Víctor Jiménez,Alper Buyuktosunoglu,Pradip Bose,Francis P. O'Connell,Francisco J. Cazorla,Mateo Valero|0|0|0|0
+6|Exploiting compressed block size as an indicator of future reuse.|Gennady Pekhimenko,Tyler Huberty,Rui Cai,Onur Mutlu,Phillip B. Gibbons,Michael A. Kozuch,Todd C. Mowry|13|9|0|3
+7|Talus: A simple way to remove cliffs in cache performance.|Nathan Beckmann,Daniel Sanchez|9|5|0|7
+8|Coordinated static and dynamic cache bypassing for GPUs.|Xiaolong Xie,Yun Liang,Yu Wang,Guangyu Sun,Tao Wang|6|5|0|3
+9|Priority-based cache allocation in throughput processors.|Dong Li,Minsoo Rhu,Daniel R. Johnson,Mike O'Connor,Mattan Erez,Doug Burger,Donald S. Fussell,Stephen W. Redder|3|3|0|0
+10|Bamboo ECC: Strong, safe, and flexible codes for reliable computer memory.|Jungrae Kim,Michael Sullivan,Mattan Erez|5|5|0|3
+11|XChange: A market-based approach to scalable dynamic multi-resource allocation in multicore architectures.|Xiaodong Wang,Jose F. Martinez|7|5|0|0
+12|Heterogeneous memory architectures: A HW/SW approach for mixing die-stacked and off-package memories.|Mitesh R. Meswani,Sergey Blagodurov,David Roberts,John Slice,Mike Ignatowski,Gabriel H. Loh|12|10|0|1
+13|Event-based scheduling for energy-efficient QoS (eQoS) in mobile Web applications.|Yuhao Zhu,Matthew Halpern,Vijay Janapa Reddi|13|11|0|2
+14|Domain knowledge based energy management in handhelds.|Nachiappan Chidambaram Nachiappan,Praveen Yedlapalli,Niranjan Soundararajan,Anand Sivasubramaniam,Mahmut T. Kandemir,Ravishankar Iyer,Chita R. Das|5|4|0|0
+15|GPU voltage noise: Characterization and hierarchical smoothing of spatial and temporal voltage noise interference in GPU architectures.|Jingwen Leng,Yazhou Zu,Vijay Janapa Reddi|3|2|0|1
+16|Mascar: Speeding up GPU warps by reducing memory pitstops.|Ankit Sethia,Davoud Anoushe Jamshidi,Scott A. Mahlke|6|6|0|3
+17|Hierarchical private/shared classification: The key to simple and efficient coherence for clustered cache hierarchies.|Alberto Ros,Mahdad Davari,Stefanos Kaxiras|2|2|0|2
+18|Flask coherence: A morphable hybrid coherence protocol to balance energy, performance and scalability.|Lucia G. Menezo,Valentin Puente,José-Ángel Gregorio|1|1|0|0
+19|Prediction-based superpage-friendly TLB designs.|Misel-Myrto Papadopoulou,Xin Tong,André Seznec,Andreas Moshovos|5|3|0|0
+20|Supporting superpages in non-contiguous physical memory.|Yu Du,Miao Zhou,Bruce R. Childers,Daniel Mossé,Rami G. Melhem|6|5|0|2
+21|Paying to save: Reducing cost of colocation data center via rewards.|Mohammad A. Islam,A. Hasan Mahmud,Shaolei Ren,Xiaorui Wang|3|3|0|2
+22|Octopus-Man: QoS-driven task management for heterogeneous multicores in warehouse-scale computers.|Vinicius Petrucci,Michael A. Laurenzano,John Doherty,Yunqi Zhang,Daniel Mossé,Jason Mars,Lingjia Tang|4|3|0|2
+23|Understanding the virtualization "Tax" of scale-out pass-through GPUs in GaaS clouds: An empirical study.|Ming Liu,Tao Li,Neo Jia,Andy Currid,Vladimir Troy|0|0|0|0
+24|Adrenaline: Pinpointing and reining in tail queries with quick voltage boosting.|Chang-Hong Hsu,Yunqi Zhang,Michael A. Laurenzano,David Meisner,Thomas F. Wenisch,Jason Mars,Lingjia Tang,Ronald G. Dreslinski|8|7|0|2
+25|NDA: Near-DRAM acceleration architecture leveraging commodity DRAM devices and standard memory modules.|Amin Farmahini Farahani,Jung Ho Ahn,Katherine Morrow,Nam Sung Kim|11|10|0|1
+26|Alloy: Parallel-serial memory channel architecture for single-chip heterogeneous processor systems.|Hao Wang,Chang-Jae Park,Gyungsu Byun,Jung Ho Ahn,Nam Sung Kim|0|0|0|0
+27|Reducing read latency of phase change memory via early read and Turbo Read.|Prashant J. Nair,Chia-Chen Chou,Bipin Rajendran,Moinuddin K. Qureshi|2|2|0|1
+28|CAFO: Cost aware flip optimization for asymmetric memories.|Rakan Maddah,Seyed Mohammad Seyedzadeh,Rami G. Melhem|3|2|0|1
+29|Understanding GPU errors on large-scale HPC systems and the implications for system design and operation.|Devesh Tiwari,Saurabh Gupta,James H. Rogers,Don Maxwell,Paolo Rech,Sudharshan S. Vazhkudai,Daniel A. G. de Oliveira,Dave Londo,Nathan DeBardeleben,Philippe Olivier Alexandre Navaux,Luigi Carro,Arthur S. Bland|6|6|0|3
+30|High performing cache hierarchies for server workloads: Relaxing inclusion to capture the latency benefits of exclusive caches.|Aamer Jaleel,Joseph Nuzman,Adrian Moga,Simon C. Steely Jr.,Joel S. Emer|0|0|0|0
+31|Unlocking bandwidth for GPUs in CC-NUMA systems.|Neha Agarwal,David W. Nellans,Mike O'Connor,Stephen W. Keckler,Thomas F. Wenisch|6|4|0|2
+32|Understanding idle behavior and power gating mechanisms in the context of modern benchmarks on CPU-GPU Integrated systems.|Manish Arora,Srilatha Manne,Indrani Paul,Nuwan Jayasena,Dean M. Tullsen|1|1|0|1
+33|Power punch: Towards non-blocking power-gating of NoC routers.|Lizhong Chen,Di Zhu,Massoud Pedram,Timothy Mark Pinkston|5|4|0|0
+34|Augmenting low-latency HPC network with free-space optical links.|Ikki Fujiwara,Michihiro Koibuchi,Tomoya Ozaki,Hiroki Matsutani,Henri Casanova|0|0|0|0
+35|SCOC: High-radix switches made of bufferless clos networks.|Nikolaos Chrysos,Cyriel Minkenberg,Mark Rudquist,Claude Basso,Brian Vanderpool|1|1|0|0
+36|Overcoming far-end congestion in large-scale networks.|Jongmin Won,Gwangsun Kim,John Kim,Ted Jiang,Mike Parker,Steve Scott|2|2|0|0
+37|iPatch: Intelligent fault patching to improve energy efficiency.|David J. Palframan,Nam Sung Kim,Mikko H. Lipasti|1|0|0|0
+38|Balancing reliability, cost, and performance tradeoffs with FreeFault.|Dong-Wan Kim,Mattan Erez|1|1|0|1
+39|FTXen: Making hypervisor resilient to hardware faults on relaxed cores.|Xinxin Jin,Soyeon Park,Tianwei Sheng,Rishan Chen,Zhiyong Shan,Yuanyuan Zhou|0|0|0|0
+40|Correction prediction: Reducing error correction latency for on-chip memories.|Henry Duwe,Xun Jian,Rakesh Kumar|2|2|0|0
+41|Overcoming the challenges of crossbar resistive memory architectures.|Cong Xu,Dimin Niu,Naveen Muralimanohar,Rajeev Balasubramonian,Tao Zhang,Shimeng Yu,Yuan Xie|13|11|0|3
+42|Adaptive-latency DRAM: Optimizing DRAM timing for the common-case.|Donghyuk Lee,Yoongu Kim,Gennady Pekhimenko,Samira Manabi Khan,Vivek Seshadri,Kevin Kai-Wei Chang,Onur Mutlu|20|14|0|7
+43|CiDRA: A cache-inspired DRAM resilience architecture.|Young Hoon Son,Sukhan Lee,O. Seongil,Sanghyuk Kwon,Nam Sung Kim,Jung Ho Ahn|0|0|0|0
+44|Tag tables.|Sean Franey,Mikko H. Lipasti|n/a
+45|Architecture exploration for ambient energy harvesting nonvolatile processors.|Kaisheng Ma,Yang Zheng,Shuangchen Li,Karthik Swaminathan,Xueqing Li,Yongpan Liu,Jack Sampson,Yuan Xie,Vijaykrishnan Narayanan|8|8|0|4
+46|Scaling distributed cache hierarchies through computation and data co-scheduling.|Nathan Beckmann,Po-An Tsai,Daniel Sanchez|6|4|0|5
+47|Data retention in MLC NAND flash memory: Characterization, optimization, and recovery.|Yu Cai,Yixin Luo,Erich F. Haratsch,Ken Mai,Onur Mutlu|0|0|0|0
+48|GPGPU performance and power estimation using machine learning.|Gene Y. Wu,Joseph L. Greathouse,Alexander Lyashevsky,Nuwan Jayasena,Derek Chiou|5|4|0|1
+49|Quantifying sources of error in McPAT and potential impacts on architectural studies.|Sam Likun Xi,Hans M. Jacobson,Pradip Bose,Gu-Yeon Wei,David M. Brooks|6|6|0|0
+50|Studying the impact of multicore processor scaling on directory techniques via reuse distance analysis.|Minshu Zhao,Donald Yeung|0|0|0|0
+51|SNNAP: Approximate computing on programmable SoCs via neural acceleration.|Thierry Moreau,Mark Wyse,Jacob Nelson,Adrian Sampson,Hadi Esmaeilzadeh,Luis Ceze,Mark Oskin|19|15|0|2
+52|BRAINIAC: Bringing reliable accuracy into neurally-implemented approximate computing.|Beayna Grigorian,Nazanin Farahpour,Glenn Reinman|5|3|0|0
+53|Scalable communication architecture for network-attached accelerators.|Sarah Neuwirth,Dirk Frey,Mondrian Nuessle,Ulrich Brüning|3|3|0|2
+54|Understanding contention-based channels and using them for defense.|Casen Hunger,Mikhail Kazdagli,Ankit Singh Rawat,Alexandros G. Dimakis,Sriram Vishwanath,Mohit Tiwari|4|3|0|0
+55|Malware-aware processors: A framework for efficient online malware detection.|Meltem Ozsoy,Caleb Donovick,Iakov Gorelik,Nael B. Abu-Ghazaleh,Dmitry V. Ponomarev|3|2|0|1
+56|Run-time monitoring with adjustable overhead using dataflow-guided filtering.|Daniel Lo,Tao Chen,Mohamed Ismail,G. Edward Suh|0|0|0|0

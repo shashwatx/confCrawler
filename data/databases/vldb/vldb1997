@@ -1,0 +1,68 @@
+67
+1|VLDB'97, Proceedings of 23rd International Conference on Very Large Data Bases, August 25-29, 1997, Athens, Greece.|Matthias Jarke,Michael J. Carey,Klaus R. Dittrich,Frederick H. Lochovsky,Pericles Loucopoulos,Manfred A. Jeusfeld|n/a
+2|Innovation in Database Management: Computer Science vs. Engineering.|Kenneth R. Jacobs|0|0|0|0
+3|The Microsoft Repository.|Philip A. Bernstein,Brian Harry,Paul Sanders,David Shutt,Jason Zander|80|8|3|5
+4|Multidimensional Access Methods: Trees Have Grown Everywhere.|Timos K. Sellis,Nick Roussopoulos,Christos Faloutsos|52|9|0|0
+5|Incremental Organization for Data Recording and Warehousing.|H. V. Jagadish,P. P. S. Narayan,S. Seshadri,S. Sudarshan,Rama Kanneganti|68|26|4|0
+6|Multiple-View Self-Maintenance in Data Warehousing Environments.|Nam Huyn|139|14|6|1
+7|Recovering Information from Summary Data.|Christos Faloutsos,H. V. Jagadish,Nikolaos Sidiropoulos|78|5|0|2
+8|A Language for Manipulating Arrays.|Arunprasad P. Marathe,Kenneth Salem|58|15|0|5
+9|Implementing Abstract Objects with Inheritance in Datalogneg.|Hasan M. Jamil|26|3|0|6
+10|The Case for Enhanced Abstract Data Types.|Praveen Seshadri,Miron Livny,Raghu Ramakrishnan|102|5|0|6
+11|Integrating Reliable Memory in Databases.|Wee Teck Ng,Peter M. Chen|36|11|2|5
+12|Logical and Physical Versioning in Main Memory Databases.|Rajeev Rastogi,S. Seshadri,Philip Bohannon,Dennis W. Leinbaugh,Abraham Silberschatz,S. Sudarshan|43|8|4|4
+13|Using Versions in Update Transactions: Application to Integrity Checking.|François Llirbat,Eric Simon,Dimitri Tombroff|n/a
+14|A Foundation for Multi-dimensional Databases.|Marc Gyssens,Laks V. S. Lakshmanan|409|108|2|2
+15|Fast Computation of Sparse Datacubes.|Kenneth A. Ross,Divesh Srivastava|297|54|4|10
+16|Data Warehouse Configuration.|Dimitri Theodoratos,Timos K. Sellis|289|67|2|28
+17|Algorithms for Materialized View Design in Data Warehousing Environment.|Jian Yang,Kamalakar Karlapalem,Qing Li|366|124|2|24
+18|An Efficient Cost-Driven Index Selection Tool for Microsoft SQL Server.|Surajit Chaudhuri,Vivek R. Narasayya|366|130|33|60
+19|Materialized Views Selection in a Multidimensional Database.|Elena Baralis,Stefano Paraboschi,Ernest Teniente|446|105|6|2
+20|Efficient Construction of Regression Trees with Range and Region Splitting.|Yasuhiko Morimoto,Hiromu Ishii,Shinichi Morishita|16|4|0|3
+21|Parallel Algorithms for High-dimensional Similarity Joins for Data Mining Applications.|John C. Shafer,Rakesh Agrawal|n/a
+22|STING: A Statistical Information Grid Approach to Spatial Data Mining.|Wei Wang,Jiong Yang,Richard R. Muntz|1349|541|2|20
+23|Merging Ranks from Heterogeneous Internet Sources.|Luis Gravano,Hector Garcia-Molina|84|6|4|7
+24|To Weave the Web.|Paolo Atzeni,Giansalvatore Mecca,Paolo Merialdo|311|20|6|39
+25|Using Probabilistic Information in Data Integration.|Daniela Florescu,Daphne Koller,Alon Y. Levy|144|30|2|5
+26|On-Demand Data Elevation in Hierarchical Multimedia Storage Servers.|Peter Triantafillou,Thomas Papadakis|38|0|0|5
+27|Principles of Optimally Placing Data in Tertiary Storage Libraries.|Stavros Christodoulakis,Peter Triantafillou,Fenia Zioga|61|1|0|4
+28|Vertical Data Migration in Large Near-Line Document Archives Based on Markov-Chain Predictions.|Achim Kraiss,Gerhard Weikum|33|2|0|0
+29|Describing and Using Query Capabilities of Heterogeneous Sources.|Vasilis Vassalos,Yannis Papakonstantinou|138|13|0|15
+30|Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources.|Mary Tork Roth,Peter M. Schwarz|558|58|2|5
+31|Optimizing Queries Across Diverse Data Sources.|Laura M. Haas,Donald Kossmann,Edward L. Wimmers,Jun Yang|573|92|14|26
+32|Optimizing Queries with Universal Quantification in Object-Oriented and Object-Relational Databases.|Jens Claußen,Alfons Kemper,Guido Moerkotte,Klaus Peithner|37|6|0|7
+33|Parallel Query Scheduling and Optimization with Time- and Space-Shared Resources.|Minos N. Garofalakis,Yannis E. Ioannidis|88|31|2|2
+34|The Complexity of Transformation-Based Join Enumeration.|Arjan Pellenkoft,César A. Galindo-Legaria,Martin L. Kersten|58|12|1|5
+35|1-Safe Algorithms for Symmetric Site Configurations.|Rune Humborstad,Maitrayi Sabaratnam,Svein-Olaf Hvasshovd,Øystein Torbjørnsen|16|2|0|0
+36|Adaptive Data Broadcast in Hybrid Networks.|Konstantinos Stathatos,Nick Roussopoulos,John S. Baras|253|24|1|7
+37|Finding Data in the Neighborhood.|André Eickler,Alfons Kemper,Donald Kossmann|15|1|0|4
+38|A One-Pass Algorithm for Accurately Estimating Quantiles for Disk-Resident Data.|Khaled Alsabti,Sanjay Ranka,Vineet Singh|60|14|3|6
+39|Concurrent Garbage Collection in O2.|Marcin Skubiszewski,Patrick Valduriez|16|0|0|2
+40|Garbage Collection in Object Oriented Databases Using Transactional Cyclic Reference Counting.|Srinivas Ashwin,Prasan Roy,S. Seshadri,Abraham Silberschatz,S. Sudarshan|39|17|38|0
+41|Dynamic Memory Adjustment for External Mergesort.|Weiye Zhang,Per-Åke Larson|42|13|2|1
+42|Evaluation of Main Memory Join Algorithms for Joins with Set Comparison Join Predicates.|Sven Helmer,Guido Moerkotte|70|16|1|4
+43|Spatial Joins Using R-trees: Breadth-First Traversal with Global Optimizations.|Yun-Wu Huang,Ning Jing,Elke A. Rundensteiner|229|41|0|6
+44|A Generic Approach to Bulk Loading Multidimensional Index Structures.|Jochen Van den Bercken,Bernhard Seeger,Peter Widmayer|163|28|2|10
+45|A Region Splitting Strategy for Physical Database Design of Multidimensional File Organizations.|Jong-Hak Lee,Young-Koo Lee,Kyu-Young Whang,Il-Yeol Song|31|5|0|11
+46|M-tree: An Efficient Access Method for Similarity Search in Metric Spaces.|Paolo Ciaccia,Marco Patella,Pavel Zezula|n/a
+47|DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases.|Roy Goldman,Jennifer Widom|1704|392|26|13
+48|Using Taxonomy, Discriminants, and Signatures for Navigating in Text Databases.|Soumen Chakrabarti,Byron Dom,Rakesh Agrawal,Prabhakar Raghavan|160|38|2|8
+49|Towards an ODMG-Compliant Visual Object Query Language.|Manoj Chavda,Peter T. Wood|46|4|0|1
+50|Fast Incremental Maintenance of Approximate Histograms.|Phillip B. Gibbons,Yossi Matias,Viswanath Poosala|251|35|12|18
+51|Groupwise Processing of Relational Queries.|Damianos Chatziantoniou,Kenneth A. Ross|51|9|9|8
+52|Selectivity Estimation Without the Attribute Value Independence Assumption.|Viswanath Poosala,Yannis E. Ioannidis|481|132|23|13
+53|Effective Memory Use in a Media Server.|Edward Y. Chang,Hector Garcia-Molina|81|6|0|11
+54|Efficient User-Adaptable Similarity Search in Large Multimedia Databases.|Thomas Seidl,Hans-Peter Kriegel|215|41|1|25
+55|Resource Scheduling in Enhanced Pay-Per-View Continuous Media Databases.|Minos N. Garofalakis,Banu Özden,Abraham Silberschatz|24|3|6|5
+56|Integrating SQL Databases with Content-Specific Search Engines.|Stefan Deßloch,Nelson Mendonça Mattos|60|9|4|0
+57|Facilitating Multimedia Database Exploration through Visual Interfaces and Perpetual Query Reformulations.|Wen-Syan Li,K. Selçuk Candan,Kyoji Hirata,Yoshinori Hara|14|4|2|8
+58|Geo/Environmental and Medical Data Management in the RasDaMan System.|Peter Baumann,Paula Furtado,Roland Ritsch,Norbert Widmann|40|5|0|10
+59|GTE SuperPages: Using IR Techniques for Searching Complex Objects.|Steven D. Whitehead,Himanshu Sinha,Michael Murphy|1|0|0|0
+60|Data Manager for Evolvable Real-time Command and Control Systems.|Eric Hughes,Roman Ginis,Bhavani M. Thuraisingham,Peter C. Krupp,John A. Maurer|3|1|0|1
+61|Mining Insurance Data at Swiss Life.|Jörg-Uwe Kietz,Ulrich Reimer,Martin Staudt|12|3|0|0
+62|The Network as a Global Database: Challenges of Interoperability, Proactivity, Interactiveness, Legacy.|Peter C. Lockemann,Ulrike Kölsch,Arne Koschel,Ralf Kramer,Ralf Nikolai,Mechtild Wallrath,Hans-Dirk Walter|20|0|0|3
+63|Distributed Processing over Stand-alone Systems and Applications.|Gustavo Alonso,Claus Hagen,Hans-Jörg Schek,Markus Tresch|61|10|1|25
+64|Critical Database Technologies for High Energy Physics.|David M. Malon,Edward N. May|13|2|0|0
+65|Caprera: An Activity Framework for Transaction Processing on Wide-Area Networks.|Suresh Kumar,Eng-Kee Kwang,Divyakant Agrawal|2|0|0|0
+66|The Oracle Universal Server Buffer.|William Bridge,Ashok Joshi,M. Keihl,Tirthankar Lahiri,Juan Loaiza,N. MacNaughton|44|18|5|5
+67|Efficient Testing of High Performance Transaction Processing Systems.|D. Wildfogel,Ramana Yerneni|3|0|0|0

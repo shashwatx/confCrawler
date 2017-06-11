@@ -1,0 +1,44 @@
+43
+1|Proceedings of the 12th ACM Conference on Computer and Communications Security, CCS 2005, Alexandria, VA, USA, November 7-11, 2005.|Vijay Atluri,Catherine Meadows,Ari Juels|n/a
+2|Homeland security: cyber security R&D initiatives.|W. Douglas Maughan|0|0|0|0
+3|A modular correctness proof of IEEE 802.11i and TLS.|Changhua He,Mukund Sundararajan,Anupam Datta,Ante Derek,John C. Mitchell|115|58|1|21
+4|Deciding security of protocols against off-line guessing attacks.|Mathieu Baudet|126|80|0|6
+5|Secrecy types for a simulatable cryptographic library.|Peeter Laud|74|24|0|4
+6|Preventing attribute information leakage in automated trust negotiation.|Keith Irwin,Ting Yu|54|25|0|0
+7|Automated trust negotiation using cryptographic credentials.|Jiangtao Li,Ninghui Li,William H. Winsborough|167|97|0|5
+8|Secure collaboration in mediator-free environments.|Mohamed Shehab,Elisa Bertino,Arif Ghafoor|66|28|0|4
+9|Applications of secure electronic voting to automated privacy-preserving troubleshooting.|Qiang Huang,David Jao,Helen J. Wang|18|7|0|0
+10|Tracking anonymous peer-to-peer VoIP calls on the internet.|Xinyuan Wang,Shiping Chen,Sushil Jajodia|234|142|1|15
+11|Untraceable RFID tags via insubvertible encryption.|Giuseppe Ateniese,Jan Camenisch,Breno de Medeiros|173|74|3|15
+12|Obfuscated databases and group privacy.|Arvind Narayanan,Vitaly Shmatikov|47|23|1|2
+13|New approaches for deniable authentication.|Mario Di Raimondo,Rosario Gennaro|82|44|1|2
+14|On authenticated computing and RSA-based authentication.|Jean-Pierre Seifert|37|20|0|2
+15|Aggregated path authentication for efficient BGP security.|Meiyuan Zhao,Sean W. Smith,David M. Nicol|107|52|0|5
+16|Improving Brumley and Boneh timing attack on unprotected SSL implementations.|Onur Aciiçmez,Werner Schindler,Çetin Kaya Koç|54|31|0|9
+17|CPOL: high-performance policy evaluation.|Kevin Borders,Xin Zhao,Atul Prakash|46|26|1|2
+18|Understanding and developing role-based administrative models.|Jason Crampton|55|33|1|4
+19|PeerAccess: a logic for distributed authorization.|Marianne Winslett,Charles C. Zhang,Piero A. Bonatti|75|28|1|21
+20|Modeling insider attacks on group key-exchange protocols.|Jonathan Katz,Ji Sun Shin|168|95|2|2
+21|Dynamic and efficient key management for access hierarchies.|Mikhail J. Atallah,Keith B. Frikken,Marina Blanton|381|307|8|9
+22|A model and architecture for pseudo-random generation with applications to /dev/random.|Boaz Barak,Shai Halevi|84|59|1|2
+23|Fast and automated generation of attack signatures: a basis for building self-protecting servers.|Zhenkai Liang,R. Sekar|188|75|11|9
+24|Automatic diagnosis and response to memory corruption vulnerabilities.|Jun Xu,Peng Ning,Chongkyung Kil,Yan Zhai,Christopher Bookholt|103|44|6|5
+25|On deriving unknown vulnerabilities from zero-day polymorphic and metamorphic worm exploits.|Jedidiah R. Crandall,Zhendong Su,Shyhtsun Felix Wu,Frederic T. Chong|174|62|7|9
+26|Countering DoS attacks with stateless multipath overlays.|Angelos Stavrou,Angelos D. Keromytis|75|41|0|11
+27|A framework for concrete reputation-systems with applications to history-based access control.|Karl Krukow,Mogens Nielsen,Vladimiro Sassone|52|15|0|3
+28|An auctioning reputation system based on anomaly.|Shai Rubin,Mihai Christodorescu,Vinod Ganapathy,Jonathon T. Giffin,Louis Kruger,Hao Wang,Nicholas Kidd|60|35|2|1
+29|On the cost-ineffectiveness of redundancy in commercial P2P computing.|Matthew Yurkewych,Brian Neil Levine,Arnold L. Rosenberg|41|23|0|3
+30|Securing publish-subscribe overlay services with EventGuard.|Mudhakar Srivatsa,Ling Liu|96|47|1|6
+31|Password authenticated key exchange using hidden smooth subgroups.|Craig Gentry,Philip D. MacKenzie,Zulfikar Ramzan|34|15|0|1
+32|Proxy re-signatures: new definitions, algorithms, and applications.|Giuseppe Ateniese,Susan Hohenberger|127|98|4|2
+33|Direct chosen ciphertext security from identity-based techniques.|Xavier Boyen,Qixiang Mei,Brent Waters|281|173|1|10
+34|Automatic placement of authorization hooks in the linux security modules framework.|Vinod Ganapathy,Trent Jaeger,Somesh Jha|41|24|0|7
+35|Control-flow integrity.|Martín Abadi,Mihai Budiu,Úlfar Erlingsson,Jay Ligatti|630|441|17|8
+36|Preventing format-string attacks via automatic and efficient dynamic checking.|Michael F. Ringenburg,Dan Grossman|43|17|0|0
+37|Fast dictionary attacks on passwords using time-space tradeoff.|Arvind Narayanan,Vitaly Shmatikov|215|173|1|0
+38|Keyboard acoustic emanations revisited.|Li Zhuang,Feng Zhou,J. D. Tygar|188|125|2|1
+39|Misbehaving TCP receivers can cause internet-wide congestion collapse.|Rob Sherwood,Bobby Bhattacharjee,Ryan Braud|50|33|2|3
+40|Exploiting open functionality in SMS-capable cellular networks.|William Enck,Patrick Traynor,Patrick McDaniel,Thomas F. La Porta|213|116|3|8
+41|Security market: incentives for disclosure of vulnerabilities.|Peter P. Swire|1|0|0|0
+42|Identity-based encryption from algorithm to enterprise deployment.|Guido Appenzeller|0|0|0|0
+43|Biometrics hit the mainstream: an analysis of security and privacy implications.|Vance Bjorn|1|1|0|0

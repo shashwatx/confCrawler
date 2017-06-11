@@ -1,0 +1,81 @@
+80
+1|Proceedings of the Seventh International Conference on Data Engineering, April 8-12, 1991, Kobe, Japan.|n/a
+2|A Framework for Schema Updates In An Object-Oriented Database System.|Roberto Zicari|225|17|0|12
+3|How Spacey Can They Get? Space Overhead for Storage and Indexing with Object-Oriented Databases.|Mary Jane Willshire|11|0|0|0
+4|An Association Algebra For Processing Object-Oriented Databases.|Mingsen Guo,Stanley Y. W. Su,Herman Lam|40|3|0|10
+5|Efficiently Maintaining Availability in the Presence of Partitionings in Distributed Systems.|Peter Triantafillou,David J. Taylor|13|0|1|6
+6|Processing of Multiple Queries in Distributed Databases.|A. Y. Lu,Phillip C.-Y. Sheu|n/a
+7|Determining Beneficial Semijoins for a Join Sequence in Distributed Query Processing.|Ming-Syan Chen,Philip S. Yu|13|0|0|1
+8|Interactive Manipulation of Object-oriented Views.|Jean-Claude Mamou,Claudia Bauzer Medeiros|26|3|0|5
+9|Implementation and Evaluation of a Browsing Algorithm for Design Applications.|Yosihisa Udagawa|1|0|0|0
+10|A Knowledge-Based Subsystem for a Natural Language Interface to a Database that Predicts and Explains Query Failures.|Stefan W. Joseph,Romas Aleliunas|9|9|0|0
+11|Wait Depth Limited Concurrency Control.|Peter A. Franaszek,John T. Robinson,Alexander Thomasian|20|1|0|2
+12|Efficient Implementation Techniques For the Time Index.|Ramez Elmasri,Yeong-Joon Kim,Gene T. J. Wuu|37|3|0|6
+13|Voting with Regenerable Volatile Witnesses.|Jehan-François Pâris,Darrell D. E. Long|17|2|0|2
+14|Modeling Uncertainty in Databases.|Fereidoon Sadri|44|12|0|12
+15|Natural Joins in Relational Databases with Indefinite and Maybe Information.|Ken-Chih Liu,Lu Zhang|5|0|0|1
+16|Meta-reasoning: An Incremental Compilation Approach.|Abdul Sattar,Randy Goebel|1|0|1|0
+17|DOT: A Spatial Access Method Using Fractals.|Christos Faloutsos,Yi Rong|70|11|1|3
+18|An Indexing Technique for Object-Oriented Databases.|Elisa Bertino|72|7|0|7
+19|An Efficient Hybrid Join Algorithm: A DB2 Prototype.|Josephine M. Cheng,Donald J. Haderle,Richard Hedges,Balakrishna R. Iyer,Ted Messinger,C. Mohan,Yun Wang|66|15|10|0
+20|Navigation and Schema Transformations for Producing Nested Relations form Networks.|Mizuho Iwaihara,Tetsuya Furukawa,Yahiko Kambayashi|1|0|0|0
+21|Parallel Computation of Direct Transitive Closures.|Yan-Nong Huang,Jean-Pierre Cheiney|12|1|0|3
+22|An Effective Algorithm for Parallelizing Hash Joins in the Presence of Data Skew.|Joel L. Wolf,Daniel M. Dias,Philip S. Yu,John Turek|95|11|0|5
+23|Scheduling Batch Transactions on Shared-Nothing Parallel Database Machines: Effects of Concurrency and Parallelism.|Tadashi Ohmori,Masaru Kitsuregawa,Hidehiko Tanaka|5|2|0|0
+24|The Software Architecture of a Parallel Processing System for Advanced Database Applications.|Yasushi Kiyoki,Takahiro Kurosawa,Kazuhiko Kato,Takashi Masuda|13|2|0|6
+25|Semantic Query Reformulation in Deductive Databases.|Sang-goo Lee,Lawrence J. Henschen,Ghassan Z. Qadah|26|2|2|2
+26|Design Overview of the Aditi Deductive Database System.|Jayen Vaghani,Kotagiri Ramamohanarao,David B. Kemp,Zoltan Somogyi,Peter J. Stuckey|60|3|0|8
+27|A Rule-Based Query Rewriter in an Extensible DBMS.|Béatrice Finance,Georges Gardarin|29|5|5|1
+28|Constraint-Based Reasoning in Deductive Databases.|Jiawei Han|22|0|0|10
+29|Locking Granularity in Multiprocessor Database Systems.|Sivarama P. Dandamudi,Siu-Lun Au|6|1|0|2
+30|Request Order Linked List (ROLL): A Concurrency Control Object for Centralized and Distributed Database Systems.|William Perrizo|21|2|2|8
+31|Unilateral Commit: A New Paradigm for Reliable Distributed Transaction Processing.|Meichun Hsu,Abraham Silberschatz|37|1|1|1
+32|Atomic Commitment for Integrated Database Systems.|Peter Muth,Thomas C. Rakow|70|2|6|7
+33|Data Sharing in a Large Heterogeneous Environment.|Rafael Alonso,Daniel Barbará,Steve Chon|18|0|0|0
+34|On Serializability of Multidatabase Transactions Through Forced Local Conflicts.|Dimitrios Georgakopoulos,Marek Rusinkiewicz,Amit P. Sheth|205|6|0|13
+35|An Efficient Semantic Query Optimization Algorithm.|HweeHwa Pang,Hongjun Lu,Beng Chin Ooi|32|3|1|0
+36|Query Processing Algorithms for Temporal Intersection Joins.|Himawan Gunadhi,Arie Segev|67|3|0|0
+37|Optimization of Generalized Transitive Closure Queries.|Shaul Dar,Rakesh Agrawal,H. V. Jagadish|21|1|1|5
+38|Maintaining Quasi Serializability in Multidatabase Systems.|Weimin Du,Ahmed K. Elmagarmid,Won Kim|39|0|0|5
+39|Object-Centered Constraints.|Lois M. L. Delcambre,Billy B. L. Lim,Susan Darling Urban|7|0|1|0
+40|Interval Assignment for Periodic Transactions in Real-Time Database Systems.|Hidenori Nakazato,Kwei-Jay Lin|3|0|0|1
+41|Compiling a Rule Database Program into a C/SQL Application.|Gerald Kiernan,Christophe de Maindreville|7|0|1|2
+42|Using Type Inference and Induced Rules to Provide Intensional Answers.|Wesley W. Chu,Rei-Chi Lee,Qiming Chen|49|2|0|8
+43|Evaluation of Rule Processing Strategies In Expert Databases.|Arie Segev,J. Leon Zhao|4|1|0|1
+44|Performance Evaluation of Functional Disk System (FDS-R2).|Masaru Kitsuregawa,Miyuki Nakano,Mikio Takagi|4|0|0|1
+45|Performance Limits of Two-Phase Locking.|Alexander Thomasian|47|3|0|9
+46|Performance Measurement of Some Main Memory Database Recovery Algorithms.|Vijay Kumar,Albert Burger|12|1|0|2
+47|Object Versioning in Ode.|Rakesh Agrawal,S. Buroff,Narain H. Gehani,Dennis Shasha|75|5|3|2
+48|Query Pairs as Hypertext Links.|Katsumi Tanaka,N. Nishikawa,S. Hirayama,K. Nanba|37|0|0|0
+49|Perfect Hashing Functions for Hardware Applications.|M. V. Ramakrishna,G. A. Portice|8|3|2|0
+50|An Object-Oriented Query Processor that Produces Monotonically Improving Approximate Answers.|Susan V. Vrbsky,Jane W.-S. Liu|20|2|1|4
+51|Divide and Conquer: A Basis for Augmenting a Conventional Query Optimizer with Multiple Query Proceesing Capabilities.|Sharma Chakravarthy|27|2|0|6
+52|Domain Vector Accelerator for Relational Operations.|William Perrizo,James Gustafson,Daniel Thureen,David Wenberg|n/a
+53|Spatial Join Indices.|Doron Rotem|145|8|3|1
+54|Optimal Buffer Partitioning for the Nested Block Join Algorithm.|Joel L. Wolf,Balakrishna R. Iyer,Krishna R. Pattipati,John Turek|19|3|0|7
+55|Spatial Database Indices for Large Extended Objects.|Oliver Günther,Hartmut Noltemeier|26|6|1|2
+56|Object/Behavior Diagrams.|Gerti Kappel,Michael Schrefl|153|25|0|45
+57|Modeling Transition.|Gary Hall,Ranabir Gupta|n/a
+58|ESQL: A Query Language for the Relation Model Supporting Image Domains.|Rafiul Ahad,Amit Basu|10|0|0|0
+59|Preserving and Generating Objects in the LIVING IN A LATTICE Rule Language.|Andreas Heuer,Peter Sander|24|1|0|10
+60|The Architecture of BrAID: A System for Bridging AI/DB Systems.|Amit P. Sheth,Anthony B. O'Hare|13|0|0|1
+61|Inferential Modelling Technique for Constructing Second Generation Knowledge Based Systems.|Christine W. Chan,Raymond E. Jennings,Paitoon Tontiwachwuthikul|7|1|0|5
+62|Performance Characteristics of Protocols With Ordered Shared Locks.|Divyakant Agrawal,Amr El Abbadi,A. E. Lang|24|1|0|5
+63|Read Optimized File System Designs: A Performance Evaluation.|Margo I. Seltzer,Michael Stonebraker|21|1|2|2
+64|A Methodology for Benchmarking Distributed Database Management Systems.|Cyril U. Orji|4|0|0|0
+65|Optimal Buffer Allocation in A Multi-Query Environment.|Philip S. Yu,Douglas W. Cornell|14|0|1|1
+66|Conflict-driven Load Control for the Avoidance of Data-Contention Thrashing.|Axel Mönkeberg,Gerhard Weikum|40|9|0|7
+67|Incremental Restart.|Eliezer Levy|n/a
+68|Precomputation in a Complex Object Environment.|Anant Jhingran|26|2|0|0
+69|Exploiting Parallelism in the Implementation of Agna, a Persistent Programming System.|Rishiyur S. Nikhil,Michael L. Heytens|3|2|0|1
+70|An Evaluation Framework for Algebraic Object-Oriented Query Models.|Li Yu,Sylvia L. Osborn|39|2|0|1
+71|A Polymorphic Relational Algebra and Its Optimization.|David Eichmann,D. Alton|3|1|0|1
+72|Real Time Retrieval and Update of Materialized Transitive Closure.|Keh-Chang Guh,Chengyu Sun,Clement T. Yu|6|1|0|3
+73|Execution Plan Balancing.|Marguerite C. Murphy,Ming-Chien Shan|26|0|0|1
+74|A Semantic Integrity Framework: Set Restrictions for Semantic Groupings.|Elke A. Rundensteiner,Lubomir Bic,Jonathan P. Gilbert,Meng-Lai Yin|5|1|0|3
+75|ARIES-RRH: Restricted Repeating of History in the ARIES Transaction Recovery Method.|C. Mohan,Hamid Pirahesh|65|29|6|15
+76|An Analysis Technique for Transitive Closure Algorithms: A Statistical Approach.|Sumit Ganguly,Ravi Krishnamurthy,Abraham Silberschatz|14|2|0|0
+77|Lk: A Language for Capturing Real World Meanings of the Stored Data.|D. G. Shin|8|0|0|6
+78|First-Order Logic Reducible Programs.|Ke Wang,Li-Yan Yuan|0|0|0|0
+79|Distributed Query Optimization by One-Shot Fixed-Precision Semi-Join Execution.|Chihping Wang,Victor O. K. Li,Arbee L. P. Chen|14|1|0|1
+80|Problems Underlying the Use of Referential Integrity in Relational Database Management Systems.|Victor M. Markowitz|13|2|0|8

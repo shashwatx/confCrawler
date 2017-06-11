@@ -1,0 +1,85 @@
+84
+1|The Average-Case Complexity of Determining the Majority.|Laurent Alonso,Edward M. Reingold,René Schott|52|11|0|9
+2|Amplification by Read-Once Formulas.|Moshe Dubiner,Uri Zwick|22|4|0|1
+3|Minimal Ascending and Descending Tree Automata.|Maurice Nivat,Andreas Podelski|29|3|0|1
+4|Threshold Computation and Cryptographic Security.|Yenjo Han,Lane A. Hemaspaandra,Thomas Thierauf|64|26|0|8
+5|Disjoint Rooted Spanning Trees with Small Depths in deBruijn and Kautz Graphs.|Zhengyu Ge,S. Louis Hakimi|47|28|0|0
+6|Polynomial-Time Recognition of 2-Monotonic Positive Boolean Functions Given by an Oracle.|Endre Boros,Peter L. Hammer,Toshihide Ibaraki,Kazuhiko Kawakami|74|16|0|16
+7|Navigating in Unfamiliar Geometric Terrain.|Avrim Blum,Prabhakar Raghavan,Baruch Schieber|149|14|0|7
+8|Finite Moniods: From Word to Circuit Evaluation.|Martin Beaudry,Pierre McKenzie,Pierre Péladeau,Denis Thérien|27|10|0|6
+9|Parallelism Always Helps.|Louis Mak|7|2|0|0
+10|Stochastic Scheduling with Variable Profile and Precedence Constraints.|Zhen Liu,Eric Sanlaville|16|2|0|3
+11|On Bounded Queries and Approximation.|Richard Chang,William I. Gasarch,Carsten Lund|17|2|0|7
+12|Sparse Dynamic Programming for Evolutionary-Tree Comparison.|Martin Farach,Mikkel Thorup|45|4|0|3
+13|Total Protection of Analytic-Invariant Information in Cross-Tabulated Tables.|Ming-Yang Kao|n/a
+14|On the Power of Real Turing Machines Over Binary Inputs.|Felipe Cucker,Dima Grigoriev|44|4|0|10
+15|An NC Algorithm for Minimum Cuts.|David R. Karger,Rajeev Motwani|16|2|0|4
+16|Resource Bounds for Self-Stabilizing Message-Driven Protocols.|Shlomi Dolev,Amos Israeli,Shlomo Moran|48|5|0|16
+17|Fail-Stop Signatures.|Torben P. Pedersen,Birgit Pfitzmann|72|15|1|5
+18|The Vertex-Disjoint Menger Problem in Planar Graphs.|Heike Ripphausen-Lipa,Dorothea Wagner,Karsten Weihe|24|5|0|4
+19|Randomized Distributed Edge Coloring via an Extension of the Chernoff-Hoeffding Bounds.|Alessandro Panconesi,Aravind Srinivasan|157|92|0|12
+20|Random Debaters and the Hardness of Approximating Stochastic Functions.|Anne Condon,Joan Feigenbaum,Carsten Lund,Peter W. Shor|74|14|0|10
+21|A Strip-Packing Algorithm with Absolute Performance Bound 2.|A. Steinberg|186|68|0|0
+22|Approximating Shortest Superstrings.|Shang-Hua Teng,F. Frances Yao|67|10|0|0
+23|Bounded Concurrent Time-Stamping.|Danny Dolev,Nir Shavit|64|18|1|7
+24|Probe Order Backtracking.|Paul Walton Purdom Jr.,G. Neil Haven|21|3|0|0
+25|Ambivalent Data Structures for Dynamic 2-Edge-Connectivity and k Smallest Spanning Trees.|Greg N. Frederickson|109|5|0|2
+26|Time-Adaptive Algorithms for Synchronization.|Rajeev Alur,Hagit Attiya,Gadi Taubenfeld|41|3|0|8
+27|A First-Order Isomorphism Theorem.|Eric Allender,José L. Balcázar,Neil Immerman|24|8|0|10
+28|General Techniques for Analyzing Recursive Algorithms with Applications.|Rakesh M. Verma|12|2|0|0
+29|Potentials in Undirected Graphs and Planar Multiflows.|András Sebö|3|1|0|0
+30|Boolean Circuits, Tensor Ranks, and Communication Complexity.|Pavel Pudlák,Vojtech Rödl,Jirí Sgall|53|19|0|3
+31|Unambiguous Computation: Boolean Hierarchies and Sparse Turing-Complete Sets.|Lane A. Hemaspaandra,Jörg Rothe|34|3|0|26
+32|Ray Shooting Amidst Spheres in Three Dimensions and Related Problems.|Shai Mohaban,Micha Sharir|26|5|0|9
+33|On the Complexity of Finding a Minimum Cycle Cover of a Graph.|Carsten Thomassen|68|19|1|0
+34|An Optimal Algorithm for Scanning All Spanning Trees of Undirected Graphs.|Akiyoshi Shioura,Akihisa Tamura,Takeaki Uno|95|40|0|16
+35|Size-Depth Tradeoffs for Threshold Circuits.|Russell Impagliazzo,Ramamohan Paturi,Michael E. Saks|48|24|0|2
+36|Bounds for the Computational Power and Learning Complexity of Analog Neural Nets.|Wolfgang Maass|104|12|0|13
+37|On the Amount of Nondeterminism and the Power of Verifying.|Liming Cai,Jianer Chen|50|15|0|8
+38|Bounds on the Number of Examples Needed for Learning Functions.|Hans-Ulrich Simon|17|2|0|1
+39|A Pumping Condition for Regular Sets.|Stefano Varricchio|5|3|0|1
+40|Leader Election in Complete Networks.|Gurdip Singh|n/a
+41|The Cost of Derandomization: Computability or Competitiveness.|Xiaotie Deng,Sanjeev Mahajan|5|0|0|0
+42|Tighter Upper Bounds on the Exact Complexity of String Matching.|Richard Cole,Ramesh Hariharan|12|3|0|2
+43|The k-Steiner Ratio in Graphs.|Al Borchers,Ding-Zhu Du|95|39|0|6
+44|A Note on ``An On-Line Scheduling Heuristic with Better Worst Case Ratio than Graham's List Scheduling''.|R. Chandrasekaran,Bo Chen,Gábor Galambos,P. R. Narayanan,André van Vliet|117|25|0|9
+45|An Optimal Probabilistic Protocol for Synchronous Byzantine Agreement.|Pesech Feldman,Silvio Micali|128|31|1|3
+46|Error-Resilient Optimal Data Compression.|James A. Storer,John H. Reif|18|3|0|6
+47|Constant-Time Randomized Parallel String Matching.|Maxime Crochemore,Zvi Galil,Leszek Gasieniec,Kunsoo Park,Wojciech Rytter|12|4|0|4
+48|Learning from Multiple Sources of Inaccurate Data.|Ganesh Baliga,Sanjay Jain,Arun Sharma|8|1|0|1
+49|Singular and Plural Nondeterministic Parameters.|Michal Walicki,Sigurd Meldal|n/a
+50|Data Structures' Maxima.|Guy Louchard,Claire Kenyon,René Schott|10|1|0|5
+51|Oracles that Compute Values.|Stephen A. Fenner,Steven Homer,Mitsunori Ogihara,Alan L. Selman|28|5|0|4
+52|Fast Discrete Polynomial Transforms with Applications to Data Analysis for Distance Transitive Graphs.|James R. Driscoll,Dennis M. Healy Jr.,Daniel N. Rockmore|89|29|0|12
+53|Doubly Logarithmic Communication Algorithms for Optical-Communication Parallel Computers.|Leslie Ann Goldberg,Mark Jerrum,Frank Thomson Leighton,Satish Rao|36|7|0|2
+54|The Robot Localization Problem.|Leonidas J. Guibas,Rajeev Motwani,Prabhakar Raghavan|56|18|0|0
+55|A Fast Algorithm for Optimally Increasing the Edge Connectivity.|Dalit Naor,Dan Gusfield,Charles U. Martel|139|18|0|1
+56|Graph Decomposition is NP-Complete: A Complete Proof of Holyer's Conjecture.|Dorit Dor,Michael Tarsi|93|51|0|3
+57|The Fourth Moment Method.|Bonnie Berger|25|12|0|0
+58|Testing Shared Memories.|Phillip B. Gibbons,Ephraim Korach|99|49|1|2
+59|Polynomial Methods for Separable Convex Optimization in Unimodular Linear Spaces with Applications.|Alexander V. Karzanov,S. Thomas McCormick|61|17|0|7
+60|Algorithms for the Certified Write-All Problem.|Richard J. Anderson,Heather Woll|63|23|0|0
+61|Computational Modeling for Genetic Splicing Systems.|Sam M. Kim|19|1|0|0
+62|Fast Management of Permutation Groups I.|László Babai,Eugene M. Luks,Ákos Seress|51|4|0|11
+63|Parameterized Duplication in Strings: Algorithms and an Application to Software Maintenance.|Brenda S. Baker|153|51|5|9
+64|The Maximum Latency and Identification of Positive Boolean Functions.|Kazuhisa Makino,Toshihide Ibaraki|56|11|0|23
+65|An Expander-Based Approach to Geometric Optimization.|Matthew J. Katz,Micha Sharir|49|14|0|18
+66|Introduction to Special Section on Quantum Computation.|Umesh V. Vazirani|4|0|0|0
+67|Quantum Complexity Theory.|Ethan Bernstein,Umesh V. Vazirani|1440|390|0|16
+68|On the Power of Quantum Computation.|Daniel R. Simon|1028|307|1|0
+69|Polynomial-Time Algorithms for Prime Factorization and Discrete Logarithms on a Quantum Computer.|Peter W. Shor|5585|2570|23|7
+70|Strengths and Weaknesses of Quantum Computing.|Charles H. Bennett,Ethan Bernstein,Gilles Brassard,Umesh V. Vazirani|1035|314|1|29
+71|Quantum Computability.|Leonard M. Adleman,Jonathan DeMarrais,Ming-Deh A. Huang|230|48|0|0
+72|Stabilization of Quantum Computations by Symmetrization.|Adriano Barenco,André Berthiaume,David Deutsch,Artur Ekert,Richard Jozsa,Chiara Macchiavello|150|35|0|1
+73|The Random Adversary: A Lower-Bound Technique for Randomized Parallel Algorithms.|Philip D. MacKenzie|2|0|0|0
+74|Reconfiguring Arrays with Faults Part I: Worst-Case Faults.|Richard J. Cole,Bruce M. Maggs,Ramesh K. Sitaraman|22|2|0|2
+75|Matrix Searching with the Shortest-Path Metric.|John Hershberger,Subhash Suri|24|5|0|3
+76|Randomized Õ(M(|V|)) Algorithms for Problems in Matching Theory.|Joseph Cheriyan|34|9|0|0
+77|Maximum Agreement Subtree in a Set of Evolutionary Trees: Metrics and Efficient Algorithms.|Amihood Amir,Dmitry Keselman|120|31|0|2
+78|The Union of Convex Polyhedra in Three Dimensions.|Boris Aronov,Micha Sharir,Boaz Tagansky|73|10|0|27
+79|Star Unfolding of a Polytope with Applications.|Pankaj K. Agarwal,Boris Aronov,Joseph O'Rourke,Catherine A. Schevon|75|20|0|9
+80|Computing Envelopes in Four Dimensions with Applications.|Pankaj K. Agarwal,Boris Aronov,Micha Sharir|78|11|0|28
+81|A Spectral Technique for Coloring Random 3-Colorable Graphs.|Noga Alon,Nabil Kahale|209|58|0|5
+82|A Fast Algorithm for the Computation and Enumeration of Perfect Phylogenies.|Sampath Kannan,Tandy Warnow|74|18|0|8
+83|Fault-Tolerant Meshes with Small Degree.|Jehoshua Bruck,Robert Cypher,Ching-Tien Ho|33|13|0|0
+84|On Translational Motion Planning of a Convex Polyhedron in 3-Space.|Boris Aronov,Micha Sharir|61|8|0|20

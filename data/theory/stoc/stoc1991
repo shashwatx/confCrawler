@@ -1,0 +1,60 @@
+59
+1|Proceedings of the 23rd Annual ACM Symposium on Theory of Computing, May 5-8, 1991, New Orleans, Louisiana, USA.|Cris Koutsougeras,Jeffrey Scott Vitter|n/a
+2|PP Is Closed Under Intersection (Extended Abstract).|Richard Beigel,Nick Reingold,Daniel A. Spielman|n/a
+3|Integral Equations, Systems of Quadratic Equations, and Exponential-Time Completeness (Extended Abstract).|Ker-I Ko|1|1|0|1
+4|Checking Computations in Polylogarithmic Time.|László Babai,Lance Fortnow,Leonid A. Levin,Mario Szegedy|518|178|2|19
+5|Self-Testing/Correcting for Polynomials and for Approximate Functions.|Peter Gemmell,Richard J. Lipton,Ronitt Rubinfeld,Madhu Sudan,Avi Wigderson|188|30|0|20
+6|Deterministic Algorithms for Undirected s-t Connectivity Using Polynomial Time and Sublinear Space (Extended Abstract).|Greg Barnes,Walter L. Ruzzo|23|1|0|6
+7|Effective Noether Irreducibility Forms and Applications (Extended Abstract).|Erich Kaltofen|79|22|0|9
+8|Factoring Numbers Using Singular Integers.|Leonard M. Adleman|75|13|0|4
+9|Constructing Nonresidues in Finite Fields and the Extended Riemann Hypothesis.|Johannes A. Buchmann,Victor Shoup|15|5|0|0
+10|Reducing Elliptic Curve Logarithms to Logarithms in a Finite Field.|Alfred Menezes,Scott A. Vanstone,Tatsuaki Okamoto|1537|530|1|9
+11|Fast Monte Carlo Algorithms for Permutation Groups.|László Babai,Gene Cooperman,Larry Finkelstein,Eugene M. Luks,Ákos Seress|102|17|0|26
+12|Fast Approximation Algorithms for Multicommodity Flow Problems.|Frank Thomson Leighton,Fillia Makedon,Serge A. Plotkin,Clifford Stein,Éva Tardos,Spyros Tragoudas|284|48|1|16
+13|A Matroid Approach to Finding Edge Connectivity and Packing Arborescences.|Harold N. Gabow|111|48|0|5
+14|Clique Partitions, Graph Compression, and Speeding-Up Algorithms.|Tomás Feder,Rajeev Motwani|123|29|3|4
+15|When Trees Collide: An Approximation Algorithm for the Generalized Steiner Problem on Networks.|Ajit Agrawal,Philip N. Klein,R. Ravi|455|152|2|39
+16|Improved Algorithms for Linear Inequalities with Two Variables per Inequality (Extended Abstract).|Edith Cohen,Nimrod Megiddo|67|21|0|6
+17|Sampling and Integration of Near Log-Concave functions.|David Applegate,Ravi Kannan|149|39|0|14
+18|Local Expansion of Vertex-Transitive Graphs and Random Generation in Finite Groups.|László Babai|202|60|0|24
+19|Counting Linear Extensions is \#P-Complete.|Graham Brightwell,Peter Winkler|n/a
+20|Finding Hidden Hamiltonian Cycles (Extended Abstract).|Andrei Z. Broder,Alan M. Frieze,Eli Shamir|n/a
+21|Probabilistic Recurrence Relations.|Richard M. Karp|99|14|0|0
+22|Separating Concurrent Languages with Categories of Language Embeddings (Extended Abstract).|Ehud Y. Shapiro|40|8|0|4
+23|Generic Computation and Its Complexity.|Serge Abiteboul,Victor Vianu|226|18|0|26
+24|Hamiltonian Paths in Infinite Graphs.|David Harel|35|5|0|4
+25|Fundamental Discrepancies between Average-Case Analyses under Discrete and Continuous Distributions: A Bin Packing Case Study.|Edward G. Coffman Jr.,Costas Courcoubetis,M. R. Garey,David S. Johnson,Lyle A. McGeoch,Peter W. Shor,Richard R. Weber,Mihalis Yannakakis|37|7|0|3
+26|Proof of the 4/3 Conjecture for Preemptive vs. Nonpreemptive Two-Processor Scheduling.|Edward G. Coffman Jr.,M. R. Garey|19|7|0|0
+27|Competitive Paging with Locality of Reference (Preliminary Version).|Allan Borodin,Sandy Irani,Prabhakar Raghavan,Baruch Schieber|n/a
+28|The Harmonic Online K-Server Algorithm Is Competitive.|Edward F. Grove|81|9|0|0
+29|A Model for Data in Motion.|Simon Kahan|n/a
+30|Lower Bounds for Randomized k-Server and Motion Planning Algorithms.|Howard J. Karloff,Yuval Rabani,Yiftach Ravid|34|4|0|5
+31|Infinite Games, Randomization, Computability, and Applications to Online Problems (Preliminary Version).|Xiaotie Deng,Sanjeev Mahajan|9|1|0|3
+32|Constant-Time Parallel Integer Sorting (Extended Abstract).|Torben Hagerup|n/a
+33|Converting High Probability into Nearly-Constant Time-with Applications to Parallel Hashing (Extended Abstract).|Yossi Matias,Uzi Vishkin|93|7|0|20
+34|Fully Dynamic Algorithms for Edge-Connectivity Problems (Extended Abstract).|Zvi Galil,Giuseppe F. Italiano|n/a
+35|Linear Approximation of Shortest Superstrings.|Avrim Blum,Tao Jiang,Ming Li,John Tromp,Mihalis Yannakakis|153|42|0|6
+36|An Efficient Algorithm for the Genus Problem with Explicit Construction of Forbidden Subgraphs.|Hristo Djidjev,John H. Reif|36|10|0|0
+37|Counting Networks and Multi-Processor Coordination.|James Aspnes,Maurice Herlihy,Nir Shavit|84|6|1|19
+38|Bounds on the Time to Reach Agreement in the Presence of Timing Uncertainty.|Hagit Attiya,Cynthia Dwork,Nancy A. Lynch,Larry J. Stockmeyer|79|20|0|6
+39|Wait-free Parallel Algorithms for the Union-Find Problem.|Richard J. Anderson,Heather Woll|107|21|6|2
+40|Combining Tentative and Definite Executions for Very Fast Dependable Parallel Computing (Extended Abstract).|Zvi M. Kedem,Krishna V. Palem,A. Raghunathan,Paul G. Spirakis|111|11|0|4
+41|Algorithms for Parallel k-Vertex Connectivity and Sparse Certificates (Extended Abstract).|Joseph Cheriyan,Ramakrishna Thurimella|48|2|0|4
+42|The Expressive Power of Voting Polynomials.|James Aspnes,Richard Beigel,Merrick L. Furst,Steven Rudich|194|60|0|15
+43|Lower Bounds for Non-Commutative Computation (Extended Abstract).|Noam Nisan|146|86|0|1
+44|Rounds in Communication Complexity Revisited.|Noam Nisan,Avi Wigderson|142|46|0|3
+45|On Deterministic Approximation of DNF.|Michael Luby,Boban Velickovic|34|7|0|5
+46|A Lower Bound for Parallel String Matching.|Dany Breslauer,Zvi Galil|53|7|0|24
+47|When Won't Membership Queries Help? (Extended Abstract).|Dana Angluin,Michael Kharitonov|n/a
+48|Learning Decision Trees Using the Fourier Sprectrum (Extended Abstract).|Eyal Kushilevitz,Yishay Mansour|397|130|0|20
+49|On-Line Learning of Linear Functions.|Nick Littlestone,Philip M. Long,Manfred K. Warmuth|53|7|0|23
+50|Testing Finite State Machines (Extended Abstract).|Mihalis Yannakakis,David Lee|n/a
+51|Searching in the Presence of Linearly Bounded Errors (Extended Abstract).|Javed A. Aslam,Aditi Dhagat|86|21|0|1
+52|Navigating in Unfamiliar Geometric Terrain (Preliminary Version).|Avrim Blum,Prabhakar Raghavan,Baruch Schieber|n/a
+53|Approximations and Optimal Geometric Divide-And-Conquer.|Jirí Matousek|108|13|0|1
+54|Hidden Surface Removal with Respect to a Moving View Point.|Ketan Mulmuley|47|3|0|1
+55|Dynamic Trees and Dynamic Point Location (Preliminary Version).|Michael T. Goodrich,Roberto Tamassia|n/a
+56|Rigorous Time/Space Tradeoffs for Inverting Functions.|Amos Fiat,Moni Naor|43|16|0|1
+57|Non-Malleable Cryptography (Extended Abstract).|Danny Dolev,Cynthia Dwork,Moni Naor|n/a
+58|A General Completeness Theorem for Two-Party Games.|Joe Kilian|75|27|0|3
+59|Perfect Cryptographic Security from Partially Independent Channels.|Ueli M. Maurer|37|11|1|2

@@ -1,0 +1,43 @@
+42
+1|17th IEEE Symposium on Logic in Computer Science (LICS 2002), 22-25 July 2002, Copenhagen, Denmark, Proceedings.|n/a
+2|Little Engines of Proof.|Natarajan Shankar|35|6|0|3
+3|Automatic Decidability.|Christopher Lynch,Barbara Morawska|34|19|0|4
+4|Tree-Like Counterexamples in Model Checking.|Edmund M. Clarke,Somesh Jha,Yuan Lu,Helmut Veith|140|70|0|9
+5|Probabilistic Abstraction for Model Checking: An Approach Based on Property Testing.|Sophie Laplante,Richard Lassaigne,Frédéric Magniez,Sylvain Peyronnet,Michel de Rougemont|26|23|0|1
+6|Semantic Minimization of 3-Valued Propositional Formulae.|Thomas W. Reps,Alexey Loginov,Shmuel Sagiv|18|3|0|7
+7|Separation Logic: A Logic for Shared Mutable Data Structures.|John C. Reynolds|1861|1040|0|10
+8|A Stratified Semantics of General References A Stratified Semantics of General References.|Amal J. Ahmed,Andrew W. Appel,Roberto Virga|n/a
+9|A Syntactic Approach to Foundational Proof-Carrying Code.|Nadeem Abdul Hamid,Zhong Shao,Valery Trifonov,Stefan Monnier,Zhaozhong Ni|85|10|0|12
+10|A Fully Abstract May Testing Semantics for Concurrent Objects.|Alan Jeffrey,Julian Rathke|88|23|0|6
+11|Semantics and Logic of Object Calculi.|Bernhard Reus,Thomas Streicher|17|0|0|4
+12|Efficient Type Inference for Record Concatenation and Subtyping.|Jens Palsberg,Tian Zhao|3|0|0|1
+13|Semantic Subtyping.|Alain Frisch,Giuseppe Castagna,Véronique Benzaken|n/a
+14|Remarks on Isomorphisms in Typed Lambda Calculi with Empty and Sum Types.|Marcelo P. Fiore,Roberto Di Cosmo,Vincent Balat|22|3|0|3
+15|On The Lambda Y Calculus.|Richard Statman|10|8|0|0
+16|Dense Real-Time Games.|Marco Faella,Salvatore La Torre,Aniello Murano|46|15|0|7
+17|Computing Reachability Relations in Timed Automata.|Catalin Dima|16|4|0|6
+18|Monadic Queries over Tree-Structured Data.|Georg Gottlob,Christoph Koch|115|17|0|13
+19|Tree Extension Algebras: Logics, Automata, and Query Languages.|Michael Benedikt,Leonid Libkin|15|3|0|4
+20|The Complexity of First-Order and Monadic Second-Order Logic Revisited.|Markus Frick,Martin Grohe|197|101|0|18
+21|The 0-1 law fails for frame satisfiability of propositional modal logic.|Jean-Marie Le Bars|21|10|0|1
+22|Some Results on Automatic Structures.|Hajime Ishihara,Bakhadyr Khoussainov,Sasha Rubin|21|7|0|5
+23|Observational Equivalence of 3rd-Order Idealized Algol is Decidable.|C.-H. Luke Ong|45|6|0|9
+24|Games on Graphs and Sequentially Realizable Functionals.|Martin Hyland,Andrea Schalk|45|17|0|2
+25|Polarized Games.|Olivier Laurent|45|28|0|3
+26|Domain Theory and Differential Calculus (Functions of one Variable).|Abbas Edalat,André Lieutier|41|14|0|15
+27|Computational Adequacy for Recursive Types in Models of Intuitionistic Set Theory.|Alex K. Simpson|12|1|0|5
+28|The Powerdomain of Indexed Valuations.|Daniele Varacca|26|3|0|2
+29|Complexity Classes, Propositional Proof Systems, and Formal Theories.|Stephen A. Cook|0|0|0|0
+30|Complete Problems for Dynamic Complexity Classes.|William Hesse,Neil Immerman|21|5|0|5
+31|Unsatisfiable Random Formulas Are Hard to Certify.|Albert Atserias|7|0|0|5
+32|The Proof Complexity of Linear Algebra.|Michael Soltys,Stephen A. Cook|29|15|0|11
+33|Calibrating Computational Feasibility by Abstraction Rank.|Daniel Leivant|10|4|0|2
+34|Description Logics: Foundations for Class-based Knowledge Representation.|Diego Calvanese,Giuseppe De Giacomo,Maurizio Lenzerini|37|3|0|0
+35|Modal and Guarded Characterisation Theorems over Finite Transition Systems.|Martin Otto|46|26|0|15
+36|Temporal Logic with Forgettable Past.|François Laroussinie,Nicolas Markey,Philippe Schnoebelen|177|73|0|16
+37|Decidable and Undecidable Fragments of First-Order Branching Temporal Logics.|Ian M. Hodkinson,Frank Wolter,Michael Zakharyaschev|70|30|0|13
+38|Expressive Equivalence of Least and Inflationary Fixed-Point Logic.|Stephan Kreutzer|42|17|0|7
+39|The Metric Analogue of Weak Bisimulation for Probabilistic Processes.|Josee Desharnais,Radha Jagadeesan,Vineet Gupta,Prakash Panangaden|128|57|0|6
+40|Separability, Expressiveness, and Decidability in the Ambient Logic.|Daniel Hirschkoff,Étienne Lozes,Davide Sangiorgi|48|6|0|5
+41|Linearity in Process Languages.|Mikkel Nygaard,Glynn Winskel|19|3|0|11
+42|Deciding Confluence of Certain Term Rewriting Systems in Polynomial Time.|Ashish Tiwari|15|4|0|4

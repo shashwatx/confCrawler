@@ -1,0 +1,43 @@
+42
+1|Proceedings of the Eighth Annual Symposium on Logic in Computer Science (LICS '93), Montreal, Canada, June 19-23, 1993.|n/a
+2|The Genericity Theorem and the Notion of Parametricity in the Polymorphic lambda-calculus (Extended Abstract).|Giuseppe Longo,Kathleen Milsted,Sergei Soloviev|52|8|0|16
+3|Standard ML-NJ weak polymorphism and imperative constructs.|My Hoang,John C. Mitchell,Ramesh Viswanathan|37|2|1|0
+4|A lambda calculus of objects and method specialization.|John C. Mitchell,Furio Honsell,Kathleen Fisher|212|29|0|16
+5|Strong Normalization for Second Order Classical Natural Deduction.|Michel Parigot|112|18|0|3
+6|Automated Production of Traditional Proofs for Constructive Geometry Theorems.|Shang-Ching Chou,Xiao-Shan Gao,Jing-Zhong Zhang|49|17|0|7
+7|On the Unification Problem for Cartesian Closed Categories.|Paliath Narendran,Frank Pfenning,Richard Statman|34|4|0|7
+8|Functional Unification of Higher-Order Patterns.|Tobias Nipkow|123|24|0|10
+9|Set Constraints are the Monadic Class.|Leo Bachmair,Harald Ganzinger,Uwe Waldmann|142|11|1|1
+10|Full Abstraction for a Shared Variable Parallel Language.|Stephen D. Brookes|160|44|0|23
+11|A Coinduction Principle for Recursive Data Types Based on Bisimulation.|Marcelo P. Fiore|68|5|0|1
+12|A Tutorial on Finite Model Theory (Abstract).|Phokion G. Kolaitis|n/a
+13|In and Out of Temporal Logic.|Amir Pnueli,Lenore D. Zuck|9|4|0|0
+14|On Completeness of the mu-calculus.|Igor Walukiewicz|n/a
+15|On Model Checking for Real-Time Properties with Durations.|Ahmed Bouajjani,Rachid Echahed,Joseph Sifakis|45|3|0|6
+16|Verifying Programs with Unreliable Channels.|Parosh Aziz Abdulla,Bengt Jonsson|372|123|0|21
+17|y = 2x vs. y = 3x.|Damian Niwinski,Alexei P. Stolboushkin|n/a
+18|Monadic Second-Order Logic and Hypergraph Orientation.|Bruno Courcelle|2|0|0|0
+19|Infinitary Logics and Very Sparse Random Graphs.|James F. Lynch|10|0|0|2
+20|Asymptotic Probabilities of Languages with Generalized Quantifiers.|Guy Fayolle,Stéphane Grumbach,Christophe Tollu|16|1|0|4
+21|Compositional Analysis for Concurrent Constraint Programming.|Moreno Falaschi,Maurizio Gabbrielli,Kim Marriott,Catuscia Palamidessi|46|5|0|19
+22|Rules of Definitional Reflection.|Peter Schroeder-Heister|116|37|0|15
+23|Encoding the Calculus of Constructions in a Higher-Order Logic.|Amy P. Felty|10|3|0|2
+24|Programs, grammars and arguments: a personal view of some connections between computation, language and logic.|Joachim Lambek|3|0|0|0
+25|Imperfect information flow.|Jon Barwise,Jerry Seligman|30|9|0|2
+26|A Typed Pattern Calculus.|Val Tannen,Delia Kesner,Laurence Puel|36|0|0|7
+27|Non-Determinism in a Functional Setting.|C.-H. Luke Ong|75|17|0|0
+28|Adequacy for untyped translations of typed lambda-calculi.|Wesley Phoa|5|2|0|0
+29|Local and asynchronous beta-reduction (an analysis of Girard's execution formula).|Vincent Danos,Laurent Regnier|n/a
+30|An Exponential Separation between the Matching Principle and the Pigeonhole Principle.|Paul Beame,Toniann Pitassi|19|0|0|9
+31|Some Desirable Conditions for Feasible Functionals of Type~2.|Anil Seth|15|4|0|3
+32|Database Query Languages Embedded in the Typed Lambda Calculus.|Gerd G. Hillebrand,Paris C. Kanellakis,Harry G. Mairson|41|7|0|5
+33|Homomorphic Tree Embeddings and Their Applications to Recursive Program Optimization.|Laks V. S. Lakshmanan,Karima Ashraf,Jiawei Han|2|0|0|2
+34|The order types of termination orderings on monadic terms, strings and multisets.|Ursula Martin,Elizabeth Scott|15|0|0|2
+35|The Unifiability Problem in Ground AC Theories.|Paliath Narendran,Michaël Rusinowitch|10|1|0|2
+36|Type Theory and Recursion (Extended Abstract).|Gordon D. Plotkin|n/a
+37|Typing and Subtyping for Mobile Processes.|Benjamin C. Pierce,Davide Sangiorgi|572|112|1|31
+38|Decomposability, Decidability and Axiomatisability for Bisimulation Equivalence on Basic Parallel Processes.|Søren Christensen,Yoram Hirshfeld,Faron Moller|73|5|0|18
+39|A Fully Abstract Denotational Model for Higher-Order Processes (Extended Abstract).|Matthew Hennessy|67|1|0|2
+40|Self-Synchronization of Concurrent Processes (Preliminary Report).|Lalita Jategaonkar,Albert R. Meyer|n/a
+41|Bisimulation and open maps.|André Joyal,Mogens Nielsen,Glynn Winskel|367|86|0|39
+42|Lambek Grammars Are Context Free.|Mati Pentus|209|54|0|2

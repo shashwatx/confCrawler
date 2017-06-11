@@ -1,0 +1,97 @@
+96
+1|A Polynomial Time Approximation Scheme for General Multiprocessor Job Scheduling.|Jianer Chen,Antonio Miranda|71|13|0|11
+2|A Decomposition Theorem for Maximum Weight Bipartite Matchings.|Ming-Yang Kao,Tak Wah Lam,Wing-Kin Sung,Hing-Fung Ting|45|22|0|1
+3|Traveling Salesman-Based Curve Reconstruction in Polynomial Time.|Ernst Althaus,Kurt Mehlhorn|26|11|0|3
+4|Tree Search on an Atomic Model for Message Passing.|Pangfeng Liu,William Aiello,Sandeep N. Bhatt|2|0|0|0
+5|On-line Randomized Call Control Revisited .|Stefano Leonardi,Alberto Marchetti-Spaccamela,Alessio Presciutti,Adi Rosén|50|9|0|10
+6|Fixed-Parameter Tractability, Definability, and Model-Checking.|Jörg Flum,Martin Grohe|89|32|0|30
+7|Approximation Techniques for Average Completion Time Scheduling.|Chandra Chekuri,Rajeev Motwani,B. Natarajan,Clifford Stein|208|38|2|9
+8|Markov Chain Algorithms for Planar Lattice Structures.|Michael Luby,Dana Randall,Alistair Sinclair|120|52|0|22
+9|There are No Sparse NPw-Hard Sets.|Felipe Cucker,Dima Grigoriev|7|0|0|3
+10|Randomness and Recursive Enumerability.|Antonín Kucera,Theodore A. Slaman|127|38|0|0
+11|Treewidth and Minimum Fill-in: Grouping the Minimal Separators.|Vincent Bouchitté,Ioan Todinca|122|53|0|17
+12|The Accommodating Function: A Generalization of the Competitive Ratio.|Joan Boyar,Kim S. Larsen,Morten N. Nielsen|53|12|0|20
+13|Generating Bracelets in Constant Amortized Time.|Joe Sawada|36|17|0|5
+14|Disjunctions of Horn Theories and Their Cores.|Thomas Eiter,Toshihide Ibaraki,Kazuhisa Makino|8|0|0|4
+15|A Fully Dynamic Algorithm for Recognizing and Representing Proper Interval Graphs.|Pavol Hell,Ron Shamir,Roded Sharan|66|31|0|2
+16|Provably Fast and Accurate Recovery of Evolutionary Trees through Harmonic Greedy Triplets.|Miklós Csürös,Ming-Yang Kao|16|4|0|2
+17|Proportion Extend Sort.|Jing Chao Chen|16|2|0|3
+18|Approximating the Throughput of Multiple Machines in Real-Time Scheduling.|Amotz Bar-Noy,Sudipto Guha,Joseph Naor,Baruch Schieber|131|51|0|4
+19|Low Redundancy in Static Dictionaries with Constant Query Time.|Rasmus Pagh|135|56|0|12
+20|Maintaining Minimum Spanning Forests in Dynamic Graphs.|Monika Rauch Henzinger,Valerie King|31|17|0|2
+21|Evolutionary Trees Can be Learned in Polynomial Time in the Two-State General Markov Model.|Mary Cryan,Leslie Ann Goldberg,Paul W. Goldberg|66|20|0|6
+22|The Complexity of Counting in Sparse, Regular, and Planar Graphs.|Salil P. Vadhan|210|108|0|0
+23|Matchings Meeting Quotas and Their Impact on the Blow-Up Lemma.|Vojtech Rödl,Andrzej Rucinski,Michelle Wagner|4|1|0|0
+24|Optimal Buy-and-Hold Strategies for Financial Markets with Bounded Daily Returns.|Gen-Huey Chen,Ming-Yang Kao,Yuh-Dauh Lyuu,Hsing-Kuo Wong|32|23|0|1
+25|Quantum Formulas: A Lower Bound and Simulation.|Vwani P. Roychowdhury,Farrokh Vatan|6|3|0|0
+26|A 2-Approximation Algorithm for the Directed Multiway Cut Problem.|Joseph Naor,Leonid Zosin|29|5|0|2
+27|The Global Power of Additional Queries to P-Random Oracles.|Wolfgang Merkle|0|0|0|0
+28|Geometric Complexity Theory I: An Approach to the P vs. NP and Related Problems.|Ketan Mulmuley,Milind A. Sohoni|141|92|0|21
+29|On-Line Load Balancing in a Hierarchical Server Topology.|Amotz Bar-Noy,Ari Freund,Joseph Naor|65|47|0|0
+30|Checking Approximate Computations of Polynomials and Functional Equations.|Funda Ergün,Ravi Kumar,Ronitt Rubinfeld|4|2|0|3
+31|The Polygon Exploration Problem.|Frank Hoffmann,Christian Icking,Rolf Klein,Klaus Kriegel|92|47|0|13
+32|On the Computational Complexity of Upward and Rectilinear Planarity Testing.|Ashim Garg,Roberto Tamassia|190|110|0|1
+33|New Algorithmic Aspects of the Local Lemma with Applications to Routing and Partitioning.|Frank Thomson Leighton,Chi-Jen Lu,Satish Rao,Aravind Srinivasan|53|8|0|10
+34|Adaptive and Efficient Algorithms for Lattice Agreement and Renaming.|Hagit Attiya,Arie Fouren|68|38|0|13
+35|Algorithms for Capacitated Vehicle Routing.|Moses Charikar,Samir Khuller,Balaji Raghavachari|57|25|1|2
+36|Optimal Sampling Strategies in Quicksort and Quickselect.|Conrado Martínez,Salvador Roura|67|32|0|7
+37|The Compactness of Interval Routing for Almost All Graphs.|Cyril Gavoille,David Peleg|9|2|0|3
+38|Topological Lower Bounds on Algebraic Random Access Machines.|Amir M. Ben-Amram,Zvi Galil|13|7|0|1
+39|Succinct Representation of Balanced Parentheses and Static Trees.|J. Ian Munro,Venkatesh Raman|261|143|0|24
+40|Temporal Logic and Semidirect Products: An Effective Characterization of the Until Hierarchy.|Denis Thérien,Thomas Wilke|42|5|0|13
+41|Parallel Quantum Computation and Quantum Codes.|Cristopher Moore,Martin Nilsson|104|32|0|3
+42|Analysis of Timing-Based Mutual Exclusion with Random Times.|Eli Gafni,Michael Mitzenmacher|21|12|0|0
+43|A Characterization of Eventual Byzantine Agreement.|Joseph Y. Halpern,Yoram Moses,Orli Waarts|42|4|0|17
+44|Evasiveness of Subgraph Containment and Related Properties.|Amit Chakrabarti,Subhash Khot,Yaoyun Shi|24|12|0|6
+45|Compressibility and Resource Bounded Measure.|Harry Buhrman,Luc Longpré|17|9|0|0
+46|Resource-Bounded Kolmogorov Complexity Revisited.|Harry Buhrman,Lance Fortnow,Sophie Laplante|38|14|0|4
+47|Separation of NP-Completeness Notions.|Aduri Pavan,Alan L. Selman|33|4|0|19
+48|Approximation Algorithms for Single-Source Unsplittable Flow.|Stavros G. Kolliopoulos,Clifford Stein|54|14|0|7
+49|Proof Techniques for Cryptographic Processes.|Michele Boreale,Rocco De Nicola,Rosario Pugliese|158|24|0|5
+50|Corrigendum: Proximity in Arrangements of Algebraic Sets.|J. H. Rieger|0|0|0|0
+51|A Layered Analysis of Consensus.|Yoram Moses,Sergio Rajsbaum|86|36|0|28
+52|On Binary Searching with Nonuniform Costs.|Eduardo Sany Laber,Ruy Luiz Milidiú,Artur Alves Pessoa|7|4|0|1
+53|The Efficiency of Resolution and Davis--Putnam Procedures.|Paul Beame,Richard M. Karp,Toniann Pitassi,Michael E. Saks|118|32|0|1
+54|A Decision Procedure for Unitary Linear Quantum Cellular Automata.|Christoph Dürr,Miklos Santha|33|7|0|1
+55|A Polylogarithmic Approximation of the Minimum Bisection.|Uriel Feige,Robert Krauthgamer|152|53|0|10
+56|Lattice Embeddings for Abstract Bounded Reducibilities.|Wolfgang Merkle|2|0|0|0
+57|Decidability of Termination of Grid String Rewriting Rules.|Alfons Geser|12|3|0|3
+58|Randomness, Computability, and Density.|Rodney G. Downey,Denis R. Hirschfeldt,André Nies|38|10|0|9
+59|Space Complexity in Propositional Calculus.|Michael Alekhnovich,Eli Ben-Sasson,Alexander A. Razborov,Avi Wigderson|108|54|0|13
+60|An Enumerative Geometry Framework for Algorithmic Line Problems in $\mathbb R^3$.|Thorsten Theobald|16|2|0|6
+61|Quantum Circuits That Can Be Simulated Classically in Polynomial Time.|Leslie G. Valiant|156|98|0|6
+62|Finding Double Euler Trails of Planar Graphs in Linear Time.|Zhi-Zhong Chen,Xin He,Chun-Hsi Huang|8|2|0|2
+63|The Combinatorial Structure of Wait-Free Solvable Tasks.|Hagit Attiya,Sergio Rajsbaum|47|34|0|31
+64|Recognizing Dart-Free Perfect Graphs.|Vasek Chvátal,Jean Fonlupt,L. Sun,Abdelhamid Zemirline|24|2|0|2
+65|Algorithms for a Minimum Volume Enclosing Simplex in Three Dimensions.|Yunhong Zhou,Subhash Suri|20|9|0|0
+66|Perceptron, Winnow, and PAC Learning.|Rocco A. Servedio|10|2|0|3
+67|Minimizing the Flow Time Without Migration.|Baruch Awerbuch,Yossi Azar,Stefano Leonardi,Oded Regev|91|20|0|18
+68|Pseudorandom Functions and Factoring.|Moni Naor,Omer Reingold,Alon Rosen|44|25|0|5
+69|Generators of $H_1(\Gamma_{h}, \mathbbZ)$ for Triangulated Surfaces: Construction and Classification.|Ralf Hiptmair,Jörg Ostrowski|27|15|0|6
+70|A Theorem on Sensitivity and Applications in Private Computation.|Anna Gál,Adi Rosén|12|1|0|0
+71|A Linear Algorithm for Finding the Invariant Edges of an Edge-Weighted Graph.|Francesco M. Malvestuto,Mauro Mezzini|9|0|0|9
+72|Characterizations of 1-Way Quantum Finite Automata.|Alex Brodsky,Nicholas Pippenger|172|67|0|0
+73|Fast Greedy Algorithms for Constructing Sparse Geometric Spanners.|Joachim Gudmundsson,Christos Levcopoulos,Giri Narasimhan|86|35|0|16
+74|Graph Nonisomorphism Has Subexponential Size Proofs Unless the Polynomial-Time Hierarchy Collapses.|Adam Klivans,Dieter van Melkebeek|204|63|0|17
+75|On Counting Independent Sets in Sparse Graphs.|Martin E. Dyer,Alan M. Frieze,Mark Jerrum|142|68|0|14
+76|Safe Weak Minimization Revisited.|Dieter Spreen|1|0|0|0
+77|Testing Membership in Languages that Have Small Width Branching Programs.|Ilan Newman|41|19|0|6
+78|Self-Stabilizing Symmetry Breaking in Constant Space.|Alain J. Mayer,Rafail Ostrovsky,Yoram Ofek,Moti Yung|49|7|0|11
+79|Approximating the Longest Cycle Problem in Sparse Graphs.|Tomás Feder,Rajeev Motwani,Carlos S. Subi|28|10|0|3
+80|Improved Approximation Algorithms for the Vertex Cover Problem in Graphs and Hypergraphs.|Eran Halperin|225|85|0|3
+81|Dual-Bounded Generating Problems: All Minimal Integer Solutions for a Monotone System of Linear Inequalities.|Endre Boros,Khaled M. Elbassioni,Vladimir Gurvich,Leonid Khachiyan,Kazuhisa Makino|54|9|0|36
+82|Lower Bounds for Leader Election and Collective Coin-Flipping in the Perfect Information Model.|Alexander Russell,Michael E. Saks,David Zuckerman|27|7|0|3
+83|Hardness of Approximate Hypergraph Coloring.|Venkatesan Guruswami,Johan Håstad,Madhu Sudan|76|25|0|8
+84|Phase Change of Limit Laws in the Quicksort Recurrence under Varying Toll Functions.|Hsien-Kuei Hwang,Ralph Neininger|81|20|0|28
+85|Are Bitvectors Optimal?|Harry Buhrman,Peter Bro Miltersen,Jaikumar Radhakrishnan,Srinivasan Venkatesh|n/a
+86|On the Boundary Complexity of the Union of Fat Triangles.|János Pach,Gábor Tardos|37|15|0|4
+87|Approximate String Matching: A Simpler Faster Algorithm.|Richard Cole,Ramesh Hariharan|130|39|2|4
+88|A Matter of Degree: Improved Approximation Algorithms for Degree-Bounded Minimum Spanning Trees.|Jochen Könemann,R. Ravi|93|29|0|8
+89|Maintaining Stream Statistics over Sliding Windows.|Mayur Datar,Aristides Gionis,Piotr Indyk,Rajeev Motwani|728|264|5|13
+90|Curvature-Constrained Shortest Paths in a Convex Polygon.|Pankaj K. Agarwal,Therese C. Biedl,Sylvain Lazard,Steve Robbins,Subhash Suri,Sue Whitesides|73|37|0|2
+91|Parallel Integer Sorting Is More Efficient Than Parallel Comparison Sorting on Exclusive Write PRAMs.|Yijie Han,Xiaojun Shen|19|8|0|9
+92|A Randomized Time-Work Optimal Parallel Algorithm for Finding a Minimum Spanning Forest.|Seth Pettie,Vijaya Ramachandran|32|16|0|2
+93|Lower Bounds for Lucas Chains.|Martin Kutz|5|3|1|0
+94|Simple Learning Algorithms for Decision Trees and Multivariate Polynomials.|Nader H. Bshouty,Yishay Mansour|19|5|0|3
+95|A Deterministic Polynomial-Time Algorithm for Heilbronn's Problem in Three Dimensions.|Hanno Lefmann,Niels Schmitt|16|3|0|8
+96|The Minimization Problem for Boolean Formulas.|Edith Hemaspaandra,Gerd Wechsung|36|5|0|3

@@ -1,0 +1,79 @@
+78
+1|Proceedings of the Fourteenth International Conference on Data Engineering, Orlando, Florida, USA, February 23-27, 1998.|Susan Darling Urban,Elisa Bertino|n/a
+2|Representing and Querying Changes in Semistructured Data.|Sudarshan S. Chawathe,Serge Abiteboul,Jennifer Widom|175|24|1|9
+3|Optimizing Regular Path Expressions Using Graph Schemas.|Mary F. Fernandez,Dan Suciu|345|40|4|10
+4|WebOQL: Restructuring Documents, Databases, and Webs.|Gustavo O. Arocena,Alberto O. Mendelzon|467|108|1|3
+5|Concurrent Operations in a Distributed and Mobile Collaborative Environment.|Maher Suleiman,Michèle Cart,Jean Ferrié|122|30|0|4
+6|Grouping Techniques for Update Propagation in Intermittently Connected Databases.|Sameer Mahajan,Michael J. Donahoo,Shamkant B. Navathe,Mostafa H. Ammar,Sanjoy Malik|28|3|2|0
+7|Cache Management for Mobile Databases: Design and Evaluation.|Boris Y. L. Chan,Antonio Si,Hong Va Leong|102|18|0|11
+8|Messaging/Queuing in Oracle8.|Dieter Gawlick|n/a
+9|The New Database Imperatives.|Goetz Graefe|6|0|0|0
+10|WWW and the Internet - Did We Miss the Boat? (Panel).|Michael Rabinovich,C. Mic Bowman,Hector Garcia-Molina,Alon Y. Levy,Susan Malaika,Alberto O. Mendelzon|0|0|0|0
+11|Performance Analysis of Parallel Hash Join Algorithms on a Distributed Shared Memory Machine: Implementation and Evaluation on HP Exemplar SPP 1600.|Miyuki Nakano,Hiroomi Imai,Masaru Kitsuregawa|5|1|0|0
+12|Parallelizing Loops in Database Programming Languages.|Daniel F. Lieuwen|3|3|0|0
+13|Cyclic Allocation of Two-Dimensional Data.|Sunil Prabhakar,Khaled A. S. Abdel-Ghaffar,Divyakant Agrawal,Amr El Abbadi|87|7|1|11
+14|Employing Intelligent Agents for Knowledge Discovery (Abstract).|Earl Stahl|7|5|3|0
+15|Industry Applications of Data Mining: Challenges & Opportunities (Abstract).|Evangelos Simoudis|n/a
+16|Fuzzy Triggers: Incorporating Imprecise Reasoning into Active Databases.|Antoni Wolski,Tarik Bouaziz|20|0|0|3
+17|Graph Structured Views and Their Incremental Maintenance.|Yue Zhuge,Hector Garcia-Molina|141|25|1|3
+18|Query Folding with Inclusion Dependencies.|Jarek Gryz|68|9|0|3
+19|On Query Spreadsheets.|Laks V. S. Lakshmanan,Subbu N. Subramanian,Nita Goyal,Ravi Krishnamurthy|n/a
+20|Data Logging: A Method for Efficient Data Updates in Constantly Active RAIDs.|Eran Gabber,Henry F. Korth|21|2|1|0
+21|Persistent Applications Using Generalized Redo Recovery.|David B. Lomet|32|5|14|15
+22|The Effect of Buffering on the Performance of R-Trees.|Scott T. Leutenegger,Mario A. López|144|13|3|12
+23|Redbrick Vista: Aggregate Computation and Management.|Latha S. Colby,Richard L. Cole,Edward Haslam,Nasi Jazayeri,Galt Johnson,William J. McKenna,Lee Schumacher,David Wilhite|33|6|9|1
+24|Outstanding Challenges in OLAP.|Jeffrey A. Bedell|16|4|0|0
+25|Ending the MOLAP/ROLAP Debate: Usage Based Aggregation and Flexible HOLAP (Abstract).|Corey Salka|8|2|0|0
+26|Safeguarding and Charging for Information on the Internet.|Hector Garcia-Molina,Steven P. Ketchpel,Narayanan Shivakumar|40|7|5|2
+27|Point-Versus Interval-Based Temporal Data Models.|Michael H. Böhlen,Renato Busatto,Christian S. Jensen|94|20|1|2
+28|Efficient Retrieval of Similar Time Sequences Under Time Warping.|Byoung-Kee Yi,H. V. Jagadish,Christos Faloutsos|625|224|1|13
+29|Fast Nearest Neighbor Search in High-Dimensional Space.|Stefan Berchtold,Bernhard Ertl,Daniel A. Keim,Hans-Peter Kriegel,Thomas Seidl|186|58|4|2
+30|Encoded Bitmap Indexing for Data Warehouses.|Ming-Chuan Wu,Alejandro P. Buchmann|248|37|11|3
+31|Coarse Indices for a Tape-Based Data Warehouse.|Theodore Johnson|9|0|0|4
+32|Array-Based Evaluation of Multi-Dimensional Queries in Object-Relational Databases Systems.|Yihong Zhao,Karthikeyan Ramasamy,Kristin Tufte,Jeffrey F. Naughton|36|11|11|0
+33|Content-based Multimedia Information Management.|Ramesh Jain|21|3|0|0
+34|Building A Robust Workflow Management System With Persistent Queues and Stored Procedures.|Frank Leymann,Dieter Roller|19|7|1|2
+35|An Extended Object-Oriented Database Approach to Networked Multimedia Applications.|Hiroshi Ishikawa,Koki Kato,Miyuki Ono,Naomi Yoshizawa,Kazumi Kubota,Akiko Kanaya|4|1|0|2
+36|Distributed Video Presentations.|Eenjun Hwang,V. S. Subrahmanian,B. Prabhakaran|13|0|0|5
+37|Query Processing in a Video Retrieval System.|King-Lup Liu,A. Prasad Sistla,Clement T. Yu,Naphtali Rishe|7|0|0|0
+38|SEMCOG: A Hybrid Object-based Image Database System and Its Modeling, Language, and Query Processing.|Wen-Syan Li,K. Selçuk Candan|16|1|0|8
+39|Data Warehousing Lessons From Experience (Panel).|Patrick E. O'Neil,Richard Winter,Clark D. French,Dan Crowley,William J. McKenna|1|1|0|0
+40|Junglee: Integrating Data of All Shapes and Sizes.|Ashish Gupta|3|0|1|1
+41|Virtual Database Technology.|Ashish Gupta,Venky Harinarayan,Anand Rajaraman|52|10|3|0
+42|Data Intensive Intra- & Internet Applications - Experiences Using Java and CORBA in the World Wide Web.|Jürgen Sellentin,Bernhard Mitschang|n/a
+43|Migrating Legacy Databases and Applications (Panel).|Bhavani M. Thuraisingham,Sandra Heiler,Arnon Rosenthal,Susan Malaika|0|0|0|0
+44|A Tightly-Coupled Architecture for Data Mining.|Rosa Meo,Giuseppe Psaila,Stefano Ceri|43|7|0|3
+45|A Distribution-Based Clustering Algorithm for Mining in Large Spatial Databases.|Xiaowei Xu,Martin Ester,Hans-Peter Kriegel,Jörg Sander|272|95|1|3
+46|Failure Handling and Coordinated Execution of Concurrent Workflows.|Mohan Kamath,Krithi Ramamritham|115|16|0|3
+47|Methodical Restructuring of Complex Workflow Activities.|Ling Liu,Calton Pu|45|5|1|9
+48|Leveraging Mediator Cost Models with Heterogeneous Data Sources.|Hubert Naacke,Georges Gardarin,Anthony Tomasic|90|13|0|5
+49|The LSDh-Tree: An Access Structure for Feature Vectors.|Andreas Henrich|145|21|0|12
+50|Compressing Relations and Indexes.|Jonathan Goldstein,Raghu Ramakrishnan,Uri Shaft|171|66|11|0
+51|Generalizing ``Search'' in Generalized Search Trees (Extended Abstract).|Paul M. Aoki|n/a
+52|Efficient Discovery of Functional and Approximate Dependencies Using Partitions.|Ykä Huhtala,Juha Kärkkäinen,Pasi Porkka,Hannu Toivonen|178|47|7|1
+53|Online Generation of Association Rules.|Charu C. Aggarwal,Philip S. Yu|184|28|2|14
+54|Cyclic Association Rules.|Banu Özden,Sridhar Ramaswamy,Abraham Silberschatz|494|181|1|1
+55|Asynchronous Version Advancement in a Distributed Three-Version Database.|H. V. Jagadish,Inderpal Singh Mumick,Michael Rabinovich|6|2|0|0
+56|Design and Performance of an Assertional Concurrency Control System.|Arthur J. Bernstein,David Scott Gerstl,Wai-Hong Leung,Philip M. Lewis|13|0|1|4
+57|Dynamic Granular Locking Approach to Phantom Protection in R-Trees.|Kaushik Chakrabarti,Sharad Mehrotra|54|13|0|5
+58|Future Directions in Database Research (Panel).|Surajit Chaudhuri,Hector Garcia-Molina,Henry F. Korth,Guy M. Lohman,David B. Lomet,David Maier|n/a
+59|Processing Incremental Multidimensional Range Queries in a Direct Manipulation Visual Query.|Stacie Hibino,Elke A. Rundensteiner|25|4|1|7
+60|High Dimensional Similarity Joins: Algorithms and Performance Evaluation.|Nick Koudas,Kenneth C. Sevcik|68|7|2|0
+61|Cost Models for Join Queries in Spatial Databases.|Yannis Theodoridis,Emmanuel Stefanakis,Timos K. Sellis|81|6|1|12
+62|Mining Association Rules: Anti-Skew Algorithms.|Jun-Lin Lin,Margaret H. Dunham|120|19|0|4
+63|Mining for Strong Negative Associations in a Large Database of Customer Transactions.|Ashok Savasere,Edward Omiecinski,Shamkant B. Navathe|356|130|2|0
+64|Mining Optimized Association Rules with Categorical and Numeric Attributes.|Rajeev Rastogi,Kyuseok Shim|192|34|1|5
+65|Remote Load-Sensitive Caching for Multi-Server Database Systems.|Shivakumar Venkataraman,Jeffrey F. Naughton,Miron Livny|13|0|0|0
+66|DB-MAN: A Distributed Database System based on Database Migration in ATM Networks.|Takahiro Hara,Kaname Harumoto,Masahiko Tsukamoto,Shojiro Nishio|17|1|0|6
+67|Network Latency Optimizations in Distributed Database Systems.|Sujata Banerjee,Panos K. Chrysanthis|12|1|1|2
+68|Global Integration of Visual Databases.|Wendy Chang,Deepak Murthy,Aidong Zhang,Tanveer Fathima Syeda-Mahmood|5|1|0|0
+69|The Alps at Your Fingertips: Virtual Reality and Geoinformation Systems.|Renato Pajarola,Thomas Ohler,Peter Stucki,Kornel Szabo,Peter Widmayer|28|1|0|8
+70|Design and Implementation of Display Specification for Multimedia Answers.|Chitta Baral,Graciela Gonzalez,Tran Cao Son|16|1|0|2
+71|Flattening an Object Algebra to Provide Performance.|Peter A. Boncz,Annita N. Wilschut,Martin L. Kersten|101|11|0|21
+72|Back to the Future: Dynamic Hierarchical Clustering.|Chendong Zou,Betty Salzberg,Rivka Ladin|20|3|2|1
+73|Cost and Imprecision in Modeling the Position of Moving Objects.|Ouri Wolfson,Sam Chamberlain,Son Dao,Liqin Jiang,Gisela Mendez|220|38|0|9
+74|ROL: A Prototype for Deductive and Object-Oriented Databases (Demo).|Mengchi Liu,Weidong Yu,Min Guo,Riqiang Shan|1|0|0|1
+75|A Graphical Editor for the Conceptual Design of Business Rules.|Peter Lang,Werner Obermair,W. Kraus,Thomas Thalhammer|7|1|0|1
+76|The Active Hypermedia Delivery System (AHYDS) using the PHASME Application-Oriented DBMS.|Frédéric Andrès,Kinji Ono|5|0|0|2
+77|ECA Rule Support for Distributed Heterogeneous Environments.|Sharma Chakravarthy,Roger Le|26|4|0|2
+78|ZEBRA Image Access System.|Srilekha Mudumbai,Kshitij Shah,Amit P. Sheth,Krishnan Parasuraman,Clemens Bertram|0|0|0|0

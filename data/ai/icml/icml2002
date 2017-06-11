@@ -1,0 +1,89 @@
+88
+1|Machine Learning, Proceedings of the Nineteenth International Conference (ICML 2002), University of New South Wales, Sydney, Australia, July 8-12, 2002.|Claude Sammut,Achim G. Hoffmann|n/a
+2|Scalable Internal-State Policy-Gradient Methods for POMDPs.|Douglas Aberdeen,Jonathan Baxter|81|29|0|2
+3|Feature Subset Selection and Inductive Logic Programming.|Érick Alphonse,Stan Matwin|6|5|0|0
+4|Pruning Improves Heuristic Search for Cost-Sensitive Learning.|Valentina Bayer Zubek,Thomas G. Dietterich|74|31|1|3
+5|Semi-supervised Clustering by Seeding.|Sugato Basu,Arindam Banerjee,Raymond J. Mooney|743|440|6|15
+6|Constraint-based Learning of Long Relational Concepts.|Jacques Ales Bianchetti,Céline Rouveirol,Michèle Sebag|6|1|0|1
+7|Exploiting Relations Among Concepts to Acquire Weakly Labeled Training Data.|Joseph Bockhorst,Mark Craven|21|4|0|1
+8|An epsilon-Optimal Grid-Based Algorithm for Partially Observable Markov Decision Processes.|Blai Bonet|59|20|0|1
+9|Transformation-Based Regression.|Björn Bringmann,Stefan Kramer,Friedrich Neubarth,Hannes Pirker,Gerhard Widmer|6|2|0|1
+10|A New Statistical Approach to Personal Name Extraction.|Zheng Chen,Liu Wenyin,Feng Zhang|21|5|1|1
+11|Learning Decision Rules by Randomized Iterative Local Search.|Michael Chisholm,Prasad Tadepalli|19|8|0|1
+12|IEMS - The Intelligent Email Sorter.|Elisabeth Crawford,Judy Kay,Eric McCreath|52|17|0|5
+13|Exact model averaging with naive Bayesian classifiers.|Denver Dash,Gregory F. Cooper|39|20|0|6
+14|Anytime Interval-Valued Outputs for Kernel Machines: Fast Support Vector Machine Classification via Distance Geometry.|Dennis DeCoste|31|13|0|3
+15|Action Refinement in Reinforcement Learning by Probability Smoothing.|Thomas G. Dietterich,Dídac Busquets,Ramon López de Mántaras,Carles Sierra|7|3|0|0
+16|Integrating Experimentation and Guidance in Relational Reinforcement Learning.|Kurt Driessens,Saso Dzeroski|41|6|0|3
+17|Is Combining Classifiers Better than Selecting the Best One.|Saso Dzeroski,Bernard Zenko|1|0|0|0
+18|Fast Minimum Training Error Discretization.|Tapio Elomaa,Juho Rousu|11|4|0|3
+19|Learning Decision Trees Using the Area Under the ROC Curve.|César Ferri,Peter A. Flach,José Hernández-Orallo|286|108|0|22
+20|Univariate Polynomial Inference by Monte Carlo Message Length Approximation.|Leigh J. Fitzgibbon,David L. Dowe,Lloyd Allison|19|4|0|12
+21|An Analysis of Functional Trees.|João Gama|n/a
+22|Descriptive Induction through Subgroup Discovery: A Case Study in a Medical Domain.|Dragan Gamberger,Nada Lavrac|15|1|0|6
+23|On generalization bounds, projection profile, and margin distribution.|Ashutosh Garg,Sariel Har-Peled,Dan Roth|18|9|0|0
+24|Multi-Instance Kernels.|Thomas Gärtner,Peter A. Flach,Adam Kowalczyk,Alexander J. Smola|381|222|0|8
+25|Combining Labeled and Unlabeled Data for MultiClass Text Categorization.|Rayid Ghani|126|44|1|0
+26|Hierarchically Optimal Average Reward Reinforcement Learning.|Mohammad Ghavamzadeh,Sridhar Mahadevan|13|2|0|7
+27|Sufficient Dimensionality Reduction - A novel Analysis Method.|Amir Globerson,Naftali Tishby|1|0|0|0
+28|A Unified Decomposition of Ensemble Loss for Predicting Ensemble Performance.|Michael Goebel,Patricia J. Riddle,Mike Barley|5|1|0|1
+29|Graph-Based Relational Concept Learning.|Jesus A. Gonzalez,Lawrence B. Holder,Diane J. Cook|26|7|0|9
+30|Coordinated Reinforcement Learning.|Carlos Guestrin,Michail G. Lagoudakis,Ronald Parr|250|128|1|8
+31|Algorithm-Directed Exploration for Model-Based Reinforcement Learning in Factored MDPs.|Carlos Guestrin,Relu Patrascu,Dale Schuurmans|55|25|0|1
+32|Discovering Hierarchy in Reinforcement Learning with HEXQ.|Bernhard Hengst|n/a
+33|Classification Value Grouping.|Colin K. M. Ho|n/a
+34|Linkage and Autocorrelation Cause Feature Selection Bias in Relational Learning.|David Jensen,Jennifer Neville|170|74|0|37
+35|Approximately Optimal Approximate Reinforcement Learning.|Sham Kakade,John Langford|82|45|0|8
+36|An Alternate Objective Function for Markovian Fields.|Sham Kakade,Yee Whye Teh,Sam T. Roweis|72|27|1|0
+37|Interpreting and Extending Classical Agglomerative Clustering Algorithms using a Model-Based approach.|Sepandar D. Kamvar,Dan Klein,Christopher D. Manning|88|38|4|1
+38|Kernels for Semi-Structured Data.|Hisashi Kashima,Teruo Koyanagi|145|53|0|8
+39|A Fast Dual Algorithm for Kernel Logistic Regression.|S. Sathiya Keerthi,Kaibo Duan,Shirish Krishnaj Shevade,Aun Neow Poo|129|62|0|1
+40|From Instance-level Constraints to Space-Level Constraints: Making the Most of Prior Knowledge in Data Clustering.|Dan Klein,Sepandar D. Kamvar,Christopher D. Manning|538|292|2|1
+41|Diffusion Kernels on Graphs and Other Discrete Input Spaces.|Risi Kondor,John D. Lafferty|n/a
+42|Learning the Kernel Matrix with Semi-Definite Programming.|Gert R. G. Lanckriet,Nello Cristianini,Peter L. Bartlett,Laurent El Ghaoui,Michael I. Jordan|1961|1220|7|18
+43|Combining Trainig Set and Test Set Bounds.|John Langford|n/a
+44|Competitive Analysis of the Explore/Exploit Tradeoff.|John Langford,Martin Zinkevich,Sham Kakade|3|2|0|0
+45|Inducing Process Models from Continuous Data.|Pat Langley,Javier Nicolás Sánchez,Ljupco Todorovski,Saso Dzeroski|52|15|0|25
+46|Reinforcement Learning and Shaping: Encouraging Intended Behaviors.|Adam Laud,Gerald DeJong|24|13|0|0
+47|Cranking: Combining Rankings Using Conditional Probability Models on Permutations.|Guy Lebanon,John D. Lafferty|151|87|2|2
+48|Learning to Share Distributed Probabilistic Beliefs.|Christopher Leckie,Kotagiri Ramamohanarao|10|1|0|4
+49|The Perceptron Algorithm with Uneven Margins.|Yaoyong Li,Hugo Zaragoza,Ralf Herbrich,John Shawe-Taylor,Jaz S. Kandola|126|50|3|12
+50|Partially Supervised Classification of Text Documents.|Bing Liu,Wee Sun Lee,Philip S. Yu,Xiaoli Li|362|204|2|39
+51|Feature Selection with Selective Sampling.|Huan Liu,Hiroshi Motoda,Lei Yu|79|37|0|9
+52|Investigating the Maximum Likelihood Alternative to TD(lambda).|Fletcher Lu,Relu Patrascu,Dale Schuurmans|5|0|0|5
+53|A Necessary Condition of Convergence for Reinforcement Learning with Function Approximation.|Artur Merke,Ralf Schoknecht|12|0|0|5
+54|Towards "Large Margin" Speech Recognizers by Boosting and Discriminative Training.|Carsten Meyer,Peter Beyerlein|4|1|0|2
+55|Learning word normalization using word suffix and context from unlabeled data.|Dunja Mladenic|21|6|0|3
+56|Active + Semi-supervised Learning = Robust Multi-View Learning.|Ion Muslea,Steven Minton,Craig A. Knoblock|301|150|6|9
+57|Adaptive View Validation: A First Step Towards Automatic View Detection.|Ion Muslea,Steven Minton,Craig A. Knoblock|45|16|0|4
+58|Stock Trading System Using Reinforcement Learning with Cooperative Agents.|Jangmin O,Jae Won Lee,Byoung-Tak Zhang|8|2|0|2
+59|Learning k-Reversible Context-Free Grammars from Positive Structural Examples.|Tim Oates,Devina Desai,Vinay Bhat|25|11|3|9
+60|MMIHMM: Maximum Mutual Information Hidden Markov Models.|Nuria Oliver,Ashutosh Garg|n/a
+61|Learning Spatial and Temporal Correlation for Navigation in a 2-Dimensional Continuous World.|Anand Panangadan,Michael G. Dyer|1|0|0|1
+62|A Boosted Maximum Entropy Model for Learning Text Chunking.|Seong-Bae Park,Byoung-Tak Zhang|10|2|0|7
+63|On the Existence of Fixed Points for Q-Learning and Sarsa in Partially Observable Domains.|Theodore J. Perkins,Mark D. Pendrith|24|11|0|1
+64|Learning from Scarce Experience.|Leonid Peshkin,Christian R. Shelton|47|20|0|1
+65|PolicyBlocks: An Algorithm for Creating Useful Macro-Actions in Reinforcement Learning.|Marc Pickett,Andrew G. Barto|78|32|0|13
+66|Using Unlabelled Data for Text Classification through Addition of Cluster Parameters.|Bhavani Raskutti,Herman L. Ferrá,Adam Kowalczyk|29|14|0|1
+67|Using Abstract Models of Behaviours to Automatically Generate Reinforcement Learning Hierarchies.|Malcolm R. K. Ryan|40|18|0|0
+68|Syllables and other String Kernel Extensions.|Craig Saunders,Hauke Tschach,John Shawe-Taylor|37|17|2|1
+69|Incorporating Prior Knowledge into Boosting.|Robert E. Schapire,Marie Rochery,Mazin G. Rahim,Narendra K. Gupta|129|40|2|4
+70|Modeling Auction Price Uncertainty Using Boosting-based Conditional Density Estimation.|Robert E. Schapire,Peter Stone,David A. McAllester,Michael L. Littman,János A. Csirik|48|12|1|9
+71|How to Make Stacking Better and Faster While Also Taking Care of an Unknown Weakness.|Alexander K. Seewald|126|79|0|3
+72|Model-based Hierarchical Average-reward Reinforcement Learning.|Sandeep Seri,Prasad Tadepalli|20|4|0|6
+73|Separating Skills from Preference: Using Learning to Program by Reward.|Daniel G. Shapiro,Pat Langley|36|17|0|3
+74|Discriminative Feature Selection via Multiclass Variable Memory Markov Model.|Noam Slonim,Gill Bejerano,Shai Fine,Naftali Tishby|29|13|5|2
+75|Learning to Fly by Controlling Dynamic Instabilities.|David Stirling|0|0|0|0
+76|Randomized Variable Elimination.|David J. Stracuzzi,Paul E. Utgoff|59|31|0|6
+77|Markov Chain Monte Carlo Sampling using Direct Search Optimization.|Malcolm J. A. Strens,Mark Bernhardt,Nicholas Everett|22|6|1|4
+78|Qualitative reverse engineering.|Dorian Suc,Ivan Bratko|n/a
+79|Finding an Optimal Gain-Ratio Subset-Split Test for a Set-Valued Attribute in Decision Tree Induction.|Fumio Takechi,Einoshin Suzuki|2|0|0|1
+80|Refining the Wrapper Approach - Smoothed Error Estimates for Feature Selection.|Loo-Nin Teow,Haifeng Liu,Hwee Tou Ng,Eric Yap|0|0|0|0
+81|Sparse Bayesian Learning for Regression and Classification using Markov Chain Monte Carlo.|Shien-Shin Tham,Arnaud Doucet,Kotagiri Ramamohanarao|16|7|0|3
+82|Issues in Classifier Evaluation using Optimal Cost Curves.|Kai Ming Ting|7|0|0|3
+83|Modeling for Optimal Probability Prediction.|Yong Wang,Ian H. Witten|40|26|0|1
+84|Mining Both Positive and Negative Association Rules.|Xindong Wu,Chengqi Zhang,Shichao Zhang|186|67|0|16
+85|Non-Disjoint Discretization for Naive-Bayes Classifiers.|Ying Yang,Geoffrey I. Webb|23|12|0|4
+86|Representational Upper Bounds of Bayesian Networks.|Huajie Zhang,Charles X. Ling|0|0|0|0
+87|Content-Based Image Retrieval Using Multiple-Instance Learning.|Qi Zhang,Sally A. Goldman,Wei Yu,Jason E. Fritts|224|114|1|7
+88|Statistical Behavior and Consistency of Support Vector Machines, Boosting, and Beyond.|Tong Zhang|2|0|0|1

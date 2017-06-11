@@ -1,0 +1,139 @@
+138
+1|22nd International World Wide Web Conference, WWW '13, Rio de Janeiro, Brazil, May 13-17, 2013.|Daniel Schwabe,Virgílio A. F. Almeida,Hartmut Glaser,Ricardo A. Baeza-Yates,Sue B. Moon|n/a
+2|Real-time recommendation of diverse related articles.|Sofiane Abbar,Sihem Amer-Yahia,Piotr Indyk,Sepideh Mahabadi|26|26|0|1
+3|Multi-label learning with millions of labels: recommending advertiser bid phrases for web pages.|Rahul Agrawal,Archit Gupta,Yashoteja Prabhu,Manik Varma|46|42|0|2
+4|Hierarchical geographical modeling of user locations from social media posts.|Amr Ahmed,Liangjie Hong,Alexander J. Smola|30|30|0|1
+5|Distributed large-scale natural graph factorization.|Amr Ahmed,Nino Shervashidze,Shravan M. Narayanamurthy,Vanja Josifovski,Alexander J. Smola|15|15|0|2
+6|A CRM system for social media: challenges and experiences.|Jitendra Ajmera,Hyung-Il Ahn,Meena Nagarajan,Ashish Verma,Danish Contractor,Stephen Dill,Matthew Denesuk|9|8|0|0
+7|Here's my cert, so trust me, maybe?: understanding TLS errors on the web.|Devdatta Akhawe,Bernhard Amann,Matthias Vallentin,Robin Sommer|28|28|0|1
+8|Towards a robust modeling of temporal interest change patterns for behavioral targeting.|Mohamed Aly,Sandeep Pandey,Vanja Josifovski,Kunal Punera|4|4|0|0
+9|The anatomy of LDNS clusters: findings and implications for web content delivery.|Hussein A. Alzoubi,Michael Rabinovich,Oliver Spatscheck|8|8|0|4
+10|Steering user behavior with badges.|Ashton Anderson,Daniel P. Huttenlocher,Jon M. Kleinberg,Jure Leskovec|100|97|0|1
+11|Cascading tree sheets and recombinant HTML: better encapsulation and retargeting of web content.|Edward Benson,David R. Karger|6|6|0|1
+12|CopyCatch: stopping group attacks by spotting lockstep behavior in social networks.|Alex Beutel,Wanhong Xu,Venkatesan Guruswami,Christopher Palow,Christos Faloutsos|47|46|1|13
+13|Inferring the demographics of search users: social data meets search queries.|Bin Bi,Milad Shokouhi,Michal Kosinski,Thore Graepel|24|24|0|1
+14|Strategyproof mechanisms for competitive influence in networks.|Allan Borodin,Mark Braverman,Brendan Lucier,Joel Oren|9|9|0|1
+15|Reactive crowdsourcing.|Alessandro Bozzon,Marco Brambilla,Stefano Ceri,Andrea Mauri|44|40|0|15
+16|On participation in group chats on Twitter.|Ceren Budak,Rakesh Agrawal|24|23|0|2
+17|The role of web hosting providers in detecting compromised websites.|Davide Canali,Davide Balzarotti,Aurélien Francillon|18|18|0|1
+18|Your browsing behavior for a big mac: economics of personal information online.|Juan Pablo Carrascal,Christopher J. Riederer,Vijay Erramilli,Mauro Cherubini,Rodrigo de Oliveira|24|23|0|0
+19|Is this app safe for children?: a comparison study of maturity ratings on Android and iOS applications.|Ying Chen,Heng Xu,Yilu Zhou,Sencun Zhu|6|6|0|1
+20|Traveling the silk road: a measurement analysis of a large anonymous online marketplace.|Nicolas Christin|157|148|0|7
+21|Group chats on Twitter.|James Cook,Krishnaram Kenthapadi,Nina Mishra|9|8|0|1
+22|How to grow more pairs: suggesting review targets for comparison-friendly review ecosystems.|James Cook,Alex Fabrikant,Avinatan Hassidim|1|1|0|1
+23|A framework for benchmarking entity-annotation systems.|Marco Cornolti,Paolo Ferragina,Massimiliano Ciaramita|73|73|0|4
+24|A framework for learning web wrappers from the crowd.|Valter Crescenzi,Paolo Merialdo,Disheng Qiu|20|20|0|5
+25|Lightweight server support for browser-based CSRF protection.|Alexei Czeskis,Alexander Moshchuk,Tadayoshi Kohno,Helen J. Wang|19|18|0|1
+26|Aggregating crowdsourced binary ratings.|Nilesh N. Dalvi,Anirban Dasgupta,Ravi Kumar,Vibhor Rastogi|32|29|0|2
+27|Optimal hashing schemes for entity matching.|Nilesh N. Dalvi,Vibhor Rastogi,Anirban Dasgupta,Anish Das Sarma,Tamás Sarlós|5|5|0|0
+28|No country for old members: user lifecycle and linguistic change in online communities.|Cristian Danescu-Niculescu-Mizil,Robert West,Dan Jurafsky,Jure Leskovec,Christopher Potts|78|75|0|1
+29|Crowdsourced judgement elicitation with endogenous proficiency.|Anirban Dasgupta,Arpita Ghosh|20|19|0|1
+30|Timespent based models for predicting user retention.|Kushal S. Dave,Vishal Vaingankar,Sumanth Kolar,Vasudeva Varma|6|5|0|1
+31|Attributing authorship of revisioned content.|Luca de Alfaro,Michael Shavlovsky|2|2|0|0
+32|ClausIE: clause-based open information extraction.|Luciano Del Corro,Rainer Gemulla|63|60|0|4
+33|Pick-a-crowd: tell me what you like, and i'll tell you what to do.|Djellel Eddine Difallah,Gianluca Demartini,Philippe Cudré-Mauroux|59|57|0|10
+34|Compact explanation of data fusion decisions.|Xin Luna Dong,Divesh Srivastava|8|8|0|0
+35|From query to question in one click: suggesting synthetic questions to searchers.|Gideon Dror,Yoelle Maarek,Avihai Mejer,Idan Szpektor|5|5|0|0
+36|Perception and understanding of social annotations in web search.|Jennifer Fernquist,Ed H. Chi|10|10|0|0
+37|AMIE: association rule mining under incomplete evidence in ontological knowledge bases.|Luis Antonio Galárraga,Christina Teflioudi,Katja Hose,Fabian M. Suchanek|68|64|0|8
+38|PrefixSolve: efficiently solving multi-source multi-destination path queries on RDF graphs by sharing suffix computations.|Sidan Gao,Kemafor Anyanwu|0|0|0|0
+39|When tolerance causes weakness: the case of injection-friendly browsers.|Yossi Gilad,Amir Herzberg|2|2|0|1
+40|Exploiting innocuous activity for correlating users across sites.|Oana Goga,Howard Lei,Sree Hari Krishnan Parthasarathi,Gerald Friedland,Robin Sommer,Renata Teixeira|46|45|0|2
+41|The cost of annoying ads.|Daniel G. Goldstein,R. Preston McAfee,Siddharth Suri|13|12|0|2
+42|Researcher homepage classification using unlabeled data.|Sujatha Das Gollapalli,Cornelia Caragea,Prasenjit Mitra,C. Lee Giles|13|13|0|4
+43|Google+ or Google-?: dissecting the evolution of the new OSN in its first year.|Roberto Gonzalez,Ruben Cuevas,Reza Motamedi,Reza Rejaie,Ángel Cuevas|31|31|0|6
+44|Probabilistic group recommendation via information matching.|Jagadeesh Gorla,Neal Lathia,Stephen Robertson,Jun Wang|21|20|0|0
+45|WTF: the who to follow service at Twitter.|Pankaj Gupta,Ashish Goel,Jimmy Lin,Aneesh Sharma,Dong Wang,Reza Zadeh|123|118|0|12
+46|Mining expertise and interests from social media.|Ido Guy,Uri Avraham,David Carmel,Sigalit Ur,Michal Jacovi,Inbal Ronen|36|36|0|6
+47|Measuring personalization of web search.|Aniko Hannak,Piotr Sapiezynski,Arash Molavi Kakhki,Balachander Krishnamurthy,David Lazer,Alan Mislove,Christo Wilson|57|53|0|2
+48|Estimating clustering coefficients and size of social networks via random walk.|Stephen J. Hardiman,Liran Katzir|24|24|0|0
+49|Exploiting annotations for the rapid development of collaborative web applications.|Matthias Heinrich,Franz Josef Grüneberger,Thomas Springer,Martin Gaedke|13|13|0|2
+50|Web usage mining with semantic analysis.|Laura Hollink,Peter Mika,Roi Blanco|8|8|0|2
+51|Organizational overlap on social networks and its applications.|Cho-Jui Hsieh,Mitul Tiwari,Deepak Agarwal,Xinyi (Lisa) Huang,Sam Shah|8|8|0|1
+52|Space-efficient data structures for Top-k completion.|Bo-June Paul Hsu,Giuseppe Ottaviano|19|19|0|2
+53|Personalized recommendation via cross-domain triadic factorization.|Liang Hu,Jian Cao,Guandong Xu,Longbing Cao,Zhiping Gu,Can Zhu|35|33|0|0
+54|Unsupervised sentiment analysis with emotional signals.|Xia Hu,Jiliang Tang,Huiji Gao,Huan Liu|85|80|0|14
+55|An analysis of socware cascades in online social networks.|Ting-Kai Huang,Md Sazzadur Rahman,Harsha V. Madhyastha,Michalis Faloutsos|11|11|0|2
+56|Measurement and analysis of child pornography trafficking on P2P networks.|Ryan Hurley,Swagatika Prusty,Hamed Soroush,Robert J. Walls,Jeannie R. Albrecht,Emmanuel Cecchet,Brian Neil Levine,Marc Liberatore,Brian Lynn,Janis Wolak|13|13|0|1
+57|HeteroMF: recommendation in heterogeneous information networks using context dependent factor models.|Mohsen Jamali,Laks V. S. Lakshmanan|18|17|0|0
+58|Interactive exploratory search for multi page search results.|Xiaoran Jin,Marc Sloan,Jun Wang|11|11|0|4
+59|Spatio-temporal dynamics of online memes: a study of geo-tagged tweets.|Krishna Yeswanth Kamath,James Caverlee,Kyumin Lee,Zhiyuan Cheng|38|35|0|3
+60|Accountable key infrastructure (AKI): a proposal for a public-key validation infrastructure.|Tiffany Hyun-Jin Kim,Lin-Shung Huang,Adrian Perrig,Collin Jackson,Virgil D. Gligor|46|45|0|3
+61|DIGTOBI: a recommendation system for Digg articles using probabilistic modeling.|Younghoon Kim,Yoonjae Park,Kyuseok Shim|4|4|0|1
+62|Understanding latency variations of black box services.|Darja Krushevskaja,Mark Sandler|2|2|0|0
+63|Diversified recommendation on graphs: pitfalls, measures, and algorithms.|Onur Küçüktunç,Erik Saule,Kamer Kaya,Ümit V. Çatalyürek|18|16|0|2
+64|What is the added value of negative links in online social networks?|Jérôme Kunegis,Julia Preusse,Felix Schwagereit|12|12|0|0
+65|Voices of victory: a computational focus group framework for tracking opinion shift in real time.|Yu-Ru Lin,Drew Margolin,Brian Keegan,David Lazer|24|23|0|8
+66|Rethinking the web as a personal archive.|Siân E. Lindley,Catherine C. Marshall,Richard Banks,Abigail Sellen,Tim Regan|26|25|0|7
+67|Expressive languages for selecting groups from graph-structured data.|Vitaliy Liptchinsky,Benjamin Satzger,Rostyslav Zabolotnyi,Schahram Dustdar|2|2|0|1
+68|Modeling/predicting the evolution trend of osn-based applications.|Han Liu,Atif Nazir,Jinoo Joung,Chen-Nee Chuah|9|9|0|1
+69|SoCo: a social network aided context-aware recommender system.|Xin Liu,Karl Aberer|56|52|0|5
+70|Using stranger as sensors: temporal and geo-sensitive question answering via social media.|Yefeng Liu,Todorka Alexandrova,Tatsuo Nakajima|22|19|0|6
+71|Imagen: runtime migration of browser sessions for javascript web applications.|James Teng Kin Lo,Eric Wohlstadter,Ali Mesbah|14|14|0|1
+72|Gender swapping and user behaviors in online social games.|Jing-Kai Lou,Kunwoo Park,Meeyoung Cha,Juyong Park,Chin-Laung Lei,Kuan-Ta Chen|13|13|0|1
+73|Mining structural hole spanners through information diffusion in social networks.|Tiancheng Lou,Jie Tang|51|47|0|19
+74|On the evolution of the internet economic ecosystem.|Richard T. B. Ma,John C. S. Lui,Vishal Misra|n/a
+75|Two years of short URLs internet measurement: security threats and countermeasures.|Federico Maggi,Alessandro Frossi,Stefano Zanero,Gianluca Stringhini,Brett Stone-Gross,Christopher Kruegel,Giovanni Vigna|25|25|0|4
+76|Know your personalization: learning topic level personalization in online services.|Anirban Majumder,Nisheeth Shrivastava|12|12|0|1
+77|Saving, reusing, and remixing web video: using attitudes and practices to reveal social norms.|Catherine C. Marshall,Frank M. Shipman III|8|8|0|4
+78|From amateurs to connoisseurs: modeling the evolution of user expertise through online reviews.|Julian John McAuley,Jure Leskovec|81|77|0|4
+79|The FLDA model for aspect-based opinion mining: addressing the cold start problem.|Samaneh Moghaddam,Martin Ester|27|26|0|2
+80|Iolaus: securing online content rating systems.|Arash Molavi Kakhki,Chloe Kliman-Silver,Alan Mislove|20|20|0|0
+81|On cognition, emotion, and interaction aspects of search tasks with different search intentions.|Yashar Moshfeghi,Joemon M. Jose|9|9|0|2
+82|Ad impression forecasting for sponsored search.|Abhirup Nath,Shibnath Mukherjee,Prateek Jain,Navin Goyal,Srivatsan Laxman|4|4|0|0
+83|Measurement and modeling of eye-mouse behavior in the presence of nonlinear page layouts.|Vidhya Navalpakkam,LaDawn Jentzsch,Rory Sayres,Sujith Ravi,Amr Ahmed,Alexander J. Smola|20|18|0|1
+84|Understanding and decreasing the network footprint of catch-up tv.|Gianfranco Nencioni,Nishanth Sastry,Jigna Chandaria,Jon Crowcroft|8|8|0|2
+85|Sorry, i don't speak SPARQL: translating SPARQL queries into natural language.|Axel-Cyrille Ngonga Ngomo,Lorenz Bühmann,Christina Unger,Jens Lehmann,Daniel Gerber|24|24|0|2
+86|Bitsquatting: exploiting bit-flips for fun, or profit?|Nick Nikiforakis,Steven Van Acker,Wannes Meert,Lieven Desmet,Frank Piessens,Wouter Joosen|9|9|0|5
+87|One-class collaborative filtering with random graphs.|Ulrich Paquet,Noam Koenigstein|35|32|0|13
+88|Latent credibility analysis.|Jeff Pasternack,Dan Roth|37|36|0|0
+89|Predicting group stability in online social networks.|Akshay Patil,Juan Liu,Jie Gao|17|17|0|1
+90|Predictive web automation assistant for people with vision impairments.|Yury Puzis,Yevgen Borodin,Rami Puzis,I. V. Ramakrishnan|9|9|0|7
+91|Mining collective intelligence in diverse groups.|Guo-Jun Qi,Charu C. Aggarwal,Jiawei Han,Thomas S. Huang|24|24|0|4
+92|Trade area analysis using user generated mobile location data.|Yan Qu,Jun Zhang|22|19|0|2
+93|Psychological maps 2.0: a web engagement enterprise starting in London.|Daniele Quercia,João Paulo Pesce,Virgilio Almeida,Jon Crowcroft|15|15|0|7
+94|Towards realistic team formation in social networks based on densest subgraphs.|Syama Sundar Rangapuram,Thomas Bühler,Matthias Hein|11|11|0|0
+95|Efficient community detection in large networks using content and links.|Yiye Ruan,David Fuhry,Srinivasan Parthasarathy|40|36|0|2
+96|Learning joint query interpretation and response ranking.|Uma Sawant,Soumen Chakrabarti|14|13|0|4
+97|A model for green design of online news media services.|Daniel Schien,Paul Shabajee,Stephen G. Wood,Chris Preist|8|8|0|6
+98|Potential networks, contagious communities, and understanding social network structure.|Grant Schoenebeck|7|7|0|0
+99|Do social explanations work?: studying and modeling the effects of social explanations in recommender systems.|Amit Sharma,Dan Cosley|27|26|0|5
+100|Question answering on interlinked data.|Saeedeh Shekarpour,Axel-Cyrille Ngonga Ngomo,Sören Auer|30|26|0|8
+101|Pricing mechanisms for crowdsourcing markets.|Yaron Singer,Manas Mittal|70|68|0|2
+102|Truthful incentives in crowdsourcing tasks using regret minimization mechanisms.|Adish Singla,Andreas Krause|77|74|0|7
+103|A predictive model for advertiser value-per-click in sponsored search.|Eric Sodomka,Sébastien Lahaie,Dustin Hillard|5|5|0|0
+104|I know the shortened URLs you clicked on Twitter: inference attack using public click analytics and Twitter metadata.|Jonghyuk Song,Sangho Lee,Jong Kim|4|4|0|2
+105|Exploring and exploiting user search behavior on mobile and tablet devices to improve search relevance.|Yang Song,Hao Ma,Hongning Wang,Kuansan Wang|25|23|0|0
+106|Evaluating and predicting user engagement change with degraded search relevance.|Yang Song,Xiaolin Shi,Xin Fu|10|10|0|0
+107|Data-Fu: a language and an interpreter for interaction with read/write linked data.|Steffen Stadtmüller,Sebastian Speiser,Andreas Harth,Rudi Studer|32|32|0|7
+108|NIFTY: a system for large scale information flow tracking and clustering.|Caroline Suen,Sandy Huang,Chantat Eksombatchai,Rok Sosic,Jure Leskovec|16|15|0|1
+109|When relevance is not enough: promoting diversity and freshnessin personalized question recommendation.|Idan Szpektor,Yoelle Maarek,Dan Pelleg|25|23|0|2
+110|Mining acronym expansions and their meanings using query click log.|Bilyana Taneva,Tao Cheng,Kaushik Chakrabarti,Yeye He|5|5|0|0
+111|Groundhog day: near-duplicate detection on Twitter.|Ke Tao,Fabian Abel,Claudia Hauff,Geert-Jan Houben,Ujwal Gadiraju|19|19|0|4
+112|Uncovering locally characterizing regions within geotagged data.|Bart Thomee,Adam Rae|16|16|0|0
+113|Spectral analysis of communication networks using Dirichlet eigenvalues.|Alexander Tsiatas,Iraj Saniee,Onuttom Narayan,Matthew Andrews|6|6|0|2
+114|Subgraph frequencies: mapping the empirical and extremal geography of large graph collections.|Johan Ugander,Lars Backstrom,Jon M. Kleinberg|36|36|0|1
+115|The self-feeding process: a unifying model for communication dynamics in the web.|Pedro Olmo S. Vaz de Melo,Christos Faloutsos,Renato Assunção,Antonio Alfredo Ferreira Loureiro|5|5|0|3
+116|Google+Ripples: a native visualization of information flow.|Fernanda B. Viégas,Martin Wattenberg,Jack Hebert,Geoffrey Borggaard,Alison Cichowlas,Jonathan Feinberg,Jon Orwant,Christopher Richard Wren|20|20|0|0
+117|Whom to mention: expand the diffusion of tweets by @ recommendation on micro-blogging systems.|Beidou Wang,Can Wang,Jiajun Bu,Chun Chen,Wei Vivian Zhang,Deng Cai,Xiaofei He|27|27|0|2
+118|Wisdom in the social crowd: an analysis of quora.|Gang Wang,Konark Gill,Manish Mohanlal,Haitao Zheng,Ben Y. Zhao|51|49|0|2
+119|Learning to extract cross-session search tasks.|Hongning Wang,Yang Song,Ming-Wei Chang,Xiaodong He,Ryen W. White,Wei Chu|29|28|0|4
+120|Content-aware click modeling.|Hongning Wang,ChengXiang Zhai,Anlei Dong,Yi Chang|8|8|0|3
+121|Is it time for a career switch?|Jian Wang,Yi Zhang,Christian Posse,Anmol Bhasin|17|17|0|6
+122|From cookies to cooks: insights on dietary patterns via analysis of web usage logs.|Robert West,Ryen W. White,Eric Horvitz|22|20|0|2
+123|Enhancing personalized search by mining and modeling task behavior.|Ryen W. White,Wei Chu,Ahmed Hassan Awadallah,Xiaodong He,Yang Song,Hongning Wang|44|43|0|5
+124|Inferring dependency constraints on parameters for web services.|Qian Wu,Ling Wu,Guangtai Liang,Qianxiang Wang,Tao Xie,Hong Mei|7|7|0|0
+125|Predicting advertiser bidding behaviors in sponsored search by rationality modeling.|Haifeng Xu,Bin Gao,Diyi Yang,Tie-Yan Liu|8|8|0|4
+126|A biterm topic model for short texts.|Xiaohui Yan,Jiafeng Guo,Yanyan Lan,Xueqi Cheng|80|75|0|3
+127|Unified entity search in social media community.|Ting Yao,Yuan Liu,Chong-Wah Ngo,Tao Mei|6|6|0|2
+128|MATRI: a multi-aspect and transitive trust inference model.|Yuan Yao,Hanghang Tong,Xifeng Yan,Feng Xu,Jian Lu|21|20|0|3
+129|Predicting positive and negative links in signed social networks by transfer learning.|Jihang Ye,Hong Cheng,Zhe Zhu,Minghua Chen|33|33|0|0
+130|Sparse online topic models.|Aonan Zhang,Jun Zhu,Bo Zhang|7|6|0|2
+131|TopRec: domain-specific recommendation through community topic mining in social network.|Xi Zhang,Jian Cheng,Ting Yuan,Biao Niu,Hanqing Lu|16|16|0|2
+132|Localized matrix factorization for recommendation based on matrix block diagonal forms.|Yongfeng Zhang,Min Zhang,Yiqun Liu,Shaoping Ma,Shi Feng|14|14|0|5
+133|Predicting purchase behaviors from social media.|Yongzheng Zhang,Marco Pennacchiotti|34|34|0|1
+134|Anatomy of a web-scale resale market: a data mining approach.|Yuchen Zhao,Neel Sundaresan,Zeqian Shen,Philip S. Yu|4|4|0|1
+135|Questions about questions: an empirical analysis of information needs on Twitter.|Zhe Zhao,Qiaozhu Mei|22|22|0|3
+136|Which vertical search engines are relevant?|Ke Zhou,Ronan Cummins,Mounia Lalmas,Joemon M. Jose|11|11|0|6
+137|Making the most of your triple store: query answering in OWL 2 using an RL reasoner.|Yujiao Zhou,Bernardo Cuenca Grau,Ian Horrocks,Zhe Wu,Jay Banerjee|24|23|0|12
+138|Security implications of password discretization for click-based graphical passwords.|Bin B. Zhu,Dongchen Wei,Maowei Yang,Jeff Yan|3|3|0|1

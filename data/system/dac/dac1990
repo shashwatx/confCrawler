@@ -1,0 +1,134 @@
+133
+1|Proceedings of the 27th ACM/IEEE Design Automation Conference. Orlando, Florida, USA, June 24-28, 1990.|Richard C. Smith|n/a
+2|The VHDL Validation Suite.|James Armstrong,Chang Cho,Sandeep Shah,Chakravarthy Kosaraju|5|2|1|0
+3|NES: The Behavioral Model for the Formal Semantics of a Hardware Design Language UDL/I.|Nagisa Ishiura,Hiroto Yasuura,Shuzo Yajima|6|1|0|1
+4|An Intermediate Representation for Behavioral Synthesis.|Nikil D. Dutt,Tedd Hadley,Daniel Gajski|34|4|0|5
+5|Optimization by Simulated Evolution with Applications to Standard Cell Placement.|Ralph-Michael Kling,Prithviraj Banerjee|41|5|2|2
+6|Stochastic Evolution: a Fast Effective Heuristic for Some Generic Layout Problems.|Youssef Saab,Vasant B. Rao|66|9|1|0
+7|Integrated Placement for Mixed Macro Cell and Standard Cell Designs.|Michael Upton,Khosrow Samii,Stephen Sugiyama|35|1|7|0
+8|A New Simultaneous Circuit Partitioning and Chip Placement Approach Based on Simulated Annealing.|Abhijit Chatterjee,Richard I. Hartley|23|4|1|2
+9|Efficient Implementation of a BDD Package.|Karl S. Brace,Richard L. Rudell,Randal E. Bryant|1488|237|11|15
+10|Sequential Circuit Verification Using Symbolic Model Checking.|Jerry R. Burch,Edmund M. Clarke,Kenneth L. McMillan,David L. Dill|578|56|16|26
+11|Shared Binary Decision Diagram with Attributed Edges for Efficient Boolean function Manipulation.|Shin-ichi Minato,Nagisa Ishiura,Shuzo Yajima|483|82|1|41
+12|Women in the Microelectronics Industry (Panel Abstract).|Petra Michel|n/a
+13|Relative Scheduling Under Timing Constraints.|David C. Ku,Giovanni De Micheli|71|13|0|10
+14|Optimum and Heuristic Data Path Scheduling Under Resource Constraints.|Cheng-Tsung Hwang,Yu-Chin Hsu,Youn-Long Lin|51|2|0|4
+15|The Combination of Scheduling, Allocation, and Mapping in a Single Algorithm.|Richard J. Cloutier,Donald E. Thomas|139|11|1|8
+16|A Linear Program Driven Scheduling and Allocation Method Followed by an Interconnect Optimization Algorithm.|Christos A. Papachristou,Haluk Konuk|89|4|0|5
+17|Timing Driven Placement Using Complete Path Delays.|Wilm E. Donath,Reini J. Norman,Bhuwan K. Agrawal,Stephen E. Bello,Sang-Yong Han,Jerome M. Kurtzberg,Paul Lowy,Roger I. McMillan|154|8|2|0
+18|An Adaptive Timing-Driven Layout for High Speed VLSI.|Suphachai Sutanthavibul,Eugene Shragowitz|56|2|1|3
+19|A New Min-Cut Placement Algorithm for Timing Assurance Layout Design Meeting Net Length Constraint.|Masayuki Terai,Kazuhiro Takahashi,Koji Sato|32|3|1|0
+20|Performance-Driven Constructive Placement.|Ichiang Lin,David Hung-Chang Du|47|1|0|0
+21|MHERTZ: A New Optimization Algorithm for Floorplanning and Global Routing.|Daniel R. Brasen,Michael L. Bushnell|18|0|7|0
+22|Analysis and Design of Latch-Controlled Synchronous Digital Circuits.|Karem A. Sakallah,Trevor N. Mudge,Kunle Olukotun|72|9|2|4
+23|Timing Verification Using HDTV.|Alan R. Martello,Steven P. Levitan,Donald M. Chiarulli|21|1|0|2
+24|Timing Analysis in Precharge/Unate Networks.|Patrick C. McGeer,Robert K. Brayton|9|0|0|1
+25|Coded Time-Symbolic Simulation Using Shared Binary Decision Diagram.|Nagisa Ishiura,Yutaka Deguchi,Shuzo Yajima|38|0|0|7
+26|Design Management Based on Design Traces.|Andrea Casotto,A. Richard Newton,Alberto L. Sangiovanni-Vincentelli|69|5|0|0
+27|Meta Data Management in the NELSIS CAD Framework.|Pieter van der Wolf,G. W. Sloof,Peter Bingley,Patrick Dewilde|28|0|0|4
+28|An Intelligent Component Database for Behavioral Synthesis.|Gwo-Dong Chen,Daniel Gajski|17|1|0|4
+29|Design Data Management in a CAD Framework Environment.|Lung-Chun Liu|14|0|1|0
+30|Memory, Control and Communications Synthesis for Scheduled Algorithms.|Douglas M. Grant,Peter B. Denyer|22|0|2|1
+31|A Generalized Interconnect Model for Data Path Synthesis.|Tai A. Ly,W. Lloyd Elwood,Emil F. Girczyc|42|3|0|1
+32|Automatic Operator Configuration in the Synthesis of Pipelined Architectures.|Kristen N. McNall,Albert E. Casavant|12|1|0|1
+33|An Optimal Algorithm for Floorplan Area Optimization.|Ting-Chi Wang,D. F. Wong|91|6|2|4
+34|An Analytical Approach to Floorplan Design and Optimization.|Suphachai Sutanthavibul,Eugene Shragowitz,J. Ben Rosen|96|23|1|0
+35|Pad Placement and Ring Routing for Custom Chip Layout.|Deborah C. Wang|14|0|2|0
+36|Comparing Structurally Different Views of a VLSI Design.|Mike Spreitzer|8|0|0|0
+37|Verification of Interacting Sequential Circuits.|Abhijit Ghosh,Srinivas Devadas,A. Richard Newton|18|1|0|4
+38|Distributed Computing Environment for Design Automation in the 90's (Panel Abstract).|Basant R. Chawla|n/a
+39|Synthesis and Optimization Procedures for Robustly Delay-Fault Testable Combinational Logic Circuits.|Srinivas Devadas,Kurt Keutzer|54|2|9|11
+40|Is Redundancy Necessary to Reduce Delay.|Kurt Keutzer,Sharad Malik,Alexander Saldanha|75|4|2|12
+41|Test Function Specification in Synthesis.|Vishwani D. Agrawal,Kwang-Ting Cheng|8|2|0|1
+42|Layout Synthesis of MOS Digital Cells.|Antun Domic|4|0|0|0
+43|A Practical Online Design Rule Checking System.|Goro Suzuki,Yoshio Okamura|10|0|4|0
+44|Design and Performance Evaluation of New Massively Parallel VLSI Mask Verification Algorithms in JIGSAW.|Erik C. Carlson,Rob A. Rutenbar|7|1|0|0
+45|Circuit Extraction on a Message-Based Multiprocessor.|Bruce A. Tonkin|12|0|0|1
+46|SKILL: A CAD System Extension Language.|Timothy J. Barnes|35|21|1|0
+47|BREL - a Prolog Knowledge-based System Shell for VLSI CAD.|Marwan A. Jabri|5|0|0|0
+48|Design Methodology Management - a CAD Framework Initiative Perspective.|Kenneth W. Fiduk,Sally Kleinfeldt,Marta Kosarchyn,Eileen B. Perez|24|3|0|0
+49|Boolean Resubstitution with Permissible Functions and Binary Decision Diagrams.|Hitomi Sato,Yoshihiro Yasue,Yusuke Matsunaga,Masahiro Fujita|34|1|0|5
+50|Reduced Offsets for Two-Level Multi-Valued Logic Minimization.|Abdul A. Malik,Robert K. Brayton,A. Richard Newton,Alberto L. Sangiovanni-Vincentelli|9|2|0|3
+51|The Use of Observability and External Don't Cares for the Simplification of Multi-Level Networks.|Hamid Savoj,Robert K. Brayton|125|18|1|14
+52|An Entropy Measure for the Complexity of Multi-Output Boolean Functions.|Kwang-Ting Cheng,Vishwani D. Agrawal|87|8|0|4
+53|A Data Path Layout Assembler for High Performance DSP Circuits.|H. Cai,Stefaan Note,Paul Six,Hugo De Man|30|1|3|2
+54|Global Routing Considerations in a Cell Synthesis System.|Dwight D. Hill,Don Shugard|4|1|0|0
+55|Benchmarks for Cell Synthesis.|Dwight D. Hill,Bryan Preas|0|0|0|0
+56|New Algorithm for Overlapping Cell Treatment in Hierarchical CAD Data/Electron Beam Exposure Data Conversion.|Tsuneo Okubo,Takashi Watanabe,Kou Wada|6|0|4|1
+57|Design of Repairable and Fully Diagnosable Folded PLAs for Yield Enhancement.|Chin-Long Wey,Jyhyeung Ding,Tsin-Yuan Chang|1|0|0|1
+58|NASFLOW, a Simulation Tool for Silicon Technology Development.|D. David Forsythe,Atul P. Agarwal,Chune-Sin Yeh,Sheldon Aronowitz,Bhaskar Gadepally|1|0|0|0
+59|Testing Strategies for the 1990's (Panel Abstract).|Alberto L. Sangiovanni-Vincentelli|n/a
+60|Timing Optimization for Multi-Level Combinational Networks.|Kuang-Chien Chen,Saburo Muroga|47|4|1|5
+61|Logic Optimization Algorithm by Linear Programming Approach.|Naohiro Kageyama,Chihei Miura,Tsuguo Shimizu|2|0|0|1
+62|Delay and Area Optimization in Standard-Cell Design.|Shen Lin,Malgorzata Marek-Sadowska,Ernest S. Kuh|57|7|1|2
+63|Algorithms for Library-Specific Sizing of Combinational Logic.|Pak K. Chan|76|18|1|0
+64|A Heuristic Algorithm for the Fanout Problem.|Kanwar Jit Singh,Alberto L. Sangiovanni-Vincentelli|94|5|3|0
+65|A Depth-Decreasing Heuristic for Combinational Logic: Or How To Convert a Ripple-Carry Adder Into A Carry-Lookahead Adder Or Anything in-between.|John P. Fishburn|48|6|12|2
+66|Multilevel Synthesis Minimizing the Routing Factor.|Pierre Abouzeid,K. Sakouti,Gabriele Saucier,Franck Poirot|32|2|0|3
+67|Layout Compaction with Attractive and Repulsive Constraints.|Akira Onozawa|14|2|0|1
+68|A Hierarchy Preserving Hierarchical Compactor.|David Marple|46|3|4|0
+69|An O(n1.5logn) 1-d Compaction Algorithm.|Chi-Yuan Lo,Ravi Varadarajan|n/a
+70|Datapath Generator Based on Gate-Level Symbolic Layout.|Nobu Matsumoto,Yoko Watanabe,Kimiyoshi Usami,Yukio Sugeno,Hiroshi Hatada,Shojiro Mori|6|0|0|0
+71|Parallel Circuit Simulation Using Hierarchical Relaxation.|Gih-Guang Hung,Yen-Cheng Wen,Kyle Gallivan,Resve A. Saleh|8|1|0|2
+72|PARASPICE: A Parallel Circuit Simulator for Shared-Memory Multiprocessors.|Gung-Chung Yang|21|8|0|0
+73|Waveform Moment Methods for Improved Interconnection Analysis.|Steven Paul McCormick,Jonathan Allen|28|3|1|0
+74|System Simulation of Printed Circuit Boards Including Packages and Connectors.|K. Adamiak,R. Allen,J. Poltz,C. Rebizant,A. Wexler|2|0|0|0
+75|A Framework for Industrial Layout Generators.|Wayne Bower,Carl Seaquist,Wayne Wolf|5|0|0|0
+76|Organized C: A Unified Method of Handling Data in CAD Algorithms and Databases.|Jiri Soukup|7|0|1|1
+77|An Object-Oriented VHDL Design Environment.|Moon-Jung Chung,Sangchul Kim|30|2|2|2
+78|An Object-Oriented Kernel for an Integrated Design and Process Planning System.|S. J. Feghhi,Michael M. Marefat,Rangasami L. Kashyap|2|0|0|0
+79|Percolation Based Synthesis.|Roni Potasman,Joseph Lis,Alexandru Nicolau,Daniel Gajski|126|7|2|1
+80|Synthesis Using Path-Based scheduling: algorithms and Exercises.|Raul Compasano,Reinaldo A. Bergamaschi|55|5|0|10
+81|Global Hardware Synthesis from Behavioral Dataflow Descriptions.|Josef Scheichenzuber,Werner Grass,Ulrich Lauther,Sabine März|17|1|0|0
+82|A Transistor Reordering Technique for Gate Matrix Layout.|Uminder Singh,C. Y. Roger Chen|4|0|0|2
+83|PALACE: A Kayout Generator for SCVS Logic Blocks.|Knut M. Just,Edgar Auer,Werner L. Schiele,Alexander Schwaferts|1|0|0|0
+84|LiB: A Cell Layout Generator.|Yung-Ching Hsieh,Chi-Yi Hwang,Youn-Long Lin,Yu-Chin Hsu|16|3|2|1
+85|Techniques for Unit-Delay Compiled Simulation.|Peter M. Maurer,Zhicheng Wang|35|0|0|16
+86|Distributed and Parallel Demand Driven Logic Simulation.|K. Subramanian,Mehdi R. Zargham|5|0|1|0
+87|LECSIM: A Levelized Event Driven Compiled Logic Simulation.|Zhicheng Wang,Peter M. Maurer|89|14|0|19
+88|Standards, Openness and Design Environments in Electronic Design Automation (Panel Abstract).|A. Richard Newton|n/a
+89|Data Path Allocation Based on Bipartite Weighted Matching.|Chu-Yi Huang,Yen-Shen Chen,Youn-Long Lin,Yu-Chin Hsu|182|45|0|5
+90|A Global, Dynamic Register Allocation and Binding for a Data Path Synthesis System.|Nam Sung Woo|27|2|1|0
+91|Data Path Tradeoffs Using MABAL.|Kayhan Küçükçakar,Alice C. Parker|55|0|0|3
+92|Symbolic Simulation - Techniques and Applications.|Randal E. Bryant|90|22|0|5
+93|An Efficient Delay Test Generation System for Combinational Logic Circuits.|Eun Sei Park,M. Ray Mercer|70|9|2|4
+94|Automatic Incorporation of On-Chip Testability Circuits.|Noriyuki Ito|6|1|0|0
+95|Proofs: A Fast, Memory Efficient Sequential Circuit Fault Simulator.|Thomas M. Niermann,Wu-Tung Cheng,Janak H. Patel|247|17|2|2
+96|Integration of Hardware and Software in Embedded Systems Design (Panel Abstract).|William Lattin|n/a
+97|Architecture Synthesis of High-Performance Application-Specific Processors.|Mauricio Breternitz Jr.,John Paul Shen|52|2|0|1
+98|High-Level Synthesis: Technology Transfer to Industry.|Robin C. Sarma,Mark D. Dooley,N. Craig Newman,Graham Hetherington|11|1|0|0
+99|ASSURE: Automated Design for Dependability.|Patrick Edmond,Anurag P. Gupta,Daniel P. Siewiorek,Audrey A. Brennan|14|1|0|4
+100|Constraint Generation for Routing Analog Circuits.|Umakanta Choudhury,Alberto L. Sangiovanni-Vincentelli|55|4|2|16
+101|Segmented Channel Routing.|Jonathan W. Greene,Vwani P. Roychowdhury,Sinan Kaptanoglu,Abbas El Gamal|84|7|2|2
+102|Clock Routing for High-Performance ICs.|Michael A. B. Jackson,Arvind Srinivasan,Ernest S. Kuh|290|64|6|1
+103|Sequential Test Generation at the Register-Transfer and Logic Levels.|Abhijit Ghosh,Srinivas Devadas,A. Richard Newton|23|0|0|1
+104|Behavioral Fault Simulation in VHDL.|P. C. Ward,James R. Armstrong|63|5|1|3
+105|Speed Up of Test Generation Using High-Level Primitives.|Ramachandra P. Kunda,Jacob A. Abraham,Bharat Deep Rathi,Prakash Narain|45|0|0|1
+106|Impact and Evaluation of Competing Implementation Media for ASIC's (Panel Abstract).|Kurt Keutzer|n/a
+107|A Unified Approach to the Decomposition and Re-Decomposition of Sequential Machines.|Pranav Ashar,Srinivas Devadas,A. Richard Newton|29|5|1|0
+108|Corolla Based Circuit Partitioning and Resynthesis.|Sujit Dey,Franc Brglez,Gershon Kedem|41|3|0|2
+109|Chortle: A Technology Mapping Program for Lookup Table-Based Field Programmable Gate Arrays.|Robert J. Francis,Jonathan Rose,Kevin Chung|183|21|3|7
+110|Logic Synthesis for Programmable Gate Arrays.|Rajeev Murgai,Yoshihito Nishizaki,Narendra V. Shenoy,Robert K. Brayton,Alberto L. Sangiovanni-Vincentelli|248|13|5|11
+111|A Gridless Router for Industrial Design Rules.|Werner L. Schiele,Thomas Krüger,Knut M. Just,F. H. Kirsch|92|9|72|0
+112|Layout Optimization by Pattern Modification.|Ramin Hojati|2|0|1|1
+113|A Channel/Switchbox Definition Algorithm for Building-Block Layout.|Yang Cai,D. F. Wong|9|0|0|3
+114|New Placement and Global Routing Algorithms for Standard Cell Layouts.|Masato Edahiro,Takeshi Yoshimura|20|2|0|1
+115|A Hardware Implementation of Gridless Routing Based on Content Addressable Memory.|Masao Sato,Kazuto Kubota,Tatsuo Ohtsuki|13|0|0|6
+116|PHIGURE: A Parallel Hierarchical Global Router.|Randall J. Brouwer,Prithviraj Banerjee|34|3|0|4
+117|Automatic Test Generation Using Quadratic 0-1 Programming.|Srimat T. Chakradhar,Vishwani D. Agrawal,Michael L. Bushnell|15|0|0|6
+118|SOPRANO: An Efficient Automatic Test Pattern Generator for Stuck-Open Faults in CMOS Combinational Circuits.|Hyung Ki Lee,Dong Sam Ha|41|10|0|1
+119|EST: The New Frontier in Automatic Test-Pattern Generation.|John Giraldi,Michael L. Bushnell|57|10|3|6
+120|The Influences of Fault Type and Topology on Fault Model Performance and the Implications to Test and Testable Design.|Kenneth M. Butler,M. Ray Mercer|25|2|0|8
+121|Object Databases in Electronic Design: Implementation Experiences (Panel Abstract).|Tim Andrews|n/a
+122|Abstract Data Types and High-Level Synthesis.|Gregory S. Whitcomb,A. Richard Newton|6|1|0|0
+123|Failure Recovery in the MICON System.|Ajay J. Daga,William P. Birmingham|4|0|0|3
+124|The FSM Network Model for Behavioral Synthesis of Control-Dominated Machines.|Wayne Wolf|17|3|0|4
+125|MISER: An Integrated Three Layer Gridless Channel Router and Compactor.|Roshan A. Gidwani,Naveed A. Sherwani|4|0|0|1
+126|A Multi-Layer Router Utilizing Over-Cell Areas.|Evagelos Katsadas,Edwin Kinnen|19|0|11|1
+127|General Models and Algorithms for Over-the-Cell Routing in Standard Cell Design.|Jason Cong,Bryan Preas,C. L. Liu|42|3|2|2
+128|A Parallel Pattern Mixed-Level Fault Simulator.|Tyh-Song Hwang,Chung-Len Lee,Wen-Zen Shen,Ching Ping Wu|7|0|0|1
+129|Extension of the Critical Path Tracing Algorithm.|T. Ramakrishnan,L. Kinney|8|2|0|0
+130|BIST PLAs, Pass or Fail - A Case Study.|Shambhu J. Upadhyaya,John A. Thodiyil|1|0|0|0
+131|A Variable Observation Time Method for Testing Delay Faults.|Weiwei Mao,Michael D. Ciletti|51|5|0|4
+132|A Fault Analysis Method for Synchronous Sequential Circuits.|T. Y. Kuo,J. Y. Lee,J. F. Wang|4|0|0|0
+133|On Synthesizing and Identifying Stuck-Open Testable CMOS Combinational Circuits (extended abstract).|Sreejit Chakravarty|n/a

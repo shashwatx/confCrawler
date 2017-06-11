@@ -1,0 +1,84 @@
+83
+1|On the Computational Complexity of the Forcing Chromatic Number.|Frank Harary,Wolfgang Slany,Oleg Verbitsky|4|0|0|0
+2|Lower Bounds for Quantum Communication Complexity.|Hartmut Klauck|63|14|0|5
+3|Adiabatic Quantum State Generation.|Dorit Aharonov,Amnon Ta-Shma|41|29|0|1
+4|A Probabilistic Study on Combinatorial Expanders and Hashing.|Phillip G. Bradford,Michael N. Katehakis|8|7|0|2
+5|Hardness of the Undirected Congestion Minimization Problem.|Matthew Andrews,Lisa Zhang|49|16|0|11
+6|Constraint Satisfaction, Logic and Forbidden Patterns.|Florent R. Madelaine,Iain A. Stewart|15|11|0|5
+7|Special Section on Foundations of Computer Science.|Dimitris Achlioptas,Vladlen Koltun|2|1|0|0
+8|Adiabatic Quantum Computation is Equivalent to Standard Quantum Computation.|Dorit Aharonov,Wim van Dam,Julia Kempe,Zeph Landau,Seth Lloyd,Oded Regev|473|281|0|17
+9|On the List and Bounded Distance Decodability of Reed-Solomon Codes.|Qi Cheng,Daqing Wan|46|29|0|11
+10|Quantum Walk Algorithm for Element Distinctness.|Andris Ambainis|463|274|0|35
+11|Dynamic Optimality - Almost.|Erik D. Demaine,Dion Harmon,John Iacono,Mihai Patrascu|58|27|0|3
+12|Algebras with Polynomial Identities and Computing the Determinant.|Steve Chien,Alistair Sinclair|22|16|0|1
+13|Worst-Case to Average-Case Reductions Based on Gaussian Measures.|Daniele Micciancio,Oded Regev|415|339|0|32
+14|A Polynomial Time Algorithm for Computing an Arrow-Debreu Market Equilibrium for Linear Utilities.|Kamal Jain|135|60|2|6
+15|Optimal Inapproximability Results for MAX-CUT and Other 2-Variable CSPs?.|Subhash Khot,Guy Kindler,Elchanan Mossel,Ryan O'Donnell|407|274|0|63
+16|Range-Efficient Counting of Distinct Elements in a Massive Data Stream.|A. Pavan,Srikanta Tirthapura|28|17|0|4
+17|Derandomization in Cryptography.|Boaz Barak,Shien Jin Ong,Salil P. Vadhan|33|12|0|4
+18|A 3/2-Approximation Algorithm for Scheduling Independent Monotonic Malleable Tasks.|Gregory Mounie,Christophe Rapine,Denis Trystram|52|32|0|8
+19|Quantum Algorithms for the Triangle Problem.|Frédéric Magniez,Miklos Santha,Mario Szegedy|229|124|0|20
+20|Membership Problem for the Modular Group.|Yuri Gurevich,Paul Schupp|8|7|0|0
+21|Approximation Algorithms for Constrained Node Weighted Steiner Tree Problems.|Anna Moss,Yuval Rabani|25|19|0|2
+22|Testing versus Estimation of Graph Properties.|Eldar Fischer,Ilan Newman|70|35|0|11
+23|Definability of Languages by Generalized First-Order Formulas over N+.|Amitabha Roy,Howard Straubing|8|0|0|1
+24|Lines and Free Line Segments Tangent to Arbitrary Three-Dimensional Convex Polyhedra.|Hervé Brönnimann,Olivier Devillers,Vida Dujmovic,Hazel Everett,Marc Glisse,Xavier Goaoc,Sylvain Lazard,Hyeon-Suk Na,Sue Whitesides|27|11|0|5
+25|One-Way Communication Complexity and the Ne[c-caron]iporuk Lower Bound on Formula Size.|Hartmut Klauck|n/a
+26|Optimal Expected-Case Planar Point Location.|Sunil Arya,Theocharis Malamatos,David M. Mount,Ka Chun Wong|34|24|0|3
+27|Self-Testing of Universal and Fault-Tolerant Sets of Quantum Gates.|Wim van Dam,Frédéric Magniez,Michele Mosca,Miklos Santha|21|9|0|4
+28|Faster and Simpler Algorithms for Multicommodity Flow and Other Fractional Packing Problems.|Naveen Garg,Jochen Könemann|674|268|5|5
+29|Approximation Algorithms for Orienteering and Discounted-Reward TSP.|Avrim Blum,Shuchi Chawla,David R. Karger,Terran Lane,Adam Meyerson,Maria Minkoff|156|93|0|2
+30|Effective Strong Dimension in Algorithmic Information and Computational Complexity.|Krishna B. Athreya,John M. Hitchcock,Jack H. Lutz,Elvira Mayordomo|75|12|0|25
+31|New Approaches for Virtual Private Network Design.|Friedrich Eisenbrand,Fabrizio Grandoni,Gianpaolo Oriolo,Martin Skutella|25|19|0|6
+32|The Time-Complexity of Local Decision in Distributed Agreement.|Partha Dutta,Rachid Guerraoui,Bastian Pochon|3|2|0|0
+33|A Nearly Linear-Time Approximation Scheme for the Euclidean k-Median Problem.|Stavros G. Kolliopoulos,Satish Rao|94|30|0|2
+34|Hamming Codes, Hypercube Embeddings, and Fault Tolerance.|William Aiello,Frank Thomson Leighton|2|2|0|0
+35|Planar Earthmover Is Not in L1.|Assaf Naor,Gideon Schechtman|46|34|0|4
+36|Learning Monotone Decision Trees in Polynomial Time.|Ryan O'Donnell,Rocco A. Servedio|67|48|0|21
+37|Lower Bounds for Lov[a-acute]sz--Schrijver Systems and Beyond Follow from Multiparty Communication Complexity.|Paul Beame,Toniann Pitassi,Nathan Segerlind|n/a
+38|Improved Bounds on Nonblocking 3-Stage Clos Networks.|José R. Correa,Michel X. Goemans|13|10|0|0
+39|The Resolution Complexity of Random Constraint Satisfaction Problems.|Michael Molloy,Mohammad R. Salavatipour|23|2|0|6
+40|A Min-Max Theorem on Tournaments.|Xujin Chen,Xiaodong Hu,Wenan Zang|5|3|0|2
+41|The Power of Strong Fourier Sampling: Quantum Algorithms for Affine Groups and Hidden Shifts.|Cristopher Moore,Daniel N. Rockmore,Alexander Russell,Leonard J. Schulman|17|13|0|2
+42|Efficient Testing of Bipartite Graphs for Forbidden Induced Subgraphs.|Noga Alon,Eldar Fischer,Ilan Newman|8|6|0|1
+43|Observing Branching Structure through Probabilistic Contexts.|Nancy A. Lynch,Roberto Segala,Frits W. Vaandrager|54|39|0|3
+44|Geometric Separators and Their Applications to Protein Folding in the HP-Model.|Bin Fu,Wei Wang|3|3|0|3
+45|Popular Matchings.|David J. Abraham,Robert W. Irving,Telikepalli Kavitha,Kurt Mehlhorn|97|57|0|22
+46|A Geometric Approach to Information-Theoretic Private Information Retrieval.|David P. Woodruff,Sergey Yekhanin|61|43|0|12
+47|Stability of Multivalued Continuous Consensus.|Lior Davidovitch,Shlomi Dolev,Sergio Rajsbaum|14|8|0|4
+48|Parametric Duality and Kernelization: Lower Bounds and Upper Bounds on Kernel Size.|Jianer Chen,Henning Fernau,Iyad A. Kanj,Ge Xia|101|67|0|18
+49|Distribution-Free Property-Testing.|Shirley Halevy,Eyal Kushilevitz|33|10|0|6
+50|Universal Bufferless Packet Switching.|Costas Busch,Malik Magdon-Ismail,Marios Mavronicolas|4|2|0|0
+51|Distributed Selfish Load Balancing.|Petra Berenbrink,Tom Friedetzky,Leslie Ann Goldberg,Paul W. Goldberg,Zengjian Hu,Russell A. Martin|105|64|0|7
+52|Zone Diagrams: Existence, Uniqueness, and Algorithmic Challenge.|Tetsuo Asano,Jirí Matousek,Takeshi Tokuyama|27|17|0|8
+53|Sampling and Meshing a Surface with Guaranteed Topology and Geometry.|Siu-Wing Cheng,Tamal K. Dey,Edgar A. Ramos,Tathagata Ray|107|47|0|17
+54|An Isomorphism Between Subexponential and Parameterized Complexity Theory.|Yijia Chen,Martin Grohe|14|9|0|3
+55|Localized Client-Server Load Balancing without Global Information.|Baruch Awerbuch,Mohammad Taghi Hajiaghayi,Robert Kleinberg,Tom Leighton|1|1|0|0
+56|(t, k)-Diagnosability of Multiprocessor Systems with Applications to Grids and Tori.|Guey-Yun Chang,Gen-Huey Chen|13|12|0|4
+57|Oracles for Distances Avoiding a Failed Node or Link.|Camil Demetrescu,Mikkel Thorup,Rezaul Alam Chowdhury,Vijaya Ramachandran|44|33|1|0
+58|A Group-Strategyproof Cost Sharing Mechanism for the Steiner Forest Game.|Jochen Könemann,Stefano Leonardi,Guido Schäfer,Stefan H. M. van Zwam|23|16|0|1
+59|The Forgetron: A Kernel-Based Perceptron on a Budget.|Ofer Dekel,Shai Shalev-Shwartz,Yoram Singer|121|97|0|1
+60|On k-d Range Search with Patricia Tries.|Bradford G. Nickerson,Qingxiu Shi|2|2|0|0
+61|Quantum Property Testing.|Harry Buhrman,Lance Fortnow,Ilan Newman,Hein Röhrig|25|6|0|4
+62|Compression in Finite Fields and Torus-Based Cryptography.|Karl Rubin,Alice Silverberg|23|16|1|2
+63|Accelerating Simulated Annealing for the Permanent and Combinatorial Counting Problems.|Ivona Bezáková,Daniel Stefankovic,Vijay V. Vazirani,Eric Vigoda|38|25|0|0
+64|Improved Dynamic Reachability Algorithms for Directed Graphs.|Liam Roditty,Uri Zwick|55|22|1|10
+65|A Faster, Better Approximation Algorithm for the Minimum Latency Problem.|Aaron Archer,Asaf Levin,David P. Williamson|36|31|0|5
+66|Optimal Power-Down Strategies.|John Augustine,Sandy Irani,Chaitanya Swamy|66|37|0|2
+67|Splitting NP-Complete Sets.|Christian Glaßer,Aduri Pavan,Alan L. Selman,Liyu Zhang|8|3|0|4
+68|Learning Mixtures of Product Distributions over Discrete Domains.|Jon Feldman,Ryan O'Donnell,Rocco A. Servedio|60|37|0|8
+69|Holographic Algorithms.|Leslie G. Valiant|157|108|0|6
+70|Extra Unit-Speed Machines Are Almost as Powerful as Speedy Machines for Flow Time Scheduling.|Ho-Leung Chan,Tak Wah Lam,Kin-Shing Liu|0|0|0|0
+71|Randomization Does Not Reduce the Average Delay in Parallel Packet Switches.|Hagit Attiya,David Hay|5|3|0|1
+72|A Practical Shortest Path Algorithm with Linear Expected Time.|Andrew V. Goldberg|31|24|0|10
+73|Stability of Load Balancing Algorithms in Dynamic Adversarial Systems.|Elliot Anshelevich,David Kempe,Jon M. Kleinberg|47|10|0|1
+74|The Complexity of Quantified Constraint Satisfaction: Collapsibility, Sink Algebras, and the Three-Element Case.|Hubie Chen|32|20|0|8
+75|Special Issue on Foundations of Computer Science.|Irit Dinur,Éva Tardos|0|0|0|0
+76|A Characterization of the (Natural) Graph Properties Testable with One-Sided Error.|Noga Alon,Asaf Shapira|166|96|0|26
+77|An Algorithmic Version of the Hypergraph Regularity Method.|Penny E. Haxell,Brendan Nagle,Vojtech Rödl|21|10|0|11
+78|Agnostically Learning Halfspaces.|Adam Tauman Kalai,Adam R. Klivans,Yishay Mansour,Rocco A. Servedio|139|98|0|24
+79|Lower Bounds for the Noisy Broadcast Problem.|Navin Goyal,Guy Kindler,Michael E. Saks|38|24|0|0
+80|The Symmetric Group Defies Strong Fourier Sampling.|Cristopher Moore,Alexander Russell,Leonard J. Schulman|67|25|0|21
+81|Cryptography in the Bounded-Quantum-Storage Model.|Ivan Damgård,Serge Fehr,Louis Salvail,Christian Schaffner|138|98|2|16
+82|Concurrent Nonmalleable Commitments.|Rafael Pass,Alon Rosen|n/a
+83|A Linear-Time Approximation Scheme for TSP in Undirected Planar Graphs with Edge-Weights.|Philip N. Klein|72|53|0|4

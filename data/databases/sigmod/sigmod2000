@@ -1,0 +1,83 @@
+82
+1|Proceedings of the 2000 ACM SIGMOD International Conference on Management of Data, May 16-18, 2000, Dallas, Texas, USA.|Weidong Chen,Jeffrey F. Naughton,Philip A. Bernstein|n/a
+2|Mining Frequent Patterns without Candidate Generation.|Jiawei Han,Jian Pei,Yiwen Yin|6360|3050|22|91
+3|Data Mining on an OLTP System (Nearly) for Free.|Erik Riedel,Christos Faloutsos,Gregory R. Ganger,David Nagle|47|6|0|16
+4|Turbo-charging Vertical Mining of Large Databases.|Pradeep Shenoy,Jayant R. Haritsa,S. Sudarshan,Gaurav Bhalotia,Mayank Bawa,Devavrat Shah|298|96|1|5
+5|High Speed On-line Backup When Using Logical Log Operations.|David B. Lomet|27|13|27|1
+6|Efficient Resumption of Interrupted Warehouse Loads.|Wilburt Labio,Janet L. Wiener,Hector Garcia-Molina,Vlad Gorelik|69|21|0|0
+7|On-line Reorganization in Object Databases.|Mohana Krishna Lakhamraju,Rajeev Rastogi,S. Seshadri,S. Sudarshan|13|2|0|0
+8|Finding Generalized Projected Clusters In High Dimensional Spaces.|Charu C. Aggarwal,Philip S. Yu|590|224|8|37
+9|Density Biased Sampling: An Improved Method for Data Mining and Clustering.|Christopher R. Palmer,Christos Faloutsos|166|53|0|2
+10|LOF: Identifying Density-Based Local Outliers.|Markus M. Breunig,Hans-Peter Kriegel,Raymond T. Ng,Jörg Sander|2469|1580|14|23
+11|Answering Complex SQL Queries Using Automatic Summary Tables.|Markos Zaharioudakis,Roberta Cochrane,George Lapis,Hamid Pirahesh,Monica Urata|162|32|10|4
+12|Synchronizing a Database to Improve Freshness.|Junghoo Cho,Hector Garcia-Molina|456|129|20|16
+13|How To Roll a Join: Asynchronous Incremental View Maintenance.|Kenneth Salem,Kevin S. Beyer,Roberta Cochrane,Bruce G. Lindsay|113|43|9|5
+14|On Wrapping Query Languages and Efficient XML Integration.|Vassilis Christophides,Sophie Cluet,Jérôme Siméon|234|20|1|8
+15|XMILL: An Efficient Compressor for XML Data.|Hartmut Liefke,Dan Suciu|693|201|42|7
+16|XTRACT: A System for Extracting Document Type Descriptors from XML Documents.|Minos N. Garofalakis,Aristides Gionis,Rajeev Rastogi,S. Seshadri,Kyuseok Shim|303|85|14|4
+17|Spatial Join Selectivity Using Power Laws.|Christos Faloutsos,Bernhard Seeger,Agma J. M. Traina,Caetano Traina Jr.|99|15|0|17
+18|Closest Pair Queries in Spatial Databases.|Antonio Corral,Yannis Manolopoulos,Yannis Theodoridis,Michael Vassilakopoulos|356|98|0|27
+19|Influence Sets Based on Reverse Nearest Neighbor Queries.|Flip Korn,S. Muthukrishnan|502|301|0|3
+20|MOCHA: A Self-Extensible Database Middleware System for Distributed Data Sources.|Manuel Rodriguez-Martinez,Nick Roussopoulos|148|32|9|0
+21|Towards Self-Tuning Data Placement in Parallel Database Systems.|Mong-Li Lee,Masaru Kitsuregawa,Beng Chin Ooi,Kian-Lee Tan,Anirban Mondal|73|19|1|5
+22|LH*RS: A High-Availability Scalable Distributed Data Structure using Reed Solomon Codes.|Witold Litwin,Thomas J. E. Schwarz|100|14|3|12
+23|Efficient and Extensible Algorithms for Multi Query Optimization.|Prasan Roy,S. Seshadri,S. Sudarshan,Siddhesh Bhobe|433|165|8|10
+24|Eddies: Continuously Adaptive Query Processing.|Ron Avnur,Joseph M. Hellerstein|983|341|29|29
+25|A Chase Too Far?|Lucian Popa,Alin Deutsch,Arnaud Sahuguet,Val Tannen|n/a
+26|WSQ/DSQ: A Practical Approach for Combined Querying of Databases and the Web.|Roy Goldman,Jennifer Widom|126|25|1|5
+27|A Framework for Expressing and Combining Preferences.|Rakesh Agrawal,Edward L. Wimmers|305|99|0|1
+28|TerraServer: A Spatial Data Warehouse.|Tom Barclay,Donald R. Slutz,Jim Gray|136|35|2|3
+29|A Data Model and Data Structures for Moving Objects Databases.|Luca Forlizzi,Ralf Hartmut Güting,Enrico Nardelli,Markus Schneider|439|127|2|29
+30|Indexing the Positions of Continuously Moving Objects.|Simonas Saltenis,Christian S. Jensen,Scott T. Leutenegger,Mario A. López|1134|335|1|52
+31|Adaptive Multi-Stage Distance Join Processing.|Hyoseop Shin,Bongki Moon,Sukho Lee|183|25|0|4
+32|Finding Replicated Web Collections.|Junghoo Cho,Narayanan Shivakumar,Hector Garcia-Molina|182|57|3|6
+33|WebView Materialization.|Alexandros Labrinidis,Nick Roussopoulos|134|19|1|14
+34|NiagaraCQ: A Scalable Continuous Query System for Internet Databases.|Jianjun Chen,David J. DeWitt,Feng Tian,Yuan Wang|1302|349|21|11
+35|The Onion Technique: Indexing for Linear Optimization Queries.|Yuan-Chi Chang,Lawrence D. Bergman,Vittorio Castelli,Chung-Sheng Li,Ming-Ling Lo,John R. Smith|198|115|1|5
+36|On Effective Multi-Dimensional Indexing for Strings.|H. V. Jagadish,Nick Koudas,Divesh Srivastava|83|6|4|6
+37|Efficient and Cost-effective Techniques for Browsing and Indexing Large Video Databases.|Jung-Hwan Oh,Kien A. Hua|81|11|0|20
+38|Efficient Algorithms for Mining Outliers from Large Data Sets.|Sridhar Ramaswamy,Rajeev Rastogi,Kyuseok Shim|1303|691|5|1
+39|Privacy-Preserving Data Mining.|Rakesh Agrawal,Ramakrishnan Srikant|2988|1630|30|20
+40|Designing and Mining Multi-Terabyte Astronomy Archives: The Sloan Digital Sky Survey.|Alexander S. Szalay,Peter Z. Kunszt,Ani Thakar,Jim Gray,Donald R. Slutz,Robert J. Brunner|216|73|0|17
+41|Approximating Multi-Dimensional Aggregate Range Queries over Real Attributes.|Dimitrios Gunopulos,George Kollios,Vassilis J. Tsotras,Carlotta Domeniconi|200|46|3|12
+42|Making B+-Trees Cache Conscious in Main Memory.|Jun Rao,Kenneth A. Ross|402|155|5|15
+43|Congressional Samples for Approximate Answering of Group-By Queries.|Swarup Acharya,Phillip B. Gibbons,Viswanath Poosala|201|79|9|6
+44|Counting, Enumerating, and Sampling of Execution Plans in a Cost-Based Query Optimizer.|Florian Waas,César A. Galindo-Legaria|31|12|5|7
+45|Benchmarking Queries over Trees: Learning the Hard Truth the Hard Way.|Fanny Wattez,Sophie Cluet,Véronique Benzaken,Guy Ferran,Christian Fiegel|2|0|0|0
+46|Maintenance of Automatic Summary Tables.|Wolfgang Lehner,Richard Sidle,Hamid Pirahesh,Roberta Cochrane|36|9|0|3
+47|Expressing Business Rules.|Ronald G. Ross|11|3|0|0
+48|DLFM: A Transactional Resource Manager.|Hui-I Hsiao,Inderpal Narang|56|15|41|6
+49|Online Index Rebuild.|Nagavamsi Ponnekanti,Hanuma Kodavalla|7|1|1|1
+50|Indexing Images in Oracle8i.|Melliyal Annamalai,Rajiv Chopra,Samuel DeFazio|n/a
+51|Handling Very Large Databases with Informix Extended Parallel Server.|Andreas Weininger|2|1|0|0
+52|Internet Traffic Warehouse.|Chung-Min Chen,Munir Cochinwala,Claudio Petrone,Marc Pucci,Sunil Samtani,Patrizia Santa,Marco Mesiti|10|0|0|0
+53|SQLEM: Fast Clustering in SQL using the EM Algorithm.|Carlos Ordonez,Paul Cereghini|66|29|3|21
+54|Anatomy of a Real E-Commerce System.|Anant Jhingran|11|1|0|1
+55|From Browsing to Interacting: DBMS Support for Responive Websites (Abstract).|Raghu Ramakrishnan|4|0|1|0
+56|Index Research: Forest or Trees? (Panel Abstract).|Joseph M. Hellerstein|n/a
+57|Application Architecture: 2Tier or 3Tier? What is DBMS's Role? (Panel Abstract).|Anil Nori|n/a
+58|On XML and Databases: Where's the Beef? (Panel Abstract).|Michael J. Carey|n/a
+59|Tutorial: Designing an Ultra Highly Available DBMS.|Svein Erik Bratsberg,Øystein Torbjørnsen|2|0|0|0
+60|Data Management in eCommerce: The Good, the Bad, and the Ugly.|Avigdor Gal|n/a
+61|Tutorial: Data Access.|José A. Blakeley,Anand Deshpande|2|0|0|0
+62|Tutorial: LDAP Directory Services - Just Another Database Application?|Shridhar Shukla,Anand Deshpande|n/a
+63|Self-Organizing Data Sharing Communities with SAGRES.|Zachary G. Ives,Alon Y. Levy,Jayant Madhavan,Rachel Pottinger,Stefan Saroiu,Igor Tatarinov,Shiori Betzler,Qiong Chen,Ewa Jaslikowska,Jing Su,Wai Tak Theodora Yeung|11|1|0|0
+64|lambda-DB: An ODMG-Based Object-Oriented DBMS.|Leonidas Fegaras,Chandrasekhar Srinivasan,Arvind Rajendran,David Maier|n/a
+65|An Approximate Search Engine for Structural Databases.|Jason Tsong-Li Wang,Xiong Wang,Dennis Shasha,Bruce A. Shapiro,Kaizhong Zhang,Xinhuan Zheng,Qicheng Ma,Zasha Weinberg|5|0|0|1
+66|SERFing the Web: Web Site Management Made Easy.|Elke A. Rundensteiner,Kajal T. Claypool,Li Chen,Hong Su,Keiji Oenoki|3|0|0|2
+67|Homer: a Model-Based CASE Tool for Data-Intensive Web Sites.|Paolo Merialdo,Paolo Atzeni,Marco Magnante,Giansalvatore Mecca,Marco Pecorone|10|2|0|5
+68|Fact: A Learning Based Web Query Processing System.|Songting Chen,Yanlei Diao,Hongjun Lu,Zengping Tian|2|0|0|0
+69|javax.XXL: A prototype for a Library of Query processing Algorithms.|Jochen Van den Bercken,Jens-Peter Dittrich,Bernhard Seeger|18|4|0|3
+70|i3: Intelligent, Interactive Investigaton of OLAP data cubes.|Sunita Sarawagi,Gayatri Sathe|25|11|0|3
+71|AJAX: An Extensible Data Cleaning Tool.|Helena Galhardas,Daniela Florescu,Dennis Shasha,Eric Simon|222|76|0|11
+72|Concept Based Design of Data Warehouses: The DWQ Demonstrators.|Matthias Jarke,Christoph Quix,Diego Calvanese,Maurizio Lenzerini,Enrico Franconi,Spyros Ligoudistianos,Panos Vassiliadis,Yannis Vassiliou|31|5|0|3
+73|Towards Data Mining Benchmarking: A Testbed for Performance Study of Frequent Pattern Mining.|Jian Pei,Runying Mao,Kan Hu,Hua Zhu|15|0|0|1
+74|Image Mining in IRIS: Integrated Retinal Information System.|Wynne Hsu,Mong-Li Lee,Kheng Guan Goh|37|16|0|5
+75|MOCHA: A Database Middleware System Featuring Automatic Deployment of Application-Specific Functionality.|Manuel Rodriguez-Martinez,Nick Roussopoulos,John M. McGann,Stephen Kelley,Vadim Katz,Zhexuan Song,Joseph JáJá|2|0|0|0
+76|A Goal-driven Auto-Configuration Tool for the Distributed Workflow Management System Mentor-lite.|Michael Gillmann,Jeanine Weißenfels,German Shegalov,Wolfgang Wonner,Gerhard Weikum|12|2|2|1
+77|TIP: A Temporal Extension to Informix.|Jun Yang,Huacheng C. Ying,Jennifer Widom|26|5|0|1
+78|AQR-Toolkit: An Adaptive Query Routing Middleware for Distributed Data Intensive Systems.|Ling Liu,Calton Pu,David Buttler,Wei Han,Henrique Paques,Wei Tang|4|0|0|0
+79|SPIRE: A Progressive Content-Based Spatial Image Retrieval Engine.|Chung-Sheng Li,Lawrence D. Bergman,Vittorio Castelli,John R. Smith|2|0|0|0
+80|Integrating Replacement Policies in StorM: An Extensible Approach.|Chong Leng Goh,Beng Chin Ooi,Stéphane Bressan,Kian-Lee Tan|0|0|0|0
+81|DISIMA: A Distributed and Interoperable Image Database System.|Vincent Oria,M. Tamer Özsu,Paul Iglinski,Shu Lin,Benjamin Bin Yao|7|1|0|0
+82|The MLPQ/GIS Constraint Database System.|Peter Z. Revesz,Rui Chen,Pradip Kanjamala,Yiming Li,Yuguo Liu,Yonghui Wang|40|11|0|16

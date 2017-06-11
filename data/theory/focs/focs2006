@@ -1,0 +1,73 @@
+72
+1|47th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2006), 21-24 October 2006, Berkeley, California, USA, Proceedings.|n/a
+2|Statistical Zero-Knowledge Arguments for NP from Any One-Way Function.|Minh-Huyen Nguyen,Shien Jin Ong,Salil P. Vadhan|58|17|0|7
+3|Fault-Tolerant Distributed Computing in Full-Information Networks.|Shafi Goldwasser,Elan Pavlov,Vinod Vaikuntanathan|24|10|0|0
+4|Explicit Exclusive Set Systems with Applications to Broadcast Encryption.|Craig Gentry,Zulfikar Ramzan,David P. Woodruff|9|5|0|0
+5|A simple condition implying rapid mixing of single-site dynamics on spin systems.|Thomas P. Hayes|26|17|0|1
+6|Heat Flow and a Faster Algorithm to Compute the Surface Area of a Convex Body.|Mikhail Belkin,Hariharan Narayanan,Partha Niyogi|7|5|0|2
+7|Fast Algorithms for Logconcave Functions: Sampling, Rounding, Integration and Optimization.|László Lovász,Santosh Vempala|71|55|0|12
+8|A Local Switch Markov Chain on Given Degree Graphs with Application in Connectivity of Peer-to-Peer Networks.|Tomás Feder,Adam Guetz,Milena Mihail,Amin Saberi|25|15|0|2
+9|Strategic Network Formation through Peering and Service Agreements.|Elliot Anshelevich,F. Bruce Shepherd,Gordon T. Wilfong|45|17|0|4
+10|Towards Secure and Scalable Computation in Peer-to-Peer Networks.|Valerie King,Jared Saia,Vishal Sanwalani,Erik Vee|60|42|0|19
+11|Lp metrics on the Heisenberg group and the Goemans-Linial conjecture.|James R. Lee,Assaf Naor|61|44|0|13
+12|Ramsey partitions and proximity data structures.|Manor Mendel,Assaf Naor|66|53|0|12
+13|Algorithms on negatively curved spaces.|Robert Krauthgamer,James R. Lee|61|41|0|3
+14|Beyond Hirsch Conjecture: Walks on Random Polytopes and Smoothed Complexity of the Simplex Method.|Roman Vershynin|52|39|0|2
+15|Improved Approximation Algorithms for Large Matrices via Random Projections.|Tamás Sarlós|312|244|0|0
+16|Worst-case and Smoothed Analysis of the ICP Algorithm, with an Application to the k-means Method.|David Arthur,Sergei Vassilvitskii|65|43|0|4
+17|The Effectiveness of Lloyd-Type Methods for the k-Means Problem.|Rafail Ostrovsky,Yuval Rabani,Leonard J. Schulman,Chaitanya Swamy|205|147|0|4
+18|Better lossless condensers through derandomized curve samplers.|Amnon Ta-Shma,Christopher Umans|11|7|0|3
+19|Approximately List-Decoding Direct Product Codes and Uniform Hardness Amplification.|Russell Impagliazzo,Ragesh Jaiswal,Valentine Kabanets|46|25|0|9
+20|Index Coding with Side Information.|Ziv Bar-Yossef,Yitzhak Birk,T. S. Jayram,Tomer Kol|249|218|0|1
+21|Subspace Polynomials and List Decoding of Reed-Solomon Codes.|Eli Ben-Sasson,Swastik Kopparty,Jaikumar Radhakrishnan|14|8|0|2
+22|SDP gaps and UGC-hardness for MAXCUTGAIN.|Subhash Khot,Ryan O'Donnell|42|18|0|3
+23|Correlated Algebraic-Geometric Codes: Improved List Decoding over Bounded Alphabets.|Venkatesan Guruswami,Anindya C. Patthak|24|8|0|8
+24|Cryptography from Anonymity.|Yuval Ishai,Eyal Kushilevitz,Rafail Ostrovsky,Amit Sahai|51|37|0|6
+25|Secure Multiparty Quantum Computation with (Only) a Strict Honest Majority.|Michael Ben-Or,Claude Crépeau,Daniel Gottesman,Avinatan Hassidim,Adam Smith|42|31|0|1
+26|Settling the Complexity of Two-Player Nash Equilibrium.|Xi Chen,Xiaotie Deng|n/a
+27|Minimum Bounded Degree Spanning Trees.|Michel X. Goemans|145|87|0|3
+28|Approximate Min-Max Theorems of Steiner Rooted-Orientations of Hypergraphs.|Tamás Király,Lap Chi Lau|10|6|0|1
+29|Improved Bounds for Online Routing and Packing Via a Primal-Dual Approach.|Niv Buchbinder,Joseph Naor|47|27|1|10
+30|Improved Dynamic Planar Point Location.|Lars Arge,Gerth Stølting Brodal,Loukas Georgiadis|21|15|0|2
+31|Coresets forWeighted Facilities and Their Applications.|Dan Feldman,Amos Fiat,Micha Sharir|29|19|0|10
+32|Planar Point Location in Sublogarithmic Time.|Mihai Patrascu|27|9|0|3
+33|Point Location in o(log n) Time, Voronoi Diagrams in o(n log n) Time, and Other Transdichotomous Results in Computational Geometry.|Timothy M. Chan|24|8|0|2
+34|Concurrent Non-Malleable Zero Knowledge.|Boaz Barak,Manoj Prabhakaran,Amit Sahai|70|43|0|9
+35|Succinct Non-Interactive Zero-Knowledge Proofs with Preprocessing for LOGSNP.|Yael Tauman Kalai,Ran Raz|20|12|0|2
+36|Input-Indistinguishable Computation.|Silvio Micali,Rafael Pass,Alon Rosen|38|28|0|6
+37|Generalization of Binary Search: Searching in Trees and Forest-Like Partial Orders.|Krzysztof Onak,Pawel Parys|23|11|0|1
+38|Lower Bounds for Additive Spanners, Emulators, and More.|David P. Woodruff|49|35|1|2
+39|Solving Evacuation Problems Efficiently--Earliest Arrival Flows with Multiple Sources.|Nadine Baumann,Martin Skutella|27|12|0|5
+40|New Limits on Fault-Tolerant Quantum Computation.|Harry Buhrman,Richard Cleve,Monique Laurent,Noah Linden,Alexander Schrijver,Falk Unger|39|18|0|0
+41|Postselection threshold against biased noise.|Ben Reichardt|2|0|0|0
+42|On the Quantum Query Complexity of Local Search in Two and Three Dimensions.|Xiaoming Sun,Andrew Chi-Chih Yao|12|4|0|2
+43|On the time complexity of 2-tag systems and small universal Turing machines.|Damien Woods,Turlough Neary|43|25|0|16
+44|On the Optimality of the Dimensionality Reduction Method.|Alexandr Andoni,Piotr Indyk,Mihai Patrascu|64|43|0|5
+45|Near-Optimal Hashing Algorithms for Approximate Nearest Neighbor in High Dimensions.|Alexandr Andoni,Piotr Indyk|1259|1090|16|10
+46|Points on Computable Curves.|Xiaoyang Gu,Jack H. Lutz,Elvira Mayordomo|17|10|0|8
+47|Local Graph Partitioning using PageRank Vectors.|Reid Andersen,Fan R. K. Chung,Kevin J. Lang|410|342|2|29
+48|Norm of the inverse of a random matrix.|Mark Rudelson|2|0|0|0
+49|Witnesses for non-satisfiability of dense random 3CNF formulas.|Uriel Feige,Jeong Han Kim,Eran Ofek|32|21|0|6
+50|Accidental Algorithms.|Leslie G. Valiant|6|5|0|0
+51|The Kesten-Stigum Reconstruction Bound Is Tight for Roughly Symmetric Binary Channels.|Christian Borgs,Jennifer T. Chayes,Elchanan Mossel,Sébastien Roch|24|16|0|5
+52|Algebraic Structures and Algorithms for Matching and Matroid Problems.|Nicholas J. A. Harvey|29|14|0|2
+53|Hardness of Learning Halfspaces with Noise.|Venkatesan Guruswami,Prasad Raghavendra|67|45|2|5
+54|Cryptographic Hardness for Learning Intersections of Halfspaces.|Adam R. Klivans,Alexander A. Sherstov|70|43|0|13
+55|New Results for Learning Noisy Parities and Halfspaces.|Vitaly Feldman,Parikshit Gopalan,Subhash Khot,Ashok Kumar Ponnuswami|96|47|0|14
+56|Inclusion--Exclusion Algorithms for Counting Set Partitions.|Andreas Björklund,Thore Husfeldt|80|41|0|1
+57|An O*(2^n ) Algorithm for Graph Coloring and Other Partitioning Problems via Inclusion--Exclusion.|Mikko Koivisto|54|27|0|1
+58|Faster Algorithms for Approximate Distance Oracles and All-Pairs Small Stretch Paths.|Surender Baswana,Telikepalli Kavitha|67|46|0|9
+59|Computing Nash Equilibria: Approximation and Smoothed Complexity.|Xi Chen,Xiaotie Deng,Shang-Hua Teng|155|63|0|28
+60|On the Impact of Combinatorial Structure on Congestion Games.|Heiner Ackermann,Heiko Röglin,Berthold Vöcking|162|96|0|14
+61|Balanced Allocations of Cake.|Jeff Edmonds,Kirk Pruhs|32|27|0|2
+62|On a Geometric Generalization of the Upper Bound Theorem.|Uli Wagner|14|11|0|2
+63|Higher Lower Bounds for Near-Neighbor and Further Rich Problems.|Mihai Patrascu,Mikkel Thorup|44|25|0|6
+64|Planar Earthmover is not in L_1.|Assaf Naor,Gideon Schechtman|46|34|0|4
+65|Approximation algorithms for allocation problems: Improving the factor of 1 - 1/e.|Uriel Feige,Jan Vondrák|146|95|0|12
+66|Approximation Algorithms for Non-Uniform Buy-at-Bulk Network Design.|Chandra Chekuri,Mohammad Taghi Hajiaghayi,Guy Kortsarz,Mohammad R. Salavatipour|61|31|0|17
+67|How to Play Unique Games Using Embeddings.|Eden Chlamtac,Konstantin Makarychev,Yury Makarychev|52|38|0|6
+68|Improved approximation algorithms for multidimensional bin packing problems.|Nikhil Bansal,Alberto Caprara,Maxim Sviridenko|81|58|1|4
+69|Lower bounds for circuits with MOD_m gates.|Arkadev Chattopadhyay,Navin Goyal,Pavel Pudlák,Denis Thérien|16|9|0|3
+70|On the Compressibility of NP Instances and Cryptographic Applications.|Danny Harnik,Moni Naor|83|59|0|2
+71|Dispersion of Mass and the Complexity of Randomized Geometric Algorithms.|Luis Rademacher,Santosh Vempala|9|2|0|4
+72|An Omega(n1/3) Lower Bound for Bilinear Group Based Private Information Retrieval.|Alexander A. Razborov,Sergey Yekhanin|24|10|0|6

@@ -1,0 +1,68 @@
+67
+1|Proceedings of the 27th Annual IEEE Symposium on Logic in Computer Science, LICS 2012, Dubrovnik, Croatia, June 25-28, 2012.|n/a
+2|Backward induction in games of perfect information.|Robert J. Aumann|1|1|0|0
+3|On Building Constructive Formal Theories of Computation Noting the Roles of Turing, Church, and Brouwer.|Robert L. Constable|1|1|0|0
+4|Privacy, Anonymity, and Accountability in Ad-Supported Services.|Joan Feigenbaum|1|1|0|0
+5|Turing's Password: What Internet Cannot Leak.|Leonid A. Levin|1|1|0|0
+6|Term Rewriting and Lambda Calculus.|Jan Willem Klop|n/a
+7|Logics of Dynamical Systems.|André Platzer|47|44|0|40
+8|Lower Bounds for Existential Pebble Games and k-Consistency Tests.|Christoph Berkholz|7|7|0|5
+9|Dense-Timed Pushdown Automata.|Parosh Aziz Abdulla,Mohamed Faouzi Atig,Jari Stenman|34|32|0|5
+10|Coproducts of Monads on Set.|Jirí Adámek,Stefan Milius,Nathan Bowler,Paul Blain Levy|5|5|0|2
+11|Approximate Verification of the Symbolic Dynamics of Markov Chains.|Manindra Agrawal,S. Akshay,Blaise Genest,P. S. Thiagarajan|14|13|0|3
+12|Regular Transformations of Infinite Strings.|Rajeev Alur,Emmanuel Filiot,Ashutosh Trivedi|12|12|0|6
+13|The Semantics of Parsing with Semantic Actions.|Robert Atkey|2|2|0|0
+14|Modular Construction of Cut-free Sequent Calculi for Paraconsistent Logics.|Arnon Avron,Beata Konikowska,Anna Zamansky|12|12|0|5
+15|Inductive Types in Homotopy Type Theory.|Steven Awodey,Nicola Gambino,Kristina Sojakova|21|21|0|3
+16|Combining Deduction Modulo and Logics of Fixed-Point Definitions.|David Baelde,Gopalan Nadathur|8|8|0|4
+17|Graph Logics with Rational Relations and the Generalized Intersection Problem.|Pablo Barceló,Diego Figueira,Leonid Libkin|30|30|0|5
+18|Near Unanimity Constraints Have Bounded Pathwidth Duality.|Libor Barto,Marcin Kozik,Ross Willard|7|5|0|1
+19|A Computational Interpretation of Parametricity.|Jean-Philippe Bernardy,Guilhem Moulin|15|14|0|4
+20|Von Neumann's Biased Coin Revisited.|Laurent Bienvenu,Benoit Monin|n/a
+21|On the Magnitude of Completeness Thresholds in Bounded Model Checking.|Daniel Bundala,Joël Ouaknine,James Worrell|3|3|0|1
+22|Collapsible Pushdown Automata and Labeled Recursion Schemes: Equivalence, Safety and Effective Selection.|Arnaud Carayol,Olivier Serre|21|21|0|2
+23|Partial-Observation Stochastic Games: How to Win When Belief Fails.|Krishnendu Chatterjee,Laurent Doyen|21|18|0|10
+24|Decidable Problems for Probabilistic Automata on Infinite Words.|Krishnendu Chatterjee,Mathieu Tracol|22|19|0|8
+25|Mean-Payoff Pushdown Games.|Krishnendu Chatterjee,Yaron Velner|14|14|0|7
+26|Decomposing Quantified Conjunctive (or Disjunctive) Formulas.|Hubie Chen,Víctor Dalmau|13|12|0|5
+27|An Algebraic Preservation Theorem for Aleph-Zero Categorical Quantified Constraint Satisfaction.|Hubie Chen,Moritz Müller|1|1|0|0
+28|On the Ordered Conjecture.|Yijia Chen,Jörg Flum|3|3|0|0
+29|The Winning Ways of Concurrent Games.|Pierre Clairambault,Julian Gutierrez,Glynn Winskel|19|19|0|11
+30|Strong Complementarity and Non-locality in Categorical Quantum Mechanics.|Bob Coecke,Ross Duncan,Aleks Kissinger,Quanlong Wang|35|33|0|7
+31|The HOM Problem is EXPTIME-Complete.|Carles Creus,Adria Gascón,Guillem Godoy,Lander Ramos|2|2|0|2
+32|Where First-Order and Monadic Second-Order Logic Coincide.|Michael Elberfeld,Martin Grohe,Till Tantau|12|10|0|2
+33|First-Order and Monadic Second-Order Model-Checking on Ordered Structures.|Viktor Engelmann,Stephan Kreutzer,Sebastian Siebertz|5|5|0|1
+34|A Perfect Model for Bounded Verification.|Javier Esparza,Pierre Ganty,Rupak Majumdar|10|10|0|1
+35|Deciding the Value 1 Problem for Probabilistic Leaktight Automata.|Nathanaël Fijalkow,Hugo Gimbert,Youssouf Oualhadj|24|21|0|10
+36|Delta-Decidability over the Reals.|Sicun Gao,Jeremy Avigad,Edmund M. Clarke|31|27|0|15
+37|Countermodels from Sequent Calculi in Multi-Modal Logics.|Deepak Garg,Valerio Genovese,Sara Negri|14|14|0|9
+38|The Complexity of Decomposing Modal and First-Order Theories.|Stefan Göller,Jean Christoph Jung,Markus Lohrey|13|12|0|4
+39|Automatic Sequences and Zip-Specifications.|Clemens Grabmayer,Jörg Endrullis,Dimitri Hendriks,Jan Willem Klop,Lawrence S. Moss|11|11|0|6
+40|Functionals Using Bounded Information and the Dynamics of Algorithms.|Serge Grigorieff,Pierre Valarcher|2|1|0|1
+41|The Ordinal-Recursive Complexity of Timed-arc Petri Nets, Data Nets, and Other Enriched Nets.|Serge Haddad,Sylvain Schmitz,Philippe Schnoebelen|24|22|0|11
+42|A Constructive Proof of Dependent Choice, Compatible with Classical Logic.|Hugo Herbelin|6|5|0|1
+43|Better Abstractions for Timed Automata.|Frédéric Herbreteau,B. Srivathsan,Igor Walukiewicz|8|7|0|3
+44|Step Indexed Realizability Semantics for a Call-by-Value Language Based on Basic Combinatorial Objects.|Naohiko Hoshino|3|3|0|0
+45|Extending Type Theory with Forcing.|Guilhem Jaber,Nicolas Tabareau,Matthieu Sozeau|14|12|0|3
+46|The Complexity of Verbal Languages over Groups.|Sanjay Jain,Alexei Miasnikov,Frank Stephan|2|2|0|0
+47|Decidability of DPDA Language Equivalence via First-Order Grammars.|Petr Jancar|20|18|0|4
+48|Capsules and Separation.|Jean-Baptiste Jeannin,Dexter Kozen|1|1|0|1
+49|Two-Variable First-Order Logic with Equivalence Closure.|Emanuel Kieronski,Jakub Michaliszyn,Ian Pratt-Hartmann,Lidia Tendera|33|33|0|10
+50|Learning Probabilistic Systems from Tree Samples.|Anvesh Komuravelli,Corina S. Pasareanu,Edmund M. Clarke|n/a
+51|Non-definability of Languages by Generalized First-order Formulas over (N, +).|Andreas Krebs,A. V. Sreejith|3|3|0|1
+52|A Kantorovich-Monadic Powerdomain for Information Hiding, with Probability and Nondeterminism.|Annabelle McIver,Larissa Meinicke,Carroll Morgan|6|6|0|5
+53|An Infinitary Affine Lambda-Calculus Isomorphic to the Full Lambda-Calculus.|Damiano Mazza|13|12|0|12
+54|Game Semantics in String Diagrams.|Paul-André Melliès|31|31|0|3
+55|Decidable Elementary Modal Logics.|Jakub Michaliszyn,Jan Otop|7|7|0|6
+56|Short Propositional Refutations for Dense Random 3CNF Formulas.|Sebastian Müller,Iddo Tzameret|8|8|0|5
+57|On the Complexity of Linear Authorization Logics.|Vivek Nigam|8|8|0|6
+58|On the Significance of the Collapse Operation.|Pawel Parys|20|20|0|6
+59|A Higher-Order Distributed Calculus with Name Creation.|Adrien Piérard,Eijiro Sumii|10|8|0|0
+60|The Complete Proof Theory of Hybrid Systems.|André Platzer|56|53|0|39
+61|Interpretations in Trees with Countably Many Branches.|Alexander Rabinovich,Sasha Rubin|4|4|0|0
+62|Conservative Concurrency in Haskell.|David Sabel,Manfred Schmidt-Schauß|15|14|0|12
+63|Constructing Fully Complete Models for Multiplicative Linear Logic.|Andrea Schalk,Hugh P. Steele|0|0|0|0
+64|Induction in Algebra: A First Case Study.|Peter Schuster|14|14|0|5
+65|An Automata Model for Trees with Ordered Data Values.|Tony Tan|5|4|0|0
+66|Foundational, Compositional (Co)datatypes for Higher-Order Logic: Category Theory Applied to Theorem Proving.|Dmitriy Traytel,Andrei Popescu,Jasmin Christian Blanchette|29|29|0|16
+67|Higher Semantics of Quantum Protocols.|Jamie Vicary|12|12|0|6

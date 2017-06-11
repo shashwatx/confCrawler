@@ -1,0 +1,79 @@
+78
+1|Matrix Transformation Is Complete for the Average Case.|Andreas Blass,Yuri Gurevich|33|9|0|2
+2|Tighter Lower Bounds on the Exact Complexity of String Matching.|Richard Cole,Ramesh Hariharan,Mike Paterson,Uri Zwick|32|3|0|3
+3|Planar Strong Connectivity Helps in Parallel Depth-First Search.|Ming-Yang Kao|9|0|0|2
+4|Fast Parallel Computation of the Polynomial Remainder Sequence Via Bezout and Hankel Matrices.|Dario Bini,Luca Gemignani|34|7|0|16
+5|A Graph-Theoretic Game and Its Application to the k-Server Problem.|Noga Alon,Richard M. Karp,David Peleg,Douglas B. West|265|99|0|11
+6|Finding k Cuts within Twice the Optimal.|Huzur Saran,Vijay V. Vazirani|124|53|0|3
+7|The Serial Transitive Closure Problem for Trees.|Maria Luisa Bonet,Samuel R. Buss|5|2|0|0
+8|New Decidability Results Concerning Two-Way Counter Machines.|Oscar H. Ibarra,Tao Jiang,Nicholas Q. Trân,Hui Wang|38|10|0|29
+9|On the Optimality of Randomized alpha-beta Search.|Yanjun Zhang|n/a
+10|Greedy Packet Scheduling.|Israel Cidon,Shay Kutten,Yishay Mansour,David Peleg|n/a
+11|Optimal File Sharing in Distributed Networks.|Moni Naor,Ron M. Roth|65|19|0|2
+12|An Optimal Algorithm for Computing Visibility in the Plane.|Paul J. Heffernan,Joseph S. B. Mitchell|32|16|0|2
+13|A Randomized Maximum-Flow Algorithm.|Joseph Cheriyan,Torben Hagerup|39|5|0|5
+14|Sparse Approximate Solutions to Linear Systems.|B. K. Natarajan|1306|976|3|1
+15|A Heuristic Scheduling of Independent Tasks with Bottleneck Resource Constraints.|Qingzhou Wang,Ernst L. Leiss|3|0|0|0
+16|On Computing Algebraic Functions Using Logarithms and Exponentials.|Dima Grigoriev,Michael F. Singer,Andrew Chi-Chih Yao|7|2|0|4
+17|Algorithms for Enumerating All Spanning Trees of Undirected and Weighted Graphs.|Sanjiv Kapoor,H. Ramesh|97|51|2|2
+18|Permuting in Place.|Faith E. Fich,J. Ian Munro,Patricio V. Poblete|n/a
+19|The Complexity and Distribution of Hard Problems.|David W. Juedes,Jack H. Lutz|65|6|0|19
+20|A General Approximation Technique for Constrained Forest Problems.|Michel X. Goemans,David P. Williamson|791|274|2|34
+21|D^over: An Optimal On-Line Scheduling Algorithm for Overloaded Uniprocessor Real-Time Systems.|Gilad Koren,Dennis Shasha|140|47|0|3
+22|Ordered and Unordered Tree Inclusion.|Pekka Kilpeläinen,Heikki Mannila|212|67|2|3
+23|Randomized Interpolation and Approximation of Sparse Polynomials.|Yishay Mansour|78|29|0|0
+24|An NC Algorithm for Evaluating Monotone Planar Circuits.|Arthur L. Delcher,S. Rao Kosaraju|34|10|0|0
+25|Private Computations over the Integers.|Benny Chor,Mihály Geréb-Graus,Eyal Kushilevitz|27|2|0|8
+26|Sparse Polynomial Interpolation in Nonstandard Bases.|Yagati N. Lakshman,B. David Saunders|46|22|0|4
+27|A New Approach to Formal Language Theory by Kolmogorov Complexity.|Ming Li,Paul M. B. Vitányi|23|3|0|2
+28|O(M*N) Algorithms for the Recognition and Isomorphism Problems on Circular-Arc Graphs.|Wen-Lian Hsu|77|28|0|4
+29|When Trees Collide: An Approximation Algorithm for the Generalized Steiner Problem on Networks.|Ajit Agrawal,Philip N. Klein,R. Ravi|455|152|2|39
+30|Rectilinear Path Problems among Rectilinear Obstacles Revisited.|Chung-Do Yang,D. T. Lee,C. K. Wong|39|11|0|5
+31|Evaluation of Polynomials Using the Structure of the Coefficients.|Jürg Ganz|2|1|0|0
+32|When is the Assignment Bound Tight for the Asymmetric Traveling-Salesman Problem?|Alan M. Frieze,Richard M. Karp,Bruce A. Reed|24|3|0|7
+33|Scaling Algorithms for the Shortest Paths Problem.|Andrew V. Goldberg|177|68|1|10
+34|Counterexamples for Directed and Node Capacitated Cut-Trees.|András A. Benczúr|24|8|0|0
+35|Tree Reconstruction from Partial Orders.|Sampath Kannan,Tandy Warnow|21|3|0|0
+36|A Generalization of the Suffix Tree to Square Matrices, with Applications.|Raffaele Giancarlo|69|13|0|8
+37|Efficient Algorithms for the Hitchcock Transportation Problem.|Takeshi Tokuyama,Jun Nakano|35|12|0|2
+38|Approximate Max-Flow on Small Depth Networks.|Edith Cohen|24|4|0|0
+39|A Fast Approximation Algorithm for Computing the Frequencies of Subgraphs in a Given Graph.|Richard A. Duke,Hanno Lefmann,Vojtech Rödl|81|23|0|15
+40|A Variational Method for Analysing Unit Clause Search.|Henri-M. Méjean,Henri Morel,Gerard Reynaud|3|0|0|0
+41|A General Approach to Removing Degeneracies.|Ioannis Z. Emiris,John F. Canny|107|18|0|8
+42|A Priori Bounds on the Euclidean Traveling Salesman.|Timothy Law Snyder,J. Michael Steele|7|4|0|1
+43|SPARSE Reduces Conjunctively to TALLY.|Harry Buhrman,Edith Hemaspaandra,Luc Longpré|31|0|0|2
+44|Size-Depth Tradeoffs for Algebraic Formulas.|Nader H. Bshouty,Richard Cleve,Wayne Eberly|21|8|0|1
+45|Learning Arithmetic Read-Once Formulas.|Nader H. Bshouty,Thomas R. Hancock,Lisa Hellerstein|53|11|1|16
+46|Amortized Communication Complexity.|Tomás Feder,Eyal Kushilevitz,Moni Naor,Noam Nisan|92|35|0|15
+47|An Optimal Execution Time Estimate of Static Versus Dynamic Allocation in Multiprocessor Systems.|Håkan Lennerstad,Lars Lundberg|28|1|0|27
+48|Computing the Degree of Determinants Via Combinatorial Relaxation.|Kazuo Murota|19|5|0|9
+49|Scheduling Tasks with AND/OR Precedence Constraints.|Donald W. Gillies,Jane W.-S. Liu|n/a
+50|Work-Preserving Speed-Up of Parallel Matrix Computations.|Victor Y. Pan,Franco P. Preparata|20|6|0|10
+51|Integer Linear Programs and Local Search for Max-Cut.|Svatopluk Poljak|40|13|0|0
+52|Easily Checked Generalized Self-Reducibility.|Lane A. Hemaspaandra,Riccardo Silvestri|5|0|0|2
+53|Approximating the Minimum Equivalent Digraph.|Samir Khuller,Balaji Raghavachari,Neal E. Young|83|25|1|2
+54|Fixed-Parameter Tractability and Completeness I: Basic Results.|Rodney G. Downey,Michael R. Fellows|363|110|0|44
+55|Computational Complexity of Two-Dimensional Regions.|Arthur W. Chou,Ker-I Ko|38|5|0|15
+56|Nearly Optimal Algorithms for Canonical Matrix Forms.|Mark Giesbrecht|99|23|0|15
+57|Dynamic Graph Drawings: Trees, Series-Parallel Digraphs, and Planar ST-Digraphs.|Robert F. Cohen,Giuseppe Di Battista,Roberto Tamassia,Ioannis G. Tollis|66|11|0|21
+58|Flow in Planar Graphs with Multiple Sources and Sinks.|Gary L. Miller,Joseph Naor|84|45|0|3
+59|A Subexponential Algorithm for Abstract Optimization Problems.|Bernd Gärtner|95|17|0|0
+60|Randomness-Optimal Unique Element Isolation with Applications to Perfect Matching and Related Problems.|Suresh Chari,Pankaj Rohatgi,Aravind Srinivasan|38|13|0|0
+61|Minimum Cost Paths in Periodic Graphs.|Franz Höfting,Egon Wanke|30|7|0|2
+62|Polynomial-Time Membership Comparable Sets.|Mitsunori Ogihara|91|8|0|11
+63|With Quasilinear Queries EXP Is Not Polynomial Time Turing Reducible to Sparse Sets.|Bin Fu|22|3|0|3
+64|New Tight Bounds on Uniquely Represented Dictionaries.|Arne Andersson,Thomas Ottmann|8|2|0|1
+65|Scheduling Jobs with Temporal Distance Constraints.|Ching-Chih Han,Kwei-Jay Lin,Jane W.-S. Liu|28|3|0|7
+66|On the Approximation of Shortest Common Supersequences and Longest Common Subsequences.|Tao Jiang,Ming Li|187|54|1|10
+67|On the Generation of Random Binary Search Trees.|Luc Devroye,J. M. Robson|9|0|0|3
+68|On the Variance of the Height of Random Binary Search Trees.|Luc Devroye,Bruce A. Reed|51|6|0|6
+69|Constructing Huffman Trees in Parallel.|Lawrence L. Larmore,Teresa M. Przytycka|34|2|0|0
+70|Weakly Hard Problems.|Jack H. Lutz|53|9|0|14
+71|Data-Structural Bootstrapping, Linear Path Compression, and Catenable Heap-Ordered Double-Ended Queues.|Adam L. Buchsbaum,Rajamani Sundar,Robert Endre Tarjan|36|4|0|15
+72|Adaptive Pattern Matching.|R. C. Sekar,R. Ramesh,I. V. Ramakrishnan|46|6|0|5
+73|Finding Regular Simple Paths in Graph Databases.|Alberto O. Mendelzon,Peter T. Wood|325|102|0|14
+74|What Can be Computed Locally?|Moni Naor,Larry J. Stockmeyer|244|105|1|2
+75|Identifying the Minimal Transversals of a Hypergraph and Related Problems.|Thomas Eiter,Georg Gottlob|403|105|0|12
+76|On the Reuse of Additions in Matrix Multiplication.|K. Kalorkoti|0|0|0|0
+77|Scheduling Parallel Machines On-Line.|David B. Shmoys,Joel Wein,David P. Williamson|310|60|0|8
+78|Computing Minimal Spanning Subgraphs in Linear Time.|Xiaofeng Han,Pierre Kelsen,Vijaya Ramachandran,Robert Endre Tarjan|22|4|0|1

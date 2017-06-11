@@ -1,0 +1,35 @@
+34
+1|Proceedings of the 16th International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2011, Newport Beach, CA, USA, March 5-11, 2011.|Rajiv Gupta,Todd C. Mowry|n/a
+2|The cloud will change everything.|James R. Larus|5|5|0|0
+3|Improving software diagnosability via log enhancement.|Ding Yuan,Jing Zheng,Soyeon Park,Yuanyuan Zhou,Stefan Savage|94|87|0|5
+4|DoublePlay: parallelizing sequential logging and replay.|Kaushik Veeraraghavan,Dongyoon Lee,Benjamin Wester,Jessica Ouyang,Peter M. Chen,Jason Flinn,Satish Narayanasamy|127|121|0|6
+5|Hardware acceleration of transactional memory on commodity systems.|Jared Casper,Tayo Oguntebi,Sungpack Hong,Nathan Grasso Bronson,Christos Kozyrakis,Kunle Olukotun|24|24|0|1
+6|Hybrid NOrec: a case study in the effectiveness of best effort hardware transactional memory.|Luke Dalessandro,François Carouge,Sean White,Yossi Lev,Mark Moir,Michael L. Scott,Michael F. Spear|92|90|1|4
+7|Efficient processor support for DRFx, a memory model with exceptions.|Abhayendra Singh,Daniel Marino,Satish Narayanasamy,Todd D. Millstein,Madanlal Musuvathi|22|22|0|3
+8|RCDC: a relaxed consistency deterministic computer.|Joseph Devietti,Jacob Nelson,Tom Bergan,Luis Ceze,Dan Grossman|76|75|1|10
+9|Specifying and checking semantic atomicity for multithreaded programs.|Jacob Burnim,George C. Necula,Koushik Sen|16|15|0|0
+10|Mnemosyne: lightweight persistent memory.|Haris Volos,Andres Jaan Tack,Michael M. Swift|200|191|20|5
+11|NV-Heaps: making persistent objects fast and safe with next-generation, non-volatile memories.|Joel Coburn,Adrian M. Caulfield,Ameen Akel,Laura M. Grupp,Rajesh K. Gupta,Ranjit Jhala,Steven Swanson|198|190|18|4
+12|A declarative language approach to device configuration.|Adrian Schüpbach,Andrew Baumann,Timothy Roscoe,Simon Peter|14|14|0|2
+13|Improved device driver reliability through hardware verification reuse.|Leonid Ryzhyk,John Keys,Balachandra Mirla,Arun Raghunath,Mona Vij,Gernot Heiser|7|7|0|1
+14|A case for neuromorphic ISAs.|Atif Hashmi,Andrew Nere,James Jamal Thomas,Mikko H. Lipasti|27|27|0|2
+15|Mementos: system support for long-running computation on RFID-scale devices.|Benjamin Ransford,Jacob Sorber,Kevin Fu|44|41|0|8
+16|Pocket cloudlets.|Emmanouil Koukoumidis,Dimitrios Lymberopoulos,Karin Strauss,Jie Liu,Doug Burger|55|52|0|5
+17|Blink: managing server clusters on intermittent power.|Navin Sharma,Sean Kenneth Barker,David E. Irwin,Prashant J. Shenoy|103|101|0|15
+18|Dynamic knobs for responsive power-aware computing.|Henry Hoffmann,Stelios Sidiroglou,Michael Carbin,Sasa Misailovic,Anant Agarwal,Martin C. Rinard|136|128|0|30
+19|Flikker: saving DRAM refresh-power through critical data partitioning.|Song Liu,Karthik Pattabiraman,Thomas Moscibroda,Benjamin G. Zorn|189|175|1|7
+20|MemScale: active low-power modes for main memory.|Qingyuan Deng,David Meisner,Luiz E. Ramos,Thomas F. Wenisch,Ricardo Bianchini|149|145|0|6
+21|2ndStrike: toward manifesting hidden concurrency typestate bugs.|Qi Gao,Wenbin Zhang,Zhezhe Chen,Mai Zheng,Feng Qin|37|35|0|8
+22|ConSeq: detecting concurrency bugs through sequential errors.|Wei Zhang,Junghee Lim,Ramya Olichandran,Joel Scherpelz,Guoliang Jin,Shan Lu,Thomas W. Reps|74|71|0|6
+23|S2E: a platform for in-vivo multi-path analysis of software systems.|Vitaly Chipounov,Volodymyr Kuznetsov,George Candea|240|233|5|14
+24|Ensuring operating system kernel integrity with OSck.|Owen S. Hofmann,Alan M. Dunn,Sangman Kim,Indrajit Roy,Emmett Witchel|66|63|0|1
+25|Rethinking the library OS from the top down.|Donald E. Porter,Silas Boyd-Wickizer,Jon Howell,Reuben Olinsky,Galen C. Hunt|92|91|1|10
+26|Faults in linux: ten years later.|Nicolas Palix,Gaël Thomas,Suman Saha,Christophe Calvès,Julia L. Lawall,Gilles Muller|136|132|0|5
+27|Looking back on the language and hardware revolutions: measured power, performance, and scaling.|Hadi Esmaeilzadeh,Ting Cao,Xi Yang,Stephen M. Blackburn,Kathryn S. McKinley|55|50|0|10
+28|Synthesizing concurrent schedulers for irregular algorithms.|Donald Nguyen,Keshav Pingali|19|16|0|8
+29|Exploring circuit timing-aware language and compilation.|Giang Hoang,Robby Bruce Findler,Russ Joseph|14|14|0|1
+30|Orchestration by approximation: mapping stream programs onto multicore architectures.|Sardar M. Farhad,Yousun Ko,Bernd Burgstaller,Bernhard Scholz|32|32|0|3
+31|On-the-fly elimination of dynamic irregularities for GPU computing.|Eddy Z. Zhang,Yunlian Jiang,Ziyu Guo,Kai Tian,Xipeng Shen|122|120|0|16
+32|Sponge: portable stream programming on graphics engines.|Amir Hormati,Mehrzad Samadi,Mark Woh,Trevor N. Mudge,Scott A. Mahlke|78|76|0|5
+33|Inter-core prefetching for multicore processors using migrating helper threads.|Md Kamruzzaman,Steven Swanson,Dean M. Tullsen|49|45|0|3
+34|Improving the performance of trace-based systems by false loop filtering.|Hiroshige Hayashizaki,Peng Wu,Hiroshi Inoue,Mauricio J. Serrano,Toshio Nakatani|27|27|2|6

@@ -1,0 +1,33 @@
+32
+1|12th International Symposium on High-Performance Computer Architecture, HPCA-12 2006, Austin, Texas, February 11-15, 2006.|n/a
+2|New architectures for a new biology.|Doug E. Shaw|0|0|0|0
+3|BulletProof: a defect-tolerant CMP switch architecture.|Kypros Constantinides,Stephen Plaza,Jason A. Blome,Bin Zhang,Valeria Bertacco,Scott A. Mahlke,Todd M. Austin,Michael Orshansky|151|104|2|6
+4|CMP design space exploration subject to physical constraints.|Yingmin Li,Benjamin C. Lee,David M. Brooks,Zhigang Hu,Kevin Skadron|155|77|0|6
+5|Exploiting parallelism and structure to accelerate the simulation of chip multi-processors.|David A. Penry,Daniel Fay,David Hodgdon,Ryan Wells,Graham Schelle,David I. August,Dan Connors|83|50|0|7
+6|An approach for implementing efficient superscalar CISC processors.|Shiliang Hu,Ilhyun Kim,Mikko H. Lipasti,James E. Smith|42|17|0|3
+7|A decoupled KILO-instruction processor.|Miquel Pericàs,Adrián Cristal,Rubén González,Daniel A. Jiménez,Mateo Valero|30|14|0|2
+8|Store vectors for scalable memory dependence prediction and scheduling.|Samantika Subramaniam,Gabriel H. Loh|18|8|0|4
+9|Dynamic power-performance adaptation of parallel computation on chip multiprocessors.|Jian Li,José F. Martínez|217|150|6|3
+10|Last level cache (LLC) performance of data mining workloads on a CMP - a case study of parallel bioinformatics workloads.|Aamer Jaleel,Matthew Mattina,Bruce L. Jacob|109|57|0|3
+11|Construction and use of linear regression models for processor performance analysis.|P. J. Joseph,Kapil Vaswani,Matthew J. Thazhuthaveetil|144|91|0|1
+12|Chip-multiprocessing and beyond.|Per Stenström|12|6|0|0
+13|Probabilistic counter updates for predictor hysteresis and stratification.|Nicholas Riley,Craig B. Zilles|12|7|1|2
+14|Phase characterization for power: evaluating control-flow-based and event-counter-based techniques.|Canturk Isci,Margaret Martonosi|94|48|0|1
+15|DMA-aware memory energy management.|Vivek Pandey,Weihang Jiang,Yuanyuan Zhou,Ricardo Bianchini|82|59|1|6
+16|Increasing the cache efficiency by eliminating noise.|Prateek Pujara,Aneesh Aggarwal|23|11|0|1
+17|Retention-aware placement in DRAM (RAPID): software methods for quasi-non-volatile DRAM.|Ravi K. Venkatesan,Stephen Herr,Eric Rotenberg|83|68|1|1
+18|Completely verifying memory consistency of test program executions.|Chaiyasit Manovit,Sudheendra Hangal|19|14|0|2
+19|Understanding the performance-temperature interactions in disk I/O of server workloads.|Youngjae Kim,Sudhanva Gurumurthi,Anand Sivasubramaniam|70|42|1|20
+20|High performance file I/O for the Blue Gene/L supercomputer.|Hao Yu,Ramendra K. Sahoo,C. Howson,G. Almasi,José G. Castaños,Manish Gupta,José E. Moreira,J. J. Parker,Thomas Engelsiepen,Robert B. Ross,Rajeev Thakur,Robert Latham,William D. Gropp|67|44|0|1
+21|Industrial Perspectives: Platform Design Challenges with Many cores.|Raj Yavatkar|2|1|0|0
+22|Industrial Perspectives: System IO Network Evolution - Closing Requirement Gaps.|Renato Recio|0|0|0|0
+23|Industrial Perspectives: The Next Roadblocks in SOC Evolution: On-Chip Storage Capacity and Off-Chip Bandwidth.|Philip G. Emma|0|0|0|0
+24|ReViveI/O: efficient handling of I/O in highly-available rollback-recovery servers.|Jun Nakano,Pablo Montesinos,Kourosh Gharachorloo,Josep Torrellas|80|50|0|0
+25|Reducing resource redundancy for concurrent error detection techniques in high performance microprocessors.|Sumeet Kumar,Aneesh Aggarwal|29|9|1|1
+26|InfoShield: a security architecture for protecting information usage in memory.|Weidong Shi,Joshua B. Fryman,Guofei Gu,Hsien-Hsin S. Lee,Youtao Zhang,Jun Yang|36|21|0|0
+27|CORD: cost-effective (and nearly overhead-free) order-recording and data race detection.|Milos Prvulovic|83|61|1|0
+28|Software-hardware cooperative memory disambiguation.|Ruke Huang,Alok Garg,Michael C. Huang|20|9|1|4
+29|LogTM: log-based transactional memory.|Kevin E. Moore,Jayaram Bobba,Michelle J. Moravan,Mark D. Hill,David A. Wood|708|409|21|12
+30|The common case transactional behavior of multithreaded programs.|JaeWoong Chung,Hassan Chafi,Chi Cao Minh,Austen McDonald,Brian D. Carlstrom,Christos Kozyrakis,Kunle Olukotun|121|47|6|4
+31|Speculative synchronization and thread management for fine granularity threads.|Alex Gontmakher,Avi Mendelson,Assaf Schuster,Gregory Shklover|3|1|0|1
+32|Efficient instruction schedulers for SMT processors.|Joseph J. Sharkey,Dmitry V. Ponomarev|22|7|0|1

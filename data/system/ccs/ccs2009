@@ -1,0 +1,60 @@
+59
+1|Proceedings of the 2009 ACM Conference on Computer and Communications Security, CCS 2009, Chicago, Illinois, USA, November 9-13, 2009.|Ehab Al-Shaer,Somesh Jha,Angelos D. Keromytis|n/a
+2|Attacking cryptographic schemes based on "perturbation polynomials".|Martin R. Albrecht,Craig Gentry,Shai Halevi,Jonathan Katz|56|51|0|0
+3|Filter-resistant code injection on ARM.|Yves Younan,Pieter Philippaerts,Frank Piessens,Wouter Joosen,Sven Lachmund,Thomas Walter|14|13|0|2
+4|False data injection attacks against state estimation in electric power grids.|Yao Liu,Michael K. Reiter,Peng Ning|662|643|0|12
+5|EPC RFID tag security weaknesses and defenses: passport cards, enhanced drivers licenses, and beyond.|Karl Koscher,Ari Juels,Vjekoslav Brajkovic,Tadayoshi Kohno|80|73|1|5
+6|An efficient forward private RFID protocol.|Côme Berbain,Olivier Billet,Jonathan Etrog,Henri Gilbert|69|68|0|1
+7|RFID privacy: relation between two notions, minimal condition, and efficient construction.|Changshe Ma,Yingjiu Li,Robert H. Deng,Tieyan Li|65|65|0|11
+8|CoSP: a general framework for computational soundness proofs.|Michael Backes,Dennis Hofheinz,Dominique Unruh|60|51|0|21
+9|Reactive noninterference.|Aaron Bohannon,Benjamin C. Pierce,Vilhelm Sjöberg,Stephanie Weirich,Steve Zdancewic|73|72|0|3
+10|Computational soundness for key exchange protocols with symmetric encryption.|Ralf Küsters,Max Tuengerthal|23|23|0|1
+11|A probabilistic approach to hybrid role mining.|Mario Frank,Andreas P. Streich,David A. Basin,Joachim M. Buhmann|67|66|0|2
+12|Efficient pseudorandom functions from the decisional linear assumption and weaker variants.|Allison B. Lewko,Brent Waters|30|29|0|2
+13|Improving privacy and security in multi-authority attribute-based encryption.|Melissa Chase,Sherman S. M. Chow|416|400|3|6
+14|Oblivious transfer with access control.|Jan Camenisch,Maria Dubovitskaya,Gregory Neven|98|92|1|13
+15|NISAN: network information service for anonymization networks.|Andriy Panchenko,Stefan Richter,Arne Rache|36|33|0|2
+16|Certificateless onion routing.|Dario Catalano,Dario Fiore,Rosario Gennaro|21|19|0|2
+17|ShadowWalker: peer-to-peer anonymous communication using redundant structured topologies.|Prateek Mittal,Nikita Borisov|62|57|0|10
+18|Ripley: automatically securing web 2.0 applications through replicated execution.|K. Vikram,Abhishek Prateek,V. Benjamin Livshits|84|80|0|3
+19|HAIL: a high-availability and integrity layer for cloud storage.|Kevin D. Bowers,Ari Juels,Alina Oprea|772|740|5|14
+20|Hey, you, get off of my cloud: exploring information leakage in third-party compute clouds.|Thomas Ristenpart,Eran Tromer,Hovav Shacham,Stefan Savage|1319|1280|8|12
+21|Dynamic provable data possession.|C. Christopher Erway,Alptekin Küpçü,Charalampos Papamanthou,Roberto Tamassia|667|635|1|8
+22|On cellular botnets: measuring the impact of malicious devices on a cellular network core.|Patrick Traynor,Michael Lin,Machigar Ongtang,Vikhyath Rao,Trent Jaeger,Patrick Drew McDaniel,Thomas F. La Porta|209|196|1|13
+23|On lightweight mobile phone application certification.|William Enck,Machigar Ongtang,Patrick Drew McDaniel|640|620|6|17
+24|SMILE: encounter-based trust for mobile social services.|Justin Manweiler,Ryan Scudellari,Landon P. Cox|98|96|0|3
+25|Battle of Botcraft: fighting bots in online games with human observational proofs.|Steven Gianvecchio,Zhenyu Wu,Mengjun Xie,Haining Wang|60|60|1|5
+26|Fides: remote anomaly-based cheat detection using client emulation.|Edward C. Kaiser,Wu-chang Feng,Travis Schluessler|12|12|0|1
+27|Behavior based software theft detection.|Xinran Wang,Yoon-chan Jhi,Sencun Zhu,Peng Liu|66|61|0|13
+28|The fable of the bees: incentivizing robust revocation decision making in ad hoc networks.|Steffen Reidt,Mudhakar Srivatsa,Shane Balfe|23|23|0|3
+29|Effective implementation of the cell broadband engineTM isolation loader.|Masana Murase,Kanna Shimizu,Wilfred Plouffe,Masaharu Sakamoto|4|4|0|1
+30|On achieving good operating points on an ROC plane using stochastic anomaly score prediction.|Muhammad Qasim Ali,Hassan Khan,Ali Sajjad,Syed Ali Khayam|12|12|0|5
+31|On non-cooperative location privacy: a game-theoretic analysis.|Julien Freudiger,Mohammad Hossein Manshaei,Jean-Pierre Hubaux,David C. Parkes|129|128|0|7
+32|Privacy-preserving genomic computation through program specialization.|Rui Wang,XiaoFeng Wang,Zhou Li,Haixu Tang,Michael K. Reiter,Zheng Dong|44|44|2|4
+33|Feeling-based location privacy protection for location-based services.|Toby Xu,Ying Cai|116|113|1|3
+34|Multi-party off-the-record messaging.|Ian Goldberg,Berkant Ustaoglu,Matthew Van Gundy,Hao Chen|22|19|1|2
+35|The bayesian traffic analysis of mix networks.|Carmela Troncoso,George Danezis|42|41|0|5
+36|As-awareness in Tor path selection.|Matthew Edman,Paul F. Syverson|78|74|0|6
+37|Membership-concealing overlay networks.|Eugene Y. Vasserman,Rob Jansen,James Tyra,Nicholas Hopper,Yongdae Kim|65|63|1|2
+38|On the difficulty of software-based attestation of embedded devices.|Claude Castelluccia,Aurélien Francillon,Daniele Perito,Claudio Soriente|98|98|1|5
+39|Proximity-based access control for implantable medical devices.|Kasper Bonne Rasmussen,Claude Castelluccia,Thomas S. Heydt-Benjamin,Srdjan Capkun|111|110|3|2
+40|XCS: cross channel scripting and its impact on web applications.|Hristo Bojinov,Elie Bursztein,Dan Boneh|49|47|0|7
+41|A security-preserving compiler for distributed programs: from information-flow policies to cryptographic mechanisms.|Cédric Fournet,Gurvan Le Guernic,Tamara Rezk|23|22|2|3
+42|Finding bugs in exceptional situations of JNI programs.|Siliang Li,Gang Tan|20|19|0|10
+43|Secure open source collaboration: an empirical study of linus' law.|Andrew Meneely,Laurie A. Williams|62|58|0|13
+44|On voting machine design for verification and testability.|Cynthia Sturton,Susmit Jha,Sanjit A. Seshia,David Wagner|19|19|0|4
+45|Secure in-VM monitoring using hardware virtualization.|Monirul I. Sharif,Wenke Lee,Weidong Cui,Andrea Lanzi|203|198|1|4
+46|A metadata calculus for secure information sharing.|Mudhakar Srivatsa,Dakshi Agrawal,Steffen Reidt|11|11|1|2
+47|Multiple password interference in text passwords and click-based graphical passwords.|Sonia Chiasson,Alain Forget,Elizabeth Stobert,Paul C. van Oorschot,Robert Biddle|167|162|0|7
+48|Can they hear me now?: a security analysis of law enforcement wiretaps.|Micah Sherr,Gaurav Shah,Eric Cronin,Sandy Clark,Matt Blaze|7|7|0|2
+49|English shellcode.|Joshua Mason,Sam Small,Fabian Monrose,Greg MacManus|49|49|0|1
+50|Learning your identity and disease from research papers: information leaks in genome wide association study.|Rui Wang,Yong Fuga Li,XiaoFeng Wang,Haixu Tang,Xiao-yong Zhou|83|80|1|6
+51|Countering kernel rootkits with lightweight hook protection.|Zhi Wang,Xuxian Jiang,Weidong Cui,Peng Ning|179|172|0|10
+52|Mapping kernel objects to enable systematic integrity checking.|Martim Carbone,Weidong Cui,Long Lu,Wenke Lee,Marcus Peinado,Xuxian Jiang|119|112|0|5
+53|Robust signatures for kernel data structures.|Brendan Dolan-Gavitt,Abhinav Srivastava,Patrick Traynor,Jonathon T. Giffin|110|103|0|4
+54|A new cell counter based attack against tor.|Zhen Ling,Junzhou Luo,Wei Yu,Xinwen Fu,Dong Xuan,Weijia Jia|65|63|0|18
+55|Scalable onion routing with torsk.|Jon McLachlan,Andrew Tran,Nicholas Hopper,Yongdae Kim|85|79|1|5
+56|Anonymous credentials on a standard java card.|Patrik Bichsel,Jan Camenisch,Thomas Groß,Victor Shoup|132|124|0|10
+57|Large-scale malware indexing using function-call graphs.|Xin Hu,Tzi-cker Chiueh,Kang G. Shin|158|154|1|1
+58|Dispatcher: enabling active botnet infiltration using automatic protocol reverse-engineering.|Juan Caballero,Pongsin Poosankam,Christian Kreibich,Dawn Xiaodong Song|161|154|2|14
+59|Your botnet is my botnet: analysis of a botnet takeover.|Brett Stone-Gross,Marco Cova,Lorenzo Cavallaro,Bob Gilbert,Martin Szydlowski,Richard A. Kemmerer,Christopher Kruegel,Giovanni Vigna|470|440|11|18

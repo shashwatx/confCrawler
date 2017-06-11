@@ -1,0 +1,68 @@
+67
+1|Proceedings of the Sixth International Conference on Data Engineering, February 5-9, 1990, Los Angeles, California, USA.|n/a
+2|ViewSystem: Integrating Heterogeneous Information Bases by Object-Oriented Views.|Manfred Kaul,Klaus Drosten,Erich J. Neuhold|171|6|0|5
+3|Using a Meta Model to Represent Object-Oriented Data Models.|Shuguang Hong,Fred J. Maryanski|30|6|4|1
+4|Multimedia Object Models for Synchronisation and Databases.|Thomas D. C. Little,Arif Ghafoor|29|3|2|1
+5|Concurrency Control Using Locking with Deferred Blocking.|Philip S. Yu,Daniel M. Dias|16|1|0|6
+6|A Paradigm for Concurrency Control in Heterogeneous Distributed Database Systems.|Ahmed K. Elmagarmid,Weimin Du|69|2|0|5
+7|Access Invariance and Its Use in High Contention Environments.|Peter A. Franaszek,John T. Robinson,Alexander Thomasian|42|6|0|2
+8|A Rule-based Language for Deductive Object-Oriented Databases.|A. M. Alashqur,Stanley Y. W. Su,Herman Lam|34|1|0|12
+9|Supporting Universal Quantification in a Two-Dimensional Database Query Language.|Kyu-Young Whang,Ashok Malhotra,Gary H. Sockut,Luanne M. Burns|17|1|0|2
+10|A Temporal Model and Query Language for ER Databases.|Ramez Elmasri,Gene T. J. Wuu|190|18|10|16
+11|Object Views: Extending the Vision.|Sandra Heiler,Stanley B. Zdonik|171|6|6|2
+12|Alternatives in Complex Object Representation: A Performance Perspective.|Anant Jhingran,Michael Stonebraker|18|1|1|1
+13|Representing Processes in the Extended Entity-Relationship Model.|Victor M. Markowitz|27|3|0|0
+14|Serializability in Object-Oriented Database Systems.|Thomas C. Rakow,Junzhong Gu,Erich J. Neuhold|50|0|0|10
+15|Parallelism in Database Production Systems.|Jaideep Srivastava,Kuo-Wei Hwang,Jack S. Eddy Tan|14|0|0|2
+16|Performance Evaluation of Multiversion Database Systems.|Sang Hyuk Son,Navid Haghighi|11|2|0|1
+17|Generalization and a Framework for Query Modification.|Surajit Chaudhuri|63|20|0|0
+18|A Modular Query Optimizer Generator.|Edward Sciore,John Sieg Jr.|27|2|0|1
+19|A Query Algebra for Object-Oriented Databases.|Gail M. Shaw,Stanley B. Zdonik|241|22|0|6
+20|Scheduling Data Redistribution in Distributed Databases.|Pedro I. Rivera-Vega,Ravi Varadarajan,Shamkant B. Navathe|42|12|0|3
+21|Cost of Distributed Deadlock Detection: A Performance Study.|Alok N. Choudhary|25|2|0|0
+22|Experimental Evaluation of Concurrency Checkpointing and Rollback-Recovery Algorithms.|Bharat K. Bhargava,Shy-Renn Lian,Pei-Jyun Leu|31|2|0|2
+23|Experiences with Distributed Query Processing.|Clement T. Yu,Chengwen Liu|9|0|0|3
+24|Query Processing for Temporal Databases.|T. Y. Cliff Leung,Richard R. Muntz|64|1|1|4
+25|Parallelism in Object-Oriented Query Processing.|Kyung-Chang Kim|37|2|0|0
+26|Extending Object-Oriented Concepts to Support Engineering Applications.|Aloysius Cornelio,Shamkant B. Navathe,Keith L. Doty|6|0|0|3
+27|Modeling Design Object Relationships in PEGASUS.|Alexandros Biliris|20|0|0|1
+28|Bill-of-Material Configuration Generation.|Michael R. Blaha,William J. Premerlani,A. R. Bender,R. M. Salemme,M. M. Kornfein,C. K. Harkins|14|0|0|2
+29|System Issues in Parallel Sorting for Database Systems.|Balakrishna R. Iyer,Daniel M. Dias|42|5|2|4
+30|Join Index, Materialized View, and Hybrid-Hash Join: A Performance Analysis.|José A. Blakeley,Nancy L. Martin|60|10|3|0
+31|A Suitable Algorithm for Computing Partial Transitive Closures in Databases.|Bin Jiang|59|1|1|1
+32|Structuring Knowledge Bases Using Automatic Learning.|Guy W. Mineau,Jan Gecsei,Robert Godin|46|3|0|6
+33|An Attribute-Oriented Approach for Learning Classification Rules from Relational Databases.|Yandong Cai,Nick Cercone,Jiawei Han|76|22|0|5
+34|An Object-Oriented Approach to Data/Knowledge Modeling Based on Logic.|Kyuchul Lee,Sukho Lee|24|2|0|3
+35|A New Tree Type Data Structure with Homogeneous Nodes Suitable for a Very Large Spatial Database.|Yutaka Ohsawa,Masao Sakauchi|53|11|8|6
+36|Selectivity Estimation Using Homogeneity Measurement.|Meng Chang Chen,Lawrence McNamee,Norman S. Matloff|13|1|0|0
+37|Spatial Search with Polyhedra.|H. V. Jagadish|136|13|1|8
+38|The Semantic Data Model for Security: Representing the Security Semantics of an Application.|Gary W. Smith|23|2|0|1
+39|The Fingerprinted Database.|Neal R. Wagner,Robert L. Fountain,Robert J. Hazy|n/a
+40|Multilevel Secure Database Concurrency Control.|Thomas F. Keefe,Wei-Tek Tsai,Jaideep Srivastava|45|1|0|0
+41|A Cooperative Approach to Large Knowledge Based Systems.|C. V. Ramamoorthy,Shashi Shekhar|4|1|0|0
+42|An Algorithmic Basis for Integrating Production Systems and Large Databases.|Daniel P. Miranker,David A. Brant|30|3|0|6
+43|Compilation of Logic Programs to Implement Very Large Knowledge Base Systems - A Case Study: Educe*.|Jorge B. Bocca|6|1|0|0
+44|The R-File: An Efficient Access Structure for Proximity Queries.|Andreas Hutflesz,Hans-Werner Six,Peter Widmayer|67|11|3|9
+45|The Generalized Grid File: Description and Performance Aspects.|Henk M. Blanken,Alle IJbema,Paul Meek,Bert van den Akker|27|3|0|0
+46|A Partitioned Signature File Structure for Multiattribute and Text Retrieval.|Dik Lun Lee,Chun-Wu Roger Leng|39|1|0|7
+47|Multi-User View Integration System (MUVIS): An Expert System for View Integration.|Stephen Hayne,Sudha Ram|168|20|0|15
+48|A Shared Conceptual Schema for Four Medical Expert Systems.|James P. Held,John V. Carlis|2|0|0|0
+49|A Brief Overview of LILOG-DB.|Thomas Ludwig|14|1|0|4
+50|Distributed RAID - A New Multiple Copy Algorithm.|Michael Stonebraker,Gerhard A. Schloss|194|63|61|1
+51|The Grid Protocol: A High Performance Scheme for Maintaining Replicated Data.|Shun Yan Cheung,Mostafa H. Ammar,Mustaque Ahamad|351|73|2|5
+52|An Analysis of Borrowing Policies for Escrow Transactions in a Replicated Data Environment.|Akhil Kumar|61|48|49|0
+53|Chained Declustering: A New Availability Strategy for Multiprocessor Database Machines.|Hui-I Hsiao,David J. DeWitt|321|69|6|7
+54|A Multiuser Performance Analysis of Alternative Declustering Strategies.|Shahram Ghandeharizadeh,David J. DeWitt|101|6|1|28
+55|Concurrency Control of Bulk Access Transactions on Shared Nothing Parallel Database Machines.|Tadashi Ohmori,Masaru Kitsuregawa,Hidehiko Tanaka|7|2|0|1
+56|Extended Relations.|John Sieg Jr.,Edward Sciore|n/a
+57|On Representing Indefinite and Maybe Information in Relational Databases: A Generalization.|Ken-Chih Liu,Rajshekhar Sunderraman|21|1|0|3
+58|Attribute Inheritance Implemented on Top of a Relational Database System.|Stefan Böttcher|5|0|0|0
+59|Currency-Based Updates to Distributed Materialized Views.|Arie Segev,Weiping Fang|94|17|2|1
+60|Update Propagation in Distributed Memory Hierarchy.|Matthew Bellew,Meichun Hsu,Va-On Tam|22|3|3|1
+61|Propagating Updates in a Highly Replicated Database.|Tony P. Ng|14|3|6|1
+62|Database Buffer Model for the Data Sharing Environment.|Asit Dan,Daniel M. Dias,Philip S. Yu|13|0|1|9
+63|Buffer and Load Balancing in Locally Distributed Database Systems.|Hongjun Lu,Kian-Lee Tan|3|0|0|2
+64|A ``Greedy'' Approach to the Write Problem in Shadowed Disk Systems.|Norman S. Matloff,Raymond Wai-Man Lo|4|0|1|1
+65|A Flexible Transaction Model for Software Engineering.|Gail E. Kaiser|90|2|0|8
+66|Long-Duration Transactions in Software Design Projects.|Henry F. Korth,Gregory D. Speegle|43|0|0|3
+67|How to Share Work on Shared Objects in Design Databases.|Michael Ranft,Simone Rehm,Klaus R. Dittrich|25|3|0|0

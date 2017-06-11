@@ -1,0 +1,60 @@
+59
+1|Advances in Database Technology - EDBT 2002, 8th International Conference on Extending Database Technology, Prague, Czech Republic, March 25-27, Proceedings.|Christian S. Jensen,Keith G. Jeffery,Jaroslav Pokorný,Simonas Saltenis,Elisa Bertino,Klemens Böhm,Matthias Jarke|5|3|0|0
+2|Hyperdatabases: Infrastructure for the Information Space.|Hans-Jörg Schek|n/a
+3|DAML+OIL: A Reason-able Web Ontology Language.|Ian Horrocks|233|43|0|2
+4|Ambient Intelligence: Plenty of Challenges by 2010.|Jari Ahola|7|2|0|0
+5|An Approach to Integrating Query Refinement in SQL.|Michael Ortega-Binderberger,Kaushik Chakrabarti,Sharad Mehrotra|61|26|0|5
+6|Querying with Intrinsic Preferences.|Jan Chomicki|194|74|0|10
+7|Rewriting Unions of General Conjunctive Queries Using Views.|Junhu Wang,Michael J. Maher,Rodney W. Topor|18|7|0|2
+8|Profit Mining: From Patterns to Actions.|Ke Wang,Senqiang Zhou,Jiawei Han|83|35|0|4
+9|Cut-and-Pick Transactions for Proxy Log Mining.|Wenwu Lou,Guimei Liu,Hongjun Lu,Qiang Yang|17|8|0|4
+10|Composition of Mining Contexts for Efficient Extraction of Association Rules.|Cheikh Talibouya Diop,Arnaud Giacometti,Dominique Laurent,Nicolas Spyratos|24|9|0|3
+11|Designing Functional Dependencies for XML.|Mong-Li Lee,Tok Wang Ling,Wai Lup Low|167|44|1|7
+12|On Efficient Matching of Streaming XML Documents and Queries.|Laks V. S. Lakshmanan,Sailaja Parthasarathy|50|9|3|0
+13|Efficient Complex Query Support for Multiversion XML Documents.|Shu-Yao Chien,Vassilis J. Tsotras,Carlo Zaniolo,Donghui Zhang|69|3|0|10
+14|Approximate Processing of Multiway Spatial Joins in Very Large Databases.|Dimitris Papadias,Dinos Arkoumanis|25|10|0|0
+15|Indexing Values in Continuous Field Databases.|Myoung-Ah Kang,Christos Faloutsos,Robert Laurini,Sylvie Servigne|5|2|0|0
+16|Efficient and Adaptive Processing of Multiple Continuous Queries.|Wee Hyong Tok,Stéphane Bressan|19|6|0|5
+17|The Geometry of Uncertainty in Moving Objects Databases.|Goce Trajcevski,Ouri Wolfson,Fengli Zhang,Sam Chamberlain|150|49|0|13
+18|Efficient Indexing of Spatiotemporal Objects.|Marios Hadjieleftheriou,George Kollios,Vassilis J. Tsotras,Dimitrios Gunopulos|174|48|1|16
+19|Dynamic Queries over Mobile Objects.|Iosif Lazaridis,Kriengkrai Porkaew,Sharad Mehrotra|96|28|0|2
+20|Semantic Analysis of Business Process Executions.|Fabio Casati,Ming-Chien Shan|44|18|0|1
+21|An Introduction to the e-XML Data Integration Suite.|Georges Gardarin,Antoine Mensch,Anthony Tomasic|25|3|0|3
+22|Spatio-temporal Information Systems in a Statistical Context.|Leonardo Tininini,Mario Paolucci,Giuseppe Sindoni,Stefano De Francisci|4|0|0|4
+23|A Systematic Approach to Selecting Maintenance Policies in a Data Warehouse Environment.|Henrik Engström,Sharma Chakravarthy,Brian Lings|11|1|0|7
+24|Efficient OLAP Query Processing in Distributed Data Warehouses.|Michael O. Akinde,Michael H. Böhlen,Theodore Johnson,Laks V. S. Lakshmanan,Divesh Srivastava|55|33|0|0
+25|Incremental Maintenance of Schema-Restructuring Views.|Andreas Koeller,Elke A. Rundensteiner|20|2|1|5
+26|Coupling of FDBS and WfMS for Integrating Database and Application Systems: Architecture, Complexity, Performance.|Klaudia Hergula,Theo Härder|7|3|3|2
+27|Optimizing Scientific Databases for Client Side Data Processing.|Etzard Stolte,Gustavo Alonso|7|1|1|3
+28|Supporting Efficient Parametric Search of E-Commerce Data: A Loosely-Coupled Solution.|Min Wang,Yuan-Chi Chang,Sriram Padmanabhan|8|0|0|3
+29|Divide-and-Conquer Algorithm for Computing Set Containment Joins.|Sergey Melnik,Hector Garcia-Molina|13|3|0|2
+30|Universal Quantification in Relational Databases: A Classification of Data and Algorithms.|Ralf Rantzau,Leonard D. Shapiro,Bernhard Mitschang,Quan Wang|10|3|0|3
+31|Efficient Algorithms for Mining Inclusion Dependencies.|Fabien De Marchi,Stéphane Lopes,Jean-Marc Petit|48|11|0|14
+32|The Index-Based XXL Search Engine for Querying XML Data with Relevance Ranking.|Anja Theobald,Gerhard Weikum|243|41|4|21
+33|Tree Pattern Relaxation.|Sihem Amer-Yahia,SungRan Cho,Divesh Srivastava|230|73|2|11
+34|Schema-Driven Evaluation of Approximate Tree-Pattern Queries.|Torsten Schlieder|76|13|0|0
+35|A Robust and Self-tuning Page-Replacement Strategy for Spatial Database Systems.|Thomas Brinkhoff|17|3|0|0
+36|Broadcast-Based Data Access in Wireless Environments.|Xu Yang,Athman Bouguettaya|23|5|0|6
+37|Bridging the Gap between Response Time and Energy-Efficiency in Broadcast Schedule Design.|Wai Gen Yee,Shamkant B. Navathe,Edward Omiecinski,Chris Jermaine|23|4|0|4
+38|Estimating Answer Sizes for XML Queries.|Yuqing Wu,Jignesh M. Patel,H. V. Jagadish|161|25|0|10
+39|Selectivity Estimation for Spatial Joins with Geometric Selections.|Chengyu Sun,Divyakant Agrawal,Amr El Abbadi|48|16|0|0
+40|A Framework for the Physical Design Problem for Data Synopses.|Arnd Christian König,Gerhard Weikum|15|4|1|2
+41|Temporal Aggregation over Data Streams Using Multiple Granularities.|Donghui Zhang,Dimitrios Gunopulos,Vassilis J. Tsotras,Bernhard Seeger|56|8|0|5
+42|ProPolyne: A Fast Wavelet-Based Algorithm for Progressive Evaluation of Polynomial Range-Sum Queries.|Rolfe R. Schmidt,Cyrus Shahabi|29|3|2|16
+43|Aggregate Processing of Planar Points.|Yufei Tao,Dimitris Papadias,Jun Zhang|31|6|0|9
+44|TDB: A Database System for Digital Rights Management.|Radek Vingralek,Umesh Maheshwari,William Shapiro|9|1|0|1
+45|Content Schema Evolution in the CoreMedia®; Content Application Platform CAP.|Axel Wienberg,Matthias Ernst,Andreas Gawecki,Olaf Kummer,Frank Wienberg,Joachim W. Schmidt|6|2|0|1
+46|Gene Expression Data Management: A Case Study.|Victor M. Markowitz,I-Min A. Chen,Anthony Kosky|3|0|0|1
+47|With HEART Towards Response Time Guarantees for Message-Based e-Services.|Achim Kraiss,Frank Schön,Gerhard Weikum,Uwe Deppisch|7|2|0|0
+48|Cobra: A Content-Based Video Retrieval System.|Milan Petkovic,Willem Jonker|4|2|0|0
+49|Navigating Virtual Information Sources with Know-ME.|Xufei Qian,Bertram Ludäscher,Maryann E. Martone,Amarnath Gupta|2|0|0|2
+50|XQuery by the Book: The IPSI XQuery Demonstrator.|Peter Fankhauser,Tobias Groh,Sven Overhage|14|0|0|0
+51|The ORDB-Based SFB-501-Reuse-Repository.|Wolfgang Mahnke,Norbert Ritter|7|1|0|4
+52|Building Dynamic Market Places Using HyperQueries.|Christian Wiesner,Peter Winklhofer,Alfons Kemper|7|0|0|5
+53|The APPROXML Tool Demonstration.|Ernesto Damiani,Nico Lavarini,Stefania Marrara,Barbara Oliboni,Daniele Pasini,Letizia Tanca,Giuseppe Viviani|12|2|0|1
+54|A Database-Supported Workbench for Information Fusion: INFUSE.|Oliver Dunemann,Ingolf Geist,Roland Jesse,Kai-Uwe Sattler,Andreas Stephanik|7|0|0|4
+55|STYX: Connecting the XML Web to the World of Semantics.|Irini Fundulaki,Bernd Amann,Catriel Beeri,Michel Scholl,Anne-Marie Vercoustre|10|3|0|2
+56|UMiner: A Data Mining System Handling Uncertainty and Quality.|Christos Amanatidis,Maria Halkidi,Michalis Vazirgiannis|0|0|0|0
+57|Managing Web Sites with OntoWebber.|Yuhui Jin,Sichun Xu,Stefan Decker,Gio Wiederhold|14|2|0|3
+58|Management of Dynamic Location Information in DOMINO.|Ouri Wolfson,Hu Cao,Hai Lin,Goce Trajcevski,Fengli Zhang,Naphtali Rishe|27|6|0|4
+59|Situation Aware Mobile Access to Digital Libraries.|Peter Haase|6|6|0|0

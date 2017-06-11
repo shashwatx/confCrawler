@@ -1,0 +1,75 @@
+74
+1|Proceedings of the 36th Annual ACM Symposium on Theory of Computing, Chicago, IL, USA, June 13-16, 2004.|László Babai|n/a
+2|Robust pcps of proximity, shorter pcps and applications to coding.|Eli Ben-Sasson,Oded Goldreich,Prahladh Harsha,Madhu Sudan,Salil P. Vadhan|178|97|0|52
+3|A new PCP outer verifier with applications to homogeneous linear equations and max-bisection.|Jonas Holmerin,Subhash Khot|18|14|0|3
+4|Asymmetric k-center is log* n-hard to approximate.|Julia Chuzhoy,Sudipto Guha,Eran Halperin,Sanjeev Khanna,Guy Kortsarz,Joseph Naor|49|24|0|4
+5|New hardness results for congestion minimization and machine scheduling.|Julia Chuzhoy,Joseph Naor|54|16|0|6
+6|On the performance of greedy algorithms in packet buffering.|Susanne Albers,Markus Schmidt|77|28|0|7
+7|Adaptive routing with end-to-end feedback: distributed learning and geometric approaches.|Baruch Awerbuch,Robert D. Kleinberg|132|63|0|3
+8|Know thy neighbor's neighbor: the power of lookahead in randomized P2P networks.|Gurmeet Singh Manku,Moni Naor,Udi Wieder|226|77|7|13
+9|The zero-one principle for switching networks.|Yossi Azar,Yossi Richter|53|16|0|12
+10|Approximating the cut-norm via Grothendieck's inequality.|Noga Alon,Assaf Naor|213|141|0|11
+11|Nearly-linear time algorithms for graph partitioning, graph sparsification, and solving linear systems.|Daniel A. Spielman,Shang-Hua Teng|439|343|4|24
+12|Dictionary matching and indexing with errors and don't cares.|Richard Cole,Lee-Ad Gottlieb,Moshe Lewenstein|203|117|0|11
+13|Sorting and searching in the presence of memory faults (without redundancy).|Irene Finocchi,Giuseppe F. Italiano|33|13|0|7
+14|Quantum algorithms a decade after shor.|Andris Ambainis|3|3|0|0
+15|Graph entropy and quantum sorting problems.|Andrew Chi-Chih Yao|3|1|0|0
+16|Multilinear formulas and skepticism of quantum computing.|Scott Aaronson|48|17|0|8
+17|Exponential separation of quantum and classical one-way communication complexity.|Ziv Bar-Yossef,T. S. Jayram,Iordanis Kerenidis|66|17|0|9
+18|Approximation algorithm for k-node connected subgraphs via critical graphs.|Guy Kortsarz,Zeev Nutov|27|7|0|7
+19|Solving fractional packing problems in Oast(1/?) iterations.|Daniel Bienstock,Garud Iyengar|30|14|0|3
+20|The all-or-nothing multicommodity flow problem.|Chandra Chekuri,Sanjeev Khanna,F. Bruce Shepherd|84|30|0|17
+21|Approximation algorithms for deadline-TSP and vehicle routing with time-windows.|Nikhil Bansal,Avrim Blum,Shuchi Chawla,Adam Meyerson|136|89|1|2
+22|Estimating the weight of metric minimum spanning trees in sublinear-time.|Artur Czumaj,Christian Sohler|30|10|0|7
+23|A fully dynamic reachability algorithm for directed graphs with an almost linear update time.|Liam Roditty,Uri Zwick|91|54|0|7
+24|Using nondeterminism to amplify hardness.|Alexander Healy,Salil P. Vadhan,Emanuele Viola|65|24|0|10
+25|Visibly pushdown languages.|Rajeev Alur,P. Madhusudan|414|241|0|28
+26|Linear FPT reductions and computational lower bounds.|Jianer Chen,Xiuzhen Huang,Iyad A. Kanj,Ge Xia|96|42|0|22
+27|Expander flows, geometric embeddings and graph partitioning.|Sanjeev Arora,Satish Rao,Umesh V. Vazirani|591|368|1|31
+28|Bounded-concurrent secure multi-party computation with a dishonest majority.|Rafael Pass|108|61|0|22
+29|New notions of security: achieving universal composability without trusted setup.|Manoj Prabhakaran,Amit Sahai|116|54|0|16
+30|Completeness in two-party secure computation: a computational view.|Danny Harnik,Moni Naor,Omer Reingold,Alon Rosen|22|15|0|2
+31|Batch codes and their applications.|Yuval Ishai,Eyal Kushilevitz,Rafail Ostrovsky,Amit Sahai|85|60|0|13
+32|Low distortion maps between point sets.|Claire Kenyon,Yuval Rabani,Alistair Sinclair|46|14|0|0
+33|Bypassing the embedding: algorithms for low dimensional metrics.|Kunal Talwar|139|60|0|5
+34|On coresets for k-means and k-median clustering.|Sariel Har-Peled,Soham Mazumdar|289|163|0|16
+35|Isotopic implicit surface meshing.|Jean-Daniel Boissonnat,David Cohen-Steiner,Gert Vegter|47|6|0|10
+36|Hit-and-run from a corner.|László Lovász,Santosh Vempala|119|80|0|16
+37|A simple polynomial-time rescaling algorithm for solving linear programs.|John Dunagan,Santosh Vempala|68|36|0|5
+38|Collective asynchronous reading with polylogarithmic worst-case overhead.|Bogdan S. Chlebus,Dariusz R. Kowalski,Alexander A. Shvartsman|11|5|0|10
+39|Unconditional lower bounds on the time-approximation tradeoffs for the distributed minimum spanning tree problem.|Michael Elkin|82|43|0|7
+40|Network games.|Éva Tardos|406|337|0|43
+41|Typical properties of winners and losers in discrete optimization.|René Beier,Berthold Vöcking|67|33|0|3
+42|Primal-dual algorithms for deterministic inventory problems.|Retsef Levi,Robin Roundy,David B. Shmoys|56|39|0|12
+43|Multi-processor scheduling to minimize flow time with epsilon resource augmentation.|Chandra Chekuri,Ashish Goel,Sanjeev Khanna,Amit Kumar|83|42|0|11
+44|Algorithms for dynamic geometric problems over data streams.|Piotr Indyk|83|41|0|10
+45|Sublinear algorithms for testing monotone and unimodal distributions.|Tugkan Batu,Ravi Kumar,Ronitt Rubinfeld|61|50|0|15
+46|The difficulty of testing for isomorphism against a graph that is given in advance.|Eldar Fischer|28|19|0|5
+47|An approximate König's theorem for edge-coloring weighted bipartite graphs.|José R. Correa,Michel X. Goemans|9|3|0|2
+48|Finding paths and cycles of superpolylogarithmic length.|Harold N. Gabow|44|17|0|2
+49|Boosted sampling: approximation algorithms for stochastic optimization.|Anupam Gupta,Martin Pál,R. Ravi,Amitabh Sinha|158|63|0|25
+50|Derandomizing homomorphism testing in general groups.|Amir Shpilka,Avi Wigderson|30|12|0|4
+51|Better extractors for better codes?|Venkatesan Guruswami|23|5|0|7
+52|A new family of Cayley expanders (?).|Eyal Rozenman,Aner Shalev,Avi Wigderson|15|3|0|4
+53|Spectral partitioning, eigenvalue bounds, and circle packings for graphs of bounded genus.|Jonathan A. Kelner|37|20|0|3
+54|Lower bounds for local search by quantum arguments.|Scott Aaronson|87|25|0|5
+55|Counting complexity classes for numeric computations II: algebraic and semialgebraic sets.|Peter Bürgisser,Felipe Cucker|n/a
+56|A conjecture about polynomial time computable lattice-lattice functions.|Miklós Ajtai|1|1|0|0
+57|Quantum and classical query complexities of local search are polynomially related.|Miklos Santha,Mario Szegedy|20|1|0|0
+58|The quantum adiabatic optimization algorithm and local minima.|Ben Reichardt|61|28|0|0
+59|Auction algorithms for market equilibrium.|Rahul Garg,Sanjiv Kapoor|74|30|1|10
+60|The spending constraint model for market equilibrium: algorithmic, existence and uniqueness results.|Nikhil R. Devanur|52|17|1|4
+61|(Almost) tight bounds and existence theorems for confluent flows.|Jiangzhuo Chen,Robert D. Kleinberg,László Lovász,Rajmohan Rajaraman,Ravi Sundaram,Adrian Vetta|5|2|0|0
+62|Approximate max-integral-flow/min-multicut theorems.|Kenji Obata|15|2|0|0
+63|Lower bounds for dynamic connectivity.|Mihai Patrascu,Erik D. Demaine|33|21|0|1
+64|Lower bounds for linear degeneracy testing.|Nir Ailon,Bernard Chazelle|18|13|0|2
+65|A decentralized algorithm for spectral analysis.|David Kempe,Frank McSherry|222|146|1|2
+66|Using mixture models for collaborative filtering.|Jon M. Kleinberg,Mark Sandler|58|23|0|2
+67|Depth through breadth, or why should we attend talks in other areas?|Avi Wigderson|2|2|0|0
+68|Sharp thresholds For monotone properties in random geometric graphs.|Ashish Goel,Sanatan Rai,Bhaskar Krishnamachari|96|35|0|5
+69|The two possible values of the chromatic number of a random graph.|Dimitris Achlioptas,Assaf Naor|135|73|0|11
+70|On sums of independent random variables with unbounded variance, and estimating the average degree in a graph.|Uriel Feige|43|28|0|0
+71|The complexity of pure Nash equilibria.|Alex Fabrikant,Christos H. Papadimitriou,Kunal Talwar|524|253|0|15
+72|Computing Nash equilibria for scheduling on restricted parallel links.|Martin Gairing,Thomas Lücking,Marios Mavronicolas,Burkhard Monien|116|35|0|20
+73|Rational secret sharing and multiparty computation: extended abstract.|Joseph Y. Halpern,Vanessa Teague|297|221|1|1
+74|Multi-linear formulas for permanent and determinant are of super-polynomial size.|Ran Raz|64|20|0|11

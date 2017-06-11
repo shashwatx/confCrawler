@@ -1,0 +1,68 @@
+67
+1|48th Annual IEEE Symposium on Foundations of Computer Science (FOCS 2007), October 20-23, 2007, Providence, RI, USA, Proceedings.|n/a
+2|Structure and Randomness in Combinatorics.|Terence Tao|32|22|0|10
+3|A Brief Look at Pairings Based Cryptography.|Dan Boneh|14|9|0|0
+4|Spectral Graph Theory and its Applications.|Daniel A. Spielman|143|121|0|0
+5|Pseudorandom Bits for Polynomials.|Andrej Bogdanov,Emanuele Viola|95|69|0|13
+6|Extractors and Rank Extractors for Polynomial Sources.|Zeev Dvir,Ariel Gabizon,Avi Wigderson|36|31|0|9
+7|Polylogarithmic Independence Can Fool DNF Formulas.|Louay Bazzi|54|48|0|0
+8|Derandomization of Sparse Cyclotomic Integer Zero Testing.|Qi Cheng|3|3|0|1
+9|Computing Equilibria in Anonymous Games.|Constantinos Daskalakis,Christos H. Papadimitriou|81|55|0|14
+10|Mechanism Design via Differential Privacy.|Frank McSherry,Kunal Talwar|587|523|1|12
+11|Balloon Popping With Applications to Ascending Auctions.|Nicole Immorlica,Anna R. Karlin,Mohammad Mahdian,Kunal Talwar|6|5|0|0
+12|On the Complexity of Nash Equilibria and Other Fixed Points (Extended Abstract).|Kousha Etessami,Mihalis Yannakakis|156|121|0|15
+13|Paths Beyond Local Search: A Tight Bound for Randomized Fixed-Point Computation.|Xi Chen,Shang-Hua Teng|9|5|0|5
+14|Exponential Time/Space Speedups for Resolution and the PSPACE-completeness of Black-White Pebbling.|Philipp Hertel,Toniann Pitassi|15|6|0|0
+15|Parameterized Proof Complexity.|Stefan S. Dantchev,Barnaby Martin,Stefan Szeider|30|21|0|9
+16|Non-Linear Index Coding Outperforming the Linear Optimum.|Eyal Lubetzky,Uri Stav|94|79|0|6
+17|Can you beat treewidth?|Dániel Marx|91|81|0|14
+18|Adaptive Simulated Annealing: A Near-optimal Connection between Sampling and Counting.|Daniel Stefankovic,Santosh Vempala,Eric Vigoda|44|32|0|8
+19|Reconstruction for Models on Random Graphs.|Antoine Gerschenfeld,Andrea Montanari|54|34|0|0
+20|Mixing Time Power Laws at Criticality.|Yun Long,Asaf Nachmias,Yuval Peres|4|4|0|0
+21|Near Optimal Bounds for Collision in Pollard Rho for Discrete Log.|Jeong Han Kim,Ravi Montenegro,Prasad Tetali|7|3|0|3
+22|Intrusion-Resilient Secret Sharing.|Stefan Dziembowski,Krzysztof Pietrzak|68|52|0|20
+23|Covert Multi-Party Computation.|Nishanth Chandran,Vipul Goyal,Rafail Ostrovsky,Amit Sahai|n/a
+24|Cryptography from Sunspots: How to Use an Imperfect Reference String.|Ran Canetti,Rafael Pass,Abhi Shelat|35|31|0|4
+25|Planning for Fast Connectivity Updates.|Mihai Patrascu,Mikkel Thorup|31|25|0|2
+26|Strongly History-Independent Hashing with Applications.|Guy E. Blelloch,Daniel Golovin|30|21|2|5
+27|Smooth Histograms for Sliding Windows.|Vladimir Braverman,Rafail Ostrovsky|33|28|0|16
+28|Lower Bounds on Streaming Algorithms for Approximating the Length of the Longest Increasing Subsequence.|Anna Gál,Parikshit Gopalan|27|19|0|0
+29|Towards Sharp Inapproximability For Any 2-CSP.|Per Austrin|53|32|0|2
+30|Linear Equations Modulo 2 and the L1 Diameter of Convex Bodies.|Subhash Khot,Assaf Naor|23|20|0|1
+31|Inapproximability Results for Sparsest Cut, Optimal Linear Arrangement, and Precedence Constrained Scheduling.|Christoph Ambühl,Monaldo Mastrolilli,Ola Svensson|66|43|0|7
+32|On the Optimality of Planar and Geometric Approximation Schemes.|Dániel Marx|33|28|0|9
+33|Hardness of Reconstructing Multivariate Polynomials over Finite Fields.|Parikshit Gopalan,Subhash Khot,Rishi Saket|20|12|0|7
+34|Any AND-OR Formula of Size N can be Evaluated in time N1/2+o(1) on a Quantum Computer.|Andris Ambainis,Andrew M. Childs,Ben Reichardt,Robert Spalek,Shengyu Zhang|n/a
+35|The Power of Quantum Systems on a Line.|Dorit Aharonov,Daniel Gottesman,Sandy Irani,Julia Kempe|128|93|0|14
+36|Simulating Quantum Correlations with Finite Communication.|Oded Regev,Ben Toner|42|34|0|4
+37|Quantum Algorithms for Hidden Nonlinear Structures.|Andrew M. Childs,Leonard J. Schulman,Umesh V. Vazirani|54|33|0|7
+38|Refuting Smoothed 3CNF Formulas.|Uriel Feige|24|18|0|4
+39|Hardness Amplification for Errorless Heuristics.|Andrej Bogdanov,Muli Safra|8|8|0|0
+40|One-Way Multi-Party Communication Lower Bound for Pointer Jumping with Applications.|Emanuele Viola,Avi Wigderson|24|15|0|2
+41|A Lower Bound for the Size of Syntactically Multilinear Arithmetic Circuits.|Ran Raz,Amir Shpilka,Amir Yehudayoff|39|27|0|20
+42|Discrepancy and the Power of Bottom Fan-in in Depth-three Circuits.|Arkadev Chattopadhyay|42|20|0|5
+43|Maximizing Non-Monotone Submodular Functions.|Uriel Feige,Vahab S. Mirrokni,Jan Vondrák|281|232|0|12
+44|On the Hardness and Smoothed Complexity of Quasi-Concave Minimization.|Jonathan A. Kelner,Evdokia Nikolova|20|14|0|6
+45|Approximation Algorithms for Partial-Information Based Stochastic Control with Markovian Rewards.|Sudipto Guha,Kamesh Munagala|47|32|0|1
+46|Beating Simplex for Fractional Packing and Covering Linear Programs.|Christos Koufogiannakis,Neal E. Young|40|34|1|7
+47|A Primal-Dual Randomized Algorithm for Weighted Paging.|Nikhil Bansal,Niv Buchbinder,Joseph Naor|71|58|1|22
+48|Finding Disjoint Paths in Expanders Deterministically and Online.|Noga Alon,Michael R. Capalbo|10|7|0|1
+49|Almost Tight Bound for the Union of Fat Tetrahedra in Three Dimensions.|Esther Ezra,Micha Sharir|18|10|0|12
+50|Inferring Local Homology from Sampled Stratified Spaces.|Paul Bendich,David Cohen-Steiner,Herbert Edelsbrunner,John Harer,Dmitriy Morozov|32|23|0|11
+51|Testing for Concise Representations.|Ilias Diakonikolas,Homin K. Lee,Kevin Matulef,Krzysztof Onak,Ronitt Rubinfeld,Rocco A. Servedio,Andrew Wan|74|64|0|2
+52|Strong Lower Bounds for Approximating Distribution Support Size and the Distinct Elements Problem.|Sofya Raskhodnikova,Dana Ron,Amir Shpilka,Adam Smith|62|52|0|9
+53|Testing Expansion in Bounded-Degree Graphs.|Artur Czumaj,Christian Sohler|49|33|0|3
+54|Approximate Hypergraph Partitioning and Applications.|Eldar Fischer,Arie Matsliah,Asaf Shapira|18|12|0|2
+55|Sparse Random Linear Codes are Locally Decodable and Testable.|Tali Kaufman,Madhu Sudan|37|30|0|12
+56|Minimizing Average Flow-time : Upper and Lower Bounds.|Naveen Garg,Amit Kumar|26|19|0|11
+57|Non-Preemptive Min-Sum Scheduling with Resource Augmentation.|Nikhil Bansal,Ho-Leung Chan,Rohit Khandekar,Kirk Pruhs,Clifford Stein,Baruch Schieber|17|13|0|1
+58|On the Advantage over Random for Maximum Acyclic Subgraph.|Moses Charikar,Konstantin Makarychev,Yury Makarychev|24|16|0|7
+59|Buy-at-Bulk Network Design with Protection.|Spyridon Antonakopoulos,Chandra Chekuri,F. Bruce Shepherd,Lisa Zhang|17|11|0|2
+60|Space-Efficient Identity Based Encryption Without Pairings.|Dan Boneh,Craig Gentry,Michael Hamburg|179|128|1|9
+61|Round Complexity of Authenticated Broadcast with a Dishonest Majority.|Juan A. Garay,Jonathan Katz,Chiu-Yuen Koo,Rafail Ostrovsky|6|2|0|2
+62|Finding Collisions in Interactive Protocols - A Tight Lower Bound on the Round Complexity of Statistically-Hiding Commitments.|Iftach Haitner,Jonathan J. Hoch,Omer Reingold,Gil Segev|72|50|0|13
+63|Lower Bounds on Signatures From Symmetric Primitives.|Boaz Barak,Mohammad Mahmoody-Ghidary|30|26|0|0
+64|Approximation Algorithms Using Hierarchies of Semidefinite Programming Relaxations.|Eden Chlamtac|63|47|0|5
+65|Integrality gaps of 2 - o(1) for Vertex Cover SDPs in the Lovész-Schrijver Hierarchy.|Konstantinos Georgiou,Avner Magen,Toniann Pitassi,Iannis Tourlakis|63|43|0|17
+66|Local Global Tradeoffs in Metric Embeddings.|Moses Charikar,Konstantin Makarychev,Yury Makarychev|22|16|0|3
+67|The Computational Hardness of Estimating Edit Distance [Extended Abstract].|Alexandr Andoni,Robert Krauthgamer|32|22|0|12

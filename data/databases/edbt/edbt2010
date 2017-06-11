@@ -1,0 +1,75 @@
+74
+1|EDBT 2010, 13th International Conference on Extending Database Technology, Lausanne, Switzerland, March 22-26, 2010, Proceedings.|Ioana Manolescu,Stefano Spaccapietra,Jens Teubner,Masaru Kitsuregawa,Alain Léger,Felix Naumann,Anastasia Ailamaki,Fatma Özcan|n/a
+2|Provenance for database transformations.|Val Tannen|15|15|0|1
+3|Scalable ontology-based information systems.|Ian Horrocks|4|4|0|0
+4|Feedback-driven result ranking and query refinement for exploring semi-structured data collections.|Huiping Cao,Yan Qi,K. Selçuk Candan,Maria Luisa Sapino|22|19|0|1
+5|Beyond pages: supporting efficient, scalable entity search with dual-inversion index.|Tao Cheng,Kevin Chen-Chuan Chang|17|17|0|2
+6|Processing XPath queries with forward and downward axes over XML streams.|Makoto Onizuka|13|13|0|0
+7|Correlation aware synchronization for near real time decision support systems.|Ying Yan,Wen-Syan Li|4|4|1|1
+8|Turbo-charging hidden database samplers with overflowing queries and skew reduction.|Arjun Dasgupta,Nan Zhang,Gautam Das|15|13|0|9
+9|Region-based online promotion analysis.|Tianyi Wu,Yizhou Sun,Cuiping Li,Jiawei Han|14|14|0|3
+10|The Data Cyclotron query processing scheme.|Romulo Goncalves,Martin L. Kersten|18|17|0|4
+11|Gossiping personalized queries.|Xiao Bai,Marin Bertier,Rachid Guerraoui,Anne-Marie Kermarrec,Vincent Leroy|38|38|0|11
+12|Optimizing joins in a map-reduce environment.|Foto N. Afrati,Jeffrey D. Ullman|286|274|0|6
+13|k-symmetry model for identity anonymization in social networks.|Wentao Wu,Yanghua Xiao,Wei Wang,Zhenying He,Zhihui Wang|57|55|0|0
+14|Private record matching using differential privacy.|Ali Inan,Murat Kantarcioglu,Gabriel Ghinita,Elisa Bertino|89|84|0|7
+15|The hardness and approximation algorithms for l-diversity.|Xiaokui Xiao,Ke Yi,Yufei Tao|36|35|0|2
+16|Let SQL drive the XQuery workhorse (XQuery join graph isolation).|Torsten Grust,Manuel Mayr,Jan Rittinger|15|15|0|5
+17|Statistics-based parallelization of XPath queries in shared memory systems.|Rajesh Bordawekar,Lipyeow Lim,Anastasios Kementsietsidis,Bryant Wei-Lun Kok|15|14|0|0
+18|Efficient physical operators for cost-based XPath execution.|Haris Georgiadis,Minas Charalambides,Vasilis Vassalos|4|4|0|1
+19|Adaptive join processing in pipelined plans.|Kwanchai Eurviriyanukul,Norman W. Paton,Alvaro A. A. Fernandes,Steven J. Lynden|8|8|0|2
+20|BSkyTree: scalable skyline computation using a balanced pivot selection.|Jongwuk Lee,Seung-won Hwang|27|26|0|8
+21|Stream schema: providing and exploiting static metadata for data stream processing.|Peter M. Fischer,Kyumars Sheykh Esmaili,Renée J. Miller|11|11|0|1
+22|Warm cache costing: a feedback optimization technique for buffer pool aware costing.|H. S. Ramanujam,Edwin Seputis|1|1|1|0
+23|Position list word aligned hybrid: optimizing space and performance for compressed bitmaps.|François Deliège,Torben Bach Pedersen|50|48|1|3
+24|Reducing metadata complexity for faster table summarization.|K. Selçuk Candan,Mario Cataldi,Maria Luisa Sapino|7|7|0|1
+25|Anchoring millions of distinct reads on the human genome within seconds.|Tien Huynh,Michail Vlachos,Isidore Rigoutsos|1|1|0|0
+26|Suffix tree construction algorithms on modern hardware.|Dimitris Tsirogiannis,Nick Koudas|17|16|0|1
+27|Splash: ad-hoc querying of data and statistical models.|Lujun Fang,Kristen LeFevre|8|8|0|0
+28|Techniques for efficiently querying scientific workflow provenance graphs.|Manish Kumar Anand,Shawn Bowers,Bertram Ludäscher|55|54|0|9
+29|Fine-grained and efficient lineage querying of collection-based workflow provenance.|Paolo Missier,Norman W. Paton,Khalid Belhajjame|40|40|0|13
+30|Lost source provenance.|Jing Zhang,H. V. Jagadish|7|7|0|2
+31|Bridging the gap between intensional and extensional query evaluation in probabilistic databases.|Abhay Kumar Jha,Dan Olteanu,Dan Suciu|19|19|0|7
+32|Probabilistic threshold k nearest neighbor queries over moving objects in symbolic indoor space.|Bin Yang,Hua Lu,Christian S. Jensen|56|54|0|10
+33|Probabilistic path queries in road networks: traffic uncertainty aware path selection.|Ming Hua,Jian Pei|70|68|0|0
+34|A simple (yet powerful) algebra for pervasive environments.|Yann Gripay,Frédérique Laforest,Jean-Marc Petit|24|23|0|12
+35|Self-selecting, self-tuning, incrementally optimized indexes.|Goetz Graefe,Harumi A. Kuno|62|59|1|15
+36|Minimizing database repros using language grammars.|Nicolas Bruno|n/a
+37|Efficient and scalable multi-geography route planning.|Vidhya Balasubramanian,Dmitri V. Kalashnikov,Sharad Mehrotra,Nalini Venkatasubramanian|7|6|0|0
+38|Querying trajectories using flexible patterns.|Marcos R. Vieira,Petko Bakalov,Vassilis J. Tsotras|27|27|0|8
+39|Querying spatial patterns.|Vishwakarma Singh,Arnab Bhattacharya,Ambuj K. Singh|3|3|0|2
+40|Indexing relations on the web.|Sérgio Luis Sardi Mergen,Juliana Freire,Carlos A. Heuser|4|4|0|0
+41|An execution environment for C-SPARQL queries.|Davide Francesco Barbieri,Daniele Braga,Stefano Ceri,Michael Grossniklaus|105|102|0|7
+42|Rewrite techniques for performance optimization of schema matching processes.|Eric Peukert,Henrike Berthold,Erhard Rahm|33|33|1|9
+43|Fast computation of SimRank for static and dynamic information networks.|Cuiping Li,Jiawei Han,Guoming He,Xin Jin,Yizhou Sun,Yintao Yu,Tianyi Wu|89|87|0|11
+44|Probabilistic ranking over relations.|Lijun Chang,Jeffrey Xu Yu,Lu Qin,Xuemin Lin|1|1|0|0
+45|Privacy preserving group nearest neighbor queries.|Tanzima Hashem,Lars Kulik,Rui Zhang|53|47|0|15
+46|Finding misplaced items in retail by clustering RFID data.|Leonardo Weiss Ferreira Chaves,Erik Buchmann,Klemens Böhm|15|15|0|0
+47|Subsumption and complementation as data fusion operators.|Jens Bleiholder,Sascha Szott,Melanie Herschel,Frank Kaufer,Felix Naumann|19|18|0|6
+48|HARRA: fast iterative hashed record linkage for large-scale data collections.|Hung-sik Kim,Dongwon Lee|55|49|3|0
+49|Keyword search for data-centric XML collections with long text fields.|Arash Termehchy,Marianne Winslett|8|8|0|4
+50|Fast ELCA computation for keyword queries on XML data.|Rui Zhou,Chengfei Liu,Jianxin Li|69|66|0|10
+51|Suggestion of promising result types for XML keyword search.|Jianxin Li,Chengfei Liu,Rui Zhou,Wei Wang|39|37|0|11
+52|Feedback-based annotation, selection and refinement of schema mappings for dataspaces.|Khalid Belhajjame,Norman W. Paton,Suzanne M. Embury,Alvaro A. A. Fernandes,Cornelia Hedeler|37|36|0|11
+53|PerK: personalized keyword search in relational databases through preferences.|Kostas Stefanidis,Marina Drosou,Evaggelia Pitoura|35|35|0|6
+54|Efficient computation of trade-off skylines.|Christoph Lofi,Ulrich Güntzer,Wolf-Tilo Balke|13|13|0|6
+55|How to authenticate graphs without leaking.|Ashish Kundu,Elisa Bertino|21|21|0|7
+56|Trustworthy vacuuming and litigation holds in long-term high-integrity records retention.|Ragib Hasan,Marianne Winslett|6|6|0|3
+57|Algorithm-safe privacy-preserving data publishing.|Xin Jin,Nan Zhang,Gautam Das|22|22|0|2
+58|BronzeGate: real-time transactional data obfuscation for GoldenGate.|Shenoda Guirguis,Alok Pareek|0|0|0|0
+59|Logging last resource optimization for distributed transactions in Oracle WebLogic server.|Tom Barnes,Adam Messinger,Paul Parkinson,Amit Ganesh,German Shegalov,Saraswathy Narayan,Srinivas Kareenhalli|3|3|0|0
+60|DEDUCE: at the intersection of MapReduce and stream processing.|Vibhore Kumar,Henrique Andrade,Bugra Gedik,Kun-Lung Wu|51|51|2|0
+61|Aggregation of asynchronous electric power consumption time series knowing the integral.|Raja Chiky,Laurent Decreusefond,Georges Hébrail|0|0|0|0
+62|An experimental study of time-constrained aggregate queries.|Ying Hu,Wen-Chi Hou,Seema Sundara,Jagannathan Srinivasan|2|2|0|0
+63|Xbase: cloud-enabled information appliance for healthcare.|Wen-Syan Li,Jianfeng Yan,Ying Yan,Jin Zhang|11|11|1|0
+64|A plan for OLAP.|Bernhard Jaecksch,Wolfgang Lehner,Franz Faerber|18|18|0|6
+65|Augmenting OLAP exploration with dynamic advanced analytics.|Benjamin Leonhardi,Bernhard Mitschang,Rubén Pulido de los Reyes,Christoph Sieb,Michael Wurst|9|9|0|0
+66|Advanced knowledge discovery on movement data with the GeoPKDD system.|Mirco Nanni,Roberto Trasarti,Chiara Renso,Fosca Giannotti,Dino Pedreschi|20|20|0|6
+67|Timely YAGO: harvesting, querying, and visualizing temporal knowledge from Wikipedia.|Yafang Wang,Mingjie Zhu,Lizhen Qu,Marc Spaniol,Gerhard Weikum|69|67|0|4
+68|PARINDA: an interactive physical designer for PostgreSQL.|Cristina Maier,Debabrata Dash,Ioannis Alagiannis,Anastasia Ailamaki,Thomas Heinis|15|13|0|0
+69|BIAEditor: matching process and operational data for a business impact analysis.|Sylvia Radeschütz,Florian Niedermann,Wolfgang Bischoff|17|17|0|8
+70|Pattern detector: fast detection of suspicious stream patterns for immediate reaction.|Ira Assent,Hardy Kremer,Stephan Günnemann,Thomas Seidl|5|5|0|0
+71|BP-Ex: a uniform query engine for business process execution traces.|Eran Balan,Tova Milo,Tal Sterenzy|3|3|0|0
+72|B-Fabric: the Swiss Army Knife for life sciences.|Can Türker,Fuat Akal,Dieter Joho,Christian Panse,Simon Barkow-Oesterreicher,Hubert Rehrauer,Ralph Schlapbach|0|0|0|0
+73|FPGAs: a new point in the database design space.|René Müller,Jens Teubner|8|8|0|0
+74|Querying the deep web.|Andrea Calì,Davide Martinenghi|20|20|0|5

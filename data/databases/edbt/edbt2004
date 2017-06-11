@@ -1,0 +1,64 @@
+63
+1|Advances in Database Technology - EDBT 2004, 9th International Conference on Extending Database Technology, Heraklion, Crete, Greece, March 14-18, 2004, Proceedings.|Elisa Bertino,Stavros Christodoulakis,Dimitris Plexousakis,Vassilis Christophides,Manolis Koubarakis,Klemens Böhm,Elena Ferrari|6|2|0|0
+2|Converged Services: A Hidden Challenge for the Web Services Paradigm.|Richard Hull|1|0|0|0
+3|GRIDS, Databases, and Information Systems Engineering Research.|Keith G. Jeffery|16|8|0|8
+4|Security and Privacy for Web Databases and Services.|Elena Ferrari,Bhavani M. Thuraisingham|93|3|0|2
+5|Content-Based Routing of Path Queries in Peer-to-Peer Systems.|Georgia Koloniari,Evaggelia Pitoura|163|49|0|15
+6|Energy-Conserving Air Indexes for Nearest Neighbor Search.|Baihua Zheng,Jianliang Xu,Wang-Chien Lee,Dik Lun Lee|39|12|0|6
+7|MobiEyes: Distributed Processing of Continuously Moving Queries on Moving Objects in a Mobile System.|Bugra Gedik,Ling Liu|216|103|0|8
+8|DBDC: Density Based Distributed Clustering.|Eshref Januzaj,Hans-Peter Kriegel,Martin Pfeifle|124|72|0|7
+9|Iterative Incremental Clustering of Time Series.|Jessica Lin,Michail Vlachos,Eamonn J. Keogh,Dimitrios Gunopulos|146|79|0|9
+10|LIMBO: Scalable Clustering of Categorical Data.|Periklis Andritsos,Panayiotis Tsaparas,Renée J. Miller,Kenneth C. Sevcik|198|102|1|18
+11|A Framework for Efficient Storage Security in RDBMS.|Balakrishna R. Iyer,Sharad Mehrotra,Einar Mykletun,Gene Tsudik,Yonghua Wu|97|46|1|7
+12|Beyond 1-Safety and 2-Safety for Replicated Databases: Group-Safety.|Matthias Wiesmann,André Schiper|24|4|0|2
+13|A Condensation Approach to Privacy Preserving Data Mining.|Charu C. Aggarwal,Philip S. Yu|343|206|6|21
+14|Efficient Query Evaluation over Compressed XML Data.|Andrei Arion,Angela Bonifati,Gianni Costa,Sandra D'Aguanno,Ioana Manolescu,Andrea Pugliese|53|15|1|6
+15|XQzip: Querying Compressed XML Using Structural Indexing.|James Cheng,Wilfred Ng|114|47|1|11
+16|HOPI: An Efficient Connection Index for Complex XML Document Collections.|Ralf Schenkel,Anja Theobald,Gerhard Weikum|148|80|0|9
+17|Efficient Distributed Skylining for Web Information Systems.|Wolf-Tilo Balke,Ulrich Güntzer,Jason Xin Zheng|339|184|1|18
+18|Query-Customized Rewriting and Deployment of DB-to-XML Mappings.|Oded Shmueli,George A. Mihaila,Sriram Padmanabhan|1|0|0|0
+19|LexEQUAL: Supporting Multiscript Matching in Database Systems.|A. Kumaran,Jayant R. Haritsa|9|0|0|5
+20|A Model for Ternary Projective Relations between Regions.|Roland Billen,Eliseo Clementini|22|10|0|9
+21|Computing and Handling Cardinal Direction Information.|Spiros Skiadopoulos,Christos Giannoukos,Panos Vassiliadis,Timos K. Sellis,Manolis Koubarakis|12|3|0|1
+22|A Tale of Two Schemas: Creating a Temporal XML Schema from a Snapshot Schema with tXSchema.|Faiz Currim,Sabah Currim,Curtis E. Dyreson,Richard T. Snodgrass|33|13|0|3
+23|Spatial Queries in the Presence of Obstacles.|Jun Zhang,Dimitris Papadias,Kyriakos Mouratidis,Manli Zhu|45|33|0|1
+24|NNH: Improving Performance of Nearest-Neighbor Searches Using Histograms.|Liang Jin,Nick Koudas,Chen Li|16|6|0|3
+25|Clustering Multidimensional Extended Objects to Speed Up Execution of Spatial Queries.|Cristian-Augustin Saita,François Llirbat|6|3|0|2
+26|Processing Unions of Conjunctive Queries with Negation under Limited Access Patterns.|Alan Nash,Bertram Ludäscher|37|13|0|4
+27|Projection Pushing Revisited.|Benjamin J. McMahan,Guoqiang Pan,Patrick Porter,Moshe Y. Vardi|15|4|0|1
+28|On Containment of Conjunctive Queries with Arithmetic Comparisons.|Foto N. Afrati,Chen Li,Prasenjit Mitra|27|6|0|8
+29|XPath with Conditional Axis Relations.|Maarten Marx|126|42|0|9
+30|Declustering Two-Dimensional Datasets over MEMS-Based Storage.|Hailing Yu,Divyakant Agrawal,Amr El Abbadi|6|1|0|1
+31|Self-tuning UDF Cost Modeling Using the Memory-Limited Quadtree.|Zhen He,Byung Suk Lee,Robert R. Snapp|12|7|1|1
+32|Distributed Query Optimization by Query Trading.|Fragkiskos Pentaris,Yannis E. Ioannidis|5|0|0|4
+33|Sketch-Based Multi-query Processing over Data Streams.|Alin Dobra,Minos N. Garofalakis,Johannes Gehrke,Rajeev Rastogi|53|20|4|3
+34|Processing Data-Stream Join Aggregates Using Skimmed Sketches.|Sumit Ganguly,Minos N. Garofalakis,Rajeev Rastogi|46|14|2|10
+35|Joining Punctuated Streams.|Luping Ding,Nishant K. Mehta,Elke A. Rundensteiner,George T. Heineman|54|15|0|16
+36|Using Convolution to Mine Obscure Periodic Patterns in One Pass.|Mohamed G. Elfeky,Walid G. Aref,Ahmed K. Elmagarmid|53|28|1|3
+37|CUBE File: A File Structure for Hierarchically Clustered OLAP Cubes.|Nikos Karayannidis,Timos K. Sellis,Yannis Kouvaras|10|4|0|1
+38|Efficient Schema-Based Revalidation of XML.|Mukund Raghavachari,Oded Shmueli|27|9|0|4
+39|Hierarchical In-Network Data Aggregation with Quality Guarantees.|Antonios Deligiannakis,Yannis Kotidis,Nick Roussopoulos|197|67|1|23
+40|Efficient Similarity Search for Hierarchical Data in Large Databases.|Karin Kailing,Hans-Peter Kriegel,Stefan Schönauer,Thomas Seidl|84|30|0|10
+41|QuaSAQ: An Approach to Enabling End-to-End QoS for Multimedia Databases.|Yi-Cheng Tu,Sunil Prabhakar,Ahmed K. Elmagarmid,Radu Sion|7|1|0|5
+42|On Indexing Sliding Windows over Online Data Streams.|Lukasz Golab,Shaveen Garg,M. Tamer Özsu|69|32|0|5
+43|A Framework for Access Methods for Versioned Data.|Betty Salzberg,Linan Jiang,David B. Lomet,Manuel Barrena García,Jing Shan,Evangelos Kanoulas|23|4|0|0
+44|Management of Highly Dynamic Multidimensional Data in a Cluster of Workstations.|Vassil Kriakov,Alex Delis,George Kollios|13|6|0|2
+45|Spatiotemporal Compression Techniques for Moving Point Objects.|Nirvana Meratnia,Rolf A. de By|143|116|0|0
+46|Non-contiguous Sequence Pattern Queries.|Nikos Mamoulis,Man Lung Yiu|13|1|0|1
+47|Mining Extremely Skewed Trading Anomalies.|Wei Fan,Philip S. Yu,Haixun Wang|18|8|0|2
+48|Flexible Integration of Molecular-Biological Annotation Data: The GenMapper Approach.|Hong Hai Do,Erhard Rahm|47|4|0|9
+49|Meta-SQL: Towards Practical Meta-Querying.|Jan Van den Bussche,Stijn Vansummeren,Gottfried Vossen|8|1|0|3
+50|A Framework for Context-Aware Adaptable Web Services.|Markus Keidl,Alfons Kemper|39|14|0|2
+51|Aggregation of Continuous Monitoring Queries in Wireless Sensor Networking Systems.|Kam-yiu Lam,Henry Chi-Wai Pang|0|0|0|0
+52|eVitae: An Event-Based Electronic Chronicle.|Bin Wu,Rahul Singh,Punit Gupta,Ramesh Jain|5|1|0|2
+53|CAT: orrect nswers of Continuous Queries Using riggers.|Goce Trajcevski,Peter Scheuermann,Ouri Wolfson,Nimesh Nedungadi|n/a
+54|Hippo: A System for Computing Consistent Answers to a Class of SQL Queries.|Jan Chomicki,Jerzy Marcinkowski,Slawomir Staworko|46|16|0|5
+55|An Implementation of P3P Using Database Technology.|Rakesh Agrawal,Jerry Kiernan,Ramakrishnan Srikant,Yirong Xu|10|1|0|0
+56|XQBE: A Graphical Interface for XQuery Engines.|Daniele Braga,Alessandro Campi,Stefano Ceri|8|2|1|0
+57|P2P-DIET: One-Time and Continuous Queries in Super-Peer Networks.|Stratos Idreos,Manolis Koubarakis,Christos Tryfonopoulos|15|3|0|7
+58|HEAVEN: A Hierarchical Storage and Archive Environment for Multidimensional Array Database Management Systems.|Bernd Reiner,Karl Hahn|2|1|0|1
+59|OGSA-DQP: A Service for Distributed Querying on the Grid.|M. Nedim Alpdemir,Arijit Mukherjee,Anastasios Gounaris,Norman W. Paton,Paul Watson,Alvaro A. A. Fernandes,Desmond J. Fitzgerald|92|25|0|10
+60|T-Araneus: Management of Temporal Data-Intensive Web Sites.|Paolo Atzeni,Pierluigi Del Nostro|4|1|0|3
+61|t-Synopses: A System for Run-Time Management of Remote Synopses.|Yossi Matias,Leon Portman|7|0|0|7
+62|AFFIC: A Foundation for Index Comparisons.|Robert Widhopf|0|0|0|0
+63|Spatial Data Server for Mobile Environment.|Byoung-Woo Oh,Min-Soo Kim,Mi-Jeong Kim,Eun-Kyu Lee|2|0|0|1

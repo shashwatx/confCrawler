@@ -1,0 +1,101 @@
+100
+1|Exploring Strategies for Training Deep Neural Networks.|Hugo Larochelle,Yoshua Bengio,Jérôme Louradour,Pascal Lamblin|281|261|1|17
+2|Markov Properties for Linear Causal Models with Correlated Errors.|Changsung Kang,Jin Tian|18|16|0|2
+3|An Analysis of Convex Relaxations for MAP Estimation of Discrete MRFs.|M. Pawan Kumar,Vladimir Kolmogorov,Philip H. S. Torr|51|49|0|2
+4|Refinement of Reproducing Kernels.|Yuesheng Xu,Haizhang Zhang|14|11|0|12
+5|Subgroup Analysis via Recursive Partitioning.|Xiaogang Su,Chih-Ling Tsai,Hansheng Wang,David M. Nickerson,Bogong Li|70|64|0|7
+6|Python Environment for Bayesian Learning: Inferring the Structure of Bayesian Networks from Knowledge and Data.|Abhik Shah,Peter J. Woolf|15|15|0|0
+7|On The Power of Membership Queries in Agnostic Learning.|Vitaly Feldman|7|6|0|1
+8|Using Local Dependencies within Batches to Improve Large Margin Classifiers.|Volkan Vural,Glenn Fung,Balaji Krishnapuram,Jennifer G. Dy,R. Bharat Rao|n/a
+9|Distance Metric Learning for Large Margin Nearest Neighbor Classification.|Kilian Q. Weinberger,Lawrence K. Saul|1033|977|3|12
+10|Data-driven Calibration of Penalties for Least-Squares Regression.|Sylvain Arlot,Pascal Massart|139|117|0|17
+11|Analysis of Perceptron-Based Active Learning.|Sanjoy Dasgupta,Adam Tauman Kalai,Claire Monteleoni|124|57|2|10
+12|Improving the Reliability of Causal Discovery from Small Data Sets Using Argumentation.|Facundo Bromberg,Dimitris Margaritis|24|14|0|6
+13|Low-Rank Kernel Learning with Bregman Matrix Divergences.|Brian Kulis,Mátyás A. Sustik,Inderjit S. Dhillon|112|105|0|4
+14|Supervised Descriptive Rule Discovery: A Unifying Survey of Contrast Set, Emerging Pattern and Subgroup Mining.|Petra Kralj Novak,Nada Lavrac,Geoffrey I. Webb|279|262|0|3
+15|Particle Swarm Model Selection.|Hugo Jair Escalante,Manuel Montes-y-Gómez,Luis Enrique Sucar|88|72|0|20
+16|Generalization Bounds for Ranking Algorithms via Algorithmic Stability.|Shivani Agarwal,Partha Niyogi|82|76|0|7
+17|Controlling the False Discovery Rate of the Association/Causality Structure Learned with the PC Algorithm.|Junning Li,Z. Jane Wang|38|33|0|9
+18|Identification of Recurrent Neural Networks by Bayesian Interrogation Techniques.|Barnabás Póczos,András Lörincz|12|11|0|3
+19|On the Consistency of Feature Selection using Greedy Least Squares Regression.|Tong Zhang|118|106|0|2
+20|Online Learning with Sample Path Constraints.|Shie Mannor,John N. Tsitsiklis,Jia Yuan Yu|21|21|0|9
+21|NEUROSVM: An Architecture to Reduce the Effect of the Choice of Kernel on the Performance of SVM.|Pradip Ghanty,Samrat Paul,Nikhil R. Pal|17|17|0|1
+22|Scalable Collaborative Filtering Approaches for Large Recommender Systems.|Gábor Takács,István Pilászy,Bottyán Németh,Domonkos Tikk|282|272|1|9
+23|Nearest Neighbor Clustering: A Baseline Method for Consistent Clustering with Arbitrary Objective Functions.|Sébastien Bubeck,Ulrike von Luxburg|41|41|0|0
+24|Properties of Monotonic Effects on Directed Acyclic Graphs.|Tyler J. VanderWeele,James M. Robins|14|13|0|7
+25|On Efficient Large Margin Semisupervised Learning: Method and Theory.|Junhui Wang,Xiaotong Shen,Wei Pan|31|30|0|1
+26|Nieme: Large-Scale Energy-Based Models.|Francis Maes|1|0|0|1
+27|Similarity-based Classification: Concepts and Algorithms.|Yihua Chen,Eric K. Garcia,Maya R. Gupta,Ali Rahimi,Luca Cazzanti|201|188|0|11
+28|Sparse Online Learning via Truncated Gradient.|John Langford,Lihong Li,Tong Zhang|253|231|2|6
+29|A New Approach to Collaborative Filtering: Operator Estimation with Spectral Regularization.|Jacob Abernethy,Francis R. Bach,Theodoros Evgeniou,Jean-Philippe Vert|172|154|0|5
+30|Consistency and Localizability.|Alon Zakai,Yaacov Ritov|23|19|0|0
+31|Stable and Efficient Gaussian Process Calculations.|Leslie Foster,Alex Waagen,Nabeela Aijaz,Michael Hurley,Apolonio Luis,Joel Rinsky,Chandrika Satyavolu,Michael J. Way,Paul R. Gazis,Ashok Srivastava|42|38|0|0
+32|Estimation of Sparse Binary Pairwise Markov Networks using Pseudo-likelihoods.|Holger Höfling,Robert Tibshirani|90|85|0|1
+33|Polynomial-Delay Enumeration of Monotonic Graph Classes.|Jan Ramon,Siegfried Nijssen|10|8|0|4
+34|Java-ML: A Machine Learning Library.|Thomas Abeel,Yves Van de Peer,Yvan Saeys|87|83|1|1
+35|Nonextensive Information Theoretic Kernels on Measures.|André F. T. Martins,Noah A. Smith,Eric P. Xing,Pedro M. Q. Aguiar,Mário A. T. Figueiredo|75|71|0|8
+36|On Uniform Deviations of General Empirical Risks with Unboundedness, Dependence, and High Dimensionality.|Wenxin Jiang|13|11|0|2
+37|Fourier Theoretic Probabilistic Inference over Permutations.|Jonathan Huang,Carlos Guestrin,Leonidas J. Guibas|66|58|0|8
+38|An Algorithm for Reading Dependencies from the Minimal Undirected Independence Map of a Graphoid that Satisfies Weak Transitivity.|José M. Peña,Roland Nilsson,Johan Björkegren,Jesper Tegnér|8|7|0|1
+39|Universal Kernel-Based Learning with Applications to Regular Languages.|Leonid Kontorovich,Boaz Nadler|2|2|0|0
+40|Multi-task Reinforcement Learning in Partially Observable Stochastic Environments.|Hui Li,Xuejun Liao,Lawrence Carin|23|21|0|5
+41|The Hidden Life of Latent Variables: Bayesian Learning with Mixed Graph Models.|Ricardo Bezerra de Andrade e Silva,Zoubin Ghahramani|33|29|0|8
+42|Incorporating Functional Knowledge in Neural Networks.|Charles Dugas,Yoshua Bengio,François Bélisle,Claude Nadeau,René Garcia|8|8|0|0
+43|Perturbation Corrections in Approximate Inference: Mixture Modelling Applications.|Ulrich Paquet,Ole Winther,Manfred Opper|14|13|0|4
+44|Robust Process Discovery with Artificial Negative Events.|Stijn Goedertier,David Martens,Jan Vanthienen,Bart Baesens|100|100|0|25
+45|Feature Selection with Ensembles, Artificial Variables, and Redundancy Elimination.|Eugene Tuv,Alexander Borisov,George C. Runger,Kari Torkkola|139|135|0|14
+46|A Parameter-Free Classification Method for Large Scale Learning.|Marc Boullé|8|8|0|0
+47|Model Monitor (M2): Evaluating, Comparing, and Monitoring Models.|Troy Raeder,Nitesh V. Chawla|2|2|0|1
+48|A Least-squares Approach to Direct Importance Estimation.|Takafumi Kanamori,Shohei Hido,Masashi Sugiyama|155|149|0|59
+49|Classification with Gaussians and Convex Loss.|Dao-Hong Xiang,Ding-Xuan Zhou|27|21|0|7
+50|Entropy Inference and the James-Stein Estimator, with Application to Nonlinear Gene Association Networks.|Jean Hausser,Korbinian Strimmer|138|127|0|4
+51|Robustness and Regularization of Support Vector Machines.|Huan Xu,Constantine Caramanis,Shie Mannor|109|97|0|11
+52|Strong Limit Theorems for the Bayesian Scoring Criterion in Bayesian Networks.|Nikolai Slobodianik,Dmitry Yu. Zaporozhets,Neal Madras|2|2|0|0
+53|Bayesian Network Structure Learning by Recursive Autonomy Identification.|Raanan Yehezkel,Boaz Lerner|42|36|0|2
+54|Learning Linear Ranking Functions for Beam Search with Application to Planning.|Yuehua Xu,Alan Fern,Sung Wook Yoon|23|22|0|9
+55|Marginal Likelihood Integrals for Mixtures of Independence Models.|Shaowei Lin,Bernd Sturmfels,Zhiqiang Xu|19|16|0|10
+56|Transfer Learning for Reinforcement Learning Domains: A Survey.|Matthew E. Taylor,Peter Stone|369|354|0|29
+57|Application of Non Parametric Empirical Bayes Estimation to High Dimensional Classification.|Eitan Greenshtein,Junyong Park|14|12|0|1
+58|Learning Permutations with Exponential Weights.|David P. Helmbold,Manfred K. Warmuth|67|61|0|8
+59|SGD-QN: Careful Quasi-Newton Stochastic Gradient Descent.|Antoine Bordes,Léon Bottou,Patrick Gallinari|165|154|0|4
+60|Dlib-ml: A Machine Learning Toolkit.|Davis E. King|107|97|0|1
+61|Settable Systems: An Extension of Pearl's Causal Model with Optimization, Equilibrium, and Learning.|Halbert White,Karim Chalak|33|31|0|14
+62|Distributed Algorithms for Topic Models.|David Newman,Arthur U. Asuncion,Padhraic Smyth,Max Welling|216|213|0|3
+63|Nonlinear Models Using Dirichlet Process Mixtures.|Babak Shahbaba,Radford M. Neal|102|91|0|3
+64|CarpeDiem: Optimizing the Viterbi Algorithm and Applications to Supervised Sequential Learning.|Roberto Esposito,Daniele P. Radicioni|10|9|0|2
+65|Learning Acyclic Probabilistic Circuits Using Test Paths.|Dana Angluin,James Aspnes,Jiang Chen,David Eisenstat,Lev Reyzin|6|3|0|2
+66|Learning Approximate Sequential Patterns for Classification.|Zeeshan Syed,Piotr Indyk,John V. Guttag|8|8|0|3
+67|Hybrid MPI/OpenMP Parallel Linear Support Vector Machine Training.|Kristian Woodsend,Jacek Gondzio|44|43|0|2
+68|Provably Efficient Learning with Typed Parametric Models.|Emma Brunskill,Bethany R. Leffler,Lihong Li,Michael L. Littman,Nicholas Roy|17|17|0|2
+69|Fast Approximate kNN Graph Construction for High Dimensional Data via Recursive Lanczos Bisection.|Jie Chen,Haw-ren Fang,Yousef Saad|111|106|0|7
+70|Ultrahigh Dimensional Feature Selection: Beyond The Linear Model.|Jianqing Fan,Richard Samworth,Yichao Wu|164|146|1|22
+71|Evolutionary Model Type Selection for Global Surrogate Modeling.|Dirk Gorissen,Tom Dhaene,Filip De Turck|43|42|0|8
+72|An Anticorrelation Kernel for Subsystem Training in Multiple Classifier Systems.|Luciana Ferrer,M. Kemal Sönmez,Elizabeth Shriberg|8|8|0|0
+73|Deterministic Error Analysis of Support Vector Regression and Related Regularized Kernel Methods.|Christian Rieger,Barbara Zwicknagl|19|15|0|10
+74|RL-Glue: Language-Independent Software for Reinforcement-Learning Experiments.|Brian Tanner,Adam M. White|91|83|0|3
+75|Discriminative Learning Under Covariate Shift.|Steffen Bickel,Michael Brückner,Tobias Scheffer|103|94|0|0
+76|Optimized Cutting Plane Algorithm for Large-Scale Risk Minimization.|Vojtech Franc,Sören Sonnenburg|45|43|0|6
+77|Margin-based Ranking and an Equivalence between AdaBoost and RankBoost.|Cynthia Rudin,Robert E. Schapire|66|62|0|10
+78|The P-Norm Push: A Simple Convex Ranking Algorithm that Concentrates at the Top of the List.|Cynthia Rudin|107|100|0|18
+79|Learning Nondeterministic Classifiers.|Juan José del Coz,Jorge Díez,Antonio Bahamonde|34|32|0|8
+80|The Nonparanormal: Semiparametric Estimation of High Dimensional Undirected Graphs.|Han Liu,John D. Lafferty,Larry A. Wasserman|197|189|0|36
+81|Computing Maximum Likelihood Estimates in Recursive Linear Models with Correlated Errors.|Mathias Drton,Michael Eichler,Thomas S. Richardson|15|13|0|4
+82|Estimating Labels from Label Proportions.|Novi Quadrianto,Alexander J. Smola,Tibério S. Caetano,Quoc V. Le|71|61|0|3
+83|Exploiting Product Distributions to Identify Relevant Variables of Correlation Immune Functions.|Lisa Hellerstein,Bernard Rosell,Eric Bach,Soumya Ray,David Page|2|1|0|2
+84|Reinforcement Learning in Finite MDPs: PAC Analysis.|Alexander L. Strehl,Lihong Li,Michael L. Littman|101|97|0|9
+85|Prediction With Expert Advice For The Brier Game.|Vladimir Vovk,Fedor Zhdanov|26|23|0|6
+86|Bi-Level Path Following for Cross Validated Solution of Kernel Quantile Regression.|Saharon Rosset|15|10|0|0
+87|When Is There a Representer Theorem? Vector Versus Matrix Regularizers.|Andreas Argyriou,Charles A. Micchelli,Massimiliano Pontil|72|70|0|6
+88|Maximum Entropy Discrimination Markov Networks.|Jun Zhu,Eric P. Xing|35|32|0|14
+89|Learning When Concepts Abound.|Omid Madani,Michael Connor,Wiley Greiner|14|9|0|6
+90|Hash Kernels for Structured Data.|Qinfeng Shi,James Petterson,Gideon Dror,John Langford,Alexander J. Smola,S. V. N. Vishwanathan|119|111|0|5
+91|DL-Learner: Learning Concepts in Description Logics.|Jens Lehmann|114|105|0|33
+92|Bounded Kernel-Based Online Learning.|Francesco Orabona,Joseph Keshet,Barbara Caputo|50|49|0|4
+93|Structure Spaces.|Brijnesh J. Jain,Klaus Obermayer|n/a
+94|Learning Halfspaces with Malicious Noise.|Adam R. Klivans,Philip M. Long,Rocco A. Servedio|22|21|1|3
+95|Reproducing Kernel Banach Spaces for Machine Learning.|Haizhang Zhang,Yuesheng Xu,Jun Zhang|54|48|0|14
+96|Cautious Collective Classification.|Luke McDowell,Kalyan Moy Gupta,David W. Aha|n/a
+97|Adaptive False Discovery Rate Control under Independence and Dependence.|Gilles Blanchard,Étienne Roquain|74|68|0|6
+98|Online Learning with Samples Drawn from Non-identical Distributions.|Ting Hu,Ding-Xuan Zhou|8|5|0|3
+99|Efficient Online and Batch Learning Using Forward Backward Splitting.|John C. Duchi,Yoram Singer|348|315|3|4
+100|A Survey of Accuracy Evaluation Metrics of Recommendation Tasks.|Asela Gunawardana,Guy Shani|210|198|0|2

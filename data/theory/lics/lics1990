@@ -1,0 +1,47 @@
+46
+1|Proceedings of the Fifth Annual Symposium on Logic in Computer Science (LICS '90), Philadelphia, Pennsylvania, USA, June 4-7, 1990.|n/a
+2|Type Reconstruction in Finite-Rank Fragments of the Polymorphic lambda-Calculus (Extended Summary).|A. J. Kfoury,Jerzy Tiuryn|13|1|0|1
+3|Polymorphism, Set Theory, and Call-by-Value.|Edmund Robinson,Giuseppe Rosolini|4|0|0|1
+4|Universal Domains in the Theory of Denotational Semantics of Programming Languages.|Manfred Droste,Rüdiger Göbel|17|1|0|6
+5|The Classification of Continuous Domains (Extended Abstract).|Achim Jung|n/a
+6|A Decision Procedure for a Class of Set Constraints (Extended Abstract).|Nevin Heintze,Joxan Jaffar|147|8|0|12
+7|A Constraint Sequent Calculus.|Jean-Louis Lassez,Ken McAloon|29|3|0|3
+8|Solving Inequations in Term Algebras (Extended Abstract).|Hubert Comon|n/a
+9|The Dynamic Logic of Permission.|Ron van der Meyden|108|47|0|0
+10|A Theory of Nonmonotonic Rule Systems.|V. Wiktor Marek,Anil Nerode,Jeffrey B. Remmel|102|10|0|14
+11|The Semantics of Reflected Proof.|Stuart F. Allen,Robert L. Constable,Douglas J. Howe,William E. Aitken|n/a
+12|Equation Solving Using Modal Transition Systems.|Kim Guldstrand Larsen,Liu Xinxin|179|86|0|20
+13|Reactive, Generative, and Stratified Models of Probabilistic Processes.|Rob J. van Glabbeek,Scott A. Smolka,Bernhard Steffen,Chris M. N. Tofts|358|93|1|10
+14|The Nonexistence of Finite Axiomatisations for CCS Congruences.|Faron Moller|46|14|0|1
+15|0-1 Laws for Infinitary Logics (Preliminary Report).|Phokion G. Kolaitis,Moshe Y. Vardi|n/a
+16|Implicit Definability on Finite Structures and Unambiguous Computations (Preliminary Report).|Phokion G. Kolaitis|65|11|0|5
+17|ALOGTIME and a Conjecture of S. A. Cook (Extended Abstract).|Peter Clote|n/a
+18|On the Expression of Monadic Second-Order Graph Properties Without Quantifications Over Sets of Edges (Extended Abstract).|Bruno Courcelle|2|0|0|0
+19|Normal Process Representatives.|Vijay Gehlot,Carl A. Gunter|66|3|0|1
+20|A Categorical Linear Framework for Petri Nets.|Carolyn Brown,Doug Gurr|64|4|0|1
+21|A Linear Semantics for Allowed Logic Programs.|Serenella Cerrito|24|2|0|1
+22|Programming in Equational Logic: Beyond Strong Sequentiality.|R. C. Sekar,I. V. Ramakrishnan|82|7|0|2
+23|The Theory of Ground Rewrite Systems is Decidable.|Max Dauchet,Sophie Tison|187|30|0|14
+24|Well Rewrite Orderings.|Pierre Lescanne|12|1|0|2
+25|A Constructive Proof of Higman's Lemma.|Chetan R. Murthy,James R. Russell|46|6|0|0
+26|Syntactic Theories and Unification.|Claude Kirchner,Francis Klay|60|7|0|10
+27|Proof Transformations for Equational Theories.|Tobias Nipkow|34|9|0|1
+28|A New AC Unification Algorithm with an Algorithm for Solving Systems of Diophantine Equations.|Alexandre Boudet,Evelyne Contejean,Hervé Devie|73|18|0|15
+29|On Subsumption and Semiunification in Feature Algebras.|Jochen Dörre,William C. Rounds|52|1|0|0
+30|Completeness for typed lazy inequalities.|Stavros S. Cosmadakis,Albert R. Meyer,Jon G. Riecke|6|0|0|0
+31|Conditional Lambda-Theories and the Verification of Static Properties of Programs.|Mitchell Wand,Zheng-Yu Wang|13|0|0|5
+32|Single-Threaded Polymorphic Lambda Calculus.|Juan C. Guzmán,Paul Hudak|118|3|0|3
+33|Extensional PERs.|Peter J. Freyd,P. Mulry,Giuseppe Rosolini,Dana S. Scott|85|2|0|11
+34|A Per Model of Polymorphism and Recursive Types.|Martín Abadi,Gordon D. Plotkin|111|14|0|8
+35|Effective Domains and Intrinsic Structure.|Wesley Phoa|58|3|0|6
+36|A Logic of Concrete Time Intervals (Extended Abstract).|Harry R. Lewis|n/a
+37|Real-time Logics: Complexity and Expressiveness.|Rajeev Alur,Thomas A. Henzinger|560|141|0|31
+38|Explicit Clock Temporal Logic.|Eyal Harel,Orna Lichtenstein,Amir Pnueli|164|23|0|17
+39|Model-Checking for Real-Time Systems.|Rajeev Alur,Costas Courcoubetis,David L. Dill|1130|250|1|23
+40|Symbolic Model Checking: 10^20 States and Beyond.|Jerry R. Burch,Edmund M. Clarke,Kenneth L. McMillan,David L. Dill,L. J. Hwang|3523|787|17|77
+41|When is ``Partial'' Adequate? A Logic-Based Proof Technique Using Partial Specifications.|Rance Cleaveland,Bernhard Steffen|22|0|0|10
+42|Modelling Shared State in a Shared Action Model.|Kenneth J. Goldman,Nancy A. Lynch|11|2|0|6
+43|On the Limits of Efficient Temporal Decidability (Extended Abstract).|E. Allen Emerson,Michael Evangelist,Jai Srinivasan|11|1|0|2
+44|On the Power of Bounded Concurrency~III: Reasoning About Programs (Preliminary Report).|David Harel,Roni Rosner,Moshe Y. Vardi|17|0|0|8
+45|New Foundations for Fixpoint Computations.|Roy L. Crole,Andrew M. Pitts|26|4|0|4
+46|Recursive Types Reduced to Inductive Types.|Peter J. Freyd|110|11|0|1

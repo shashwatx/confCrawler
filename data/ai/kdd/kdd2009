@@ -1,0 +1,147 @@
+146
+1|Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Paris, France, June 28 - July 1, 2009.|John F. Elder IV,Françoise Fogelman-Soulié,Peter A. Flach,Mohammed Javeed Zaki|n/a
+2|Mismatched models, wrong results, and dreadful decisions: on choosing appropriate data mining tools.|David J. Hand|1|1|0|0
+3|Mining web logs: applications and challenges.|Ravi Kumar|7|7|0|0
+4|Randomization methods in data mining.|Heikki Mannila|2|1|0|0
+5|Data mining at NASA: from theory to applications.|Ashok N. Srivastava|2|2|0|0
+6|Network science: an introduction to recent statistical approaches.|Stanley Wasserman|0|0|0|0
+7|Open standards and cloud computing: KDD-2009 panel report.|Michael Zeller,Robert Grossman,Christoph Lingenfelder,Michael R. Berthold,Erik Marcade,Rick Pechter,Mike Hoskins,Wayne Thompson,Rich Holada|19|18|0|0
+8|Regression-based latent factor models.|Deepak Agarwal,Bee-Chung Chen|250|240|3|18
+9|Frequent pattern mining with uncertain data.|Charu C. Aggarwal,Yan Li,Jianyong Wang,Jing Wang|216|204|0|11
+10|Structured correspondence topic models for mining captioned figures in biological literature.|Amr Ahmed,Eric P. Xing,William W. Cohen,Robert F. Murphy|28|26|0|6
+11|Name-ethnicity classification from open sources.|Anurag Ambekar,Charles B. Ward,Jahangir Mohammed,Swapna Male,Steven Skiena|24|19|0|0
+12|Detection of unique temporal segments by information theoretic meta-clustering.|Shin Ando,Einoshin Suzuki|4|4|0|1
+13|Collusion-resistant anonymous data collection method.|Mafruz Zaman Ashrafi,See-Kiong Ng|5|5|0|0
+14|A viewpoint-based approach for interaction graph analysis.|Sitaram Asur,Srinivasan Parthasarathy|19|18|0|2
+15|Optimizing web traffic via the media scheduling problem.|Lars Backstrom,Jon M. Kleinberg,Ravi Kumar|11|10|0|1
+16|Improving clustering stability with combinatorial MRFs.|Ron Bekkerman,Martin Scholz,Krishnamurthy Viswanathan|8|8|0|0
+17|Temporal mining for interactive workflow data analysis.|Michele Berlingerio,Fabio Pinelli,Mirco Nanni,Fosca Giannotti|14|13|0|1
+18|Probabilistic frequent itemset mining in uncertain databases.|Thomas Bernecker,Hans-Peter Kriegel,Matthias Renz,Florian Verhein,Andreas Züfle|208|200|0|9
+19|The offset tree for learning with partial labels.|Alina Beygelzimer,John Langford|23|22|0|8
+20|New ensemble methods for evolving data streams.|Albert Bifet,Geoffrey Holmes,Bernhard Pfahringer,Richard Kirkby,Ricard Gavaldà|293|283|4|26
+21|CoCo: coding cost for parameter-free outlier detection.|Christian Böhm,Katrin Haegler,Nikola S. Müller,Claudia Plant|26|25|0|2
+22|Efficient anomaly monitoring over moving object trajectory streams.|Yingyi Bu,Lei Chen,Ada Wai-Chee Fu,Dawei Liu|89|87|0|2
+23|Connections between the lines: augmenting social networks with text.|Jonathan Chang,Jordan L. Boyd-Graber,David M. Blei|96|90|0|7
+24|Extracting discriminative concepts for domain adaptation in text mining.|Bo Chen,Wai Lam,Ivor W. Tsang,Tak-Lam Wong|45|42|0|3
+25|Constrained optimization for validation-guided conditional random field learning.|Minmin Chen,Yixin Chen,Michael R. Brent,Aaron E. Tenney|2|2|0|0
+26|Efficient influence maximization in social networks.|Wei Chen,Yajun Wang,Siyu Yang|762|729|1|38
+27|Large-scale behavioral targeting.|Ye Chen,Dmitry Pavlov,John F. Canny|146|140|2|7
+28|On compressing social networks.|Flavio Chierichetti,Ravi Kumar,Silvio Lattanzi,Michael Mitzenmacher,Alessandro Panconesi,Prabhakar Raghavan|165|159|0|3
+29|Regret-based online ranking for a growing digital library.|Erick Delage|1|1|0|0
+30|A generalized Co-HITS algorithm and its application to bipartite graphs.|Hongbo Deng,Michael R. Lyu,Irwin King|91|87|1|5
+31|Mining for the most certain predictions from dyadic data.|Meghana Deodhar,Joydeep Ghosh|4|4|0|2
+32|Efficiently learning the accuracy of labeling sources for selective sampling.|Pinar Donmez,Jaime G. Carbonell,Jeff G. Schneider|131|129|1|4
+33|Large human communication networks: patterns and a utility-driven generator.|Nan Du,Christos Faloutsos,Bai Wang,Leman Akoglu|41|41|0|7
+34|Learning with a non-exhaustive training dataset: a case study: detection of bacteria cultures using optical-scattering technology.|Murat Dundar,E. Daniel Hirleman,Arun K. Bhunia,J. Paul Robinson,Bartek Rajwa|6|5|0|3
+35|Turning down the noise in the blogosphere.|Khalid El-Arini,Gaurav Veda,Dafna Shahaf,Carlos Guestrin|87|83|2|18
+36|Feature shaping for linear SVM classifiers.|George Forman,Martin Scholz,Shyamsundar Rajaram|18|18|1|2
+37|A multi-relational approach to spatial classification.|Richard Frank,Martin Ester,Arno J. Knobbe|17|14|0|3
+38|Scalable pseudo-likelihood estimation in hybrid random fields.|Antonino Freno,Edmondo Trentin,Marco Gori|13|13|0|7
+39|Issues in evaluation of stream learning algorithms.|João Gama,Raquel Sebastião,Pedro Pereira Rodrigues|148|148|0|22
+40|Heterogeneous source consensus learning via decision propagation and negotiation.|Jing Gao,Wei Fan,Yizhou Sun,Jiawei Han|38|35|0|9
+41|Multi-focal learning and its application to customer service support.|Yong Ge,Hui Xiong,Wenjun Zhou,Ramendra K. Sahoo,Xiaofeng Gao,Weili Wu|2|2|0|2
+42|Co-clustering on manifolds.|Quanquan Gu,Jie Zhou|84|78|0|7
+43|Analyzing patterns of user content generation in online social networks.|Lei Guo,Enhua Tan,Songqing Chen,Xiaodong Zhang,Yihong Eric Zhao|141|136|0|1
+44|Tell me something I don't know: randomization strategies for iterative data mining.|Sami Hanhijärvi,Markus Ojala,Niko Vuokko,Kai Puolamäki,Nikolaj Tatti,Heikki Mannila|60|56|0|3
+45|Exploiting Wikipedia as external knowledge for document clustering.|Xiaohua Hu,Xiaodan Zhang,Caimei Lu,E. K. Park,Xiaohua Zhou|213|206|0|11
+46|TrustWalker: a random walk model for combining trust-based and item-based recommendation.|Mohsen Jamali,Martin Ester|408|395|2|8
+47|Drosophila gene expression pattern annotation using sparse features and term-term interactions.|Shuiwang Ji,Lei Yuan,Ying-Xin Li,Zhi-Hua Zhou,Sudhir Kumar,Jieping Ye|20|18|0|11
+48|Cartesian contour: a concise representation for a collection of frequent sets.|Ruoming Jin,Yang Xiang,Lin Liu|13|13|0|2
+49|Genre-based decomposition of email class noise.|Aleksander Kolcz,Gordon V. Cormack|9|9|0|1
+50|Characteristic relational patterns.|Arne Koopman,Arno Siebes|22|22|0|2
+51|Collaborative filtering with temporal dynamics.|Yehuda Koren|832|786|4|10
+52|Collective annotation of Wikipedia entities in web text.|Sayali Kulkarni,Amit Singh,Ganesh Ramakrishnan,Soumen Chakrabarti|274|267|0|8
+53|Finding a team of experts in social networks.|Theodoros Lappas,Kun Liu,Evimaria Terzi|257|250|0|6
+54|On burstiness-aware search for document sequences.|Theodoros Lappas,Benjamin Arai,Manolis Platakis,Dimitrios Kotsakos,Dimitrios Gunopulos|53|52|0|5
+55|Improving data mining utility with projective sampling.|Mark Last|8|7|0|1
+56|Meme-tracking and the dynamics of the news cycle.|Jure Leskovec,Lars Backstrom,Jon M. Kleinberg|947|895|1|27
+57|DynaMMo: mining and summarization of coevolving sequences with missing values.|Lei Li,James McCann,Nancy S. Pollard,Christos Faloutsos|59|57|0|13
+58|On the tradeoff between privacy and utility in data publishing.|Tiancheng Li,Ninghui Li|148|141|0|3
+59|MetaFac: community discovery via relational hypergraph factorization.|Yu-Ru Lin,Jimeng Sun,Paul Castro,Ravi B. Konuru,Hari Sundaram,Aisling Kelliher|154|147|0|5
+60|BBM: bayesian browsing model from petabyte-scale data.|Chao Liu,Fan Guo,Christos Faloutsos|58|58|0|7
+61|Large-scale sparse logistic regression.|Jun Liu,Jianhui Chen,Jieping Ye|88|84|0|8
+62|Classification of software behaviors for failure detection: a discriminative pattern mining approach.|David Lo,Hong Cheng,Jiawei Han,Siau-Cheng Khoo,Chengnian Sun|119|111|0|18
+63|Consensus group stable feature selection.|Steven Loscalzo,Lei Yu,Chris H. Q. Ding|93|86|0|3
+64|Grouped graphical Granger modeling methods for temporal causal modeling.|Aurelie C. Lozano,Naoki Abe,Yan Liu,Saharon Rosset|21|20|3|7
+65|Spatial-temporal causal modeling for climate change attribution.|Aurelie C. Lozano,Hongfei Li,Alexandru Niculescu-Mizil,Yan Liu,Claudia Perlich,Jonathan R. M. Hosking,Naoki Abe|51|51|2|5
+66|Using graph-based metrics with empirical risk minimization to speed up active learning on networked data.|Sofus A. Macskassy|28|28|0|0
+67|Characterizing individual communication patterns.|R. Dean Malmgren,Jake M. Hofman,Luis A. Nunes Amaral,Duncan J. Watts|54|52|0|1
+68|Large-scale graph mining using backbone refinement classes.|Andreas Maunz,Christoph Helma,Stefan Kramer|15|14|0|5
+69|Differentially Private Recommender Systems: Building Privacy into the Netflix Prize Contenders.|Frank McSherry,Ilya Mironov|336|323|2|3
+70|WhereNext: a location predictor on trajectory pattern mining.|Anna Monreale,Fabio Pinelli,Roberto Trasarti,Fosca Giannotti|288|281|0|8
+71|Correlated itemset mining in ROC space: a constraint programming approach.|Siegfried Nijssen,Tias Guns,Luc De Raedt|69|61|0|16
+72|TANGENT: a novel, 'Surprise me', recommendation algorithm.|Kensuke Onuma,Hanghang Tong,Christos Faloutsos|77|72|0|1
+73|Mind the gaps: weighting the unknown in large-scale one-class collaborative filtering.|Rong Pan,Martin Scholz|79|72|2|2
+74|An association analysis approach to biclustering.|Gaurav Pandey,Gowtham Atluri,Michael Steinbach,Chad L. Myers,Vipin Kumar|63|56|0|8
+75|CP-summary: a concise representation for browsing frequent itemsets.|Ardian Kristanto Poernomo,Vivekanand Gopalkrishnan|15|15|0|0
+76|Towards efficient mining of proportional fault-tolerant frequent itemsets.|Ardian Kristanto Poernomo,Vivekanand Gopalkrishnan|33|32|0|0
+77|Audience selection for on-line brand advertising: privacy-friendly social network targeting.|Foster J. Provost,Brian Dalessandro,Rod Hook,Xiaohan Zhang,Alan Murray|104|100|1|21
+78|A principled and flexible framework for finding alternative clusterings.|Zijie Qi,Ian Davidson|80|78|0|5
+79|Learning optimal ranking with tensor factorization for tag recommendation.|Steffen Rendle,Leandro Balby Marinho,Alexandros Nanopoulos,Lars Schmidt-Thieme|223|215|2|14
+80|Scalable graph clustering using stochastic flows: applications to community discovery.|Venu Satuluri,Srinivasan Parthasarathy|167|160|0|23
+81|Measuring the effects of preprocessing decisions and network forces in dynamic network analysis.|Jerry Scripps,Pang-Ning Tan,Abdol-Hossein Esfahanian|19|19|0|0
+82|Mining discrete patterns via binary matrix factorization.|Bao-Hong Shen,Shuiwang Ji,Jieping Ye|19|18|0|0
+83|Anomalous window discovery through scan statistics for linear intersecting paths (SSLIP).|Lei Shi,Vandana Pursnani Janeja|13|11|0|3
+84|User grouping behavior in online forums.|Xiaolin Shi,Jun Zhu,Rui Cai,Lei Zhang|66|63|0|4
+85|Causality quantification and its applications: structuring and modeling of multivariate time series.|Takashi Shibuya,Tatsuya Harada,Yasuo Kuniyoshi|19|18|0|2
+86|Ranking-based clustering of heterogeneous information networks with star network schema.|Yizhou Sun,Yintao Yu,Jiawei Han|236|229|0|54
+87|Social influence analysis in large-scale networks.|Jie Tang,Jimeng Sun,Chi Wang,Zi Yang|495|481|0|70
+88|Relational learning via latent social dimensions.|Lei Tang,Huan Liu|179|171|0|37
+89|Constant-factor approximation algorithms for identifying dynamic communities.|Chayant Tantipathananandh,Tanya Y. Berger-Wolf|57|56|0|7
+90|DOULION: counting triangles in massive graphs with a coin.|Charalampos E. Tsourakakis,U. Kang,Gary L. Miller,Christos Faloutsos|145|141|0|21
+91|Category detection using hierarchical mean shift.|Pavan Vatturi,Weng-Keen Wong|45|42|0|1
+92|Learning, indexing, and diagnosing network faults.|Ting Wang,Mudhakar Srivatsa,Dakshi Agrawal,Ling Liu|17|16|0|4
+93|Mining broad latent query aspects from search sessions.|Xuanhui Wang,Deepayan Chakrabarti,Kunal Punera|21|20|0|1
+94|Adapting the right measures for K-means clustering.|Junjie Wu,Hui Xiong,Jian Chen|114|110|0|17
+95|A LRT framework for fast spatial anomaly detection.|Mingxi Wu,Xiuyao Song,Chris Jermaine,Sanjay Ranka,John Gums|18|16|0|2
+96|Quantification and semi-supervised classification methods for handling changes in class distribution.|Jack Chongjie Xue,Gary M. Weiss|26|24|0|0
+97|Fast approximate spectral clustering.|Donghui Yan,Ling Huang,Michael I. Jordan|227|217|7|2
+98|Effective multi-label active learning for text classification.|Bishan Yang,Jian-Tao Sun,Tengjiao Wang,Zheng Chen|68|66|1|0
+99|Combining link and content for community detection: a discriminative approach.|Tianbao Yang,Rong Jin,Yun Chi,Shenghuo Zhu|148|140|1|7
+100|Efficient methods for topic model inference on streaming document collections.|Limin Yao,David M. Mimno,Andrew McCallum|214|199|1|5
+101|Time series shapelets: a new primitive for data mining.|Lexiang Ye,Eamonn J. Keogh|224|212|0|12
+102|Exploring social tagging graph for web object classification.|Zhijun Yin,Rui Li,Qiaozhu Mei,Jiawei Han|87|85|0|11
+103|Mining social networks for personalized email prioritization.|Shinjae Yoo,Yiming Yang,Frank Lin,Il-Chul Moon|78|76|5|4
+104|Learning patterns in the dynamics of biological networks.|Chang Hun You,Lawrence B. Holder,Diane J. Cook|32|29|0|1
+105|Toward autonomic grids: analyzing the job flow with affinity streaming.|Xiangliang Zhang,Cyril Furtlehner,Julien Perez,Cécile Germain-Renaud,Michèle Sebag|24|23|0|7
+106|Parallel community detection on large networks with propinquity dynamics.|Yuzhou Zhang,Jianyong Wang,Yi Wang,Lizhu Zhou|77|75|0|2
+107|Co-evolution of social and affiliation networks.|Elena Zheleva,Hossam Sharara,Lise Getoor|112|110|0|3
+108|Information theoretic regularization for semi-supervised boosting.|Lei Zheng,Shaojun Wang,Yan Liu,Chi-Hoon Lee|17|16|0|3
+109|Cross domain distribution adaptation via kernel mapping.|ErHeng Zhong,Wei Fan,Jing Peng,Kun Zhang,Jiangtao Ren,Deepak S. Turaga,Olivier Verscheure|58|57|0|8
+110|Mining rich session context to improve web search.|Guangyu Zhu,Gilad Mishne|13|12|0|1
+111|Primal sparse Max-margin Markov networks.|Jun Zhu,Eric P. Xing,Bo Zhang|9|7|0|2
+112|Augmenting the generalized hough transform to enable the mining of petroglyphs.|Qiang Zhu,Xiaoyue Wang,Eamonn J. Keogh,Sang-Hee Lee|22|21|0|6
+113|Modeling and predicting user behavior in sponsored search.|Josh Attenberg,Sandeep Pandey,Torsten Suel|55|51|4|1
+114|Enabling analysts in managed services for CRM analytics.|Indrajit Bhattacharya,Shantanu Godbole,Ajay Gupta,Ashish Verma,Jeff Achtermann,Kevin English|16|16|0|3
+115|Applying syntactic similarity algorithms for enterprise information management.|Ludmila Cherkasova,Kave Eshghi,Charles B. Morrey III,Joseph Tucek,Alistair C. Veitch|11|10|0|0
+116|A case study of behavior-driven conjoint analysis on Yahoo!: front page today module.|Wei Chu,Seung-Taek Park,Todd Beaupre,Nitin Motgi,Amit Phadke,Seinjuti Chakraborty,Joe Zachariah|25|25|0|2
+117|Seven pitfalls to avoid when running controlled experiments on the web.|Thomas Crook,Brian Frasca,Ron Kohavi,Roger Longbotham|39|38|0|2
+118|Pervasive parallelism in data mining: dataflow solution to co-clustering large and sparse Netflix data.|Srivatsava Daruru,Nena M. Marin,Matt Walker,Joydeep Ghosh|34|33|0|3
+119|Entity discovery and assignment for opinion mining applications.|Xiaowen Ding,Bing Liu,Lei Zhang|72|70|1|5
+120|Migration motif: a spatial - temporal pattern mining approach for financial markets.|Xiaoxi Du,Ruoming Jin,Liang Ding,Victor E. Lee,John H. Thornton Jr.|22|21|0|2
+121|Improving classification accuracy using automatically extracted training data.|Ariel Fuxman,Anitha Kannan,Andrew B. Goldberg,Rakesh Agrawal,Panayiotis Tsaparas,John C. Shafer|21|20|0|3
+122|Address standardization with latent semantic association.|Honglei Guo,Huijia Zhu,Zhili Guo,Xiaoxun Zhang,Zhong Su|10|9|1|1
+123|Catching the drift: learning broad matches from clickthrough data.|Sonal Gupta,Mikhail Bilenko,Matthew Richardson|14|13|1|2
+124|COA: finding novel patents through text analysis.|Mohammad Al Hasan,W. Scott Spangler,Thomas D. Griffin,Alfredo Alba|24|23|0|4
+125|Network anomaly detection based on Eigen equation compression.|Shunsuke Hirose,Kenji Yamanishi,Takayuki Nakata,Ryohei Fujimaki|32|31|0|3
+126|OpinionMiner: a novel machine learning system for web opinion mining and extraction.|Wei Jin,Hung Hay Ho,Rohini K. Srihari|171|166|0|0
+127|Query result clustering for object-level search.|Jongwuk Lee,Seung-won Hwang,Zaiqing Nie,Ji-Rong Wen|20|20|0|4
+128|Grocery shopping recommendations based on basket-sensitive random walk.|Ming Li,M. Benjamin Dias,Ian H. Jarman,Wael El-Deredy,Paulo J. G. Lisboa|28|26|0|0
+129|Learning dynamic temporal graphs for oil-production equipment monitoring system.|Yan Liu,Jayant R. Kalagnanam,Oivind Johnsen|12|12|0|3
+130|Towards combining web classification and web information extraction: a case study.|Ping Luo,Fen Lin,Yuhong Xiong,Yong Zhao,Zhongzhi Shi|16|15|0|1
+131|Beyond blacklists: learning to detect malicious web sites from suspicious URLs.|Justin Ma,Lawrence K. Saul,Stefan Savage,Geoffrey M. Voelker|341|330|3|6
+132|Clustering event logs using iterative partitioning.|Adetokunbo Makanju,A. Nur Zincir-Heywood,Evangelos E. Milios|57|52|0|6
+133|SNARE: a link analytic system for graph labeling and risk detection.|Mary McGlohon,Stephen Bay,Markus G. Anderle,David M. Steier,Christos Faloutsos|64|61|16|0
+134|Sentiment analysis of blogs by combining lexical knowledge with text classification.|Prem Melville,Wojciech Gryc,Richard D. Lawrence|261|248|4|8
+135|Anonymizing healthcare data: a case study on the blood transfusion service.|Noman Mohammed,Benjamin C. M. Fung,Patrick C. K. Hung,Cheuk-kwong Lee|63|60|0|14
+136|Towards a universal marketplace over the web: statistical multi-label classification of service provider forms with simulated annealing.|Kivanc M. Ozonat,Donald Young|8|7|0|1
+137|Sustainable operation and management of data center chillers using temporal data mining.|Debprakash Patnaik,Manish Marwah,Ratnesh K. Sharma,Naren Ramakrishnan|49|44|3|9
+138|BGP-lens: patterns and anomalies in internet routing updates.|B. Aditya Prakash,Nicholas Valler,David Andersen,Michalis Faloutsos,Christos Faloutsos|25|24|0|3
+139|Predicting bounce rates in sponsored search advertisements.|D. Sculley,Robert G. Malkin,Sugato Basu,Roberto J. Bayardo|75|70|3|6
+140|Mining brain region connectivity for alzheimer's disease study via sparse inverse covariance estimation.|Liang Sun,Rinkal Patel,Jun Liu,Kewei Chen,Teresa Wu,Jing Li,Eric Reiman,Jieping Ye|29|27|0|3
+141|Can we learn a template-independent wrapper for news article extraction from a single training site?|Junfeng Wang,Chun Chen,Can Wang,Jian Pei,Jiajun Bu,Ziyu Guan,Wei Vivian Zhang|37|36|0|4
+142|PSkip: estimating relevance ranking quality from web search clickthrough data.|Kuansan Wang,Toby Walker,Zijian Zheng|53|53|0|3
+143|Named entity mining from click-through data using weakly supervised latent dirichlet allocation.|Gu Xu,Shuang-Hong Yang,Hang Li|40|35|0|2
+144|Incorporating site-level knowledge for incremental crawling of web forums: a list-wise strategy.|Jiang-Ming Yang,Rui Cai,Chunsong Wang,Hua Huang,Lei Zhang,Wei-Ying Ma|14|14|0|0
+145|Intelligent file scoring system for malware detection from the gray list.|Yanfang Ye,Tao Li,Qingshan Jiang,Zhixue Han,Li Wan|7|7|0|4
+146|OLAP on search logs: an infrastructure supporting data-driven applications in search engines.|Bin Zhou,Daxin Jiang,Jian Pei,Hang Li|10|9|0|1

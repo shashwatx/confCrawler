@@ -1,0 +1,81 @@
+80
+1|Proceedings of the 38th Annual ACM Symposium on Theory of Computing, Seattle, WA, USA, May 21-23, 2006.|Jon M. Kleinberg|n/a
+2|Explicit capacity-achieving list-decodable codes.|Venkatesan Guruswami,Atri Rudra|79|22|0|20
+3|Gowers uniformity, influence of variables, and PCPs.|Alex Samorodnitsky,Luca Trevisan|126|69|0|6
+4|Sub-constant error low degree test of almost-linear size.|Dana Moshkovitz,Ran Raz|34|21|0|12
+5|The Santa Claus problem.|Nikhil Bansal,Maxim Sviridenko|144|120|1|5
+6|On maximizing welfare when utility functions are subadditive.|Uriel Feige|171|115|0|11
+7|A randomized polynomial-time simplex algorithm for linear programming.|Jonathan A. Kelner,Daniel A. Spielman|76|47|0|5
+8|Reducibility among equilibrium problems.|Paul W. Goldberg,Christos H. Papadimitriou|119|41|0|10
+9|The complexity of computing a Nash equilibrium.|Constantinos Daskalakis,Paul W. Goldberg,Christos H. Papadimitriou|788|530|0|48
+10|New trade-offs in cost-sharing mechanisms.|Tim Roughgarden,Mukund Sundararajan|49|21|0|8
+11|The effect of collusion in congestion games.|Ara Hayrapetyan,Éva Tardos,Tom Wexler|131|80|0|0
+12|Black-box constructions for secure computation.|Yuval Ishai,Eyal Kushilevitz,Yehuda Lindell,Erez Petrank|44|29|0|8
+13|Information-theoretically secure protocols and security under composition.|Eyal Kushilevitz,Yehuda Lindell,Tal Rabin|49|27|0|5
+14|Private approximation of search problems.|Amos Beimel,Paz Carmi,Kobbi Nissim,Enav Weinreb|27|15|0|4
+15|The changing face of web search: algorithms, auctions and advertising.|Prabhakar Raghavan|2|1|0|0
+16|On the solution-space geometry of random constraint satisfaction problems.|Dimitris Achlioptas,Federico Ricci-Tersenghi|103|47|1|6
+17|Counting independent sets up to the tree threshold.|Dror Weitz|184|146|0|1
+18|The DLT priority sampling is essentially optimal.|Mario Szegedy|37|17|0|1
+19|Optimal phylogenetic reconstruction.|Constantinos Daskalakis,Elchanan Mossel,Sébastien Roch|67|43|0|18
+20|Time-space tradeoffs for implementations of snapshots.|Panagiota Fatourou,Faith Ellen Fich,Eric Ruppert|12|4|0|9
+21|Byzantine agreement in the full-information model in O(log n) rounds.|Michael Ben-Or,Elan Pavlov,Vinod Vaikuntanathan|31|17|0|2
+22|Fast leader-election protocols with bounded cheaters' edge.|Spyridon Antonakopoulos|13|4|0|0
+23|Pricing for fairness: distributed resource allocation for multiple objectives.|Sung-woo Cho,Ashish Goel|12|6|0|5
+24|Near-optimal algorithms for unique games.|Moses Charikar,Konstantin Makarychev,Yury Makarychev|118|78|0|11
+25|New approximation guarantee for chromatic number.|Sanjeev Arora,Eden Chlamtac|61|42|0|5
+26|Finding a maximum weight triangle in n3-Delta time, with applications.|Virginia Vassilevska,Ryan Williams|31|13|0|12
+27|Time-space trade-offs for predecessor search.|Mihai Patrascu,Mikkel Thorup|139|88|0|14
+28|The PCP theorem by gap amplification.|Irit Dinur|229|187|0|13
+29|A combinatorial characterization of the testable graph properties: it's all about regularity.|Noga Alon,Eldar Fischer,Ilan Newman,Asaf Shapira|171|116|0|23
+30|Graph limits and parameter testing.|Christian Borgs,Jennifer T. Chayes,László Lovász,Vera T. Sós,Balázs Szegedy,Katalin Vesztergombi|144|99|0|8
+31|Advances in metric embedding theory.|Ittai Abraham,Yair Bartal,Ofer Neiman|60|32|0|13
+32|Zero knowledge with efficient provers.|Minh-Huyen Nguyen,Salil P. Vadhan|44|14|0|8
+33|Zero-knowledge against quantum attacks.|John Watrous|116|73|2|4
+34|Local zero knowledge.|Silvio Micali,Rafael Pass|47|27|0|13
+35|A quasi-polynomial time approximation scheme for minimum weight triangulation.|Jan Remy,Angelika Steger|29|16|0|2
+36|Building triangulations using epsilon-nets.|Kenneth L. Clarkson|n/a
+37|The distance trisector curve.|Tetsuo Asano,Jirí Matousek,Takeshi Tokuyama|27|17|0|9
+38|Conditional hardness for approximate coloring.|Irit Dinur,Elchanan Mossel,Oded Regev|100|63|0|18
+39|Clique-width minimization is NP-hard.|Michael R. Fellows,Frances A. Rosamond,Udi Rotics,Stefan Szeider|74|26|0|1
+40|Hardness of approximate two-level logic minimization and PAC learning with membership queries.|Vitaly Feldman|33|19|0|2
+41|Can every randomized algorithm be derandomized?|Russell Impagliazzo|9|9|0|0
+42|Finding small balanced separators.|Uriel Feige,Mohammad Mahdian|32|18|0|0
+43|Graph partitioning using single commodity flows.|Rohit Khandekar,Satish Rao,Umesh V. Vazirani|116|82|0|15
+44|Linear time low tree-width partitions and algorithmic consequences.|Jaroslav Nesetril,Patrice Ossona de Mendez|65|36|0|17
+45|Approximating the list-chromatic number and the chromatic number in minor-closed and odd-minor-closed classes of graphs.|Ken-ichi Kawarabayashi,Bojan Mohar|22|12|0|17
+46|Hyperbolic polynomials approach to Van der Waerden/Schrijver-Valiant like conjectures: sharper bounds, simpler proofs and algorithmic applications.|Leonid Gurvits|40|17|0|10
+47|A polynomial quantum algorithm for approximating the Jones polynomial.|Dorit Aharonov,Vaughan Jones,Zeph Landau|157|81|0|4
+48|On the fourier tails of bounded functions over the discrete cube.|Irit Dinur,Ehud Friedgut,Guy Kindler,Ryan O'Donnell|45|37|0|8
+49|Lattice problems and norm embeddings.|Oded Regev,Ricky Rosen|44|26|0|1
+50|Pseudorandom walks on regular digraphs and the RL vs. L problem.|Omer Reingold,Luca Trevisan,Salil P. Vadhan|45|39|0|8
+51|An efficient algorithm for solving word equations.|Wojciech Plandowski|32|24|0|2
+52|Online trading algorithms and robust option pricing.|Peter DeMarzo,Ilan Kremer,Yishay Mansour|38|29|0|6
+53|On adequate performance measures for paging.|Konstantinos Panagiotou,Alexander Souza|40|22|0|2
+54|Extractors for a constant number of polynomially small min-entropy independent sources.|Anup Rao|77|54|0|12
+55|Narrow proofs may be spacious: separating space and width in resolution.|Jakob Nordström|48|30|0|0
+56|Logarithmic hardness of the directed congestion minimization problem.|Matthew Andrews,Lisa Zhang|17|4|0|5
+57|Hardness of cut problems in directed graphs.|Julia Chuzhoy,Sanjeev Khanna|19|8|0|2
+58|Integrality gaps for sparsest cut and minimum linear arrangement problems.|Nikhil R. Devanur,Subhash Khot,Rishi Saket,Nisheeth K. Vishnoi|82|49|0|4
+59|On earthmover distance, metric labeling, and 0-extension.|Howard J. Karloff,Subhash Khot,Aranyak Mehta,Yuval Rabani|17|12|0|1
+60|Approximate nearest neighbors and the fast Johnson-Lindenstrauss transform.|Nir Ailon,Bernard Chazelle|257|171|1|10
+61|On the importance of idempotence.|Sunil Arya,Theocharis Malamatos,David M. Mount|13|5|0|8
+62|Searching dynamic point sets in spaces with bounded doubling dimension.|Richard Cole,Lee-Ad Gottlieb|60|42|0|18
+63|Learning a circuit by injecting values.|Dana Angluin,James Aspnes,Jiang Chen,Yinghua Wu|23|14|0|6
+64|Bounded-error quantum state identification and exponential separations in communication complexity.|Dmitry Gavinsky,Julia Kempe,Oded Regev,Ronald de Wolf|40|15|0|16
+65|Limitations of quantum coset states for graph isomorphism.|Sean Hallgren,Cristopher Moore,Martin Rötteler,Alexander Russell,Pranab Sen|86|30|0|20
+66|A new quantum lower bound method, : with applications to direct product theorems and time-space tradeoffs.|Andris Ambainis,Robert Spalek,Ronald de Wolf|28|20|0|3
+67|New upper and lower bounds for randomized and quantum local search.|Shengyu Zhang|n/a
+68|Truthful randomized mechanisms for combinatorial auctions.|Shahar Dobzinski,Noam Nisan,Michael Schapira|131|70|0|26
+69|Fast convergence to Wardrop equilibria by adaptive sampling methods.|Simon Fischer,Harald Räcke,Berthold Vöcking|109|47|0|11
+70|Simple cost sharing schemes for multicommodity rent-or-buy and stochastic Steiner tree.|Lisa Fleischer,Jochen Könemann,Stefano Leonardi,Guido Schäfer|37|17|0|3
+71|2-source dispersers for sub-polynomial entropy and Ramsey graphs beating the Frankl-Wilson construction.|Boaz Barak,Anup Rao,Ronen Shaltiel,Avi Wigderson|86|58|0|14
+72|Linear degree extractors and the inapproximability of max clique and chromatic number.|David Zuckerman|479|369|0|4
+73|Deterministic extractors for small-space sources.|Jesse Kamp,Anup Rao,Salil P. Vadhan,David Zuckerman|41|25|0|6
+74|On basing one-way functions on NP-hardness.|Adi Akavia,Oded Goldreich,Shafi Goldwasser,Dana Moshkovitz|53|30|0|2
+75|On the randomness complexity of efficient sampling.|Bella Dubrov,Yuval Ishai|36|25|0|3
+76|A quasi-PTAS for unsplittable flow on line graphs.|Nikhil Bansal,Amit Chakrabarti,Amir Epstein,Baruch Schieber|67|47|0|6
+77|Minimizing average flow time on related machines.|Naveen Garg,Amit Kumar|13|6|0|5
+78|Provably near-optimal sampling-based algorithms for Stochastic inventory control models.|Retsef Levi,Robin Roundy,David B. Shmoys|97|73|1|10
+79|A subset spanner for Planar graphs, : with application to subset TSP.|Philip N. Klein|36|21|0|6
+80|Edge-disjoint paths in Planar graphs with constant congestion.|Chandra Chekuri,Sanjeev Khanna,F. Bruce Shepherd|47|27|0|8

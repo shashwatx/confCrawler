@@ -1,0 +1,86 @@
+85
+1|27th Annual Meeting of the Association for Computational Linguistics, Univeristy of Maryland, College Park, Maryland, USA, 20-26 June 1999.|Robert Dale,Kenneth Ward Church|n/a
+2|Front matter.|n/a
+3|Untangling Text Data Mining.|Marti A. Hearst|843|309|1|1
+4|Automatic Speech Recognition and its Application to Information Extraction.|Sadaoki Furui|38|23|18|0
+5|The Lexical Component of Natural Language Processing.|George A. Miller|0|0|0|0
+6|Measures of Distributional Similarity.|Lillian Lee|602|273|5|3
+7|Distributional Similarity Models: Clustering vs. Nearest Neighbors.|Lillian Lee|45|6|0|1
+8|Discourse Relations: A Structural and Presuppositional Account Using Lexicalised TAG.|Bonnie L. Webber,Alistair Knott,Matthew Stone,Aravind K. Joshi|103|16|0|23
+9|Unifying Parallels.|Claire Garde|7|0|0|1
+10|Finding Parts in Very Large Corpora.|Matthew Berland,Eugene Charniak|576|235|2|2
+11|Man* vs. Machine: A Case Study in Base Noun Phrase Learning.|Eric Brill,Grace Ngai|25|7|0|2
+12|Supervised Grammar Induction using Training Data with Limited Constituent Information.|Rebecca Hwa|61|23|4|2
+13|A Meta-Level Grammar: Redefining Synchronous TAG for Translation and Paraphrase.|Mark Dras|32|8|0|7
+14|Preserving Semantic Dependencies in Synchronous Tree Adjoining Grammar.|William Schuler|9|3|0|3
+15|Compositional Semantics for Linguistic Formalisms.|Shuly Wintner|11|1|0|4
+16|Inducing a Semantically Annotated Lexicon via EM-Based Clustering.|Mats Rooth,Stefan Riezler,Detlef Prescher|168|67|0|11
+17|Corpus-Based Linguistic Indicators for Aspectual Classification.|Eric V. Siegel|19|3|0|1
+18|Automatic construction of a hypernym-labeled noun hierarchy from text.|Sharon A. Caraballo|459|167|2|1
+19|Using aggregation for selecting content when generating referring expressions.|John A. Bateman|21|3|0|1
+20|Ordering Among Premodifiers.|James Shaw,Vasileios Hatzivassiloglou|55|24|1|1
+21|Bilingual Hebrew-English Generation of Possessives and Partitives: Raising the Input Abstraction Level.|Yael Dahan Netzer,Michael Elhadad|2|0|0|0
+22|A Method for Word Sense Disambiguation of Unrestricted Text.|Rada Mihalcea,Dan I. Moldovan|190|48|0|5
+23|A Knowledge-free Method for Capitalized Word Disambiguation.|Andrei Mikheev|67|24|0|3
+24|Dynamic Nonlocal Language Modeling via Hierarchical Topic-Based Adaptation.|Radu Florian,David Yarowsky|54|7|0|3
+25|A Second-Order Hidden Markov Model for Part-of-Speech Tagging.|Scott M. Thede,Mary P. Harper|121|60|0|7
+26|The CommandTalk Spoken Dialogue System.|Amanda Stent,John Doweling,Jean Mark Gawron,Elizabeth Owen Bratt,Robert C. Moore|188|73|66|9
+27|Construct Algebra: Analytical Dialog Management.|Alicia Abella,Allen L. Gorin|48|4|0|3
+28|Understanding Unsegmented User Utterances in Real-Time Spoken Dialogue Systems.|Mikio Nakano,Noboru Miyazaki,Jun-ichi Hirasawa,Kohji Dohsaka,Takeshi Kawabata|56|18|1|11
+29|Should we Translate the Documents or the Queries in Cross-language Information Retrieval?|J. Scott McCarley|114|26|0|5
+30|Resolving Translation Ambiguity and Target Polysemy in Cross-Language Information Retrieval.|Hsin-Hsi Chen,Guo-Wei Bian,Wen-Cheng Lin|52|5|0|21
+31|Using Mutual Information to Resolve Query Translation Ambiguities and Query Term Weighting.|Myung-Gil Jang,Sung-Hyon Myaeng,Se-Young Park|74|18|0|4
+32|Analysis System of Speech Acts and Discourse Structures Using Maximum Entropy Model.|Won Seug Choi,Jeong-Mi Cho,Jungyun Seo|26|10|0|10
+33|Measuring Conformity to Discourse Routines in Decision-Making Interactions.|Sherri L. Condon,Claude G. Cech,William R. Edwards|6|2|0|3
+34|Development and Use of a Gold-Standard Data Set for Subjectivity Classifications.|Janyce Wiebe,Rebecca F. Bruce,Thomas P. O'Hara|348|235|0|1
+35|Dependency Parsing with an Extended Finite State Approach.|Kemal Oflazer|54|19|0|8
+36|A Unification-based Approach to Morpho-syntactic Parsing of Agglutinative and Other (Highly) Inflectional Languages.|Gábor Prószéky,Balázs Kis|58|19|0|8
+37|Inside-Outside Estimation of a Lexicalized PCFG for German.|Franz Beil,Glenn Carroll,Detlef Prescher,Stefan Riezler,Mats Rooth|29|2|0|8
+38|A Part of Speech Estimation Method for Japanese Unknown Words using a Statistical Model of Morphology and Context.|Masaaki Nagata|40|14|0|0
+39|Memory-Based Morphological Analysis.|Antal van den Bosch,Walter Daelemans|112|26|0|26
+40|Two Accounts of Scope Availability and Semantic Underspecification.|Alistair Willis,Suresh Manandhar|8|1|0|0
+41|Alternating Quantifier Scope in CCG.|Mark Steedman|31|7|0|0
+42|Automatic Detection of Poor Speech Recognition at the Dialogue Level.|Diane J. Litman,Marilyn A. Walker,Michael S. Kearns|90|18|8|17
+43|Automatic Identification of Non-compositional Phrases.|Dekang Lin|222|102|1|1
+44|Deep Read: A Reading Comprehension System.|Lynette Hirschman,Marc Light,Eric Breck,John D. Burger|173|44|2|11
+45|Mixed Language Query Disambiguation.|Pascale Fung,Xiaohuo Liu,Chi Shun Cheung|15|5|0|4
+46|Syntagmatic and Paradigmatic Representations of Term Variation.|Christian Jacquemin|163|56|4|17
+47|Less is more: Eliminating index terms from subordinate clauses.|Simon Corston-Oliver,William B. Dolan|32|7|0|0
+48|Statistical Models for Topic Segmentation.|Jeffrey C. Reynar|98|19|1|0
+49|A Decision-Based Approach to Rhetorical Parsing.|Daniel Marcu|98|28|0|2
+50|Corpus-Based Identification of Non-Anaphoric Noun Phrases.|David L. Bean,Ellen Riloff|100|32|2|2
+51|An Efficient Statistical Speech Act Type Tagging System for Speech Translation Systems.|Hideki Tanaka,Akio Yokoo|16|0|0|0
+52|Projecting Corpus-Based Semantic Links on a Thesaurus.|Emmanuel Morin|63|13|0|2
+53|Acquiring Lexical Generalizations from Corpora: A Case Study for Diathesis Alternations.|Maria Lapata|90|31|1|6
+54|Charting the Depths of Robust Speech Parsing.|Walter Kasper,Bernd Kiefer,Hans-Ulrich Krieger,C. J. Rupp,Karsten L. Worm|37|8|0|3
+55|A Syntactic Framework for Speech Repairs and Other Disruptions.|Mark G. Core,Lenhart K. Schubert|38|8|0|0
+56|Efficient probabilistic top-down and left-corner parsing.|Brian Roark,Mark Johnson|44|9|0|4
+57|A Selectionist Theory of Language Acquisition.|Charles D. Yang|23|6|0|1
+58|The grapho-phonological system of written French: Statistical analysis and empirical validation.|Marielle Lange,Alain Content|15|1|0|2
+59|Learning to Recognize Tables in Free Text.|Hwee Tou Ng,Chung Yong Lim,Jessica Li Teng Koo|67|15|1|0
+60|A semantically-derived subset of English for hardware verification.|Alexander Holt,Ewan Klein|40|5|0|5
+61|Efficient Parsing for Bilexical Context-Free Grammars and Head Automaton Grammars.|Jason Eisner,Giorgio Satta|136|66|1|20
+62|An Earley-style Predictive Chart Parsing Method for Lambek Grammars.|Mark Hepple|8|2|0|0
+63|A Bag of Useful Techniques for Efficient and Robust Parsing.|Bernd Kiefer,Hans-Ulrich Krieger,John A. Carroll,Rob Malouf|99|15|0|20
+64|Semantic Analysis of Japanese Noun Phrases - A New Approach to Dictionary-Based Understanding.|Sadao Kurohashi,Yasuyuki Sakai|35|3|0|6
+65|Lexical Semantics to Disambiguate Polysemous Phenomena of Japanese Adnominal Constituents.|Hitoshi Isahara,Kyoko Kanzaki|6|0|0|5
+66|Computational Lexical Semantics, Incrementality, and the So-called Punctuality of Events.|Patrick Caudal|4|1|0|2
+67|A Statistical Parser for Czech.|Michael Collins,Jan Hajic,Lance A. Ramshaw,Christoph Tillmann|233|74|0|8
+68|Automatic Compensation for Parser Figure-of-Merit Flaws.|Don Blaheta,Eugene Charniak|18|2|0|2
+69|Automatic Identification of Word Translations from Unrelated English and German Corpora.|Reinhard Rapp|463|243|9|18
+70|Mining the Web for Bilingual Text.|Philip Resnik|273|60|1|10
+71|Estimators for Stochastic "Unification-Based" Grammars.|Mark Johnson,Stuart Geman,Stephen Canon,Zhiyi Chi,Stefan Riezler|231|46|0|18
+72|Relating Probabilistic Grammars and Automata.|Steven P. Abney,David A. McAllester,Fernando Pereira|58|17|0|0
+73|Information Fusion in the Context of Multi-Document Summarization.|Regina Barzilay,Kathleen McKeown,Michael Elhadad|357|142|1|18
+74|Improving Summaries by Revising Them.|Inderjeet Mani,Barbara Gates,Eric Bloedorn|95|17|1|4
+75|Designing a Task-Based Evaluation Methodology for a Spoken Machine Translation System.|Kavita Thomas|11|0|0|0
+76|Robust, Finite-State Parsing for Spoken Language Understanding.|Edward C. Kaiser|27|18|24|2
+77|Packing of Feature Structures for Efficient Unification of Disjunctive Feature Structures.|Yusuke Miyao|8|1|0|1
+78|Parsing preferences with Lexicalized Trey Adjoining Grammars exploiting the derivation tree.|Alexandra Kinyon|7|0|0|7
+79|Cohesion and Collocation: Using Context Vectors in Text Segmentation.|Stefan Kaufmann|60|9|0|0
+80|Using Linguistic Knowledge in Automatic Abstracting.|Horacio Saggion|10|3|0|3
+81|Analysis of Syntax-Based Pronoun Resolution Methods.|Joel R. Tetreault|69|16|0|4
+82|A Pylonic Decision-Tree Language Model- with Optimal Question Selection.|Adrian Corduneanu|1|0|1|0
+83|An Unsupervised Model for Statistically Determining Coordinate Phrase Attachment.|Miriam Goldberg|26|11|0|0
+84|A flexible distributed architecture for NLP system development and use.|Freddy Y. Y. Choi|3|1|0|0
+85|Modeling Filled Pauses in Medical Dictations.|Sergey V. Pakhomov|20|2|0|4

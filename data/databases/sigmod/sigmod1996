@@ -1,0 +1,66 @@
+65
+1|Proceedings of the 1996 ACM SIGMOD International Conference on Management of Data, Montreal, Quebec, Canada, June 4-6, 1996.|H. V. Jagadish,Inderpal Singh Mumick|n/a
+2|Mining Quantitative Association Rules in Large Relational Tables.|Ramakrishnan Srikant,Rakesh Agrawal|2024|531|25|3
+3|Data Mining Using Two-Dimensional Optimized Accociation Rules: Scheme, Algorithms, and Visualization.|Takeshi Fukuda,Yasuhiko Morimoto,Shinichi Morishita,Takeshi Tokuyama|367|54|1|28
+4|IDEA: Interactive Data Exploration and Analysis.|Peter G. Selfridge,Divesh Srivastava,Lynn O. Wilson|47|4|1|2
+5|Rapid Bushy Join-order Optimization with Cartesian Products.|Bennet Vance,David Maier|116|29|5|2
+6|SQL Query Optimization: Reordering for a General Class of Queries.|Piyush Goel,Balakrishna R. Iyer|21|3|6|0
+7|Fundamental Techniques for Order Optimization.|David E. Simmen,Eugene J. Shekita,Timothy Malkemus|109|32|7|0
+8|A Content-Based Multimedia Server for Massively Parallel Architectures.|William O'Connell,Ion Tim Ieong,David Schrader,C. Watson,Grace Au,Alexandros Biliris,S. Choo,P. Colin,G. Linderman,Euthimios Panagos,J. Wang,T. Walters|0|0|0|0
+9|Fault-tolerant Architectures for Continuous Media Servers.|Banu Özden,Rajeev Rastogi,Prashant J. Shenoy,Abraham Silberschatz|63|4|9|1
+10|Optimizing Queries over Multimedia Repositories.|Surajit Chaudhuri,Luis Gravano|173|15|8|12
+11|BIRCH: An Efficient Data Clustering Method for Very Large Databases.|Tian Zhang,Raghu Ramakrishnan,Miron Livny|4018|1650|30|17
+12|On-line Reorganization of Sparsely-populated B+trees.|Chendong Zou,Betty Salzberg|56|24|0|4
+13|Two Techniques for On-Line Index Modification in Shared Nothing Parallel Databases.|Kiran J. Achyutuni,Edward Omiecinski,Shamkant B. Navathe|40|16|1|1
+14|Query Caching and Optimization in Distributed Mediator Systems.|Sibel Adali,K. Selçuk Candan,Yannis Papakonstantinou,V. S. Subrahmanian|471|68|5|15
+15|Performance Tradeoffs for Client-Server Query Processing.|Michael J. Franklin,Björn Þór Jónsson,Donald Kossmann|223|57|2|18
+16|Data Access for the Masses through OLE DB.|José A. Blakeley|90|7|7|3
+17|The Dangers of Replication and a Solution.|Jim Gray,Pat Helland,Patrick E. O'Neil,Dennis Shasha|1474|421|39|3
+18|Hot Mirroring: A Study to Hide Parity Upgrade Penalty and Degradations During Rebuilds for RAID5.|Kazuhiko Mogi,Masaru Kitsuregawa|n/a
+19|Random I/O Scheduling in Online Tertiary Storage Systems.|Bruce Hillyer,Abraham Silberschatz|88|3|3|4
+20|Implementing Data Cubes Efficiently.|Venky Harinarayan,Anand Rajaraman,Jeffrey D. Ullman|1765|431|57|5
+21|Providing Better Support for a Class of Decision Support Queries.|Sudhir Rao,Antonio Badia,Dirk Van Gucht|51|8|0|11
+22|A Query Language for Multidimensional Arrays: Design, Implementation, and Optimization Techniques.|Leonid Libkin,Rona Machlin,Limsoon Wong|133|36|1|2
+23|A Super Scalar Sort Algorithm for RISC Processors.|Ramesh C. Agarwal|89|14|10|0
+24|Spatial Hash-Joins.|Ming-Ling Lo,Chinya V. Ravishankar|307|48|16|2
+25|Partition Based Spatial-Merge Join.|Jignesh M. Patel,David J. DeWitt|424|88|5|10
+26|Bifocal Sampling for Skew-Resistant Join Size Estimation.|Sumit Ganguly,Phillip B. Gibbons,Yossi Matias,Abraham Silberschatz|93|21|5|7
+27|Estimating Alphanumeric Selectivity in the Presence of Wildcards.|P. Krishnan,Jeffrey Scott Vitter,Balakrishna R. Iyer|82|18|4|5
+28|Improved Histograms for Selectivity Estimation of Range Predicates.|Viswanath Poosala,Yannis E. Ioannidis,Peter J. Haas,Eugene J. Shekita|631|167|24|21
+29|Structures for Manipulating Proposed Updates in Object-Oriented Databases.|Michael Doherty,Richard Hull,Mohammed Rupawalla|35|0|1|11
+30|Safe and Efficient Sharing of Persistent Objects in Thor.|Barbara Liskov,Atul Adya,Miguel Castro,Mark Day,Sanjay Ghemawat,Robert Gruber,Umesh Maheshwari,Andrew C. Myers,Liuba Shrira|162|23|3|21
+31|An Open Storage System for Abstract Objects.|Stephen Blott,Lukas Relly,Hans-Jörg Schek|n/a
+32|Static Detection of Security Flaws in Object-Oriented Databases.|Keishi Tajima|17|5|1|0
+33|Goal-Oriented Buffer Management Revisited.|Kurt P. Brown,Michael J. Carey,Miron Livny|90|18|1|1
+34|Multi-dimensional Resource Scheduling for Parallel Queries.|Minos N. Garofalakis,Yannis E. Ioannidis|81|29|0|3
+35|Semi-automatic, Self-adaptive Control of Garbage Collection Rates in Object Databases.|Jonathan E. Cook,Artur Klauser,Alexander L. Wolf,Benjamin G. Zorn|21|3|0|4
+36|Towards Effective and Efficient Free Space Management.|Mark L. McAuliffe,Michael J. Carey,Marvin H. Solomon|33|5|8|1
+37|Rule Languages and Internal Algebras for Rule-Based Optimizers.|Mitch Cherniack,Stanley B. Zdonik|58|3|1|7
+38|Evaluating Queries with Generalized Path Expressions.|Vassilis Christophides,Sophie Cluet,Guido Moerkotte|135|5|0|16
+39|Query Execution Techniques for Caching Expensive Methods.|Joseph M. Hellerstein,Jeffrey F. Naughton|114|24|0|11
+40|Cost-Based Optimization for Magic: Algebra and Implementation.|Praveen Seshadri,Joseph M. Hellerstein,Hamid Pirahesh,T. Y. Cliff Leung,Raghu Ramakrishnan,Divesh Srivastava,Peter J. Stuckey,S. Sudarshan|82|28|17|7
+41|Materialized View Maintenance and Integrity Constraint Checking: Trading Space for Time.|Kenneth A. Ross,Divesh Srivastava,S. Sudarshan|254|65|28|7
+42|Maintaining Database Consistency in Presence of Value Dependencies in Multidatabase Systems.|Claire Morpain,Michèle Cart,Jean Ferrié,Jean-François Pons|4|0|0|0
+43|Algorithms for Deferred View Maintenance.|Latha S. Colby,Timothy Griffin,Leonid Libkin,Inderpal Singh Mumick,Howard Trickey|268|51|8|5
+44|A Framework for Supporting Data Integration Using the Materialized and Virtual Approaches.|Richard Hull,Gang Zhou|290|37|0|5
+45|Change Detection in Hierarchically Structured Information.|Sudarshan S. Chawathe,Anand Rajaraman,Hector Garcia-Molina,Jennifer Widom|600|201|12|13
+46|A Query Language and Optimization Techniques for Unstructured Data.|Peter Buneman,Susan B. Davidson,Gerd G. Hillebrand,Dan Suciu|833|83|2|49
+47|Is GUI Programming a Database Research Problem?|Nita Goyal,Charles Hoch,Ravi Krishnamurthy,Brian Meckler,Michael Suckow|21|3|0|2
+48|Accessing Relational Databases from the World Wide Web.|Tam Nguyen,V. Srinivasan|98|6|5|1
+49|The Ins and Outs (and Everthing in Between) of Data Warehousing.|Phillip M. Fernandez,Donovan A. Schneider|n/a
+50|Repository System Engineering.|Philip A. Bernstein|n/a
+51|Databases and Visualization.|Daniel A. Keim|31|7|0|2
+52|State of the Art in Workflow Management Research and Products.|C. Mohan|62|9|0|1
+53|Data Mining Techniques.|Jiawei Han|343|246|1|2
+54|Thinksheet: A Tool for Tailoring Complex Documents.|Peter Piatko,Roman Yangarber,Dao-I Lin,Dennis Shasha|9|1|0|1
+55|HyperStorM - Administering Structured Documents Using Object-Oriented Database Technology.|Klemens Böhm,Karl Aberer|19|0|0|0
+56|DBSim: A Simulation Tool for Predicting Database Performance.|Mike Lefler,Mark Stokrp,Craig Wong|3|1|0|0
+57|LORE: A Lightweight Object REpository for Semistructured Data.|Dallan Quass,Jennifer Widom,Roy Goldman,Kevin Haas,Qingshan Luo,Jason McHugh,Svetlozar Nestorov,Anand Rajaraman,Hugo Rivero,Serge Abiteboul,Jeffrey D. Ullman,Janet L. Wiener|67|6|1|0
+58|DBMiner: Interactive Mining of Multiple-Level Knowledge in Relational Databases.|Jiawei Han,Yongjian Fu,Wei Wang,Jenny Chiang,Osmar R. Zaïane,Krzysztof Koperski|19|5|0|0
+59|Prospector: A Content-Based Multimedia Server for Massively Parallel Architectures.|S. Choo,William O'Connell,G. Linderman,H. Chen,K. Ganapathi,Alexandros Biliris,Euthimios Panagos,David Schrader|0|0|0|0
+60|METU Interoperable Database System.|Asuman Dogac,Ugur Halici,Ebru Kilic,Gökhan Özhan,Fatma Ozcan,Sena Nural,Cevdet Dengi,Sema Mancuhan,Ismailcem Budak Arpinar,Pinar Koksal,Cem Evrendilek|54|1|0|7
+61|SONAR: System for Optimized Numeric AssociationRules.|Takeshi Fukuda,Yasuhiko Morimoto,Shinichi Morishita,Takeshi Tokuyama|16|1|0|8
+62|CapBasED-AMS: A Capability-based and Event-driven Activity Management System.|Patrick C. K. Hung,Helen P. Yeung,Kamalakar Karlapalem|18|3|0|13
+63|The MultiView Project: Object-Oriented View Technology and Applications.|Elke A. Rundensteiner,Harumi A. Kuno,Young-Gook Ra,Viviane Crestana-Taube,Matthew C. Jones,Pedro José Marrón|22|0|0|11
+64|BeSS: Storage Support for Interactive Visualization Systems.|Alexandros Biliris,Thomas A. Funkhouser,William O'Connell,Euthimios Panagos|1|0|0|0
+65|The Garlic Project.|Mary Tork Roth,Manish Arya,Laura M. Haas,Michael J. Carey,William F. Cody,Ronald Fagin,Peter M. Schwarz,Joachim Thomas II,Edward L. Wimmers|156|66|41|1

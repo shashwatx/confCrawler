@@ -1,0 +1,88 @@
+87
+1|Proceedings on 33rd Annual ACM Symposium on Theory of Computing, July 6-8, 2001, Heraklion, Crete, Greece.|Jeffrey Scott Vitter,Paul G. Spirakis,Mihalis Yannakakis|n/a
+2|Clustering to minimize the sum of cluster diameters.|Moses Charikar,Rina Panigrahy|81|33|0|2
+3|Approximating min-sum k-clustering in metric spaces.|Yair Bartal,Moses Charikar,Danny Raz|113|39|0|9
+4|Local search heuristic for k-median and facility location problems.|Vijay Arya,Naveen Garg,Rohit Khandekar,Adam Meyerson,Kamesh Munagala,Vinayaka Pandit|618|315|1|17
+5|Profit-earning facility location.|Adam Meyerson|20|11|2|1
+6|One-dimensional quantum walks.|Andris Ambainis,Eric Bach,Ashwin Nayak,Ashvin Vishwanath,John Watrous|356|200|0|10
+7|Quantum walks on graphs.|Dorit Aharonov,Andris Ambainis,Julia Kempe,Umesh V. Vazirani|377|176|0|7
+8|Quantum algorithms for solvable groups.|John Watrous|84|27|0|2
+9|Quantum mechanical algorithms for the nonabelian hidden subgroup problem.|Michelangelo Grigni,Leonard J. Schulman,Monica Vazirani,Umesh V. Vazirani|136|32|0|7
+10|Minimax parametric optimization problems and multi-dimensional parametric searching.|Takeshi Tokuyama|16|0|0|6
+11|Algorithms for minimizing weighted flow time.|Chandra Chekuri,Sanjeev Khanna,An Zhu|84|23|0|2
+12|Non-clairvoyant scheduling to minimize the average flow time on single and parallel machines.|Luca Becchetti,Stefano Leonardi|26|5|0|7
+13|Stackelberg scheduling strategies.|Tim Roughgarden|285|136|0|10
+14|Quantum computers that can be simulated classically in polynomial time.|Leslie G. Valiant|42|23|0|1
+15|Interaction in quantum communication and the complexity of set disjointness.|Hartmut Klauck,Ashwin Nayak,Amnon Ta-Shma,David Zuckerman|63|15|0|15
+16|A new protocol and lower bounds for quantum coin flipping.|Andris Ambainis|114|42|0|3
+17|Loss-less condensers, unbalanced expanders, and extractors.|Amnon Ta-Shma,Christopher Umans,David Zuckerman|123|31|0|23
+18|Conditions on input vectors for consensus solvability in asynchronous distributed systems.|Achour Mostéfaoui,Sergio Rajsbaum,Michel Raynal|116|31|0|58
+19|Spatial gossip and resource location protocols.|David Kempe,Jon M. Kleinberg,Alan J. Demers|321|123|1|9
+20|(1+epsilon, beta)-spanner constructions for general graphs.|Michael Elkin,David Peleg|n/a
+21|Approximate distance oracles.|Mikkel Thorup,Uri Zwick|540|302|2|24
+22|Extractor codes.|Amnon Ta-Shma,David Zuckerman|80|22|0|6
+23|Excellent codes from modular curves.|Noam D. Elkies|27|8|0|1
+24|Sparse polynomial approximation in finite fields.|Igor Shparlinski|35|9|0|15
+25|Randomness efficient identity testing of multivariate polynomials.|Adam Klivans,Daniel A. Spielman|122|76|0|4
+26|Fully-dynamic min-cut.|Mikkel Thorup|25|11|1|3
+27|Computing crossing numbers in quadratic time.|Martin Grohe|86|39|0|0
+28|Euler paths in series parallel graphs.|S. Rao Kosaraju|1|1|0|0
+29|Decidability of string graphs.|Marcus Schaefer,Daniel Stefankovic|70|31|0|10
+30|Learning mixtures of arbitrary gaussians.|Sanjeev Arora,Ravi Kannan|167|80|0|11
+31|Learning DNF in time 2Õ(n1/3).|Adam Klivans,Rocco A. Servedio|n/a
+32|Sampling algorithms: lower bounds and applications.|Ziv Bar-Yossef,Ravi Kumar,D. Sivakumar|94|42|0|5
+33|Testing metric properties.|Michal Parnas,Dana Ron|29|8|0|5
+34|Testing of matrix properties.|Eldar Fischer,Ilan Newman|38|2|0|12
+35|Smoothed analysis of algorithms: why the simplex algorithm usually takes polynomial time.|Daniel A. Spielman,Shang-Hua Teng|435|281|1|20
+36|One line and n points.|Bernd Gärtner,József Solymosi,Falk Tschirschnitz,Emo Welzl,Pavel Valtr|n/a
+37|A tight bound for the complexity of voroni diagrams under polyhedral convex distance functions in 3D.|Christian Icking,Lihong Ma|10|3|0|0
+38|Lower bounds for intersection searching and fractional cascading in higher dimension.|Bernard Chazelle,Ding Liu|15|11|0|1
+39|Sharp threshold and scaling window for the integer partitioning problem.|Christian Borgs,Jennifer T. Chayes,Boris Pittel|14|3|0|2
+40|A sharp threshold in proof complexity.|Dimitris Achlioptas,Paul Beame,Michael S. O. Molloy|72|7|0|13
+41|Regular resolution lower bounds for the weak pigeonhole principle.|Toniann Pitassi,Ran Raz|26|2|0|5
+42|The complexity of analytic tableaux.|Noriko H. Arai,Toniann Pitassi,Alasdair Urquhart|10|2|0|0
+43|Applications of approximation algorithms to cooperative games.|Kamal Jain,Vijay V. Vazirani|210|53|0|8
+44|Approximation algorithms for constrained for constrained node weighted steiner tree problems.|Anna Moss,Yuval Rabani|28|9|0|2
+45|A constant factor approximation for the single sink edge installation problems.|Sudipto Guha,Adam Meyerson,Kamesh Munagala|96|34|0|5
+46|Provisioning a virtual private network: a network design problem for multicommodity flow.|Anupam Gupta,Jon M. Kleinberg,Amit Kumar,Rajeev Rastogi,Bülent Yener|283|159|5|15
+47|Explicit lower bound of 4.5n - o(n) for boolena circuits.|Oded Lachish,Ran Raz|42|24|0|0
+48|Lower bounds for matrix product, in bounded depth circuits with arbitrary gates.|Ran Raz,Amir Shpilka|37|14|0|7
+49|A read-once branching program lower bound of Omega(2n/4) for integer multiplication using universal.|Beate Bollig,Philipp Woelfel|26|5|0|14
+50|On the cell probe complexity of membership and perfect hashing.|Rasmus Pagh|45|21|0|8
+51|On the integrality ratio of semidefinite relaxations of MAX CUT.|Uriel Feige,Gideon Schechtman|17|7|0|1
+52|Approximation algorithms for MAX-3-CUT and other problems via complex semidefinite programming.|Michel X. Goemans,David P. Williamson|106|58|0|1
+53|Non-approximability results for optimization problems on bounded degree instances.|Luca Trevisan|168|79|0|4
+54|Colouring graphs when the number of colours is nearly the maximum degree.|Michael Molloy,Bruce A. Reed|34|18|0|6
+55|Data-streams and histograms.|Sudipto Guha,Nick Koudas,Kyuseok Shim|317|68|2|17
+56|Optimal static range reporting in one dimension.|Stephen Alstrup,Gerth Stølting Brodal,Theis Rauhe|46|28|0|0
+57|Biased dictionaries with fast insert/deletes.|Funda Ergün,Süleyman Cenk Sahinalp,Jonathan Sharp,Rakesh K. Sinha|15|4|0|1
+58|Anti-presistence: history independent data structures.|Moni Naor,Vanessa Teague|65|33|2|5
+59|Dynamic TCP acknowledgement and other stories about e/(e-1).|Anna R. Karlin,Claire Kenyon,Dana Randall|115|45|0|1
+60|The price of selfish routing.|Marios Mavronicolas,Paul G. Spirakis|222|29|0|38
+61|Buffer overflow management in QoS switches.|Alexander Kesselman,Zvi Lotker,Yishay Mansour,Boaz Patt-Shamir,Baruch Schieber,Maxim Sviridenko|201|78|2|31
+62|Almost optimal permutation routing on hypercubes.|Berthold Vöcking|15|7|0|0
+63|Online server allocation in a server farm via benefit task systems.|T. S. Jayram,Tracy Kimbrel,Robert Krauthgamer,Baruch Schieber,Maxim Sviridenko|14|6|0|2
+64|Private approximation of NP-hard functions.|Shai Halevi,Robert Krauthgamer,Eyal Kushilevitz,Kobbi Nissim|35|11|0|0
+65|Concurrent and resettable zero-knowledge in poly-loalgorithm rounds.|Joe Kilian,Erez Petrank|137|57|0|8
+66|Black-box concurrent zero-knowledge requires Omega~(log n) rounds.|Ran Canetti,Joe Kilian,Erez Petrank,Alon Rosen|n/a
+67|The round complexity of verifiable secret sharing and secure multicast.|Rosario Gennaro,Yuval Ishai,Eyal Kushilevitz,Tal Rabin|95|42|0|11
+68|Communication preserving protocols for secure function evaluation.|Moni Naor,Kobbi Nissim|150|58|8|6
+69|Some perspective on computational complexity (abstract).|Andrew Chi-Chih Yao|n/a
+70|A sieve algorithm for the shortest lattice vector problem.|Miklós Ajtai,Ravi Kumar,D. Sivakumar|354|185|0|7
+71|Fast computation of low rank matrix.|Dimitris Achlioptas,Frank McSherry|n/a
+72|Spectral analysis of data.|Yossi Azar,Amos Fiat,Anna R. Karlin,Frank McSherry,Jared Saia|281|84|2|12
+73|Optimal outlier removal in high-dimensional.|John Dunagan,Santosh Vempala|30|11|4|0
+74|Estimating true evolutionary distances between genomes.|Li-San Wang,Tandy Warnow|62|21|0|12
+75|On optimal slicing of parallel programs.|Markus Müller-Olm,Helmut Seidl|48|14|0|5
+76|When is the evaluation of conjunctive queries tractable?|Martin Grohe,Thomas Schwentick,Luc Segoufin|102|43|0|3
+77|The complexity of maximal constraint languages.|Andrei A. Bulatov,Andrei A. Krokhin,Peter Jeavons|92|21|0|19
+78|Quantitative solution of omega-regular games.|Luca de Alfaro,Rupak Majumdar|120|47|0|22
+79|Distribution functions of probabilistic automata.|Farrokh Vatan|4|1|0|0
+80|Compatible sequences and a slow Winkler percolation.|Péter Gács|19|9|0|0
+81|Edge isoperimetry and rapid mixing on matroids and geometric Markov chains.|Ravi Montenegro,Jung-Bae Son|14|2|0|5
+82|A polynomial-time approximation algorithm for the permanent of a matrix with non-negative entries.|Mark Jerrum,Alistair Sinclair,Eric Vigoda|544|279|0|21
+83|Computing with continuous-time Liapunov systems.|Jirí Síma,Pekka Orponen|n/a
+84|Complex tilings.|Bruno Durand,Leonid A. Levin,Alexander Shen|52|32|0|17
+85|Running time and program size for self-assembled squares.|Leonard M. Adleman,Qi Cheng,Ashish Goel,Ming-Deh A. Huang|204|102|0|11
+86|Algorithms, games, and the internet.|Christos H. Papadimitriou|1152|381|0|15
+87|Automata, circuits and hybrids: facets of continuous time.|Boris A. Trakhtenbrot|9|3|0|3

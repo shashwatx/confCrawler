@@ -1,0 +1,82 @@
+81
+1|Implicit O(1) Probe Search.|Amos Fiat,Moni Naor|38|7|0|1
+2|Maintaining the 3-Edge-Connected Components of a Graph On-Line.|Zvi Galil,Giuseppe F. Italiano|51|10|0|9
+3|On the Boundedness of Constant-Time-Maintainable Database Schemes.|Héctor J. Hernández,Ke Wang|6|0|0|5
+4|Tight Worst-Case Performance Bounds for Next-k-Fit Bin Packing.|Weizhen Mao|24|5|0|1
+5|A Note on the Complexity of a Simple Transportation Problem.|Greg N. Frederickson|35|2|0|2
+6|A Lower Bound on the Size of Shellsort Sorting Networks.|Robert Cypher|18|7|0|1
+7|A Note on Poset Geometries.|Joel Friedman|6|0|0|0
+8|An O(n) Algorithm for Determining the Subregion-Tree Representation of a Rectangular Dissection.|Sukhamay Kundu|2|0|0|0
+9|Tally Versions of the Savitch and Immerman-Szelepcsenyi Theorems for Sublogarithmic Space.|Viliam Geffert|33|5|0|11
+10|NV-Sequentiality: A Decidable Condition for Call-by-Need Computations in Term-Rewriting Systems.|Michio Oyamaguchi|45|1|0|0
+11|ASPACE(o(log log n)) is Regular.|Kazuo Iwama|44|9|0|2
+12|The Complexity of Malign Measures.|Peter Bro Miltersen|27|0|0|0
+13|Scan-First Search and Sparse Certificates: An Improved Parallel Algorithms for k-Vertex Connectivity.|Joseph Cheriyan,Ming-Yang Kao,Ramakrishna Thurimella|59|8|0|10
+14|Decomposing Finite-Valued Transducers and Deciding Their Equivalence.|Andreas Weber|34|17|0|3
+15|One More Occurrence of Variables Makes Satisfiability Jump From Trivial to NP-Complete.|Jan Kratochvíl,Petr Savický,Zsolt Tuza|74|31|0|2
+16|Rounds in Communication Complexity Revisited.|Noam Nisan,Avi Wigderson|142|46|0|3
+17|Recursive Star-Tree Parallel Data Structure.|Omer Berkman,Uzi Vishkin|163|54|0|10
+18|Approximate Boyer-Moore String Matching.|Jorma Tarhio,Esko Ukkonen|97|21|1|10
+19|Two Probabilistic Results on Merging.|Wenceslas Fernandez de la Vega,Sampath Kannan,Miklos Santha|9|1|0|1
+20|Optimal Randomized Algorithms for Local Sorting and Set-Maxima.|Wayne Goddard,Claire Kenyon,Valerie King,Leonard J. Schulman|35|3|0|2
+21|A Monte-Carlo Algorithm for Estimating the Permanent.|Narendra Karmarkar,Richard M. Karp,Richard J. Lipton,László Lovász,Michael Luby|102|25|0|1
+22|Limiting Negations in Constant Depth Circuits.|Miklos Santha,Christopher B. Wilson|29|8|0|0
+23|Average Time Analysis of Clause Order Backtracking.|Khaled M. Bugrara,Paul Walton Purdom Jr.|9|1|0|2
+24|Factoring Rational Polynomials Over the Complex Numbers.|Chandrajit L. Bajaj,John F. Canny,Thomas Garrity,Joe D. Warren|31|9|0|0
+25|Optimal Stochastic Allocation of Machines Under Waiting-Time Constraints.|Edward G. Coffman Jr.,Leopold Flatto,Paul E. Wright|9|2|0|1
+26|An On-Line Scheduling Heuristic With Better Worst Case Ratio Than Graham's List Scheduling.|Gábor Galambos,Gerhard J. Woeginger|117|25|0|9
+27|Theoretical Aspects of VLSI Pin Limitations.|Robert Cypher|45|2|0|5
+28|Gap Theorems for Distributed Computation.|Shlomo Moran,Manfred K. Warmuth|25|5|0|5
+29|On Languages With Very High Space-Bounded Kolmogorov Complexity.|Ronald V. Book,Jack H. Lutz|11|1|0|2
+30|Coin-Flipping Games Immune Against Linear-Sized Coalitions.|Noga Alon,Moni Naor|50|12|0|3
+31|On the Zone Theorem for Hyperplane Arrangements.|Herbert Edelsbrunner,Raimund Seidel,Micha Sharir|90|15|0|16
+32|Linear-Processor NC Algorithms for Planar Directed Graphs I: Strongly Connected Components.|Ming-Yang Kao|19|4|0|4
+33|Linear-Processor NC Algorithms for Planar Directed Graphs II: Directed Spanning Trees.|Ming-Yang Kao,Gregory E. Shannon|9|1|0|4
+34|Blocking Small Cuts in a Network, and Related Problems.|Daniel Bienstock,Nicole Diaz|6|1|0|1
+35|Floor-Planning by Graph Dualization: 2-Concave Rectilinear Modules.|Kok-Hoo Yeap,Majid Sarrafzadeh|64|31|0|5
+36|A Quadratic Time Algorithm for the Minimax Length Triangulation.|Herbert Edelsbrunner,Tiow Seng Tan|80|11|12|5
+37|Inverting Polynomials and Formal Power Series.|K. Kalorkoti|7|1|0|1
+38|Nondeterminism Within P.|Jonathan F. Buss,Judy Goldsmith|222|79|0|9
+39|Parallel Complexity of the Connected Subgraph Problem.|Lefteris M. Kirousis,Maria J. Serna,Paul G. Spirakis|15|6|0|2
+40|Finding Triconnected Components by Local Replacement.|Donald S. Fussell,Vijaya Ramachandran,Ramakrishna Thurimella|40|10|0|6
+41|Improved Parallel Polynomial Division.|Dario Bini,Victor Y. Pan|17|4|0|6
+42|The Complexity of Processing Hierarchical Specifications.|Daniel J. Rosenkrantz,Harry B. Hunt III|12|1|0|2
+43|A Stochastic Checkpoint Optimization Problem.|Edward G. Coffman Jr.,Leopold Flatto,Paul E. Wright|15|0|0|0
+44|Regular Resolution Versus Unrestricted Resolution.|Andreas Goerdt|41|7|0|3
+45|Local Randomness in Polynomial Random Number and Random Function Generators.|Harald Niederreiter,Claus-Peter Schnorr|14|1|0|2
+46|Applying Coding Theory to Sparse Interpolation.|A. Dür,Johannes Grabmeier|14|2|0|0
+47|Exact Identification of Read-Once Formulas Using Fixed Points of Amplification Functions.|Sally A. Goldman,Michael J. Kearns,Robert E. Schapire|49|6|0|2
+48|Asynchronous Fault-Tolerant Total Ordering Algorithms.|Louise E. Moser,P. M. Melliar-Smith,Vivek Agrawala|47|3|0|9
+49|A Fibonacci Version of Kraft's Inequality Applied to Discrete Unimodal Search.|Arthur S. Goldstein,Edward M. Reingold|17|3|0|3
+50|Counting Circular Arc Intersections.|Pankaj K. Agarwal,Marco Pellegrini,Micha Sharir|22|3|0|4
+51|Ray Shooting and Parametric Search.|Pankaj K. Agarwal,Jirí Matousek|247|41|0|35
+52|Learning in the Presence of Malicious Errors.|Michael J. Kearns,Ming Li|377|111|2|10
+53|Small-Bias Probability Spaces: Efficient Constructions and Applications.|Joseph Naor,Moni Naor|660|219|0|20
+54|Deciding Properties of Nonregular Programs.|David Harel,Danny Raz|32|6|0|7
+55|Multiple Communication in Multihop Radio Networks.|Reuven Bar-Yehuda,Amos Israeli,Alon Itai|113|35|0|1
+56|Finding a Smallest Augmentation to Biconnect a Graph.|Tsan-sheng Hsu,Vijaya Ramachandran|79|17|0|2
+57|Different Modes of Communication.|Bernd Halstenberg,Rüdiger Reischuk|16|2|0|0
+58|Suffix Arrays: A New Method for On-Line String Searches.|Udi Manber,Eugene W. Myers|2122|872|10|3
+59|Randomizing Reductions of Search Problems.|Andreas Blass,Yuri Gurevich|26|3|0|2
+60|An Optimal Algorithm for the Maximum Three-Chain Problem.|Ruey-Der Lou,Majid Sarrafzadeh|12|7|0|0
+61|Random-Self-Reducibility of Complete Sets.|Joan Feigenbaum,Lance Fortnow|152|48|0|14
+62|Learning Binary Relations and Total Orders.|Sally A. Goldman,Ronald L. Rivest,Robert E. Schapire|90|26|0|7
+63|Drawing Graphs in the Plane with High Resolution.|Michael Formann,Torben Hagerup,James Haralambides,Michael Kaufmann,Frank Thomson Leighton,Antonios Symvonis,Emo Welzl,Gerhard J. Woeginger|95|29|0|0
+64|Probabilistic Analysis of Disjoint Set Union Algorithms.|Béla Bollobás,István Simon|9|2|0|0
+65|A Pseudorandom Oracle Characterization of BPP.|Jack H. Lutz|17|0|0|6
+66|Polynomial-Time Approximation Algorithms for the Ising Model.|Mark Jerrum,Alistair Sinclair|362|166|0|26
+67|Minimal NFA Problems are Hard.|Tao Jiang,Bala Ravikumar|197|74|0|4
+68|An O(m log n)-Time Algorithm for the Maximal Planar Subgraph Problem.|Jiazhen Cai,Xiaofeng Han,Robert Endre Tarjan|76|5|0|0
+69|On the Existence of Pseudorandom Generators.|Oded Goldreich,Hugo Krawczyk,Michael Luby|104|44|0|16
+70|A Generalized Suffix Tree and its (Un)expected Asymptotic Behaviors.|Wojciech Szpankowski|100|16|0|44
+71|Finding the Hidden Path: Time Bounds for All-Pairs Shortest Paths.|David R. Karger,Daphne Koller,Steven J. Phillips|141|46|1|0
+72|On Finding the Rectangular Duals of Planar Triangular Graphs.|Xin He|74|27|0|12
+73|Fast and Efficient Parallel Solution of Sparse Linear Systems.|Victor Y. Pan,John H. Reif|67|24|2|4
+74|On-Line Bin Packing of Items of Random Sizes, II.|Wansoo T. Rhee,Michel Talagrand|9|1|0|0
+75|On the Computational Complexity of Small Descriptions.|Ricard Gavaldà,Osamu Watanabe|28|0|0|6
+76|VC Dimension and Uniform Learnability of Sparse Polynomials and Rational Functions.|Marek Karpinski,Thorsten Werther|35|4|0|12
+77|Computing a Face in an Arrangement of Line Segments and Related Problems.|Bernard Chazelle,Herbert Edelsbrunner,Leonidas J. Guibas,Micha Sharir,Jack Snoeyink|56|2|0|2
+78|A Better Heuristic for Preemptive Parallel Machine Scheduling with Batch Setup Times.|Bo Chen|39|11|0|3
+79|A New Method for Computing Page-Fault Rates.|Jiang-Hsing Chu,Gary D. Knott|4|0|0|0
+80|Learning Decision Trees Using the Fourier Spectrum.|Eyal Kushilevitz,Yishay Mansour|397|130|0|20
+81|Correction: Parallel Merge Sort.|Richard Cole|n/a

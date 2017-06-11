@@ -1,0 +1,81 @@
+80
+1|54th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2013, 26-29 October, 2013, Berkeley, CA, USA.|n/a
+2|An Improved Competitive Algorithm for Reordering Buffer Management.|Noa Avigdor-Elgrabli,Yuval Rabani|22|21|0|2
+3|On Randomized Memoryless Algorithms for the Weighted K-Server Problem.|Ashish Chiplunkar,Sundar Vishwanathan|1|1|0|0
+4|Approximating Bin Packing within O(log OPT * Log Log OPT) Bins.|Thomas Rothvoß|31|29|0|0
+5|Approximating Minimum-Cost k-Node Connected Subgraphs via Independence-Free Graphs.|Joseph Cheriyan,László A. Végh|11|11|0|1
+6|Candidate Indistinguishability Obfuscation and Functional Encryption for all Circuits.|Sanjam Garg,Craig Gentry,Shai Halevi,Mariana Raykova,Amit Sahai,Brent Waters|375|318|1|27
+7|Constant-Round Concurrent Zero Knowledge from P-Certificates.|Kai-Min Chung,Huijia Lin,Rafael Pass|15|14|0|4
+8|Simultaneous Resettability from One-Way Functions.|Kai-Min Chung,Rafail Ostrovsky,Rafael Pass,Ivan Visconti|8|8|0|2
+9|From Unprovability to Environmentally Friendly Protocols.|Ran Canetti,Huijia Lin,Rafael Pass|1|1|0|1
+10|How to Approximate a Set without Knowing Its Size in Advance.|Rasmus Pagh,Gil Segev,Udi Wieder|6|5|0|1
+11|Simple Tabulation, Fast Expanders, Double Tabulation, and High Independence.|Mikkel Thorup|15|15|0|6
+12|Extractors for a Constant Number of Independent Sources with Polylogarithmic Min-Entropy.|Xin Li|11|11|0|5
+13|A Polynomial Time Algorithm for Lossy Population Recovery.|Ankur Moitra,Michael E. Saks|11|9|0|3
+14|OSNAP: Faster Numerical Linear Algebra Algorithms via Sparser Subspace Embeddings.|Jelani Nelson,Huy L. Nguyen|76|67|0|9
+15|Iterative Row Sampling.|Mu Li,Gary L. Miller,Richard Peng|23|23|0|5
+16|Algebraic Algorithms for B-Matching, Shortest Undirected Paths, and F-Factors.|Harold N. Gabow,Piotr Sankowski|8|8|0|0
+17|Efficient Accelerated Coordinate Descent Methods and Faster Algorithms for Solving Linear Systems.|Yin Tat Lee,Aaron Sidford|54|52|0|7
+18|Faster Canonical Forms for Strongly Regular Graphs.|László Babai,Xi Chen,Xiaorui Sun,Shang-Hua Teng,John Wilmes|11|10|0|6
+19|Approximation Algorithms for Euler Genus and Related Problems.|Chandra Chekuri,Anastasios Sidiropoulos|10|10|0|3
+20|Non-positive Curvature and the Planar Embedding Conjecture.|Anastasios Sidiropoulos|2|2|0|0
+21|All-or-Nothing Multicommodity Flow Problem with Bounded Fractionality in Planar Graphs.|Ken-ichi Kawarabayashi,Yusuke Kobayashi|2|1|0|1
+22|The Planar Directed K-Vertex-Disjoint Paths Problem Is Fixed-Parameter Tractable.|Marek Cygan,Dániel Marx,Marcin Pilipczuk,Michal Pilipczuk|19|19|0|2
+23|Bandits with Knapsacks.|Ashwinkumar Badanidiyuru,Robert Kleinberg,Aleksandrs Slivkins|44|44|0|6
+24|Learning Sums of Independent Integer Random Variables.|Constantinos Daskalakis,Ilias Diakonikolas,Ryan O'Donnell,Rocco A. Servedio,Li-Yang Tan|17|15|0|12
+25|Optimal Bounds on Approximation of Submodular and XOS Functions by Juntas.|Vitaly Feldman,Jan Vondrák|19|18|0|6
+26|Estimating the Distance from Testable Affine-Invariant Properties.|Hamed Hatami,Shachar Lovett|10|10|0|2
+27|Quasipolynomial-Time Identity Testing of Non-commutative and Read-Once Oblivious Algebraic Branching Programs.|Michael A. Forbes,Amir Shpilka|31|31|0|10
+28|Navigating Central Path with Electrical Flows: From Flows to Matchings, and Back.|Aleksander Madry|54|51|0|0
+29|Nearly Maximum Flows in Nearly Linear Time.|Jonah Sherman|35|32|0|0
+30|Towards a Better Approximation for Sparsest Cut?|Sanjeev Arora,Rong Ge,Ali Kemal Sinop|4|4|0|0
+31|Layered Separators for Queue Layouts, 3D Graph Drawing and Nonrepetitive Coloring.|Vida Dujmovic,Pat Morin,David R. Wood|4|4|0|1
+32|Element Distinctness, Frequency Moments, and Sliding Windows.|Paul Beame,Raphaël Clifford,Widad Machmouchi|9|9|0|1
+33|Spatial Mixing and Approximation Algorithms for Graphs with Bounded Connective Constant.|Alistair Sinclair,Piyush Srivastava,Yitong Yin|15|15|0|7
+34|Polar Codes: Speed of Polarization and Polynomial Gap to Capacity.|Venkatesan Guruswami,Patrick Xia|26|24|0|1
+35|Constant Rate PCPs for Circuit-SAT with Sublinear Query Complexity.|Eli Ben-Sasson,Yohay Kaplan,Swastik Kopparty,Or Meir,Henning Stichtenoth|5|4|0|1
+36|Strong LTCs with Inverse Poly-Log Rate and Constant Soundness.|Michael Viderman|4|4|0|0
+37|PCPs via Low-Degree Long Code and Hardness for Constrained Hypergraph Coloring.|Irit Dinur,Venkatesan Guruswami|14|14|0|5
+38|Approximate Constraint Satisfaction Requires Large LP Relaxations.|Siu On Chan,James R. Lee,Prasad Raghavendra,David Steurer|36|34|0|3
+39|The Complexity of Approximating Vertex Expansion.|Anand Louis,Prasad Raghavendra,Santosh Vempala|11|10|0|4
+40|Independent Set, Induced Matching, and Pricing: Connections and Tight (Subexponential Time) Approximation Hardnesses.|Parinya Chalermsook,Bundit Laekhanukit,Danupon Nanongkai|25|25|0|5
+41|Chasing the K-Colorability Threshold.|Amin Coja-Oghlan,Dan Vilenchik|34|27|0|9
+42|On Clustering Induced Voronoi Diagrams.|Danny Z. Chen,Ziyun Huang,Yangwei Liu,Jinhui Xu|2|2|0|2
+43|Approximation Schemes for Maximum Weight Independent Set of Rectangles.|Anna Adamaszek,Andreas Wiese|32|31|0|5
+44|Klee's Measure Problem Made Easy.|Timothy M. Chan|17|16|0|2
+45|Playing Non-linear Games with Linear Oracles.|Dan Garber,Elad Hazan|9|9|0|2
+46|Local Privacy and Statistical Minimax Rates.|John C. Duchi,Michael I. Jordan,Martin J. Wainwright|59|56|0|6
+47|Coupled-Worlds Privacy: Exploiting Adversarial Uncertainty in Statistical Data Privacy.|Raef Bassily,Adam Groce,Jonathan Katz,Adam Smith|16|13|0|0
+48|Knowledge-Preserving Interactive Coding.|Kai-Min Chung,Rafael Pass,Sidharth Telang|15|14|0|1
+49|Adaptive Seeding in Social Networks.|Lior Seeman,Yaron Singer|18|18|0|4
+50|The Moser-Tardos Framework with Partial Resampling.|David G. Harris,Aravind Srinivasan|11|11|0|3
+51|A Satisfiability Algorithm for Sparse Depth Two Threshold Circuits.|Russell Impagliazzo,Ramamohan Paturi,Stefan Schneider|18|16|0|1
+52|Strong Backdoors to Bounded Treewidth SAT.|Serge Gaspers,Stefan Szeider|15|14|0|12
+53|An O(c^k n) 5-Approximation Algorithm for Treewidth.|Hans L. Bodlaender,Pål Grønås Drange,Markus S. Dregi,Fedor V. Fomin,Daniel Lokshtanov,Michal Pilipczuk|57|53|0|2
+54|Improved Approximation for 3-Dimensional Matching via Bounded Pathwidth Local Search.|Marek Cygan|18|18|0|1
+55|On Kinetic Delaunay Triangulations: A Near Quadratic Bound for Unit Speed Motions.|Natan Rubin|6|6|0|1
+56|Interlacing Families I: Bipartite Ramanujan Graphs of All Degrees.|Adam Marcus,Daniel A. Spielman,Nikhil Srivastava|88|83|0|4
+57|Dynamic Approximate All-Pairs Shortest Paths: Breaking the O(mn) Barrier and Derandomization.|Monika Henzinger,Sebastian Krinninger,Danupon Nanongkai|8|8|0|4
+58|Fully Dynamic (1+ e)-Approximate Matchings.|Manoj Gupta,Richard Peng|16|14|0|2
+59|Online Node-Weighted Steiner Forest and Extensions via Disk Paintings.|Mohammad Taghi Hajiaghayi,Vahid Liaghat,Debmalya Panigrahi|8|7|0|2
+60|An LMP O(log n)-Approximation Algorithm for Node Weighted Prize Collecting Steiner Tree.|Jochen Könemann,Sina Sadeghian Sadeghabad,Laura Sanità|11|10|0|1
+61|Arithmetic Circuits: A Chasm at Depth Three.|Ankit Gupta,Pritish Kamath,Neeraj Kayal,Ramprasad Saptharishi|52|51|0|0
+62|Improved Average-Case Lower Bounds for DeMorgan Formula Size.|Ilan Komargodski,Ran Raz,Avishay Tal|21|20|0|3
+63|Average Case Lower Bounds for Monotone Switching Networks.|Yuval Filmus,Toniann Pitassi,Robert Robere,Stephen A. Cook|8|8|0|2
+64|Explicit Subspace Designs.|Venkatesan Guruswami,Swastik Kopparty|17|17|0|8
+65|Understanding Incentives: Mechanism Design Becomes Algorithm Design.|Yang Cai,Constantinos Daskalakis,S. Matthew Weinberg|25|24|0|8
+66|The Simple Economics of Approximately Optimal Auctions.|Saeed Alaei,Hu Fu,Nima Haghpanah,Jason D. Hartline|14|11|0|4
+67|The Price of Stability for Undirected Broadcast Network Design with Fair Cost Allocation Is Constant.|Vittorio Bilò,Michele Flammini,Luca Moscardelli|16|16|0|2
+68|Rational Protocol Design: Cryptography against Incentive-Driven Adversaries.|Juan A. Garay,Jonathan Katz,Ueli Maurer,Björn Tackmann,Vassilis Zikas|22|20|0|2
+69|Fourier Sparsity, Spectral Norm, and the Log-Rank Conjecture.|Hing Yin Tsang,Chung Hoi Wong,Ning Xie,Shengyu Zhang|17|15|0|1
+70|A Tight Bound for Set Disjointness in the Message-Passing Model.|Mark Braverman,Faith Ellen,Rotem Oshman,Toniann Pitassi,Vinod Vaikuntanathan|28|27|0|2
+71|On the Communication Complexity of Sparse Set Disjointness and Exists-Equal Problems.|Mert Saglam,Gábor Tardos|17|17|0|0
+72|Common Information and Unique Disjointness.|Gábor Braun,Sebastian Pokutta|32|31|0|12
+73|A Linear Time Approximation Scheme for Euclidean TSP.|Yair Bartal,Lee-Ad Gottlieb|9|9|0|4
+74|A Forward-Backward Single-Source Shortest Paths Algorithm.|David B. Wilson,Uri Zwick|1|0|0|0
+75|Approximating Minimization Diagrams and Generalized Proximity Search.|Sariel Har-Peled,Nirman Kumar|6|6|0|3
+76|The Parity of Directed Hamiltonian Cycles.|Andreas Björklund,Thore Husfeldt|4|4|0|1
+77|Nondeterministic Direct Product Reductions and the Success Probability of SAT Solvers.|Andrew Drucker|1|1|0|0
+78|Direct Products in Communication Complexity.|Mark Braverman,Anup Rao,Omri Weinstein,Amir Yehudayoff|28|27|0|12
+79|Quantum 3-SAT Is QMA1-Complete.|David Gosset,Daniel Nagaj|n/a
+80|Three-Player Entangled XOR Games Are NP-Hard to Approximate.|Thomas Vidick|16|15|0|5

@@ -1,0 +1,60 @@
+59
+1|18th International Conference on Very Large Data Bases, August 23-27, 1992, Vancouver, Canada, Proceedings.|Li-Yan Yuan|n/a
+2|CMD: A Multidimensional Declustering Method for Parallel Data Systems.|Jianzhong Li,Jaideep Srivastava,Doron Rotem|94|13|0|8
+3|Using Segmented Right-Deep Trees for the Execution of Pipelined Hash Joins.|Ming-Syan Chen,Ming-Ling Lo,Philip S. Yu,Honesty C. Young|123|11|0|11
+4|Practical Skew Handling in Parallel Joins.|David J. DeWitt,Jeffrey F. Naughton,Donovan A. Schneider,S. Seshadri|314|104|2|13
+5|Querying in Highly Mobile Distributed Environments.|Tomasz Imielinski,B. R. Badrinath|266|16|2|21
+6|A Temporal Evolutionary Object-Oriented Data Model and Its Query Language for Medical Image Management.|Wesley W. Chu,Ion Tim Ieong,Ricky K. Taira,Claudine M. Breant|63|4|0|9
+7|Using Flexible Transactions to Support Multi-System Telecommunication Applications.|Mansoor Ansari,Linda A. Ness,Marek Rusinkiewicz,Amit P. Sheth|113|5|0|15
+8|Object-Oriented Database Systems.|Patrick Valduriez|330|17|0|0
+9|Optimizing Boolean Expressions in Object-Bases.|Alfons Kemper,Guido Moerkotte,Michael Steinbrunn|44|6|2|13
+10|Improved Unnesting Algorithms for Join Aggregate SQL Queries.|M. Muralikrishna|138|40|31|1
+11|Parametric Query Optimization.|Yannis E. Ioannidis,Raymond T. Ng,Kyuseok Shim,Timos K. Sellis|120|24|0|4
+12|SVP: A Model Capturing Sets, Lists, Streams, and Parallelism.|Douglas Stott Parker Jr.,Eric Simon,Patrick Valduriez|57|3|1|6
+13|Supporting Lists in a Data Model (A Timely Approach).|Joel E. Richardson|85|5|0|0
+14|A Multi-Resolution Relational Data Model.|Robert L. Read,Donald S. Fussell,Abraham Silberschatz|41|2|0|4
+15|Resilient Logical Structures for Efficient Management of Replicated Data.|Divyakant Agrawal,Amr El Abbadi|27|6|0|3
+16|Dynamic Data Distribution (D3) in a Shared-Nothing Multiprocessor Data Store.|Donald D. Chamberlin,Frank B. Schmuck|25|5|0|0
+17|High Throughput Escrow Algorithms for Replicated Databases.|Narayanan Krishnakumar,Arthur J. Bernstein|41|3|0|3
+18|Multiview: A Methodology for Supporting Multiple Views in Object-Oriented Databases.|Elke A. Rundensteiner|268|13|0|38
+19|Entity Modeling in the MLS Relational Model.|Kenneth P. Smith,Marianne Winslett|95|8|0|4
+20|An Extended Relational Database Model for Uncertain and Imprecise Information.|Suk Kyoon Lee|82|17|0|1
+21|Spatial Databases.|Hanan Samet|n/a
+22|Database Management in the Year 2000: Projections and Star Gazing (Panel).|Paul G. Sorenson,Felipe Cariño,Jnan R. Dash,Patricia G. Selinger|n/a
+23|A Method for Change Computation in Deductive Databases.|Toni Urpí,Antoni Olivé|71|9|0|1
+24|CORAL - Control, Relations and Logic.|Raghu Ramakrishnan,Divesh Srivastava,S. Sudarshan|241|8|0|20
+25|Updates in a Rule-Based Language for Objects.|Michael Kramer,Georg Lausen,Gunter Saake|28|4|0|14
+26|Georgraphic Information Systems, A Challenge for the 90's (Panel).|Ekow J. Otoo,Ron Lake,Wo-Shun Luk,T. H. Merrett,Hanan Samet|n/a
+27|Proclamation-Based Model for Cooperating Transactions.|H. V. Jagadish,Oded Shmueli|13|0|0|3
+28|Query Optimization in a Heterogeneous DBMS.|Weimin Du,Ravi Krishnamurthy,Ming-Chien Shan|252|36|5|4
+29|The Principle of Commitment Ordering, or Guaranteeing Serializability in a Heterogeneous Environment of Multiple Autonomous Resource Mangers Using Atomic Commitment.|Yoav Raz|71|18|1|4
+30|Database Tuning.|Dennis Shasha,Steve Rozen|n/a
+31|Implementing High Level Active Rules on Top of a Relational DBMS.|Eric Simon,Jerry Kiernan,Christophe de Maindreville|102|6|0|2
+32|Composite Event Specification in Active Databases: Model & Implementation.|Narain H. Gehani,H. V. Jagadish,Oded Shmueli|484|96|6|5
+33|Production Rules in Parallel and Distributed Database Environments.|Stefano Ceri,Jennifer Widom|66|4|0|4
+34|An Efficient Indexing Technique for Full Text Databases.|Justin Zobel,Alistair Moffat,Ron Sacks-Davis|160|35|2|23
+35|On B-Tree Indices for Skewed Distributions.|Christos Faloutsos,H. V. Jagadish|56|5|2|8
+36|Random Sampling from Pseudo-Ranked B+ Trees.|Gennady Antoshenkov|53|11|6|2
+37|Temporal Query Processing and Optimization in Multiprocessor Database Machines.|T. Y. Cliff Leung,Richard R. Muntz|40|0|0|2
+38|Incomplete Information in Relational Temporal Databases.|Shashi K. Gadia,Sunil S. Nair,Yiu-Cheong Poon|78|14|0|4
+39|A Uniform Approach to Processing Temporal Queries.|Umeshwar Dayal,Gene T. J. Wuu|39|1|0|1
+40|A Performance Study of Alternative Object Faulting and Pointer Swizzling Strategies.|Seth J. White,David J. DeWitt|113|11|1|1
+41|Performance Evaluation of an Adaptive and Robust Load Control Method for the Avoidance of Data-Contention Thrashing.|Axel Mönkeberg,Gerhard Weikum|61|17|1|8
+42|Extensible Buffer Management of Indexes.|Chee Yong Chan,Beng Chin Ooi,Hongjun Lu|41|2|0|9
+43|Software Repositories.|John Mylopoulos,Thomas Rose|n/a
+44|A Conceptual Model for Dynamic Clustering in Object Databases.|Qing Li,John L. Smith|27|0|1|18
+45|Integrity Maintenance in Object-Oriented Databases.|H. V. Jagadish,Xiaolei Qian|94|5|1|2
+46|Activity Model: A Declarative Approach for Capturing Communication Behavior in Object-Oriented Databases.|Ling Liu,Robert Meersman|39|2|0|10
+47|Database Technology for Reliable Systems: Issues, Impact, and Approaches (Panel).|Matthew Morgenstern|0|0|0|0
+48|Multiversion Query Locking.|Paul M. Bober,Michael J. Carey|n/a
+49|Principles of Transaction-Based On-Line Reorganization.|Betty Salzberg,Allyn Dimock|48|21|3|6
+50|Parallelism in a Main-Memory DBMS: The Performance of PRISMA/DB.|Annita N. Wilschut,Jan Flokstra,Peter M. G. Apers|56|4|0|6
+51|Locking and Latching in a Memory-Resident Database System.|Vibby Gottemukkala,Tobin J. Lehman|61|11|7|3
+52|Multidatabase Applications: Semantic and System Issues.|Marek Rusinkiewicz,Amit P. Sheth|3|0|0|0
+53|Knowledge Discovery in Databases: An Attribute-Oriented Approach.|Jiawei Han,Yandong Cai,Nick Cercone|544|114|2|37
+54|An Interval Classifier for Database Mining Applications.|Rakesh Agrawal,Sakti P. Ghosh,Tomasz Imielinski,Balakrishna R. Iyer,Arun N. Swami|399|70|23|20
+55|An Information-Retrieval Approach for Image Databases.|Fausto Rabitti,Pasquale Savino|41|2|0|2
+56|Experiences With an Object Manager for a Process-Centered Environment.|Dennis Heimbigner|30|3|0|4
+57|Global Memory Management in Client-Server Database Architectures.|Michael J. Franklin,Michael J. Carey,Miron Livny|214|19|0|11
+58|Performance and Scalability of Client-Server Database Architectures.|Alex Delis,Nick Roussopoulos|93|13|1|23
+59|Data Management for Real-Time Systems.|Alejandro P. Buchmann|n/a

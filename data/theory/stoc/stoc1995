@@ -1,0 +1,80 @@
+79
+1|Proceedings of the Twenty-Seventh Annual ACM Symposium on Theory of Computing, 29 May-1 June 1995, Las Vegas, Nevada, USA.|Frank Thomson Leighton,Allan Borodin|n/a
+2|Improved approximation algorithms for uniform connectivity problems.|Samir Khuller,Balaji Raghavachari|178|53|0|7
+3|A randomized fully polynomial time approximation scheme for the all terminal network reliability problem.|David R. Karger|202|83|0|10
+4|Adding multiple cost constraints to combinatorial optimization problems, with applications to multicommodity flows.|David R. Karger,Serge A. Plotkin|83|18|0|6
+5|Approximations for the disjoint paths problem in high-diameter planar networks.|Jon M. Kleinberg,Éva Tardos|95|21|0|6
+6|Secure hypergraphs: privacy from partial broadcast (Extended Abstract).|Matthew K. Franklin,Moti Yung|70|19|0|3
+7|Incremental cryptography and application to virus protection.|Mihir Bellare,Oded Goldreich,Shafi Goldwasser|130|41|6|14
+8|Provably secure session key distribution: the three party case.|Mihir Bellare,Phillip Rogaway|676|219|4|10
+9|Security of quantum protocols against coherent measurements.|Andrew Chi-Chih Yao|107|34|0|0
+10|Efficient stopping rules for Markov chains.|László Lovász,Peter Winkler|36|17|0|8
+11|A computational view of population genetics.|Yuval Rabani,Yuri Rabinovich,Alistair Sinclair|99|12|0|0
+12|Persistent lists with catenation via recursive slow-down.|Haim Kaplan,Robert Endre Tarjan|51|10|0|9
+13|On data structures and asymmetric communication complexity.|Peter Bro Miltersen,Noam Nisan,Shmuel Safra,Avi Wigderson|233|104|0|10
+14|What do we know about the Metropolis algorithm?|Persi Diaconis,Laurent Saloff-Coste|191|69|0|30
+15|A lower bound for integer multiplication with read-once branching programs.|Stephen Ponzio|80|11|0|0
+16|Symmetric logspace is closed under complement.|Noam Nisan,Amnon Ta-Shma|85|20|0|1
+17|A nearly optimal time-space lower bound for directed st-connectivity on the NNJAG model.|Jeff Edmonds,Chung Keung Poon|17|1|0|1
+18|Fast protein folding in the hydrophobic-hydrophilic model within three-eights of optimal (Extended Abstract).|William E. Hart,Sorin Istrail|182|36|0|5
+19|Large-scale assembly of DNA strings and space-efficient construction of suffix trees.|S. Rao Kosaraju,Arthur L. Delcher|19|2|0|1
+20|Transforming cabbage into turnip: polynomial algorithm for sorting signed permutations by reversals.|Sridhar Hannenhalli,Pavel A. Pevzner|901|261|1|23
+21|How many queries are needed to learn?|Lisa Hellerstein,Krishnan Pillaipakkamnatt,Vijay Raghavan,Dawn Wilkins|124|21|0|16
+22|Polynomial bounds for VC dimension of sigmoidal neural networks.|Marek Karpinski,Angus Macintyre|115|14|0|9
+23|Additive versus exponentiated gradient updates for linear prediction.|Jyrki Kivinen,Manfred K. Warmuth|249|57|0|55
+24|On the Fourier spectrum of monotone functions (Extended Abstract).|Nader H. Bshouty,Christino Tamon|109|47|0|2
+25|Stochastic contention resolution with short delays.|Prabhakar Raghavan,Eli Upfal|63|23|0|1
+26|Parallel randomized load balancing (Preliminary Version).|Micah Adler,Soumen Chakrabarti,Michael Mitzenmacher,Lars Eilstrup Rasmussen|n/a
+27|Bounding delays in packet-routing networks.|Mor Harchol-Balter,David Wolfe|51|1|0|2
+28|Many-to-one packet routing on grids (Extended Abstract).|Yishay Mansour,Boaz Patt-Shamir|n/a
+29|Improved approximations of packing and covering problems.|Aravind Srinivasan|120|25|1|11
+30|Improved approximation guarantees for minimum-weight k-trees and prize-collecting salesmen.|Baruch Awerbuch,Yossi Azar,Avrim Blum,Santosh Vempala|184|56|0|15
+31|Polynomial time approximation schemes for dense instances of NP-hard problems.|Sanjeev Arora,David R. Karger,Marek Karpinski|419|118|0|64
+32|A constant-factor approximation for the k-MST problem in the plane.|Avrim Blum,Prasad Chalasani,Santosh Vempala|46|5|0|10
+33|The relative complexity of NP search problems.|Paul Beame,Stephen A. Cook,Jeff Edmonds,Russell Impagliazzo,Toniann Pitassi|95|28|0|9
+34|Descriptive complexity theory over the real numbers.|Erich Grädel,Klaus Meer|57|10|0|20
+35|Average-case completeness of a word problem for groups.|Jie Wang|26|0|0|7
+36|On real Turing machines that toss coins.|Felipe Cucker,Marek Karpinski,Pascal Koiran,Thomas Lickteig,Kai Werther|33|2|0|14
+37|Motion planning for a steering-constrained robot through moderate obstacles.|Pankaj K. Agarwal,Prabhakar Raghavan,Hisao Tamaki|95|24|0|4
+38|Randomized query processing in robot path planning (Extended Abstract).|Lydia E. Kavraki,Jean-Claude Latombe,Rajeev Motwani,Prabhakar Raghavan|214|51|1|33
+39|Distinguishing tests for nondeterministic and probabilistic machines.|Rajeev Alur,Costas Courcoubetis,Mihalis Yannakakis|127|50|0|9
+40|What's decidable about hybrid automata?|Thomas A. Henzinger,Peter W. Kopke,Anuj Puri,Pravin Varaiya|1064|413|0|29
+41|Two Steiner tree packing problems (Extended Abstract).|William R. Pulleyblank|n/a
+42|Linear-time encodable and decodable error-correcting codes.|Daniel A. Spielman|329|107|0|10
+43|Subquadratic-time factoring of polynomials over finite fields.|Erich Kaltofen,Victor Shoup|189|59|0|16
+44|Testing multivariate linear functions: overcoming the generator bottleneck.|Funda Ergün|16|2|0|0
+45|A tight lower bound for searching a sorted array.|Arne Andersson,Johan Håstad,Ola Petersson|5|1|0|1
+46|Sorting in linear time?|Arne Andersson,Torben Hagerup,Stefan Nilsson,Rajeev Raman|227|64|5|23
+47|Lower bounds for sorting networks.|Nabil Kahale,Frank Thomson Leighton,Yuan Ma,C. Greg Plaxton,Torsten Suel,Endre Szemerédi|8|1|0|1
+48|A parallel repetition theorem.|Ran Raz|642|277|0|15
+49|Impossibility results for recycling random bits in two-prover proof systems.|Uriel Feige,Joe Kilian|39|16|0|6
+50|Knowledge on the average-perfect, statistical and logarithmic.|William Aiello,Mihir Bellare,Ramarathnam Venkatesan|17|1|0|0
+51|Explicit dispersers with polylog degree.|Michael E. Saks,Aravind Srinivasan,Shiyu Zhou|24|1|0|2
+52|Euclidean spanners: short, thin, and lanky.|Sunil Arya,Gautam Das,David M. Mount,Jeffrey S. Salowe,Michiel H. M. Smid|199|48|0|9
+53|Short length versions of Menger's theorem (Extended Abstract).|Zvi Galil,Xiangdong Yu|n/a
+54|A 2-level cactus model for the system of minimum and minimum+1 edge-cuts in a graph and its incremental maintenance.|Yefim Dinitz,Zeev Nutov|23|3|0|8
+55|Randomized dynamic graph algorithms with polylogarithmic time per operation.|Monika Rauch Henzinger,Valerie King|108|18|0|16
+56|Bubbles: adaptive routing scheme for high-speed dynamic networks (Extended Abstract).|Shlomi Dolev,Evangelos Kranakis,Danny Krizanc,David Peleg|27|0|0|17
+57|Wait-free made fast (Extended Abstract).|Yehuda Afek,Dalia Dauber,Dan Touitou|n/a
+58|Tight analyses of two local load balancing algorithms.|Bhaskar Ghosh,Frank Thomson Leighton,Bruce M. Maggs,S. Muthukrishnan,C. Greg Plaxton,Rajmohan Rajaraman,Andréa W. Richa,Robert Endre Tarjan,David Zuckerman|48|14|0|1
+59|Log-space polynomial end-to-end communication.|Eyal Kushilevitz,Rafail Ostrovsky,Adi Rosén|19|10|1|6
+60|Monotone circuits for connectivity have depth (log n)2-o(1) (Extended Abstract).|Mikael Goldmann,Johan Håstad|12|5|0|0
+61|Lower bounds for cutting planes proofs with small coefficients.|Maria Luisa Bonet,Toniann Pitassi,Ran Raz|132|32|1|18
+62|More on the complexity of negation-limited circuits.|Robert Beals,Tetsuro Nishino,Keisuke Tanaka|19|4|0|5
+63|On randomized one-round communication complexity.|Ilan Kremer,Noam Nisan,Dana Ron|95|46|0|0
+64|Bounding the power of preemption in randomized scheduling.|Ran Canetti,Sandy Irani|52|25|0|2
+65|Bandwidth allocation with preemption.|Amotz Bar-Noy,Ran Canetti,Shay Kutten,Yishay Mansour,Baruch Schieber|51|10|0|4
+66|Randomized and multipointer paging with locality of reference.|Amos Fiat,Anna R. Karlin|57|11|0|3
+67|Randomized graph products, chromatic numbers, and Lovasz theta-function.|Uriel Feige|98|16|0|9
+68|The k-Steiner ratio in graphs.|Al Borchers,Ding-Zhu Du|95|39|0|6
+69|Recognition of graphs with threshold dimension two.|Thomas Raschle,Klaus Simon|13|6|0|2
+70|Geometric lower bounds for parametric matroid optimization.|David Eppstein|37|4|0|4
+71|Computing faces in segment and simplex arrangements (Preliminary Version).|Nancy M. Amato,Michael T. Goodrich,Edgar A. Ramos|40|4|0|21
+72|A Delaunay based numerical method for three dimensions: generation, formulation, and partition.|Gary L. Miller,Dafna Talmor,Shang-Hua Teng,Noel Walkington|164|44|1|15
+73|A fully-dynamic data structure for external substring search (Extended Abstract).|Paolo Ferragina,Roberto Grossi|57|5|6|18
+74|String matching in Lempel-Ziv compressed strings.|Martin Farach,Mikkel Thorup|211|47|0|0
+75|Work-time-optimal parallel algorithms for string problems.|Artur Czumaj,Zvi Galil,Leszek Gasieniec,Kunsoo Park,Wojciech Plandowski|20|3|0|4
+76|On the complexity of bilinear forms: dedicated to the memory of Jacques Morgenstern.|Noam Nisan,Avi Wigderson|19|3|0|0
+77|Lower bounds for off-line range searching.|Bernard Chazelle|49|13|0|7
+78|Optimal (up to polylog factors) sequential and parallel algorithms for approximating complex polynomial zeros.|Victor Y. Pan|80|28|0|63
+79|Work efficient parallel solution of Toeplitz systems and polynomial GCD.|John H. Reif|6|0|0|2

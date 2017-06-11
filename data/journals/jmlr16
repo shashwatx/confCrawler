@@ -1,0 +1,72 @@
+71
+1|Statistical decision making for optimal budget allocation in crowd labeling.|Xi Chen,Qihang Lin,Dengyong Zhou|0|0|0|0
+2|Simultaneous pursuit of sparseness and rank structures for matrix decomposition.|Qi Yan,Jieping Ye,Xiaotong Shen|2|1|0|0
+3|Statistical topological data analysis using persistence landscapes.|Peter Bubenik|34|30|0|2
+4|Links between multiplicity automata, observable operator models and predictive state representations: a unified learning framework.|Michael Thon,Herbert Jaeger|4|4|0|0
+5|SAMOA: scalable advanced massive online analysis.|Gianmarco De Francisci Morales,Albert Bifet|24|20|0|6
+6|Online learning via sequential complexities.|Alexander Rakhlin,Karthik Sridharan,Ambuj Tewari|4|4|0|2
+7|Learning transformations for clustering and classification.|Qiang Qiu,Guillermo Sapiro|17|17|0|9
+8|Multi-layered gesture recognition with Kinect.|Feng Jiang,Shengping Zhang,Shen Wu,Yang Gao,Debin Zhao|5|4|0|0
+9|Multimodal gesture recognition via multiple hypotheses rescoring.|Vassilis Pitsikalis,Athanasios Katsamanis,Stavros Theodorakis,Petros Maragos|3|3|0|1
+10|An asynchronous parallel stochastic coordinate descent algorithm.|Ji Liu,Stephen J. Wright,Christopher Ré,Victor Bittorf,Srikrishna Sridhar|66|56|0|10
+11|Geometric intuition and algorithms for Ev-SVM.|Álvaro Barbero Jiménez,Akiko Takeda,Jorge López Lázaro|2|2|0|2
+12|Composite self-concordant minimization.|Quoc Tran-Dinh,Anastasios T. Kyrillidis,Volkan Cevher|22|22|0|8
+13|Network granger causality with inherent grouping structure.|Sumanta Basu,Ali Shojaie,George Michailidis|8|5|0|1
+14|Iterative and active graph clustering using trace norm minimization without cluster size constraints.|Nir Ailon,Yudong Chen,Huan Xu|0|0|0|0
+15|A classification module for genetic programming algorithms in JCLEC.|Alberto Cano,José María Luna,Amelia Zafra,Sebastián Ventura|3|2|0|1
+16|AD3: alternating directions dual decomposition for MAP inference in graphical models.|André F. T. Martins,Mário A. T. Figueiredo,Pedro M. Q. Aguiar,Noah A. Smith,Eric P. Xing|n/a
+17|Introducing CURRENNT: the munich open-source CUDA recurrent neural network toolkit.|Felix Weninger,Johannes Bergmann,Björn W. Schuller|42|40|0|9
+18|The flare package for high dimensional linear regression and precision matrix estimation in R.|Xingguo Li,Tuo Zhao,Xiaoming Yuan,Han Liu|5|4|0|4
+19|Regularized M-estimators with nonconvexity: statistical and algorithmic theory for local optima.|Po-Ling Loh,Martin J. Wainwright|71|66|0|4
+20|Generalized hierarchical kernel learning.|Pratik Jawanpuria,Jagarlapudi Saketha Nath,Ganesh Ramakrishnan|1|1|0|1
+21|Discrete restricted Boltzmann machines.|Guido Montúfar,Jason Morton|3|3|0|2
+22|Evolving GPU machine code.|Cleomar Pereira da Silva,Douglas Mota Dias,Cristiana Bentes,Marco Aurélio Cavalcanti Pacheco,Leandro Fontoura Cupertino|1|1|0|1
+23|A compression technique for analyzing disagreement-based active learning.|Yair Wiener,Steve Hanneke,Ran El-Yaniv|5|5|0|4
+24|Response-based approachability with applications to generalized no-regret problems.|Andrey Bernstein,Nahum Shimkin|1|1|0|1
+25|Strong consistency of the prototype based clustering in probabilistic space.|Vladimir Nikulin|0|0|0|0
+26|Risk bounds for the majority vote: from a PAC-Bayesian analysis to a learning algorithm.|Pascal Germain,Alexandre Lacasse,François Laviolette,Mario Marchand,Jean-Francis Roy|4|4|0|2
+27|A statistical perspective on algorithmic leveraging.|Ping Ma,Michael W. Mahoney,Bin Yu|28|23|0|6
+28|Distributed matrix completion and robust factorization.|Lester W. Mackey,Ameet Talwalkar,Michael I. Jordan|4|3|0|0
+29|Combined l1 and greedy l0 penalized least squares for linear model selection.|Piotr Pokarowski,Jan Mielniczuk|n/a
+30|Learning with the maximum correntropy criterion induced losses for regression.|Yunlong Feng,Xiaolin Huang,Lei Shi,Yuning Yang,Johan A. K. Suykens|7|6|0|4
+31|Joint estimation of multiple precision matrices with common structures.|Wonyul Lee,Yufeng Liu|1|1|0|0
+32|Lasso screening rules via dual polytope projection.|Jie Wang,Peter Wonka,Jieping Ye|37|33|0|5
+33|Fast cross-validation via sequential testing.|Tammo Krueger,Danny Panknin,Mikio L. Braun|1|1|0|1
+34|Learning the structure and parameters of large-population graphical games from behavioral data.|Jean Honorio,Luis E. Ortiz|5|4|0|1
+35|Local identification of overcomplete dictionaries.|Karin Schnass|8|8|0|2
+36|Encog: library of interchangeable machine learning models for Java and C#.|Jeff Heaton|1|1|0|0
+37|Perturbed message passing for constraint satisfaction problems.|Siamak Ravanbakhsh,Russell Greiner|4|4|0|4
+38|Learning sparse low-threshold linear classifiers.|Sivan Sabato,Shai Shalev-Shwartz,Nathan Srebro,Daniel Hsu,Tong Zhang|1|1|0|0
+39|Learning equilibria of games via payoff queries.|John Fearnley,Martin Gairing,Paul W. Goldberg,Rahul Savani|11|10|0|2
+40|Rationality, optimism and guarantees in general reinforcement learning.|Peter Sunehag,Marcus Hutter|2|2|0|2
+41|The algebraic combinatorial approach for low-rank matrix completion.|Franz J. Király,Louis Theran,Ryota Tomioka|20|20|0|9
+42|A comprehensive survey on safe reinforcement learning.|Javier García,Fernando Fernández|1|0|0|0
+43|Second-order non-stationary online learning for regression.|Edward Moroshko,Nina Vaits,Koby Crammer|2|2|0|0
+44|A finite sample analysis of the Naive Bayes classifier.|Daniel Berend,Aryeh Kontorovich|2|2|0|1
+45|Flexible high-dimensional classification machines and their asymptotic properties.|Xingye Qiao,Lingsong Zhang|3|3|0|1
+46|RLPy: a value-function-based reinforcement learning framework for education and research.|Alborz Geramifard,Christoph Dann,Robert H. Klein,William Dabney,Jonathan P. How|0|0|0|0
+47|Calibrated multivariate regression with application to neural semantic basis discovery.|Han Liu,Lie Wang,Tuo Zhao|1|1|0|1
+48|Bayesian nonparametric crowdsourcing.|Pablo G. Moreno,Antonio Artés-Rodríguez,Yee Whye Teh,Fernando Pérez-Cruz|2|1|0|0
+49|Approximate modified policy iteration and its application to the game of Tetris.|Bruno Scherrer,Mohammad Ghavamzadeh,Victor Gabillon,Boris Lesner,Matthieu Geist|2|1|0|0
+50|Preface to this special issue.|Alexander Gammerman,Vladimir Vovk|14|1|0|0
+51|V-matrix method of solving statistical inference problems.|Vladimir Vapnik,Rauf Izmailov|0|0|0|0
+52|Batch learning from logged bandit feedback through counterfactual risk minimization.|Adith Swaminathan,Thorsten Joachims|0|0|0|0
+53|Optimal estimation of low rank density matrices.|Vladimir Koltchinskii,Dong Xia|0|0|0|0
+54|Fast rates in statistical and online learning.|Tim van Erven,Peter D. Grünwald,Nishant A. Mehta,Mark D. Reid,Robert C. Williamson|0|0|0|0
+55|On the asymptotic normality of an estimate of a regression functional.|László Györfi,Harro Walk|0|0|0|0
+56|Sharp oracle bounds for monotone and convex regression through aggregation.|Pierre C. Bellec,Alexandre B. Tsybakov|2|1|0|2
+57|Exceptional rotations of random graphs: a VC theory.|Louigi Addario-Berry,Shankar Bhamidi,Sébastien Bubeck,Luc Devroye,Gábor Lugosi,Roberto Imbuzeiro Oliveira|0|0|0|0
+58|Semi-supervised interpolation in an anticausal learning scenario.|Dominik Janzing,Bernhard Schölkopf|0|0|0|0
+59|Towards an axiomatic approach to hierarchical clustering of measures.|Philipp Thomann,Ingo Steinwart,Nico Schmid|0|0|0|0
+60|Predicting a switching sequence of graph labelings.|Mark Herbster,Stephen Pasteris,Massimiliano Pontil|0|0|0|0
+61|Learning using privileged information: similarity control and knowledge transfer.|Vladimir Vapnik,Rauf Izmailov|1|1|0|1
+62|Alexey Chervonenkis's bibliography: introductory comments.|Alexander Gammerman,Vladimir Vovk|0|0|0|0
+63|Alexey Chervonenkis's bibliography.|Alexander Gammerman,Vladimir Vovk|n/a
+64|Photonic delay systems as machine learning implementations.|Michiel Hermans,Miguel C. Soriano,Joni Dambre,Peter Bienstman,Ingo Fischer|4|3|0|2
+65|On linearly constrained minimum variance beamforming.|Jian Zhang,Chao Liu|0|0|0|0
+66|Constraint-based causal discovery from multiple interventions over overlapping variable sets.|Sofia Triantafillou,Ioannis Tsamardinos|4|3|0|2
+67|Existence and uniqueness of proper scoring rules.|Evgeni Y. Ovcharov|1|1|0|1
+68|Adaptive strategy for stratified Monte Carlo sampling.|Alexandra Carpentier,Rémi Munos,András Antos|0|0|0|0
+69|Concave penalized estimation of sparse Gaussian Bayesian networks.|Bryon Aragam,Qing Zhou|3|2|0|1
+70|Agnostic insurability of model classes.|Narayana P. Santhanam,Venkat Anantharam|0|0|0|0
+71|Achievability of asymptotic minimax regret by horizon-dependent and horizon-independent strategies.|Kazuho Watanabe,Teemu Roos|0|0|0|0

@@ -1,0 +1,47 @@
+46
+1|Machine Learning, Proceedings of the Eleventh International Conference, Rutgers University, New Brunswick, NJ, USA, July 10-13, 1994.|William W. Cohen,Haym Hirsh|n/a
+2|A New Method for Predicting Protein Secondary Structures Based on Stochastic Tree Grammars.|Naoki Abe,Hiroshi Mamitsuka|15|1|0|4
+3|Learning Recursive Relations with Randomly Selected Small Training Sets.|David W. Aha,Stephane Lapointe,Charles X. Ling,Stan Matwin|26|0|0|3
+4|Improving Accuracy of Incorrect Domain Theories.|Lars Asker|n/a
+5|Greedy Attribute Selection.|Rich Caruana,Dayne Freitag|552|166|2|8
+6|Using Sampling and Queries to Extract Rules from Trained Neural Networks.|Mark Craven,Jude W. Shavlik|291|61|0|5
+7|The Generate, Test, and Explain Discovery System Architecture.|Michael de la Maza|2|0|0|0
+8|Boosting and Other Machine Learning Algorithms.|Harris Drucker,Corinna Cortes,Lawrence D. Jackel,Yann LeCun,Vladimir Vapnik|39|2|2|0
+9|In Defense of C4.5: Notes Learning One-Level Decision Trees.|Tapio Elomaa|24|6|0|1
+10|Incremental Reduced Error Pruning.|Johannes Fürnkranz,Gerhard Widmer|372|120|1|7
+11|An Incremental Learning Approach for Completable Planning.|Melinda T. Gervasio,Gerald DeJong|8|0|0|1
+12|Learning by Experimentation: Incremental Refinement of Incomplete Planning Domains.|Yolanda Gil|111|39|0|1
+13|Learning Disjunctive Concepts by Means of Genetic Algorithms.|Attilio Giordana,Lorenza Saitta,Floriano Zini|82|7|0|10
+14|Consideration of Risk in Reinformance Learning.|Matthias Heger|n/a
+15|Rule Introduction for Semantic Query Optimization.|Chun-Nan Hsu,Craig A. Knoblock|n/a
+16|Irrelevant Features and the Subset Selection Problem.|George H. John,Ron Kohavi,Karl Pfleger|n/a
+17|An Efficient Subsumption Algorithm for Inductive Logic Programming.|Jörg-Uwe Kietz,Marcus Lübbe|81|9|0|3
+18|Getting the Most from Flawed Theories.|Moshe Koppel,Alberto Maria Segre,Ronen Feldman|n/a
+19|Heterogenous Uncertainty Sampling for Supervised Learning.|David D. Lewis,Jason Catlett|706|289|9|5
+20|Markov Games as a Framework for Multi-Agent Reinforcement Learning.|Michael L. Littman|n/a
+21|To Discount or Not to Discount in Reinforcement Learning: A Case Study Comparing R Learning and Q Learning.|Sridhar Mahadevan|n/a
+22|Comparing Methods for Refining Certainty-Factor Rule-Bases.|J. Jeffrey Mahoney,Raymond J. Mooney|n/a
+23|Reward Functions for Accelerated Learning.|Maja J. Mataric|n/a
+24|Efficient Algorithms for Minimizing Cross Validation Error.|Andrew W. Moore,Mary S. Lee|289|74|0|7
+25|Revision of Production System Rule-Bases.|Patrick M. Murphy,Michael J. Pazzani|41|1|0|2
+26|Using Genetic Search to Refine Knowledge-based Neural Networks.|David W. Opitz,Jude W. Shavlik|33|1|0|5
+27|Reducing Misclassification Costs.|Michael J. Pazzani,Christopher J. Merz,Patrick M. Murphy,Kamal M. Ali,Timothy Hume,Clifford Brunk|322|100|2|0
+28|Incremental Multi-Step Q-Learning.|Jing Peng,Ronald J. Williams|407|137|0|5
+29|The Minimum Description Length Principle and Categorical Theories.|J. Ross Quinlan|55|14|0|1
+30|Towards a Better Understanding of Memory-based Reasoning Systems.|John Rachlin,Simon Kasif,Steven Salzberg,David W. Aha|50|3|0|2
+31|Hierarchical Self-Organization in Genetic programming.|Justinian P. Rosca,Dana H. Ballard|n/a
+32|A Conservation Law for Generalization Performance.|Cullen Schaffer|n/a
+33|On the Worst-Case Analysis of Temporal-Difference Learning Algorithms.|Robert E. Schapire,Manfred K. Warmuth|36|9|0|7
+34|A Constraint-based Induction Algorithm in FOL.|Michèle Sebag|n/a
+35|Learning Without State-Estimation in Partially Observable Markovian Decision Processes.|Satinder P. Singh,Tommi S. Jaakkola,Michael I. Jordan|345|104|0|5
+36|Prototype and Feature Selection by Sampling and Random Mutation Hill Climbing Algorithms.|David B. Skalak|n/a
+37|A Baysian Framework to Integrate Symbolic and Neural Learning.|Irina Tchoumatchenko,Jean-Gabriel Ganascia|13|0|0|0
+38|A Modular Q-Learning Architecture for Manipulator Task Decomposition.|Chen K. Tham,Richard W. Prager|47|7|0|2
+39|An Improved Algorithm for Incremental Induction of Decision Trees.|Paul E. Utgoff|172|38|0|2
+40|A Powerful Heuristic for the Discovery of Complex Patterned Behaviour.|Raúl E. Valdés-Pérez,Aurora Pérez|6|1|0|0
+41|Small Sample Decision tree Pruning.|Sholom M. Weiss,Nitin Indurkhya|n/a
+42|Combining Top-down and Bottom-up Techniques in Inductive Logic Programming.|John M. Zelle,Raymond J. Mooney,Joshua B. Konvisser|107|22|0|20
+43|Selective Reformulation of Examples in Concept Learning.|Jean-Daniel Zucker,Jean-Gabriel Ganascia|22|4|0|10
+44|A Statistical Approach to Decision Tree Modeling.|Michael I. Jordan|52|11|3|5
+45|Bayesian Inductive Logic Programming.|Stephen Muggleton|62|5|1|12
+46|Frequencies vs. Biases: Machine Learning Problems in Natural Language Processing - Abstract.|Fernando C. N. Pereira|0|0|0|0

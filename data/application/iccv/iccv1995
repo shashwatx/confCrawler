@@ -1,0 +1,164 @@
+163
+1|Procedings of the Fifth International Conference on Computer Vision (ICCV 95), Massachusetts Institute of Technology, Cambridge, Massachusetts, USA, June 20-23, 1995.|n/a
+2|Towards a Unified IU Environment: Coordination of Existing IU Tools with the IUE.|Charles A. Kohl,Jeffrey J. Hunter,Cynthia L. Loiselle|6|1|0|0
+3|Recognition Using Region Correspondences.|Ronen Basri,David W. Jacobs|84|32|0|8
+4|Alignment by Maximization of Mutual Information .|Paul A. Viola,William M. Wells III|3722|1430|54|12
+5|Object Indexing Using an Iconic Sparse Distributed Memory.|Rajesh P. N. Rao,Dana H. Ballard|120|13|1|7
+6|Robot Aerobics: Four Easy Steps to a More Flexible Calibration.|Daniel E. Stevenson,Margaret M. Fleck|29|7|0|2
+7|Head-Eye Calibration.|Mengxiang Li,Demetrios Betsis|12|4|0|0
+8|Weakly-Calibrated Stereo Perception for Rover Navigation.|Luc Robert,Michel Buffa,Martial Hebert|38|4|1|3
+9|An Integrated Stereo-Based Approach to Automatic Vehicle Guidance.|Quang-Tuan Luong,Joseph Weber,Daphne Koller,Jitendra Malik|140|29|4|0
+10|Active Visual Navigation Using Non-Metric Structure.|Paul A. Beardsley,Ian D. Reid,Andrew Zisserman,David W. Murray|77|15|0|4
+11|Shape from Shading with Interreflections under Proximal Light Source: 3D Shape Reconstruction of Unfolded Book Surface from a Scanner Image.|Toshikazu Wada,Hiroyuki Ukida,Takashi Matsuyama|50|4|0|0
+12|Shape and Model from Specular Motion.|Jiang Yu Zheng,Yoshihiro Fukagawa,Norihiro Abe|20|3|3|6
+13|Reflectance Function Estimation and Shape Recovery from Image Sequence of a Rotating Object.|Jiping Lu,James J. Little|59|10|0|4
+14|A Multibaseline Stereo System with Active Illumination and Real-Time Image Acquisition.|Sing Bing Kang,Jon A. Webb,C. Lawrence Zitnick,Takeo Kanade|171|75|61|6
+15|Electronically Directed "Focal" Stereo.|Peter J. Burt,Lambert E. Wixson,Garbis Salgian|51|12|2|0
+16|Segmented Shape Descriptions from 3-View Stereo.|Parag Havaldar,Gérard G. Medioni|10|0|0|2
+17|3D Surface Reconstruction from Stereoscopic Image Sequences.|Reinhard Koch|82|14|6|6
+18|Limitations of Markov Random Fields as Models of Textured Images of Real Surfaces.|Athanasios Speis,Glenn Healey|1|0|0|0
+19|Texture Segmentation and Shape in the Same Image.|John Krumm,Steven A. Shafer|42|4|0|0
+20|The Illumination-Invariant Recognition of Texture in Color Texture.|Glenn Healey,Lizhi Wang|91|10|0|28
+21|Direct Estimation of Affine Image Deformations Using Visual Front-End Operations with Automatic Scale Selection.|Tony Lindeberg|35|10|0|9
+22|Indexing Visual Representations through the Complexity Map.|Benoit Dubuc,Steven W. Zucker|16|0|0|6
+23|Seeing Behind the Scene: Analysis of Photometric Properties of Occluding Edges by the Reversed Projection Blurring Model.|Naoki Asada,Hisanaga Fujiwara,Takashi Matsuyama|66|12|0|5
+24|Image Segmentation by Reaction-Diffusion Bubbles.|Hüseyin Tek,Benjamin B. Kimia|140|13|0|8
+25|Scale-Space from Nonlinear Filters.|J. Andrew Bangham,Paul D. Ling,Richard Harvey|75|3|3|20
+26|Unsupervised Parallel Image Classificiation Using a Hierarchical Markovian Model.|Zoltan Kato,Josiane Zerubia,Marc Berthod|19|2|0|2
+27|Polymorphic Grouping for Image Segmentation.|Claudia Fuchs,Wolfgang Förstner|50|9|0|1
+28|Class-Based Grouping in Perspective Images.|Andrew Zisserman,Joseph L. Mundy,David A. Forsyth,Jane Liu,Nic Pillow,Charlie Rothwell,Sven Utcke|40|3|0|6
+29|Steerable Wedge Filters.|Eero P. Simoncelli,Hany Farid|23|1|0|1
+30|Saliency Maps and Attention Selection in Scale and Spatial Coordinates: An Information Theoretic Approach.|Martin Jägersand|107|18|0|0
+31|Combining Color and Geometry for the Active, Visual Recognition of Shadows.|Gareth Funka-Lea,Ruzena Bajcsy|69|19|3|0
+32|Bayesian Decision Theory, the Maximum Local Mass Estimate, and Color Constancy.|William T. Freeman,David H. Brainard|43|10|1|7
+33|Color Constancy in Diagonal Chromaticity Space.|Graham D. Finlayson|56|11|1|4
+34|The Nonparametric Approach for Camera Calibration.|MaoLin Qiu,Song De Ma|14|3|0|1
+35|Accurate Internal Camera Calibration Using Rotation, with Analysis of Sources of Error.|Gideon P. Stein|192|44|18|1
+36|ASSET-2: Real-Time Motion Segmentation and Shape Tracking.|Stephen M. Smith|435|91|8|3
+37|Global Rigidity Constraints in Image Displacement Fields.|Cornelia Fermüller,Yiannis Aloimonos|12|5|0|0
+38|Rigid Body Segmentation and Shape Description from Dense Optical Flow under Weak Perspective.|Joseph Weber,Jitendra Malik|84|28|16|0
+39|Estimating Motion and Structure from Correspondences of Line Segments between Two Perspective Images.|Zhengyou Zhang|121|27|3|1
+40|Computation of Coherent Optical Flow by Using Multiple Constraints.|Massimo Tistarelli|19|2|0|1
+41|Motion from the Frontier of Curved Surfaces.|Roberto Cipolla,Kalle Åström,Peter J. Giblin|101|15|3|17
+42|Real-Time Obstacle Avoidance Using Central Flow Divergence and Peripheral Flow.|David Coombs,Martin Herman,Tsai-Hong Hong,Marilyn Nashman|175|59|1|9
+43|Recovering 3D Motion of Multiple Objects Using Adaptive Hough Transform.|Tina Yu Tian,Mubarak Shah|54|9|2|1
+44|Structure and Motion Estimation from Dynamic Silhouettes under Perspective Projection.|Tanuja Joshi,Narendra Ahuja,Jean Ponce|35|9|0|2
+45|Determining Facial Expressions in Real-Time.|Yael Moses,David Reynard,Andrew Blake|54|14|0|3
+46|Region Tracking through Image Sequences.|Benedicte Bascle,Rachid Deriche|181|38|0|6
+47|Closing the Loop on Multiple Motions.|Charles Wiles,Michael Brady|28|3|0|2
+48|A Unifying Framework for Structure and Motion Recovery from Image Sequences.|Philip F. McLauchlan,David W. Murray|158|17|2|8
+49|Dynamic Rigid Motion Estimation from Weak Perspective.|Stefano Soatto,Pietro Perona|19|3|0|2
+50|Complete Scene Structure from Four Point Correspondences.|Steven M. Seitz,Charles R. Dyer|78|17|1|10
+51|Matching Constraints and the Joint Image.|Bill Triggs|278|31|1|9
+52|Surface Reconstruction: GNCs and MFA.|Mads Nielsen|8|0|0|1
+53|Automatic Recognition of Human Facial Expressions.|Katsuhiro Matsuno,Chil-Woo Lee,Satoshi Kimura,Saburo Tsuji|62|9|0|0
+54|Facial Expression Recognition Using a Dynamic Model and Motion Energy.|Irfan A. Essa,Alex Pentland|304|56|12|6
+55|A Unified Approach to Coding and Interpreting Face Images.|Andreas Lanitis,Christopher J. Taylor,Timothy F. Cootes|220|41|6|14
+56|Tracking and Recognizing Rigid and Non-Rigid Facial Motions Using Local Parametric Models of Image Motion.|Michael J. Black,Yaser Yacoob|526|117|18|18
+57|A State-Based Technique for the Summarization and Recognition of Gesture.|Andrew D. Wilson,Aaron F. Bobick|217|53|2|5
+58|Matching of 3D Curves Using Semi-Differential Invariants.|Tomás Pajdla,Luc J. Van Gool|133|42|0|4
+59|Shape Extraction for Curves Using Geometry-Driven Diffusion and Functional Optimization.|Eric J. Pauwels,Peter Fiddelaers,Luc J. Van Gool|17|0|0|0
+60|Optimal Subpixel Matching of Contour Chains and Segments.|Bruno Serra,Marc Berthod|25|1|0|2
+61|Stochastic Completion Fields: A Neural Model of Illusory Contour Shape and Salience.|Lance R. Williams,David W. Jacobs|284|69|0|22
+62|Region Competition: Unifying Snakes, Region Growing, Energy/Bayes/MDL for Multi-band Image Segmentation.|Song Chun Zhu,Tai Sing Lee,Alan L. Yuille|n/a
+63|Object Pose: Links Between Paraperspective and Perspective.|Radu Horaud,Stéphane Christy,Fadi Dornaika,Bart Lamiroy|28|2|0|8
+64|A Geometric Criterion for Shape-Based Non-Rigid Correspondence.|Hemant D. Tagare,Donal O'Shea,Anand Rangarajan|44|2|0|1
+65|Region Correspondence by Inexact Attributed Planar Graph Matching.|Caihua Wang,Keiichi Abe|24|2|0|3
+66|Relational Matching with Dynamic Graph Structures.|Richard C. Wilson,Edwin R. Hancock|29|0|0|18
+67|Locating Objects Using the Hausdorff Distance.|William Rucklidge|149|23|5|3
+68|FORMS: A Flexible Object Recognition and Modelling System.|Song Chun Zhu,Alan L. Yuille|367|81|0|24
+69|The Study of 3D-from-2D Using Elimination.|Michael Werman,Amnon Shashua|59|14|0|31
+70|Recognizing 3D Objects Using Photometric Invariant.|Kenji Nagao|30|2|4|3
+71|Probabilistic 3D Object Recognition.|Ilan Shimshoni,Jean Ponce|27|2|0|2
+72|Nonlinear Manifold Learning for Visual Speech Recognition.|Christoph Bregler,Stephen M. Omohundro|173|31|0|4
+73|Face Recognition from One Example View.|David Beymer,Tomaso A. Poggio|467|118|7|12
+74|Invariant-Based Recognition of Complex Curved 3D Objects from Image Contours.|B. Vijayakumar,David J. Kriegman,Jean Ponce|45|5|0|3
+75|Computing Visual Correspondence: Incorporating the Probability of a False Match.|Daniel P. Huttenlocher,Eric W. Jaquith|21|5|0|0
+76|Fast Object Recognition in Noisy Images Using Simulated Annealing.|Margrit Betke,Nicholas C. Makris|130|20|1|9
+77|Model-Based Matching of Line Drawings by Linear Combinations of Prototypes.|Michael J. Jones,Tomaso A. Poggio|62|4|2|14
+78|Gabor Wavelets for 3-D Object Recognition.|Xing Wu,Bir Bhanu|24|8|1|1
+79|Learning Geometric Hashing Functions for Model-Based Object Recognition.|George Bebis,Michael Georgiopoulos,Niels da Vitoria Lobo|24|3|2|2
+80|3D-2D Projective Registration of Free-Form Curves and Surfaces.|Jacques Feldmar,Nicholas Ayache,Fabienne Betting|232|62|24|8
+81|Validation of 3D Registration Methods Based on Points and Frames.|Xavier Pennec,Jean-Philippe Thirion|53|6|0|14
+82|Combining Color and Geometric Information for the Illumination Invariant Recognition of 3D Objects.|David Slater,Glenn Healey|36|8|0|2
+83|3D Pose Estimation by Fitting Image Gradients Directly to Polyhedral Models.|Henner Kollnig,Hans-Hellmut Nagel|75|15|14|13
+84|Real-Time X-Ray Inspection of 3D Defects in Circuit Board Patterns.|Hideaki Doi,Yoko Suzuki,Yasuhiko Hara,Tadashi Iida,Yasuhiro Fujishita,Koichi Karasaki|8|1|1|0
+85|Model-Based 2D&3D Dominant Motion Estimation for Mosaicing and Video Representation.|Harpreet S. Sawhney,Serge Ayer,Monika Gorkani|167|16|9|6
+86|Face Detection by Fuzzy Pattern Matching.|Qian Chen,Haiyuan Wu,Masahiko Yachida|178|36|0|11
+87|Perceptual Organization in an Interactive Sketch Editing Application.|Eric Saund,Thomas P. Moran|35|6|0|3
+88|Mosaic Based Representations of Video Sequences and Their Applications.|Michal Irani,P. Anandan,Steven C. Hsu|402|82|18|14
+89|Model-Based Tracking of Self-Occluding Articulated Objects.|James M. Rehg,Takeo Kanade|455|85|8|9
+90|3D Human Body Model Acquisition from Multiple Views.|Ioannis A. Kakadiaris,Dimitris N. Metaxas|196|39|1|13
+91|Recognition of Human Body Motion Using Phase Space Constraints.|Lee W. Campbell,Aaron F. Bobick|349|111|6|1
+92|Learning-Based Hand Sign Recognition Using SHOSLIF-M.|Yuntao Cui,Daniel L. Swets,Juyang Weng|162|38|1|10
+93|Finding Faces in Cluttered Scenes Using Labeled Random Graph Matching.|Thomas K. Leung,Michael C. Burl,Pietro Perona|462|135|8|9
+94|Visual Navigation Using a Single Camera.|Jean-Yves Bouguet,Pietro Perona|64|21|1|2
+95|A Recursive Filter for Phase Velocity Assisted Shape-Based Tracking of Cardiac Non-Rigid Motion.|John C. McEachen II,François G. Meyer,R. Todd Constable,Arye Nehorai,James S. Duncan|25|1|0|2
+96|Structure and Semi-Fluid Motion Analysis of Stereoscopic Satellite Images for Cloud Tracking.|Kannappan Palaniappan,Chandra Kambhamettu,Frederick Hasler,Dmitry B. Goldgof|39|4|0|15
+97|Vision Based Hand Modeling and Tracking for Virtual Teleconferencing and Telecollaboration.|James J. Kuch,Thomas S. Huang|191|48|1|18
+98|Closed-World Tracking.|Stephen S. Intille,Aaron F. Bobick|139|23|1|9
+99|Towards an Active Visual Observer.|Tomas Uhlin,Peter Nordlund,Atsuto Maki,Jan-Olof Eklundh|76|4|0|15
+100|A Model-Based Integrated Approach to Track Myocardial Deformation Using Displacement and Velocity Constraints.|Pengcheng Shi,Glynn P. Robinson,R. Todd Constable,Albert J. Sinusas,James S. Duncan|39|7|0|3
+101|Geodesic Active Contours.|Vicent Caselles,Ron Kimmel,Guillermo Sapiro|4667|2510|13|63
+102|Volumetric Deformable Models with Parameter Functions: A New Approach to the 3D Motion Analysis of the LV from MRI-SPAMM.|Jinah Park,Dimitris N. Metaxas,Leon Axel|74|7|0|18
+103|Optical Flow and Deformable Objects.|Andrea Giachetti,Vincent Torre|8|1|0|0
+104|Results Using Random Field Models for the Segmentation of Color Images of Natural Scenes.|Dileep Kumar Panjwani,Glenn Healey|14|0|0|2
+105|Color Constancy under Varying Illumination.|Graham D. Finlayson,Brian V. Funt,Kobus Barnard|138|40|5|11
+106|On Representation and Matching of Multi-Coloured Objects.|Jiri Matas,Radek Marik,Josef Kittler|92|7|2|7
+107|Surface Orientation and Curvature from Differential Texture Distortion.|Jonas Gårding|37|5|0|0
+108|A Theory of Specular Surface Geometry.|Michael Oren,Shree K. Nayar|194|57|1|2
+109|Motion Analysis with a Camera with Unknown, and Possibly Varying Intrinsic Parameters.|Thierry Viéville,Olivier D. Faugeras|43|10|0|0
+110|Motion Estimation with Quadtree Splines.|Richard Szeliski,Heung-Yeung Shum|140|25|4|6
+111|Monocular Tracking of the Human Arm in 3D.|Enrico Di Bernardo,Luis Goncalves,Enrico Ursella,Pietro Perona|260|31|1|9
+112|Hypergeometric Filters for Optical Flow and Affine Matching.|Yalin Xiong,Steven A. Shafer|31|0|0|2
+113|Layered Representation of Motion Video Using Robust Maximum-Likelihood Estimation of Mixture Models and MDL Encoding.|Serge Ayer,Harpreet S. Sawhney|332|40|4|4
+114|Probabilistic Visual Learning for Object Detection.|Baback Moghaddam,Alex Pentland|460|59|16|32
+115|Automatic Generation of GRBF Networks for Visual Learning.|Shayan Mukherjee,Shree K. Nayar|17|2|0|2
+116|Animat Vision: Active Vision in Artificial Animals.|Demetri Terzopoulos,Tamer F. Rabie|131|16|0|20
+117|Gradient Flows and Geometric Active Contour Models.|Satyanad Kichenassamy,Arun Kumar,Peter J. Olver,Allen Tannenbaum,Anthony J. Yezzi|721|228|6|4
+118|A Snake for Model-Based Segmentation.|Petia Radeva,Joan Serrat,Enric Martí|76|10|0|10
+119|Algorithms for Implicit Deformable Models.|Ross T. Whitaker|81|2|0|9
+120|Deformable Velcro(tm) Surfaces.|Walter M. Neuenschwander,Pascal Fua,Gábor Székely,Olaf Kübler|16|2|0|0
+121|Adaptive Shape Evolution Using Blending.|Douglas DeCarlo,Dimitris N. Metaxas|40|1|0|3
+122|Topologically Adaptable Snakes.|Tim McInerney,Demetri Terzopoulos|458|88|1|8
+123|On Multi-Feature Integration for Deformable Boundary Finding.|Amit Chakraborty,Marcel Worring,James S. Duncan|31|4|0|1
+124|Curve and Surface Smoothing without Shrinkage.|Gabriel Taubin|264|113|1|5
+125|Surface Geometry from Cusps of Apparent Contours.|Roberto Cipolla,Gordon J. Fletcher,Peter J. Giblin|13|1|0|2
+126|Multiscale Detection of Curvilinear Structures in 2D and 3D Image Data.|Thomas Koller,Guido Gerig,Gábor Székely,Daniel Dettwiler|348|110|1|0
+127|An Integral Approach to Free-Formed Object Modeling.|Heung-Yeung Shum,Martial Hebert,Katsushi Ikeuchi,Raj Reddy|50|3|0|4
+128|Recovering Object Surfaces from Viewed Changes in Surface Texture Patterns.|Peter N. Belhumeur,Alan L. Yuille|4|1|0|0
+129|A Linear Method for Reconstruction from Lines and Points.|Richard I. Hartley|209|36|1|5
+130|Site Model Acquisition and Extension from Aerial Images.|Robert T. Collins,Yong-Qing Cheng,Christopher O. Jaynes,Frank Stolle,Xiaoguang Wang,Allen R. Hanson,Edward M. Riseman|36|0|0|4
+131|Affine Surface Reconstruction by Purposive Viewpoint Control.|Kiriakos N. Kutulakos|11|1|1|1
+132|Estimating the Tensor of Curvature of a Surface from a Polyhedral Approximation.|Gabriel Taubin|612|226|2|5
+133|Hierarchical Statistical Models for the Fusion of Multiresolution Image Data.|Jean-Marc Laferté,Fabrice Heitz,Patrick Pérez,Eric Fabre|40|8|0|6
+134|Statistical Learning, Localization, and Identification of Objects.|Joachim Hornegger,Heinrich Niemann|57|3|1|12
+135|Trilinearity of Three Perspective Views and its Associated Tensor.|Amnon Shashua,Michael Werman|150|19|3|21
+136|Invariant of a Pair of Non-Coplanar Conies in Space: Definition, Geometric Interpretation and Computation.|Long Quan|22|3|0|5
+137|A Comparison of Projective Reconstruction Methods for Pairs of Views.|Charlie Rothwell,Gabriela Csurka,Olivier D. Faugeras|122|10|0|1
+138|A Quantitative Analysis of View Degeneracy and its use for Active Focal Length control.|David Wilkes,Sven J. Dickinson,John K. Tsotsos|14|0|0|2
+139|Rigidity Checking of 3D Point Correspondences under Perspective Projection.|Daniel P. McReynolds,David G. Lowe|48|2|0|0
+140|On the Geometry and Algebra of the Point and Line Correspondences Between N Images.|Olivier D. Faugeras,Bernard Mourrain|314|38|2|8
+141|Rendering Real-World Objects Using View Interpolation.|Tomás Werner,Roger D. Hersch,Václav Hlavác|111|8|2|4
+142|Determining Wet Surfaces from Dry.|Howard B. Mall Jr.,Niels da Vitoria Lobo|13|4|0|0
+143|Expected Performance of Robust Estimators Near Discontinuities.|Charles V. Stewart|7|1|0|3
+144|Auxiliary Variables for Deformable Models.|Laurent D. Cohen|8|0|0|0
+145|Improving Laser Triangulation Sensors Using Polarization.|James Clark,Emanuele Trucco,H.-F. Cheung|22|4|3|5
+146|Better Optical Triangulation Through Spacetime Analysis.|Brian Curless,Marc Levoy|240|83|6|6
+147|Real-Time Focus Range Sensor.|Shree K. Nayar,Masahiro Watanabe,Minori Noguchi|342|101|18|11
+148|Active Fixation Using Attentional Shifts, Affine Resampling, and Multiresolution Search.|A. Lynn Abbott,Bibo Zheng|5|0|0|0
+149|Calibration-Free Visual Control Using Projective Invariance.|Gregory D. Hager|79|6|0|7
+150|Annular Symmetry Operators: A Method for Locating and Describing Objects.|Michael F. Kelly,Martin D. Levine|36|7|0|1
+151|COSMOS-A Representation Scheme for Free-Form Surfaces.|Chitra Dorai,Anil K. Jain|59|14|0|5
+152|Epipole and Fundamental Matrix Estimation Using Virtual Parallax.|Boubakeur Boufama-Seddik,Roger Mohr|123|31|0|5
+153|Robust Detection of Degenerate Configurations for the Fundamental Matrix.|Philip H. S. Torr,Andrew Zisserman,Stephen J. Maybank|71|12|1|2
+154|Detecting Kinetic Occlusion.|Sourabh A. Niyogi|48|6|0|1
+155|A Model of Figure-Ground Segregation from Kinetic Occlusion.|George T. Chou|19|3|0|0
+156|Reconstruction from Image Sequences by Means of Relative Depths.|Anders Heyden|96|6|0|28
+157|In Defence of the 8-Point Algorithm.|Richard I. Hartley|2336|791|19|5
+158|A Multi-Body Factorization Method for Motion Analysis.|João Paulo Costeira,Takeo Kanade|n/a
+159|Reconstructing Complex Surfaces from Multiple Stereo Views.|Pascal Fua|54|7|1|5
+160|Stereo in the Presence of Specular Reflection.|Dinkar N. Bhat,Shree K. Nayar|54|9|0|1
+161|A Robot System that Observes and Replicates Grasping Tasks.|Sing Bang Kang,Katsushi Ikeuchi|33|13|0|1
+162|Transfer of Fixation for an Active Stereo Platform via Affine Structure Recovery.|Stuart M. Fairley,Ian D. Reid,David W. Murray|24|0|0|6
+163|Task-Oriented Generation of Visual Sensing Strategies.|Jun Miura,Katsushi Ikeuchi|22|6|4|2

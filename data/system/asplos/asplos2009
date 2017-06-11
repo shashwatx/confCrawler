@@ -1,0 +1,31 @@
+30
+1|Proceedings of the 14th International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2009, Washington, DC, USA, March 7-11, 2009.|Mary Lou Soffa,Mary Jane Irwin|n/a
+2|An evaluation of the TRIPS computer system.|Mark Gebhart,Bertrand A. Maher,Katherine E. Coons,Jeffrey R. Diamond,Paul Gratz,Mario Marino,Nitya Ranganathan,Behnam Robatmili,Aaron Smith,James H. Burrill,Stephen W. Keckler,Doug Burger,Kathryn S. McKinley|59|54|0|2
+3|Architectural implications of nanoscale integrated sensing and computing.|Constantin Pistol,Christopher Dwyer,Alvin R. Lebeck|13|13|0|0
+4|CTrigger: exposing atomicity violation bugs from their hiding places.|Soyeon Park,Shan Lu,Yuanyuan Zhou|232|221|4|22
+5|ASSURE: automatic software self-healing using rescue points.|Stelios Sidiroglou,Oren Laadan,Carlos Perez,Nicolas Viennot,Jason Nieh,Angelos D. Keromytis|118|111|2|5
+6|Recovery domains: an organizing principle for recoverable operating systems.|Andrew Lenharth,Vikram S. Adve,Samuel T. King|43|38|0|1
+7|Anomaly-based bug prediction, isolation, and validation: an automated approach for software debugging.|Martin Dimitrov,Huiyang Zhou|22|21|0|0
+8|Capo: a software-hardware interface for practical deterministic multiprocessor replay.|Pablo Montesinos,Matthew Hicks,Samuel T. King,Josep Torrellas|126|111|2|11
+9|DMP: deterministic shared memory multiprocessing.|Joseph Devietti,Brandon Lucia,Luis Ceze,Mark Oskin|254|239|4|15
+10|Kendo: efficient deterministic multithreading in software.|Marek Olszewski,Jason Ansel,Saman P. Amarasinghe|326|303|6|4
+11|Complete information flow tracking from the gates up.|Mohit Tiwari,Hassan M. G. Wassel,Bita Mazloom,Shashidhar Mysore,Frederic T. Chong,Timothy Sherwood|94|88|0|16
+12|RapidMRC: approximating L2 miss rate curves on commodity systems for online optimizations.|David K. Tam,Reza Azimi,Livio Soares,Michael Stumm|140|128|2|1
+13|Per-thread cycle accounting in SMT processors.|Stijn Eyerman,Lieven Eeckhout|53|50|0|5
+14|Maximum benefit from a minimal HTM.|Owen S. Hofmann,Christopher J. Rossbach,Emmett Witchel|23|22|0|3
+15|Early experience with a commercial hardware transactional memory implementation.|David Dice,Yossi Lev,Mark Moir,Daniel Nussbaum|229|207|7|19
+16|Mixed-mode multicore reliability.|Philip M. Wells,Koushik Chakraborty,Gurindar S. Sohi|55|51|0|1
+17|ISOLATOR: dynamically ensuring isolation in comcurrent programs.|Sriram K. Rajamani,G. Ramalingam,Venkatesh Prasad Ranganath,Kapil Vaswani|48|44|1|0
+18|Efficient online validation with delta execution.|Joseph Tucek,Weiwei Xiong,Yuanyuan Zhou|35|33|0|2
+19|PowerNap: eliminating server idle power.|David Meisner,Brian T. Gold,Thomas F. Wenisch|672|638|2|11
+20|Gordon: using flash memory to build fast, power-efficient clusters for data-intensive applications.|Adrian M. Caulfield,Laura M. Grupp,Steven Swanson|221|199|0|5
+21|DFTL: a flash translation layer employing demand-based selective caching of page-level address mappings.|Aayush Gupta,Youngjae Kim,Bhuvan Urgaonkar|520|489|3|16
+22|Commutativity analysis for software parallelization: letting program transformations see the big picture.|Farhana Aleen,Nathan Clark|38|35|0|0
+23|Accelerating critical section execution with asymmetric multi-core architectures.|M. Aater Suleman,Onur Mutlu,Moinuddin K. Qureshi,Yale N. Patt|220|203|4|14
+24|Producing wrong data without doing anything obviously wrong!|Todd Mytkowicz,Amer Diwan,Matthias Hauswirth,Peter F. Sweeney|179|163|0|11
+25|Leak pruning.|Michael D. Bond,Kathryn S. McKinley|41|39|0|6
+26|Dynamic prediction of collection yield for managed runtimes.|Michal Wegiel,Chandra Krintz|14|8|0|3
+27|TwinDrivers: semi-automatic derivation of fast and safe hypervisor network drivers from guest OS drivers.|Aravind Menon,Simon Schubert,Willy Zwaenepoel|35|32|2|0
+28|Phantom-BTB: a virtualized branch target buffer design.|Ioana Burcea,Andreas Moshovos|17|15|1|2
+29|StreamRay: a stream filtering architecture for coherent ray tracing.|Karthik Ramani,Christiaan P. Gribble,Al Davis|14|13|0|2
+30|Architectural support for SWAR text processing with parallel bit streams: the inductive doubling principle.|Robert D. Cameron,Dan Lin|15|14|0|3

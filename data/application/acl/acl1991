@@ -1,0 +1,61 @@
+60
+1|29th Annual Meeting of the Association for Computational Linguistics, 18-21 June 1991, University of California, Berkeley, California, USA, Proceedings.|Douglas E. Appelt|n/a
+2|Resolution of Collective-Distributive Ambiguity Using Model-Based Reasoning.|Chinatsu Aone|1|0|0|0
+3|Inclusion, Disjointness and Choice: The Logic of Linguistic Classification.|Bob Carpenter,Carl Pollard|34|5|0|4
+4|Event-Building through Role-Filling and Anaphora Resolution.|Greg Whittemore,Melissa Macpherson,Greg Carlson|9|6|0|1
+5|Toward a Plan-Based Understanding Model for Mixed-Initiative Dialogues.|Hiroaki Kitano,Carol Van Ess-Dykema|33|1|2|0
+6|An Algorithm for Plan Recognition in Collaborative Discourse.|Karen E. Lochbaum|49|6|0|4
+7|A Three-Level Model for Plan Exploration.|Lance A. Ramshaw|66|1|3|0
+8|A Tripartite Plan-Based Model of Dialogue.|Lynn Lambert,Sandra Carberry|197|17|2|16
+9|Discourse Relations and Defeasible Knowledge.|Alex Lascarides,Nicholas Asher|212|39|21|16
+10|Some Facts about Centers, Indexicals, and Demonstratives.|Rebecca J. Passonneau|16|4|0|1
+11|Type-Raising and Directionality in Combinatory Grammar.|Mark Steedman|33|2|0|5
+12|Efficient Incremental Processing with Categorial Grammar.|Mark Hepple|16|0|0|1
+13|Compose-Reduce Parsing.|Henry S. Thompson,Michael Dixon,John Lamping|24|6|0|0
+14|LR Recursive Transition Networks for Earley and Tomita Parsing.|Mark Perlin|14|3|0|3
+15|Polynomial Time and Space Shift-Reduce Parsing of Arbitrary Context-free Grammars.|Yves Schabes|41|3|0|0
+16|Head Corner Parsing for Discontinuous Constituency.|Gertjan van Noord|43|4|0|8
+17|The Acquisition and Application of Context Sensitive Grammar for English.|Robert F. Simmons,Yeong-Ho Yu|13|1|0|0
+18|Two Languages Are More Informative Than One.|Ido Dagan,Alon Itai,Ulrike Schwall|249|47|0|8
+19|Learning Perceptually-Grounded Semantics in The L0 Project.|Terry Regier|7|0|0|0
+20|Subject-Dependent Co-Occurence and Word Sense Disambiguation.|Joe A. Guthrie,Louise Guthrie,Yorick Wilks,Homa Aidinejad|155|24|1|4
+21|A System for Translating Locative Prepositions from English into French.|Nathalie Japkowicz,Janyce Wiebe|21|4|0|1
+22|Translation by Quasi Logical Form Transfer.|Hiyan Alshawi,David M. Carter,Manny Rayner|57|6|1|5
+23|Aligning Sentences in Parallel Corpora.|Peter F. Brown,Jennifer C. Lai,Robert L. Mercer|628|165|12|4
+24|A Program for Aligning Sentences in Bilingual Corpora.|William A. Gale,Kenneth Ward Church|1343|430|25|7
+25|Experiments and Prospects of Example-Based Machine Translation.|Eiichiro Sumita,Hitoshi Iida|209|29|9|21
+26|Resolving Translation Mismatches with Information Flow.|Megumi Kameyama,Ryo Ochitani,Stanley Peters|73|14|0|2
+27|Automatic Noun Classification by Using Japanese-English Word Pairs.|Naomi Inoue|9|2|0|0
+28|Automatic Acquisition of Subcategorization Frames from Untagged Text.|Michael R. Brent|198|28|0|2
+29|Multipe Default Inheritance in a Unification-Based Lexicon.|Graham Russell,John A. Carroll,Susan Warwick-Armstrong|35|2|0|1
+30|Metaphoric Generalization through Sort Coercion.|Ellen Hays,Samuel Bayer|5|1|0|0
+31|Structural Ambiguity and Lexical Relations.|Donald Hindle,Mats Rooth|710|104|1|2
+32|Strategies for Adding Control Information to Declarative Grammars.|Hans Uszkoreit|54|8|0|2
+33|Finite-State Approximation of Phrase Structure Grammars.|Fernando C. N. Pereira,Rebecca N. Wright|146|18|3|3
+34|Feature Logic with Weak Subsumption Constraints.|Jochen Dörre|13|0|0|0
+35|Word-Sense Disambiguation Using Statistical Methods.|Peter F. Brown,Stephen Della Pietra,Vincent J. Della Pietra,Robert L. Mercer|513|112|3|6
+36|A Stochastic Process for Word Frequency Distributions.|R. Harald Baayen|22|2|0|1
+37|From N-Grams to Collocations: An Evaluation of Xtract.|Frank A. Smadja|59|13|0|0
+38|Predicting Intonational Phrasing from Text.|Michelle Q. Wang,Julia Hirschberg|27|2|0|2
+39|A Preference-first Language Processor Integrating the Unification Grammar and Markov Language Model for Speech Recognition Applications.|Lee-Feng Chien,Keh-Jiann Chen,Lin-Shan Lee|4|1|0|2
+40|Factorization of Language Constraints in Speech Recognition.|Roberto Pieraccini,Chin-Hui Lee|11|1|0|6
+41|Constraint Projection: An Efficient Treatment of Disjunctive Feature Descriptions.|Mikio Nakano|20|2|2|6
+42|Quasi-Destructive Graph Unification.|Hideto Tomabechi|67|5|0|4
+43|Unification with Lazy Non-Redundant Copying.|Martin C. Emele|49|2|0|0
+44|Logical Form of Complex Sentences in Task-Oriented Dialogues.|Cecile T. Balkanski|13|0|0|4
+45|Action Representation for NL Instructions.|Barbara Di Eugenio|6|2|0|0
+46|Extracting Semantic Roles from a Model of Eventualities.|Sylvie Ratté|1|0|0|0
+47|Case Revisited: In the Shadow of Automatic Processing of Machine-Readable Dictionaries.|Fuliang Weng|0|0|0|0
+48|Discovering the Lexical Features of a Language.|Eric Brill|31|5|1|3
+49|Lexical Disambiguation: Sources of Information and their Statistical Realization.|Ido Dagan|14|4|0|0
+50|Non-Literal Word Sense Identification Through Semantic Network Path Schemata.|Eric Iverson,Stephen Helmreich|1|1|0|0
+51|Collaborating on Referring Expressions.|Peter A. Heeman|137|27|0|10
+52|Conceptual Revision for Natural Language Generation.|Ben E. Cline|2|0|0|2
+53|Modifying Beliefs in a Plan-Based Dialogue Model.|Lynn Lambert|2|0|0|1
+54|Resolving a Pragmatic Prepositional Phrase Attachment Ambiguity.|Christine H. Nakatani|1|1|0|0
+55|Current Research in the Development of a Spoken Language Understanding System using PARSEC.|Carla B. Zoltowski|2|0|0|1
+56|Syntactic Graphs and Constraint Satisfaction.|Jeff Martin|0|0|0|0
+57|An Incremental Connectionist Phrase Structure Parser.|James Henderson|0|0|0|0
+58|Automated Pruning for a General Lexicon and Grammar.|Lynette Hirschman|n/a
+59|The CAT2 Machine Translation System.|Randall Sharp|n/a
+60|Centering in Japanese Discourse.|Marilyn A. Walker,Masayo Iida,Sharon Cote|73|0|0|7

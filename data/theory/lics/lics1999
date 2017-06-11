@@ -1,0 +1,48 @@
+47
+1|14th Annual IEEE Symposium on Logic in Computer Science, Trento, Italy, July 2-5, 1999.|n/a
+2|Some Decision Problems of Enormous Complexity.|Harvey Friedman|11|8|0|0
+3|Two-Variable Descriptions of Regularity.|Erich Grädel,Eric Rosen|7|4|0|0
+4|The Two-Variable Guarded Fragment with Transitive Relations.|Harald Ganzinger,Christoph Meyer,Margus Veanes|87|21|0|2
+5|Logics with Aggregate Operators.|Lauri Hella,Leonid Libkin,Juha Nurmonen,Limsoon Wong|64|19|0|23
+6|Guarded Fixed Point Logic.|Erich Grädel,Igor Walukiewicz|167|46|0|11
+7|Towards a Theory of Bisimulation for Local Names.|Alan Jeffrey,Julian Rathke|53|21|0|2
+8|Weak Bisimulation and Open Maps.|Marcelo P. Fiore,Gian Luca Cattani,Glynn Winskel|49|10|0|12
+9|Elementary Axioms for Categories of Classes.|Alex K. Simpson|43|9|0|3
+10|Region Analysis and the Polymorphic Lambda Calculus.|Anindya Banerjee,Nevin Heintze,Jon G. Riecke|37|1|0|0
+11|Pattern Matching as Cut Elimination.|Serenella Cerrito,Delia Kesner|39|5|0|12
+12|Some Computational Properties of Intersection Types.|Antonio Bucciarelli,Silvia De Lorenzis,Adolfo Piperno,Ivano Salvo|13|1|0|1
+13|Type Inference for Recursive Definitions.|A. J. Kfoury,Santiago M. Pericás-Geertsen|10|2|0|2
+14|Plausibility Measures and Default Reasoning: An Overview.|Joseph Y. Halpern,Nir Friedman|3|1|0|0
+15|Subtyping Recursive Types in Kernel Fun.|Dario Colazzo,Giorgio Ghelli|25|2|0|5
+16|A Fragment Calculus - Towards a Model of Separate Compilation, Linking and Binary Compatibility.|Sophia Drossopoulou,Susan Eisenbach,David Wragg|65|5|11|12
+17|Proof Techniques for Cryptographic Processes.|Michele Boreale,Rocco De Nicola,Rosario Pugliese|158|24|0|5
+18|On Hoare Logic and Kleene Algebra with Tests.|Dexter Kozen|140|59|0|26
+19|Full Abstraction and Universality via Realisability.|Michael Marz,Alexander Rohr,Thomas Streicher|12|1|0|1
+20|On Bunched Predicate Logic.|David J. Pym|52|9|0|11
+21|Abstract Syntax and Variable Binding.|Marcelo P. Fiore,Gordon D. Plotkin,Daniele Turi|352|106|0|4
+22|Semantical Analysis of Higher-Order Abstract Syntax.|Martin Hofmann|204|46|0|2
+23|A New Approach to Abstract Syntax Involving Binders.|Murdoch Gabbay,Andrew M. Pitts|316|93|0|3
+24|Paramodulation with Non-Monotonic Orderings.|Miquel Bofill,Guillem Godoy,Robert Nieuwenhuis,Albert Rubio|16|3|0|9
+25|Full Completeness of the Multiplicative Linear Logic of Chu Spaces.|Harish Devarajan,Dominic J. D. Hughes,Gordon D. Plotkin,Vaughan R. Pratt|47|14|0|7
+26|Cartesian Closed Double Categories, Their Lambda-Notation, and the Pi-Calculus.|Roberto Bruni,Ugo Montanari|31|4|0|15
+27|Weak Bounded Arithmetic, the Diffie-Hellman Problem and Constable's Class K.|Jan Johannsen|6|2|0|0
+28|First-Order Logic vs. Fixed-Point Logic in Finite Set Theory.|Albert Atserias,Phokion G. Kolaitis|12|2|0|3
+29|Entailment of Atomic Set Constraints is PSPACE-Complete.|Joachim Niehren,Martin Müller,Jean-Marc Talbot|18|1|0|8
+30|A Superposition Decision Procedure for the Guarded Fragment with Equality.|Harald Ganzinger,Hans de Nivelle|121|21|0|6
+31|Working with Arms: Complexity Results on Atomic Representations of Herbrand Models.|Georg Gottlob,Reinhard Pichler|26|2|0|12
+32|Logics with Counting, Auxiliary Relations, and Lower Bounds for Invariant Queries.|Leonid Libkin|6|1|0|3
+33|Counting and Addition Cannot Express Deterministic Transitive Closure.|Matthias Ruhl|15|4|0|0
+34|Parametric Quantitative Temporal Reasoning.|E. Allen Emerson,Richard J. Trefler|69|24|0|1
+35|Modular Temporal Logic.|Augustin Baziramwabo,Pierre McKenzie,Denis Thérien|15|3|0|0
+36|On the Verification of Broadcast Protocols.|Javier Esparza,Alain Finkel,Richard Mayr|235|83|0|28
+37|On the Expressive Power of CTL.|Faron Moller,Alexander Moshe Rabinovich|56|12|0|9
+38|Proving Security Protocols Correct.|Lawrence C. Paulson|47|6|0|1
+39|Reasoning about Common Knowledge with Infinitely Many Agents.|Joseph Y. Halpern,Richard A. Shore|23|9|0|0
+40|Parikh's Theorem in Commutative Kleene Algebra.|Mark W. Hopkins,Dexter Kozen|33|13|0|0
+41|The Higher-Order Recursive Path Ordering.|Jean-Pierre Jouannaud,Albert Rubio|140|39|0|22
+42|Extensional Equality in Intensional Type Theory.|Thorsten Altenkirch|51|29|0|13
+43|A Fully Abstract Game Semantics for Finite Nondeterminism.|Russell Harmer,Guy McCusker|96|29|0|8
+44|Concurrent Games and Full Completeness.|Samson Abramsky,Paul-André Melliès|165|66|0|26
+45|Non-Deterministic Games and Program Analysis: An Application to Security.|Pasquale Malacaria,Chris Hankin|39|6|0|5
+46|Correctness of Multiplicative Proof Nets Is Linear.|Stefano Guerrini|55|21|0|6
+47|Linear Types and Non-Size-Increasing Polynomial Time Computation.|Martin Hofmann|222|70|0|26

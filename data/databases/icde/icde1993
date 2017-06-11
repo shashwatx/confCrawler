@@ -1,0 +1,79 @@
+78
+1|Proceedings of the Ninth International Conference on Data Engineering, April 19-23, 1993, Vienna, Austria.|n/a
+2|Computation, Information, Communication, Imagination (Abstract).|Dennis Tsichritzis|0|0|0|0
+3|Deterministic Semantics of Set-Oriented Update Sequences.|Christian Laasch,Marc H. Scholl|27|2|0|6
+4|Updating Intensional Predicates in Deductive Databases.|Dominique Laurent,Viet Phan Luong,Nicolas Spyratos|24|2|0|10
+5|Deriving Integrity Maintaining Triggers from Transition Graphs.|Michael Gertz,Udo W. Lipeck|53|3|0|10
+6|Path Computation Algorithms for Advanced Traveller Information System (ATIS).|Shashi Shekhar,Ashim Kohli,Mark Coyle|98|15|0|16
+7|Comparison of Approximations of Complex Objects Used for Approximation-based Query Processing in Spatial Database Systems.|Thomas Brinkhoff,Hans-Peter Kriegel,Ralf Schneider|142|21|1|18
+8|Efficient Computation of Spatial Joins.|Oliver Günther|176|17|2|0
+9|The O++ Database Programming Language: Implementation and Experience.|Rakesh Agrawal,Shaul Dar,Narain H. Gehani|41|1|0|2
+10|Object Queries over Relational Databases: Language, Implementation, and Applications.|Victor M. Markowitz,Arie Shoshani|37|12|11|5
+11|Algebraic Foundation and Optimization for Object Based Query Languages.|Vijay M. Sarathy,Lawrence V. Saxton,Dirk Van Gucht|18|5|0|1
+12|The Gold Mailer.|Daniel Barbará,Chris Clifton,Fred Douglis,Hector Garcia-Molina,Stephen Johnson,Ben Kao,Sharad Mehrotra,Jens Tellefsen,Rosemary Walsh|18|0|1|3
+13|Using Active Database Techniques For Real Time Engineering Applications.|Aloysius Cornelio,Shamkant B. Navathe|7|0|1|1
+14|Feature-Based Retrieval of Similar Shapes.|Rajiv Mehrotra,James E. Gary|125|20|18|1
+15|Post-crash Log Processing for Fuzzy Checkpointing Main Memory Databases.|Xi Li,Margaret H. Eich|24|3|0|0
+16|A Simple Analysis of the LRU Buffer Policy and Its Relationship to Buffer Warm-Up Transient.|Anupam Bhide,Asit Dan,Daniel M. Dias|32|4|1|0
+17|Database Access Characterization for Buffer Hit Prediction.|Asit Dan,Philip S. Yu,Jen-Yao Chung|21|0|1|4
+18|Recursive Functions in Iris.|Philippe De Smedt,Stefano Ceri,Marie-Anne Neimat,Ming-Chien Shan,Rafi Ahmed|1|0|1|0
+19|Adaptable Pointer Swizzling Strategies in Object Bases.|Alfons Kemper,Donald Kossmann|38|1|5|2
+20|A Query Model for Object-Oriented Databases.|Reda Alhajj,M. Erol Arkun|41|5|0|21
+21|Towards More Flexible Schema Management in Object Bases.|Guido Moerkotte,Andreas Zachmann|8|2|0|0
+22|Adaptive Block Rearrangement.|Sedat Akyürek,Kenneth Salem|149|40|3|0
+23|A New Algorithm for Computing Joins with Grid Files.|Ludger Becker,Klaus H. Hinrichs,Ulrich Finke|55|7|0|2
+24|Sampling from Spatial Databases.|Frank Olken,Doron Rotem|53|11|1|2
+25|The Volcano Optimizer Generator: Extensibility and Efficient Search.|Goetz Graefe,William J. McKenna|446|111|9|14
+26|IsaLog: A declarative language for complex objects with hierarchies.|Paolo Atzeni,Luca Cabibbo,Giansalvatore Mecca|14|0|0|11
+27|Database Technology and Standards: Are we Getting Anywhere? (Panel Abstract).|Peter Dadam,Shamkant B. Navathe|0|0|0|0
+28|Semantic Concurrency Control in Object-Oriented Database Systems.|Peter Muth,Thomas C. Rakow,Gerhard Weikum,Peter Brössler,Christof Hasse|98|10|1|4
+29|ARIES/LHS: A Concurrency Control and Recovery Method Using Write-Ahead Logging for Linear Hashing with Separators.|C. Mohan|53|18|5|10
+30|Automating Fine Concurrency Control in Object-Oriented Databases.|Carmelo Malta,José Martinez|36|5|0|1
+31|Unification of Temporal Data Models.|Christian S. Jensen,Michael D. Soo,Richard T. Snodgrass|26|7|0|0
+32|SQL/XNF - Processing Composite Objects as Abstractions over Relational Data.|Bernhard Mitschang,Hamid Pirahesh,Peter Pistor,Bruce G. Lindsay,Norbert Südkamp|28|0|0|6
+33|Voltaire: A Database Programming Language with a Single Execution Model for Evaluating Queries, Constraints amd Functions.|Sunit K. Gala,Shamkant B. Navathe,Manuel E. Bermudez|3|1|1|0
+34|Entity Identification in Database Integration.|Ee-Peng Lim,Jaideep Srivastava,Satya Prabhakar,James Richardson|218|61|1|19
+35|Integrating Functional and Data Modeling in a Computer Integrated Manufacturing System.|Nabil R. Adam,Aryya Gangopadhyay|9|1|0|1
+36|A Competitive Dynamic Data Replication Algorithm.|Yixiu Huang,Ouri Wolfson|47|4|5|7
+37|Efficient Support of Historical Queries for Multiple Lines of Evolution.|Gad M. Landau,Jeanette P. Schmidt,Vassilis J. Tsotras|3|0|0|0
+38|Representation and Querying in Temporal Databases: the Power of Temporal Constraints.|Manolis Koubarakis|44|1|0|10
+39|Valid-time Indeterminancy.|Curtis E. Dyreson,Richard T. Snodgrass|n/a
+40|A Polynomial Time Algorithm for Optimizing Join Queries.|Arun N. Swami,Balakrishna R. Iyer|86|17|4|1
+41|Large Object Support in POSTGRES.|Michael Stonebraker,Michael A. Olson|34|3|3|4
+42|An Evaluation of Physical Disk I/Os for Complex Object Processing.|Wouter B. Teeuw,Christian Rich,Marc H. Scholl,Henk M. Blanken|22|1|0|3
+43|Definition and Application of Metaclasses in an Object-Oriented Database Model.|Jutta Göers,Andreas Heuer|11|0|0|1
+44|Audio/Video Databases: An Object-Oriented Approach.|Simon J. Gibbs,Christian Breiteneder,Dennis Tsichritzis|88|6|0|3
+45|A Framework for Declarative Updates and Constraint Maintenance in Object-Oriented Databases.|Anton P. Karadimce,Susan Darling Urban|19|1|0|6
+46|Batch Scheduling in Parallel Database Systems.|Manish Mehta,Valery Soloviev,David J. DeWitt|47|9|0|4
+47|Workload Balance and Page Access Scheduling For Parallel Joins In Shared-Nothing Systems.|Chiang Lee,Zue-An Chang|17|2|0|0
+48|A Truncating Hash Algorithm for Processing Band-Join Queries.|Valery Soloviev|8|2|0|0
+49|An Access Structure for Generalized Transitive Closure Queries.|Rakesh Agrawal,Jerry Kiernan|31|2|1|1
+50|Continuous Backup Systems Utilizing Flash Memory.|Hiroki Takakura,Yahiko Kambayashi|1|0|0|0
+51|Data fragmentation for parallel transitive closure strategies.|Maurice A. W. Houtsma,Peter M. G. Apers,Gideon L. V. Schipper|18|0|0|1
+52|Can OODB Technology Solve CAD Design Data Management Problems? (Panel Abstract).|Anoop Singhal|0|0|0|0
+53|Parallel Database Systems: the case for shared-something.|Patrick Valduriez|56|3|0|1
+54|The Design, Implementation, and Evaluation of an Object-Based Sharing Mechanism for Federated Database Systems.|Doug Fang,Shahram Ghandeharizadeh,Dennis McLeod,Antonio Si|25|1|0|0
+55|Construction of a Relational Front-end for Object-Oriented Database Systems.|Weiyi Meng,Clement T. Yu,Won Kim,Gaoming Wang,Tracy Pham,Son Dao|38|4|0|5
+56|An Object-Oriented View Onto Public, Heterogeneous Text Databases.|Andreas Paepcke|25|3|5|1
+57|SLEVE: Semantic Locking for EVEnt synchronisation.|Andrea H. Skarra|5|0|1|2
+58|Transaction Support in a Log-Structured File System.|Margo I. Seltzer|53|25|11|0
+59|Algorithms for the Management of Remote Backup Data Bases for Disaster Recovery.|C. Mohan,Kent Treiber,Ron Obermarck|67|25|5|8
+60|Two-Phase Commit Optimizations and Tradeoffs in the Commercial Environment.|George Samaras,Kathryn Britton,Andrew Citron,C. Mohan|55|14|11|2
+61|The Efficient Computation of Strong Partial Transitive-Closures.|Ismail H. Toroslu,Ghassan Z. Qadah|12|0|0|4
+62|Dynamic Query Optimization in Rdb/VMS.|Gennady Antoshenkov|99|19|4|2
+63|Efficient Evaluation of Traversal Recursive Queries Using Connectivity Index.|Kien A. Hua,Jeffrey X. W. Su,Chau M. Hua|17|2|0|0
+64|Normalization of Linear Recursions in Deductive Databases.|Jiawei Han,Kangsheng Zeng,Tong Lu|8|0|0|0
+65|A Bottom-up Query Evaluation Method for Stratified Databases.|Yangjun Chen|15|0|0|8
+66|Dynamic Finite Versioning: An Effective Versioning Approach to Concurrent Transaction and Query Processing.|Kun-Lung Wu,Philip S. Yu,Ming-Syan Chen|27|3|1|4
+67|Performance Characteristics of Epsilon Serializability with Hierarchical Inconsistency Bounds.|Mohan Kamath,Krithi Ramamritham|29|2|0|2
+68|The Correctness of Concurrency Control for Multiversion Database Systems with Limited Number of Versions.|Tadeusz Morzy|4|0|0|0
+69|Are We Polishing a Round Ball? (Panel Abstract).|Michael Stonebraker|1|1|0|0
+70|On Updates and Inconsistency Repairing in Knowledge Bases.|Beat Wüthrich|46|5|0|0
+71|JazzMatch: Fine-Grained Parallel Matching for Large Rule Sets.|Marco Richeldi,Jack Tan|5|0|0|1
+72|A Descriptive Semantic Formalism for Medicine.|Carole A. Goble,Andrzej J. Glowinski,W. A. Nowlan,Alan L. Rector|18|2|0|2
+73|A Language Multidatabase System Communication Protocol.|Omran A. Bukhres,eva Kühn,Franz Puntigam|4|0|0|1
+74|Execution of Extended Multidatabase SQL.|L. Suardi,Marek Rusinkiewicz,Witold Litwin|11|0|0|4
+75|Polyglot: Extensions to Relational Databases for Sharable Types and Functions in a Multi-Language Environment.|Linda G. DeMichiel,Donald D. Chamberlin,Bruce G. Lindsay,Rakesh Agrawal,Manish Arya|20|8|8|1
+76|Model-Based Design Bases for Task-Oriented Systems.|Christian Stary|5|0|0|1
+77|Data Quality Requirements Analysis and Modeling.|Richard Y. Wang,Henry B. Kon,Stuart E. Madnick|285|107|11|18
+78|On Modularity for Conceptual Data Models and the Consequences for Subtyping, Inheritance & Overriding.|Olga De Troyer,René Janssen|15|1|0|0

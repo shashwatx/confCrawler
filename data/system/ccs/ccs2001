@@ -1,0 +1,29 @@
+28
+1|CCS 2001, Proceedings of the 8th ACM Conference on Computer and Communications Security, Philadelphia, Pennsylvania, USA, November 6-8, 2001.|Michael K. Reiter,Pierangela Samarati|n/a
+2|Error-tolerant password recovery.|Niklas Frykholm,Ari Juels|71|19|3|4
+3|Delegation of cryptographic servers for capture-resilient devices.|Philip D. MacKenzie,Michael K. Reiter|44|12|2|8
+4|Twin signatures: an alternative to the hash-and-sign paradigm.|David Naccache,David Pointcheval,Jacques Stern|42|22|0|4
+5|The BiBa one-time signature and broadcast authentication protocol.|Adrian Perrig|317|118|7|9
+6|Policy algebras for access control: the propositional case.|Duminda Wijesekera,Sushil Jajodia|31|7|0|4
+7|A Chinese wall security model for decentralized workflow systems.|Vijayalakshmi Atluri,Soon Ae Chun,Pietro Mazzoleni|99|25|0|7
+8|Design and implementation of a flexible RBAC-service in an object-oriented scripting language.|Gustaf Neumann,Mark Strembeck|53|11|0|20
+9|An efficient security verification method for programs with stack inspection.|Naoya Nitta,Yoshiaki Takata,Hiroyuki Seki|29|4|0|11
+10|The performance of public key-enabled kerberos authentication in mobile computing applications.|Alan Harbitter,Daniel A. Menascé|64|10|0|3
+11|A new approach to DNS security (DNSSEC).|Giuseppe Ateniese,Stefan Mangard|62|30|0|1
+12|Events in security protocols.|Federico Crazzolara,Glynn Winskel|117|24|0|14
+13|On the relationship between strand spaces and multi-agent systems.|Joseph Y. Halpern,Riccardo Pucella|39|8|0|4
+14|A verifiable secret shuffle and its application to e-voting.|C. Andrew Neff|490|205|5|7
+15|Tangler: a censorship-resistant publishing system based on document entanglements.|Marc Waldman,David Mazières|143|42|0|0
+16|Flexible authentication of XML documents.|Premkumar T. Devanbu,Michael Gertz,April Kwong,Charles U. Martel,Glen Nuckolls,Stuart G. Stubblebine|155|40|3|5
+17|Interoperable strategies in automated trust negotiation.|Ting Yu,Marianne Winslett,Kent E. Seamons|193|47|3|16
+18|Distributed credential chain discovery in trust management: extended abstract.|Ninghui Li,William H. Winsborough,John C. Mitchell|492|143|0|40
+19|Constraint solving for bounded-process cryptographic protocol analysis.|Jonathan K. Millen,Vitaly Shmatikov|411|134|0|11
+20|Inductive methods and contract-signing protocols.|Rohit Chadha,Max I. Kanovich,Andre Scedrov|85|14|0|6
+21|The faithfulness of abstract protocol analysis: message authentication.|Joshua D. Guttman,F. Javier Thayer,Lenore D. Zuck|71|13|0|6
+22|OCB: a block-cipher mode of operation for efficient authenticated encryption.|Phillip Rogaway,Mihir Bellare,John Black,Ted Krovetz|618|294|24|40
+23|Paillier's cryptosystem revisited.|Dario Catalano,Rosario Gennaro,Nick Howgrave-Graham,Phong Q. Nguyen|120|28|0|6
+24|Securely combining public-key cryptosystems.|Stuart Haber,Benny Pinkas|47|27|0|2
+25|Practical forward secure group signature schemes.|Dawn Xiaodong Song|209|77|2|0
+26|Formalizing GDOI group key management requirements in NPATRL.|Catherine Meadows,Paul F. Syverson|34|7|0|5
+27|Accountable-subgroup multisignatures: extended abstract.|Silvio Micali,Kazuo Ohta,Leonid Reyzin|n/a
+28|Provably authenticated group Diffie-Hellman key exchange.|Emmanuel Bresson,Olivier Chevassut,David Pointcheval,Jean-Jacques Quisquater|391|164|2|28

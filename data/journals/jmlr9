@@ -1,0 +1,67 @@
+66
+1|Max-margin Classification of Data with Absent Features.|Gal Chechik,Geremy Heitz,Gal Elidan,Pieter Abbeel,Daphne Koller|71|57|1|0
+2|Linear-Time Computation of Similarity Measures for Sequential Data.|Konrad Rieck,Pavel Laskov|88|67|0|29
+3|On the Suitable Domain for SVM Training in Image Coding.|Gustavo Camps-Valls,Jaime Gutierrez,Gabriel Gómez-Pérez,Jesus Malo|21|14|0|9
+4|Discriminative Learning of Max-Sum Classifiers.|Vojtech Franc,Bogdan Savchynskyy|24|22|0|4
+5|Active Learning by Spherical Subdivision.|Falk-Florian Henrich,Klaus Obermayer|3|2|0|2
+6|Evidence Contrary to the Statistical View of Boosting.|David Mease,Abraham J. Wyner|140|113|0|1
+7|Optimization Techniques for Semi-Supervised Support Vector Machines.|Olivier Chapelle,Vikas Sindhwani,S. Sathiya Keerthi|272|218|0|3
+8|Near-Optimal Sensor Placements in Gaussian Processes: Theory, Efficient Algorithms and Empirical Studies.|Andreas Krause,Ajit Paul Singh,Carlos Guestrin|522|451|5|29
+9|Support Vector Machinery for Infinite Ensemble Learning.|Hsuan-Tien Lin,Ling Li|38|33|0|8
+10|Algorithms for Sparse Linear Classifiers in the Massive Data Setting.|Suhrid Balakrishnan,David Madigan|50|37|2|0
+11|Generalization from Observed to Unobserved Features by Clustering.|Eyal Krupka,Naftali Tishby|9|5|0|6
+12|A Tutorial on Conformal Prediction.|Glenn Shafer,Vladimir Vovk|134|111|0|7
+13|Theoretical Advantages of Lenient Learners: An Evolutionary Game Theoretic Perspective.|Liviu Panait,Karl Tuyls,Sean Luke|58|37|0|17
+14|A Recursive Method for Structural Learning of Directed Acyclic Graphs.|Xianchao Xie,Zhi Geng|57|47|0|8
+15|Model Selection Through Sparse Maximum Likelihood Estimation for Multivariate Gaussian or Binary Data.|Onureena Banerjee,Laurent El Ghaoui,Alexandre d'Aspremont|712|618|1|11
+16|Comments on the Complete Characterization of a Family of Solutions to a Generalized Fisher Criterion.|Jieping Ye|2|1|0|0
+17|Estimating the Confidence Interval for Prediction Errors of Support Vector Machine Classifiers.|Bo Jiang,Xuegong Zhang,Tianxi Cai|32|30|0|0
+18|An Information Criterion for Variable Selection in Support Vector Machines.|Gerda Claeskens,Christophe Croux,Johan Van Kerckhoven|27|21|0|0
+19|Closed Sets for Labeled Data.|Gemma C. Garriga,Petra Kralj,Nada Lavrac|52|41|0|1
+20|Learning Reliable Classifiers From Small or Incomplete Data Sets: The Naive Credal Classifier 2.|Giorgio Corani,Marco Zaffalon|48|38|0|19
+21|A Library for Locally Weighted Projection Regression.|Stefan Klanke,Sethu Vijayakumar,Stefan Schaal|48|41|0|4
+22|Trust Region Newton Method for Logistic Regression.|Chih-Jen Lin,Ruby C. Weng,S. Sathiya Keerthi|361|280|1|27
+23|Graphical Models for Structured Classification, with an Application to Interpreting Images of Protein Subcellular Location Patterns.|Shann-Ching Chen,Geoffrey J. Gordon,Robert F. Murphy|12|9|0|2
+24|Learning Control Knowledge for Forward Search Planning.|Sung Wook Yoon,Alan Fern,Robert Givan|62|55|0|8
+25|Multi-class Discriminant Kernel Learning via Convex Programming.|Jieping Ye,Shuiwang Ji,Jianhui Chen|88|68|0|2
+26|Bayesian Inference and Optimal Design for the Sparse Linear Model.|Matthias W. Seeger|221|179|4|7
+27|Finite-Time Bounds for Fitted Value Iteration.|Rémi Munos,Csaba Szepesvári|118|96|0|12
+28|An Error Bound Based on a Worst Likely Assignment.|Eric Bax,Augusto Callejas|6|6|0|6
+29|Graphical Methods for Efficient Likelihood Inference in Gaussian Covariance Models.|Mathias Drton,Thomas S. Richardson|27|16|0|8
+30|Bouligand Derivatives and Robustness of Support Vector Machines for Regression.|Andreas Christmann,Arnout Van Messem|35|21|0|16
+31|Accelerated Neural Evolution through Cooperatively Coevolved Synapses.|Faustino J. Gomez,Jürgen Schmidhuber,Risto Miikkulainen|174|150|6|23
+32|Search for Additive Nonlinear Time Series Causal Models.|Tianjiao Chu,Clark Glymour|31|28|0|3
+33|Shark.|Christian Igel,Verena Heidrich-Meisner,Tobias Glasmachers|n/a
+34|Hit Miss Networks with Applications to Instance Selection.|Elena Marchiori|54|47|0|2
+35|Consistency of Trace Norm Minimization.|Francis R. Bach|138|121|0|2
+36|Learning Similarity with Operator-valued Large-margin Classifiers.|Andreas Maurer|11|9|0|0
+37|Ranking Categorical Features Using Generalization Properties.|Sivan Sabato,Shai Shalev-Shwartz|5|4|0|0
+38|A Multiple Instance Learning Strategy for Combating Good Word Attacks on Spam Filters.|Zach Jorgensen,Yan Zhou,W. Meador Inge|49|40|0|2
+39|Cross-Validation Optimization for Large Scale Structured Classification Kernel Methods.|Matthias W. Seeger|9|7|0|0
+40|Consistency of the Group Lasso and Multiple Kernel Learning.|Francis R. Bach|518|459|1|9
+41|Maximal Causes for Non-linear Component Extraction.|Jörg Lücke,Maneesh Sahani|45|39|0|9
+42|Optimal Solutions for Sparse Principal Component Analysis.|Alexandre d'Aspremont,Francis R. Bach,Laurent El Ghaoui|197|184|3|19
+43|Using Markov Blankets for Causal Structure Learning.|Jean-Philippe Pellet,André Elisseeff|101|87|0|3
+44|A Bahadur Representation of the Linear Support Vector Machine.|Ja-Yong Koo,Yoonkyung Lee,Yuwon Kim,Changyi Park|21|17|0|5
+45|Coordinate Descent Method for Large-scale L2-loss Linear Support Vector Machines.|Kai-Wei Chang,Cho-Jui Hsieh,Chih-Jen Lin|137|122|0|13
+46|Online Learning of Complex Prediction Problems Using Simultaneous Projections.|Yonatan Amit,Shai Shalev-Shwartz,Yoram Singer|5|4|0|0
+47|Causal Reasoning with Ancestral Graphs.|Jiji Zhang|30|26|0|1
+48|Incremental Identification of Qualitative Models of Biological Systems using Inductive Logic Programming.|Ashwin Srinivasan,Ross D. King|13|11|0|3
+49|Learning to Combine Motor Primitives Via Greedy Additive Regression.|Manu Chhabra,Robert A. Jacobs|3|3|0|0
+50|Aggregation of SVM Classifiers Using Sobolev Spaces.|Sébastien Loustau|12|10|0|2
+51|Dynamic Hierarchical Markov Random Fields for Integrated Web Data Extraction.|Jun Zhu,Zaiqing Nie,Bo Zhang,Ji-Rong Wen|28|21|0|6
+52|Universal Multi-Task Kernels.|Andrea Caponnetto,Charles A. Micchelli,Massimiliano Pontil,Yiming Ying|98|89|0|2
+53|A New Algorithm for Estimating the Effective Dimension-Reduction Subspace.|Arnak S. Dalalyan,Anatoli Juditsky,Vladimir Spokoiny|37|33|0|5
+54|Value Function Based Reinforcement Learning in Changing Markovian Environments.|Balázs Csanád Csáji,László Monostori|11|10|0|3
+55|Regularization on Graphs with Function-adapted Diffusion Processes.|Arthur D. Szlam,Mauro Maggioni,Ronald R. Coifman|96|81|0|14
+56|Nearly Uniform Validation Improves Compression-Based Error Bounds.|Eric Bax|6|5|0|4
+57|Learning from Multiple Sources.|Koby Crammer,Michael Kearns,Jennifer Wortman|93|82|0|2
+58|Exponentiated Gradient Algorithms for Conditional Random Fields and Max-Margin Markov Networks.|Michael Collins,Amir Globerson,Terry Koo,Xavier Carreras,Peter L. Bartlett|130|102|0|8
+59|Classification with a Reject Option using a Hinge Loss.|Peter L. Bartlett,Marten H. Wegkamp|117|99|0|1
+60|Learning Balls of Strings from Edit Corrections.|Leonor Becerra-Bonache,Colin de la Higuera,Jean-Christophe Janodet,Frédéric Tantini|21|15|0|9
+61|LIBLINEAR: A Library for Large Linear Classification.|Rong-En Fan,Kai-Wei Chang,Cho-Jui Hsieh,Xiang-Rui Wang,Chih-Jen Lin|3616|3400|30|10
+62|On Relevant Dimensions in Kernel Feature Spaces.|Mikio L. Braun,Joachim M. Buhmann,Klaus-Robert Müller|78|71|0|4
+63|Manifold Learning: The Price of Normalization.|Yair Goldberg,Alon Zakai,Dan Kushnir,Yaacov Ritov|52|47|0|4
+64|Complete Identification Methods for the Causal Hierarchy.|Ilya Shpitser,Judea Pearl|55|53|0|23
+65|Mixed Membership Stochastic Blockmodels.|Edoardo M. Airoldi,David M. Blei,Stephen E. Fienberg,Eric P. Xing|917|839|2|48
+66|Consistency of Random Forests and Other Averaging Classifiers.|Gérard Biau,Luc Devroye,Gábor Lugosi|225|192|0|8

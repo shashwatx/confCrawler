@@ -1,0 +1,87 @@
+86
+1|SIGMOD 1999, Proceedings ACM SIGMOD International Conference on Management of Data, June 1-3, 1999, Philadelphia, Pennsylvania, USA.|Alex Delis,Christos Faloutsos,Shahram Ghandeharizadeh|n/a
+2|Integration of Spatial Join Algorithms for Processing Multiple Inputs.|Nikos Mamoulis,Dimitris Papadias|88|7|0|19
+3|Selectivity Estimation in Spatial Databases.|Swarup Acharya,Viswanath Poosala,Sridhar Ramaswamy|253|62|6|5
+4|Efficient Concurrency Control in Multidimensional Access Methods.|Kaushik Chakrabarti,Sharad Mehrotra|49|18|1|6
+5|Snakes and Sandwiches: Optimal Clustering Strategies for a Data Warehouse.|H. V. Jagadish,Laks V. S. Lakshmanan,Divesh Srivastava|44|8|0|1
+6|OPTICS: Ordering Points To Identify the Clustering Structure.|Mihael Ankerst,Markus M. Breunig,Hans-Peter Kriegel,Jörg Sander|2252|1280|0|80
+7|Fast Algorithms for Projected Clustering.|Charu C. Aggarwal,Cecilia Magdalena Procopiuc,Joel L. Wolf,Philip S. Yu,Jong Soo Park|994|457|18|49
+8|Logical Logging to Extend Recovery to New Domains.|David B. Lomet,Mark R. Tuttle|23|1|8|4
+9|Efficient Concurrency Control for Broadcast Environments.|Jayavel Shanmugasundaram,Arvind Nithrakashyap,Rajendran M. Sivasankaran,Krithi Ramamritham|170|16|0|0
+10|Update Propagation Protocols For Replicated Databases.|Yuri Breitbart,Raghavan Komondoor,Rajeev Rastogi,S. Seshadri,Abraham Silberschatz|187|31|3|5
+11|Belief Reasoning in MLS Deductive Databases.|Hasan M. Jamil|16|0|0|4
+12|A Multimedia Presentation Algebra.|Sibel Adali,Maria Luisa Sapino,V. S. Subrahmanian|29|3|0|6
+13|Querying Network Directories.|H. V. Jagadish,Laks V. S. Lakshmanan,Tova Milo,Divesh Srivastava,Dimitra Vista|80|3|0|11
+14|Online Association Rule Mining.|Christian Hidber|324|81|1|0
+15|Optimization of Constrained Frequent Set Queries with 2-variable Constraints.|Laks V. S. Lakshmanan,Raymond T. Ng,Jiawei Han,Alex Pang|203|28|0|25
+16|BOAT-Optimistic Decision Tree Construction.|Johannes Gehrke,Venkatesh Ganti,Raghu Ramakrishnan,Wei-Yin Loh|340|110|8|12
+17|Self-tuning Histograms: Building Histograms Without Looking at Data.|Ashraf Aboulnaga,Surajit Chaudhuri|298|68|18|30
+18|Approximate Computation of Multidimensional Aggregates of Sparse Data Using Wavelets.|Jeffrey Scott Vitter,Min Wang|402|77|10|8
+19|Multi-dimensional Selectivity Estimation Using Compressed Histogram Information.|Ju-Hong Lee,Deok-Hwan Kim,Chin-Wan Chung|169|40|5|5
+20|An Efficient Bitmap Encoding Scheme for Selection Queries.|Chee Yong Chan,Yannis E. Ioannidis|214|49|4|1
+21|Query Optimization for Selections Using Bitmaps.|Ming-Chuan Wu|136|25|13|2
+22|A Comparison of Selectivity Estimators for Range Queries on Metric Attributes.|Björn Blohsfeld,Dieter Korus,Bernhard Seeger|67|16|0|5
+23|Random Sampling Techniques for Space Efficient Online Computation of Order Statistics of Large Datasets.|Gurmeet Singh Manku,Sridhar Rajagopalan,Bruce G. Lindsay|193|43|8|2
+24|On Random Sampling over Joins.|Surajit Chaudhuri,Rajeev Motwani,Vivek R. Narasayya|287|81|7|20
+25|Join Synopses for Approximate Query Answering.|Swarup Acharya,Phillip B. Gibbons,Viswanath Poosala,Sridhar Ramaswamy|347|101|11|12
+26|Ripple Joins for Online Aggregation.|Peter J. Haas,Joseph M. Hellerstein|358|100|6|17
+27|An Adaptive Query Execution System for Data Integration.|Zachary G. Ives,Daniela Florescu,Marc Friedman,Alon Y. Levy,Daniel S. Weld|538|111|21|12
+28|Query Optimization in the Presence of Limited Access Patterns.|Daniela Florescu,Alon Y. Levy,Ioana Manolescu,Dan Suciu|225|62|3|11
+29|Query Processing Techniques for Arrays.|Arunprasad P. Marathe,Kenneth Salem|49|33|0|1
+30|Mind Your Vocabulary: Query Mapping Across Heterogeneous Information Sources.|Kevin Chen-Chuan Chang,Hector Garcia-Molina|112|13|3|9
+31|Client-Site Query Extensions.|Tobias Mayr,Praveen Seshadri|21|1|0|5
+32|Bottom-Up Computation of Sparse and Iceberg CUBEs.|Kevin S. Beyer,Raghu Ramakrishnan|600|175|5|7
+33|DynaMat: A Dynamic View Management System for Data Warehouses.|Yannis Kotidis,Nick Roussopoulos|256|86|17|11
+34|Shrinking the Warehouse Update Window.|Wilburt Labio,Ramana Yerneni,Hector Garcia-Molina|82|20|0|3
+35|WALRUS: A Similarity Retrieval Algorithm for Image Databases.|Apostol Natsev,Rajeev Rastogi,Kyuseok Shim|291|52|3|7
+36|A New Method for Similarity Indexing of Market Basket Data.|Charu C. Aggarwal,Joel L. Wolf,Philip S. Yu|91|30|0|5
+37|Efficient Geometry-based Similarity Search of 3D Spatial Databases.|Daniel A. Keim|90|16|1|5
+38|Storing Semistructured Data with STORED.|Alin Deutsch,Mary F. Fernández,Dan Suciu|789|105|29|14
+39|Computing Capabilities of Mediators.|Ramana Yerneni,Chen Li,Hector Garcia-Molina,Jeffrey D. Ullman|114|14|0|18
+40|Query Rewriting for Semistructured Data.|Yannis Papakonstantinou,Vasilis Vassalos|188|23|0|14
+41|Record-Boundary Discovery in Web Documents.|David W. Embley,Y. S. Jiang,Yiu-Kai Ng|387|97|10|21
+42|Automatic Discovery of Language Models for Text Databases.|James P. Callan,Margaret E. Connell,Aiqun Du|167|22|2|7
+43|A Layered Architecture for Querying Dynamic Web Content.|Hasan Davulcu,Juliana Freire,Michael Kifer,I. V. Ramakrishnan|110|24|35|11
+44|``Honey, I Shrunk the DBMS'': Footprint, Mobility, and Beyond (Panel).|Praveen Seshadri|n/a
+45|Of Crawlers, Portals, Mice and Men: Is there more to Mining the Web? (Panel).|Minos N. Garofalakis,Sridhar Ramaswamy,Rajeev Rastogi,Kyuseok Shim|10|0|0|0
+46|Data Management Issues in Electronic Commerce (Panel).|M. Tamer Özsu|5|0|0|0
+47|Petabyte Databases.|Dirk Düllmann|18|2|0|0
+48|A Database Perspective on Lotus Domino/Notes.|C. Mohan|12|2|1|1
+49|Hypertext Databases and Data Mining.|Soumen Chakrabarti|3|2|1|1
+50|Clustering Methods for Large Databases: From the Past to the Future.|Alexander Hinneburg,Daniel A. Keim|27|8|0|4
+51|Managing Web Data.|Dan Suciu|19|10|12|1
+52|O-O, What's Happening to DB2?|Michael J. Carey,Donald D. Chamberlin,Srinivasa Narayanan,Bennet Vance,Doug Doole,Serge Rielau,Richard Swagerman,Nelson Mendonça Mattos|5|1|0|0
+53|Bringing Object-Relational Technology to Mainstream.|Vishu Krishnamurthy,Sandeepan Banerjee,Anil Nori|22|4|2|1
+54|Implementing the Spirit of SQL-99.|Paul Brown|1|0|0|0
+55|DataBlitz Storage Manager: Main Memory Database Performance for Critical Applications.|Jerry Baulier,Philip Bohannon,S. Gogate,C. Gupta,S. Haldar,S. Joshi,A. Khivesera,Henry F. Korth,Peter McIlroy,J. Miller,P. P. S. Narayan,M. Nemeth,Rajeev Rastogi,S. Seshadri,Abraham Silberschatz,S. Sudarshan,M. Wilder,C. Wei|57|14|2|5
+56|Indexing Medium-dimensionality Data in Oracle.|Kothuri Venkata Ravi Kanth,Siva Ravada,Jayant Sharma,Jay Banerjee|54|9|4|13
+57|EMC Information Sharing: Direct Access to MVS Data from Unix and NT.|Walt Kohler|4|0|4|0
+58|Daytona And The Fourth-Generation Language Cymbal.|Rick Greer|60|22|2|1
+59|Merge Replication in Microsoft's SQL Server 7.0.|Brad Hammond|4|0|0|0
+60|In-Memory Data Management for Consumer Transactions The Times-Ten Approach.|Times-Ten Team|25|12|0|0
+61|Microsoft Site Server (Commerce Edition).|Bassel Ojjeh|n/a
+62|E-Commerce Database Issues and Experience.|Anand Rajaraman|n/a
+63|Versions and Workspaces in Microsoft Repository.|Thomas Bergstraesser,Philip A. Bernstein,Shankar Pal,David Shutt|15|0|2|1
+64|The Need for Distributed Asynchronous Transactions.|Lyman Do,Prabhu Ram,Pamela Drew|17|1|0|2
+65|Improving OLTP Data Quality Using Data Warehouse Mechanisms.|Matthias Jarke,Christoph Quix,Guido Blees,Dirk Lehmann,Gunter Michalk,Stefan Striel|18|5|0|7
+66|Data Integration and Warehousing in Telecom Italia.|Stefano Trisolini,Maurizio Lenzerini,Daniele Nardi|20|5|0|6
+67|An XML-based Wrapper Generator for Web Information Extraction.|Ling Liu,Wei Han,David Buttler,Calton Pu,Wei Tang|46|7|0|2
+68|DBIS-Toolkit: Adaptable Middleware for Large Scale Data Delivery.|Mehmet Altinel,Demet Aksoy,Thomas Baby,Michael J. Franklin,William Shapiro,Stanley B. Zdonik|49|2|0|4
+69|DOMINO: Databases fOr MovINg Objects tracking.|Ouri Wolfson,A. Prasad Sistla,Bo Xu,Jutai Zhou,Sam Chamberlain|128|26|0|0
+70|Database Patchwork on the Internet.|Reinhard Braumandl,Alfons Kemper,Donald Kossmann|13|1|0|10
+71|Evolvable View Environment (EVE): Non-Equivalent View Maintenance under Schema Changes.|Elke A. Rundensteiner,Andreas Koeller,Xin Zhang,Amber van Wyk,Yong Li,Amy J. Lee,Anisoara Nica|24|4|0|13
+72|Exploratory Mining via Constrained Frequent Set Queries.|Raymond T. Ng,Laks V. S. Lakshmanan,Jiawei Han,Teresa Mah|44|6|0|1
+73|Nodose Version 2.0.|Brad Adelberg,Matthew Denny|17|2|0|0
+74|Phoenix: Making Applications Robust.|Roger S. Barga,David B. Lomet|16|1|4|5
+75|PowerBookmarks: A System for Personalizable Web Information Organization, Sharing, and Management.|Wen-Syan Li,Quoc Vu,Edward Y. Chang,Divyakant Agrawal,Kyoji Hirata,Sougata Mukherjea,Yi-Leh Wu,Corey Bufi,Kevin Chen-Chuan Chang,Yoshinori Hara,Reiko Ito,Yutaka Kimura,Kazuyuki Shimazu,Yukiyoshi Saito|183|33|54|2
+76|SERF: ODMG-Based Generic Re-structuring Facility.|Elke A. Rundensteiner,Kajal T. Claypool,Ming Li,Li Chen,Xin Zhang,Chandrakant Natarajan,Jing Jin,Stacia De Lima,S. Weiner|12|3|1|8
+77|TAM: A System for Dynamic Transactional Activity Management.|Tong Zhou,Ling Liu,Calton Pu|8|1|2|1
+78|The Aqua Approximate Query Answering System.|Swarup Acharya,Phillip B. Gibbons,Viswanath Poosala,Sridhar Ramaswamy|137|52|1|3
+79|The CCUBE Constraint Object-Oriented Database System.|Alexander Brodsky,Victor E. Segal,Jia Chen,Pavel A. Exarkhopoulo|34|5|0|8
+80|The Cornell Jaguar System: Adding Mobility to PREDATOR.|Philippe Bonnet,Kyle Buza,Zhiyuan Chen,Victor Cheng,Randolph Chung,Takako M. Hickey,Ryan Kennedy,Daniel Mahashin,Tobias Mayr,Ivan Oprencak,Praveen Seshadri,Hubert Siu|n/a
+81|The Active MultiSync Controller of the Cubetree Storage Organization.|Nick Roussopoulos,Yannis Kotidis,Yannis Sismanis|1|0|0|0
+82|The Jungle Database Search Engine.|Michael H. Böhlen,Linas Bukauskas,Curtis E. Dyreson|9|1|0|1
+83|The WASA2 Object-Oriented Workflow Management System.|Gottfried Vossen,Mathias Weske|55|5|0|5
+84|A User-Centered Interface for Querying Distributed Multimedia Databases.|Isabel F. Cruz,Kimberly M. James|12|3|4|3
+85|World Wide Database - Integrating the Web, CORBA, and Databases.|Athman Bouguettaya,Boualem Benatallah,Lily Hendra,James Beard,Kevin Smith,Mourad Ouzzani|9|0|0|0
+86|XML-Based Information Mediation with MIX.|Chaitanya K. Baru,Amarnath Gupta,Bertram Ludäscher,Richard Marciano,Yannis Papakonstantinou,Pavel Velikhov,Vincent Chu|368|35|1|20

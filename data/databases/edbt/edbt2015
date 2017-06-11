@@ -1,0 +1,72 @@
+71
+1|Proceedings of the 18th International Conference on Extending Database Technology, EDBT 2015, Brussels, Belgium, March 23-27, 2015.|Gustavo Alonso,Floris Geerts,Lucian Popa,Pablo Barceló,Jens Teubner,Martín Ugarte,Jan Van den Bussche,Jan Paredaens|n/a
+2|Front matter.|n/a
+3|Online Data Partitioning in Distributed Database Systems.|Kaiji Chen,Yongluan Zhou,Yu Cao|0|0|0|0
+4|Chariots: A Scalable Shared Log for Data Management in Multi-Datacenter Cloud Environments.|Faisal Nawab,Vaibhav Arora,Divyakant Agrawal,Amr El Abbadi|1|1|0|1
+5|Hermes: Dynamic Partitioning for Distributed Social Network Graph Databases.|Daniel Nicoara,Shahin Kamali,Khuzaima Daudjee,Lei Chen|3|2|0|0
+6|On Debugging Non-Answers in Keyword Search Systems.|Akanksha Baid,Wentao Wu,Chong Sun,AnHai Doan,Jeffrey F. Naughton|5|4|0|0
+7|Elevating Annotation Summaries To First-Class Citizens In InsightNotes.|Karim Ibrahim,Dongqing Xiao,Mohamed Y. Eltabakh|2|2|0|2
+8|Estimating Data Integration and Cleaning Effort.|Sebastian Kruse,Paolo Papotti,Felix Naumann|2|1|0|0
+9|Mining Frequent Co-occurrence Patterns across Multiple Data Streams.|Ziqiang Yu,Xiaohui Yu,Yang Liu,Wenzhu Li,Jian Pei|0|0|0|0
+10|Extracting Aggregate Answer Statistics for Integration.|Zainab Zolaktaf,Jian Xu,Rachel Pottinger|0|0|0|0
+11|Discovering Recurring Patterns in Time Series.|R. Uday Kiran,Haichuan Shang,Masashi Toyoda,Masaru Kitsuregawa|2|1|0|2
+12|Learning Path Queries on Graph Databases.|Angela Bonifati,Radu Ciucanu,Aurélien Lemay|6|5|0|4
+13|TimeReach: Historical Reachability Queries on Evolving Graphs.|Konstantinos Semertzidis,Evaggelia Pitoura,Kostas Lillis|7|0|0|3
+14|Efficiently Computing Top-K Shortest Path Join.|Lijun Chang,Xuemin Lin,Lu Qin,Jeffrey Xu Yu,Jian Pei|0|0|0|0
+15|SIEF: Efficiently Answering Distance Queries for Failure Prone Graphs.|Yongrui Qin,Quan Z. Sheng,Wei Emma Zhang|0|0|0|0
+16|A Selectivity based approach to Continuous Pattern Detection in Streaming Graphs.|Sutanay Choudhury,Lawrence B. Holder,George Chin Jr.,Khushbu Agarwal,John Feo|4|4|0|1
+17|Scaling Unbound-Property Queries on Big RDF Data Warehouses using MapReduce.|Padmashree Ravindra,Kemafor Anyanwu|2|1|0|0
+18|Reaching a desired set of users via different paths: an online advertising technique on micro-blogging platforms.|Milad Eftekhar,Nick Koudas,Yashar Ganjali|0|0|0|0
+19|On Optimality of Jury Selection in Crowdsourcing.|Yudian Zheng,Reynold Cheng,Silviu Maniu,Luyi Mo|1|0|0|0
+20|Finding the Most Diverse Products using Preference Queries.|Orestis Gkorgkas,Akrivi Vlachou,Christos Doulkeridis,Kjetil Nørvåg|2|2|0|1
+21|Index Design for Enforcing Partial Referential Integrity Efficiently.|Mozhgan Memari,Sebastian Link|1|1|0|1
+22|Query Optimization over Cloud Data Market.|Yu Li,Eric Lo,Man Lung Yiu,Wenjian Xu|0|0|0|0
+23|Learning to Rank Adaptively for Scalable Information Extraction.|Pablo Barrio,Gonçalo Simões,Helena Galhardas,Luis Gravano|1|1|0|1
+24|The Sweet Spot between Inverted Indices and Metric-Space Indexing for Top-K-List Similarity Search.|Evica Milchevski,Avishek Anand,Sebastian Michel|1|1|0|0
+25|Optimizing Reformulation-based Query Answering in RDF.|Damian Bursztyn,François Goasdoué,Ioana Manolescu|6|6|0|4
+26|Resolving XML Semantic Ambiguity.|Nathalie Charbel,Joe Tekli,Richard Chbeir,Gilbert Tekli|2|2|0|1
+27|SpMacho - Optimizing Sparse Linear Algebra Expressions with Probabilistic Density Estimation.|David Kernert,Frank Köhler,Wolfgang Lehner|1|1|0|0
+28|Efficient evaluation of threshold queries of derived fields in a numerical simulation database.|Kalin Kanov,Randal C. Burns,Cristian Constantin Lalescu|0|0|0|0
+29|Identifying Converging Pairs of Nodes on a Budget.|Konstantina Lazaridou,Konstantinos Semertzidis,Evaggelia Pitoura,Panayiotis Tsaparas|3|2|0|2
+30|Query-Based Outlier Detection in Heterogeneous Information Networks.|Jonathan Kuck,Honglei Zhuang,Xifeng Yan,Hasan Cam,Jiawei Han|1|1|0|0
+31|Efficient caching for constrained skyline queries.|Michael L. Mortensen,Sean Chester,Ira Assent,Matteo Magnani|0|0|0|0
+32|Explanations for Skyline Query Results.|Sean Chester,Ira Assent|0|0|0|0
+33|Efficient Processing of Hamming-Distance-Based Similarity-Search Queries Over MapReduce.|MingJie Tang,Yongyang Yu,Walid G. Aref,Qutaibah M. Malluhi,Mourad Ouzzani|1|1|0|1
+34|Joins for Hybrid Warehouses: Exploiting Massive Parallelism in Hadoop and Enterprise Data Warehouses.|Yuanyuan Tian,Tao Zou,Fatma Ozcan,Romulo Goncalves,Hamid Pirahesh|3|3|0|0
+35|Benchmarking Smart Meter Data Analytics.|Xiufeng Liu,Lukasz Golab,Wojciech M. Golab,Ihab F. Ilyas|2|1|0|1
+36|Crowd-Selection Query Processing in Crowdsourcing Databases: A Task-Driven Approach.|Zhou Zhao,Furu Wei,Ming Zhou,Weikeng Chen,Wilfred Ng|0|0|0|0
+37|Dismantling Complicated Query Attributes with Crowd.|Matan Laadan,Tova Milo|0|0|0|0
+38|Group Recommendation with Temporal Affinities.|Sihem Amer-Yahia,Behrooz Omidvar Tehrani,Senjuti Basu Roy,Nafiseh Shabib|0|0|0|0
+39|On Processing Top-k Spatio-Textual Preference Queries.|George Tsatsanifos,Akrivi Vlachou|3|2|0|0
+40|Probabilistic Resource Route Queries with Reappearance.|Gregor Jossé,Klaus Arthur Schmid,Matthias Schubert|1|1|0|1
+41|Cost Estimation of Spatial k-Nearest-Neighbor Operators.|Ahmed M. Aly,Walid G. Aref,Mourad Ouzzani|3|3|0|3
+42|Reconstruction Privacy: Enabling Statistical Learning.|Ke Wang,Chao Han,Ada Wai-Chee Fu,Raymond Chi-Wing Wong,Philip S. Yu|2|1|0|2
+43|Time series anomaly discovery with grammar-based compression.|Pavel Senin,Jessica Lin,Xing Wang,Tim Oates,Sunil Gandhi,Arnold P. Boedihardjo,Crystal Chen,Susan Frankenstein|0|0|0|0
+44|K-Nearest Neighbor Temporal Aggregate Queries.|Yu Sun,Jianzhong Qi,Yu Zheng,Rui Zhang|2|0|0|2
+45|Interactive Path Query Specification on Graph Databases.|Angela Bonifati,Radu Ciucanu,Aurélien Lemay|2|2|0|2
+46|Flexible Analysis of Plant Genomes in a Database Management System.|Sebastian Dorok,Sebastian Breß,Jens Teubner,Gunter Saake|2|2|0|2
+47|Demonstrating Transfer-Efficient Sample Maintenance on Graphics Cards.|Max Heimel,Martin Kiefer,Volker Markl|n/a
+48|NoFTL for Real: Databases on Real Native Flash Storage.|Sergey Hardock,Ilia Petrov,Robert Gottstein,Alejandro P. Buchmann|0|0|0|0
+49|Gumbo: Guarded Fragment Queries over Big Data.|Jonny Daenen,Frank Neven,Tony Tan|1|0|0|0
+50|WAVEGUIDE: Evaluating SPARQL Property Path Queries.|Nikolay Yakovets,Parke Godfrey,Jarek Gryz|2|1|0|1
+51|Meta-Stars: Dynamic, Schemaless, and Semantically-Rich Topic Hierarchies in Social BI.|Enrico Gallinucci,Matteo Golfarelli,Stefano Rizzi|1|1|0|0
+52|"I would like to watch something like 'The Terminator'..." Cooperative Query Personalization Based on Perceptual Similarity.|Christoph Lofi,Christian Nieke|0|0|0|0
+53|Liquid Benchmarking: A Platform for Democratizing the Performance Evaluation Process.|Sherif Sakr,Amin Shafaat,Fuad Bajaber,Ahmed Barnawi,Omar Batarfi,Abdulrahman H. Altalhi|0|0|0|0
+54|Natural Language Specification and Violation Reporting of Business Rules over ER-modeled Databases.|Michael Minock,Daniel Oskarsson,Björn Pelzer,Mika Cohen|1|1|0|1
+55|POIESIS: a Tool for Quality-aware ETL Process Redesign.|Vasileios Theodorou,Alberto Abelló,Maik Thiele,Wolfgang Lehner|1|1|0|1
+56|Quarry: Digging Up the Gems of Your Data Treasury.|Petar Jovanovic,Oscar Romero,Alkis Simitsis,Alberto Abelló,Héctor Candón,Sergi Nadal|7|6|0|2
+57|QaRS: A User-Friendly Graphical Tool for Semantic Query Design and Relaxation.|Géraud Fokou,Stéphane Jean,Allel Hadjali,Mickaël Baron|1|1|0|0
+58|Using Object-Awareness to Optimize Join Processing in the SAP HANA Aggregate Cache.|Stephan Müller,Anisoara Nica,Lars Butzmann,Stefan Klauck,Hasso Plattner|0|0|0|0
+59|Transactional Replication in Hybrid Data Store Architectures.|Hojjat Jafarpour,Jun'ichi Tatemura,Hakan Hacigümüs|0|0|0|0
+60|SAP HANA - From Relational OLAP Database to Big Data Infrastructure.|Norman May,Wolfgang Lehner,Shahul Hameed P.,Nitesh Maheshwari,Carsten Müller,Sudipto Chowdhuri,Anil K. Goel|1|1|0|1
+61|Taxi Queue, Passenger Queue or No Queue? - A Queue Detection and Analysis System using Taxi State Transition.|Yu Lu,Shili Xiang,Wei Wu|n/a
+62|Data Ingestion in AsterixDB.|Raman Grover,Michael J. Carey|5|5|0|1
+63|The NPD Benchmark: Reality Check for OBDA Systems.|Davide Lanti,Martín Rezk,Guohui Xiao,Diego Calvanese|12|12|0|5
+64|Event Recognition for Maritime Surveillance.|Kostas Patroumpas,Alexander Artikis,Nikos Katzouris,Marios Vodas,Yannis Theodoridis,Nikos Pelekis|3|2|0|3
+65|Identifying User Interests within the Data Space - a Case Study with SkyServer.|Hoang Vu Nguyen,Klemens Böhm,Florian Becker,Bertrand Goldman,Georg Hinkel,Emmanuel Müller|0|0|0|0
+66|Insights on a Scalable and Dynamic Traffic Management System.|Nikolaos Zygouras,Nikos Zacheilas,Vana Kalogeraki,Dermot Kinane,Dimitrios Gunopulos|4|4|0|2
+67|Reconsolidating Data Structures.|Thomas Heinis,Anastasia Ailamaki|n/a
+68|A Generic Solution to Integrate SQL and Analytics for Big Data.|Nick R. Katsipoulakis,Yuanyuan Tian,Fatma Ozcan,Hamid Pirahesh,Berthold Reinwald|2|1|0|0
+69|ECCO- A Framework for Ecological Data Collection and Management Involving Human Workers.|Senjuti Basu Roy,Sihem Amer-Yahia,Lucas Joppa|0|0|0|0
+70|ligDB - Online Query Processing Without (almost) any Storage.|Evica Milchevski,Sebastian Michel|0|0|0|0
+71|Procrastination Beats Prevention: Timely Sufficient Persistence for Efficient Crash Resilience.|Faisal Nawab,Dhruva R. Chakrabarti,Terence Kelly,Charles B. Morrey III|2|1|0|2

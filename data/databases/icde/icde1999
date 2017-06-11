@@ -1,0 +1,92 @@
+91
+1|Proceedings of the 15th International Conference on Data Engineering, Sydney, Austrialia, March 23-26, 1999.|Masaru Kitsuregawa,Michael P. Papazoglou,Calton Pu|n/a
+2|Que Sera, Sera: The Coincidental Confluence of Economics, Business, and Collaborative Computing.|Michael L. Brodie|7|1|0|0
+3|A Database Approach for Modeling and Querying Video Data.|Cyril Decleir,Mohand-Said Hacid,Jacques Kouloumdjian|68|10|0|6
+4|Efficient Theme and Non-Trivial Repeating Pattern Discovering in Music Databases.|Chih-Chin Liu,Jia-Lien Hsu,Arbee L. P. Chen|108|17|0|10
+5|Query Processing Issues in Image (Multimedia) Databases.|Surya Nepal,M. V. Ramakrishna|289|94|2|5
+6|On Getting Some Answers Quickly, and Perhaps More Later.|Kian-Lee Tan,Cheng Hian Goh,Beng Chin Ooi|14|0|0|0
+7|Systematic Multiresolution and Its Application to the World Wide Web.|Swarup Acharya,Henry F. Korth,Viswanath Poosala|23|9|4|1
+8|Capability-Sensitive Query Processing on Internet Sources.|Hector Garcia-Molina,Wilburt Labio,Ramana Yerneni|42|2|0|5
+9|A Messaging-Based Architecture for Enterprise Application Integration.|Tommy Joseph|2|0|0|0
+10|Database as an Application Integration Platform (Abstract).|Aahok R. Saxena|n/a
+11|Business Objects and Application Integration (Abstract).|Saydean Zeldin|0|0|0|0
+12|Cooperative Caching in Append-only Databases with Hot Spots.|Aman Sinha,Craig M. Chase,Munir Cochinwala|0|0|0|0
+13|Improving RAID Performance Using a Multibuffer Technique.|Kien A. Hua,Khanh Vu,Ta-Hsiung Hu|9|0|0|0
+14|Managing Distributed Memory to Meet Multiclass Workload Response Time Goals.|Markus Sinnwell,Arnd Christian König|15|3|0|3
+15|Scalable Web Server Design for Distributed Data Management.|Scott M. Baker,Bongki Moon|22|2|1|0
+16|A Transparent Replication of HTTP Service.|Radek Vingralek,Yuri Breitbart,Mehmet Sayal,Peter Scheuermann|4|2|2|1
+17|Atomic Commitment in Database Systems over Active Networks.|Zhili Zhang,William Perrizo,Victor T.-S. Shi|1|0|0|0
+18|A Hypertext Database for Advanced Sharing of Distributed Web Pages.|Takanori Yamakita,Takashi Fuji|8|0|0|1
+19|Similarity Searching in Text Databases with Multiple Field Types.|Kostas Tzeras,Euripides G. M. Petrakis|1|1|0|0
+20|Integrating Heterogeneous OO Schemas.|Yangjun Chen,Wolfgang Benn|n/a
+21|Confirmation: A Solution for Non-Compensatability in Workflow Applications.|Chengfei Liu,Maria E. Orlowska,Xiaofang Zhou,Xuemin Lin|0|0|0|0
+22|Policies in a Resource Manager of Workflow Systems: Modeling, Enforcement and Management.|Yan-Nong Huang,Ming-Chien Shan|50|13|1|2
+23|TP-Monitor-based Workflow Management System Architecture.|Christoph Bussler|0|0|0|0
+24|Efficient Mining of Partial Periodic Patterns in Time Series Database.|Jiawei Han,Guozhu Dong,Yiwen Yin|677|259|6|37
+25|STING+: An Approach to Active Spatial Data Mining.|Wei Wang,Jiong Yang,Richard R. Muntz|91|22|0|5
+26|Efficient Time Series Matching by Wavelets.|Kin-pong Chan,Ada Wai-Chee Fu|1054|456|4|4
+27|Enhancing Semistructured Data Mediators with Document Type Definitions.|Yannis Papakonstantinou,Pavel Velikhov|73|2|0|11
+28|Estimating the Usefulness of Search Engines.|Weiyi Meng,King-Lup Liu,Clement T. Yu,Wensheng Wu,Naphtali Rishe|73|4|6|18
+29|Query Routing in Large-Scale Digital Library Systems.|Ling Liu|43|11|9|6
+30|Database Extensions for Complex Forms of Data (Abstract).|Samuel DeFazio|2|0|2|0
+31|Using XML in Relational Database Applications (Abstract).|Susan Malaika|9|2|1|0
+32|Document Warehousing Based on a Multimedia Database System.|Hiroshi Ishikawa,Kazumi Kubota,Yasuo Noguchi,Koki Kato,Miyuki Ono,Naomi Yoshizawa,Yasuhiko Kanemasa|15|3|4|2
+33|The ECHO Method: Concurrency Control Method for a Large-Scale Distributed Database.|Yukari Shirota,Atsushi Iizawa,Hiroko Mano,Takashi Yano|2|1|0|0
+34|Data Mining from an AI Perspective (Abstract).|J. Ross Quinlan|n/a
+35|Constraint-Based Rule Mining in Large, Dense Databases.|Roberto J. Bayardo Jr.,Rakesh Agrawal,Dimitrios Gunopulos|416|83|5|1
+36|Parallel Classification for Data Mining on Shared-Memory Multiprocessors.|Mohammed Javeed Zaki,Ching-Tien Ho,Rakesh Agrawal|125|49|16|5
+37|Mining Optimized Support Rules for Numeric Attributes.|Rajeev Rastogi,Kyuseok Shim|47|8|1|1
+38|Using Java and CORBA for Implementing Internet Databases.|Athman Bouguettaya,Boualem Benatallah,Mourad Ouzzani,Lily Hendra|13|1|0|4
+39|Mobile Agents for WWW Distributed Database Access.|Stavros Papastavrou,George Samaras,Evaggelia Pitoura|122|17|0|4
+40|Working Together in Harmony - An Implementation of the CORBA Object Query Service and Its Evaluation.|Uwe Röhm,Klemens Böhm|15|2|0|0
+41|Ad Hoc OLAP: Expression and Evaluation.|Damianos Chatziantoniou|23|3|0|9
+42|Fast Approximate Search Algorithm for Nearest Neighbor Queries in High Dimensions.|Sakti Pramanik,Jinhua Li|10|5|0|2
+43|Fast Approximate Query Answering Using Precomputed Statistics.|Viswanath Poosala,Venkatesh Ganti|34|14|1|4
+44|Data Warehouse Maintenance under Concurrent Schema and Data Updates.|Xin Zhang,Elke A. Rundensteiner|20|2|0|5
+45|Hash in Place with Memory Shifting: Datacube Computation Revisited.|Jeffrey Xu Yu,Hongjun Lu|2|0|0|1
+46|Data Warehouse Evolution: Trade-Offs between Quality and Cost of Query Rewritings.|Amy J. Lee,Andreas Koeller,Anisoara Nica,Elke A. Rundensteiner|24|2|0|12
+47|Exploiting Data Lineage for Parallel Optimization in Extensible DBMSs.|Eddie C. Shek,Richard R. Muntz|4|3|3|0
+48|The Bulk Index Join: A Generic Approach to Processing Non-Equijoins.|Jochen Van den Bercken,Bernhard Seeger,Peter Widmayer|14|4|2|2
+49|Algorithms for Index-Assisted Selectivity Estimation.|Paul M. Aoki|10|4|2|3
+50|Multiple Index Structures for Efficient Retrieval of 2D Objects.|Cyrus Shahabi,Maytham Safar,Hezhi Ai|7|1|0|4
+51|Declarative and Procedural Object-Oriented Views.|Ralph Busse,Peter Fankhauser|12|8|7|1
+52|Speeding up Heterogeneous Data Access by Converting and Pushing Down String Comparisons.|Weiye Zhang,Per-Åke Larson|5|0|5|0
+53|Scalable Trigger Processing.|Eric N. Hanson,Chris Carnes,Lan Huang,Mohan Konyala,Lloyd Noronha,Sashi Parthasarathy,J. B. Park,Albert Vernon|161|33|4|2
+54|Using Codewords to Protect Database Data from a Class of Software Errors.|Philip Bohannon,Rajeev Rastogi,S. Seshadri,Abraham Silberschatz,S. Sudarshan|11|3|2|0
+55|Integrating Light-Weight Workflow Management Systems within Existing Business Environments.|Peter Muth,Jeanine Weißenfels,Michael Gillmann,Gerhard Weikum|39|5|0|7
+56|Index Merging.|Surajit Chaudhuri,Vivek R. Narasayya|60|19|3|16
+57|Optimizer and Parallel Engine Extensions for Handling Expensive Methods Based on Large Objects.|William O'Connell,Felipe Cariño,G. Linderman|10|4|7|0
+58|Developing a DataBlade for a New Index.|Rasa Bliujute,Simonas Saltenis,Giedrius Slivinskas,Christian S. Jensen|56|8|0|3
+59|Relative Prefix Sums: An Efficient Approach for Querying Dynamic OLAP Data Cubes.|Steven Geffner,Divyakant Agrawal,Amr El Abbadi,Terence R. Smith|111|14|0|8
+60|Multidimensional Data Modeling for Complex Data.|Torben Bach Pedersen,Christian S. Jensen|255|63|8|22
+61|Maintaining Data Cubes under Dimension Updates.|Carlos A. Hurtado,Alberto O. Mendelzon,Alejandro A. Vaisman|206|65|1|12
+62|Semantic Brokering over Dynamic Heterogeneous Data Sources in InfoSleuth.|Marian H. Nodine,William Bohrer,Anne H. H. Ngu|131|12|1|2
+63|Heterogeneous Query Processing through SQL Table Functions.|Berthold Reinwald,Hamid Pirahesh,Ganapathy Krishnamoorthy,George Lapis,Brian T. Tran,Swati Vora|34|5|3|1
+64|Data Integration by Describing Sources with Constraint Databases.|Xun Cheng,Guozhu Dong,Tzekwan Lau,Jianwen Su|4|0|0|0
+65|An Agent-Based Approach to Extending the Native Active Capability of Relational Database Systems.|Lijuan Li,Sharma Chakravarthy|29|1|0|10
+66|On the Semantics of Complex Events in Active Database Management Systems.|Detlef Zimmer,Rainer Unland|190|64|0|0
+67|Formal Semantics of Composite Events for Distributed Environments.|Shuang Yang,Sharma Chakravarthy|40|5|0|8
+68|On Similarity-Based Queries for Time Series Data.|Davood Rafiei|455|99|7|11
+69|Parallel Algorithms for Computing Temporal Aggregates.|Jose Alvin G. Gendrano,Bruce C. Huang,Jim M. Rodrigue,Bongki Moon,Richard T. Snodgrass|33|1|1|0
+70|Universal Temporal Extensions for Database Languages.|Cindy Xinmin Chen,Carlo Zaniolo|33|1|0|12
+71|The Hybrid Tree: An Index Structure for High Dimensional Feature Spaces.|Kaushik Chakrabarti,Sharad Mehrotra|293|50|2|19
+72|Fat-Btree: An Update-Conscious Parallel Directory Structure.|Haruo Yokota,Yasuhiko Kanemasa,Jun Miyazaki|110|22|0|30
+73|Real-Time Data Access Control on B-Tree Index Structures.|Tei-Wei Kuo,Chih-Hung Wei,Kam-yiu Lam|17|3|0|4
+74|Scalable Classification over SQL Databases.|Surajit Chaudhuri,Usama M. Fayyad,Jeff Bernhardt|67|10|8|2
+75|Storage of Multidimensional Arrays Based on Arbitrary Tiling.|Paula Furtado,Peter Baumann|49|15|0|21
+76|Complements for Data Warehouses.|Dominique Laurent,Jens Lechtenbörger,Nicolas Spyratos,Gottfried Vossen|n/a
+77|Clustering Large Datasets in Arbitrary Metric Spaces.|Venkatesh Ganti,Raghu Ramakrishnan,Johannes Gehrke,Allison L. Powell,James C. French|181|42|2|4
+78|ROCK: A Robust Clustering Algorithm for Categorical Attributes.|Sudipto Guha,Rajeev Rastogi,Kyuseok Shim|1748|783|14|2
+79|Data Organization and Access for Efficient Data Mining.|Brian Dunkel,Nandit Soparkar|98|21|0|4
+80|Scheduling and Data Replication to Improve Tape Jukebox Performance.|Bruce Hillyer,Rajeev Rastogi,Abraham Silberschatz|24|3|0|0
+81|Improving the Access Time Performance of Serpentine Tape Drives.|Olav Sandstå,Roger Midtstraum|19|8|1|1
+82|Tape-Disk Join Strategies under Disk Contention.|Achim Kraiss,Peter Muth,Michael Gillmann|9|0|0|1
+83|Processing Operations with Restrictions in RDBMS without External Sorting: The Tetris Algorithm.|Volker Markl,Martin Zirkel,Rudolf Bayer|13|0|0|2
+84|A Graph Query Language and Its Query Processing.|Lei Sheng,Z. Meral Özsoyoglu,Gultekin Özsoyoglu|101|49|15|0
+85|Multiversion Reconciliation for Mobile Databases.|Shirish Hemant Phatak,B. R. Badrinath|76|11|0|4
+86|Design and Evaluation of Disk Scheduling Policies for High-Demand Multimedia Servers.|M. Farrukh Khan,Arif Ghafoor,Muhammad Naeem Ayyaz|8|0|0|0
+87|Raster-Spatial Data Declustering Revisited: An Interactive Navigation Perspective.|Chung-Min Chen,Rakesh K. Sinha|9|0|0|7
+88|Concentric Hyperspaces and Disk Allocation for Fast Parallel Range Searching.|Hakan Ferhatosmanoglu,Divyakant Agrawal,Amr El Abbadi|42|3|0|6
+89|Indexing Constraint Databases by Using a Dual Representation.|Elisa Bertino,Barbara Catania,Boris Chidlovskii|4|1|0|0
+90|I/O Complexity for Range Queries on Region Data Stored Using an R-tree.|Guido Proietti,Christos Faloutsos|29|5|0|3
+91|An Index Structure for Spatial Joins in Linear Constraint Databases.|Hongjun Zhu,Jianwen Su,Oscar H. Ibarra|6|0|0|3

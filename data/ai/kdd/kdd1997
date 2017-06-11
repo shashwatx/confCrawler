@@ -1,0 +1,67 @@
+66
+1|Proceedings of the Third International Conference on Knowledge Discovery and Data Mining (KDD-97), Newport Beach, California, USA, August 14-17, 1997.|David Heckerman,Heikki Mannila,Daryl Pregibon|n/a
+2|An Interactive Visualization Environment for Data Exploration.|Mark Derthick,John Kolojejchick,Steven F. Roth|80|15|2|1
+3|Density-Connected Sets and their Application for Trend Detection in Spatial Databases.|Martin Ester,Hans-Peter Kriegel,Jörg Sander,Xiaowei Xu|107|57|0|5
+4|Visualization Techniques to Explore Data Mining Results for Document Collections.|Ronen Feldman,Willi Klösgen,Amir Zilberstein|49|7|2|10
+5|A Probabilistic Approach to Fast Pattern Matching in Time Series Databases.|Eamonn J. Keogh,Padhraic Smyth|279|63|9|9
+6|Using General Impressions to Analyze Discovered Classification Rules.|Bing Liu,Wynne Hsu,Shu Chen|255|56|0|17
+7|Development of Multi-Criteria Metrics for Evaluation of Data Mining Algorithms.|Gholamreza Nakhaeizadeh,Alexander Schnabl|95|30|0|3
+8|Analysis and Visualization of Classifier Performance: Comparison under Imprecise Class and Cost Distributions.|Foster J. Provost,Tom Fawcett|753|242|0|9
+9|Discriminative vs Informative Learning.|Y. Dan Rubinstein,Trevor Hastie|215|88|2|0
+10|Anytime Exploratory Data Analysis for Massive Data Sets.|Padhraic Smyth,David Wolpert|25|4|0|0
+11|Detecting Atmospheric Regimes Using Cross-Validated Clustering.|Padhraic Smyth,Michael Ghil,Kayo Ide,Joseph Roden,Andrew Fraser|12|0|0|3
+12|Mining Association Rules with Item Constraints.|Ramakrishnan Srikant,Quoc Vu,Rakesh Agrawal|1071|326|5|5
+13|JAM: Java Agents for Meta-Learning over Distributed Databases.|Salvatore J. Stolfo,Andreas L. Prodromidis,Shelley Tselepis,Wenke Lee,Dave W. Fan,Philip K. Chan|395|91|0|30
+14|A Visual Interactive Framework for Attribute Discretization.|Ramesh Subramonian,Ramana Venkata,Joyce Chen|17|2|0|2
+15|Automated Discovery of Active Motifs in Three Dimensional Molecules.|Xiong Wang,Jason Tsong-Li Wang,Dennis Shasha,Bruce A. Shapiro,Sitaram Dikshitulu,Isidore Rigoutsos,Kaizhong Zhang|48|1|0|12
+16|Computing Optimized Rectilinear Regions for Association Rules.|Kunikazu Yoda,Takeshi Fukuda,Yasuhiko Morimoto,Shinichi Morishita,Takeshi Tokuyama|77|13|0|13
+17|Knowledge = Concepts: A Harmful Equation.|Jan M. Zytkow|6|0|0|4
+18|Discovery of Actionable Patterns in Databases: The Action Hierarchy Approach.|Gediminas Adomavicius,Alexander Tuzhilin|98|29|0|8
+19|Partial Classification Using Association Rules.|Kamal Ali,Stefanos Manganaris,Ramakrishnan Srikant|269|73|1|2
+20|Increasing the Efficiency of Data Mining Algorithms with Breadth-First Marker Propagation.|John M. Aronis,Foster J. Provost|33|5|0|0
+21|Brute-Force Mining of High-Confidence Classification Rules.|Roberto J. Bayardo Jr.|126|27|4|4
+22|Applying Data Mining and Machine Learning Techniques to Submarine Intelligence Analysis.|Ulla Bergsten,Johan Schubert,Per Svensson|16|1|0|6
+23|Process-Based Database Support for the Early Indicator Method.|Christoph Breitner,Jörg Schlösser,Rüdiger Wirth|2|0|0|1
+24|MineSet: An Integrated System for Data Mining.|Clifford Brunk,James Kelly,Ron Kohavi|151|37|2|10
+25|Proposal and Empirical Comparison of a Parallelizable Distance-Based Discretization Method.|Jesús Cerquides,Ramon López de Mántaras|58|21|0|0
+26|Large Scale Data Mining: Challenges and Responses.|Jaturon Chattratichat,John Darlington,Moustafa Ghanem,Yike Guo,Harald Hüning,Martin Köhler,Janjao Sutiwaraphun,Hing Wing To,Dan Yang|67|22|0|2
+27|Using Artificial Intelligence Planning to Automate Science Data Analysis for Large Image Databases.|Steve A. Chien,Forest Fisher,Helen Mortensen,Edisanter Lo,Ronald Greeley|22|2|0|1
+28|Mining Multivariate Time-Series Sensor Data to Discover Behavior Envelopes.|Dennis DeCoste|29|6|0|3
+29|Why Does Bagging Work? A Bayesian Account and its Implications.|Pedro M. Domingos|93|27|0|1
+30|Fast Committee Machines for Regression and Classification.|Harris Drucker|7|3|0|0
+31|A Guided Tour through the Data Mining Jungle.|Robert Engels,Guido Lindner,Rudi Studer|44|7|0|9
+32|Maximal Association Rules: A New Tool for Mining for Keyword Co-Occurrences in Document Collections.|Ronen Feldman,Yonatan Aumann,Amihood Amir,Amir Zilberstein,Willi Klösgen|75|16|0|7
+33|Improving Scalability in a Scientific Discovery System by Exploiting Parallelism.|Gehad Galal,Diane J. Cook,Lawrence B. Holder|11|1|2|2
+34|Deep Knowledge Discovery from Natural Language Texts.|Udo Hahn,Klemens Schnattinger|52|8|0|3
+35|Integrating and Mining Distributed Customer Databases.|Ira J. Haimowitz,Özden Gür-Ali,Henry Schwarz|9|1|0|0
+36|GA-Based Rule Enhancement in Concept Learning.|Jukka Hekanaho|25|8|0|2
+37|Target-Independent Mining for Scientific Data: Capturing Transients and Trends for Phenomena Mining.|Thomas H. Hinke,John A. Rushing,Heggere S. Ranganath,Sara J. Graves|11|1|0|2
+38|Zeta: A Global Method for Discretization of Continuous Variables.|K. M. Ho,Paul D. Scott|106|37|0|3
+39|Adjusting for Multiple Comparisons in Decision Tree Pruning.|David Jensen,Matthew D. Schmill|27|5|0|5
+40|SIPping from the Data Firehose.|George H. John,Brian Lent|26|2|0|0
+41|Mining Generalized Term Associations: Count Propagation Algorithm.|Jonghyun Kahng,Wen-Hsiang Kevin Liao,Dennis McLeod|6|3|0|0
+42|Metarule-Guided Mining of Multi-Dimensional Association Rules Using Data Cubes.|Micheline Kamber,Jiawei Han,Jenny Chiang|296|91|6|28
+43|Scalable, Distributed Data Mining - An Agent Architecture.|Hillol Kargupta,Ilker Hamzaoglu,Brian Stafford|186|65|0|12
+44|Clustering Sequences of Complex Objects.|Alain Ketterlin|42|10|0|0
+45|A Unified Notion of Outliers: Properties and Computation.|Edwin M. Knorr,Raymond T. Ng|318|140|1|3
+46|Mining for Causes of Cancer: Machine Learning Experiments at Various Levels of Detail.|Stefan Kramer,Bernhard Pfahringer,Christoph Helma|23|4|0|7
+47|Discovering Trends in Text Databases.|Brian Lent,Rakesh Agrawal,Ramakrishnan Srikant|269|82|3|2
+48|Fast Robust Visual Data Mining.|Ted Mihalisin,John Timlin|3|0|0|0
+49|Beyond Concise and Colorful: Learning Intelligible Rules.|Michael J. Pazzani,Subramani Mani,William Rodman Shankle|60|13|0|5
+50|Scaling Up Inductive Algorithms: An Overview.|Foster J. Provost,Venkateswarlu Kolluri|32|1|0|1
+51|Visualizing Bagged Decision Trees.|J. Sunil Rao,William J. E. Potts|22|6|1|3
+52|KESO: Minimizing Database Interaction.|Arno Siebes,Martin L. Kersten|13|0|1|1
+53|Learning to Extract Text-Based Information from the World Wide Web.|Stephen Soderland|277|32|9|1
+54|Image Feature Reduction through Spoiling: Its Application to Multiple Matched Filters for Focus of Attention.|Timothy M. Stough,Carla E. Brodley|6|0|0|2
+55|Autonomous Discovery of Reliable Exception Rules.|Einoshin Suzuki|147|28|0|25
+56|An Efficient Algorithm for the Incremental Updation of Association Rules in Large Databases.|Shiby Thomas,Sreenath Bodagala,Khaled Alsabti,Sanjay Ranka|286|52|1|2
+57|Bayesian Inference for Identifying Solar Active Regions.|Michael J. Turmon,Saleem Mukhtar,Judit Pap|5|1|0|0
+58|Schema Discovery for Semistructured Data.|Ke Wang,Huiqing Liu|113|16|2|3
+59|Selecting Features by Vertical Compactness of Data.|Ke Wang,Suman Sundaresh|10|0|0|0
+60|Knowledge Discovery in Integrated Call Centers: A Framework for Effective Customer-Driven Marketing.|Paul Xia|2|0|0|0
+61|New Algorithms for Fast Discovery of Association Rules.|Mohammed Javeed Zaki,Srinivasan Parthasarathy,Mitsunori Ogihara,Wei Li|1202|490|6|56
+62|Fast and Intuitive Clustering of Web Documents.|Oren Zamir,Oren Etzioni,Omid Madani,Richard M. Karp|366|117|13|3
+63|KDD Process Planning.|Ning Zhong,Chunnian Liu,Yoshitsugu Kakemoto,Setsuo Ohsuga|17|2|0|8
+64|Optimal Multiple Intervals Discretization of Continuous Attributes for Supervised Learning.|Djamel A. Zighed,Ricco Rakotomalala,Fabien Feschet|n/a
+65|A Dataset Decomposition Approach to Data Mining and Machine Discovery.|Blaz Zupan,Marko Bohanec,Ivan Bratko,Bojan Cestnik|18|3|0|4
+66|From Large to Huge: A Statistician's Reactions to KDD & DM.|Peter J. Huber|n/a

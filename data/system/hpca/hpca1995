@@ -1,0 +1,38 @@
+37
+1|Proceedings of the 1st IEEE Symposium on High-Performance Computer Architecture (HPCA 1995), Raleigh, North Carolina, USA, January 22-25, 1995.|n/a
+2|The Named-State Register File: Implementation and Performance.|Peter R. Nuth,William J. Dally|31|8|3|1
+3|Implementing Register Interlocks in Parallel-Pipeline Multiple Instruction Queue, Superscalar Processors.|Shlomo Weiss|4|0|0|0
+4|Non-Consistent Dual Register Files to Reduce Register Pressure.|Josep Llosa,Mateo Valero,Eduard Ayguadé|35|0|2|8
+5|Reducing Communication Latency with Path Multiplexing in Optically Interconnected Multiprocessor Systems.|Chunming Qiao,Rami G. Melhem|46|7|0|23
+6|Toward High Communication Performance through Compiled Communications on a Circuit Switched Interconnection Network.|Franck Cappello,Cécile Germain|34|10|6|0
+7|Abstracting Network Characteristics and Locality Properties of Parallel Systems.|Anand Sivasubramaniam,Aman Singla,Umakishore Ramachandran,H. Venkateswaran|13|0|0|6
+8|Effectiveness of Hardware-Based Stride and Sequential Prefetching in Shared-Memory Multiprocessors.|Fredrik Dahlgren,Per Stenström|54|5|3|4
+9|How Useful Are Non-Blocking Loads, Stream Buffers and Speculative Execution in Multiple Issue Processors?|Keith I. Farkas,Norman P. Jouppi,Paul Chow|80|10|7|3
+10|Creating a Wider Bus Using Caching Techniques.|Daniel Citron,Larry Rudolph|88|12|7|7
+11|Origin-Based Fault-Tolerant routing in the Mesh.|Ran Libeskind-Hadas,Eli Brandt|52|9|0|3
+12|Efficient and Balanced Adaptive Routing in Two-Dimensional Meshes.|Jatin Upadhyay,Vara Varavithya,Prasant Mohapatra|34|6|0|6
+13|Fault-Tolerant Adaptive Routing for Two-Dimensional Meshes.|Chris M. Cunningham,Dimiter R. Avresky|75|20|1|7
+14|DASC Cache.|André Seznec|n/a
+15|A Design Frame for Hybrid Access Caches.|Kevin B. Theobald,Herbert H. J. Hum,Guang R. Gao|32|3|3|2
+16|Software Assistance for Data Caches.|Olivier Temam,Nathalie Drach|29|3|2|3
+17|Modeling Virtual Channel Flow Control in Hypercubes.|Younes M. Boura,Chita R. Das|18|1|0|0
+18|An Initial Evaluation of the Convex SPP-1000 for Earth and Space Science Application.|Thomas L. Sterling,Daniel Savarese,Phillip Merkey,Jeffrey P. Gardner|7|0|0|0
+19|Simulation Study of Cached RAID5 Designs.|Kent Treiber,Jai Menon|43|3|2|3
+20|Fast Barrier Synchronization in Wormhole k-ary n-cube Networks with Multidestination Worms.|Dhabaleswar K. Panda|63|11|0|18
+21|Thread Prioritization: A Thread Scheduling Mechanism for Multiple-Context Parallel Processors.|Stuart Fiske,William J. Dally|20|6|9|2
+22|Implementation of Atomic Primitives on Distributed Shared Memory Multiprocessors.|Maged M. Michael,Michael L. Scott|31|6|1|3
+23|Improving Performance by Cache Driven Memory Management.|Karl Westerholz,Stephen Honal,Josef Plankl,Christian Hafer|4|0|1|0
+24|U-Cache: A Cost-Effective Solution to the Synonym Problem.|Jesung Kim,Sang Lyul Min,Sanghoon Jeon,ByoungChul Ahn,Deog-Kyoon Jeong,Chong-Sang Kim|19|8|0|0
+25|Access Ordering and Memory-Conscious Cache Utilization.|Sally A. McKee,William A. Wulf|76|13|0|10
+26|Two Techniques for Improving Performance on Bus-Based Multiprocessors.|Craig Anderson,Jean-Loup Baer|33|6|2|2
+27|An Argument for Simple COMA.|Ashley Saulsbury,Tim Wilkinson,John B. Carter,Anders Landin|128|10|4|2
+28|Software Cache Coherence for Large Scale Multiprocessors.|Leonidas I. Kontothanassis,Michael L. Scott|44|12|4|8
+29|Design and Performance Evaluation of a Multithreaded Architecture.|Ramaswamy Govindarajan,Shashank S. Nemawarkar,Phillip LeNir|50|5|0|7
+30|Fine-Grain Multi-Thread Processor Architecture for Massively Parallel Processing.|Tetsuo Kawano,Shigeru Kusakabe,Rin-ichiro Taniguchi,Makoto Amamiya|25|2|0|12
+31|The Effects of STEF in Finely Parallel Multithreaded Processors.|Yamin Li,Wanming Chu|12|1|4|1
+32|A VLSI Architecture for Computer the Tree-to-Tree Distance.|Raghu Sastry,N. Ranganathan|1|0|0|1
+33|Massively Parallel Array Processor for Logic, Fault, and Design Error Simulation.|Youngmin Hur,Stephen A. Szygenda,E. Scott Fehr,Granville E. Ott,Sungho Kang|2|0|0|2
+34|Architectural Support for Inter-Stream Communication in a MSIMD System.|Vivek Garg,David E. Schimmel|3|0|0|1
+35|Optimizing Instruction Cache Performance for Operating System Intensive Workloads.|Josep Torrellas,Chun Xia,Russell L. Daigle|79|6|2|11
+36|Program Balance and Its Impact on High Performance RISC Architectures.|Lizy Kurian John,Vinod Reddy,Paul T. Hulina,Lee D. Coraor|27|7|0|6
+37|Memory Access Reordering in Vector Processors.|De-Lei Lee|4|0|0|0

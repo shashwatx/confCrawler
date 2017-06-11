@@ -1,0 +1,147 @@
+81
+1|Proceedings of the 9th National Conference on Artificial Intelligence, Anaheim, CA, USA, July 14-19, 1991, Volume 1.|Thomas L. Dean,Kathleen McKeown|n/a
+2|Rules and Precedents as Complementary Warrants.|Karl Branting,Bruce W. Porter|78|4|0|6
+3|An Indexing Vocabulary for Case-Based Explanation.|David B. Leake|25|4|0|6
+4|Indexing Stories as Social Advice.|Eric A. Domeshek|n/a
+5|Improving Rule-Based Systems Through Case-Based Reasoning.|Andrew R. Golding,Paul S. Rosenbloom|188|23|0|3
+6|The Roles of Adaptation in Case-Based Design.|Thomas R. Hinrichs,Janet L. Kolodner|105|11|1|2
+7|Prototype-Based Reasoning: An Integrated Approach to Solving Large Novel Problems.|Shankar A. Rajamoney,Hee-Youn Lee|24|1|0|0
+8|Student Modelling with Confluences.|Daniel Baril,Jim E. Greer,Gordon I. McCalla|6|0|0|0
+9|FITS: A Fraction Intelligent Tutoring System.|Hyacinth S. Nwana|2|0|0|1
+10|Teaching Diagnostic Skills Using AI: An Architecture Suitable for Students and Teachers.|Joël Courtois|1|0|0|0
+11|Planning Multimedia Explanations Using Communicative Acts.|Mark T. Maybury|185|11|0|3
+12|Making Design Objects Relevant to the Task at Hand.|Gerhard Fischer,Kumiyo Nakakoji|40|1|0|19
+13|A Tool for Achieving Consensus in Knowledge Representation.|Loren G. Terveen,David A. Wroblewski|9|0|0|3
+14|Piction: A System That Uses Captions to Label Human Faces in Newspaper Photographs.|Rohini K. Srihari|47|12|0|7
+15|Generating Interactive Explanations.|Alison Cawsey|40|1|0|0
+16|Automatic Generation of Formatted Text.|Eduard H. Hovy,Yigal Arens|57|9|0|7
+17|Generating Adjectives to Express the Speaker's Argumentative Intent.|Michael Elhadad|18|0|0|5
+18|Interpreting Prepositions Physically.|Jugal K. Kalita,Norman I. Badler|12|1|0|2
+19|Semantics-First Natural Language Processing.|Steven L. Lytinen|16|1|0|0
+20|A Cognitively Plausible Approach to Understanding Complex Syntax.|Claire Cardie,Wendy G. Lehnert|29|1|0|12
+21|From Syntax to Meaning in Natural Language Processing.|Alexander G. Hauptmann|9|0|0|0
+22|Tense Interpretation in the Context of Narrative.|Fei Song,Robin Cohen|54|17|0|0
+23|ULINK: A Semantics-Driven Approach to Understanding Ungrammatical Input.|Jeffrey D. Kirtner,Steven L. Lytinen|4|0|0|0
+24|A Tabular Method for Island-Driven Context-Free Grammar Parsing.|Giorgio Satta,Oliviero Stock|8|0|0|1
+25|High Performance Memory-Based Translation on IXM2 Massively Parallel Associative Memory Processor.|Hiroaki Kitano,Tetsuya Higuchi|35|3|0|15
+26|Disambiguation of Prepositional Phrases in Automatically Labelled Technical Text.|Lois Boggess,Rajeev Agarwal,Ron Davis|48|2|0|10
+27|A Probabilistic Model of Plan Recognition.|Eugene Charniak,Robert P. Goldman|472|156|0|9
+28|The Utility of Communication in Coordinating Intelligent Agents.|Piotr J. Gmytrasiewicz,Edmund H. Durfee,David K. Wehe|72|5|0|24
+29|The Clarke Tax as a Consensus Mechanism Among Automated Agents.|Eithan Ephrati,Jeffrey S. Rosenschein|204|39|1|29
+30|The Function of Time in Cooperative Negotiations.|Sarit Kraus,Jonathan Wilkenfeld|63|3|0|12
+31|A Dynamic Organizational Architecture for Adaptive Problem Solving.|Les Gasser,Toru Ishida|85|14|0|4
+32|Sophisticated Cooperation in FA/C Distributed Problem Solving Systems.|Norman Carver,Zarko Cvetanovic,Victor R. Lesser|64|4|0|18
+33|Combining Specialized Reasoners and General Purpose Planners: A Case Study.|Subbarao Kambhampati,Mark R. Cutkosky,Marty Tenenbaum,Soo Hong Lee|47|12|0|2
+34|Toward an Intelligent Agent Flamework for Enterprise Integration.|Jeff Yung-Choa Pan,Jay M. Tenenbaum|15|3|0|1
+35|Conditional Existence of Variables in Generalised Constraint Networks.|James Bowen,Dennis Bahler|50|4|0|13
+36|Arc-Consistency in Dynamic Constraint Satisfaction Problems.|Christian Bessière|197|34|0|6
+37|Eliminating Interchangeable Values in Constraint Satisfaction Problems.|Eugene C. Freuder|285|78|0|16
+38|On Generalized Interval Calculi.|Gerard Ligozat|152|29|0|18
+39|Integrating Metric and Qualitative Temporal Reasoning.|Henry A. Kautz,Peter B. Ladkin|268|35|1|3
+40|Temporal Reasoning During Plan Recognition.|Fei Song,Robin Cohen|21|2|0|0
+41|Metric Constraints for Maintaining Appointments: Dates and Repeated Activities.|Massimo Poesio,Ronald J. Brachman|35|4|0|0
+42|Combining Qualitative and Quantitative Constraints in Temporal Reasoning.|Itay Meiri|369|60|0|0
+43|Efficiency of Production Systems When Coupled with an Assumption Based Truth Maintenance System.|Geneviéve Morgue,Thomas Chehire|6|0|0|1
+44|Using Attention in Belief Revision.|Xueming Huang,Gordon I. McCalla,Eric Neufeld|18|3|0|5
+45|CATMS: An ATMS Which Avoids Label Explosions.|John W. Collins,Dennis DeCoste|20|0|0|3
+46|Context Maintenance.|Charles J. Petrie|n/a
+47|IXM2: A Parallel Associative Processor for Knowledge Processing.|Tetsuya Higuchi,Hiroaki Kitano,Tatsumi Furuya,Ken'ichi Handa,Akio Kokubu,Naoto Takahashi|18|0|0|7
+48|Implementation of Multiple Rule Firing Production Systems on Hypercube.|Steve Kuo,Dan I. Moldovan|44|4|0|1
+49|Control Issues in Parallel Rule-Firing Production Systems.|Daniel E. Neiman|17|6|0|4
+50|Using Abstraction to Automate Program Improvement by Transformation.|Ian Green|0|0|0|0
+51|Verification of Multi-Level Rule-Based Expert Systems.|Pedro Meseguer|17|0|0|5
+52|Formal Verification of Pure Production System Programs.|Rose F. Gamble,Gruia-Catalin Roman,William E. Ball|14|0|0|3
+53|Learning Meta Knowledge for Database Checking.|Jeffrey C. Schlimmer|18|1|0|0
+54|A Logic of Situated Know-How.|Munindar P. Singh|30|4|0|7
+55|Provably Correct Theories of Action (Preliminary Report).|Fangzhen Lin,Yoav Shoham|125|7|0|11
+56|A Critique of Yoav Shoham's Theory of Causal Reasoning.|Antony Galton|17|0|0|2
+57|A Logic and Time Nets for Probabilistic Inference.|Keiji Kanazawa|58|10|0|0
+58|The P-Systems: A Systematic Classification of Logics of Nonmonotonicity.|Wolfgang Nejdl|21|2|0|5
+59|Some Variations on Default Logic.|Piotr Rychlik|12|1|0|0
+60|Default Logic, Propositional Logic, and Constraints.|Rachel Ben-Eliyahu,Rina Dechter|44|3|0|4
+61|Strong Introspection.|Michael Gelfond|47|16|0|4
+62|Default Reasoning From Statistics.|Fahiem Bacchus|7|1|0|0
+63|System-Z+: A Formalism for Reasoning with Variable-Strength Defaults.|Moisés Goldszmidt,Judea Pearl|70|10|0|8
+64|Incorporating Nonmonotonic Reasoning in Horn Clause Theories.|James P. Delgrande|5|1|0|0
+65|Step-Logic and the Three-Wise-Men Problem.|Jennifer J. Elgot-Drapkin|26|1|0|0
+66|Logic Morphisms as a Framework for Backward Transfer of Lemmas and Strategies in Some Modal and Epistemic Logics.|Ricardo Caferra,Stéphane Demri,Michel Herment|3|0|0|2
+67|Mechanization of Analytic Reasoning About Sets.|Alan F. McMichael|0|0|0|0
+68|Depth-First Versus Best-First Search.|Nageshwara Rao Vempaty,Vipin Kumar,Richard E. Korf|76|21|0|7
+69|Optimal Satisficing Tree Searches.|Dan Geiger,Jeffrey A. Barnett|9|1|0|0
+70|A New Admissible Heuristic for Minimal-Cost Proofs.|Eugene Charniak,Saadia Husain|49|0|0|3
+71|Is There any Need for Domain-Dependent Control Information?|Matthew L. Ginsberg,Donald F. Geddis|36|7|1|5
+72|Integrating Rules in Term Subsumption Knowledge Representation Servers.|Brian R. Gaines|29|3|0|17
+73|Deduction as Parsing: Tractable Classification in the KL-ONE Framework.|Marc B. Vilain|21|6|0|0
+74|Concept Languages as Query Languages.|Maurizio Lenzerini,Andrea Schaerf|47|1|0|15
+75|Combining Opinions About the Order of Rule Execution.|Jeffrey A. Barnett|8|1|0|0
+76|Explanation, Irrelevance, and Statistical Independence.|Solomon Eyal Shimony|50|9|0|10
+77|Conditions for the Existence of Belief Functions Corresponding to Intervals of Belief.|John F. Lemmer,Henry E. Kyburg Jr.|22|8|0|0
+78|An Efficient First-Order Horn-Clause Abduction System Based on the ATMS.|Hwee Tou Ng,Raymond J. Mooney|32|12|0|6
+79|The Common Order-Theoretic Structure of Version Spaces and ATMS's.|Carl A. Gunter,Teow-Hin Ngair,Prakash Panangaden,Devika Subramanian|18|1|0|0
+80|ACP: Reason Maintenance and Inference Control for Constraint Propagation Over Intervals.|Walter Hamscher|n/a
+81|Controlling Inequality Reasoning in a TMS-Based Analog Diagnosis System.|David Jerald Goldstone|9|3|0|0
+1|Proceedings of the 9th National Conference on Artificial Intelligence, Anaheim, CA, USA, July 14-19, 1991, Volume 2.|Thomas L. Dean,Kathleen McKeown|n/a
+2|Synthesizing UNIX Shell Scripts Using Derivational Analogy: An Empirical Assessment.|Sanjay Bhansali,Mehdi T. Harandi|7|0|0|3
+3|SteppingStone: An Empirical and Analytical Evaluation.|David Ruby,Dennis F. Kibler|31|3|0|1
+4|STATIC: A Problem-Space Compiler for PRODIGY.|Oren Etzioni|42|3|0|7
+5|Integrating Abstraction and Explanation-Based Learning in PRODIGY.|Craig A. Knoblock,Steven Minton,Oren Etzioni|56|12|0|7
+6|Learning with Many Irrelevant Features.|Hussein Almuallim,Thomas G. Dietterich|746|202|0|6
+7|Analyses of Instance-Based Learning Algorithms.|Marc K. Albert,David W. Aha|45|5|0|5
+8|Regularity and Structure.|Alexander Botta|0|0|0|0
+9|A Minimal Encoding Approach to Feature Discovery.|Mark Derthick|15|2|0|0
+10|Error-Correcting Output Codes: A General Method for Improving Multiclass Inductive Learning Programs.|Thomas G. Dietterich,Ghulum Bakiri|256|71|1|6
+11|Analysis of the Internal Representations in Neural Networks for Machine Intelligence.|Lai-Wan Chan|6|0|0|0
+12|Direct Transfer of Learned Information Among Neural Networks.|Lorien Y. Pratt,Jack Mostow,Candace A. Kamm|99|20|0|2
+13|Rule Learning by Searching on Adapted Nets.|LiMin Fu|231|40|2|3
+14|Two Kinds of Training Information For Evaluation Function Learning.|Paul E. Utgoff,Jeffrey A. Clouse|81|7|0|0
+15|Adaptive Pattern-Oriented Chess.|Robert Levinson,Richard Snyder|81|7|0|13
+16|A Complexity Analysis of Cooperative Mechanisms in Reinforcement Learning.|Steven D. Whitehead|178|21|2|0
+17|Constructive Induction on Domain Information.|James P. Callan,Paul E. Utgoff|15|2|0|2
+18|On the NP-Hardness of Blocks World.|Stephen V. Chenoweth|41|3|0|0
+19|Complexity Results for Blocks-World Planning.|Naresh Gupta,Dana S. Nau|77|9|0|6
+20|Systematic Nonlinear Planning.|David A. McAllester,David Rosenblitt|763|108|0|2
+21|An Efficient Reactive Planner for Synthesizing Reactive Plans.|Patrice Godefroid,Froduald Kabanza|n/a
+22|Dealing with Uncertainties in CAD-Based Assembly Motion Planning.|Susan N. Gottschlich,Avinash C. Kak|11|1|0|3
+23|Augmenting a Nominal Assembly Motion Plan with a Compliant Behavior.|Gordon A. Dakin,Robin J. Popplestone|12|1|0|2
+24|A Fast Path Planner for a Car-Like Indoor Mobile Robot.|Jean-Claude Latombe|77|11|0|6
+25|Path Planning for Highly Redundant Manipulators Using a Continuous Model.|Akira Hayashi,Benjamin Kuipers|5|1|0|1
+26|A Quantitative Theory for Plan Merging.|David E. Foulser,Ming Li,Qiang Yang|9|1|0|1
+27|Explanation-Based Generalization of Partially Ordered Plans.|Subbarao Kambhampati,Smadar Kedar|26|0|0|6
+28|Search Reduction in Hierarchical Problem Solving.|Craig A. Knoblock|107|13|0|2
+29|Characterizing Abstraction Hierarchies for Planning.|Craig A. Knoblock,Josh D. Tenenberg,Qiang Yang|100|14|0|17
+30|Preferential Semantics for Goals.|Michael P. Wellman,Jon Doyle|237|33|0|33
+31|AGENT0: A Simple Agent Language and Its Interpreter.|Yoav Shoham|139|14|0|0
+32|Automatic Generation of Object Class Descriptions Using Symbolic Learning Techniques.|R. L. Cromwell,Avinash C. Kak|27|1|0|1
+33|An Algorithm for Real-Time Tracking of Non-Rigid Objects.|John Woodfill,Ramin Zabih|24|2|0|3
+34|A New Framework for Sensor Interpretation: Planning to Resolve Sources of Uncertainty.|Norman Carver,Victor R. Lesser|60|3|0|23
+35|The Geometry of Visual Coordination.|Jean-Yves Hervé,Rajeev Sharma,Peter Cucka|11|0|0|5
+36|Anytime Problem Solving Using Dynamic Programming.|Mark S. Boddy|86|12|0|0
+37|An Analysis of Error Recovery and Sensory Integration for Dynamic Planners.|Bruce Abramson|7|0|0|1
+38|Global Symbolic Maps from Local Navigation.|David P. Miller,Marc G. Slack|33|0|0|3
+39|Sensible Planning: Focusing Perceptual Attention.|Lonnie Chrisman,Reid G. Simmons|65|3|0|4
+40|Fuzzy Modeling Using Generalized Neural Networks and Kalman Filter Algorithm.|Jyh-Shing Roger Jang|290|129|1|12
+41|Automatic Programming of Behavior-Based Robots Using Reinforcement Learning.|Sridhar Mahadevan,Jonathan Connell|731|85|0|16
+42|Cost-Sensitive Reinforcement Learning for Adaptive Classification and Control.|Ming Tan|33|4|0|3
+43|Programming Robots Using Reinforcement Learning and Teaching.|Long Ji Lin|149|16|1|4
+44|Stabilizing Environments to Facilitate Planning and Activity: An Engineering Argument.|Kristian J. Hammond,Timothy M. Converse|19|1|0|3
+45|Underwater Experiments Using a Reactive System for Autonomous Vehicles.|R. Peter Bonasso|18|0|0|5
+46|Failure Recovery: A Model and Experiments.|Adele E. Howe,Paul R. Cohen|30|0|0|11
+47|Automated Phase Portrait Analysis by Integrating Qualitative and Quantitative Analysis.|Toyoaki Nishida,Kenji Mizutani,Atsushi Kubota,Shuji Doshita|38|4|0|6
+48|Qualitative Analysis of Causal Feedback.|Philippe Rose,Mark A. Kramer|30|1|0|1
+49|The Qualitative Difference Resolution Rule.|Tom Bylander|6|0|0|0
+50|Analytic Solution of Qualitative Differential Equations.|Philip Schaefer|9|0|0|1
+51|Model-Based Reconfiguration: Toward an Integration with Diagnosis.|Judith Crow,John M. Rushby|49|7|0|0
+52|Focusing on Probable Diagnoses.|Johan de Kleer|n/a
+53|Characterizing Non-Intermittent Faults.|Olivier Raiman,Johan de Kleer,Vijay A. Saraswat,Mark Shirley|38|4|0|8
+54|Domain Structure and the Complexity of Diagnostic Problem Solving.|Thomas D. Wu|9|0|0|2
+55|Behavioral Aggregation Within Complex Situations: A Case Study Involving Dynamic Equilibria.|Shankar A. Rajamoney,Sang Hoe Koo|3|0|0|0
+56|Structural Aggregation in Common-Sense Reasoning.|Zheng-Yang Liu,Arthur M. Farley|7|0|0|2
+57|Geometric Reasoning for Shape Design.|George Turkiyyah,Omar Ghattas|2|0|0|0
+58|The Use of Intelligently Controlled Simulation to Predict a Machine's Long-Term Behavior.|Andrew Gelsey|10|1|0|6
+59|Incremental Configuration Space Construction for Mechanism Analysis.|Leo Joskowicz,Elisha Sacks|7|0|0|0
+60|Negation and Proof by Contradiction in Access-Limited Logic.|James M. Crawford,Benjamin Kuipers|27|2|0|9
+61|Knowledge Compilation using Horn Approximations.|Bart Selman,Henry A. Kautz|204|19|0|10
+62|Observations on Cognitive Judgments.|David A. McAllester|25|2|0|3
+63|Natural Language Based Inference Procedures Applied to Schubert's Steamroller.|Robert Givan,David A. McAllester,Sameer Shalaby|22|2|0|9
+64|Approximate Reasoning Systems: A Personal Perspective.|Piero P. Bonissone|10|0|0|4
+65|Robot Planning.|Drew V. McDermott|n/a

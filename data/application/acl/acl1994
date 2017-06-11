@@ -1,0 +1,54 @@
+53
+1|32nd Annual Meeting of the Association for Computational Linguistics, 27-30 June 1994, New Mexico State University, Las Cruces, New Mexico, USA, Proceedings.|James Pustejovsky|n/a
+2|Discourse Obligations in Dialogue Processing.|David R. Traum,James F. Allen|299|60|0|14
+3|Multi-Paragraph Segmentation of Expository Text.|Marti A. Hearst|750|149|20|7
+4|Priority Union and Generalization in Discourse Grammars.|Claire Grover,Chris Brew,Suresh Manandhar,Marc Moens|46|3|0|0
+5|Hidden Understanding Models of Natural Language.|Scott Miller,Robert J. Bobrow,Robert Ingria,Richard M. Schwartz|108|30|9|1
+6|From Strings to Trees to Strings to Trees ... (Abstract).|Aravind K. Joshi|n/a
+7|Intentions and Indormation in Discourse.|Nicholas Asher,Alex Lascarides|n/a
+8|Generating Precondition Expressions in Instructional Text.|Keith Vander Linden|16|3|0|1
+9|Common Topics and Coherent Situations: Interpreting Ellipsis in the Context of Discourse Inference.|Andrew Kehler|34|3|0|4
+10|A Hybrid Reasoning Model for Indirect Answers.|Nancy Green,Sandra Carberry|47|8|0|2
+11|A Stochastic Finite-State Word-Segmentation Algorithm for Chinese.|Richard Sproat,Chilin Shih,William Gale,Nancy Chang|341|96|5|6
+12|Precise N-Gram Probabilities from Stochastic Context-Free Grammars.|Andreas Stolcke,Jonathan Segal|65|10|0|4
+13|Aligning a Parallel English-Chinese Corpus Statistically with Lexical Criteria.|Dekai Wu|256|76|5|15
+14|Decision Lists for Lexical Ambiguity Resolution: Application to Accent Restoration in Spanish and French.|David Yarowsky|540|125|11|4
+15|An Empirical Model of Acknowledgement for Spoken-Language Systems.|David G. Novick,Stephen Sutton|25|5|0|4
+16|Speech Dialogue with Facial Displays: Multimodal Human-Computer Conversation.|Katashi Nagao,Akikazu Takeuchi|105|11|1|0
+17|Interleaving Syntax and Semantics in an Effecient Bottom-Up Parser.|John Dowding,Robert C. Moore,François Andry,Douglas B. Moran|111|47|47|5
+18|An Optimal Tabular Parsing Algorithm.|Mark-Jan Nederhof|24|2|0|9
+19|A Psycholinguistically Motivated Parser for CCG.|Michael Niv|12|4|0|1
+20|Verb Semantics and Lexical Selection.|Zhibiao Wu,Martha Stone Palmer|2328|1650|3|6
+21|Word-Sense Disambiguation Using Decomposable Models.|Rebecca F. Bruce,Janyce Wiebe|295|54|2|14
+22|Constraint-Based Categorical Grammar.|Gosse Bouma,Gertjan van Noord|40|8|0|4
+23|Capturing CFLs with Tree Adjoining Grammars.|James Rogers|35|4|0|0
+24|On Determining the Consistency of Partial Descriptions of Trees.|Tom Cornell|34|5|0|0
+25|A Markov Language Learning Model for Finite Parameter Spaces.|Partha Niyogi,Robert C. Berwick|11|0|0|3
+26|Part-of-Speech Tagging using a Variable Memory Markov Model.|Hinrich Schütze,Yoram Singer|63|13|0|2
+27|Grammar Specialization through Entropy Thresholds.|Christer Samuelsson|38|2|0|2
+28|Optimizing the Computational Lexicalization of Large Grammars.|Christian Jacquemin|3|0|0|3
+29|Compact Representations by Finite-State Transducers.|Mehryar Mohri|39|10|0|8
+30|An Extended Theory of Head-Driven Parsing.|Mark-Jan Nederhof,Giorgio Satta|26|2|0|8
+31|Generalized Chart Algorithm: An Efficient Procedure for Cost-Based Abduction.|Yasuharu Den|23|4|0|0
+32|Tricolor DAGs for Machine Translation.|Koichi Takeda|2|0|0|0
+33|Extracting Noun Phrases from Large-Scale Texts: A Hybrid Approach and its Automatic Evaluation.|Kuang-hua Chen,Hsin-Hsi Chen|79|14|0|10
+34|A Corpus-Based Approach to Automatic Compound Extraction.|Keh-Yih Su,Ming-Wen Wu,Jing-Shin Chang|57|9|0|5
+35|An Automatic Treebank Conversion Algorithm for Corpus Sharing.|Jong-Nae Wang,Jing-Shin Chang,Keh-Yih Su|16|11|0|0
+36|An Attributive Logic of Set Descriptions and Set Operations.|Suresh Manandhar|29|0|0|4
+37|Multiset-Valued Linear Index Grammars: Imposing Dominance Constraints on Derivations.|Owen Rambow|25|8|0|5
+38|Optimality Theory: Universal Grammar, Learning and Parsing Algorithms, and Connectionist Foundations (Abstract).|Paul Smolensky,Bruce Tesar|2|1|0|0
+39|Similarity-Based Estimation of Word Cooccurrence Probabilities.|Ido Dagan,Fernando C. N. Pereira,Lillian Lee|164|25|0|8
+40|Acquiring Receptive Morphology: A Connectionist Model.|Michael Gasser|19|4|0|4
+41|Relating Complexity to Practical Performance in Parsing with Wide-Coverage Unification Grammars.|John Carroll|70|7|0|11
+42|Deyecting and Correcting Speech Repairs.|Peter A. Heeman,James F. Allen|n/a
+43|A Computational View of the Cognitive Semantics of Spatial Prepostions.|Patrick Olivier,Jun'ichi Tsujii|30|11|0|0
+44|Reaping the Benefits of Interactive Syntax and Semantics.|Kavi Mahesh|9|1|0|3
+45|Graded Unification: A Framework for Interactive Processing.|Albert Kim|19|1|0|0
+46|An Integrated Heuristic Scheme for Partial Parse Evaluation.|Alon Lavie|33|5|0|13
+47|Temporal Relations Reference or Discourse Coherence?|Andrew Kehler|19|2|0|4
+48|Simulating Children's Null Subjects: An Early Language Generation Model.|Carole T. Boster|1|1|0|0
+49|Dual-Coding Theory and Connectionist Lexical Selection.|Ye-Yi Wang|4|2|0|2
+50|Integration of Visual Inter-Word Constraints and Linguistic Knowledge in Degraded Text Recognition.|Tao Hong|10|1|1|8
+51|An automatic Method of Finding Topic Boundaries.|Jeffrey C. Reynar|139|36|1|1
+52|Automatic Alignment in Parallel Corpora.|Harris Papageorgiou,Lambros Cranias,Stelios Piperidis|32|7|0|5
+53|Conceptional Association for Compound Noun Analysis.|Mark Lauer|n/a

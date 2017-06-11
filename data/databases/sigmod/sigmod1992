@@ -1,0 +1,66 @@
+65
+1|Access to Data in NASA's Earth Observing System.|Jeff Dozier|34|2|1|0
+2|DIRECT: A Query Facility for Multiple Databases.|Ulla Merz,Roger King|24|1|1|0
+3|Conceptual Document Browsing and Retrieval in Kabiria.|Augusto Celentano,Maria Grazia Fugini,Silvano Pozzi|1|0|0|0
+4|USD - A Database Management System for Scientific Research.|Rowland R. Johnson,Mandy Goldner,Mitch Lee,Keith McKay,Robert Shectman,John Woodruff|16|1|0|0
+5|PRIMA - A Database System Supporting Dynamically Defined Composite Objects.|Michael Gesmann,Andreas Grasnickel,Theo Härder,Christoph Hübel,Wolfgang Käfer,Bernhard Mitschang,Harald Schöning|2|0|0|0
+6|Database and Transaction Processing Benchmarks.|Jim Gray|2|0|0|0
+7|The O2 Object-Oriented Database System.|François Bancilhon|n/a
+8|Architectures for Object Data Management.|Jack A. Orenstein|n/a
+9|Query Optimization for Parallel Execution.|Sumit Ganguly,Waqar Hasan,Ravi Krishnamurthy|229|43|6|13
+10|Exploiting Inter-Operation Parallelism in XPRS.|Wei Hong|111|10|2|2
+11|A Performance Analysis of Alternative Multi-Attribute Declustering Strategies.|Shahram Ghandeharizadeh,David J. DeWitt,Waheed Qureshi|87|15|0|8
+12|Extensible/Rule Based Query Rewrite Optimization in Starburst.|Hamid Pirahesh,Joseph M. Hellerstein,Waqar Hasan|396|82|59|34
+13|Rule Condition Testing and Action Execution in Ariel.|Eric N. Hanson|244|18|2|12
+14|Behavior of Database Production Rules: Termination, Confluence, and Observable Determinism.|Alexander Aiken,Jennifer Widom,Joseph M. Hellerstein|286|38|2|14
+15|Full Distribution in Objectivity/DB.|Andrew E. Wade|n/a
+16|ITASCA Distributed ODBMS.|Douglas K. Barry|n/a
+17|DOODLE: A Visual Language for Object-Oriented Databases.|Isabel F. Cruz|116|11|0|19
+18|Event Specification in an Active Object-Oriented Database.|Narain H. Gehani,H. V. Jagadish,Oded Shmueli|401|64|7|5
+19|A Transformation-Based Approach to Optimizing Loops in Database Programming Languages.|Daniel F. Lieuwen,David J. DeWitt|40|7|1|5
+20|What Can We Do to Strengthen the Connection Between Theory and System Builders.|Arnon Rosenthal|0|0|0|0
+21|High Performance and Availability Through Data Distribution.|Jay Kasi|0|0|0|0
+22|Parallel Index Building in Informix OnLine 6.0.|Wayne Davison|13|1|0|0
+23|Using Delayed Commitment in Locking Protocols for Real-Time Databases.|Divyakant Agrawal,Amr El Abbadi,Richard Jeffers|58|9|1|2
+24|Performance Analysis of Coherency Control Policies through Lock Retention.|Asit Dan,Philip S. Yu|32|1|0|9
+25|Efficient and Flexible Methods for Transient Versioning of Records to Avoid Locking by Read-Only Transactions.|C. Mohan,Hamid Pirahesh,Raymond A. Lorie|155|39|15|4
+26|H-trees: A Dynamic Associative Search Index for OODB.|Chee Chin Low,Beng Chin Ooi,Hongjun Lu|71|8|6|7
+27|On the Performance of Object Clustering Techniques.|Manolis M. Tsangaris,Jeffrey F. Naughton|126|7|1|0
+28|The Term Retrieval Machine.|Michael Ley|n/a
+29|A Concurrency Model for Transaction Management.|Marc Descollonges|0|0|0|0
+30|Using Multiversioning to Improve Performance Without Loss of Consistency.|Roger Bamford|4|2|1|0
+31|Crash Recovery in Client-Server EXODUS.|Michael J. Franklin,Michael J. Zwilling,C. K. Tan,Michael J. Carey,David J. DeWitt|111|23|0|16
+32|Analysis of Recovery in a Database System Using a Write-Ahead Log Protocol.|Anant Jhingran,Pratap Khedkar|11|2|0|2
+33|MLR: A Recovery Method for Multi-level Systems.|David B. Lomet|114|36|12|1
+34|Parallel R-trees.|Ibrahim Kamel,Christos Faloutsos|219|40|2|10
+35|A Qualitative Comparison Study of Data Structures for Large Line Segment Databases.|Erik G. Hoel,Hanan Samet|98|15|0|6
+36|Fast Search in Main Memory Databases.|Anastasia Analyti,Sakti Pramanik|32|3|0|1
+37|Administration, Availability, and Development Features of Teradata.|Bill Robertson|n/a
+38|Distribution, Parallelism, and Availability in NonStop SQL.|Pedro Celis|2|2|0|0
+39|Improving Fault Tolerance and Supporting Partial Writes in Structured Coterie Protocols for Replicated Objects.|Michael Rabinovich,Edward D. Lazowska|37|5|0|6
+40|An Efficient Scheme for Providing High Availability.|Anupam Bhide,Ambuj Goyal,Hui-I Hsiao,Anant Jhingran|30|8|9|2
+41|Evaluation of Remote Backup Algorithms for Transaction Processing Systems.|Christos A. Polyzois,Hector Garcia-Molina|56|17|4|0
+42|Optimization of Object-Oriented Recursive Queries using Cost-Controlled Strategies.|Rosana S. G. Lanzelotte,Patrick Valduriez,Mohamed Zaït|46|2|0|7
+43|Realizing a Temporal Complex-Object Data Model.|Wolfgang Käfer,Harald Schöning|58|5|0|0
+44|The Performance of Three Database Storage Structures for Managing Large Objects.|Alexandros Biliris|108|24|37|7
+45|Experience from a Real Life Query Optimizer.|Yun Wang|3|0|0|0
+46|Rdb/VMS Support for Multi-media Databases.|T. K. Rengarajan|3|0|0|0
+47|The Concurrency Control Problem in Multidatabases: Characteristics and Solutions.|Sharad Mehrotra,Rajeev Rastogi,Yuri Breitbart,Henry F. Korth,Abraham Silberschatz|91|7|0|10
+48|Simple Rational Guidance for Chopping Up Transactions.|Dennis Shasha,Eric Simon,Patrick Valduriez|43|3|0|0
+49|Performance Evaluation of Extended Storage Architectures for Transaction Processing.|Erhard Rahm|43|4|3|10
+50|Scientific Data Management: Real-World Issues and Requirements.|Paula J. Cowley|1|0|0|0
+51|The Design and Implementation of Persistent Transactions in an Object Database System.|Hong-Tai Chou|0|0|0|0
+52|A High Performance Multiversion Concurrency Control Protocol of Object Databases.|Craig Harris,Madhu Reddy,Carl Woolf|1|0|0|0
+53|Continuous Queries over Append-Only Databases.|Douglas B. Terry,David Goldberg,David A. Nichols,Brian M. Oki|507|152|21|1
+54|Compensation-Based On-Line Query Processing.|V. Srinivasan,Michael J. Carey|29|2|1|2
+55|Sequential Sampling Procedures for Query Size Estimation.|Peter J. Haas,Arun N. Swami|209|39|14|7
+56|Access Method Concurrency with Recovery.|David B. Lomet,Betty Salzberg|98|27|5|18
+57|Algorithms for Creating Indexes for Very Large Tables Without Quiescing Updates.|C. Mohan,Inderpal Narang|98|28|5|2
+58|ARIES/IM: An Efficient and High Concurrency Index Management Method Using Write-Ahead Logging.|C. Mohan,Frank E. Levine|295|63|24|31
+59|Extending Ingres with Methods and Triggers.|Fred Carter|3|0|0|0
+60|Implementation of General Constraints in SIM.|Richard Bigelow|0|0|0|0
+61|A General Framework for the Optimization of Object-Oriented Queries.|Sophie Cluet,Claude Delobel|188|16|9|12
+62|Querying Object-Oriented Databases.|Michael Kifer,Won Kim,Yehoshua Sagiv|438|23|2|13
+63|Query Processing in the ObjectStore Database System.|Jack A. Orenstein,Sam Haradhvala,Benson Margulies,Don Sakahara|139|15|32|1
+64|The Sybase Open Server.|Paul Melmom|n/a
+65|Multi-vendor Interoperability Through SQL Access.|Scott Newmann|0|0|0|0

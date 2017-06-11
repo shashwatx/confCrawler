@@ -1,0 +1,81 @@
+80
+1|Proceedings of the Twenty-Ninth Annual ACM Symposium on the Theory of Computing, El Paso, Texas, USA, May 4-6, 1997.|Frank Thomson Leighton,Peter W. Shor|n/a
+2|Some Optimal Inapproximability Results.|Johan Håstad|1550|595|0|0
+3|A Complete Classification of the Approximability of Maximization Problems Derived from Boolean Constraint Satisfaction.|Sanjeev Khanna,Madhu Sudan,David P. Williamson|95|13|0|11
+4|When Hamming Meets Euclid: The Approximability of Geometric TSP and MST (Extended Abstract).|Luca Trevisan|52|8|0|1
+5|Approximate Complex Polynomial Evaluation in Near Constant Work Per Point.|John H. Reif|11|4|0|0
+6|Fast and Precise Computations of Discrete Fourier Transforms Using Cyclotomic Integers.|Joe Buhler,Mohammad Amin Shokrollahi,Volker Stemann|6|2|0|0
+7|Quantum Computation of Fourier Transforms over Symmetric Groups.|Robert Beals|109|24|0|0
+8|General Techniques for Comparing Unrooted Evolutionary Trees.|Ming-Yang Kao,Tak Wah Lam,Teresa M. Przytycka,Wing-Kin Sung,Hing-Fung Ting|24|1|0|7
+9|Tree Pattern Matching and Subset Matching in Randomized O(n log3m) Time.|Richard Cole,Ramesh Hariharan|48|10|1|4
+10|Randomized Omega(n2) Lower Bound for Knapsack.|Dima Grigoriev,Marek Karpinski|10|0|0|5
+11|Exponential Lower Bounds for Depth 3 Boolean Circuits.|Ramamohan Paturi,Michael E. Saks,Francis Zane|15|0|0|6
+12|Algorithmic Complexity in Coding Theory and the Minimum Distance Problem.|Alexander Vardy|109|49|0|6
+13|Approximating Total Flow Time on Parallel Machines.|Stefano Leonardi,Danny Raz|151|15|1|18
+14|Non-clairvoyant Multiprocessor Scheduling of Jobs with Changing Execution Characteristics (Extended Abstract).|Jeff Edmonds,Donald D. Chinn,Tim Brecht,Xiaotie Deng|48|27|0|4
+15|Better Bounds for Online Scheduling.|Susanne Albers|246|76|0|16
+16|Optimal Time-Critical Scheduling via Resource Augmentation (Extended Abstract).|Cynthia A. Phillips,Clifford Stein,Eric Torng,Joel Wein|270|81|0|3
+17|Practical Loss-Resilient Codes.|Michael Luby,Michael Mitzenmacher,Mohammad Amin Shokrollahi,Daniel A. Spielman,Volker Stemann|885|284|77|37
+18|Spectral Techniques for Expander Codes.|John D. Lafferty,Daniel N. Rockmore|9|1|0|3
+19|Faster Solution of the Key Equation for Decoding BCH Error-Correcting Codes.|Victor Y. Pan|19|3|0|6
+20|Fault-Tolerant Quantum Computation With Constant Error.|Dorit Aharonov,Michael Ben-Or|619|208|5|15
+21|On the Construction of Pseudo-Random Permutations: Luby-Rackoff Revisited (Extended Abstract).|Moni Naor,Omer Reingold|392|128|13|14
+22|Reducing Randomness via Irrational Numbers.|Zhi-Zhong Chen,Ming-Yang Kao|73|33|0|1
+23|Is There an Algebraic Proof for P != NC? (Extended Abstract).|Ketan Mulmuley|n/a
+24|P = BPP if E Requires Exponential Circuits: Derandomizing the XOR Lemma.|Russell Impagliazzo,Avi Wigderson|489|187|0|64
+25|SL <= L4/3.|Roy Armoni,Amnon Ta-Shma,Avi Wigderson,Shiyu Zhou|n/a
+26|Using Random Sampling to Find Maximum Flows in Uncapacitated Undirected Graphs.|David R. Karger|30|5|0|6
+27|Combinatorial Complexity of the Central Curve.|Peter A. Beling,Sushil Verma|4|1|0|0
+28|Approximation of k-Set Cover by Semi-Local Optimization.|Rong-chii Duh,Martin Fürer|166|68|0|0
+29|Approximation Algorithms for Facility Location Problems (Extended Abstract).|David B. Shmoys,Éva Tardos,Karen Aardal|749|311|5|18
+30|Covering Points in the Plane by k-Tours: Towards a Polynomial Time Approximation Scheme for General k.|Tetsuo Asano,Naoki Katoh,Hisao Tamaki,Takeshi Tokuyama|30|11|0|3
+31|A Public-Key Cryptosystem with Worst-Case/Average-Case Equivalence.|Miklós Ajtai,Cynthia Dwork|559|219|3|10
+32|Private Information Storage (Extended Abstract).|Rafail Ostrovsky,Victor Shoup|n/a
+33|Computationally Private Information Retrieval (Extended Abstract).|Benny Chor,Niv Gilboa|271|99|4|5
+34|Approximating Hyper-Rectangles: Learning and Pseudo-Random Sets.|Peter Auer,Philip M. Long,Aravind Srinivasan|74|19|0|8
+35|A Composition Theorem for Learning Algorithms with Applications to Geometric Concept Classes.|Shai Ben-David,Nader H. Bshouty,Eyal Kushilevitz|16|1|0|12
+36|Using and Combining Predictors That Specialize.|Yoav Freund,Robert E. Schapire,Yoram Singer,Manfred K. Warmuth|189|82|3|10
+37|On-Line Algorithms for Steiner Tree Problems (Extended Abstract).|Piotr Berman,Chris Coulston|72|35|0|0
+38|Online Algorithms for Selective Multicast and Maximal Dense Trees.|Baruch Awerbuch,Tripurari Singh|14|3|1|3
+39|Direct Product Results and the GCD Problem, in Old and New Communication Models.|Itzhak Parnafes,Ran Raz,Avi Wigderson|49|32|0|9
+40|The Linear-Array Problem in Communication Complexity Resolved.|Martin Dietzfelbinger|23|3|0|0
+41|Paul Erdös (1913-1996): His Influence on the Theory of Computing.|László Babai|3|2|0|1
+42|Permanents, Pfaffian Orientations, and Even Directed Circuits (Extended Abstract).|William McCuaig,Neil Robertson,Paul D. Seymour,Robin Thomas|181|72|0|10
+43|Property Testing in Bounded Degree Graphs.|Oded Goldreich,Dana Ron|304|141|0|74
+44|Exploring Unknown Environments.|Susanne Albers,Monika Rauch Henzinger|259|108|0|3
+45|On Floorplans of Planar Graphs.|Xin He|n/a
+46|Linear Zero-Knowledge - A Note on Efficient Zero-Knowledge Proofs and Arguments.|Ronald Cramer,Ivan Damgård|32|7|0|3
+47|Commodity-Based Cryptography (Extended Abstract).|Donald Beaver|n/a
+48|Oblivious Data Structures: Applications to Cryptography.|Daniele Micciancio|78|31|1|1
+49|Is Linear Hashing Good?|Noga Alon,Martin Dietzfelbinger,Peter Bro Miltersen,Erez Petrank,Gábor Tardos|11|3|0|0
+50|A Sub-Constant Error-Probability Low-Degree Test, and a Sub-Constant Error-Probability PCP Characterization of NP.|Ran Raz,Shmuel Safra|767|367|3|30
+51|Improved Low-Degree Testing and its Applications.|Sanjeev Arora,Madhu Sudan|261|85|0|25
+52|Probabilistically Checkable Proofs with Zero Knowledge.|Joe Kilian,Erez Petrank,Gábor Tardos|13|9|0|0
+53|Making Games Short (Extended Abstract).|Uriel Feige,Joe Kilian|n/a
+54|Improved Routing and Sorting on Multibutterflies.|Bruce M. Maggs,Berthold Vöcking|18|3|0|2
+55|Static and Dynamic Path Selection on Expander Graphs: A Random Walk Approach (Preliminary Version).|Andrei Z. Broder,Alan M. Frieze,Eli Upfal|n/a
+56|On Sorting Strings in External Memory (Extended Abstract).|Lars Arge,Paolo Ferragina,Roberto Grossi,Jeffrey Scott Vitter|n/a
+57|Pointer Jumping Requires Concurrent Read.|Noam Nisan,Ziv Bar-Yossef|2|0|0|0
+58|Lower Bounds for Distributed Coin-Flipping and Randomized Consensus.|James Aspnes|47|17|0|7
+59|Byzantine Quorum Systems.|Dahlia Malkhi,Michael K. Reiter|627|212|12|31
+60|All of Us are Smarter Than Any of Us: Wait-Free Hierarchies are not Robust.|Wai-Kau Lo,Vassos Hadzilacos|12|1|0|1
+61|The Decidability of Distributed Decision Tasks (Extended Abstract).|Maurice Herlihy,Sergio Rajsbaum|55|27|0|27
+62|Two Algorithms for Nearest-Neighbor Search in High Dimensions.|Jon M. Kleinberg|435|136|10|0
+63|Nearest Neighbor Queries in Metric Spaces.|Kenneth L. Clarkson|199|62|0|2
+64|Locality-Preserving Hashing in Multidimensional Spaces.|Piotr Indyk,Rajeev Motwani,Prabhakar Raghavan,Santosh Vempala|152|54|12|5
+65|Incremental Clustering and Dynamic Information Retrieval.|Moses Charikar,Chandra Chekuri,Tomás Feder,Rajeev Motwani|387|147|2|2
+66|A Constant-Factor Approximation Algorithm for Packet Routing, and Balancing Local vs. Global Criteria.|Aravind Srinivasan,Chung-Piaw Teo|83|19|1|7
+67|Universal O(Congestion + Dilation + log1+epsilonN) Local Control Packet Switching Algorithms.|Rafail Ostrovsky,Yuval Rabani|n/a
+68|Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web.|David R. Karger,Eric Lehman,Frank Thomson Leighton,Rina Panigrahy,Matthew S. Levine,Daniel Lewin|2043|1010|74|11
+69|Allocating Bandwidth for Bursty Connections.|Jon M. Kleinberg,Yuval Rabani,Éva Tardos|139|78|1|0
+70|The Swendsen-Wang Process Does Not Always Mix Rapidly.|Vivek Gore,Mark Jerrum|90|38|0|0
+71|Approximately Counting Up To Four (Extended Abstract).|Michael Luby,Eric Vigoda|n/a
+72|An Interruptible Algorithm for Perfect Sampling via Markov Chains.|James Allen Fill|223|44|1|11
+73|Sampling Lattice Points.|Ravi Kannan,Santosh Vempala|21|10|0|2
+74|Page Replacement with Multi-Size Pages and Applications to Web Caching.|Sandy Irani|137|28|0|3
+75|A polylog(n)-Competitive Algorithm for Metrical Task Systems.|Yair Bartal,Avrim Blum,Carl Burch,Andrew Tomkins|86|16|1|19
+76|On ACC0[pk] Frege Proofs.|Alexis Maciel,Toniann Pitassi|5|3|0|2
+77|Reducing the Complexity of Reductions.|Manindra Agrawal,Eric Allender,Russell Impagliazzo,Toniann Pitassi,Steven Rudich|29|13|0|9
+78|Read-Once Branching Programs, Rectangular Proofs of the Pigeonhole Principle and the Transversal Calculus.|Alexander A. Razborov,Avi Wigderson,Andrew Chi-Chih Yao|48|8|0|11
+79|Eigenvalues, Flows and Separators of Graphs.|Fan R. K. Chung,Shing-Tung Yau|6|1|0|1
+80|Retraction of Probabilistic Computation and Linear Time.|Lance Fortnow,Michael Sipser|8|1|0|1

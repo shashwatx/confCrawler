@@ -1,0 +1,119 @@
+118
+1|VLDB 2002, Proceedings of 28th International Conference on Very Large Data Bases, August 20-23, 2002, Hong Kong, China.|n/a
+2|Data Routing Rather than Databases: The Meaning of the Next Wave of the Web Revolution to Data Management.|Adam Bosworth|7|0|0|0
+3|Foundation Matters.|C. J. Date|n/a
+4|Wireless Graffiti - Data, Data Everywhere Matters.|Tomasz Imielinski,B. R. Badrinath|n/a
+5|Self-tuning Database Technology and Information Services: from Wishful Thinking to Viable Engineering.|Gerhard Weikum,Axel Mönkeberg,Christof Hasse,Peter Zabback|196|70|3|1
+6|REFEREE: An Open Framework for Practical Testing of Recommender Systems using ResearchIndex.|Dan Cosley,Steve Lawrence,David M. Pennock|87|34|15|4
+7|Adaptable Similarity Search using Non-Relevant Information.|T. V. Ashwin,Rahul Gupta,Sugata Ghosal|17|7|1|1
+8|Sideway Value Algebra for Object-Relational Databases.|Gultekin Özsoyoglu,Abdullah Al-Hamdani,Ismail Sengör Altingövde,Selma Ayse Özel,Özgür Ulusoy,Z. Meral Özsoyoglu|13|0|0|2
+9|Database Selection Using Actual Physical and Acquired Logical Collection Resources in a Massive Domain-specific Operational Environment.|Jack G. Conrad,Xi S. Guo,Peter Jackson,Monem Meziou|14|2|1|3
+10|Structural Function Inlining Technique for Structurally Recursive XML Queries.|Chang-Won Park,Jun-Ki Min,Chin-Wan Chung|20|2|0|1
+11|Efficient Algorithms for Processing XPath Queries.|Georg Gottlob,Christoph Koch,Reinhard Pichler|565|168|3|36
+12|Incorporating XSL Processing into Database Engines.|Guido Moerkotte|36|4|1|2
+13|Optimizing View Queries in ROLEX to Support Navigable Result Trees.|Philip Bohannon,Sumit Ganguly,Henry F. Korth,P. P. S. Narayan,Pradeep Shenoy|49|4|0|4
+14|Chip-Secured Data Access: Confidential Data on Untrusted Servers.|Luc Bouganim,Philippe Pucheral|168|75|8|18
+15|Hippocratic Databases.|Rakesh Agrawal,Jerry Kiernan,Ramakrishnan Srikant,Yirong Xu|831|318|14|32
+16|Watermarking Relational Databases.|Rakesh Agrawal,Jerry Kiernan|482|293|5|7
+17|Parametric Query Optimization for Linear and Piecewise Linear Cost Functions.|Arvind Hulgeri,S. Sudarshan|67|33|1|3
+18|Plan Selection Based on Query Clustering.|Antara Ghosh,Jignashu Parikh,Vibhuti S. Sengar,Jayant R. Haritsa|55|20|3|4
+19|Generic Database Cost Models for Hierarchical Memory Systems.|Stefan Manegold,Peter A. Boncz,Martin L. Kersten|113|72|2|11
+20|Streaming Queries over Streaming Data.|Sirish Chandrasekaran,Michael J. Franklin|361|73|8|13
+21|Monitoring Streams - A New Class of Data Management Applications.|Donald Carney,Ugur Çetintemel,Mitch Cherniack,Christian Convey,Sangdon Lee,Greg Seidman,Michael Stonebraker,Nesime Tatbul,Stanley B. Zdonik|1002|299|13|16
+22|A Transducer-Based XML Query Processor.|Bertram Ludäscher,Pratik Mukhopadhyay,Yannis Papakonstantinou|204|41|0|2
+23|Updates for Structure Indexes.|Raghav Kaushik,Philip Bohannon,Jeffrey F. Naughton,Pradeep Shenoy|65|18|2|0
+24|RE-Tree: An Efficient Index Structure for Regular Expressions.|Chee Yong Chan,Minos N. Garofalakis,Rajeev Rastogi|77|21|1|4
+25|Efficient Structural Joins on Indexed XML Documents.|Shu-Yao Chien,Zografoula Vagena,Donghui Zhang,Vassilis J. Tsotras,Carlo Zaniolo|434|85|3|8
+26|Shooting Stars in the Sky: An Online Algorithm for Skyline Queries.|Donald Kossmann,Frank Ramsak,Steffen Rost|851|521|3|0
+27|Continuous Nearest Neighbor Search.|Yufei Tao,Dimitris Papadias,Qiongmao Shen|503|244|0|12
+28|Progressive Merge Join: A Generic and Non-blocking Sort-based Join Algorithm.|Jens-Peter Dittrich,Bernhard Seeger,David Scot Taylor,Peter Widmayer|111|54|0|8
+29|Foundations of Preferences in Database Systems.|Werner Kießling|604|274|3|0
+30|Multi-Dimensional Regression Analysis of Time-Series Data Streams.|Yixin Chen,Guozhu Dong,Jiawei Han,Benjamin W. Wah,Jianyong Wang|343|122|3|37
+31|Comparing Data Streams Using Hamming Norms (How to Zero In).|Graham Cormode,Mayur Datar,Piotr Indyk,S. Muthukrishnan|191|60|3|15
+32|Approximate Frequency Counts over Data Streams.|Gurmeet Singh Manku,Rajeev Motwani|1315|585|12|1
+33|StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time.|Yunyue Zhu,Dennis Shasha|712|322|5|11
+34|Optimizing Result Prefetching in Web Search Engines with Segmented Indices.|Ronny Lempel,Shlomo Moran|62|17|0|8
+35|I/O-Conscious Data Preparation for Large-Scale Web Search Engines.|Maxim Lifantsev,Tzi-cker Chiueh|16|8|0|2
+36|Distributed Search over the Hidden Web: Hierarchical Database Sampling and Selection.|Panagiotis G. Ipeirotis,Luis Gravano|210|70|4|14
+37|Exact Indexing of Dynamic Time Warping.|Eamonn J. Keogh|1423|868|3|50
+38|Adaptive Index Structures.|Yufei Tao,Dimitris Papadias|25|5|0|1
+39|A Case for Fractured Mirrors.|Ravishankar Ramamurthy,David J. DeWitt,Qi Su|150|88|9|0
+40|XPathLearner: An On-line Self-Tuning Markov Histogram for XML Path Selectivity Estimation.|Lipyeow Lim,Min Wang,Sriram Padmanabhan,Jeffrey Scott Vitter,Ronald Parr|101|24|2|8
+41|How to Summarize the Universe: Dynamic Maintenance of Quantiles.|Anna C. Gilbert,Yannis Kotidis,S. Muthukrishnan,Martin Strauss|185|49|9|22
+42|Structure and Value Synopses for XML Data Graphs.|Neoklis Polyzotis,Minos N. Garofalakis|134|26|1|7
+43|Compressed Accessibility Map: Efficient Access Control for XML.|Ting Yu,Divesh Srivastava,Laks V. S. Lakshmanan,H. V. Jagadish|86|27|4|1
+44|Optimizing the Secure Evaluation of Twig Queries.|SungRan Cho,Sihem Amer-Yahia,Laks V. S. Lakshmanan,Divesh Srivastava|133|26|2|4
+45|Provisions and Obligations in Policy Management and Security Applications.|Claudio Bettini,Sushil Jajodia,Xiaoyang Sean Wang,Duminda Wijesekera|116|38|0|8
+46|Effective Change Detection Using Sampling.|Junghoo Cho,Alexandros Ntoulas|116|41|0|6
+47|Maintaining Coherency of Dynamic Data in Cooperating Repositories.|Shetal Shah,Krithi Ramamritham,Prashant J. Shenoy|73|32|1|6
+48|A Bandwidth Model for Internet Search.|Axel Uhl|4|2|0|2
+49|Using Latency-Recency Profiles for Data Delivery on the Web.|Laura Bright,Louiqa Raschid|60|17|1|6
+50|View Invalidation for Dynamic Content Caching in Multitiered Architectures.|K. Selçuk Candan,Divyakant Agrawal,Wen-Syan Li,Oliver Po,Wang-Pin Hsiung|53|7|0|15
+51|Improving Data Access of J2EE Applications by Exploiting Asynchronous Messaging and Caching Services.|Samuel Kounev,Alejandro P. Buchmann|33|3|0|9
+52|Eliminating Fuzzy Duplicates in Data Warehouses.|Rohit Ananthakrishna,Surajit Chaudhuri,Venkatesh Ganti|432|200|16|10
+53|Translating Web Data.|Lucian Popa,Yannis Velegrakis,Renée J. Miller,Mauricio A. Hernández,Ronald Fagin|633|161|1|48
+54|COMA - A System for Flexible Combination of Schema Matching Approaches.|Hong Hai Do,Erhard Rahm|1226|538|25|28
+55|Efficient Exploration of Large Scientific Databases.|Etzard Stolte,Gustavo Alonso|20|5|0|5
+56|Searching on the Secondary Structure of Protein Sequences.|Laurie Hammel,Jignesh M. Patel|28|8|0|2
+57|ProTDB: Probabilistic Data in XML.|Andrew Nierman,H. V. Jagadish|239|137|0|6
+58|Fast and Accurate Text Classification via Multiple Linear Discriminant Projections.|Soumen Chakrabarti,Shourya Roy,Mahesh V. Soundalgekar|104|50|0|0
+59|DISCOVER: Keyword Search in Relational Databases.|Vagelis Hristidis,Yannis Papakonstantinou|843|493|20|33
+60|Maintaining Data Privacy in Association Rule Mining.|Shariq Rizvi,Jayant R. Haritsa|587|216|5|4
+61|A Logical Framework for Scheduling Workflows under Resource Allocation Constraints.|Pinar Senkul,Michael Kifer,Ismail Hakki Toroslu|86|26|0|11
+62|An Almost-Serial Protocol for Transaction Execution in Main-Memory Database Systems.|Stephen Blott,Henry F. Korth|30|10|0|0
+63|Lightweight Flexible Isolation for Language-based Extensible Systems.|Laurent Daynès,Grzegorz Czajkowski|6|1|1|1
+64|Processing Star Queries on Hierarchically-Clustered Fact Tables.|Nikos Karayannidis,Aris Tsois,Timos K. Sellis,Roland Pieringer,Volker Markl,Frank Ramsak,Robert Fenk,Klaus Elhardt,Rudolf Bayer|54|16|1|12
+65|Exploiting Versions for On-line Data Warehouse Maintenance in MOLAP Servers.|Heum-Geun Kang,Chin-Wan Chung|36|11|0|0
+66|FAS - A Freshness-Sensitive Coordination Middleware for a Cluster of OLAP Components.|Uwe Röhm,Klemens Böhm,Hans-Jörg Schek,Heiko Schuldt|124|31|2|10
+67|The Generalized MDL Approach for Summarization.|Laks V. S. Lakshmanan,Raymond T. Ng,Christine Xing Wang,Xiaodong Zhou,Theodore Johnson|50|17|0|1
+68|Quotient Cube: How to Summarize the Semantics of a Data Cube.|Laks V. S. Lakshmanan,Jian Pei,Jiawei Han|244|74|0|21
+69|A One-Pass Aggregation Algorithm with the Optimal Buffer Size in Multidimensional OLAP.|Young-Koo Lee,Kyu-Young Whang,Yang-Sae Moon,Il-Yeol Song|5|0|0|0
+70|Incremental Maintenance for Non-Distributive Aggregate Functions.|Themistoklis Palpanas,Richard Sidle,Roberta Cochrane,Hamid Pirahesh|70|27|0|2
+71|Reverse Nearest Neighbor Aggregates Over Data Streams.|Flip Korn,S. Muthukrishnan,Divesh Srivastava|96|23|0|5
+72|Tree Pattern Aggregation for Scalable XML Data Dissemination.|Chee Yong Chan,Wenfei Fan,Pascal Felber,Minos N. Garofalakis,Rajeev Rastogi|89|12|0|11
+73|DTD-Directed Publishing with Attribute Translation Grammars.|Michael Benedikt,Chee Yong Chan,Wenfei Fan,Rajeev Rastogi,Shihui Zheng,Aoying Zhou|67|13|0|12
+74|A Multi-version Cache Replacement and Prefetching Policy for Hybrid Data Delivery Environments.|André Seifert,Marc H. Scholl|17|7|5|0
+75|Toward Recovery-Oriented Computing.|Armando Fox|21|12|0|1
+76|SMART: Making DB2 (More) Autonomic.|Guy M. Lohman,Sam Lightstone|53|12|3|2
+77|Business Process Cockpit.|Mehmet Sayal,Fabio Casati,Umeshwar Dayal,Ming-Chien Shan|157|41|0|8
+78|GnatDb: A Small-Footprint, Secure Database System.|Radek Vingralek|40|10|5|1
+79|Experience Report: Exploiting Advanced Database Optimization Features for Large-Scale SAP R/3 Installations.|Bernhard Zeller,Alfons Kemper|20|10|4|1
+80|Information Integration and XML in IBM's DB2.|Patricia G. Selinger|3|1|0|0
+81|A New Passenger Support System for Public Transport using Mobile Database Access.|Koichi Goto,Yahiko Kambayashi|21|7|0|1
+82|OBK - An Online High Energy Physics' Meta-Data Repository.|I. Alexandrov,Antonio Amorim,E. Badescu,M. Barczyk,D. Burckhart-Chromek,Mihai Caprini,M. Dobson,J. Flammer,R. Hart,R. Jones,Andrei Kazarov,S. Kolos,V. Kotov,Dietrich Liko,Levi Lucio,L. Mapelli,M. Mineev,L. Moneta,I. Papadopoulos,M. Nassiakou,N. Parrington,Luis Pedro,A. Ribeiro,Yu. Ryabov,D. Schweiger,Igor Soloviev,H. Wolters|2|0|0|1
+83|The gRNA: A Highly Programmable Infrastructure for Prototyping, Developing and Deploying Genomics-Centric Applications.|Amey V. Laud,Sourav S. Bhowmick,Pedro Cruz,Dadabhai T. Singh,George Rajesh|11|0|0|3
+84|An Efficient Method for Performing Record Deletions and Updates Using Index Scans.|C. Mohan|21|17|0|0
+85|Joining Ranked Inputs in Practice.|Ihab F. Ilyas,Walid G. Aref,Ahmed K. Elmagarmid|87|28|0|8
+86|SQL Memory Management in Oracle9i.|Benoît Dageville,Mohamed Zaït|47|21|1|4
+87|XMark: A Benchmark for XML Data Management.|Albrecht Schmidt,Florian Waas,Martin L. Kersten,Michael J. Carey,Ioana Manolescu,Ralph Busse|916|361|3|5
+88|The Denodo Data Integration Platform.|Alberto Pan,Juan Raposo,Manuel Álvarez,Paula Montoto,Vicente Orjales,Justo Hidalgo,Lucía Ardao,Anastasio Molano,Ángel Viña|30|12|0|7
+89|Preference SQL - Design, Implementation, Experiences.|Werner Kießling,Gerhard Köstler|305|123|0|0
+90|The Rubicon of Smart Data.|Roger King|0|0|0|0
+91|Information Management Challenges from the Aerospace Industry.|Suryanarayana M. Sripada|5|2|0|0
+92|Experiments on Query Expansion for Internet Yellow Page Services Using Web Log Mining.|Yusuke Ohura,Katsumi Takahashi,Iko Pramudiono,Masaru Kitsuregawa|20|1|0|2
+93|Issues and Evaluations of Caching Solutions for Web Application Acceleration.|Wen-Syan Li,Wang-Pin Hsiung,Dmitri V. Kalashnikov,Radu Sion,Oliver Po,Divyakant Agrawal,K. Selçuk Candan|40|6|0|10
+94|An Automated System for Web Portal Personalization.|Charu C. Aggarwal,Philip S. Yu|28|13|1|0
+95|EOS: Exactly-Once E-Service Middleware.|German Shegalov,Gerhard Weikum,Roger S. Barga,David B. Lomet|18|5|5|3
+96|ServiceGlobe: Distributing E-Services Across the Internet.|Markus Keidl,Stefan Seltzsam,Konrad Stocker,Alfons Kemper|37|3|0|17
+97|SELF-SERV: A Platform for Rapid Composition of Web Services in a Peer-to-Peer Environment.|Quan Z. Sheng,Boualem Benatallah,Marlon Dumas,Eileen Oi-Yan Mak|210|64|0|20
+98|Database Technologies for Electronic Commerce.|Rakesh Agrawal,Ramakrishnan Srikant,Yirong Xu|9|3|0|0
+99|Advanced Database Technologies in a Diabetic Healthcare System.|Wynne Hsu,Mong-Li Lee,Beng Chin Ooi,Pranab Kumar Mohanty,Keng Lik Teo,Chenyi Xia|6|0|0|1
+100|RTMonitor: Real-Time Data Monitoring Using Mobile Agent Technologies.|Kam-yiu Lam,Alan Kwan,Krithi Ramamritham|13|1|0|2
+101|Viator - A Tool Family for Graphical Networking and Data View Creation.|Stephan Heymann,Katja Tham,Axel Kilian,Gunnar Wegner,Peter Rieger,Dieter Merkel,Johann Christoph Freytag|2|1|0|0
+102|Profiling and Internet Connectivity in Automotive Environments.|Mariano Cilia,P. Hasselmayer,Alejandro P. Buchmann|15|1|0|8
+103|GeMBASE: A Geometric Mediator for Brain Analysis with Surface Ensembles.|Simone Santini,Amarnath Gupta|2|0|0|1
+104|Extending an ORDBMS: The StateMachine Module.|Wolfgang Mahnke,Christian Mathis,Hans-Peter Steiert|1|0|0|0
+105|BANKS: Browsing and Keyword Searching in Relational Databases.|B. Aditya,Gaurav Bhalotia,Soumen Chakrabarti,Arvind Hulgeri,Charuta Nakhe,Parag,S. Sudarshan|149|91|6|2
+106|Active XML: Peer-to-Peer Data and Web Services Integration.|Serge Abiteboul,Omar Benjelloun,Ioana Manolescu,Tova Milo,Roger Weber|167|42|0|13
+107|LegoDB: Customizing Relational Storage for XML Documents.|Philip Bohannon,Juliana Freire,Jayant R. Haritsa,Maya Ramanath,Prasan Roy,Jérôme Siméon|42|9|1|1
+108|enTrans: A System for Flexible Consistency Maintenance in Directory Applications.|Anandi Herlekar,Atul Deopujari,Krithi Ramamritham,Shaymsunder Gopale,Shridhar Shukla|1|0|0|0
+109|Champagne: Data Change Propagation for Heterogeneous Information Systems.|Ralf Rantzau,Carmen Constantinescu,Uwe Heinkel,Holger Meinecke|27|15|0|6
+110|ALIAS: An Active Learning led Interactive Deduplication System.|Sunita Sarawagi,Anuradha Bhamidipaty,Alok Kirpal,Chandra Mouli|11|5|0|1
+111|A-TOPSS - A Publish/Subscribe System Supporting Approximate Matching.|Haifeng Liu,Hans-Arno Jacobsen|43|12|0|16
+112|Automation in Information Extraction and Data Integration.|Sunita Sarawagi|n/a
+113|Database Tuning: Principles, Experiments, and Troubleshooting Techniques.|Dennis Shasha,Philippe Bonnet|259|58|4|10
+114|Searching and Mining Fine-Grained Semi-Structured Data.|Soumen Chakrabarti|n/a
+115|Application Servers and Associated Technologies.|C. Mohan|8|1|0|0
+116|Querying and Mining Data Streams: You Only Get One Look.|Minos N. Garofalakis,Johannes Gehrke|291|97|1|15
+117|eBusiness Standards and Architectures.|Anil Nori|n/a
+118|Sensor Data Mining: Similarity Search and Pattern Analysis.|Christos Faloutsos|n/a

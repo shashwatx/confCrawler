@@ -1,0 +1,34 @@
+33
+1|13st International Conference on High-Performance Computer Architecture (HPCA-13 2007), 10-14 February 2007, Phoenix, Arizona, USA.|n/a
+2|Interconnect-Centric Computing.|William J. Dally|3|1|0|0
+3|An Adaptive Shared/Private NUCA Cache Partitioning Scheme for Chip Multiprocessors.|Haakon Dybdahl,Per Stenström|123|88|1|0
+4|Evaluating MapReduce for Multi-core and Multiprocessor Systems.|Colby Ranger,Ramanan Raghuraman,Arun Penmetsa,Gary R. Bradski,Christos Kozyrakis|861|739|13|0
+5|Extending Multicore Architectures to Exploit Hybrid Parallelism in Single-thread Applications.|Hongtao Zhong,Steven A. Lieberman,Scott A. Mahlke|103|68|1|2
+6|Implications of Device Timing Variability on Full Chip Timing.|Murali Annavaram,Ed Grochowski,Paul Reed|13|6|0|2
+7|Optical Interconnect Opportunities for Future Server Memory Systems.|Yasunao Katayama,Atsuya Okazaki|21|15|0|2
+8|Feedback Directed Prefetching: Improving the Performance and Bandwidth-Efficiency of Hardware Prefetchers.|Santhosh Srinath,Onur Mutlu,Hyesoon Kim,Yale N. Patt|184|156|0|18
+9|Improving Branch Prediction and Predicated Execution in Out-of-Order Processors.|Eduardo Quiñones,Joan-Manuel Parcerisa,Antonio González|17|15|2|2
+10|Accelerating and Adapting Precomputation Threads for Effcient Prefetching.|Weifeng Zhang,Dean M. Tullsen,Brad Calder|32|20|1|3
+11|Petascale Computing Research Challenges - A Manycore Perspective.|Steve Pawlowski|1|0|0|0
+12|A Scalable, Non-blocking Approach to Transactional Memory.|Hassan Chafi,Jared Casper,Brian D. Carlstrom,Austen McDonald,Chi Cao Minh,Woongki Baek,Christos Kozyrakis,Kunle Olukotun|130|86|0|2
+13|Fully-Buffered DIMM Memory Architectures: Understanding Mechanisms, Overheads and Scaling.|Brinda Ganesh,Aamer Jaleel,David Wang,Bruce L. Jacob|60|43|4|1
+14|HARD: Hardware-Assisted Lockset-based Race Detection.|Pin Zhou,Radu Teodorescu,Yuanyuan Zhou|122|94|0|1
+15|Colorama: Architectural Support for Data-Centric Synchronization.|Luis Ceze,Pablo Montesinos,Christoph von Praun,Josep Torrellas|38|22|1|5
+16|Error Detection via Online Checking of Cache Coherence with Token Coherence Signatures.|Albert Meixner,Daniel J. Sorin|31|17|0|4
+17|A Low Overhead Fault Tolerant Coherence Protocol for CMP Architectures.|Ricardo Fernández Pascual,José M. García,Manuel E. Acacio,José Duato|31|17|0|5
+18|Perturbation-based Fault Screening.|Paul Racunas,Kypros Constantinides,Srilatha Manne,Shubhendu S. Mukherjee|85|55|0|1
+19|Application-Level Correctness and its Impact on Fault Tolerance.|Xuanhua Li,Donald Yeung|124|105|4|3
+20|Thermal Herding: Microarchitecture Techniques for Controlling Hotspots in High-Performance 3D-Integrated Processors.|Kiran Puttaswamy,Gabriel H. Loh|145|108|1|3
+21|Modeling and Managing Thermal Profiles of Rack-mounted Servers with ThermoStat.|Jeonghwan Choi,Youngjae Kim,Anand Sivasubramaniam,Jelena Srebric,Qian Wang,Joonwon Lee|51|32|0|6
+22|Liquid SIMD: Abstracting SIMD Hardware using Lightweight Dynamic Mapping.|Nathan Clark,Amir Hormati,Sami Yehia,Scott A. Mahlke,Krisztián Flautner|33|23|0|2
+23|Interactions Between Compression and Prefetching in Chip Multiprocessors.|Alaa R. Alameldeen,David A. Wood|51|31|1|0
+24|A Memory-Level Parallelism Aware Fetch Policy for SMT Processors.|Stijn Eyerman,Lieven Eeckhout|54|38|12|8
+25|Line Distillation: Increasing Cache Capacity by Filtering Unused Words in Cache Lines.|Moinuddin K. Qureshi,M. Aater Suleman,Yale N. Patt|54|38|1|0
+26|LogTM-SE: Decoupling Hardware Transactional Memory from Caches.|Luke Yen,Jayaram Bobba,Michael R. Marty,Kevin E. Moore,Haris Volos,Mark D. Hill,Michael M. Swift,David A. Wood|343|228|3|7
+27|MemTracker: Efficient and Programmable Support for Memory Access Monitoring and Debugging.|Guru Venkataramani,Brandyn Roemer,Yan Solihin,Milos Prvulovic|89|64|0|3
+28|A Burst Scheduling Access Reordering Mechanism.|Jun Shao,Brian T. Davis|112|91|7|0
+29|Exploiting Postdominance for Speculative Parallelization.|Mayank Agarwal,Kshitiz Malik,Kevin M. Woley,Sam S. Stone,Matthew I. Frank|20|8|0|5
+30|Concurrent Direct Network Access for Virtual Machine Monitors.|Jeffrey Shafer,David Carr,Aravind Menon,Scott Rixner,Alan L. Cox,Willy Zwaenepoel,Paul Willmann|172|123|1|6
+31|A Domain-Specific On-Chip Network Design for Large Scale Cache Systems.|Yuho Jin,Eun Jung Kim,Ki Hwan Yum|37|14|1|2
+32|An Adaptive Cache Coherence Protocol Optimized for Producer-Consumer Sharing.|Liqun Cheng,John B. Carter,Donglai Dai|57|40|0|2
+33|Illustrative Design Space Studies with Microarchitectural Regression Models.|Benjamin C. Lee,David M. Brooks|84|58|0|15

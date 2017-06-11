@@ -1,0 +1,75 @@
+74
+1|35th Annual Symposium on Foundations of Computer Science, Santa Fe, New Mexico, USA, 20-22 November 1994.|n/a
+2|Approximate Graph Coloring by Semidefinite Programming.|David R. Karger,Rajeev Motwani,Madhu Sudan|538|163|0|12
+3|Finding separator cuts in planar graphs within twice the optimal.|Naveen Garg,Huzur Saran,Vijay V. Vazirani|22|4|0|1
+4|Polynomial time randomised approxmiation schemes for the Tutte polynomial of dense graphs.|Noga Alon,Alan M. Frieze,Dominic Welsh|28|6|0|4
+5|A note on the Theta number of Lovász and the generalized Delsarte bound.|Mario Szegedy|n/a
+6|An Efficient Membership-Query Algorithm for Learning DNF with Respect to the Uniform Distribution.|Jeffrey C. Jackson|252|59|1|3
+7|On Learning Discretized Geometric Concepts (Extended Abstract).|Nader H. Bshouty,Zhixiang Chen,Steven Homer|n/a
+8|PAC Learning with Irrelevant Attributes.|Aditi Dhagat,Lisa Hellerstein|47|4|0|0
+9|The Power of Team Exploration: Two Robots Can Learn Unlabeled Directed Graphs.|Michael A. Bender,Donna K. Slonim|172|61|0|5
+10|Algorithmic Number Theory-The Complexity Contribution.|Leonard M. Adleman|31|9|0|1
+11|On the Power of Quantum Cryptography.|Daniel R. Simon|n/a
+12|Algorithms for Quantum Computation: Discrete Logarithms and Factoring.|Peter W. Shor|4443|1730|21|7
+13|The Complexity of the Membership Problem for 2-generated Commutative Semigroups of Rational Matrices.|Jin-yi Cai,Richard J. Lipton,Yechezkel Zalcstein|16|3|0|4
+14|Efficient Average-Case Algorithms for the Modular Group.|Jin-yi Cai,Wolfgang H. J. Fuchs,Dexter Kozen,Zicheng Liu|8|3|0|1
+15|Finding the k Shortest Paths.|David Eppstein|1484|637|11|6
+16|Long Tours and Short Superstrings (Preliminary Version).|S. Rao Kosaraju,James K. Park,Clifford Stein|n/a
+17|Maximum (s, t)-Flows in Planar Networks in O(|V| log |V|) Time.|Karsten Weihe|61|31|0|3
+18|Estimating the Size of the Transitive Closure in Linear Time.|Edith Cohen|31|14|1|3
+19|Rapid Rumor Ramification: Approximating the minimum broadcast time (Extended Abstract).|R. Ravi|207|75|29|10
+20|The Load, Capacity and Availability of Quorum Systems.|Moni Naor,Avishai Wool|234|79|29|16
+21|Fast and Lean Self-Stabilizing Asynchronous Protocols.|Gene Itkis,Leonid A. Levin|51|15|0|3
+22|Local Optimization of Global Objectives: Competitive Distributed Deadlock Resolution and Resource Allocation.|Baruch Awerbuch,Yossi Azar|72|10|1|11
+23|(De)randomized Construction of Small Sample Spaces in \calNC.|David R. Karger,Daphne Koller|27|2|0|0
+24|Computing with Very Weak Random Sources.|Aravind Srinivasan,David Zuckerman|130|32|0|9
+25|Randomness-Efficient Oblivious Sampling.|Mihir Bellare,John Rompel|140|63|0|1
+26|On the robustness of functional equations.|Ronitt Rubinfeld|90|15|0|10
+27|A Lower Bound for the Monotone Depth of Connectivity.|Andrew Chi-Chih Yao|13|3|0|0
+28|Efficient Oblivious Branching Programs for Threshold Functions.|Rakesh K. Sinha,Jayram S. Thathachar|3|0|0|0
+29|Products and Help Bits in Decision Trees.|Noam Nisan,Steven Rudich,Michael E. Saks|23|11|0|0
+30|On the Design of Reliable Boolean Circuits that Contain Partially Unreliable Gates.|Daniel J. Kleitman,Frank Thomson Leighton,Yuan Ma|27|10|1|4
+31|Nearly Tight Bounds for Wormhole Routing.|Abhiram G. Ranade,Saul Schleimer,Daniel Shawcross Wilkerson|17|1|0|0
+32|Scheduling Multithreaded Computations by Work Stealing.|Robert D. Blumofe|1300|755|15|53
+33|Fast and Feasible Periodic Sorting Networks of Constant Depth.|Miroslaw Kutylowski,Krzysztof Lorys,Brigitte Oesterdiekhoff,Rolf Wanka|22|0|0|2
+34|Program Result-Checking: A Theory of Testing Meets a Test of Theory.|Manuel Blum,Hal Wasserman|49|6|0|0
+35|Beyond Competitive Analysis.|Elias Koutsoupias,Christos H. Papadimitriou|268|61|0|4
+36|A Theory of Competitive Analysis for Distributed Algorithms.|Miklós Ajtai,James Aspnes,Cynthia Dwork,Orli Waarts|68|17|0|6
+37|On-line Admission Control and Circuit Routing for High Performance Computing and Communication.|Baruch Awerbuch,Rainer Gawlick,Frank Thomson Leighton,Yuval Rabani|136|15|0|3
+38|IP over connection-oriented networks and distributional paging.|Carsten Lund,Steven Phillips,Nick Reingold|27|0|0|1
+39|CS Proofs (Extended Abstracts).|Silvio Micali|n/a
+40|On Monotone Formula Closure of SZK.|Alfredo De Santis,Giovanni Di Crescenzo,Giuseppe Persiano,Moti Yung|151|16|1|6
+41|On the complexity of Bounded-Interaction and Noninteractive Zero-Knowledge Proofs.|Joe Kilian|26|4|0|1
+42|Reducibility and Completeness in Multi-Party Private Computations.|Eyal Kushilevitz,Silvio Micali,Rafail Ostrovsky|44|6|1|11
+43|``Go With the Winners'' Algorithms.|David Aldous,Umesh V. Vazirani|123|24|0|1
+44|Randomized Simplex Algorithms on Klee-Mintny Cubes.|Bernd Gärtner,Günter M. Ziegler|55|19|0|8
+45|Motion Planning on a Graph (Extended Abstract).|Christos H. Papadimitriou,Prabhakar Raghavan,Madhu Sudan,Hisao Tamaki|n/a
+46|The Localization Problem for Mobile Robots.|Jon M. Kleinberg|67|10|0|0
+47|Algebraic Computation Trees in Characteristi p>0 (Extended Abstract).|Michael Ben-Or|n/a
+48|An O(n^1+epsilon log b) Algorithm for the Complex Roots Problem.|C. Andrew Neff,John H. Reif|19|5|0|2
+49|Complexity Lower Bounds for Computation Trees with Elementary Transcendental Function Gates.|Dima Grigoriev,Nicolai Vorobjov|18|2|0|10
+50|On the Computation of Boolean Functions by Analog Circuits of Bounded Fan-in (Extended Abstract).|György Turán,Farrokh Vatan|28|10|0|4
+51|Expander Codes.|Michael Sipser,Daniel A. Spielman|830|282|5|12
+52|The geometry of graphs and some of its algorithmic applications.|Nathan Linial,Eran London,Yuri Rabinovich|899|338|2|30
+53|Tail Bounds for Occupancy and the Satisfiability Threshold Conjecture.|Anil Kamath,Rajeev Motwani,Krishna V. Palem,Paul G. Spirakis|198|29|0|0
+54|Priority Encoding Transmission.|Andres Albanese,Johannes Blömer,Jeff Edmonds,Michael Luby,Madhu Sudan|809|228|41|6
+55|Graph Connectivity and Monadic NP.|Thomas Schwentick|41|5|0|8
+56|A Polynomial-time Algorithm for Deciding Equivalence of Normed Context-free Processes.|Yoram Hirshfeld,Mark Jerrum,Faron Moller|n/a
+57|On the Combinatorial and Algebraic Complexity of Quantifier Elimination.|Saugata Basu,Richard Pollack,Marie-Françoise Roy|388|101|0|41
+58|Set constraints with projections are in NEXPTIME.|Witold Charatonik,Leszek Pacholski|75|7|0|13
+59|Markov Chains and Polynomial Time Algorithms.|Ravi Kannan|84|11|0|2
+60|A Spectral Approach to Lower Bounds.|Bernard Chazelle|15|1|0|1
+61|Parallel Algorithms for Higher-Dimensional Convex Hulls.|Nancy M. Amato,Michael T. Goodrich,Edgar A. Ramos|111|20|0|11
+62|More Output-Sensitive Geometric Algorithms (Extended Abstract).|Kenneth L. Clarkson|n/a
+63|Randomized and deterministic algorithms for geometric spanners of small diameter.|Sunil Arya,David M. Mount,Michiel H. M. Smid|75|20|0|11
+64|A New Efficient Radix Sort.|Arne Andersson,Stefan Nilsson|68|21|1|10
+65|Multi-Index Hashing for Information Retrieval.|Daniel H. Greene,Michal Parnas,F. Frances Yao|76|35|10|0
+66|Optimizing Static Calendar Queues.|K. Bruce Erickson,Richard E. Ladner,Anthony LaMarca|27|4|0|1
+67|Fully Dynamic Cycle-Equivalence in Graphs.|Monika Rauch Henzinger|9|1|0|3
+68|Maximum Agreement Subtree in a Set of Evolutionary Trees-Metrics and Efficient Algorithms.|Dmitry Keselman,Amihood Amir|120|31|0|2
+69|Optimal Evolutionary Tree Comparison by Sparse Dynamic Programming (Extended Abstract).|Martin Farach,Mikkel Thorup|45|7|0|0
+70|Tractability of parameterized completion problems on chordal and interval graphs: Minimum Fill-in and Physical Mapping.|Haim Kaplan,Ron Shamir,Robert Endre Tarjan|76|20|0|6
+71|Lower Bound on Hilbert's Nullstellensatz and propositional proofs.|Paul Beame,Russell Impagliazzo,Jan Krajícek,Toniann Pitassi,Pavel Pudlák|88|21|0|13
+72|Measure on Small Complexity Classes, with Applications for BPP.|Eric Allender,Martin Strauss|91|9|0|8
+73|On Syntactic versus Computational Views of Approximability.|Sanjeev Khanna,Rajeev Motwani,Madhu Sudan,Umesh V. Vazirani|340|75|0|18
+74|On Rank vs. Communication Complexity.|Noam Nisan,Avi Wigderson|133|59|0|1

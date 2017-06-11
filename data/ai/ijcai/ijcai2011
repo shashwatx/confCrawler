@@ -1,0 +1,492 @@
+491
+1|IJCAI 2011, Proceedings of the 22nd International Joint Conference on Artificial Intelligence, Barcelona, Catalonia, Spain, July 16-22, 2011.|Toby Walsh|n/a
+2|Preface.|n/a
+3|Conference Organization.|n/a
+4|Program Committee.|n/a
+5|Conference Sponsorship.|n/a
+6|Awards and Distinguished Papers.|n/a
+7|Keynote and Invited Speakers.|n/a
+8|IJCAI Organization.|n/a
+9|Past IJCAI Conferences.|n/a
+10|Open Information Extraction: The Second Generation.|Oren Etzioni,Anthony Fader,Janara Christensen,Stephen Soderland,Mausam|219|214|2|7
+11|Artificial Intelligence and Human Thinking.|Robert A. Kowalski|2|2|0|0
+12|Aggregating Dependency Graphs into Voting Agendas in Multi-Issue Elections.|Stéphane Airiau,Ulle Endriss,Umberto Grandi,Daniele Porello,Joel Uckelman|10|10|0|7
+13|Using Emotions to Enhance Decision-Making.|Dimitrios Antos,Avi Pfeffer|13|13|0|1
+14|Hustling in Repeated Zero-Sum Games with Imperfect Execution.|Christopher Archibald,Yoav Shoham|3|3|0|1
+15|Dynamics of Profit-Sharing Games.|John Augustine,Ning Chen,Edith Elkind,Angelo Fanelli,Nick Gravin,Dmitry Shiryaev|16|16|0|0
+16|Optimal Partitions in Additively Separable Hedonic Games.|Haris Aziz,Felix Brandt,Hans Georg Seedig|4|4|0|2
+17|Coalitional Voting Manipulation: A Game-Theoretic Perspective.|Yoram Bachrach,Edith Elkind,Piotr Faliszewski|14|14|0|5
+18|Unweighted Coalitional Manipulation under the Borda Rule Is NP-Hard.|Nadja Betzler,Rolf Niedermeier,Gerhard J. Woeginger|54|53|0|4
+19|Simulating the Emergence of Grammatical Agreement in Multi-Agent Language Games.|Katrien Beuls,Sebastian Höfer|5|5|0|2
+20|Approximately Strategy-Proof Voting.|Eleanor Birrell,Rafael Pass|23|22|0|2
+21|A General Elicitation-Free Protocol for Allocating Indivisible Goods.|Sylvain Bouveret,Jérôme Lang|34|34|0|8
+22|Group-Strategyproof Irresolute Social Choice Functions.|Felix Brandt|13|13|0|8
+23|On the Fixed-Parameter Tractability of Composition-Consistent Tournament Solutions.|Felix Brandt,Markus Brill,Hans Georg Seedig|16|16|0|5
+24|Social Distance Games.|Simina Brânzei,Kate Larson|15|15|0|0
+25|Modeling the Emergence and Convergence of Norms.|Logan Brooks,Wayne Iba,Sandip Sen|11|11|0|0
+26|Verifying Normative Behaviour via Normative Mechanism Design.|Nils Bulling,Mehdi Dastani|7|7|0|3
+27|Alternating Epistemic Mu-Calculus.|Nils Bulling,Wojciech Jamroga|9|8|0|5
+28|Trust Decision-Making in Multi-Agent Systems.|Chris Burnett,Timothy J. Norman,Katia P. Sycara|41|40|0|1
+29|Manipulation in Group Argument Evaluation.|Martin Caminada,Gabriella Pigozzi,Mikolaj Podlaszewski|10|10|0|6
+30|Towards More Expressive Cake Cutting.|Ioannis Caragiannis,John K. Lai,Ariel D. Procaccia|32|32|0|11
+31|Efficient Mechanisms with Risky Participation.|Ruggiero Cavallo|1|1|0|0
+32|Using Incentive Mechanisms for an Adaptive Regulation of Open Multi-Agent Systems.|Roberto Centeno,Holger Billhardt|5|5|0|2
+33|AstonCAT-Plus: An Efficient Specialist for the TAC Market Design Tournament.|Meng Chang,Minghua He,Xudong Luo|9|9|0|3
+34|A Market Clearing Solution for Social Lending.|Ning Chen,Arpita Ghosh|6|6|0|3
+35|Hypercubewise Preference Aggregation in Multi-Issue Domains.|Vincent Conitzer,Jérôme Lang,Lirong Xia|17|16|0|3
+36|Changing One's Mind: Erase or Rewind?|Célia da Costa Pereira,Andrea Tettamanzi,Serena Villata|n/a
+37|Multi-Agent Soft Constraint Aggregation via Sequential Voting.|Giorgio Dalla Pozza,Maria Silvia Pini,Francesca Rossi,Kristen Brent Venable|9|9|0|2
+38|Human-Agent Auction Interactions: Adaptive-Aggressive Agents Dominate.|Marco De Luca,Dave Cliff|12|10|0|4
+39|Choosing Collectively Optimal Sets of Alternatives Based on the Condorcet Criterion.|Edith Elkind,Jérôme Lang,Abdallah Saffidine|10|9|0|3
+40|Action Selection via Learning Behavior Patterns in Multi-Robot Systems.|Can Erdogan,Manuela M. Veloso|7|7|0|0
+41|Assumption-Based Argumentation Dialogues.|Xiuyi Fan,Francesca Toni|21|21|0|9
+42|Binary Aggregation with Integrity Constraints.|Umberto Grandi,Ulle Endriss|26|22|0|15
+43|Manipulating Boolean Games through Communication.|John Grant,Sarit Kraus,Michael Wooldridge,Inon Zuckerman|21|21|0|8
+44|On the Complexity of the Core over Coalition Structures.|Gianluigi Greco,Enrico Malizia,Luigi Palopoli,Francesco Scarcello|25|24|0|2
+45|Max-Prob: An Unbiased Rational Decision Making Procedure for Multiple-Adversary Environments.|Anat Hashavit,Shaul Markovitch|0|0|0|0
+46|A Dynamic Logic of Normative Systems.|Andreas Herzig,Emiliano Lorini,Frédéric Moisan,Nicolas Troquard|32|32|0|20
+47|Considerate Equilibrium.|Martin Hoefer,Michal Penn,Maria Polukarov,Alexander Skopalik,Berthold Vöcking|10|10|0|5
+48|Model Checking Knowledge in Pursuit Evasion Games.|Xiaowei Huang,Patrick Maupin,Ron van der Meyden|n/a
+49|The Complexity of Safe Manipulation under Scoring Rules.|Egor Ianovski,Lan Yu,Edith Elkind,Mark C. Wilson|11|11|0|1
+50|Comparing Variants of Strategic Ability.|Wojciech Jamroga,Nils Bulling|13|13|0|5
+51|Accelerating Best Response Calculation in Large Extensive Games.|Michael Johanson,Kevin Waugh,Michael H. Bowling,Martin Zinkevich|39|37|0|11
+52|A Mechanism for Dynamic Ride Sharing Based on Parallel Auctions.|Alexander Kleiner,Bernhard Nebel,Vittorio A. Ziparo|39|38|0|0
+53|Security Games with Multiple Attacker Resources.|Dmytro Korzhyk,Vincent Conitzer,Ronald Parr|25|24|0|3
+54|Budgeted Social Choice: From Consensus to Personalized Decision Making.|Tyler Lu,Craig Boutilier|56|52|0|6
+55|Robust Approximation and Incremental Elicitation in Voting Protocols.|Tyler Lu,Craig Boutilier|52|51|0|12
+56|Push and Swap: Fast Cooperative Path-Finding with Completeness Guarantees.|Ryan Luna,Kostas E. Bekris|61|58|0|4
+57|Subsidies, Stability, and Restricted Cooperation in Coalitional Games.|Reshef Meir,Jeffrey S. Rosenschein,Enrico Malizia|24|23|0|9
+58|Using Experience to Generate New Regulations.|Javier Morales,Maite López-Sánchez,Marc Esteva|24|24|0|6
+59|Agents, Actions and Goals in Dynamic Environments.|Peter Novák,Wojciech Jamroga|1|1|0|0
+60|On the Complexity of Voting Manipulation under Randomized Tie-Breaking.|Svetlana Obraztsova,Edith Elkind|27|27|0|0
+61|Efficient Planning for Factored Infinite-Horizon DEC-POMDPs.|Joni Pajarinen,Jaakko Peltonen|26|26|0|4
+62|An Interaction-Oriented Model for Multi-Scale Simulation.|Sébastien Picault,Philippe Mathieu|28|26|0|7
+63|Minimum Search to Establish Worst-Case Guarantees in Coalition Structure Generation.|Talal Rahwan,Tomasz P. Michalak,Nicholas R. Jennings|17|16|0|9
+64|On Combining Decisions from Multiple Expert Imitators for Performance.|Jonathan Rubin,Ian D. Watson|12|12|0|3
+65|An Empirical Study of Seeding Manipulations and Their Prevention.|Tyrel Russell,Peter van Beek|2|2|0|1
+66|Rigging Tournament Brackets for Weaker Players.|Isabelle Stanton,Virginia Vassilevska Williams|9|9|0|5
+67|Learning Where You Are Going and from Whence You Came: h- and g-Cost Learning in Real-Time Heuristic Search.|Nathan R. Sturtevant,Vadim Bulitko|12|12|0|5
+68|Emergence and Stability of Social Conventions in Conflict Situations.|Toshiharu Sugawara|14|14|0|2
+69|Approximating Optimal Combinatorial Auctions for Complements Using Restricted Welfare Maximization.|Pingzhong Tang,Tuomas Sandholm|1|1|0|1
+70|Generalizing Envy-Freeness toward Group of Agents.|Taiki Todo,Runcong Li,Xuemei Hu,Takayuki Mouri,Atsushi Iwasaki,Makoto Yokoo|4|4|0|1
+71|Concise Characteristic Function Representations in Coalitional Games Based on Agent Types.|Suguru Ueda,Makoto Kitaki,Atsushi Iwasaki,Makoto Yokoo|25|24|0|2
+72|Facing Openness with Socio-Cognitive Trust and Categories.|Matteo Venanzi,Michele Piunti,Rino Falcone,Cristiano Castelfranchi|13|12|0|1
+73|Attack Semantics for Abstract Argumentation.|Serena Villata,Guido Boella,Leendert W. N. van der Torre|8|8|0|4
+74|Dynamic Sanctioning for Robust and Cost-Efficient Norm Compliance.|Daniel Villatoro,Giulia Andrighetto,Jordi Sabater-Mir,Rosaria Conte|40|40|0|17
+75|Social Instruments for Robust Convention Emergence.|Daniel Villatoro,Jordi Sabater-Mir,Sandip Sen|51|51|0|1
+76|Reasoning about Preferences in Intelligent Agent Systems.|Simeon Visser,John Thangarajah,James Harland|8|8|0|2
+77|Using Gaussian Processes to Optimise Concession in Complex Negotiations against Unknown Opponents.|Colin R. Williams,Valentin Robu,Enrico H. Gerding,Nicholas R. Jennings|50|47|0|5
+78|Online Planning for Ad Hoc Autonomous Agent Teams.|Feng Wu,Shlomo Zilberstein,Xiaoping Chen|31|31|0|5
+79|A Maximum Likelihood Approach towards Aggregating Partial Orders.|Lirong Xia,Vincent Conitzer|39|38|0|12
+80|An Efficient Monte-Carlo Algorithm for Pricing Combinatorial Prediction Markets for Tournaments.|Lirong Xia,David M. Pennock|8|8|0|3
+81|Improving Resource Allocation Strategy against Human Adversaries in Security Games.|Rong Yang,Christopher Kiekintveld,Fernando Ordóñez,Milind Tambe,Richard John|55|54|0|23
+82|Continuous Time Planning for Multiagent Teams with Temporal Constraints.|Zhengyu Yin,Milind Tambe|7|7|0|1
+83|Mechanism Design for Double Auctions with Temporal Constraints.|Dengji Zhao,Dongmo Zhang,Laurent Perrussel|15|15|0|2
+84|Generalized Reaction Functions for Solving Complex-Task Allocation Problems.|Xiaoming Zheng,Sven Koenig|3|3|0|0
+85|Multi-Agent Plan Recognition with Partial Team Traces and Plan Libraries.|Hankz Hankui Zhuo,Lei Li|11|10|0|1
+86|The Shapley Value as a Function of the Quota in Weighted Voting Games.|Yair Zick,Alexander Skopalik,Edith Elkind|14|13|0|7
+87|Tackling the Partner Units Configuration Problem.|Markus Aschinger,Conrad Drescher,Georg Gottlob,Peter Jeavons,Evgenij Thorstensen|10|10|0|2
+88|Depth-Driven Circuit-Level Stochastic Local Search for SAT.|Anton Belov,Matti Järvisalo,Zbigniew Stachniak|n/a
+89|Tractable Set Constraints.|Manuel Bodirsky,Martin Hils,Alex Krimkevitch|6|6|0|2
+90|Symmetries and Lazy Clause Generation.|Geoffrey Chu,Peter J. Stuckey,Maria Garcia de la Banda,Christopher Mears|11|10|0|4
+91|Constraint Satisfaction Problems: Convexity Makes AllDifferent Constraints Tractable.|Michael R. Fellows,Tobias Friedrich,Danny Hermelin,Nina Narodytska,Frances A. Rosamond|16|15|0|0
+92|Probabilistic Satisfiability: Logic-Based Algorithms and Phase Transition.|Marcelo Finger,Glauber De Bona|20|19|0|10
+93|Using Payoff-Similarity to Speed Up Search.|Timothy Furtak,Michael Buro|7|7|0|1
+94|Kernels for Global Constraints.|Serge Gaspers,Stefan Szeider|14|14|0|9
+95|A Uniform Approach for Generating Proofs and Strategies for Both True and False QBF Formulas.|Alexandra Goultiaeva,Allen Van Gelder,Fahiem Bacchus|35|32|0|5
+96|Generalizing ADOPT and BnB-ADOPT.|Patricia Gutierrez,Pedro Meseguer,William Yeoh|n/a
+97|Dynamic SAT with Decision Change Costs: Formalization and Solutions.|Daisuke Hatano,Katsutoshi Hirayama|6|6|0|1
+98|Minimization for Generalized Boolean Formulas.|Edith Hemaspaandra,Henning Schnoor|3|3|0|0
+99|Read-Once Resolution for Unsatisfiability-Based Max-SAT Algorithms.|Federico Heras,João Marques-Silva|3|3|0|1
+100|Real-Time Heuristic Search with Depression Avoidance.|Carlos Hernández,Jorge A. Baier|15|15|0|2
+101|Evaluations of Hash Distributed A* in Optimal Sequence Alignment.|Yoshikazu Kobayashi,Akihiro Kishimoto,Osamu Watanabe|7|7|0|4
+102|A Hybrid Recursive Multi-Way Number Partitioning Algorithm.|Richard E. Korf|11|11|0|5
+103|Constraint Programming on Infinite Data Streams.|Arnaud Lallouet,Yat Chiu Law,Jimmy Ho-Man Lee,Charles F. K. Siu|5|4|0|2
+104|Minimum Satisfiability and Its Applications.|Chu Min Li,Zhu Zhu,Felip Manyà,Laurent Simon|20|20|0|6
+105|Large Hinge Width on Sparse Random Hypergraphs.|Tian Liu,Xiaxiang Lin,Chaoyi Wang,Kaile Su,Ke Xu|14|14|0|5
+106|Real-Time Opponent Modeling in Trick-Taking Card Games.|Jeffrey Richard Long,Michael Buro|4|4|0|2
+107|Exploiting Short Supports for Generalised Arc Consistency for Arbitrary Constraints.|Peter Nightingale,Ian P. Gent,Christopher Jefferson,Ian Miguel|4|4|0|2
+108|The Multi-Inter-Distance Constraint.|Pierre Ouellet,Claude-Guy Quimper|3|2|0|1
+109|Finite-Length Markov Processes with Constraints.|François Pachet,Pierre Roy,Gabriele Barbieri|36|34|0|8
+110|A Generalized Arc-Consistency Algorithm for a Class of Counting Constraints.|Thierry Petit,Nicolas Beldiceanu,Xavier Lorca|11|10|0|6
+111|Nested Rollout Policy Adaptation for Monte Carlo Tree Search.|Christopher D. Rosin|39|37|0|2
+112|Real-Time Solving of Quantified CSPs Based on Monte-Carlo Game Tree Search.|Satomi Baba,Yongjoon Joe,Atsushi Iwasaki,Makoto Yokoo|8|8|0|0
+113|The Increasing Cost Tree Search for Optimal Multi-Agent Pathfinding.|Guni Sharon,Roni Stern,Meir Goldenberg,Ariel Felner|53|52|0|18
+114|Complete Algorithms for Cooperative Pathfinding Problems.|Trevor Scott Standley,Richard E. Korf|61|59|0|1
+115|Bounded Suboptimal Search: A Direct Approach Using Inadmissible Estimates.|Jordan Tyler Thayer,Wheeler Ruml|41|39|0|15
+116|Rational Deployment of CSP Heuristics.|David Tolpin,Solomon Eyal Shimony|9|9|0|4
+117|Symmetry Breaking via LexLeader Feasibility Checkers.|Justin Yip,Pascal Van Hentenryck|3|3|0|0
+118|Heuristic Algorithms for Balanced Multi-Way Number Partitioning.|Jilian Zhang,Kyriakos Mouratidis,HweeHwa Pang|3|3|0|0
+119|Space Defragmentation Heuristic for 2D and 3D Bin Packing Problems.|Zhaoyi Zhang,Songshan Guo,Wenbin Zhu,Wee-Chong Oon,Andrew Lim|6|6|0|2
+120|What Is an Ideal Logic for Reasoning with Inconsistency?.|Ofer Arieli,Arnon Avron,Anna Zamansky|8|6|0|2
+121|Walking the Complexity Lines for Generalized Guarded Existential Rules.|Jean-François Baget,Marie-Laure Mugnier,Sebastian Rudolph,Michaël Thomazo|60|57|0|10
+122|Query Reasoning on Trees with Types, Interleaving, and Counting.|Everardo Bárcenas,Pierre Genevès,Nabil Layaïda,Alan Schmitt|15|15|0|0
+123|First-Order Extension of the FLP Stable Model Semantics via Modified Circumscription.|Michael Bartholomew,Joohyung Lee,Yunsong Meng|12|12|0|3
+124|A Theory of Meta-Diagnosis: Reasoning about Diagnostic Systems.|Nuno Belard,Yannick Pencolé,Michel Combacau|10|10|0|4
+125|A Computationally-Grounded Semantics for Artifact-Centric Systems and Abstraction Results.|Francesco Belardinelli,Alessio Lomuscio,Fabio Patrizi|12|12|0|7
+126|On Progression and Query Evaluation in First-Order Knowledge Bases with Function Symbols.|Vaishak Belle,Gerhard Lakemeyer|3|3|0|2
+127|Interval-Based Possibilistic Logic.|Salem Benferhat,Julien Hué,Sylvain Lagrue,Julien Rossit|13|13|0|7
+128|RCC8 Is Polynomial on Networks of Bounded Treewidth.|Manuel Bodirsky,Stefan Wölfl|11|11|0|0
+129|On the Complexity of EL with Defeasible Inclusions.|Piero A. Bonatti,Marco Faella,Luigi Sauro|8|8|0|0
+130|Description Logics over Lattices with Multi-Valued Ontologies.|Stefan Borgwardt,Rafael Peñaloza|23|23|0|10
+131|Finite-Valued Lukasiewicz Modal Logic Is PSPACE-Complete.|Félix Bou,Marco Cerami,Francesc Esteva|17|17|0|3
+132|Relating the Semantics of Abstract Dialectical Frameworks and Standard AFs.|Gerhard Brewka,Paul E. Dunne,Stefan Woltran|35|35|0|5
+133|Managed Multi-Context Systems.|Gerhard Brewka,Thomas Eiter,Michael Fink,Antonius Weinzierl|54|52|0|10
+134|Modeling Attempt and Action Failure in Probabilistic STIT Logic.|Jan M. Broersen|13|13|0|5
+135|A Practical Automata-Based Technique for Reasoning in Expressive Description Logics.|Diego Calvanese,Domenico Carbotta,Magdalena Ortiz|4|4|0|1
+136|Containment of Regular Path Queries under Description Logic Constraints.|Diego Calvanese,Magdalena Ortiz,Mantas Simkus|16|16|0|2
+137|Defeasible Inheritance-Based Description Logics.|Giovanni Casini,Umberto Straccia|25|25|0|3
+138|SDD: A New Canonical Representation of Propositional Knowledge Bases.|Adnan Darwiche|55|53|0|13
+139|Efficient Reasoning in Proper Knowledge Bases with Unknown Individuals.|Giuseppe De Giacomo,Yves Lespérance,Hector J. Levesque|3|3|0|1
+140|Revising by an Inconsistent Set of Formulas.|James P. Delgrande|0|0|0|0
+141|Revising Horn Theories.|James P. Delgrande,Pavlos Peppas|26|26|0|3
+142|Expressiveness of the Interval Logics of Allen's Relations on the Class of All Linear Orders: Complete Classification.|Dario Della Monica,Valentin Goranko,Angelo Montanari,Guido Sciavicco|n/a
+143|Parametric Properties of Ideal Semantics.|Wolfgang Dvorák,Paul E. Dunne,Stefan Woltran|11|11|0|4
+144|Tangled Modal Logic for Spatial Reasoning.|David Fernández Duque|3|3|0|0
+145|Backdoors to Tractable Answer-Set Programming.|Johannes Klaus Fichte,Stefan Szeider|15|15|0|10
+146|Refutation in Dummett Logic Using a Sign to Express the Truth at the Next Possible World.|Guido Fiorino|2|2|0|2
+147|Fixpoints in Temporal Description Logics.|Enrico Franconi,David Toman|8|8|0|0
+148|Succinctness of Epistemic Languages.|Tim French,Wiebe van der Hoek,Petar Iliev,Barteld P. Kooi|17|17|0|6
+149|Repairing Incorrect Knowledge with Model Formulation and Metareasoning.|Scott E. Friedman,Kenneth D. Forbus|13|13|0|4
+150|Reasoning about Typicality in Low Complexity DLs: The Logics EL⊥Tmin and DL-Litec Tmin.|Laura Giordano,Valentina Gliozzi,Nicola Olivetti,Gian Luca Pozzato|16|16|0|12
+151|Belief Management for High-Level Robot Programs.|Stephan Gspandl,Ingo Pill,Michael Reip,Gerald Steinbauer,Alexander Ferrein|27|26|0|8
+152|Multidimensional Mereotopology with Betweenness.|Torsten Hahmann,Michael Grüninger|4|4|0|3
+153|Generalising the Interaction Rules in Probabilistic Logic.|Arjen Hommersom,Peter J. F. Lucas|11|11|0|2
+154|Generalized Planning: Synthesizing Plans that Work for Multiple Environments.|Yuxiao Hu,Giuseppe De Giacomo|15|15|0|1
+155|Logic Programming for Boolean Networks.|Katsumi Inoue|31|30|0|13
+156|Discrete-Time Temporal Reasoning with Horn DLRs.|Peter Jonsson,Tomas Lööw|1|1|0|1
+157|A Constructive Approach to Independent and Evidence Retaining Belief Revision by General Information Sets.|Gabriele Kern-Isberner,Patrick Krümpelmann|5|5|0|3
+158|A Logic for Causal Inference in Time Series with Discrete and Continuous Variables.|Samantha Kleinberg|6|6|0|4
+159|Belief Base Rationalization for Propositional Merging.|Sébastien Konieczny,Pierre Marquis,Nicolas Schwind|7|7|0|3
+160|On the Decidability of Connectedness Constraints in 2D and 3D Euclidean Spaces.|Roman Kontchakov,Yavor Nenov,Ian Pratt-Hartmann,Michael Zakharyaschev|14|14|0|2
+161|Extending Decidable Existential Rules by Joining Acyclicity and Guardedness.|Markus Krötzsch,Sebastian Rudolph|69|65|0|11
+162|Context-Sensitive Diagnosis of Discrete-Event Systems.|Gianfranco Lamperti,Marina Zanella|12|12|0|4
+163|On the Progression of Knowledge in the Situation Calculus.|Yongmei Liu,Ximing Wen|18|18|0|1
+164|Description Logic TBoxes: Model-Theoretic Characterizations and Rewritability.|Carsten Lutz,Robert Piro,Frank Wolter|27|27|0|8
+165|Foundations for Uniform Interpolation and Forgetting in Expressive Description Logics.|Carsten Lutz,Frank Wolter|50|49|0|4
+166|Existential Closures for Knowledge Compilation.|Pierre Marquis|8|8|0|3
+167|Lost in Translation: Language Independence in Propositional Logic - Application to Belief Revision and Belief Merging.|Pierre Marquis,Nicolas Schwind|1|1|0|1
+168|Reasoning about Fuzzy Belief and Common Belief: With Emphasis on Incomparable Beliefs.|Yoshihiro Maruyama|6|6|0|0
+169|Causal Learnability.|Loizos Michael|18|18|0|11
+170|Revisiting Preferences and Argumentation.|Sanjay Modgil,Henry Prakken|30|30|0|10
+171|Reasoning-Supported Interactive Revision of Knowledge Bases.|Nadeschda Nikitina,Sebastian Rudolph,Birte Glimm|16|16|0|9
+172|Augmenting Tractable Fragments of Abstract Argumentation.|Sebastian Ordyniak,Stefan Szeider|22|22|0|9
+173|Query Answering in the Horn Fragments of the Description Logics SHOIQ and SROIQ.|Magdalena Ortiz,Sebastian Rudolph,Mantas Simkus|56|55|0|19
+174|An Approach to Minimal Belief via Objective Belief.|David Pearce,Levan Uridia|6|6|0|4
+175|An Assertion Retrieval Algebra for Object Queries over Knowledge Bases.|Jeffrey Pound,David Toman,Grant E. Weddell,Jiewen Wu|6|6|0|5
+176|On the Complexity of Dealing with Inconsistency in Description Logic Ontologies.|Riccardo Rosati|34|32|0|4
+177|Dishonest Reasoning by Abduction.|Chiaki Sakama|14|14|0|6
+178|A Logical Formulation for Negotiation among Dishonest Agents.|Chiaki Sakama,Tran Cao Son,Enrico Pontelli|5|5|0|4
+179|Description Logics and Fuzzy Probability.|Lutz Schröder,Dirk Pattinson|4|4|0|1
+180|Well-Supported Semantics for Description Logic Programs.|Yi-Dong Shen|21|21|0|6
+181|Computing Minimum-Cardinality Diagnoses by Model Relaxation.|Sajjad Ahmed Siddiqi|10|10|0|0
+182|Consequence-Based Reasoning beyond Horn Ontologies.|Frantisek Simancik,Yevgeny Kazakov,Ian Horrocks|58|57|0|12
+183|Beth Definability in Expressive Description Logics.|Balder ten Cate,Enrico Franconi,Inanç Seylan|14|14|0|7
+184|The General Game Playing Description Language Is Universal.|Michael Thielscher|31|31|0|16
+185|Relating Carneades with Abstract Argumentation.|Bas van Gijzel,Henry Prakken|23|22|0|6
+186|On Qualitative Route Descriptions: Representation and Computational Complexity.|Matthias Westphal,Stefan Wölfl,Bernhard Nebel,Jochen Renz|5|5|0|2
+187|Translating First-Order Theories into Logic Programs.|Heng Zhang,Yan Zhang,Mingsheng Ying,Yi Zhou|7|7|0|4
+188|Transitively Relational Partial Meet Horn Contraction.|Zhi Qiang Zhuang,Maurice Pagnucco|12|12|0|5
+189|Discerning Linkage-Based Algorithms among Hierarchical Clustering Methods.|Margareta Ackerman,Shai Ben-David|9|9|0|4
+190|A Competitive Strategy for Function Approximation in Q-Learning.|Alejandro Agostini,Enric Celaya|1|1|0|1
+191|Multi-Evidence Lifted Message Passing, with Application to PageRank and the Kalman Filter.|Babak Ahmadi,Kristian Kersting,Scott Sanner|31|31|0|12
+192|An Efficient Framework for Constructing Generalized Locally-Induced Text Metrics.|Saeed Amizadeh,Shuguang Wang,Milos Hauskrecht|5|5|0|4
+193|Semi-Supervised Learning from a Translation Model between Data Distributions.|Henry Anaya-Sánchez,José Martínez Sotoca,Adolfo Martínez Usó|1|1|0|0
+194|A Framework for Incorporating General Domain Knowledge into Latent Dirichlet Allocation Using First-Order Logic.|David Andrzejewski,Xiaojin Zhu,Mark Craven,Benjamin Recht|55|53|0|2
+195|Improving Performance of Topic Models by Variable Grouping.|Evgeniy Bart|1|1|0|0
+196|Learning a Distance Metric by Empirical Loss Minimization.|Wei Bian,Dacheng Tao|25|25|0|3
+197|A Hidden Markov Model Variant for Sequence Classification.|Sam Blasiak,Huzefa Rangwala|10|8|0|1
+198|Approximation-Guided Evolutionary Multi-Objective Optimization.|Karl Bringmann,Tobias Friedrich,Frank Neumann,Markus Wagner|45|45|0|7
+199|Distance Metric Learning under Covariate Shift.|Bin Cao,Xiaochuan Ni,Jian-Tao Sun,Gang Wang,Qiang Yang|7|7|0|0
+200|Using Cases as Heuristics in Reinforcement Learning: A Transfer Learning Application.|Luiz A. Celiberto,Jackson Paul Matsuura,Ramon López de Mántaras,Reinaldo A. C. Bianchi|15|14|0|1
+201|Increasing the Scalability of the Fitting of Generalised Block Models for Social Networks.|Jeffrey Chan,Samantha Lam,Conor Hayes|7|7|0|2
+202|Concept Labeling: Building Text Classifiers with Minimal Supervision.|Vijil Chenthamarakshan,Prem Melville,Vikas Sindhwani,Richard D. Lawrence|11|11|0|3
+203|Unsupervised Learning of Patterns in Data Streams Using Compression and Edit Distance.|Sook-Ling Chua,Stephen Marsland,Hans W. Guesgen|6|5|0|2
+204|Flexible, High Performance Convolutional Neural Networks for Image Classification.|Dan Claudiu Ciresan,Ueli Meier,Jonathan Masci,Luca Maria Gambardella,Jürgen Schmidhuber|196|182|0|9
+205|Automatic State Abstraction from Demonstration.|Luis C. Cobo,Peng Zang,Charles Lee Isbell Jr.,Andrea Lockerd Thomaz|19|19|0|3
+206|Generative Structure Learning for Markov Logic Networks Based on Graph of Predicates.|Quang-Thang Dinh,Matthieu Exbrayat,Christel Vrain|7|7|0|1
+207|Learning Decision Rules from Data Streams.|João Gama,Petr Kosina|34|34|0|8
+208|Constituent Grammatical Evolution.|Loukas Georgiou,William John Teahan|9|9|0|4
+209|Continuous Correlated Beta Processes.|Robby Goetschalckx,Pascal Poupart,Jesse Hoey|8|8|0|3
+210|A Fast Dual Projected Newton Method for l1-Regularized Least Squares.|Pinghua Gong,Changshui Zhang|4|4|0|0
+211|Kernel-Based Selective Ensemble Learning for Streams of Trees.|Valerio Grossi,Alessandro Sperduti|9|9|0|0
+212|On Trivial Solution and Scale Transfer Problems in Graph Regularized NMF.|Quanquan Gu,Chris H. Q. Ding,Jiawei Han|18|18|0|2
+213|Joint Feature Selection and Subspace Learning.|Quanquan Gu,Zhenhui Li,Jiawei Han|53|51|0|2
+214|Multi-Label Classification Using Conditional Dependency Networks.|Yuhong Guo,Suicheng Gu|61|57|0|5
+215|Extracting Temporal Patterns from Interval-Based Sequences.|Thomas Guyet,Rene Quiniou|13|12|0|1
+216|Fast Approximate Nearest-Neighbor Search with k-Nearest Neighbor Graph.|Kiana Hajebi,Yasin Abbasi-Yadkori,Hossein Shahbazi,Hong Zhang|38|38|0|2
+217|Gaussianity Measures for Detecting the Direction of Causal Time Series.|José Miguel Hernández-Lobato,Pablo Morales-Mombiela,Alberto Suárez|1|1|0|1
+218|Feature Selection via Joint Embedding Learning and Sparse Regression.|Chenping Hou,Feiping Nie,Dongyun Yi,Yi Wu|42|40|0|1
+219|Heuristic Rule-Based Regression via Dynamic Reduction to Classification.|Frederik Janssen,Johannes Fürnkranz|13|12|0|1
+220|Adaptation of a Mixture of Multivariate Bernoulli Distributions.|Ankur Kamthe,Miguel Á. Carreira-Perpiñán,Alberto Cerpa|5|5|0|3
+221|Revisiting Numerical Pattern Mining with Formal Concept Analysis.|Mehdi Kaytoue,Sergei O. Kuznetsov,Amedeo Napoli|33|32|0|17
+222|Activity Recognition with Finite State Machines.|Wesley Kerr,Anh Tran,Paul R. Cohen|8|8|0|3
+223|Incremental Slow Feature Analysis.|Varun Raj Kompella,Matthew D. Luciw,Jürgen Schmidhuber|18|17|0|8
+224|Learning Hash Functions for Cross-View Similarity Search.|Shaishav Kumar,Raghavendra Udupa|79|72|0|1
+225|Modular Community Detection in Networks.|Wenye Li,Dale Schuurmans|21|20|0|12
+226|Probit Classifiers with a Generalized Gaussian Scale Mixture Prior.|Guoqing Liu,Jianxin Wu,Suiping Zhou|3|3|0|1
+227|Locality-Constrained Concept Factorization.|Haifeng Liu,Zheng Yang,Zhaohui Wu|14|11|0|1
+228|Cluster Indicator Decomposition for Efficient Matrix Factorization.|Dijun Luo,Chris H. Q. Ding,Heng Huang|2|2|0|1
+229|Ball Ranking Machine for Content-Based Multimedia Retrieval.|Dijun Luo,Heng Huang|2|2|0|0
+230|Combining Supervised and Unsupervised Models via Unconstrained Probabilistic Embedding.|Xudong Ma,Ping Luo,Fuzhen Zhuang,Qing He,Zhongzhi Shi,Zhiyong Shen|10|9|0|0
+231|Agent-Oriented Incremental Team and Activity Recognition.|Daniele Masato,Timothy J. Norman,Wamberto Weber Vasconcelos,Katia P. Sycara|6|5|0|0
+232|Multi-Kernel Gaussian Processes.|Arman Melkumyan,Fabio Ramos|21|20|0|7
+233|Imitation Learning in Relational Domains: A Functional-Gradient Boosting Approach.|Sriraam Natarajan,Saket Joshi,Prasad Tadepalli,Kristian Kersting,Jude W. Shavlik|32|30|0|19
+234|Positive Unlabeled Leaning for Time Series Classification.|Minh Nhut Nguyen,Xiaoli Li,See-Kiong Ng|29|28|0|6
+235|Distribution-Aware Online Classifiers.|Tam T. Nguyen,Kuiyu Chang,Siu Cheung Hui|4|4|0|4
+236|Robust Principal Component Analysis with Non-Greedy l1-Norm Maximization.|Feiping Nie,Heng Huang,Chris H. Q. Ding,Dijun Luo,Hua Wang|41|40|0|9
+237|Biclustering-Driven Ensemble of Bayesian Belief Network Classifiers for Underdetermined Problems.|Tatdow Pansombut,William Hendrix,Zekai Jacob Gao,Brent E. Harrison,Nagiza F. Samatova|5|5|0|1
+238|Strategy Learning for Autonomous Agents in Smart Grid Markets.|Prashant P. Reddy,Manuela M. Veloso|33|33|0|3
+239|Q-Error as a Selection Mechanism in Modular Reinforcement-Learning Systems.|Mark B. Ring,Tom Schaul|5|5|0|4
+240|Domain Adaptation with Ensemble of Feature Groups.|Rajhans Samdani,Wen-tau Yih|7|7|0|0
+241|Discovering Deformable Motifs in Continuous Time Series Data.|Suchi Saria,Andrew Duchi,Daphne Koller|10|10|0|1
+242|A General MCMC Method for Bayesian Inference in Logic-Based Probabilistic Modeling.|Taisuke Sato|15|15|0|4
+243|Classification of Emerging Extreme Event Tracks in Multivariate Spatio-Temporal Physical Systems Using Dynamic Network Structures: Application to Hurricane Track Prediction.|Huseyin Sencan,Zhengzhang Chen,William Hendrix,Tatdow Pansombut,Fredrick H. M. Semazzi,Alok N. Choudhary,Vipin Kumar,Anatoli V. Melechko,Nagiza F. Samatova|4|4|0|1
+244|Active Surveying: A Probabilistic Approach for Identifying Key Opinion Leaders.|Hossam Sharara,Lise Getoor,Myra Norton|10|10|0|1
+245|Consistency Measures for Feature Selection: A Formal Definition, Relative Sensitivity Comparison, and a Fast Algorithm.|Kilho Shin,Danny Fernandes,Seiya Miyazaki|11|11|0|4
+246|Active Online Classification via Information Maximization.|Noam Slonim,Elad Yom-Tov,Koby Crammer|4|4|0|1
+247|Angular Decomposition.|Dengdi Sun,Chris H. Q. Ding,Bin Luo,Jin Tang|n/a
+248|Fast Anomaly Detection for Streaming Data.|Swee Chuan Tan,Kai Ming Ting,Fei Tony Liu|23|20|0|4
+249|Utility-Based Fraud Detection.|Luís Torgo,Elsa Lopes|3|2|0|1
+250|On the Utility of Curricula in Unsupervised Learning of Probabilistic Grammars.|Kewei Tu,Vasant Honavar|16|16|0|3
+251|Learning Driving Behavior by Timed Syntactic Pattern Recognition.|Sicco Verwer,Mathijs de Weerdt,Cees Witteveen|7|7|0|2
+252|Bi-Weighting Domain Adaptation for Cross-Language Text Classification.|Chang Wan,Rong Pan,Jiefei Li|17|16|0|0
+253|Heterogeneous Domain Adaptation Using Manifold Alignment.|Chang Wang,Sridhar Mahadevan|57|56|0|1
+254|Jointly Learning Data-Dependent Label and Locality-Preserving Projections.|Chang Wang,Sridhar Mahadevan|0|0|0|0
+255|Fast Nonnegative Matrix Tri-Factorization for Large-Scale Data Co-Clustering.|Hua Wang,Feiping Nie,Heng Huang,Fillia Makedon|23|22|0|5
+256|Local and Structural Consistency for Multi-Manifold Clustering.|Yong Wang,Yuan Jiang,Yi Wu,Zhi-Hua Zhou|9|8|0|0
+257|Bayesian Policy Search with Policy Priors.|David Wingate,Noah D. Goodman,Daniel M. Roy,Leslie Pack Kaelbling,Joshua B. Tenenbaum|14|14|0|2
+258|Learning to Rank under Multiple Annotators.|Ou Wu,Weiming Hu,Jun Gao|13|12|0|0
+259|Similarity-Based Approach for Positive and Unlabeled Learning.|Yanshan Xiao,Bo Liu,Jie Yin,Longbing Cao,Chengqi Zhang,Zhifeng Hao|10|10|0|2
+260|Dealing with Concept Drift and Class Imbalance in Multi-Label Stream Classification.|Eleftherios Spyromitros Xioufis,Myra Spiliopoulou,Grigorios Tsoumakas,Ioannis P. Vlahavas|30|30|0|0
+261|l2, 1-Norm Regularized Discriminative Feature Selection for Unsupervised Learning.|Yi Yang,Heng Tao Shen,Zhigang Ma,Zi Huang,Xiaofang Zhou|145|128|0|15
+262|Matrix Co-Factorization on Compressed Sensing.|Jiho Yoo,Seungjin Choi|6|6|0|2
+263|Diversity Regularized Machine.|Yang Yu,Yu-Feng Li,Zhi-Hua Zhou|16|16|0|2
+264|LIFT: Multi-Label Learning with Label-Specific Features.|Min-Ling Zhang|56|48|0|0
+265|Multi-Kernel Multi-Label Learning with Max-Margin Concept Network.|Wei Zhang,Xiangyang Xue,Jianping Fan,Xiaojing Huang,Bin Wu,Mingjie Liu|10|10|0|1
+266|Pattern Field Classification with Style Normalized Transformation.|Xu-Yao Zhang,Kaizhu Huang,Cheng-Lin Liu|5|5|0|2
+267|Finding "Unexplained" Activities in Video.|Massimiliano Albanese,Cristian Molinaro,Fabio Persia,Antonio Picariello,V. S. Subrahmanian|11|11|0|8
+268|Explaining Genetic Knock-Out Effects Using Cost-Based Abduction.|Emad A. M. Andrews,Anthony J. Bonner|1|1|0|0
+269|Just an Artifact: Why Machines Are Perceived as Moral Agents.|Joanna Bryson,Philip P. Kime|7|6|0|5
+270|A Hierarchical Architecture for Adaptive Brain-Computer Interfacing.|Mike Chung,Willy Cheung,Reinhold Scherer,Rajesh P. N. Rao|14|14|0|3
+271|A Neural-Symbolic Cognitive Agent for Online Learning and Reasoning.|Leo de Penning,Artur S. d'Avila Garcez,Luís C. Lamb,John-Jules Ch. Meyer|13|13|0|3
+272|Verifying Fault Tolerance and Self-Diagnosability of an Autonomous Underwater Vehicle.|Jonathan Ezekiel,Alessio Lomuscio,Levente Molnar,Sandor M. Veres|15|15|0|9
+273|OCS-14 : You Can Get Occluded in Fourteen Ways.|Prithwijit Guha,Amitabha Mukerjee,K. S. Venkatesh|11|11|0|3
+274|Effective and Efficient Microprocessor Design Space Exploration Using Unlabeled Design Configurations.|Qi Guo,Tianshi Chen,Yunji Chen,Zhi-Hua Zhou,Weiwu Hu,Zhiwei Xu|22|21|0|10
+275|Visual Task Inference Using Hidden Markov Models.|Amin Haji Abolhassani,James J. Clark|2|2|0|0
+276|The Role of Intention Recognition in the Evolution of Cooperative Behavior.|Han The Anh,Luís Moniz Pereira,Francisco C. Santos|17|15|0|13
+277|Multi-Select Faceted Navigation Based on Minimum Description Length Principle.|Chao He,Xueqi Cheng,Jiafeng Guo,Huawei Shen|1|1|0|0
+278|Modeling Situation Awareness in Human-Like Agents Using Mental Models.|Mark Hoogendoorn,Rianne van Lambalgen,Jan Treur|n/a
+279|Generalized Latent Factor Models for Social Network Analysis.|Wu-Jun Li,Dit-Yan Yeung,Zhihua Zhang|10|10|0|4
+280|Modeling Multivariate Spatio-Temporal Remote Sensing Data with Large Gaps.|Qiang Lou,Zoran Obradovic|4|4|0|0
+281|On the Role of Domain Knowledge in Analogy-Based Story Generation.|Santiago Ontañón,Jichen Zhu|12|12|0|5
+282|Using Multiple Models to Understand Data.|Kayur Patel,Steven M. Drucker,James Fogarty,Ashish Kapoor,Desney S. Tan|6|5|0|3
+283|Feature Learning for Activity Recognition in Ubiquitous Computing.|Thomas Plötz,Nils Y. Hammerla,Patrick Olivier|47|44|0|6
+284|A Cognitive Agent Model Displaying and Regulating Different Social Response Patterns.|Jan Treur|8|8|0|8
+285|A Cognitive Agent Model Incorporating Prior and Retrospective Ownership States for Actions.|Jan Treur|11|11|0|9
+286|Active Graph Reachability Reduction for Network Security and Software Engineering.|Alice X. Zheng,John Dunagan,Ashish Kapoor|0|0|0|0
+287|Learning Cause Identifiers from Annotator Rationales.|Muhammad Arshad Ul Abedin,Vincent Ng,Latifur Khan|3|3|0|0
+288|Learning Bilingual Lexicons Using the Visual Similarity of Labeled Web Images.|Shane Bergsma,Benjamin Van Durme|17|16|0|3
+289|Semantic Relationship Discovery with Wikipedia Structure.|Fan Bu,Yu Hao,Xiaoyan Zhu|11|11|0|0
+290|Short Text Classification Improved by Learning Multi-Granularity Topics.|Mengen Chen,Xiaoming Jin,Dou Shen|59|58|0|2
+291|Online Latent Structure Training for Language Acquisition.|Michael Connor,Cynthia Fisher,Dan Roth|8|8|0|4
+292|Predicting Globally-Coherent Temporal Structures from Texts via Endpoint Inference and Graph Decomposition.|Pascal Denis,Philippe Muller|20|19|0|1
+293|Learning from Natural Instructions.|Dan Goldwasser,Dan Roth|32|30|0|0
+294|Automatic Discovery of Fuzzy Synsets from Dictionary Definitions.|Hugo Gonçalo Oliveira,Paulo Gomes|16|16|0|7
+295|Unsupervised Modeling of Dialog Acts in Asynchronous Conversations.|Shafiq R. Joty,Giuseppe Carenini,Chin-Yew Lin|26|25|0|5
+296|Improve Tree Kernel-Based Event Pronoun Resolution with Competitive Information.|Fang Kong,Guodong Zhou|9|9|0|0
+297|Incorporating Reviewer and Product Information for Review Rating Prediction.|Fangtao Li,Nathan Nan Liu,Hongwei Jin,Kai Zhao,Qiang Yang,Xiaoyan Zhu|29|28|0|4
+298|Semi-Supervised Learning for Imbalanced Sentiment Classification.|Shoushan Li,Zhongqing Wang,Guodong Zhou,Sophia Yat Mei Lee|83|83|0|12
+299|Collective Semantic Role Labeling for Tweets with Clustering.|Xiaohua Liu,Kuan Li,Ming Zhou,Zhongyang Xiong|17|16|0|3
+300|SMT Versus AI Redux: How Semantic Frames Evaluate MT More Accurately.|Chi-kiu Lo,Dekai Wu|4|4|0|4
+301|Constraint Optimization Approach to Context Based Word Selection.|Jun Matsuno,Toru Ishida|10|10|0|5
+302|An Approach to Answer Selection in Question-Answering Based on Semantic Relations.|Ana Cristina Mendes,Luísa Coheur|4|4|0|2
+303|Learning for Deep Language Understanding.|Smaranda Muresan|12|11|0|5
+304|Improving Topic Evaluation Using Conceptual Knowledge.|Claudiu Cristian Musat,Julien Velcin,Stefan Trausan-Matu,Marian-Andrei Rizoiu|13|13|0|1
+305|A Graph-Based Algorithm for Inducing Lexical Taxonomies from Scratch.|Roberto Navigli,Paola Velardi,Stefano Faralli|84|81|0|10
+306|Sample Efficient On-Line Learning of Optimal Dialogue Policies with Kalman Temporal Differences.|Olivier Pietquin,Matthieu Geist,Senthilkumar Chandramohan|n/a
+307|Ensemble-Based Coreference Resolution.|Altaf Rahman,Vincent Ng|10|10|0|0
+308|Unsupervised Lexicon Acquisition for HPSG-Based Relation Extraction.|Benjamin Rozenfeld,Ronen Feldman|2|2|0|2
+309|Interfacing Virtual Agents with Collaborative Knowledge: Open Domain Question Answering Using Wikipedia-Based Topic Models.|Ulli Waltinger,Alexa Breuing,Ipke Wachsmuth|20|19|0|5
+310|Affect Sensing in Metaphorical Phenomena and Dramatic Interaction Context.|Li Zhang|2|2|0|0
+311|Entity Linking with Effective Acronym Expansion, Instance Selection, and Topic Modeling.|Wei Zhang,Yan Chuan Sim,Jian Su,Chew Lim Tan|40|39|0|1
+312|Learning Inter-Related Statistical Query Translation Models for English-Chinese Bi-Directional CLIR.|Yuejie Zhang,Lei Cen,Cheng Jin,Xiangyang Xue,Jianping Fan|0|0|0|0
+313|Fusion of Multiple Features and Supervised Learning for Chinese OOV Term Detection and POS Guessing.|Yuejie Zhang,Lei Cen,Wei Wu,Cheng Jin,Xiangyang Xue|1|1|0|0
+314|DetH*: Approximate Hierarchical Solution of Large Markov Decision Processes.|Jennifer L. Barry,Leslie Pack Kaelbling,Tomás Lozano-Pérez|22|22|0|4
+315|Planning under Partial Observability by Classical Replanning: Theory and Experiments.|Blai Bonet,Hector Geffner|36|36|0|6
+316|Risk-Sensitive Policies for Sustainable Renewable Resource Allocation.|Stefano Ermon,Jon Conrad,Carla P. Gomes,Bart Selman|9|9|0|1
+317|Simple and Fast Strong Cyclic Planning for Fully-Observable Nondeterministic Planning Problems.|Jicheng Fu,Vincent Ng,Farokh B. Bastani,I-Ling Yen|28|28|0|3
+318|On the Decidability of HTN Planning with Task Insertion.|Thomas Geier,Pascal Bercher|22|22|0|11
+319|Transfer Learning for Activity Recognition via Sensor Mapping.|Derek Hao Hu,Qiang Yang|18|18|0|1
+320|Point-Based Value Iteration for Constrained POMDPs.|Dongho Kim,Jaesong Lee,Kee-Eung Kim,Pascal Poupart|10|9|0|1
+321|Monitoring the Execution of Partial-Order Plans via Regression.|Christian J. Muise,Sheila A. McIlraith,J. Christopher Beck|16|16|0|4
+322|Computing Perfect Heuristics in Polynomial Time: On Bisimulation and Merge-and-Shrink Abstraction in Optimal Planning.|Raz Nissim,Jörg Hoffmann,Malte Helmert|46|45|0|17
+323|Iterative Flattening Search for the Flexible Job Shop Scheduling Problem.|Angelo Oddi,Riccardo Rasconi,Amedeo Cesta,Stephen F. Smith|10|10|0|4
+324|Large Neighborhood Search and Adaptive Randomized Decompositions for Flexible Jobshop Scheduling.|Dario Pacino,Pascal Van Hentenryck|22|20|0|6
+325|Computing Infinite Plans for LTL Goals Using a Classical Planner.|Fabio Patrizi,Nir Lipovetzky,Giuseppe De Giacomo,Hector Geffner|8|8|0|1
+326|Goal Recognition over POMDPs: Inferring the Intention of a POMDP Agent.|Miquel Ramírez,Hector Geffner|43|42|0|2
+327|Planning with SAT, Admissible Heuristics and A*.|Jussi Rintanen|12|12|0|1
+328|Replanning in Domains with Partial Information and Sensing Actions.|Guy Shani,Ronen I. Brafman|23|23|0|5
+329|Scaling Up Optimal Heuristic Search in Dec-POMDPs via Incremental Expansion.|Matthijs T. J. Spaan,Frans A. Oliehoek,Christopher Amato|39|38|0|13
+330|On the Effectiveness of CNF and DNF Representations in Contingent Planning.|Son Thanh To,Enrico Pontelli,Tran Cao Son|15|15|0|3
+331|Bounded Intention Planning.|Jason Wolfe,Stuart J. Russell|12|12|0|0
+332|Probabilistic Goal Markov Decision Processes.|Huan Xu,Shie Mannor|7|7|0|1
+333|Capturing an Evader in a Polygonal Environment with Obstacles.|Deepak Bhadauria,Volkan Isler|15|15|0|3
+334|Aesthetic Guideline Driven Photography by Robots.|Raghudeep Gadde,Kamalakar Karlapalem|3|3|0|0
+335|Accommodating Human Variability in Human-Robot Teams through Theory of Mind.|Laura M. Hiatt,Anthony M. Harrison,J. Gregory Trafton|22|20|0|3
+336|Robotic Object Detection: Learning to Improve the Classifiers Using Sparse Graphs for Path Planning.|Zhaoyin Jia,Ashutosh Saxena,Tsuhan Chen|9|9|0|1
+337|Conics with a Common Axis of Symmetry: Properties and Applications to Camera Calibration.|Zijian Zhao|3|3|0|3
+338|User-Dependent Aspect Model for Collaborative Activity Recognition.|Vincent Wenchen Zheng,Qiang Yang|5|5|0|1
+339|Lifted Relational Kalman Filtering.|Jaesik Choi,Abner Guzmán-Rivera,Eyal Amir|25|25|0|8
+340|New Complexity Results for MAP in Bayesian Networks.|Cassio Polpo de Campos|27|25|0|8
+341|Inference with Multinomial Data: Why to Weaken the Prior Strength.|Cassio Polpo de Campos,Alessio Benavoli|9|9|0|1
+342|Motor Simulation via Coupled Internal Models Using Sequential Monte Carlo.|Haris Dindo,Daniele Zambuto,Giovanni Pezzulo|92|92|0|21
+343|Resolute Choice in Sequential Decision Problems with Multiple Priors.|Hélène Fargier,Gildas Jeantet,Olivier Spanjaard|n/a
+344|Pairwise Decomposition for Combinatorial Optimization in Graphical Models.|Aurélie Favier,Simon de Givry,Andrés Legarra,Thomas Schiex|13|13|0|3
+345|Randomized Sensing in Adversarial Environments.|Andreas Krause,Alex Roper,Daniel Golovin|7|7|0|1
+346|Scalable Multiagent Planning Using Probabilistic Inference.|Akshat Kumar,Shlomo Zilberstein,Marc Toussaint|36|35|0|7
+347|A Trust Prediction Approach Capturing Agents' Dynamic Behavior.|Xin Liu,Anwitaman Datta|11|9|0|2
+348|Log-Linear Description Logics.|Mathias Niepert,Jan Noessner,Heiner Stuckenschmidt|41|40|0|19
+349|Eliciting Additive Reward Functions for Markov Decision Processes.|Kevin Regan,Craig Boutilier|18|17|0|3
+350|Robust Online Optimization of Reward-Uncertain MDPs.|Kevin Regan,Craig Boutilier|14|14|0|2
+351|Finding (α, ϑ)-Solutions via Sampled SCSPs.|Roberto Rossi,Brahim Hnich,S. Armagan Tarim,Steven David Prestwich|n/a
+352|Lifted Probabilistic Inference by First-Order Knowledge Compilation.|Guy Van den Broeck,Nima Taghipour,Wannes Meert,Jesse Davis,Luc De Raedt|83|82|0|24
+353|Learning Optimal Bayesian Networks Using A* Search.|Changhe Yuan,Brandon M. Malone,XiaoJian Wu|51|46|0|15
+354|Bayesian Chain Classifiers for Multidimensional Classification.|Julio H. Zaragoza,Luis Enrique Sucar,Eduardo F. Morales,Concha Bielza,Pedro Larrañaga|58|54|0|5
+355|CCR - A Content-Collaborative Reciprocal Recommender for Online Dating.|Joshua Akehurst,Irena Koprinska,Kalina Yacef,Luiz Augusto Sangoi Pizzato,Judy Kay,Tomasz Rej|25|24|0|7
+356|Relation Adaptation: Learning to Extract Novel Relations with Minimum Supervision.|Danushka Bollegala,Yutaka Matsuo,Mitsuru Ishizuka|7|7|0|0
+357|Leveraging Unlabeled Data to Scale Blocking for Record Linkage.|Yunbo Cao,Zhiyuan Chen,Jiamin Zhu,Pei Yue,Chin-Yew Lin,Yong Yu|10|10|0|0
+358|A Convex Formulation of Modularity Maximization for Community Detection.|Emprise Y. K. Chan,Dit-Yan Yeung|7|7|0|0
+359|What to Ask to an Incomplete Semantic Web Reasoner?.|Bernardo Cuenca Grau,Giorgos Stoilos|5|5|0|2
+360|The Modular Structure of an Ontology: Atomic Decomposition.|Chiara Del Vescovo,Bijan Parsia,Ulrike Sattler,Thomas Schneider|46|45|0|14
+361|Fast Algorithm for Affinity Propagation.|Yasuhiro Fujiwara,Go Irie,Tomoe Kitahara|26|25|0|4
+362|Mining the Web for the "Voice of the Herd" to Track Stock Market Bubbles.|Aaron Gerow,Mark T. Keane|13|13|0|2
+363|Relevance Feedback between Web Search and the Semantic Web.|Harry Halpin,Victor Lavrenko|2|2|0|2
+364|Finding the Hidden Gems: Recommending Untagged Music.|Ben Horsburgh,Susan Craw,Stewart Massie,Robin Boswell|8|8|0|6
+365|Fashion Coordinates Recommender System Using Photographs from Fashion Magazines.|Tomoharu Iwata,Shinji Wanatabe,Hiroshi Sawada|22|22|0|1
+366|Mining Longitudinal Network for Predicting Company Value.|Yingzi Jin,Ching-Yung Lin,Yutaka Matsuo,Mitsuru Ishizuka|3|3|0|0
+367|Context Sensitive Topic Models for Author Influence in Document Networks.|Saurabh Kataria,Prasenjit Mitra,Cornelia Caragea,C. Lee Giles|28|28|0|5
+368|Multi-Perspective Linking of News Articles within a Repository.|Arpit Khurdiya,Lipika Dey,Nidhi Raj,S. K. Mirajul Haque|6|6|0|2
+369|Social Abstract Argumentation.|João Leite,João Martins|43|40|0|2
+370|Cross-Domain Collaborative Filtering over Time.|Bin Li,Xingquan Zhu,Ruijiang Li,Chengqi Zhang,Xiangyang Xue,Xindong Wu|24|24|0|2
+371|Minimally Complete Recommendations.|David McSherry|0|0|0|0
+372|User Similarity from Linked Taxonomies: Subjective Assessments of Items.|Makoto Nakatsuji,Yasuhiro Fujiwara,Toshio Uchiyama,Ko Fujimura|8|7|0|5
+373|LIMES - A Time-Efficient Approach for Large-Scale Link Discovery on the Web of Data.|Axel-Cyrille Ngonga Ngomo,Sören Auer|179|178|0|40
+374|Transfer Learning to Predict Missing Ratings via Heterogeneous User Feedbacks.|Weike Pan,Nathan Nan Liu,Evan Wei Xiang,Qiang Yang|43|41|0|9
+375|Making Better Informed Trust Decisions with Generalized Fact-Finding.|Jeff Pasternack,Dan Roth|53|51|0|2
+376|Short Text Conceptualization Using a Probabilistic Knowledgebase.|Yangqiu Song,Haixun Wang,Zhongyuan Wang,Hongsong Li,Weizhu Chen|89|85|0|31
+377|A Wikipedia Based Semantic Graph Model for Topic Tracking in Blogsphere.|Jintao Tang,Ting Wang,Qin Lu,Ji Wang,Wenjie Li|11|11|0|0
+378|Matching Large Ontologies Based on Reduction Anchors.|Peng Wang,Yuming Zhou,Baowen Xu|24|22|0|4
+379|Line Orthogonality in Adjacency Eigenspace with Application to Community Partition.|Leting Wu,Xiaowei Ying,Xintao Wu,Zhi-Hua Zhou|24|24|0|10
+380|Source-Selection-Free Transfer Learning.|Evan Wei Xiang,Sinno Jialin Pan,Weike Pan,Jian Su,Qiang Yang|1|1|0|1
+381|Predicting Epidemic Tendency through Search Behavior Analysis.|Danqing Xu,Yiqun Liu,Min Zhang,Shaoping Ma,Anqi Cui,Liyun Ru|9|9|0|2
+382|Mining User Dwell Time for Personalized Web Search Re-Ranking.|Songhua Xu,Hao Jiang,Francis Chi-Moon Lau|15|14|0|0
+383|Efficient Searching Top-k Semantic Similar Words.|Zhenglu Yang,Masaru Kitsuregawa|10|10|0|7
+384|Recommender Systems from "Words of Few Mouths".|Richong Zhang,Thomas T. Tran,Yongyi Mao|n/a
+385|Integrating Task Planning and Interactive Learning for Robots to Work in Human Environments.|Alejandro Agostini,Carme Torras,Florentin Wörgötter|17|16|0|3
+386|Plan Recognition in Virtual Laboratories.|Ofra Amir,Ya'akov (Kobi) Gal|16|16|0|4
+387|A Comprehensive Approach to On-Board Autonomy Verification and Validation.|Marco Bozzano,Alessandro Cimatti,Marco Roveri,Andrei Tchaltsev|10|10|0|4
+388|Non-Linear Monte-Carlo Search in Civilization II.|S. R. K. Branavan,David Silver,Regina Barzilay|22|22|0|3
+389|Buried Utility Pipeline Mapping Based on Multiple Spatial Data Sources: A Bayesian Data Fusion Approach.|Huanhuan Chen,Anthony G. Cohn|6|6|0|0
+390|Enhancing Search Results with Semantic Annotation Using Augmented Browsing.|Hong-Jie Dai,Wei-Chi Tsai,Richard Tzong-Han Tsai,Wen-Lian Hsu|4|4|0|2
+391|Simulation-Based Data Mining Solution to the Structure of Water Surrounding Proteins.|Hieu-Chi Dam,Tu Bao Ho,Ayumu Sugiyama|1|1|0|0
+392|A Natural Language Question Answering System as a Participant in Human Q&A Portals.|Tiansi Dong,Ulrich Furbach,Ingo Glöckner,Björn Pelzer|12|12|0|2
+393|Sketch Recognition Algorithms for Comparing Complex and Unpredictable Shapes.|Martin Field,Stephanie Valentine,Julie Linsey,Tracy Hammond|15|14|0|10
+394|Exploiting Probabilistic Knowledge under Uncertain Sensing for Efficient Robot Behaviour.|Marc Hanheide,Charles Gretton,Richard Dearden,Nick Hawes,Jeremy L. Wyatt,Andrzej Pronobis,Alper Aydemir,Moritz Göbelbecker,Hendrik Zender|53|51|0|7
+395|Integrated Learning for Goal-Driven Autonomy.|Ulit Jaidee,Héctor Muñoz-Avila,David W. Aha|23|23|0|3
+396|Learning Compact Visual Descriptor for Low Bit Rate Mobile Landmark Search.|Rongrong Ji,Ling-Yu Duan,Jie Chen,Hongxun Yao,Tiejun Huang,Wen Gao|18|18|0|9
+397|A New Search Engine Integrating Hierarchical Browsing and Keyword Search.|Da Kuang,Xiao Li,Charles X. Ling|7|7|0|3
+398|Resource-Bounded Crowd-Sourcing of Commonsense Knowledge.|Yen-Ling Kuo,Jane Yung-jen Hsu|4|3|0|1
+399|A Real-Time Opponent Modeling System for Rush Football.|Kennard Laviers,Gita Sukthankar|11|11|0|2
+400|Coordinating Logistics Operations with Privacy Guarantees.|Thomas Léauté,Boi Faltings|28|26|0|2
+401|Learning to Identify Review Spam.|Fangtao Li,Minlie Huang,Yi Yang,Xiaoyan Zhu|97|95|0|1
+402|A System for Providing Differentiated QoS in Retail Banking.|Sameep Mehta,Girish Chafle,Gyana R. Parija,Vikas Kedia|2|2|0|1
+403|Learning 3D Geological Structure from Drill-Rig Sensors for Automated Mining.|Sildomar T. Monteiro,Joop van de Ven,Fabio Ramos,Peter Hatherly|3|3|0|0
+404|Interest Prediction on Multinomial, Time-Evolving Social Graph.|Nozomi Nori,Danushka Bollegala,Mitsuru Ishizuka|n/a
+405|An Agent Architecture for Prognostic Reasoning Assistance.|Jean Oh,Felipe Meneguzzi,Katia P. Sycara,Timothy J. Norman|12|12|0|7
+406|Extending Computer Assisted Assessment Systems with Natural Language Processing, User Modeling, and Recommendations Based on Human Computer Interaction and Data Mining.|Ismael Pascual-Nieto,Olga C. Santos,Diana Pérez-Marín,Jesus Boticario|15|15|0|7
+407|Integrating Learning into a BDI Agent for Environments with Changing Dynamics.|Dhirendra Singh,Sebastian Sardiña,Lin Padgham,Geoff James|11|11|0|1
+408|Embedding System Dynamics in Agent Based Models for Complex Adaptive Systems.|Maarika Teose,Kiyan Ahmadizadeh,Eoin O'Mahony,Rebecca L. Smith,Zhao Lu,Stephen P. Ellner,Carla P. Gomes,Yrjo Grohn|7|7|0|0
+409|Kinship Verification through Transfer Learning.|Siyu Xia,Ming Shao,Yun Fu|41|39|0|5
+410|Cross-People Mobile-Phone Based Activity Recognition.|Zhongtang Zhao,Yiqiang Chen,Junfa Liu,Zhiqi Shen,Mingjie Liu|54|54|0|5
+411|CHIME: An Efficient Error-Tolerant Chinese Pinyin Input Method.|Yabin Zheng,Chen Li,Maosong Sun|11|10|0|1
+412|A Geometric View of Conjugate Priors.|Arvind Agarwal,Hal Daumé III|11|10|0|1
+413|Human-Guided Machine Learning for Fast and Accurate Network Alarm Triage.|Saleema Amershi,Bongshin Lee,Ashish Kapoor,Ratul Mahajan,Blaine Christian|10|10|0|0
+414|Lower Bounds for Width-Restricted Clause Learning on Formulas of Small Width.|Eli Ben-Sasson,Jan Johannsen|0|0|0|0
+415|Community Detection in Social Networks through Community Formation Games.|Wei Chen,Zhenming Liu,Xiaorui Sun,Yajun Wang|n/a
+416|An Algorithm for Adapting Cases Represented in ALC.|Julien Cojan,Jean Lieber|10|10|0|7
+417|Exploring Protein Fragment Assembly Using CLP.|Alessandro Dal Palù,Agostino Dovier,Federico Fogolari,Enrico Pontelli|13|12|0|7
+418|Translation-Based Constraint Answer Set Solving.|Christian Drescher,Toby Walsh|7|7|0|1
+419|Incentive Engineering for Boolean Games.|Ulle Endriss,Sarit Kraus,Jérôme Lang,Michael Wooldridge|24|24|0|7
+420|A Flat Histogram Method for Computing the Density of States of Combinatorial Problems.|Stefano Ermon,Carla P. Gomes,Bart Selman|2|2|0|0
+421|picoTrans: Using Pictures as Input for Machine Translation on Mobile Devices.|Andrew M. Finch,Wei Song,Kumiko Tanaka-Ishii,Eiichiro Sumita|5|5|0|2
+422|Automatic Construction of Efficient Multiple Battery Usage Policies.|Maria Fox,Derek Long,Daniele Magazzeni|30|30|0|8
+423|Finite Model Computation via Answer Set Programming.|Martin Gebser,Orkunt Sabuncu,Torsten Schaub|1|1|0|0
+424|Measuring the Good and the Bad in Inconsistent Information.|John Grant,Anthony Hunter|18|18|0|0
+425|A Correctness Result for Reasoning about One-Dimensional Planning Problems.|Yuxiao Hu,Hector J. Levesque|4|4|0|1
+426|A Transitivity Aware Matrix Factorization Model for Recommendation in Social Networks.|Mohsen Jamali,Martin Ester|32|30|0|0
+427|Reinforcement Learning to Adjust Robot Movements to New Situations.|Jens Kober,Erhan Oztop,Jan Peters|71|69|0|18
+428|The Combined Approach to Ontology-Based Data Access.|Roman Kontchakov,Carsten Lutz,David Toman,Frank Wolter,Michael Zakharyaschev|89|88|0|10
+429|Reasoning and Proofing Services for Semantic Web Agents.|Kalliopi Kravari,Constantinos Papatheodorou,Grigoris Antoniou,Nick Bassiliades|8|8|0|1
+430|Efficient Rule-Based Inferencing for OWL EL.|Markus Krötzsch|31|30|0|0
+431|Flexible Tree Matching.|Ranjitha Kumar,Jerry O. Talton,Salman Ahmad,Tim Roughgarden,Scott R. Klemmer|12|12|0|2
+432|Enhancing Case Adaptation with Introspective Reasoning and Web Mining.|David B. Leake,Jay H. Powell|2|2|0|0
+433|Recommender Systems, Missing Data and Statistical Model Estimation.|Benjamin M. Marlin,Richard S. Zemel,Sam T. Roweis,Malcolm Slaney|18|18|0|0
+434|Mind the Eigen-Gap, or How to Accelerate Semi-Supervised Spectral Learning Algorithms.|Dimitrios Mavroeidis|6|6|0|0
+435|Ties Matter: Complexity of Voting Manipulation Revisited.|Svetlana Obraztsova,Edith Elkind,Noam Hazon|30|30|0|4
+436|An On-Line Algorithm for Semantic Forgetting.|Heather S. Packer,Nicholas Gibbins,Nicholas R. Jennings|6|6|0|0
+437|GUARDS - Innovative Application of Game Theory for National Airport Security.|James Pita,Milind Tambe,Christopher Kiekintveld,Shane Cullen,Erin Steigerwald|13|13|0|0
+438|Norm Compliance of Rule-Based Cognitive Agents.|Antonino Rotolo|3|3|0|2
+439|Theoretical Justification of Popular Link Prediction Heuristics.|Purnamrita Sarkar,Deepayan Chakrabarti,Andrew W. Moore|53|51|0|4
+440|Evaluation of Group Profiling Strategies.|Christophe Senot,Dimitre Kostadinov,Makram Bouzid,Jérôme Picault,Armen Aghasaryan|17|17|0|0
+441|Connecting the Dots between News Articles.|Dafna Shahaf,Carlos Guestrin|122|118|1|9
+442|Learning Linear and Kernel Predictors with the 0-1 Loss Function.|Shai Shalev-Shwartz,Ohad Shamir,Karthik Sridharan|1|1|0|0
+443|Adaptive Data Compression for Robot Perception.|Mike Smith,Ingmar Posner,Paul M. Newman|0|0|0|0
+444|Active Exploration for Robust Object Detection.|Javier Vélez,Garrett Hemann,Albert S. Huang,Ingmar Posner,Nicholas Roy|5|5|0|0
+445|A Framework for Longitudinal Influence Measurement between Communication Content and Social Networks.|Shenghui Wang,Paul T. Groth|1|1|0|0
+446|WSABIE: Scaling Up to Large Vocabulary Image Annotation.|Jason Weston,Samy Bengio,Nicolas Usunier|172|164|0|13
+447|Analysis of Adjective-Noun Word Pair Extraction Methods for Online Review Summarization.|Koji Yatani,Michael Novati,Andrew Trusty,Khai N. Truong|10|10|0|0
+448|Large Linear Classification When Data Cannot Fit in Memory.|Hsiang-Fu Yu,Cho-Jui Hsieh,Kai-Wei Chang,Chih-Jen Lin|112|111|0|3
+449|Solving the Multiagent Selection and Scheduling Problem.|James Boerkoel|0|0|0|0
+450|Decision Support through Argumentation-Based Practical Reasoning.|Federico Cerutti|2|2|0|1
+451|Behaviour Recognition in Smart Homes.|Sook-Ling Chua,Stephen Marsland,Hans W. Guesgen|n/a
+452|Statement of Thesis Research: Multi-Robot Sampling Strategies for Large-Scale Oceanographic Experiments.|Jnaneshwar Das|0|0|0|0
+453|Control of Robotic Systems for Safe Interaction with Human Operators.|Hao Ding|0|0|0|0
+454|Combining Machine Learning and Optimization Techniques to Determine 3-D Structures of Polypeptides.|Márcio Dorn,Luciana S. Buriol,Luís C. Lamb|0|0|0|0
+455|An Agent-Oriented Software Engineering Methodology to Develop Adaptive Virtual Organizations.|Sergio Esparcia,Estefania Argente,Vicente J. Botti|0|0|0|0
+456|Towards Social Problem-Solving with Human Subjects.|Daniel S. Farenzena,Ricardo M. Araujo,Luís C. Lamb|0|0|0|0
+457|Towards Spatial Methods for Socially Assistive Robotics: Validation with Children with Autism Spectrum Disorders.|David Feil-Seifer|0|0|0|0
+458|Regret Minimization in Multiplayer Extensive Games.|Richard G. Gibson,Duane Szafron|1|1|0|0
+459|Combinatorial Aggregation.|Umberto Grandi|n/a
+460|Combining Spatial and Temporal Aspects of Prediction Problems to Improve Prediction Performance.|William Groves|0|0|0|0
+461|A Decision-Theoretic Academic Advisor: Extended Abstract.|Joshua T. Guerin|n/a
+462|Belief Revision on Computation Tree Logic.|Paulo T. Guerra,Renata Wassermann|2|2|0|0
+463|Distributed Constraint Optimization Problems Related with Soft Arc Consistency.|Patricia Gutierrez,Pedro Meseguer|0|0|0|0
+464|A Trust and Reputation Model for Supply Chain Management.|Yasaman Haghpanah|0|0|0|0
+465|Graph Pruning and Symmetry Breaking on Grid Maps.|Daniel Harabor|2|2|0|0
+466|Towards Scalable MDP Algorithms.|Andrey Kolobov,Mausam,Daniel S. Weld|0|0|0|0
+467|Talking about Trust in Heterogeneous Multi-Agent Systems.|Andrew Koster,Jordi Sabater-Mir,W. Marco Schorlemmer|3|2|0|0
+468|An Analysis of Multiobjective Search Algorithms and Heuristics.|Enrique Machuca|1|1|0|0
+469|On Temporal Regulations and Commitment Protocols.|Elisa Marengo,Matteo Baldoni,Cristina Baroglio|2|2|0|0
+470|Contributions to Personalizable Knowledge Integration.|Maria Vanina Martinez|0|0|0|0
+471|Decision Making under Uncertainty: Social Choice and Manipulation.|Nicholas Mattei|1|1|0|0
+472|RDFKB: A Semantic Web Knowledge Base.|James P. McGlothlin,Latifur Khan,Bhavani M. Thuraisingham|4|4|0|0
+473|Research Proposal: Cooperation among Self Interested Agents.|Reshef Meir|0|0|0|0
+474|Temporal Defeasible Argumentation in Multi-Agent Planning.|Sergio Pajares,Eva Onaindia|4|4|0|3
+475|Human Behavior Analysis from Video Data Using Bag-of-Gestures.|Víctor Ponce-López,Mario Gorga,Xavier Baró,Sergio Escalera|8|8|0|0
+476|Multi-Agent Coordination: DCOPs and Beyond.|Marc Pujol-Gonzalez|2|2|0|0
+477|Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning.|Sindhu V. Raghavan|4|4|0|0
+478|From an Agent Logic to an Agent Programming Language for Partially Observable Stochastic Domains.|Gavin Rens|3|3|0|3
+479|Agent-Based Negotiation Teams.|Víctor Sánchez-Anguix,Vicente Julián,Ana García-Fornes|1|1|0|0
+480|A Method for Evaluating and Standardizing Ontologies.|Patrice Seyed|1|1|0|1
+481|Towards a Model-Centric Cognitive Architecture for Service Robots.|Andreas Steck|0|0|0|0
+482|Sensorimotor Models of Space and Object Geometry.|Jeremy Stober|0|0|0|0
+483|Multiagent Hierarchical Learning from Demonstration.|Keith Sullivan|3|3|0|1
+484|Heuristic Search under Quality and Time Bounds.|Jordan Tyler Thayer|1|1|0|0
+485|On the Impact of Belief State Representation in Planning under Uncertainty.|Son Thanh To|4|4|0|0
+486|Autonomous Object Manipulation: A Semantic-Driven Approach.|Nicola Vitucci|0|0|0|0
+487|Tractable Massively Multi-Agent Pathfinding with Solution Quality and Completeness Guarantees.|Ko-Hsin Cindy Wang|1|1|0|0
+488|Input Parameter Calibration in Forest Fire Spread Prediction: Taking the Intelligent Way.|Kerstin Wendt,Ana Cortés|1|1|0|0
+489|Transfer Learning in Spatial Reasoning Puzzles.|Baylor Wetzel|1|1|0|1
+490|Trust Mechanisms for Online Systems (Extended Abstract).|Jens Witkowski|n/a
+491|Mechanism Design for Dynamic Environments: Online Double Auctions.|Dengji Zhao|0|0|0|0

@@ -1,0 +1,73 @@
+72
+1|Simulating Size-constrained Galton-Watson Trees.|Luc Devroye|5|5|0|0
+2|Envy-Free Makespan Approximation.|Edith Cohen,Michal Feldman,Amos Fiat,Haim Kaplan,Svetlana Olonetsky|12|10|0|4
+3|The Gathering Problem for Two Oblivious Robots with Unreliable Compasses.|Taisuke Izumi,Samia Souissi,Yoshiaki Katayama,Nobuhiro Inuzuka,Xavier Défago,Koichi Wada,Masafumi Yamashita|28|25|0|1
+4|On Clustering to Minimize the Sum of Radii.|Matt Gibson,Gaurav Kanade,Erik Krohn,Imran A. Pirwani,Kasturi R. Varadarajan|25|17|0|3
+5|Iterated Rounding Algorithms for the Smallest k-Edge Connected Spanning Subgraph.|Harold N. Gabow,Suzanne Gallagher|15|9|0|0
+6|An Optimal Dynamic Data Structure for Stabbing-Semigroup Queries.|Pankaj K. Agarwal,Lars Arge,Haim Kaplan,Eyal Molad,Robert Endre Tarjan,Ke Yi|7|7|0|0
+7|Exponential Lower Bounds and Integrality Gaps for Tree-Like Lovász-Schrijver Procedures.|Toniann Pitassi,Nathan Segerlind|17|14|0|1
+8|Regular Expressions with Counting: Weak versus Strong Determinism.|Wouter Gelade,Marc Gyssens,Wim Martens|21|17|0|6
+9|The Complexity of Distributions.|Emanuele Viola|24|23|0|6
+10|Explicit Dimension Reduction and Its Applications.|Zohar Shay Karnin,Yuval Rabani,Amir Shpilka|13|13|0|1
+11|Local Versus Global Properties of Metric Spaces.|Sanjeev Arora,László Lovász,Ilan Newman,Yuval Rabani,Yuri Rabinovich,Santosh Vempala|20|8|0|0
+12|The Complexity of Inferring a Minimally Resolved Phylogenetic Supertree.|Jesper Jansson,Richard S. Lemence,Andrzej Lingas|6|6|0|1
+13|Tabulation-Based 5-Independent Hashing with Applications to Linear Probing and Second Moment Estimation.|Mikkel Thorup,Yin Zhang|37|37|0|12
+14|Approximating the Permanent via Nonabelian Determinants.|Cristopher Moore,Alexander Russell|n/a
+15|A Deterministic Polynomial-Time Approximation Scheme for Counting Knapsack Solutions.|Daniel Stefankovic,Santosh Vempala,Eric Vigoda|17|15|0|0
+16|Improved Bounds for Geometric Permutations.|Natan Rubin,Haim Kaplan,Micha Sharir|5|4|0|1
+17|Randomized Competitive Algorithms for Generalized Caching.|Nikhil Bansal,Niv Buchbinder,Joseph Naor|33|29|1|7
+18|An Optimal Self-Stabilizing Firing Squad.|Danny Dolev,Ezra N. Hoch,Yoram Moses|2|2|0|0
+19|Approximate Sparse Recovery: Optimizing Time and Measurements.|Anna C. Gilbert,Yi Li,Ely Porat,Martin J. Strauss|68|68|0|13
+20|Almost-Optimal Gossip-Based Aggregate Computation.|Jen-Yeu Chen,Gopal Pandurangan|7|6|0|5
+21|Multiparty Communication Complexity and Threshold Circuit Size of sfAC0.|Paul Beame,Trinh Huynh|30|27|0|2
+22|On the Inherent Sequentiality of Concurrent Objects.|Faith Ellen,Danny Hendler,Nir Shavit|16|16|0|3
+23|Area-Universal and Constrained Rectangular Layouts.|David Eppstein,Elena Mumford,Bettina Speckmann,Kevin Verbeek|23|22|0|3
+24|Universal Sequencing on an Unreliable Machine.|Leah Epstein,Asaf Levin,Alberto Marchetti-Spaccamela,Nicole Megow,Julián Mestre,Martin Skutella,Leen Stougie|17|16|0|1
+25|Approximating TSP on Metrics with Bounded Global Growth.|T.-H. Hubert Chan,Anupam Gupta|6|5|0|0
+26|On Minimal-Time Solutions of Firing Squad Synchronization Problems for Networks.|Darin Goldstein,Kojiro Kobayashi|2|2|0|1
+27|Dynamic Approximate All-Pairs Shortest Paths in Undirected Graphs.|Liam Roditty,Uri Zwick|45|27|0|6
+28|Huffman Coding with Letter Costs: A Linear-Time Approximation Scheme.|Mordecai J. Golin,Claire Mathieu,Neal E. Young|5|5|0|1
+29|Corrigendum: Algorithmic Enumeration of Ideal Classes for Quaternion Orders.|Markus Kirschmer,John Voight|4|4|0|1
+30|Nice Labeling Problem for Event Structures: A Counterexample.|Victor Chepoi|4|4|0|2
+31|Online Set Packing.|Yuval Emek,Magnús M. Halldórsson,Yishay Mansour,Boaz Patt-Shamir,Jaikumar Radhakrishnan,Dror Rawitz|10|10|0|1
+32|Quasirandom Load Balancing.|Tobias Friedrich,Martin Gairing,Thomas Sauerwald|n/a
+33|Public-Key Cryptosystems Resilient to Key Leakage.|Moni Naor,Gil Segev|304|275|0|6
+34|A Polynomial Algorithm for 3-Compatible Coloring and the Stubborn List Partition Problem (The Stubborn Problem Is Stubborn No More).|Marek Cygan,Marcin Pilipczuk,Michal Pilipczuk,Jakub Onufry Wojtaszczyk|1|0|0|0
+35|Distributed Computing by Mobile Robots: Gathering.|Mark Cieliebak,Paola Flocchini,Giuseppe Prencipe,Nicola Santoro|45|44|0|15
+36|Affine Dispersers from Subspace Polynomials.|Eli Ben-Sasson,Swastik Kopparty|39|35|0|7
+37|Trevisan's Extractor in the Presence of Quantum Side Information.|Anindya De,Christopher Portmann,Thomas Vidick,Renato Renner|n/a
+38|Triangulating the Square and Squaring the Triangle: Quadtrees and Delaunay Triangulations are Equivalent.|Maarten Löffler,Wolfgang Mulzer|14|13|0|7
+39|Sampling-Based Approximation Algorithms for Multistage Stochastic Optimization.|Chaitanya Swamy,David B. Shmoys|76|40|0|10
+40|Shooting Permanent Rays among Disjoint Polygons in the Plane.|Mashhood Ishaque,Bettina Speckmann,Csaba D. Tóth|7|6|0|1
+41|Approximation Algorithms for QMA-Complete Problems.|Sevag Gharibian,Julia Kempe|14|13|0|3
+42|Tile Complexity of Linear Assemblies.|Harish Chandran,Nikhil Gopalkrishnan,John H. Reif|35|31|0|8
+43|Improved Constant-Time Approximation Algorithms for Maximum Matchings and Other Optimization Problems.|Yuichi Yoshida,Masaki Yamamoto,Hiro Ito|9|8|0|1
+44|An O(log2k)-Approximation Algorithm for the k-Vertex Connected Spanning Subgraph Problem.|Jittat Fakcharoenphol,Bundit Laekhanukit|33|22|0|6
+45|Improved Approximation Algorithms for Bipartite Correlation Clustering.|Nir Ailon,Noa Avigdor-Elgrabli,Edo Liberty,Anke van Zuylen|8|7|0|1
+46|Strong Direct Product Theorems for Quantum Communication and Query Complexity.|Alexander A. Sherstov|41|41|0|6
+47|Considering Suppressed Packets Improves Buffer Management in Quality of Service Switches.|Matthias Englert,Matthias Westermann|3|3|0|0
+48|Efficient Noninteractive Proof Systems for Bilinear Groups.|Jens Groth,Amit Sahai|507|454|10|16
+49|Special Section on the Forty-Third Annual ACM Symposium on Theory of Computing (STOC 2011).|Kousha Etessami,Dieter van Melkebeek,Seth Pettie,John Watrous,Salil P. Vadhan|0|0|0|0
+50|Distributed Verification and Hardness of Distributed Approximation.|Atish Das Sarma,Stephan Holzer,Liah Kor,Amos Korman,Danupon Nanongkai,Gopal Pandurangan,David Peleg,Roger Wattenhofer|105|99|0|12
+51|Pareto Optimal Solutions for Smoothed Analysts.|Ankur Moitra,Ryan O'Donnell|19|19|0|0
+52|Blackbox Identity Testing for Bounded Top-Fanin Depth-3 Circuits: The Field Doesn't Matter.|Nitin Saxena,C. Seshadhri|36|34|0|9
+53|An Optimal Lower Bound on the Communication Complexity of Gap-Hamming-Distance.|Amit Chakrabarti,Oded Regev|66|63|0|6
+54|Santa Claus Schedules Jobs on Unrelated Machines.|Ola Svensson|43|39|0|5
+55|The Weakest Failure Detectors to Solve Quittable Consensus and Nonblocking Atomic Commit.|Rachid Guerraoui,Vassos Hadzilacos,Petr Kuznetsov,Sam Toueg|3|1|0|1
+56|Transitive-Closure Spanners.|Arnab Bhattacharyya,Elena Grigorescu,Kyomin Jung,Sofya Raskhodnikova,David P. Woodruff|58|55|0|7
+57|Quantum Query Complexity of Minor-Closed Graph Properties.|Andrew M. Childs,Robin Kothari|27|27|0|5
+58|Fast Information Spreading in Graphs with Large Weak Conductance.|Keren Censor-Hillel,Hadas Shachnai|32|32|0|4
+59|Reconstructing Approximate Phylogenetic Trees from Quartet Samples.|Sagi Snir,Raphael Yuster|7|7|0|4
+60|Locality from Circuit Lower Bounds.|Matthew Anderson,Dieter van Melkebeek,Nicole Schweikardt,Luc Segoufin|6|6|0|4
+61|On the Hidden Shifted Power Problem.|Jean Bourgain,Moubariz Z. Garaev,Sergei Konyagin,Igor E. Shparlinski|21|21|0|4
+62|Agnostic Learning of Monomials by Halfspaces Is Hard.|Vitaly Feldman,Venkatesan Guruswami,Prasad Raghavendra,Yi Wu|53|48|0|4
+63|Special Section on the Forty-First Annual ACM Symposium on Theory of Computing (STOC 2009).|Nicole Immorlica,Jonathan Katz,Michael Mitzenmacher,Rocco A. Servedio,Chris Umans|0|0|0|0
+64|Bit-Probe Lower Bounds for Succinct Data Structures.|Emanuele Viola|19|15|0|6
+65|Homology Flows, Cohomology Cuts.|Erin W. Chambers,Jeff Erickson,Amir Nayyeri|43|37|0|10
+66|Approximating Edit Distance in Near-Linear Time.|Alexandr Andoni,Krzysztof Onak|36|33|0|6
+67|Online and Stochastic Survivable Network Design.|Anupam Gupta,Ravishankar Krishnaswamy,R. Ravi|19|17|0|3
+68|Universally Utility-maximizing Privacy Mechanisms.|Arpita Ghosh,Tim Roughgarden,Mukund Sundararajan|195|185|1|4
+69|3-Query Locally Decodable Codes of Subexponential Length.|Klim Efremenko|109|98|2|4
+70|Twice-Ramanujan Sparsifiers.|Joshua D. Batson,Daniel A. Spielman,Nikhil Srivastava|186|171|0|19
+71|New Direct-Product Testers and 2-Query PCPs.|Russell Impagliazzo,Valentine Kabanets,Avi Wigderson|22|21|0|1
+72|Max Cut and the Smallest Eigenvalue.|Luca Trevisan|62|57|0|2

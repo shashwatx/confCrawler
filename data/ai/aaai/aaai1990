@@ -1,0 +1,176 @@
+175
+1|Proceedings of the 8th National Conference on Artificial Intelligence. Boston, Massachusetts, July 29 - August 3, 1990, 2 Volumes.|Howard E. Shrobe,Thomas G. Dietterich,William R. Swartout|n/a
+2|Complexity of K-Tree Structured Constraint Satisfaction Problems.|Eugene C. Freuder|182|62|0|0
+3|Tree Decomposition with Applications to Constraint Processing.|Itay Meiri,Judea Pearl,Rina Dechter|21|4|0|3
+4|Solving Large-Scale Constraint-Satisfaction and Scheduling Problems Using a Heuristic Repair Method.|Steven Minton,Mark D. Johnston,Andrew B. Philips,Philip Laird|386|50|1|14
+5|Dynamic Constraint Satisfaction Problems.|Sanjay Mittal,Brian Falkenhainer|225|63|0|9
+6|The Complexity of Constraint Satisfaction in Prolog.|Bernard A. Nadel|9|2|0|4
+7|An Algebraic Approach to Conflict Resolution in Planning.|Qiang Yang|5|1|0|2
+8|Some Applications of Graph Bandwidth to Constraint Satisfaction Problems.|Ramin Zabih|41|9|0|0
+9|An Organizational Approach to Adaptive Production Systems.|Toru Ishida,Makoto Yokoo,Les Gasser|n/a
+10|The Design of a Marker Passing Architecture for Knowledge Processing.|Wing Lee,Dan I. Moldovan|18|2|0|4
+11|A Parallel Asynchronous Distributed Production System.|James G. Schmolze,Suraj Goel|54|6|0|3
+12|Distributed Truth Maintenance.|David Murray Bridgeland,Michael N. Huhns|39|4|0|1
+13|DARES: A Distributed Automated REasoning System.|Susan E. Conry,Douglas J. MacIntosh,Robert A. Meyer|56|5|0|1
+14|A Hierarchical Protocol for Coordinating Mulitagent Behaviors.|Edmund H. Durfee,Thomas A. Montgomery|117|13|0|10
+15|On Acting Together.|Hector J. Levesque,Philip R. Cohen,José H. T. Nunes|644|109|0|19
+16|Negotiation and Conflict Resolution in Non-Cooperative Domains.|Gilad Zlotkin,Jeffrey S. Rosenschein|103|7|0|13
+17|Probabilistic Semantics for Cost Based Abduction.|Eugene Charniak,Solomon Eyal Shimony|144|20|0|10
+18|Two Views of Belief: Belief as Generalized Probability and Belief as Evidence.|Joseph Y. Halpern,Ronald Fagin|268|66|0|9
+19|The Belief Calculus and Uncertain Reasoning.|Yen-Teh Hsia|2|0|0|1
+20|Symbolic Probabilistic Inference in Belief Networks.|Ross D. Shachter,Bruce D'Ambrosio,Brendan Del Favero|151|36|1|13
+21|An Approach to Reasoning About Continuous Change for Applications in Planning.|Thomas Dean,Greg Siegle|20|1|0|1
+22|Anytime Synthetic Projection: Maximizing the Probability of Goal Satisfaction.|Mark Drummond,John L. Bresina|213|13|0|12
+23|Incremental, Approximate Planning.|Charles Elkan|44|2|0|2
+24|Admissible Criteria for Loop Control in Planning.|Roy Feldman,Paul Morris|11|1|0|0
+25|Practical Temporal Projection.|Steve Hanks|86|4|0|11
+26|Synthesis of Reactive Plans for Multi-Path Environments.|Froduald Kabanza|20|0|0|5
+27|Mapping and Retrieval During Plan Reuse: A Validation Structure Based Approach.|Subbarao Kambhampati|36|7|0|8
+28|A Theory of Plan Modification.|Subbarao Kambhampati|65|8|0|7
+29|Introducing the Tileworld: Experimentally Evaluating Agent Architectures.|Martha E. Pollack,Marc Ringuette|411|80|0|13
+30|Getting Serious About Parsing Plans: A Grammatical Analysis of Plan Recognition.|Marc B. Vilain|121|38|0|0
+31|The STRIPS Assumption for Planning Under Uncertainty.|Michael P. Wellman|22|2|0|2
+32|ABTWEAK: Abstracting a Nonlinear, Least Commitment Planner.|Qiang Yang,Josh D. Tenenberg|123|12|0|18
+33|Search Lessons Learned from Crossword Puzzles.|Matthew L. Ginsberg,Michael Frank,Michael P. Halpin,Mark C. Torrance|98|22|1|7
+34|Iterative Broadening.|Matthew L. Ginsberg,William D. Harvey|144|18|1|9
+35|Path-Focused Duplication: A Search Procedure for General Matings.|Sunil Issar|20|5|0|4
+36|Consistent Linear Speedups to a First Solution in Parallel State-Space Search.|Vikram A. Saletore,Laxmikant V. Kalé|31|5|0|2
+37|Inductive Synthesis of Equational Programs.|Nachum Dershowitz,Eli Pinchover|22|0|0|5
+38|Mechanizing Inductive Reasoning.|Emmanuel Kounalis,Michaël Rusinowitch|84|9|0|17
+39|Skolem Functions and Equality in Automated Deduction.|William McCune|16|1|0|2
+40|Automatically Generating Universal Attachments Through Compilation.|Karen L. Myers|5|0|0|1
+41|Solving Term Inequalities.|Gerald E. Peterson|3|0|0|1
+42|Exploiting Locality in a TMS.|Johan de Kleer|48|2|0|6
+43|Computing Stable Models by Using the ATMS.|Kave Eshghi|19|0|0|0
+44|Computing the Extensions of Autoepistemic and Default Logics with a Truth Maintenance System.|Ulrich Junker,Kurt Konolige|84|9|0|8
+45|Maintaining Consistency in a Stratified Production System Program.|Louiqa Raschid|15|1|0|4
+46|Integrating Planning and Acting in a Case-Based Framework.|Kristian J. Hammond,Timothy M. Converse|38|2|0|9
+47|A Method of Calculating the Measure of Salience in Understanding Metaphors.|Makoto Iwayama,Takenobu Tokunaga,Hozumi Tanaka|24|1|0|1
+48|Distributed Cases for Case-Based Reasoning: Facilitating Use of Multiple Cases.|Michael Redmond|127|15|0|4
+49|Validated Retrieval in Case-Based Reasoning.|Evangelos Simoudis,James Miller|27|7|0|0
+50|Model-Based Diagnosis of Planning Failures.|Lawrence Birnbaum,Gregg Collins,Michael Freed,Bruce Krulwich|115|22|0|8
+51|Characterizing Diagnoses.|Johan de Kleer,Alan K. Mackworth,Raymond Reiter|n/a
+52|Physical Impossibility Instead of Fault Models.|Gerhard Friedrich,Georg Gottlob,Wolfgang Nejdl|108|20|0|8
+53|On the Role of Coherence in Abductive Explanation.|Hwee Tou Ng,Raymond J. Mooney|91|22|0|8
+54|Abductive and Default Reasoning: A Computational Core.|Bart Selman,Hector J. Levesque|207|30|1|4
+55|Interaction-Based Invention: Designing Novel Devices from First Principles.|Brian C. Williams|87|9|0|7
+56|Efficient Diagnosis of Multiple Disorders Based on a Symptom Clustering Approach.|Thomas D. Wu|19|3|0|6
+57|QPC: A Compiler from Physical Models into Qualitative Differential Equations.|James M. Crawford,Adam Farquhar,Benjamin Kuipers|105|3|0|19
+58|Dynamic Acioss-Time Measurement Interpretation.|Dennis DeCoste|133|16|0|3
+59|Self-Explanatory Simulations: An Integration of Qualitative and Quantitative Knowledge.|Kenneth D. Forbus,Brian Falkenhainer|161|9|0|20
+60|Obtaining Quantitative Predictions from Monotone Relationships.|Joseph L. Hellerstein|7|0|0|0
+61|Shifting Ontological Perspectives in Reasoning About Physical Systems.|Zheng-Yang Liu,Arthur M. Farley|34|1|0|5
+62|Qualitative Reasoning with Microscopic Theories.|Shankar A. Rajamoney,Sang Hoe Koo|14|0|0|1
+63|Approximation Reformulations.|Daniel S. Weld|57|1|0|4
+64|Finding the Average Rates of Change in Repetitive Behavior.|Alexander S. Yeh|3|0|0|0
+65|Towards a System Architecture Supporting Contextualized Learning.|Gerhard Fischer,Andreas C. Lemke,Raymond McCall|18|0|0|2
+66|Backward Model Tracing: An Explanation-Based Approach for Reconstructing Student Reasoning.|Danilo Fum,Paolo Giangrandi,Carlo Tasso|10|0|0|4
+67|A Blackboard-based Dynamic Instructional Planner.|William R. Murray|27|0|0|3
+68|Coordinating Text and Graphics in Explanation Generation.|Steven Feiner,Kathleen McKeown|155|9|0|4
+69|Avoiding Unwanted Conversational Implicatures in Text and Graphics.|Joseph Marks,Ehud Reiter|72|5|0|8
+70|Pointing: A Way Toward Explanation Dialogue.|Johanna D. Moore,William R. Swartout|97|9|1|9
+71|Understanding Natural Language with Diagrams.|Gordon S. Novak,William C. Bulko|35|3|0|1
+72|Incorporating Default Inferences Into Plan Recognition.|Sandra Carberry|122|6|1|4
+73|A Cooperative Problem Solving System for User Interface Design.|Andreas C. Lemke,Gerhard Fischer|80|9|0|18
+74|Models of Plans to Support Communication: An Initial Report.|Karen E. Lochbaum,Barbara J. Grosz,Candace L. Sidner|100|5|0|15
+75|A Collaborative Interface for Editing Large Knowledge Bases.|Loren G. Terveen,David A. Wroblewski|33|1|1|4
+76|An Experiment in Direct Knowledge Acquisition.|Peter W. Mullarkey|4|0|0|0
+77|Parametric Engineering Design Using Constraint-Based Reasoning.|Niall Murtagh,Masamichi Shimura|24|1|0|2
+78|Establishing the Coherence of an Evplanation to Improve Refinement of an Incomplete Knowledge Base.|Young-Tack Park,David C. Wilkins|17|0|0|2
+79|A Design Based Approach to Constructing Computational Solutions to Diagnostic Problems.|Dmitry Volovik,Imran A. Zualkernan,Paul E. Johnson,Charles E. Matthews|2|0|0|1
+80|Causal Theories for Nonmonotonic Reasoning.|Hector Geffner|75|16|0|1
+81|Decidable Reasoning in First-Order Knowledge Bases with Perfect Introspection.|Gerhard Lakemeyer|10|0|0|6
+82|A Formal Theory of Multiple Agent Nonmonotonic Reasoning.|Leora Morgenstern|31|4|0|3
+83|A Circumscriptive Theory for Causal and Evidential Support.|Eunok Paek|2|0|0|0
+84|The Complexity of Closed World Reasoning and Circumscription.|Marco Cadoli,Maurizio Lenzerini|41|14|0|10
+85|On the Expressiveness of Networks with Hidden Variables.|Rina Dechter|59|9|0|3
+86|An Optimally Efficient Limited Inference System.|Lokendra Shastri,Venkat Ajjanagadde|25|1|0|4
+87|It's Not My Default: The Complexity of Membership Problems in Restricted Propositional Default Logics.|Jonathan Stillman|59|4|0|1
+88|Connectionism, Rule Following, and Symbolic Manipulation.|Robert F. Hadley|14|0|0|1
+89|A Structured Connectionist Unification Algorithm.|Steffen Hölldobler|29|6|0|0
+90|Conditional Logics of Normality as Modal Systems.|Craig Boutilier|64|15|0|12
+91|Nonmonotonicity and the Scope of Reasoning: Preliminary Report.|David W. Etherington,Sarit Kraus,Donald Perlis|9|0|0|2
+92|The Representation of Defaults in Cyc.|Ramanathan V. Guha|20|2|0|4
+93|The Generalized Theory of Model Preference.|Piotr Rychlik|n/a
+94|Terminological Cycles in KL-ONE-based Knowledge Representation Languages.|Franz Baader|100|18|0|24
+95|On the Complexity of Monotonic Inheritance with Roles.|Ramiro A. de T. Guerreiro,Andrea S. Hemerly,Yoav Shoham|2|0|0|0
+96|Boolean Extensions of Inheritance Networks.|John F. Horty,Richmond H. Thomason|6|3|0|1
+97|Temporal Terminological Logic.|Albrecht Schmiedel|98|28|0|0
+98|A Maximum Entropy Approach to Nonmonotonic Reasoning.|Moisés Goldszmidt,Paul H. Morris,Judea Pearl|187|27|0|9
+99|A Hybrid Framework for Representing Uncertain Knowledge.|Alessandro Saffiotti|23|2|0|7
+100|A Probabilistic Interpretation for Lazy Nonmonotonic Reasoning.|Ken Satoh|28|4|0|0
+101|Probabilities that Imply Certainties.|Haim Schweitzer|1|0|0|0
+102|Very Fast Decision Table Execution of Propositional Expert Systems.|Robert M. Colomb,Charles Y. C. Chung|42|3|0|1
+103|The Intelligent Database Interface: Integrating AI and Database Systems.|Donald P. McKay,Timothy W. Finin,Anthony B. O'Hare|66|8|0|2
+104|On the Performance of Lazy Matching in Production Systems.|Daniel P. Miranker,David A. Brant,Bernie J. Lofaso,David Gadbois|103|25|0|19
+105|A Frameworkfor Investigating Production System Formulations with Polynomially Bounded Match.|Milind Tambe,Paul S. Rosenbloom|17|2|0|6
+106|A Principled Approach to Reasoning About the Specificity ofRules.|John Yen|18|0|0|5
+107|Solving Geometric Constraint Systems.|Glenn A. Kramer|181|15|0|2
+108|Weak Representations of Interval Algebras.|Gerard Ligozat|97|12|0|18
+109|A Qualitative Model for Space.|Amitabha Mukerjee,Gene Joe|238|23|0|7
+110|Reasoning about Qualitative Temporal Information.|Peter van Beek|440|70|2|5
+111|Myths and Legends in Learning Classification Rules.|Wray L. Buntine|n/a
+112|Learning from Textbook Knowledge: A Case Study.|William W. Cohen|37|4|0|7
+113|What Should Be Minimized in a Decision Tree?|Usama M. Fayyad,Keki B. Irani|80|13|1|10
+114|Generalization with Taxonomic Information.|Alan M. Frisch,C. David Page Jr.|22|3|0|6
+115|Constructor: A System for the Induction of Probabilistic Models.|Robert M. Fung,Stuart L. Crawford|112|18|0|1
+116|Learning Causal Trees from Dependence Information.|Dan Geiger,Azaria Paz,Judea Pearl|56|8|0|3
+117|Theory Reduction, Theory Revision, and Retranslation.|Allen Ginsberg|83|3|0|1
+118|A Hybrid Connectionist, Symbolic Learning System.|Lawrence O. Hall,Steve G. Romaniuk|33|3|0|7
+119|Empirical Studies on the Speed of Convergence of Neural Network Training Using Genetic Algorithms.|Hiroaki Kitano|185|29|0|4
+120|Learning to Coordinate Behaviors.|Pattie Maes,Rodney A. Brooks|558|69|2|8
+121|Adding Domain Knowledge to SBL Through Feature Construction.|Christopher J. Matheus|49|3|0|2
+122|Inductive Learning in Probabilistic Domain.|Yoichiro Nakakuki,Yoshiyuki Koseki,Midori Tanaka|9|1|0|4
+123|Changing the Rules: A Comprehensive Approach to Theory Refinement.|Dirk Ourston,Raymond J. Mooney|207|22|0|25
+124|Knowledge Level and Inductive Uses of Chunking (EBL).|Paul S. Rosenbloom,Jans Aasman|46|3|0|8
+125|A Proven Domain-Independent Scientific Function-Finding Algorithm.|Cullen Schaffer|21|3|0|0
+126|Complementary Discrimination Learning: A Duality Between Generalization and Discrimination.|Wei-Min Shen|12|2|0|9
+127|Inductive Learning in a Mixed Paradigm Setting.|David B. Skalak,Edwina L. Rissland|32|5|0|2
+128|Incremental Non-Backtracking Focusing: A Polynomially Bounded Generalization Algorithm for Version Spaces.|Benjamin D. Smith,Paul S. Rosenbloom|50|2|0|2
+129|Two Case Studies in Cost-Sensitive Concept Acquisition.|Ming Tan,Jeffrey C. Schlimmer|62|8|1|4
+130|Refinement ofApproximate Domain Theories by Knowledge-Based Neural Networks.|Geoffrey G. Towell,Jude W. Shavlik,Michiel O. Noordewier|503|59|1|33
+131|On Analytical and Similarity-Based Classification.|Marc B. Vilain,Phyllis Koton,Melissa P. Chase|16|0|0|1
+132|Effective Generalization of Relational Descriptions.|Larry Watanabe,Larry A. Rendell|14|0|0|0
+133|Explaining Temporal Differences to Create Useful Concepts for Evaluating States.|Richard C. Yee,Sharad Saxena,Paul E. Utgoff,Andrew G. Barto|30|4|0|3
+134|Automated Discovery in a Chemistry Laboratory.|Jan M. Zytkow,Jieming Zhu,Abul Hussam|65|15|0|6
+135|Adaptive Search by Explanation-Based Learning of Heuristic Censors.|Neeraj Bhatnagar,Jack Mostow|18|3|0|3
+136|Empirical Comparisons of Some Design Replay Algorithms.|Brad Blumenthal|8|0|0|0
+137|Learning Search Control for Constraint-Based Scheduling.|Megan Eskey,Monte Zweben|25|1|0|3
+138|Why PRODIGY/EBL Works.|Oren Etzioni|65|3|0|6
+139|Learning Abstraction Hierarchies for Problem Solving.|Craig A. Knoblock|172|25|0|9
+140|Extending EBG to Term-Rewriting Systems.|Philip D. Laird,Evan Gamble|6|0|0|0
+141|Operationality Criteria for Recursive Predicates.|Stanley Letovsky|18|3|0|0
+142|The Utility of EBL in Recursive Domain Theories.|Devika Subramanian,Ronen Feldman|43|3|0|2
+143|Accent and Discourse Context: Assigning Pitch Accent in Synthetic Speech.|Julia Hirschberg|76|8|1|6
+144|Structure of Perspectivity: A Case of Japanese Reflexive Pronoun "zibun".|Yasuhiro Katagiri|3|0|0|0
+145|PRAGMA - A Flexible Bidirectional Dialogue System.|John Levine|18|3|0|0
+146|Logical Task Modelling for Man-Machine Dialogue.|M. David Sadek|34|4|0|2
+147|Integrating Natural Language Processing and Knowledge Based Processing.|Rebecca J. Passonneau,Carl Weir,Timothy W. Finin,Martha Stone Palmer|9|1|0|2
+148|Parsing a Natural Language Using Mutual Information Statistics.|David M. Magerman,Mitchell P. Marcus|185|30|0|6
+149|Towards Incremental Disambiguation with a Generalized Discrimination Network.|Manabu Okumura,Hozumi Tanaka|7|0|0|3
+150|Truly Parallel Understanding of Text.|Yeong-Ho Yu,Robert F. Simmons|20|1|0|2
+151|A Hierarchical Planner that Generates Its Own Hierarchies.|Jens Christensen|51|8|0|0
+152|Coping with Uncertainty in a Control System for Navigation and Exploration.|Thomas L. Dean,Kenneth Basye,Robert Chekaluk,Seungseok Hyun,Moises Lejter,Margaret Randazza|76|9|0|3
+153|Learning General Completable Reactive Plans.|Melinda T. Gervasio|21|1|0|6
+154|Integrating, Execution, Planning, and Learning in Soar for External Environments.|John E. Laird,Paul S. Rosenbloom|144|23|0|28
+155|Indexical Knowledge in Robot Plans.|Yves Lespérance,Hector J. Levesque|13|1|0|1
+156|Symmetiy Constraint Inference in Assembly Planning: Automatic Assembly Configuration Specification.|Yanxi Liu,Robin J. Popplestone|n/a
+157|LOGnets: A Hybrid Graph Spatial Representation for Robot Navigation.|Peter K. Malkin,Sanjaya Addanki|22|2|0|0
+158|Becoming Increasingly Reactive.|Tom M. Mitchell|170|11|0|4
+159|Constraints for the Early Detection of Discontinuity from Motion.|Michael J. Black,P. Anandan|26|3|0|8
+160|Generalized Shape Autocorrelation.|Andrea Califano,Rakesh Mohan|3|0|0|2
+161|Computing Exact Aspect Graphs of Curved Objects: Parametric Surfaces.|Jean Ponce,David J. Kriegman|58|0|0|9
+162|The Future of Knowledge Representation.|Ronald J. Brachman|71|10|0|1
+163|Rationality and its Roles in Reasoning (Extended Abstract).|Jon Doyle|n/a
+164|Probably Approximately Correct Learning.|David Haussler|104|29|0|3
+165|Truth Maintenance.|David A. McAllester|n/a
+166|Massivley Parallel AI.|David L. Waltz|n/a
+167|AI and Software Engineering: Will the Twain Ever Meet?|Robert Balzer|8|0|0|1
+168|AI and Software Engineering - Managing Exploratory Programming.|Richard Fikes|3|0|0|0
+169|Looking for the AI in Software Engineering: An Applications Perspective.|Mark S. Fox|1|0|0|0
+170|Developing Software is like Talking to Eskimos about Snow.|John P. McDermott|12|0|0|0
+171|The Techies vs. the Non-techies: Today's Two Cultures.|Elliot Soloway|0|0|0|0
+172|Panel: User Modeling and User Interfaces.|Susan T. Dumais|0|0|0|0
+173|User Modeling and User Interfaces: A Case for Domain Models, Task Models, and Tailorability.|James D. Hollan|4|0|0|0
+174|User Models and User Interfaces.|Kathleen McKeown|n/a
+175|What's in a User?|Karen Sparck Jones|1|0|0|0

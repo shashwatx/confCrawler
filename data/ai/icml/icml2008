@@ -1,0 +1,159 @@
+158
+1|Machine Learning, Proceedings of the Twenty-Fifth International Conference (ICML 2008), Helsinki, Finland, June 5-9, 2008.|William W. Cohen,Andrew McCallum,Sam T. Roweis|n/a
+2|Gaussian process product models for nonparametric nonstationarity.|Ryan Prescott Adams,Oliver Stegle|24|22|0|2
+3|Sequence kernels for predicting protein essentiality.|Cyril Allauzen,Mehryar Mohri,Ameet Talwalkar|10|8|0|5
+4|Hierarchical kernel stick-breaking process for multi-task image analysis.|Qi An,Chunping Wang,Ivo Shterev,Eric Wang,Lawrence Carin,David B. Dunson|29|24|0|2
+5|Graph kernels between point clouds.|Francis R. Bach|35|24|0|0
+6|Bolasso: model consistent Lasso estimation through the bootstrap.|Francis R. Bach|181|164|0|2
+7|Learning all optimal policies with multiple criteria.|Leon Barrett,Srini Narayanan|50|46|0|0
+8|Multiple instance ranking.|Charles Bergeron,Jed Zaretzki,Curt M. Breneman,Kristin P. Bennett|24|19|0|5
+9|Multi-task learning for HIV therapy screening.|Steffen Bickel,Jasmina Bogojeska,Thomas Lengauer,Tobias Scheffer|95|79|0|10
+10|Nonnegative matrix factorization via rank-one downdate.|Michael Biggs,Ali Ghodsi,Stephen A. Vavasis|30|21|0|4
+11|Strategy evaluation in extensive games with importance sampling.|Michael H. Bowling,Michael Johanson,Neil Burch,Duane Szafron|25|19|0|6
+12|Actively learning level-sets of composite functions.|Brent Bryan,Jeff G. Schneider|5|5|0|0
+13|Sparse Bayesian nonparametric regression.|Francois Caron,Arnaud Doucet|61|54|0|2
+14|An empirical evaluation of supervised learning in high dimensions.|Rich Caruana,Nikolaos Karampatziakis,Ainur Yessenalina|227|209|1|1
+15|Fast support vector machine training and classification on graphics processors.|Bryan C. Catanzaro,Narayanan Sundaram,Kurt Keutzer|314|247|1|10
+16|Fast nearest neighbor retrieval for bregman divergences.|Lawrence Cayton|57|47|0|2
+17|Nearest hyperdisk methods for high-dimensional classification.|Hakan Cevikalp,Bill Triggs,Robi Polikar|24|21|0|7
+18|Learning to sportscast: a test of grounded language acquisition.|David L. Chen,Raymond J. Mooney|96|89|0|5
+19|Training SVM with indefinite kernels.|Jianhui Chen,Jieping Ye|38|33|0|0
+20|Learning for control from multiple demonstrations.|Adam Coates,Pieter Abbeel,Andrew Y. Ng|150|115|0|10
+21|Spectral clustering with inconsistent advice.|Tom Coleman,James Saunderson,Anthony Wirth|35|29|0|2
+22|A unified architecture for natural language processing: deep neural networks with multitask learning.|Ronan Collobert,Jason Weston|894|833|4|26
+23|Autonomous geometric precision error estimation in low-level computer vision tasks.|Andrés Corrada-Emmanuel,Howard J. Schultz|1|1|0|1
+24|Stability of transductive regression algorithms.|Corinna Cortes,Mehryar Mohri,Dmitry Pechyony,Ashish Rastogi|31|24|0|7
+25|A rate-distortion one-class model and its applications to clustering.|Koby Crammer,Partha Pratim Talukdar,Fernando C. N. Pereira|20|16|0|1
+26|Fast Gaussian process methods for point process intensity estimation.|John P. Cunningham,Krishna V. Shenoy,Maneesh Sahani|36|30|0|6
+27|Self-taught clustering.|Wenyuan Dai,Qiang Yang,Gui-Rong Xue,Yong Yu|119|105|0|6
+28|Hierarchical sampling for active learning.|Sanjoy Dasgupta,Daniel Hsu|211|185|0|7
+29|Learning to classify with missing and corrupted features.|Ofer Dekel,Ohad Shamir|73|66|2|2
+30|Maximum likelihood rule ensembles.|Krzysztof Dembczynski,Wojciech Kotlowski,Roman Slowinski|21|12|0|0
+31|Learning from incomplete data with infinite imputations.|Uwe Dick,Peter Haider,Tobias Scheffer|31|25|1|0
+32|An object-oriented representation for efficient reinforcement learning.|Carlos Diuk,Andre Cohen,Michael L. Littman|78|74|0|5
+33|Optimizing estimated loss reduction for active sampling in rank learning.|Pinar Donmez,Jaime G. Carbonell|41|36|0|2
+34|Reinforcement learning with limited reinforcement: using Bayes risk for active learning in POMDPs.|Finale Doshi,Joelle Pineau,Nicholas Roy|62|46|0|7
+35|Confidence-weighted linear classification.|Mark Dredze,Koby Crammer,Fernando Pereira|263|234|3|25
+36|Efficient projections onto the l1-ball for learning in high dimensions.|John C. Duchi,Shai Shalev-Shwartz,Yoram Singer,Tushar Chandra|547|499|2|15
+37|Pointwise exact bootstrap distributions of cost curves.|Charles Dugas,David Gadoury|1|1|0|1
+38|Polyhedral classifier for target detection: a case study: colorectal cancer.|Murat Dundar,Matthias Wolf,Sarang Lakare,Marcos Salganicoff,Vikas C. Raykar|7|5|0|2
+39|Active reinforcement learning.|Arkady Epshteyn,Adam Vogel,Gerald DeJong|19|19|0|0
+40|Training structural SVMs when exact inference is intractable.|Thomas Finley,Thorsten Joachims|208|179|0|10
+41|An HDP-HMM for systems with state persistence.|Emily B. Fox,Erik B. Sudderth,Michael I. Jordan,Alan S. Willsky|169|157|0|7
+42|Optimized cutting plane algorithm for support vector machines.|Vojtech Franc,Sören Sonnenburg|132|109|0|11
+43|Stopping conditions for exact computation of leave-one-out error in support vector machines.|Vojtech Franc,Pavel Laskov,Klaus-Robert Müller|3|2|0|1
+44|Reinforcement learning in the presence of rare events.|Jordan Frank,Shie Mannor,Doina Precup|8|6|0|0
+45|Memory bounded inference in topic models.|Ryan Gomes,Max Welling,Pietro Perona|9|7|0|0
+46|Localized multiple kernel learning.|Mehmet Gönen,Ethem Alpaydin|170|158|0|9
+47|No-regret learning in convex games.|Geoffrey J. Gordon,Amy Greenwald,Casey Marks|n/a
+48|Boosting with incomplete information.|Gholamreza Haffari,Yang Wang,Shaojun Wang,Greg Mori,Feng Jiao|8|5|0|1
+49|Grassmann discriminant analysis: a unifying view on subspace-based learning.|Jihun Ham,Daniel D. Lee|242|219|1|1
+50|Modified MMI/MPE: a direct evaluation of the margin in speech recognition.|Georg Heigold,Thomas Deselaers,Ralf Schlüter,Hermann Ney|48|38|1|10
+51|Statistical models for partial membership.|Katherine A. Heller,Sinead Williamson,Zoubin Ghahramani|31|27|1|1
+52|Active kernel learning.|Steven C. H. Hoi,Rong Jin|15|13|0|4
+53|A dual coordinate descent method for large-scale linear SVM.|Cho-Jui Hsieh,Kai-Wei Chang,Chih-Jen Lin,S. Sathiya Keerthi,S. Sundararajan|470|413|1|29
+54|Discriminative structure and parameter learning for Markov logic networks.|Tuyen N. Huynh,Raymond J. Mooney|97|81|0|4
+55|Causal modelling combining instantaneous and lagged effects: an identifiable model based on non-Gaussianity.|Aapo Hyvärinen,Shohei Shimizu,Patrik O. Hoyer|37|34|0|6
+56|Efficient bandit algorithms for online multiclass prediction.|Sham M. Kakade,Shai Shalev-Shwartz,Ambuj Tewari|79|68|0|3
+57|Large scale manifold transduction.|Michael Karlen,Jason Weston,Ayse Erkan,Ronan Collobert|31|23|0|3
+58|Non-parametric policy gradients: a unified treatment of propositional and relational domains.|Kristian Kersting,Kurt Driessens|55|48|0|19
+59|ICA and ISA using Schweizer-Wolff measure of dependence.|Sergey Kirshner,Barnabás Póczos|15|12|0|0
+60|Unsupervised rank aggregation with distance-based models.|Alexandre Klementiev,Dan Roth,Kevin Small|58|51|0|4
+61|On partial optimality in multi-label MRFs.|Pushmeet Kohli,Alexander Shekhovtsov,Carsten Rother,Vladimir Kolmogorov,Philip H. S. Torr|59|45|0|8
+62|Space-indexed dynamic programming: learning to follow trajectories.|J. Zico Kolter,Adam Coates,Andrew Y. Ng,Yi Gu,Charles DuHadway|14|10|0|0
+63|The skew spectrum of graphs.|Risi Kondor,Karsten M. Borgwardt|39|28|0|8
+64|Fast estimation of first-order clause coverage through randomization and maximum likelihood.|Ondrej Kuzelka,Filip Zelezný|7|6|0|0
+65|Query-level stability and generalization in learning to rank.|Yanyan Lan,Tie-Yan Liu,Tao Qin,Zhiming Ma,Hang Li|19|16|0|8
+66|Modeling interleaved hidden processes.|Niels Landwehr|28|22|0|3
+67|Exploration scavenging.|John Langford,Alexander L. Strehl,Jennifer Wortman|61|55|0|8
+68|Classification using discriminative restricted Boltzmann machines.|Hugo Larochelle,Yoshua Bengio|295|270|0|26
+69|Transfer of samples in batch reinforcement learning.|Alessandro Lazaric,Marcello Restelli,Andrea Bonarini|55|47|0|3
+70|Local likelihood modeling of temporal text streams.|Guy Lebanon,Yang Zhao|14|13|0|0
+71|A worst-case comparison between temporal difference and residual gradient with linear function approximation.|Lihong Li|12|10|0|0
+72|Knows what it knows: a framework for self-aware learning.|Lihong Li,Michael L. Littman,Thomas J. Walsh|117|100|0|18
+73|Pairwise constraint propagation by semidefinite programming for semi-supervised classification.|Zhenguo Li,Jianzhuang Liu,Xiaoou Tang|94|82|0|8
+74|An asymptotic analysis of generative, discriminative, and pseudolikelihood estimators.|Percy Liang,Michael I. Jordan|114|96|0|1
+75|Structure compilation: trading structure for features.|Percy Liang,Hal Daumé III,Dan Klein|41|38|3|1
+76|ManifoldBoost: stagewise function approximation for fully-, semi- and un-supervised learning.|Nicolas Loeff,David A. Forsyth,Deepak Ramachandran|22|19|0|1
+77|Random classification noise defeats all convex potential boosters.|Philip M. Long,Rocco A. Servedio|90|86|2|3
+78|Uncorrelated multilinear principal component analysis through successive variance maximization.|Haiping Lu,Konstantinos N. Plataniotis,Anastasios N. Venetsanopoulos|24|20|0|7
+79|A reproducing kernel Hilbert space framework for pairwise time series distances.|Zhengdong Lu,Todd K. Leen,Yonghong Huang,Deniz Erdogmus|17|15|0|0
+80|On-line discovery of temporal-difference networks.|Takaki Makino,Toshihisa Takagi|9|2|0|1
+81|Nonextensive entropic kernels.|André F. T. Martins,Mário A. T. Figueiredo,Pedro M. Q. Aguiar,Noah A. Smith,Eric P. Xing|n/a
+82|Automatic discovery and transfer of MAXQ hierarchies.|Neville Mehta,Soumya Ray,Prasad Tadepalli,Thomas G. Dietterich|64|48|0|6
+83|Rank minimization via online learning.|Raghu Meka,Prateek Jain,Constantine Caramanis,Inderjit S. Dhillon|37|30|0|4
+84|An analysis of reinforcement learning with function approximation.|Francisco S. Melo,Sean P. Meyn,M. Isabel Ribeiro|72|66|0|4
+85|Empirical Bernstein stopping.|Volodymyr Mnih,Csaba Szepesvári,Jean-Yves Audibert|123|108|2|7
+86|Efficiently solving convex relaxations for MAP estimation.|M. Pawan Kumar,Philip H. S. Torr|23|20|0|7
+87|On the hardness of finding symmetries in Markov decision processes.|Shravan Matthur Narayanamurthy,Balaraman Ravindran|11|11|0|1
+88|Bayes optimal classification for decision trees.|Siegfried Nijssen|1|0|0|0
+89|A decoupled approach to exemplar-based unsupervised learning.|Sebastian Nowozin,Gökhan H. Bakir|15|11|0|0
+90|Cost-sensitive multi-class classification from probability estimates.|Deirdre B. O'Brien,Maya R. Gupta,Robert M. Gray|15|14|0|0
+91|The projectron: a bounded kernel-based Perceptron.|Francesco Orabona,Joseph Keshet,Barbara Caputo|67|54|0|6
+92|Learning dissimilarities by ranking: from SDP to QP.|Hua Ouyang,Alexander G. Gray|17|12|0|2
+93|A distance model for rhythms.|Jean-François Paiement,Yves Grandvalet,Samy Bengio,Douglas Eck|1|1|0|0
+94|On the chance accuracies of large collections of classifiers.|Mark Palatucci,Andrew Carlson|7|5|0|2
+95|An analysis of linear models, linear value-function approximation, and feature selection for reinforcement learning.|Ronald Parr,Lihong Li,Gavin Taylor,Christopher Painter-Wakefield,Michael L. Littman|90|75|0|5
+96|Learning to learn implicit queries from gaze patterns.|Kai Puolamäki,Antti Ajanki,Samuel Kaski|11|9|0|2
+97|Multi-task compressive sensing with Dirichlet process priors.|Yuting Qi,Dehong Liu,David B. Dunson,Lawrence Carin|27|24|0|2
+98|Estimating labels from label proportions.|Novi Quadrianto,Alexander J. Smola,Tibério S. Caetano,Quoc V. Le|69|60|0|3
+99|Learning diverse rankings with multi-armed bandits.|Filip Radlinski,Robert Kleinberg,Thorsten Joachims|225|201|1|15
+100|Semi-supervised learning of compact document representations with deep networks.|Marc'Aurelio Ranzato,Martin Szummer|73|60|0|1
+101|Message-passing for graph-structured linear programs: proximal projections, convergence and rounding schemes.|Pradeep D. Ravikumar,Alekh Agarwal,Martin J. Wainwright|21|16|0|1
+102|Bayesian multiple instance learning: automatic feature selection and inductive transfer.|Vikas C. Raykar,Balaji Krishnapuram,Jinbo Bi,Murat Dundar,R. Bharat Rao|96|81|1|11
+103|Online kernel selection for Bayesian reinforcement learning.|Joseph Reisinger,Peter Stone,Risto Miikkulainen|18|12|0|1
+104|The dynamic hierarchical Dirichlet process.|Lu Ren,David B. Dunson,Lawrence Carin|87|78|0|4
+105|Closed-form supervised dimensionality reduction with generalized linear models.|Irina Rish,Genady Grabarnik,Guillermo A. Cecchi,Francisco Pereira,Geoffrey J. Gordon|48|39|1|3
+106|Bi-level path following for cross validated solution of kernel quantile regression.|Saharon Rosset|15|10|0|0
+107|The Group-Lasso for generalized linear models: uniqueness of solutions and efficient algorithms.|Volker Roth,Bernd Fischer|124|111|0|5
+108|Robust matching and recognition using context-dependent kernels.|Hichem Sahbi,Jean-Yves Audibert,Jaonary Rabarisoa,Renaud Keriven|8|8|0|0
+109|Privacy-preserving reinforcement learning.|Jun Sakuma,Shigenobu Kobayashi,Rebecca N. Wright|8|7|0|3
+110|On the quantitative analysis of deep belief networks.|Ruslan Salakhutdinov,Iain Murray|175|152|1|22
+111|Bayesian probabilistic matrix factorization using Markov chain Monte Carlo.|Ruslan Salakhutdinov,Andriy Mnih|1322|1230|2|9
+112|Accurate max-margin training for structured output spaces.|Sunita Sarawagi,Rahul Gupta|33|28|1|1
+113|Fast incremental proximity search in large graphs.|Purnamrita Sarkar,Andrew W. Moore,Amit Prakash|88|74|1|4
+114|Inverting the Viterbi algorithm: an abstract framework for structure design.|Michael Schnall-Levin,Leonid Chindelevitch,Bonnie Berger|17|12|0|0
+115|Compressed sensing and Bayesian experimental design.|Matthias W. Seeger,Hannes Nickisch|76|58|0|11
+116|Multi-classification by categorical features via clustering.|Yevgeny Seldin,Naftali Tishby|16|12|0|10
+117|SVM optimization: inverse dependence on training set size.|Shai Shalev-Shwartz,Nathan Srebro|178|146|1|21
+118|Data spectroscopy: learning mixture models using eigenspaces of convolution operators.|Tao Shi,Mikhail Belkin,Bin Yu|18|16|0|7
+119|A generalization of Haussler's convolution kernel: mapping kernel.|Kilho Shin,Tetsuji Kuboyama|n/a
+120|mStruct: a new admixture model for inference of population structure in light of both genetic admixing and allele mutations.|Suyash Shringarpure,Eric P. Xing|4|3|0|0
+121|Expectation-maximization for sparse and non-negative PCA.|Christian D. Sigg,Joachim M. Buhmann|42|39|0|1
+122|Sample-based learning and search with permanent and transient memories.|David Silver,Richard S. Sutton,Martin Müller|65|61|0|6
+123|An RKHS for multi-view learning and manifold co-regularization.|Vikas Sindhwani,David S. Rosenberg|129|109|0|5
+124|The asymptotics of semi-supervised learning in discriminative probabilistic models.|Nataliya Sokolovska,Olivier Cappé,François Yvon|18|14|0|1
+125|Tailoring density estimation via reproducing kernel moment matching.|Le Song,Xinhua Zhang,Alexander J. Smola,Arthur Gretton,Bernhard Schölkopf|29|26|0|5
+126|Detecting statistical interactions with additive groves of trees.|Daria Sorokina,Rich Caruana,Mirek Riedewald,Daniel Fink|12|7|0|5
+127|Metric embedding for kernel classification rules.|Bharath K. Sriperumbudur,Omer A. Lang,Gert R. G. Lanckriet|8|8|0|0
+128|Discriminative parameter learning for Bayesian networks.|Jiang Su,Harry Zhang,Charles X. Ling,Stan Matwin|95|86|0|7
+129|A least squares formulation for canonical correlation analysis.|Liang Sun,Shuiwang Ji,Jieping Ye|45|38|0|6
+130|Apprenticeship learning using linear programming.|Umar Syed,Michael H. Bowling,Robert E. Schapire|76|70|0|1
+131|Composite kernel learning.|Marie Szafranski,Yves Grandvalet,Alain Rakotomamonjy|92|80|0|10
+132|The many faces of optimism: a unifying approach.|Istvan Szita,András Lörincz|47|33|0|4
+133|nu-support vector machine as conditional value-at-risk minimization.|Akiko Takeda,Masashi Sugiyama|35|30|0|13
+134|Training restricted Boltzmann machines using approximations to the likelihood gradient.|Tijmen Tieleman|330|294|0|3
+135|A semiparametric statistical approach to model-free policy evaluation.|Tsuyoshi Ueno,Motoaki Kawanabe,Takeshi Mori,Shin-ichi Maeda,Shin Ishii|5|1|0|1
+136|Topologically-constrained latent variable models.|Raquel Urtasun,David J. Fleet,Andreas Geiger,Jovan Popovic,Trevor Darrell,Neil D. Lawrence|99|84|0|8
+137|Beam sampling for the infinite hidden Markov model.|Jurgen Van Gael,Yunus Saatci,Yee Whye Teh,Zoubin Ghahramani|157|137|2|6
+138|Extracting and composing robust features with denoising autoencoders.|Pascal Vincent,Hugo Larochelle,Yoshua Bengio,Pierre-Antoine Manzagol|870|806|1|29
+139|Prediction with expert advice for the Brier game.|Vladimir Vovk,Fedor Zhdanov|26|23|0|6
+140|Sparse multiscale gaussian process regression.|Christian Walder,Kwang In Kim,Bernhard Schölkopf|34|24|0|4
+141|Manifold alignment using Procrustes analysis.|Chang Wang,Sridhar Mahadevan|113|100|0|9
+142|Dirichlet component analysis: feature extraction for compositional data.|Hua-Yan Wang,Qiang Yang,Hong Qin,Hongbin Zha|5|5|0|0
+143|Adaptive p-posterior mixture-model kernels for multiple instance learning.|Hua-Yan Wang,Qiang Yang,Hongbin Zha|50|45|0|0
+144|Graph transduction via alternating minimization.|Jun Wang,Tony Jebara,Shih-Fu Chang|90|74|0|14
+145|On multi-view active learning and the combination with semi-supervised learning.|Wei Wang,Zhi-Hua Zhou|51|40|1|10
+146|Fast solvers and efficient implementations for distance metric learning.|Kilian Q. Weinberger,Lawrence K. Saul|172|150|1|6
+147|Deep learning via semi-supervised embedding.|Jason Weston,Frédéric Ratle,Ronan Collobert|235|207|1|5
+148|Efficiently learning linear-linear exponential family predictive representations of state.|David Wingate,Satinder P. Singh|6|6|0|1
+149|Fully distributed EM for very large datasets.|Jason Wolfe,Aria Haghighi,Dan Klein|64|51|0|1
+150|Listwise approach to learning to rank: theory and algorithm.|Fen Xia,Tie-Yan Liu,Jue Wang,Wensheng Zhang,Hang Li|284|250|1|26
+151|Democratic approximation of lexicographic preference models.|Fusun Yaman,Thomas J. Walsh,Michael L. Littman,Marie desJardins|31|27|0|3
+152|Preconditioned temporal difference learning.|Hengshuai Yao,Zhi-Qiang Liu|9|7|0|3
+153|A quasi-Newton approach to non-smooth convex optimization.|Jin Yu,S. V. N. Vishwanathan,Simon Günter,Nicol N. Schraudolph|30|18|0|2
+154|Predicting diverse subsets using structural SVMs.|Yisong Yue,Thorsten Joachims|131|116|0|18
+155|Improved Nystr&ouml;m low-rank approximation and error analysis.|Kai Zhang,Ivor W. Tsang,James T. Kwok|n/a
+156|Estimating local optimums in EM algorithm over Gaussian mixture model.|Zhenjie Zhang,Bing Tian Dai,Anthony K. H. Tung|19|15|0|2
+157|Efficient multiclass maximum margin clustering.|Bin Zhao,Fei Wang,Changshui Zhang|62|52|0|8
+158|Laplace maximum margin Markov networks.|Jun Zhu,Eric P. Xing,Bo Zhang|21|13|0|8

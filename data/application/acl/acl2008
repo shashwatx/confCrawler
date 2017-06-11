@@ -1,0 +1,122 @@
+121
+1|ACL 2008, Proceedings of the 46th Annual Meeting of the Association for Computational Linguistics, June 15-20, 2008, Columbus, Ohio, USA.|Kathleen McKeown,Johanna D. Moore,Simone Teufel,James Allan,Sadaoki Furui|n/a
+2|Front Matter.|n/a
+3|Mining Wiki Resources for Multilingual Named Entity Recognition.|Alexander E. Richman,Patrick Schone|101|85|0|0
+4|Distributional Identification of Non-Referential Pronouns.|Shane Bergsma,Dekang Lin,Randy Goebel|46|37|0|4
+5|Weakly-Supervised Acquisition of Open-Domain Classes and Class Attributes from Web Documents and Query Logs.|Marius Pasca,Benjamin Van Durme|93|72|1|6
+6|The Tradeoffs Between Open and Traditional Relation Extraction.|Michele Banko,Oren Etzioni|328|290|1|17
+7|PDT 2.0 Requirements on a Query Language.|Jirí Mírovský|6|3|0|0
+8|Task-oriented Evaluation of Syntactic Parsers and Their Representations.|Yusuke Miyao,Rune Sætre,Kenji Sagae,Takuya Matsuzaki,Jun'ichi Tsujii|86|67|0|6
+9|MAXSIM: A Maximum Similarity Metric for Machine Translation Evaluation.|Yee Seng Chan,Hwee Tou Ng|58|49|0|8
+10|Contradictions and Justifications: Extensions to the Textual Entailment Task.|Ellen M. Voorhees|35|30|0|0
+11|Cohesive Phrase-Based Decoding for Statistical Machine Translation.|Colin Cherry|61|45|0|1
+12|Phrase Table Training for Precision and Recall: What Makes a Good Phrase and a Good Phrase Pair?|Yonggang Deng,Jia Xu,Yuqing Gao|24|19|0|2
+13|Measure Word Generation for English-Chinese SMT Systems.|Dongdong Zhang,Mu Li,Nan Duan,Chi-Ho Li,Ming Zhou|10|7|0|2
+14|Bayesian Learning of Non-Compositional Phrases with Synchronous Parsing.|Hao Zhang,Chris Quirk,Robert C. Moore,Daniel Gildea|68|52|0|4
+15|Applying a Grammar-Based Language Model to a Simplified Broadcast-News Transcription Task.|Tobias Kaufmann,Beat Pfister|4|1|0|2
+16|Automatic Editing in a Back-End Speech-to-Text System.|Maximilian Bisani,Paul Vozila,Olivier Divay,Jeff Adams|0|0|0|0
+17|Grounded Language Modeling for Automatic Speech Recognition of Sports Video.|Michael Fleischman,Deb Roy|23|21|4|4
+18|Lexicalized Phonotactic Word Segmentation.|Margaret M. Fleck|32|24|0|0
+19|A Re-examination of Query Expansion Using Lexical Resources.|Hui Fang|53|41|0|3
+20|Selecting Query Term Alternations for Web Search by Exploiting Query Contexts.|Guihong Cao,Stephen Robertson,Jian-Yun Nie|8|7|0|0
+21|Searching Questions by Identifying Question Topic and Question Focus.|Huizhong Duan,Yunbo Cao,Chin-Yew Lin,Yong Yu|90|81|0|5
+22|Trainable Generation of Big-Five Personality Styles through Data-Driven Parameter Estimation.|François Mairesse,Marilyn A. Walker|39|30|0|8
+23|Correcting Misuse of Verb Forms.|John Lee,Stephanie Seneff|44|36|0|1
+24|Hypertagging: Supertagging for Surface Realization with CCG.|Dominic Espinosa,Michael White,Dennis Mehay|28|20|0|11
+25|Forest-Based Translation.|Haitao Mi,Liang Huang,Qun Liu|153|121|0|31
+26|A Discriminative Latent Variable Model for Statistical Machine Translation.|Phil Blunsom,Trevor Cohn,Miles Osborne|104|76|0|2
+27|Efficient Multi-Pass Decoding for Synchronous Context Free Grammars.|Hao Zhang,Daniel Gildea|32|18|3|1
+28|Regular Tree Grammars as a Formalism for Scope Underspecification.|Alexander Koller,Michaela Regneri,Stefan Thater|24|19|0|6
+29|Classification of Semantic Relationships between Nominals Using Pattern Clusters.|Dmitry Davidov,Ari Rappoport|51|34|0|6
+30|Vector-based Models of Semantic Composition.|Jeff Mitchell,Mirella Lapata|349|321|0|7
+31|Exploiting Feature Hierarchy for Transfer Learning in Named Entity Recognition.|Andrew Arnold,Ramesh Nallapati,William W. Cohen|34|24|0|4
+32|Refining Event Extraction through Cross-Document Inference.|Heng Ji,Ralph Grishman|134|117|0|38
+33|Learning Document-Level Semantic Properties from Free-Text Annotations.|S. R. K. Branavan,Harr Chen,Jacob Eisenstein,Regina Barzilay|89|65|0|1
+34|Automatic Image Annotation Using Auxiliary Text Information.|Yansong Feng,Mirella Lapata|58|52|0|6
+35|Hedge Classification in Biomedical Texts with a Weakly Supervised Selection of Keywords.|György Szarvas|81|73|0|6
+36|When Specialists and Generalists Work Together: Overcoming Domain Dependence in Sentiment Tagging.|Alina Andreevskaia,Sabine Bergler|110|94|0|0
+37|A Generic Sentence Trimmer with CRFs.|Tadashi Nomoto|14|12|0|3
+38|A Joint Model of Text and Aspect Ratings for Sentiment Summarization.|Ivan Titov,Ryan T. McDonald|388|345|2|1
+39|Improving Parsing and PP Attachment Performance with Sense Information.|Eneko Agirre,Timothy Baldwin,David Martínez|75|64|1|11
+40|A Logical Basis for the D Combinator and Normal Form in CCG.|Frederick Hoyt,Jason Baldridge|15|12|0|2
+41|Parsing Noun Phrase Structure with CCG.|David Vadas,James R. Curran|27|23|0|4
+42|Sentence Simplification for Semantic Role Labeling.|David Vickrey,Daphne Koller|61|50|0|2
+43|Summarizing Emails with Conversational Cohesion and Subjectivity.|Giuseppe Carenini,Raymond T. Ng,Xiaodong Zhou|46|39|0|5
+44|Ad Hoc Treebank Structures.|Markus Dickinson|12|10|0|7
+45|A Single Generative Model for Joint Morphological Segmentation and Syntactic Parsing.|Yoav Goldberg,Reut Tsarfaty|43|41|1|5
+46|Which Words Are Hard to Recognize? Prosodic, Lexical, and Disfluency Factors that Increase ASR Error Rates.|Sharon Goldwater,Daniel Jurafsky,Christopher D. Manning|10|7|0|1
+47|Name Translation in Statistical Machine Translation - Learning When to Transliterate.|Ulf Hermjakob,Kevin Knight,Hal Daumé III|81|63|0|2
+48|Using Adaptor Grammars to Identify Synergies in the Unsupervised Acquisition of Linguistic Structure.|Mark Johnson|60|51|0|14
+49|Inducing Gazetteers for Named Entity Recognition by Large-Scale Clustering of Dependency Relations.|Jun'ichi Kazama,Kentaro Torisawa|40|32|0|12
+50|Evaluating Roget's Thesauri.|Alistair Kennedy,Stan Szpakowicz|n/a
+51|Unsupervised Translation Induction for Chinese Abbreviations using Monolingual Corpora.|Zhifei Li,David Yarowsky|29|24|0|1
+52|Which Are the Best Features for Automatic Verb Classification.|Jianguo Li,Chris Brew|30|24|0|2
+53|Collecting a Why-Question Corpus for Development and Evaluation of an Automatic QA-System.|Joanna Mrozinski,Edward W. D. Whittaker,Sadaoki Furui|19|17|0|0
+54|Solving Relational Similarity Problems Using the Web as a Corpus.|Preslav Nakov,Marti A. Hearst|69|54|0|9
+55|Combining Speech Retrieval Results with Generalized Additive Models.|J. Scott Olsson,Douglas W. Oard|6|3|0|3
+56|A Critical Reassessment of Evaluation Baselines for Speech Summarization.|Gerald Penn,Xiaodan Zhu|54|45|0|6
+57|Intensional Summaries as Cooperative Responses in Dialogue: Automation and Evaluation.|Joseph Polifroni,Marilyn A. Walker|28|24|0|1
+58|Word Clustering and Word Selection Based Feature Reduction for MaxEnt Based Hindi NER.|Sujan Kumar Saha,Pabitra Mitra,Sudeshna Sarkar|6|4|0|3
+59|Combining EM Training and the MDL Principle for an Automatic Verb Classification Incorporating Selectional Preferences.|Sabine Schulte im Walde,Christian Hying,Christian Scheible,Helmut Schmid|38|31|0|6
+60|Randomized Language Models via Perfect Hash Functions.|David Talbot,Thorsten Brants|48|35|2|1
+61|Applying Morphology Generation Models to Machine Translation.|Kristina Toutanova,Hisami Suzuki,Achim Ruopp|79|68|1|2
+62|Multilingual Harvesting of Cross-Cultural Stereotypes.|Tony Veale,Yanfen Hao,Guofu Li|7|5|0|3
+63|Semi-Supervised Convex Training for Dependency Parsing.|Qin Iris Wang,Dale Schuurmans,Dekang Lin|20|13|0|1
+64|Chinese-English Backward Transliteration Assisted with Mining Monolingual Web Pages.|Fan Yang,Jun Zhao,Bo Zou,Kang Liu,Feifan Liu|13|9|0|0
+65|Robustness and Generalization of Role Sets: PropBank vs. VerbNet.|Beñat Zapirain,Eneko Agirre,Lluís Màrquez|20|15|0|0
+66|A Tree Sequence Alignment-based Tree-to-Tree Translation Model.|Min Zhang,Hongfei Jiang,AiTi Aw,Haizhou Li,Chew Lim Tan,Sheng Li|102|85|0|2
+67|Automatic Syllabification with Structured SVMs for Letter-to-Phoneme Conversion.|Susan Bartlett,Grzegorz Kondrak,Colin Cherry|53|43|0|5
+68|A New String-to-Dependency Machine Translation Algorithm with a Target Dependency Language Model.|Libin Shen,Jinxi Xu,Ralph M. Weischedel|231|183|0|8
+69|Forest Reranking: Discriminative Parsing with Non-Local Features.|Liang Huang|230|179|0|11
+70|Simple Semi-supervised Dependency Parsing.|Terry Koo,Xavier Carreras,Michael Collins|332|295|0|4
+71|Optimal $k$-arization of Synchronous Tree-Adjoining Grammar.|Rebecca Nesson,Giorgio Satta,Stuart M. Shieber|9|5|0|3
+72|Enhancing Performance of Lexicalised Grammars.|Rebecca Dridan,Valia Kordoni,Jeremy Nicholson|6|4|0|1
+73|Assessing Dialog System User Simulation Evaluation Measures Using Human Judges.|Hua Ai,Diane J. Litman|21|18|0|4
+74|Robust Dialog Management with N-Best Hypotheses Using Dialog Examples and Agenda.|Cheongjae Lee,Sangkeun Jung,Gary Geunbae Lee|13|10|0|2
+75|Learning Effective Multimodal Dialogue Strategies from Wizard-of-Oz Data: Bootstrapping and Evaluation.|Verena Rieser,Oliver Lemon|55|37|0|20
+76|Phrase Chunking Using Entropy Guided Transformation Learning.|Ruy Luiz Milidiú,Cícero Nogueira dos Santos,Julio C. Duarte|32|20|0|12
+77|Learning Bigrams from Unigrams.|Xiaojin Zhu,Andrew B. Goldberg,Michael Rabbat,Robert D. Nowak|n/a
+78|Semi-Supervised Sequential Labeling and Segmentation Using Giga-Word Scale Unlabeled Data.|Jun Suzuki,Hideki Isozaki|117|98|1|5
+79|Large Scale Acquisition of Paraphrases for Learning Surface Patterns.|Rahul Bhagat,Deepak Ravichandran|80|64|0|2
+80|Contextual Preferences.|Idan Szpektor,Ido Dagan,Roy Bar-Haim,Jacob Goldberger|n/a
+81|Unsupervised Discovery of Generic Relationships Using Pattern Clusters and its Evaluation by Automatically Generated SAT Analogy Questions.|Dmitry Davidov,Ari Rappoport|61|44|1|10
+82|Improving Search Results Quality by Customizing Summary Lengths.|Michael Kaisser,Marti A. Hearst,John B. Lowe|49|36|2|3
+83|Using Conditional Random Fields to Extract Contexts and Answers of Questions from Online Forums.|Shilin Ding,Gao Cong,Chin-Yew Lin,Xiaoyan Zhu|66|57|1|3
+84|Learning to Rank Answers on Large Online QA Collections.|Mihai Surdeanu,Massimiliano Ciaramita,Hugo Zaragoza|148|124|0|6
+85|Unsupervised Lexicon-Based Resolution of Unknown Words for Full Morphological Analysis.|Meni Adler,Yoav Goldberg,David Gabay,Michael Elhadad|18|13|0|5
+86|Unsupervised Multilingual Learning for Morphological Segmentation.|Benjamin Snyder,Regina Barzilay|95|76|1|8
+87|EM Can Find Pretty Good HMM POS-Taggers (When Given a Good Start).|Yoav Goldberg,Meni Adler,Michael Elhadad|61|52|0|7
+88|Distributed Word Clustering for Large Scale Class-Based Language Modeling in Machine Translation.|Jakob Uszkoreit,Thorsten Brants|65|56|3|3
+89|Enriching Morphologically Poor Languages for Statistical Machine Translation.|Eleftherios Avramidis,Philipp Koehn|87|74|0|1
+90|Learning Bilingual Lexicons from Monolingual Corpora.|Aria Haghighi,Percy Liang,Taylor Berg-Kirkpatrick,Dan Klein|193|168|0|1
+91|Pivot Approach for Extracting Paraphrase Patterns from Bilingual Corpora.|Shiqi Zhao,Haifeng Wang,Ting Liu,Sheng Li|71|59|0|6
+92|Unsupervised Learning of Narrative Event Chains.|Nathanael Chambers,Daniel Jurafsky|196|178|0|4
+93|Semantic Role Labeling Systems for Arabic using Kernel Methods.|Mona T. Diab,Alessandro Moschitti,Daniele Pighin|18|16|0|4
+94|An Unsupervised Approach to Biography Production Using Wikipedia.|Fadi Biadsy,Julia Hirschberg,Elena Filatova|63|47|0|4
+95|Generating Impact-Based Summaries for Scientific Literature.|Qiaozhu Mei,ChengXiang Zhai|67|59|0|4
+96|Can You Summarize This? Identifying Correlates of Input Difficulty for Multi-Document Summarization.|Ani Nenkova,Annie Louis|34|29|0|6
+97|You Talking to Me? A Corpus and Algorithm for Conversation Disentanglement.|Micha Elsner,Eugene Charniak|44|35|0|2
+98|An Entity-Mention Model for Coreference Resolution with Inductive Logic Programming.|Xiaofeng Yang,Jian Su,Jun Lang,Chew Lim Tan,Ting Liu,Sheng Li|65|47|0|2
+99|Gestural Cohesion for Topic Segmentation.|Jacob Eisenstein,Regina Barzilay,Randall Davis|6|6|0|0
+100|Multi-Task Active Learning for Linguistic Annotations.|Roi Reichart,Katrin Tomanek,Udo Hahn,Ari Rappoport|47|41|0|4
+101|Generalized Expectation Criteria for Semi-Supervised Learning of Conditional Random Fields.|Gideon S. Mann,Andrew McCallum|97|81|0|14
+102|Analyzing the Errors of Unsupervised Learning.|Percy Liang,Dan Klein|23|15|0|2
+103|Joint Word Segmentation and POS Tagging Using a Single Perceptron.|Yue Zhang,Stephen Clark|86|79|0|11
+104|A Cascaded Linear Model for Joint Chinese Word Segmentation and Part-of-Speech Tagging.|Wenbin Jiang,Liang Huang,Qun Liu,Yajuan Lü|80|69|0|9
+105|Joint Processing and Discriminative Training for Letter-to-Phoneme Conversion.|Sittichai Jiampojamarn,Colin Cherry,Grzegorz Kondrak|70|52|0|15
+106|A Probabilistic Model for Fine-Grained Expert Search.|Shenghua Bao,Huizhong Duan,Qi Zhou,Miao Xiong,Yunbo Cao,Yong Yu|7|7|0|2
+107|Credibility Improves Topical Blog Post Retrieval.|Wouter Weerkamp,Maarten de Rijke|95|77|0|19
+108|Linguistically Motivated Features for Enhanced Back-of-the-Book Indexing.|Andras Csomai,Rada Mihalcea|21|20|2|1
+109|Resolving Personal Names in Email Using Context Expansion.|Tamer Elsayed,Douglas W. Oard,Galileo Namata|22|16|0|3
+110|Integrating Graph-Based and Transition-Based Dependency Parsers.|Joakim Nivre,Ryan T. McDonald|199|156|0|14
+111|Efficient, Feature-based, Conditional Random Field Parsing.|Jenny Rose Finkel,Alex Kleeman,Christopher D. Manning|140|118|0|8
+112|A Deductive Approach to Dependency Parsing.|Carlos Gómez-Rodríguez,John A. Carroll,David J. Weir|10|6|0|0
+113|Evaluating a Crosslinguistic Grammar Resource: A Case Study of Wambaya.|Emily M. Bender|23|18|0|6
+114|Better Alignments = Better Translations?|Kuzman Ganchev,João Graça,Ben Taskar|57|45|1|3
+115|Mining Parenthetical Translations from the Web by Word Alignment.|Dekang Lin,Shaojun Zhao,Benjamin Van Durme,Marius Pasca|54|42|0|1
+116|Soft Syntactic Constraints for Hierarchical Phrased-Based Translation.|Yuval Marton,Philip Resnik|116|90|0|12
+117|Generalizing Word Lattice Translation.|Christopher Dyer,Smaranda Muresan,Philip Resnik|136|109|2|16
+118|Combining Multiple Resources to Improve SMT-based Paraphrasing Model.|Shiqi Zhao,Cheng Niu,Ming Zhou,Ting Liu,Sheng Li|40|35|0|4
+119|Extraction of Entailed Semantic Relations Through Syntax-Based Comma Resolution.|Vivek Srikumar,Roi Reichart,Mark Sammons,Ari Rappoport,Dan Roth|16|14|0|3
+120|Finding Contradictions in Text.|Marie-Catherine de Marneffe,Anna N. Rafferty,Christopher D. Manning|146|123|0|5
+121|Semantic Class Learning from the Web with Hyponym Pattern Linkage Graphs.|Zornitsa Kozareva,Ellen Riloff,Eduard H. Hovy|206|181|0|20

@@ -1,0 +1,84 @@
+83
+1|51th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2010, October 23-26, 2010, Las Vegas, Nevada, USA.|n/a
+2|Constructive Algorithms for Discrepancy Minimization.|Nikhil Bansal|62|59|0|6
+3|Bounded Independence Fools Degree-2 Threshold Functions.|Ilias Diakonikolas,Daniel M. Kane,Jelani Nelson|49|48|0|3
+4|From Sylvester-Gallai Configurations to Rank Bounds: Improved Black-Box Identity Test for Depth-3 Circuits.|Nitin Saxena,C. Seshadhri|34|32|0|7
+5|The Coin Problem and Pseudorandomness for Branching Programs.|Joshua Brody,Elad Verbin|30|30|0|0
+6|Pseudorandom Generators for Regular Branching Programs.|Mark Braverman,Anup Rao,Ran Raz,Amir Yehudayoff|29|29|0|1
+7|Boosting and Differential Privacy.|Cynthia Dwork,Guy N. Rothblum,Salil P. Vadhan|160|152|0|12
+8|A Multiplicative Weights Mechanism for Privacy-Preserving Data Analysis.|Moritz Hardt,Guy N. Rothblum|153|148|0|11
+9|Impossibility of Differentially Private Universally Optimal Mechanisms.|Hai Brenner,Kobbi Nissim|38|38|0|0
+10|The Limits of Two-Party Differential Privacy.|Andrew McGregor,Ilya Mironov,Toniann Pitassi,Omer Reingold,Kunal Talwar,Salil P. Vadhan|77|76|1|5
+11|Settling the Polynomial Learnability of Mixtures of Gaussians.|Ankur Moitra,Gregory Valiant|110|102|0|7
+12|Polynomial Learning of Distribution Families.|Mikhail Belkin,Kaushik Sinha|91|87|0|3
+13|Agnostically Learning under Permutation Invariant Distributions.|Karl Wimmer|6|6|0|0
+14|Corrigendum: A Random Sampling Algorithm for Learning an Intersection of Halfspaces.|Santosh Vempala|1|1|0|0
+15|Learning Convex Concepts from Gaussian Distributions with PCA.|Santosh Vempala|13|13|0|2
+16|Deciding First-Order Properties for Sparse Graphs.|Zdenek Dvorak,Daniel Král,Robin Thomas|68|66|0|2
+17|Logspace Versions of the Theorems of Bodlaender and Courcelle.|Michael Elberfeld,Andreas Jakoby,Till Tantau|70|68|0|8
+18|A Separator Theorem in Minor-Closed Classes.|Ken-ichi Kawarabayashi,Bruce A. Reed|24|23|0|4
+19|Optimal Stochastic Planarization.|Anastasios Sidiropoulos|6|6|0|1
+20|Determinant Sums for Undirected Hamiltonicity.|Andreas Björklund|111|107|0|0
+21|Fighting Perebor: New and Improved Algorithms for Formula and QBF Satisfiability.|Rahul Santhanam|47|45|0|6
+22|The Monotone Complexity of k-clique on Random Graphs.|Benjamin Rossman|16|16|0|3
+23|The Complexity of Distributions.|Emanuele Viola|24|23|0|6
+24|Hardness of Finding Independent Sets in Almost 3-Colorable Graphs.|Irit Dinur,Subhash Khot,Will Perkins,Muli Safra|8|8|0|3
+25|Solving Linear Systems through Nested Dissection.|Noga Alon,Raphael Yuster|11|11|0|1
+26|Approaching Optimality for Solving SDD Linear Systems.|Ioannis Koutis,Gary L. Miller,Richard Peng|145|141|2|27
+27|Fast Approximation Algorithms for Cut-Based Problems in Undirected Graphs.|Aleksander Madry|33|32|0|1
+28|Metric Extension Operators, Vertex Sparsifiers and Lipschitz Extendability.|Konstantin Makarychev,Yury Makarychev|21|21|0|2
+29|Vertex Sparsifiers and Abstract Rounding Algorithms.|Moses Charikar,Tom Leighton,Shi Li,Ankur Moitra|22|22|0|0
+30|Approximation Algorithms for the Edge-Disjoint Paths Problem via Raecke Decompositions.|Matthew Andrews|21|20|0|0
+31|Computational Transition at the Uniqueness Threshold.|Allan Sly|73|73|0|3
+32|Clustering with Spectral Norm and the k-Means Algorithm.|Amit Kumar,Ravindran Kannan|41|36|0|3
+33|Stability Yields a PTAS for k-Median and k-Means Clustering.|Pranjal Awasthi,Avrim Blum,Or Sheffet|40|35|0|10
+34|The Geometry of Manipulation: A Quantitative Proof of the Gibbard-Satterthwaite Theorem.|Marcus Isaksson,Guy Kindler,Elchanan Mossel|49|46|0|3
+35|Efficient Volume Sampling for Row/Column Subset Selection.|Amit Deshpande,Luis Rademacher|49|47|0|0
+36|A Non-linear Lower Bound for Planar Epsilon-Nets.|Noga Alon|34|33|0|3
+37|The Sub-exponential Upper Bound for On-Line Chain Partitioning.|Bartlomiej Bosek,Tomasz Krawczyk|12|12|0|5
+38|Improved Bounds for Geometric Permutations.|Natan Rubin,Haim Kaplan,Micha Sharir|5|4|0|1
+39|On the Queue Number of Planar Graphs.|Giuseppe Di Battista,Fabrizio Frati,János Pach|14|13|0|0
+40|Polylogarithmic Approximation for Edit Distance and the Asymmetric Query Complexity.|Alexandr Andoni,Robert Krauthgamer,Krzysztof Onak|26|25|0|6
+41|Information Cost Tradeoffs for Augmented Index and Streaming Language Recognition.|Amit Chakrabarti,Graham Cormode,Ranganath Kondapally,Andrew McGregor|28|28|1|5
+42|New Constructive Aspects of the Lovasz Local Lemma.|Bernhard Haeupler,Barna Saha,Aravind Srinivasan|66|62|0|10
+43|The Geometry of Scheduling.|Nikhil Bansal,Kirk Pruhs|58|55|0|8
+44|Strong Fault-Tolerance for Self-Assembly with Fuzzy Temperature.|David Doty,Matthew J. Patitz,Dustin Reishus,Robert T. Schweller,Scott M. Summers|33|31|0|18
+45|Holographic Algorithms with Matchgates Capture Precisely Tractable Planar_#CSP.|Jin-yi Cai,Pinyan Lu,Mingji Xia|39|37|0|20
+46|A Decidable Dichotomy Theorem on Directed Graph Homomorphisms with Non-negative Weights.|Jin-yi Cai,Xi Chen|27|27|0|14
+47|Sublinear Optimization for Machine Learning.|Kenneth L. Clarkson,Elad Hazan,David P. Woodruff|40|37|0|13
+48|Estimating the Longest Increasing Sequence in Polylogarithmic Time.|Michael E. Saks,C. Seshadhri|11|11|0|3
+49|Testing Properties of Sparse Images.|Gilad Tsur,Dana Ron|7|7|0|1
+50|A Unified Framework for Testing Linear-Invariant Properties.|Arnab Bhattacharyya,Elena Grigorescu,Asaf Shapira|40|39|0|17
+51|Optimal Testing of Reed-Muller Codes.|Arnab Bhattacharyya,Swastik Kopparty,Grant Schoenebeck,Madhu Sudan,David Zuckerman|45|42|0|4
+52|Overcoming the Hole in the Bucket: Public-Key Cryptography Resilient to Continual Memory Leakage.|Zvika Brakerski,Yael Tauman Kalai,Jonathan Katz,Vinod Vaikuntanathan|156|148|0|7
+53|Cryptography against Continuous Memory Attacks.|Yevgeniy Dodis,Kristiyan Haralambiev,Adriana López-Alt,Daniel Wichs|127|123|6|3
+54|On the Insecurity of Parallel Repetition for Leakage Resilience.|Allison B. Lewko,Brent Waters|8|8|0|1
+55|Black-Box, Round-Efficient Secure Computation via Non-malleability Amplification.|Hoeteck Wee|38|37|0|0
+56|Adaptive Hardness and Composable Security in the Plain Model from Standard Assumptions.|Ran Canetti,Huijia Lin,Rafael Pass|48|48|0|14
+57|Bounds on Monotone Switching Networks for Directed Connectivity.|Aaron Potechin|16|16|0|4
+58|Subexponential Algorithms for Unique Games and Related Problems.|Sanjeev Arora,Boaz Barak,David Steurer|136|131|0|11
+59|Dependent Randomized Rounding via Exchange Properties of Combinatorial Structures.|Chandra Chekuri,Jan Vondrák,Rico Zenklusen|67|67|0|5
+60|Minimum-Cost Network Design with (Dis)economies of Scale.|Matthew Andrews,Spyridon Antonakopoulos,Lisa Zhang|35|31|1|3
+61|One Tree Suffices: A Simultaneous O(1)-Approximation for Single-Sink Buy-at-Bulk.|Ashish Goel,Ian Post|10|10|0|0
+62|Min st-cut Oracle for Planar Graphs with Near-Linear Preprocessing Time.|Glencora Borradaile,Piotr Sankowski,Christian Wulff-Nilsen|21|20|0|5
+63|On the Computational Complexity of Coin Flipping.|Hemanta K. Maji,Manoj Prabhakaran,Amit Sahai|9|8|0|0
+64|Sequential Rationality in Cryptographic Protocols.|Ronen Gradwohl,Noam Livne,Alon Rosen|23|23|0|1
+65|An Efficient Test for Product States with Applications to Quantum Merlin-Arthur Games.|Aram Wettroth Harrow,Ashley Montanaro|28|28|0|5
+66|Subcubic Equivalences between Path, Matrix and Triangle Problems.|Virginia Vassilevska Williams,Ryan Williams|92|83|0|16
+67|Replacement Paths via Fast Matrix Multiplication.|Oren Weimann,Raphael Yuster|14|13|0|1
+68|All-Pairs Shortest Paths in O(n2) Time with High Probability.|Yuval Peres,Dmitry Sotnikov,Benny Sudakov,Uri Zwick|14|13|0|2
+69|Approximating Maximum Weight Matching in Near-Linear Time.|Ran Duan,Seth Pettie|41|40|2|5
+70|A Fourier-Analytic Approach to Reed-Muller Decoding.|Parikshit Gopalan|27|26|0|1
+71|Pseudorandom Generators for CC0[p] and the Fourier Spectrum of Low-Degree Polynomials over Finite Fields.|Shachar Lovett,Partha Mukhopadhyay,Amir Shpilka|7|7|0|1
+72|Matching Vector Codes.|Zeev Dvir,Parikshit Gopalan,Sergey Yekhanin|43|43|0|15
+73|Local List Decoding with a Constant Number of Queries.|Avraham Ben-Aroya,Klim Efremenko,Amnon Ta-Shma|29|29|0|2
+74|Codes for Computationally Simple Channels: Explicit Constructions with Optimal Rate.|Venkatesan Guruswami,Adam Smith|43|41|0|4
+75|Pure and Bayes-Nash Price of Anarchy for Generalized Second Price Auction.|Renato Paes Leme,Éva Tardos|80|76|0|6
+76|Frugal and Truthful Auctions for Vertex Covers, Flows and Cuts.|David Kempe,Mahyar Salek,Cristopher Moore|23|23|0|0
+77|Frugal Mechanism Design via Spectral Techniques.|Ning Chen,Edith Elkind,Nick Gravin,Fedor Petrov|23|23|0|2
+78|Budget Feasible Mechanisms.|Yaron Singer|85|84|0|10
+79|Black-Box Randomized Reductions in Algorithmic Mechanism Design.|Shaddin Dughmi,Tim Roughgarden|48|47|0|7
+80|Backyard Cuckoo Hashing: Constant Worst-Case Operations with a Succinct Representation.|Yuriy Arbitman,Moni Naor,Gil Segev|29|27|0|7
+81|A Lower Bound for Dynamic Approximate Membership Data Structures.|Shachar Lovett,Ely Porat|10|10|0|1
+82|Lower Bounds on Near Neighbor Search via Metric Expansion.|Rina Panigrahy,Kunal Talwar,Udi Wieder|27|25|0|1
+83|Distance Oracles beyond the Thorup-Zwick Bound.|Mihai Patrascu,Liam Roditty|47|45|0|3

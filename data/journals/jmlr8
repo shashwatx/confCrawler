@@ -1,0 +1,92 @@
+91
+1|Nonlinear Boosting Projections for Ensemble Construction.|Nicolás García-Pedrajas,Cesar García-Osorio,Colin Fyfe|63|44|0|0
+2|Multi-Task Learning for Classification with Dirichlet Process Priors.|Ya Xue,Xuejun Liao,Lawrence Carin,Balaji Krishnapuram|303|238|0|17
+3|A Unified Continuous Optimization Framework for Center-Based Clustering Methods.|Marc Teboulle|101|77|0|0
+4|Minimax Regret Classifier for Imprecise Class Distributions.|Rocío Alaíz-Rodríguez,Alicia Guerrero-Curieses,Jesús Cid-Sueiro|22|17|0|2
+5|Distances between Data Sets Based on Summary Statistics.|Nikolaj Tatti|21|16|0|2
+6|Building Blocks for Variational Bayesian Learning of Latent Variable Models.|Tapani Raiko,Harri Valpola,Markus Harva,Juha Karhunen|23|12|0|10
+7|A Probabilistic Analysis of EM for Mixtures of Separated, Spherical Gaussians.|Sanjoy Dasgupta,Leonard J. Schulman|64|51|0|3
+8|Noise Tolerant Variants of the Perceptron Algorithm.|Roni Khardon,Gabriel Wachman|68|36|2|3
+9|Learnability of Gaussians with Flexible Variances.|Yiming Ying,Ding-Xuan Zhou|60|26|0|26
+10|Separating Models of Learning from Correlated and Uncorrelated Data.|Ariel Elbaz,Homin K. Lee,Rocco A. Servedio,Andrew Wan|1|0|0|0
+11|Comments on the "Core Vector Machines: Fast SVM Training on Very Large Data Sets".|Gaëlle Loosli,Stéphane Canu|713|497|1|14
+12|General Polynomial Time Decomposition Algorithms.|Nikolas List,Hans-Ulrich Simon|17|5|0|4
+13|Dynamics and Generalization Ability of LVQ Algorithms.|Michael Biehl,Anarta Ghosh,Barbara Hammer|80|51|0|37
+14|Statistical Consistency of Kernel Canonical Correlation Analysis.|Kenji Fukumizu,Francis R. Bach,Arthur Gretton|118|82|0|21
+15|Learning Equivariant Functions with Matrix Valued Kernels.|Marco Reisert,Hans Burkhardt|18|12|0|3
+16|Boosted Classification Trees and Class Probability/Quantile Estimation.|David Mease,Abraham J. Wyner,Andreas Buja|138|108|0|4
+17|Value Regularization and Fenchel Duality.|Ryan M. Rifkin,Ross A. Lippert|50|36|0|0
+18|Integrating Naïve Bayes and FOIL.|Niels Landwehr,Kristian Kersting,Luc De Raedt|65|49|0|3
+19|A Stochastic Algorithm for Feature Selection in Pattern Recognition.|Sébastien Gadat,Laurent Younes|57|36|0|7
+20|Learning Horn Expressions with LOGAN-H.|Marta Arias,Roni Khardon,Jérôme Maloberti|20|8|0|1
+21|Consistent Feature Selection for Pattern Recognition in Polynomial Time.|Roland Nilsson,José M. Peña,Johan Björkegren,Jesper Tegnér|57|42|0|4
+22|Estimating High-Dimensional Directed Acyclic Graphs with the PC-Algorithm.|Markus Kalisch,Peter Bühlmann|303|229|0|23
+23|Margin Trees for High-dimensional Classification.|Robert Tibshirani,Trevor Hastie|72|55|1|1
+24|Relational Dependency Networks.|Jennifer Neville,David Jensen|249|195|0|29
+25|Dynamic Conditional Random Fields: Factorized Probabilistic Models for Labeling and Segmenting Sequence Data.|Charles A. Sutton,Andrew McCallum,Khashayar Rohanimanesh|394|217|4|15
+26|The Pyramid Match Kernel: Efficient Learning with Sets of Features.|Kristen Grauman,Trevor Darrell|320|251|0|7
+27|Infinitely Imbalanced Logistic Regression.|Art B. Owen|47|36|0|1
+28|Sparseness vs Estimating Conditional Probabilities: Some Asymptotic Results.|Peter L. Bartlett,Ambuj Tewari|49|40|0|0
+29|Concave Learners for Rankboost.|Ofer Melnik,Yehuda Vardi,Cun-Hui Zhang|0|0|0|0
+30|Gini Support Vector Machine: Quadratic Entropy Based Robust Multi-Class Probability Regression.|Shantanu Chakrabartty,Gert Cauwenberghs|18|14|1|6
+31|Preventing Over-Fitting during Model Selection via Bayesian Regularisation of the Hyper-Parameters.|Gavin C. Cawley,Nicola L. C. Talbot|147|121|0|6
+32|Combining PAC-Bayesian and Generic Chaining Bounds.|Jean-Yves Audibert,Olivier Bousquet|22|18|0|1
+33|Anytime Learning of Decision Trees.|Saher Esmeir,Shaul Markovitch|45|26|0|3
+34|Classification in Networked Data: A Toolkit and a Univariate Case Study.|Sofus A. Macskassy,Foster J. Provost|438|325|3|19
+35|Covariate Shift Adaptation by Importance Weighted Cross Validation.|Masashi Sugiyama,Matthias Krauledat,Klaus-Robert Müller|285|224|0|71
+36|On the Consistency of Multiclass Classification Methods.|Ambuj Tewari,Peter L. Bartlett|127|104|0|2
+37|Dimensionality Reduction of Multimodal Labeled Data by Local Fisher Discriminant Analysis.|Masashi Sugiyama|594|526|1|21
+38|Undercomplete Blind Subspace Deconvolution.|Zoltán Szabó,Barnabás Póczos,András Lörincz|n/a
+39|Bilinear Discriminant Component Analysis.|Mads Dyrholm,Christoforos Christoforou,Lucas C. Parra|41|28|0|13
+40|Loop Corrections for Approximate Inference on Factor Graphs.|Joris M. Mooij,Hilbert J. Kappen|26|16|0|4
+41|Penalized Model-Based Clustering with Application to Variable Selection.|Wei Pan,Xiaotong Shen|146|125|0|6
+42|Local Discriminant Wavelet Packet Coordinates for Face Recognition.|Chao-Chun Liu,Dao-Qing Dai,Hong Yan|61|41|0|7
+43|Synergistic Face Detection and Pose Estimation with Energy-Based Models.|Margarita Osadchy,Yann LeCun,Matthew L. Miller|178|150|1|1
+44|Maximum Entropy Density Estimation with Generalized Regularization and an Application to Species Distribution Modeling.|Miroslav Dudík,Steven J. Phillips,Robert E. Schapire|126|94|2|4
+45|Measuring Differentiability: Unmasking Pseudonymous Authors.|Moshe Koppel,Jonathan Schler,Elisheva Bonchek-Dokow|81|66|0|5
+46|Bayesian Quadratic Discriminant Analysis.|Santosh Srivastava,Maya R. Gupta,Bela A. Frigyik|87|63|0|18
+47|From External to Internal Regret.|Avrim Blum,Yishay Mansour|113|93|0|0
+48|Graph Laplacians and their Convergence on Random Neighborhood Graphs.|Matthias Hein,Jean-Yves Audibert,Ulrike von Luxburg|135|96|0|6
+49|Generalization Error Bounds in Semi-supervised Classification Under the Cluster Assumption.|Philippe Rigollet|80|56|1|2
+50|Learning to Classify Ordinal Data: The Data Replication Method.|Jaime S. Cardoso,Joaquim F. Pinto da Costa|106|88|0|21
+51|Attribute-Efficient and Non-adaptive Learning of Parities and DNF Expressions.|Vitaly Feldman|26|16|0|9
+52|PAC-Bayes Risk Bounds for Stochastic Averages and Majority Votes of Sample-Compressed Classifiers.|François Laviolette,Mario Marchand|21|18|0|6
+53|On the Effectiveness of Laplacian Normalization for Graph Semi-supervised Learning.|Rie Johnson,Tong Zhang|50|30|0|0
+54|An Interior-Point Method for Large-Scale l1-Regularized Logistic Regression.|Kwangmoo Koh,Seung-Jean Kim,Stephen P. Boyd|460|367|4|6
+55|Multi-class Protein Classification Using Adaptive Codes.|Iain Melvin,Eugene Ie,Jason Weston,William Stafford Noble,Christina S. Leslie|37|23|0|1
+56|Spherical-Homoscedastic Distributions: The Equivalency of Spherical and Normal Distributions in Classification.|Onur C. Hamsici,Aleix M. Martínez|24|16|1|6
+57|Handling Missing Values when Applying Classification Models.|Maytal Saar-Tsechansky,Foster J. Provost|143|121|0|4
+58|Compression-Based Averaging of Selective Naive Bayes Classifiers.|Marc Boullé|87|61|0|0
+59|A Nonparametric Statistical Approach to Clustering via Mode Identification.|Jia Li,Surajit Ray,Bruce G. Lindsay|106|91|3|18
+60|Polynomial Identification in the Limit of Substitutable Context-free Languages.|Alexander Clark,Rémi Eyraud|20|6|0|3
+61|Structure and Majority Classes in Decision Tree Learning.|Ray J. Hickey|6|5|0|1
+62|Characterizing the Function Space for Bayesian Kernel Models.|Natesh S. Pillai,Qiang Wu,Feng Liang,Sayan Mukherjee,Robert L. Wolpert|38|27|0|2
+63|"Ideal Parent" Structure Learning for Continuous Variable Bayesian Networks.|Gal Elidan,Iftach Nachman,Nir Friedman|29|24|0|2
+64|Behavioral Shaping for Geometric Concepts.|Manu Chhabra,Robert A. Jacobs,Daniel Stefankovic|1|0|0|1
+65|Large Margin Semi-supervised Learning.|Junhui Wang,Xiaotong Shen|n/a
+66|Fast Iterative Kernel Principal Component Analysis.|Simon Günter,Nicol N. Schraudolph,S. V. N. Vishwanathan|77|54|0|0
+67|A Generalized Maximum Entropy Approach to Bregman Co-clustering and Matrix Approximation.|Arindam Banerjee,Inderjit S. Dhillon,Joydeep Ghosh,Srujana Merugu,Dharmendra S. Modha|348|231|9|26
+68|Truncating the Loop Series Expansion for Belief Propagation.|Vicenç Gómez,Joris M. Mooij,Hilbert J. Kappen|24|16|0|4
+69|Very Fast Online Learning of Highly Non Linear Problems.|Aggelos Chariatis|2|2|0|0
+70|Unlabeled Compression Schemes for Maximum Classes.|Dima Kuzmin,Manfred K. Warmuth|28|25|0|0
+71|Refinable Kernels.|Yuesheng Xu,Haizhang Zhang|24|15|0|15
+72|A Complete Characterization of a Family of Solutions to a Generalized Fisher Criterion.|Marco Loog|5|3|0|2
+73|Transfer Learning via Inter-Task Mappings for Temporal Difference Learning.|Matthew E. Taylor,Peter Stone,Yaxin Liu|111|82|0|21
+74|Proto-value Functions: A Laplacian Framework for Learning Representation and Control in Markov Decision Processes.|Sridhar Mahadevan,Mauro Maggioni|186|120|1|21
+75|Online Learning of Multiple Tasks with a Shared Loss.|Ofer Dekel,Philip M. Long,Yoram Singer|19|14|0|0
+76|Euclidean Embedding of Co-occurrence Data.|Amir Globerson,Gal Chechik,Fernando Pereira,Naftali Tishby|124|92|1|1
+77|Harnessing the Expertise of 70, 000 Human Editors: Knowledge-Based Feature Generation for Text Categorization.|Evgeniy Gabrilovich,Shaul Markovitch|59|40|0|5
+78|AdaBoost is Consistent.|Peter L. Bartlett,Mikhail Traskin|94|74|0|0
+79|The On-Line Shortest Path Problem Under Partial Monitoring.|András György,Tamás Linder,Gábor Lugosi,György Ottucsák|71|59|0|7
+80|The Locally Weighted Bag of Words Framework for Document Representation.|Guy Lebanon,Yi Mao,Joshua V. Dillon|46|39|1|4
+81|The Need for Open Source Software in Machine Learning.|Sören Sonnenburg,Mikio L. Braun,Cheng Soon Ong,Samy Bengio,Léon Bottou,Geoffrey Holmes,Yann LeCun,Klaus-Robert Müller,Fernando Pereira,Carl Edward Rasmussen,Gunnar Rätsch,Bernhard Schölkopf,Alexander J. Smola,Pascal Vincent,Jason Weston,Robert C. Williamson|119|88|0|4
+82|On the Representer Theorem and Equivalent Degrees of Freedom of SVR.|Francesco Dinuzzo,Marta Neve,Giuseppe De Nicolao,Ugo Pietro Gianazza|23|16|0|7
+83|Nonlinear Estimators and Tail Bounds for Dimension Reduction in l1 Using Cauchy Random Projections.|Ping Li,Trevor Hastie,Kenneth Ward Church|52|30|0|11
+84|Revised Loss Bounds for the Set Covering Machine and Sample-Compression Loss Bounds for Imbalanced Data.|Zakria Hussain,François Laviolette,Mario Marchand,John Shawe-Taylor,S. Charles Brubaker,Matthew D. Mullin|3|3|0|0
+85|VC Theory of Large Margin Multi-Category Classifiers.|Yann Guermeur|36|26|0|8
+86|Learning in Environments with Unknown Dynamics: Towards more Robust Concept Learners.|Marlon Núñez,Raúl Fidalgo,Rafael Morales Bueno|28|22|0|0
+87|Hierarchical Average Reward Reinforcement Learning.|Mohammad Ghavamzadeh,Sridhar Mahadevan|29|20|0|2
+88|Ranking the Best Instances.|Stéphan Clémençon,Nicolas Vayatis|80|52|1|23
+89|Stagewise Lasso.|Peng Zhao,Bin Yu|90|61|0|11
+90|A New Probabilistic Approach in Rank Regression with Optimal Bayesian Partitioning.|Carine Hue,Marc Boullé|10|6|0|1
+91|Dynamic Weighted Majority: An Ensemble Method for Drifting Concepts.|J. Zico Kolter,Marcus A. Maloof|310|285|3|3

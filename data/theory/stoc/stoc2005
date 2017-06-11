@@ -1,0 +1,87 @@
+86
+1|Proceedings of the 37th Annual ACM Symposium on Theory of Computing, Baltimore, MD, USA, May 22-24, 2005.|Harold N. Gabow,Ronald Fagin|n/a
+2|Simulating independence: new constructions of condensers, ramsey graphs, dispersers, and extractors.|Boaz Barak,Guy Kindler,Ronen Shaltiel,Benny Sudakov,Avi Wigderson|114|59|0|9
+3|Extractors with weak random seeds.|Ran Raz|128|81|0|4
+4|Pseudorandom generators for low degree polynomials.|Andrej Bogdanov|34|18|0|1
+5|On uniform amplification of hardness in NP.|Luca Trevisan|34|13|0|3
+6|Approximation techniques for utilitarian mechanism design.|Patrick Briest,Piotr Krysta,Berthold Vöcking|154|90|0|15
+7|Computing correlated equilibria in multi-player games.|Christos H. Papadimitriou|221|118|0|19
+8|Large the price of routing unsplittable flow.|Baruch Awerbuch,Yossi Azar,Amir Epstein|307|138|0|6
+9|The price of anarchy of finite congestion games.|George Christodoulou,Elias Koutsoupias|363|190|0|11
+10|Market equilibrium via the excess demand function.|Bruno Codenotti,Benton McCune,Kasturi R. Varadarajan|61|30|0|9
+11|On lattices, learning with errors, random linear codes, and cryptography.|Oded Regev|990|817|9|6
+12|Representing hard lattices with O(n log n) bits.|Miklós Ajtai|28|16|0|0
+13|On dynamic range reporting in one dimension.|Christian Worm Mortensen,Rasmus Pagh,Mihai Patrascu|47|23|0|4
+14|Worst-case update times for fully-dynamic all-pairs shortest paths.|Mikkel Thorup|51|34|0|1
+15|Beyond NP: the work and legacy of Larry Stockmeyer.|Lance Fortnow|5|5|0|0
+16|Every monotone graph property is testable.|Noga Alon,Asaf Shapira|112|58|0|12
+17|Testing versus estimation of graph properties.|Eldar Fischer,Ilan Newman|70|35|0|11
+18|Testing monotone high-dimensional distributions.|Ronitt Rubinfeld,Rocco A. Servedio|36|29|0|10
+19|Efficient testing of groups.|Katalin Friedl,Gábor Ivanyos,Miklos Santha|17|5|0|1
+20|Approximation algorithms for network design with metric costs.|Joseph Cheriyan,Adrian Vetta|42|24|0|3
+21|On non-uniform multicommodity buy-at-bulk network design.|Moses Charikar,Adriana Karagiozova|47|21|0|0
+22|Multicommodity flow, well-linked terminals, and routing problems.|Chandra Chekuri,Sanjeev Khanna,F. Bruce Shepherd|76|46|0|16
+23|Oblivious routing in directed graphs with random demands.|Mohammad Taghi Hajiaghayi,Jeong Han Kim,Tom Leighton,Harald Räcke|28|16|3|4
+24|Optimal approximations of the frequency moments of data streams.|Piotr Indyk,David P. Woodruff|186|111|3|35
+25|Coresets in dynamic geometric data streams.|Gereon Frahling,Christian Sohler|75|42|0|20
+26|Low distortion embeddings for edit distance.|Rafail Ostrovsky,Yuval Rabani|49|28|1|3
+27|Low-distortion embeddings of general metrics into the line.|Mihai Badoiu,Julia Chuzhoy,Piotr Indyk,Anastasios Sidiropoulos|47|21|0|2
+28|Tree-walking automata do not recognize all regular languages.|Mikolaj Bojanczyk,Thomas Colcombet|48|23|0|0
+29|Balanced boolean functions that can be evaluated so that every input bit is unlikely to be read.|Itai Benjamini,Oded Schramm,David Bruce Wilson|13|10|0|1
+30|Lower bounds for k-DNF resolution on random 3-CNFs.|Michael Alekhnovich|36|18|0|3
+31|Bounded-depth circuits: separating wires from gates.|Michal Koucký,Pavel Pudlák,Denis Thérien|25|11|0|0
+32|Simple PCPs with poly-log rate and query complexity.|Eli Ben-Sasson,Madhu Sudan|62|22|0|19
+33|Hardness of the undirected edge-disjoint paths problem.|Matthew Andrews,Lisa Zhang|71|28|0|10
+34|Hardness of the undirected congestion minimization problem.|Matthew Andrews,Lisa Zhang|49|16|0|11
+35|Towards strong nonapproximability results in the Lovasz-Schrijver hierarchy.|Michael Alekhnovich,Sanjeev Arora,Iannis Tourlakis|56|26|0|6
+36|Computing the first Betti number and the connected components of semi-algebraic sets.|Saugata Basu,Richard Pollack,Marie-Françoise Roy|24|4|0|7
+37|Polynomial time algorithm for computing the top Betti numbers of semi-algebraic sets defined by quadratic inequalities.|Saugata Basu|6|1|0|4
+38|On algorithms for discrete and approximate brouwer fixed points.|Xi Chen,Xiaotie Deng|23|3|0|16
+39|Convex programming for scheduling unrelated parallel machines.|Yossi Azar,Amir Epstein|45|31|0|1
+40|The round complexity of two-party random selection.|Saurabh Sanghvi,Salil P. Vadhan|14|4|0|2
+41|Hierarchies for semantic classes.|Lance Fortnow,Rahul Santhanam,Luca Trevisan|22|9|0|4
+42|Learning with attribute costs.|Haim Kaplan,Eyal Kushilevitz,Yishay Mansour|44|28|0|0
+43|Learning nonsingular phylogenies and hidden Markov models.|Elchanan Mossel,Sébastien Roch|106|83|0|14
+44|Undirected ST-connectivity in log-space.|Omer Reingold|591|355|0|9
+45|Universal approximations for TSP, Steiner tree, and set cover.|Lujun Jia,Guolong Lin,Guevara Noubir,Rajmohan Rajaraman,Ravi Sundaram|72|50|0|6
+46|Saving an epsilon: a 2-approximation for the k-MST problem in graphs.|Naveen Garg|144|74|0|0
+47|The mixing time of the Thorp shuffle.|Ben Morris|18|7|0|4
+48|Approximately counting integral flows and cell-bounded contingency tables.|Mary Cryan,Martin E. Dyer,Dana Randall|12|7|0|1
+49|Spectral norm of random matrices.|Van H. Vu|115|77|0|1
+50|On random pm 1 matrices: singularity and determinant.|Terence Tao,Van H. Vu|93|57|0|23
+51|On the average case performance of some greedy approximation algorithms for the uncapacitated facility location problem.|Abraham Flaxman,Alan M. Frieze,Juan Carlos Vera|6|4|0|0
+52|Towards asymptotic optimality in probabilistic packet marking.|Micah Adler,Jeff Edmonds,Jirí Matousek|7|4|0|0
+53|Tensor norms and the classical communication complexity of nonlocal quantum measurement.|Yaoyun Shi|16|8|0|1
+54|Fast quantum algorithms for computing the unit group and class group of a number field.|Sean Hallgren|64|31|0|8
+55|Polynomial time quantum algorithm for the computation of the unit group of a number field.|Arthur Schmidt,Ulrich Vollmer|45|19|0|3
+56|Fast quantum byzantine agreement.|Michael Ben-Or,Avinatan Hassidim|33|23|0|1
+57|Quadratic forms on graphs.|Noga Alon,Konstantin Makarychev,Yury Makarychev,Assaf Naor|94|61|0|11
+58|Lower-stretch spanning trees.|Michael Elkin,Yuval Emek,Daniel A. Spielman,Shang-Hua Teng|n/a
+59|Edge partition of planar sraphs into two outerplanar graphs.|Daniel Gonçalves|28|16|0|0
+60|Covert two-party computation.|Luis von Ahn,Nicholas J. Hopper,John Langford|n/a
+61|On obfuscating point functions.|Hoeteck Wee|198|109|2|2
+62|New and improved constructions of non-malleable cryptographic protocols.|Rafael Pass,Alon Rosen|122|80|0|23
+63|Collusion-free protocols.|Matt Lepinski,Silvio Micali,Abhi Shelat|n/a
+64|Euclidean distortion and the sparsest cut.|Sanjeev Arora,James R. Lee,Assaf Naor|184|95|0|25
+65|Improved approximation algorithms for minimum-weight vertex separators.|Uriel Feige,Mohammad Taghi Hajiaghayi,James R. Lee|210|140|0|23
+66|O(sqrt(log n)) approximation algorithms for min UnCut, min 2CNF deletion, and directed cut problems.|Amit Agarwal,Moses Charikar,Konstantin Makarychev,Yury Makarychev|142|74|0|13
+67|Balanced metric labeling.|Joseph Naor,Roy Schwartz|9|7|0|0
+68|Locally decodable codes with 2 queries and polynomial identity testing for depth 3 circuits.|Zeev Dvir,Amir Shpilka|110|79|0|23
+69|Limits to list decoding Reed-Solomon codes.|Venkatesan Guruswami,Atri Rudra|35|18|0|10
+70|Approximation algorithms for combinatorial auctions with complement-free bidders.|Shahar Dobzinski,Noam Nisan,Michael Schapira|134|68|0|41
+71|Derandomization of auctions.|Gagan Aggarwal,Amos Fiat,Andrew V. Goldberg,Jason D. Hartline,Nicole Immorlica,Madhu Sudan|52|32|0|4
+72|An O(log n log log n) space algorithm for undirected st-connectivity.|Vladimir Trifonov|16|5|0|2
+73|The complexity of agreement.|Scott Aaronson|18|14|0|3
+74|Concurrent general composition of secure protocols in the timing model.|Yael Tauman Kalai,Yehuda Lindell,Manoj Prabhakaran|37|18|0|8
+75|Correcting errors without leaking partial information.|Yevgeniy Dodis,Adam Smith|142|88|2|11
+76|Key agreement from weak bit agreement.|Thomas Holenstein|51|29|0|3
+77|A new strategy for querying priced information.|Ferdinando Cicalese,Eduardo Sany Laber|17|7|0|9
+78|Aggregating inconsistent information: ranking and clustering.|Nir Ailon,Moses Charikar,Alantha Newman|493|327|3|25
+79|On the bias of traceroute sampling: or, power-law degree distributions in regular graphs.|Dimitris Achlioptas,Aaron Clauset,David Kempe,Cristopher Moore|168|81|0|0
+80|How to spread adversarial nodes?: rotate!|Christian Scheideler|80|47|0|10
+81|From a static impossibility to an adaptive lower bound: the complexity of early deciding set agreement.|Eli Gafni,Rachid Guerraoui,Bastian Pochon|27|6|0|6
+82|An optimal multi-writer snapshot algorithm.|Prasad Jayanti|29|13|0|4
+83|Cooperative asynchronous update of shared memory.|Bogdan S. Chlebus,Dariusz R. Kowalski|10|9|0|3
+84|Every 2-CSP allows nontrivial approximation.|Johan Håstad|34|20|0|0
+85|Tensor decomposition and approximation schemes for constraint satisfaction problems.|Wenceslas Fernandez de la Vega,Marek Karpinski,Ravi Kannan,Santosh Vempala|46|32|0|5
+86|On strip packing With rotations.|Klaus Jansen,Rob van Stee|39|16|0|9

@@ -1,0 +1,73 @@
+72
+1|Absolute Factorization of Polynomials: A Geometric Approach.|Dominique Duval|33|9|0|1
+2|Deterministic Sampling - A New Technique for Fast Pattern Matching.|Uzi Vishkin|120|17|0|6
+3|Amplification of Bounded Depth Monotone Read-Once Boolean Formulae.|Qian-Ping Gu,Akira Maruoka|3|0|0|0
+4|Simple Local Search Problems That are Hard to Solve.|Alejandro A. Schäffer,Mihalis Yannakakis|228|65|0|0
+5|Improved Upper and Lower Time Bounds for Parallel Random Access Machines Without Simultaneous Writes.|Ian Parberry,Pei Yuan Yan|334|37|0|10
+6|High-Probability Parallel Transitive-Closure Algorithms.|Jeffrey D. Ullman,Mihalis Yannakakis|123|41|0|3
+7|Complexity of Sentences Over Number Rings.|Shih Ping Tung|8|1|0|4
+8|An Optimal On-Line Algorithm for k-Servers on Trees.|Marek Chrobak,Lawrence L. Larmore|151|38|0|26
+9|The Complexity of the Residual Node Connectedness Reliability Problem.|Klaus Sutner,Appajosyula Satyanarayana,Charles L. Suffel|39|8|0|5
+10|More Nearly Optimal Algorithms for Unbounded Searching, Part I: The Finite Case.|Edward M. Reingold,Xiaojun Shen|13|2|0|4
+11|More Nearly Optimal Algorithms for Unbounded Searching, Part II: The Transfinite Case.|Edward M. Reingold,Xiaojun Shen|12|2|0|4
+12|Minimum Weighted Coloring of Triangulated Graphs, with Application to Maximum Weight Vertex Packing and Clique Finding in Arbitrary Graphs.|Egon Balas,Jue Xue|79|15|0|7
+13|Approximate Levels in Line Arrangements.|Jirí Matousek|3|0|0|0
+14|Parallel Algorithms for Channel Routing in the Knock-Knee Model.|Joseph JáJá,Shing-Chong Chang|21|0|0|3
+15|Some Observations on Separating Complexity Classes.|Ronald V. Book|11|1|0|4
+16|An O(n log² h) Time Algorithm for the Three-Dimensional Convex Hull Problem.|Herbert Edelsbrunner,Weiping Shi|55|10|0|0
+17|A General Sequential Time-Space Tradeoff for Finding Unique Elements.|Paul Beame|71|18|0|9
+18|The Power of Alternating One-Reversal Counters and Stacks.|Oscar H. Ibarra,Tao Jiang|7|1|0|5
+19|Interpolation and Approximation of Sparse Multivariate Polynomials over GF(2).|Ron M. Roth,Gyora M. Benedek|49|2|0|2
+20|Lower Bounds for Computations with the Floor Operation.|Yishay Mansour,Baruch Schieber,Prasoon Tiwari|28|5|0|3
+21|Probably Approximate Learning of Sets and Functions.|B. K. Natarajan|26|2|0|2
+22|Efficient Parallel Algorithms for Testing k-Connectivity and Finding Disjoint s-t Paths in Graphs.|Samir Khuller,Baruch Schieber|53|6|0|5
+23|Time and Message Bounds for Election in Synchronous and Asynchronous Complete Networks.|Yehuda Afek,Eli Gafni|57|9|0|1
+24|Good and Bad Radii of Convex Polygons.|Peter Gritzmann,Laurent Habsieger,Victor Klee|8|2|0|4
+25|Erratum: The Polynomial Time Hierarchy Collapses if the Boolean Hierarchy Collapses.|Jim Kadin|10|3|0|1
+26|Fast Matching Algorithms for Points on a Polygon.|Odile Marcotte,Subhash Suri|29|4|0|4
+27|The Communication Complexity of Atomic Commitment and of Gossiping.|Ouri Wolfson,Adrian Segall|28|3|0|0
+28|Some Lower and Upper Complexity Bounds for Generalized Fourier Transforms and their Inverses.|Ulrich Baum,Michael Clausen|21|3|0|6
+29|On Vertical Visibility in Arrangements of Segments and the Queue Size in the Bentley-Ottmann Line Sweeping Algorithm.|János Pach,Micha Sharir|33|12|0|4
+30|On Polynomial-Time Bounded Truth-Table Reducibility of NP Sets to Sparse Sets.|Mitsunori Ogiwara,Osamu Watanabe|179|17|0|8
+31|Nondeterministic Computations in Sublogarithmic Space and Space Constructibility.|Viliam Geffert|51|10|0|19
+32|A 4n Lower Bound on the Combinational Complexity of Certain Symmetric Boolean Functions over the Basis of Unate Dyadic Boolean Functions.|Uri Zwick|28|9|0|1
+33|Near-Testable Sets.|Judy Goldsmith,Lane A. Hemachandra,Deborah Joseph,Paul Young|41|2|0|12
+34|Compression and Ranking.|Andrew V. Goldberg,Michael Sipser|69|11|2|0
+35|Algorithms for Scheduling Imprecise Computations with Timing Constraints.|Wei-Kuan Shih,Jane W.-S. Liu,Jen-Yao Chung|144|23|0|10
+36|Boolean Functions, Invariance Groups, and Parallel Complexity.|Peter Clote,Evangelos Kranakis|39|15|0|4
+37|Tests for Permutation Polynomials.|Joachim von zur Gathen|24|8|0|0
+38|Constructive Whitney-Graustein Theorem: Or How to Untangle Closed Planar Curves.|Kurt Mehlhorn,Chee-Keng Yap|10|2|0|0
+39|Reversal Complexity.|Jianer Chen,Chee-Keng Yap|n/a
+40|Computing the Strength of a Graph.|Dan Gusfield|36|7|0|2
+41|Lower Bounds for Algebraic Computation Trees with Integer Inputs.|Andrew Chi-Chih Yao|611|91|0|1
+42|Minimization of Rational Word Functions.|Christophe Reutenauer,Marcel Paul Schützenberger|41|14|2|3
+43|The Fast m-Transform: A Fast Computation of Cross-Correlations with Binary m-Sequences.|Erich E. Sutter|240|47|2|12
+44|On Counting Lattice Points in Polyhedra.|Martin E. Dyer|24|5|0|2
+45|Parallel Transitive Closure and Point Location in Planar Structures.|Roberto Tamassia,Jeffrey Scott Vitter|64|0|0|20
+46|On Nonblocking Multirate Interconnection Networks.|Shun-Ping Chung,Keith W. Ross|57|8|1|0
+47|Intersecting Line Segments in Parallel with an Output-Sensitive Number of Processors.|Michael T. Goodrich|58|11|1|13
+48|Fast Parallel Arithmetic via Modular Representation.|George I. Davida,Bruce E. Litow|40|2|0|11
+49|Equality-Test and If-Then-Else Algebras: Axiomatization and Specification.|Don Pigozzi|8|3|0|1
+50|The Maximum Size of Dynamic Data Structures.|Claire Kenyon-Mathieu,Jeffrey Scott Vitter|14|2|0|2
+51|Time Complexity of Boolean Functions on CREW PRAMs.|Miroslaw Kutylowski|13|0|0|2
+52|Embedding of Grids into Optimal Hypercubes.|Mee Yee Chan|84|4|0|4
+53|PP is as Hard as the Polynomial-Time Hierarchy.|Seinosuke Toda|529|159|0|6
+54|Selection Networks.|Nicholas Pippenger|n/a
+55|An Output-Sensitive Algorithm for Computing Visibility Graphs.|Subir Kumar Ghosh,David M. Mount|216|72|1|9
+56|Learning Simple Concept Under Simple Distributions.|Ming Li,Paul M. B. Vitányi|116|15|0|8
+57|On the Communication Complexity of Solving a Polynomial Equation.|Zhi-Quan Luo,John N. Tsitsiklis|8|0|0|4
+58|The Spectra of Infinite Hypertrees.|Joel Friedman|14|7|0|1
+59|On the Complexity of Learning Minimum Time-Bounded Turing Machines.|Ker-I Ko|9|2|0|0
+60|Minimum Diameter Spanning Trees and Related Problems.|Jan-Ming Ho,D. T. Lee,Chia-Hsiang Chang,C. K. Wong|100|28|0|6
+61|Erratum: Factoring Polynomials Over Algebraic Number Fields.|Susan Landau|2|0|0|0
+62|CREW PRAMs and Decision Trees.|Noam Nisan|180|61|0|3
+63|On the Exact Complexity of String Matching: Lower Bounds.|Zvi Galil,Raffaele Giancarlo|30|1|0|2
+64|Self-P-Printability and Polynomial Time Turing Equivalence to a Tally Set.|Roy S. Rubinstein|1|0|0|0
+65|New Upper Bounds in Klee's Measure Problem.|Mark H. Overmars,Chee-Keng Yap|118|47|0|0
+66|An Optimal Randomized Parallel Algorithm for Finding Connected Components in a Graph.|Hillel Gazit|77|5|0|1
+67|Asymptotically Fast Triangularization of Matrices Over Rings.|James L. Hafner,Kevin S. McCurley|136|34|0|0
+68|Noninteractive Zero-Knowledge.|Manuel Blum,Alfredo De Santis,Silvio Micali,Giuseppe Persiano|n/a
+69|Elimination of Infrequent Variables Improves Average Case Performance of Satisfiability Algorithms.|John V. Franco|47|5|0|12
+70|Parallel Tree Contraction, Part 2: Further Applications.|Gary L. Miller,John H. Reif|88|21|0|5
+71|On Sets with Efficient Implicit Membership Tests.|Lane A. Hemachandra,Albrecht Hoene|25|1|0|8
+72|An Almost Linear-Time Algorithm for the Dense Subset-Sum Problem.|Zvi Galil,Oded Margalit|25|13|0|0

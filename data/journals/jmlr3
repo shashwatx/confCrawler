@@ -1,0 +1,57 @@
+56
+1|Kernel Independent Component Analysis.|Francis R. Bach,Michael I. Jordan|1433|704|1|19
+2|Learning Monotone DNF from a Teacher that Almost Does Not Answer Membership Queries.|Nader H. Bshouty,Nadav Eiron|n/a
+3|On the Convergence of Optimistic Policy Iteration.|John N. Tsitsiklis|49|24|0|0
+4|Data-dependent margin-based generalization bounds for classification.|András Antos,Balázs Kégl,Tamás Linder,Gábor Lugosi|36|12|0|3
+5|Variational Learning of Clusters of Undercomplete Nonsymmetric Independent Components.|Kwokleung Chan,Te-Won Lee,Terrence J. Sejnowski|44|11|0|9
+6|Learning Precise Timing with LSTM Recurrent Networks.|Felix A. Gers,Nicol N. Schraudolph,Jürgen Schmidhuber|184|128|0|25
+7|MDPs: Learning in Varying Environments.|Istvan Szita,Bálint Takács,András Lörincz|35|13|0|3
+8|Algorithmic Luckiness.|Ralf Herbrich,Robert C. Williamson|55|20|0|7
+9|R-MAX - A General Polynomial Time Algorithm for Near-Optimal Reinforcement Learning.|Ronen I. Brafman,Moshe Tennenholtz|617|399|1|17
+10|PAC-Bayesian Generalisation Error Bounds for Gaussian Process Classification.|Matthias W. Seeger|168|100|0|3
+11|On Online Learning of Decision Lists.|Ziv Nevo,Ran El-Yaniv|13|4|0|0
+12|Minimal Kernel Classifiers.|Glenn Fung,Olvi L. Mangasarian,Alexander J. Smola|67|32|0|9
+13|The Subspace Information Criterion for Infinite Dimensional Hypothesis Spaces.|Masashi Sugiyama,Klaus-Robert Müller|32|8|0|17
+14|Tracking a Small Set of Experts by Mixing Past Posteriors.|Olivier Bousquet,Manfred K. Warmuth|105|54|0|16
+15|Using Confidence Bounds for Exploitation-Exploration Trade-offs.|Peter Auer|348|282|0|3
+16|Efficient Algorithms for Universal Portfolios.|Adam Kalai,Santosh Vempala|99|52|1|13
+17|Limitations of Learning Via Embeddings in Euclidean Half Spaces.|Shai Ben-David,Nadav Eiron,Hans-Ulrich Simon|67|22|0|6
+18|Rademacher and Gaussian Complexities: Risk Bounds and Structural Results.|Peter L. Bartlett,Shahar Mendelson|798|517|2|9
+19|On Boosting with Polynomially Bounded Distributions.|Nader H. Bshouty,Dmitry Gavinsky|13|6|0|0
+20|Optimal Structure Identification With Greedy Search.|David Maxwell Chickering|688|408|1|3
+21|A Robust Minimax Approach to Classification.|Gert R. G. Lanckriet,Laurent El Ghaoui,Chiranjib Bhattacharyya,Michael I. Jordan|327|172|0|10
+22|Cluster Ensembles --- A Knowledge Reuse Framework for Combining Multiple Partitions.|Alexander Strehl,Joydeep Ghosh|2466|1790|16|32
+23|Efficient Algorithms for Decision Tree Cross-validation.|Hendrik Blockeel,Jan Struyf|106|70|0|12
+24|Multiple-Instance Learning of Real-Valued Data.|Daniel R. Dooly,Qi Zhang,Sally A. Goldman,Robert A. Amar|78|18|0|6
+25|Learning Probabilistic Models of Link Structure.|Lise Getoor,Nir Friedman,Daphne Koller,Benjamin Taskar|297|139|0|32
+26|The Representational Power of Discrete Bayesian Networks.|Charles X. Ling,Huajie Zhang|29|10|0|0
+27|The Set Covering Machine.|Mario Marchand,John Shawe-Taylor|105|44|0|15
+28|Coupled Clustering: A Method for Detecting Structural Correspondence.|Zvika Marx,Ido Dagan,Joachim M. Buhmann,Eli Shamir|44|16|2|5
+29|Some Greedy Learning Algorithms for Sparse Regression and Classification with Mercer Kernels.|Prasanth B. Nair,Arindam Choudhury,Andy J. Keane|60|24|0|5
+30|Lyapunov Design for Safe Reinforcement Learning.|Theodore J. Perkins,Andrew G. Barto|57|32|0|2
+31|Finding the Most Interesting Patterns in a Database Quickly by Using Sequential Sampling.|Tobias Scheffer,Stefan Wrobel|82|29|0|6
+32|Stopping Criterion for Boosting-Based Data Reduction Techniques: from Binary to Multiclass Problem.|Marc Sebban,Richard Nock,Stéphane Lallich|34|17|0|6
+33|Learning to Construct Fast Signal Processing Implementations.|Bryan Singer,Manuela M. Veloso|23|7|0|0
+34|Policy Search using Paired Comparisons.|Malcolm J. A. Strens,Andrew W. Moore|29|12|0|1
+35|Ultraconservative Online Algorithms for Multiclass Problems.|Koby Crammer,Yoram Singer|509|314|1|19
+36|Latent Dirichlet Allocation.|David M. Blei,Andrew Y. Ng,Michael I. Jordan|13839|11600|54|97
+37|A Family of Additive Online Algorithms for Category Ranking.|Koby Crammer,Yoram Singer|191|88|0|7
+38|Word-Sequence Kernels.|Nicola Cancedda,Éric Gaussier,Cyril Goutte,Jean-Michel Renders|241|112|3|6
+39|Kernel Methods for Relation Extraction.|Dmitry Zelenko,Chinatsu Aone,Anthony Richardella|742|399|7|1
+40|Matching Words and Pictures.|Kobus Barnard,Pinar Duygulu,David A. Forsyth,Nando de Freitas,David M. Blei,Michael I. Jordan|1526|719|18|45
+41|A Neural Probabilistic Language Model.|Yoshua Bengio,Réjean Ducharme,Pascal Vincent,Christian Janvin|1335|1110|5|73
+42|An Introduction to Variable and Feature Selection.|Isabelle Guyon,André Elisseeff|7659|5430|67|15
+43|Distributional Word Clusters vs. Words for Text Categorization.|Ron Bekkerman,Ran El-Yaniv,Naftali Tishby,Yoad Winter|280|164|1|7
+44|Extensions to Metric-Based Model Selection.|Yoshua Bengio,Nicolas Chapados|43|21|0|3
+45|Dimensionality Reduction via Sparse Support Vector Machines.|Jinbo Bi,Kristin P. Bennett,Mark J. Embrechts,Curt M. Breneman,Minghu Song|367|213|6|18
+46|Benefitting from the Variables that Variable Selection Discards.|Rich Caruana,Virginia R. de Sa|74|28|0|2
+47|A Divisive Information-Theoretic Feature Clustering Algorithm for Text Classification.|Inderjit S. Dhillon,Subramanyam Mallela,Rahul Kumar|443|245|2|8
+48|An Extensive Empirical Study of Feature Selection Metrics for Text Classification.|George Forman|1754|1180|10|17
+49|Sufficient Dimensionality Reduction.|Amir Globerson,Naftali Tishby|93|40|0|10
+50|Grafting: Fast, Incremental Feature Selection by Gradient Descent in Function Space.|Simon Perkins,Kevin Lacker,James Theiler|273|163|5|2
+51|Variable Selection Using SVM-based Criteria.|Alain Rakotomamonjy|558|295|6|13
+52|Overfitting in Making Comparisons Between Variable Selection Methods.|Juha Reunanen|313|163|0|4
+53|MLPs (Mono-Layer Polynomials and Multi-Layer Perceptrons) for Nonlinear Modeling.|Isabelle Rivals,Léon Personnaz|51|19|0|3
+54|Ranking a Random Feature for Variable and Feature Selection.|Hervé Stoppiglia,Gérard Dreyfus,Rémi Dubois,Yacine Oussar|197|87|0|8
+55|Feature Extraction by Non-Parametric Mutual Information Maximization.|Kari Torkkola|560|310|2|3
+56|Use of the Zero-Norm with Linear Models and Kernel Methods.|Jason Weston,André Elisseeff,Bernhard Schölkopf,Michael E. Tipping|598|344|6|10

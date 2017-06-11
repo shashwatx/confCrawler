@@ -1,0 +1,80 @@
+79
+1|Proceedings of the 39th Annual ACM Symposium on Theory of Computing, San Diego, California, USA, June 11-13, 2007.|David S. Johnson,Uriel Feige|n/a
+2|Statistically-hiding commitment from any one-way function.|Iftach Haitner,Omer Reingold|79|37|0|8
+3|On achieving the "best of both worlds" in secure multiparty computation.|Jonathan Katz|43|35|0|4
+4|Zero-knowledge from secure multiparty computation.|Yuval Ishai,Eyal Kushilevitz,Rafail Ostrovsky,Amit Sahai|76|51|0|17
+5|Voronoi diagrams in n·2osqrt(lg lg n) time.|Timothy M. Chan,Mihai Patrascu|n/a
+6|Lower bounds for 2-dimensional range counting.|Mihai Patrascu|58|48|0|3
+7|Combinatorial complexity in O-minimal geometry.|Saugata Basu|n/a
+8|Faster integer multiplication.|Martin Fürer|315|248|2|0
+9|Fourier meets möbius: fast subset convolution.|Andreas Björklund,Thore Husfeldt,Petteri Kaski,Mikko Koivisto|195|156|0|11
+10|Smooth sensitivity and sampling in private data analysis.|Kobbi Nissim,Sofya Raskhodnikova,Adam Smith|327|278|0|29
+11|The price of privacy and the limits of LP decoding.|Cynthia Dwork,Frank McSherry,Kunal Talwar|134|99|1|21
+12|How to rank with few errors.|Claire Kenyon-Mathieu,Warren Schudy|169|121|0|7
+13|Approximation algorithms for budgeted learning problems.|Sudipto Guha,Kamesh Munagala|67|57|0|9
+14|An approximation algorithm for max-min fair allocation of indivisible goods.|Arash Asadpour,Amin Saberi|112|81|1|7
+15|Simple deterministic approximation algorithms for counting matchings.|Mohsen Bayati,David Gamarnik,Dimitriy A. Katz,Chandra Nair,Prasad Tetali|86|66|0|8
+16|On the submodularity of influence in social networks.|Elchanan Mossel,Sébastien Roch|165|142|0|2
+17|First to market is not everything: an analysis of preferential attachment with fitness.|Christian Borgs,Jennifer T. Chayes,Constantinos Daskalakis,Sébastien Roch|50|35|0|1
+18|Stability of the max-weight routing and scheduling protocol in dynamic networks and at critical loads.|Matthew Andrews,Kyomin Jung,Alexander L. Stolyar|13|8|0|5
+19|Tight bounds for asynchronous randomized consensus.|Hagit Attiya,Keren Censor|47|40|0|6
+20|Hardness of routing with congestion in directed graphs.|Julia Chuzhoy,Venkatesan Guruswami,Sanjeev Khanna,Kunal Talwar|26|19|0|5
+21|Polynomial flow-cut gaps and hardness of directed cut problems.|Julia Chuzhoy,Sanjeev Khanna|45|35|0|0
+22|Balanced max 2-sat might not be the hardest.|Per Austrin|45|23|0|5
+23|A 3-query PCP over integers.|Venkatesan Guruswami,Prasad Raghavendra|16|9|0|1
+24|Iteratively constructing preconditioners via the conjugate gradient method.|John Dunagan,Nicholas J. A. Harvey|2|1|0|0
+25|On the convergence of Newton's method for monotone systems of polynomial equations.|Stefan Kiefer,Michael Luttenberger,Javier Esparza|34|18|0|16
+26|A combinatorial, primal-dual approach to semidefinite programs.|Sanjeev Arora,Satyen Kale|151|110|0|14
+27|One sketch for all: fast algorithms for compressed sensing.|Anna C. Gilbert,Martin J. Strauss,Joel A. Tropp,Roman Vershynin|229|184|2|9
+28|Distributed computing theory: algorithms, impossibility results, models, and proofs.|Nancy A. Lynch|2|2|0|0
+29|The condition number of a randomly perturbed matrix.|Van H. Vu,Terence Tao|50|32|0|11
+30|Balanced allocations: the weighted case.|Kunal Talwar,Udi Wieder|38|31|0|4
+31|Towards 3-query locally decodable codes of subexponential length.|Sergey Yekhanin|127|98|2|16
+32|Circuit lower bounds for Merlin-Arthur classes.|Rahul Santhanam|29|18|0|3
+33|Interpolation of depth-3 arithmetic circuits with two multiplication gates.|Amir Shpilka|25|15|0|9
+34|Separating AC0 from depth-2 majority circuits.|Alexander A. Sherstov|52|41|0|19
+35|Tight integrality gaps for Lovasz-Schrijver LP relaxations of vertex cover and max cut.|Grant Schoenebeck,Luca Trevisan,Madhur Tulsiani|60|47|0|10
+36|Rank complexity gap for Lovász-Schrijver and Sherali-Adams proof systems.|Stefan S. Dantchev|10|6|0|2
+37|Linear probing with constant independence.|Anna Pagh,Rasmus Pagh,Milan Ruzic|51|38|0|2
+38|Optimal suffix selection.|Gianni Franceschini,S. Muthukrishnan|5|4|0|2
+39|Limitations of VCG-based mechanisms.|Shahar Dobzinski,Noam Nisan|56|37|0|14
+40|The communication complexity of uncoupled nash equilibrium procedures.|Sergiu Hart,Yishay Mansour|35|15|0|1
+41|Proportional response dynamics leads to market equilibrium.|Fang Wu,Li Zhang|64|41|0|2
+42|Eisenberg-Gale markets: algorithms and structural properties.|Kamal Jain,Vijay V. Vazirani|43|22|0|7
+43|Interval completion with few edges.|Pinar Heggernes,Christophe Paul,Jan Arne Telle,Yngve Villanger|39|18|0|8
+44|Computing crossing number in linear time.|Ken-ichi Kawarabayashi,Bruce A. Reed|71|50|0|9
+45|Terminal backup, 3D matching, and covering cubic graphs.|Elliot Anshelevich,Adriana Karagiozova|16|8|0|4
+46|Holographic algorithms: from art to science.|Jin-yi Cai,Pinyan Lu|92|69|0|41
+47|Parallel repetition: simplifications and the no-signaling case.|Thomas Holenstein|131|102|0|0
+48|An efficient parallel repetition theorem for Arthur-Merlin games.|Rafael Pass,Muthuramakrishnan Venkitasubramaniam|33|22|0|7
+49|Low-end uniform hardness vs. randomness tradeoffs for AM.|Ronen Shaltiel,Christopher Umans|14|10|0|4
+50|Verifying and decoding in constant depth.|Shafi Goldwasser,Dan Gutfreund,Alexander Healy,Tali Kaufman,Guy N. Rothblum|20|17|0|5
+51|Randomly coloring planar graphs with fewer colors than the maximum degree.|Thomas P. Hayes,Juan Carlos Vera,Eric Vigoda|29|19|0|7
+52|Inapproximability of the Tutte polynomial.|Leslie Ann Goldberg,Mark Jerrum|65|51|0|11
+53|Tensor-based hardness of the shortest vector problem to within almost polynomial factors.|Ishay Haviv,Oded Regev|64|41|0|6
+54|Lattices that admit logarithmic worst-case to average-case connection factors.|Chris Peikert,Alon Rosen|48|33|6|9
+55|Property testing in hypergraphs and the removal lemma.|Vojtech Rödl,Mathias Schacht|27|16|0|1
+56|Testing k-wise and almost k-wise independence.|Noga Alon,Alexandr Andoni,Tali Kaufman,Kevin Matulef,Ronitt Rubinfeld,Ning Xie|66|57|0|4
+57|Low-degree tests at large distances.|Alex Samorodnitsky|97|63|0|2
+58|Exponential separations for one-way quantum communication complexity, with applications to cryptography.|Dmitry Gavinsky,Julia Kempe,Iordanis Kerenidis,Ran Raz,Ronald de Wolf|125|89|0|15
+59|Negative weights make adversaries stronger.|Peter Høyer,Troy Lee,Robert Spalek|116|93|0|15
+60|On the impossibility of a quantum sieve algorithm for graph isomorphism.|Cristopher Moore,Alexander Russell,Piotr Sniady|43|18|0|12
+61|Playing games with approximation algorithms.|Sham M. Kakade,Adam Tauman Kalai,Katrina Ligett|49|36|0|2
+62|Reordering buffers for general metric spaces.|Matthias Englert,Harald Räcke,Matthias Westermann|29|22|0|6
+63|Toward a general theory of quantum games.|Gus Gutoski,John Watrous|101|78|0|17
+64|Search via quantum walk.|Frédéric Magniez,Ashwin Nayak,Jérémie Roland,Miklos Santha|170|116|0|12
+65|All-pairs bottleneck paths for general graphs in truly sub-cubic time.|Virginia Vassilevska,Ryan Williams,Raphael Yuster|27|18|0|6
+66|More algorithms for all-pairs shortest paths in weighted graphs.|Timothy M. Chan|162|118|0|9
+67|Some new results on node-capacitated packing of A-paths.|Gyula Pap|9|5|0|1
+68|An Õ(mn) Gomory-Hu tree construction algorithm for unweighted graphs.|Ramesh Hariharan,Telikepalli Kavitha,Debmalya Panigrahi,Anand Bhalgat|32|23|0|4
+69|Uncertainty principles, extractors, and explicit embeddings of l2 into l1.|Piotr Indyk|51|26|0|3
+70|Vertex cuts, random walks, and dimension reduction in series-parallel graphs.|Bo Brinkman,Adriana Karagiozova,James R. Lee|14|12|0|4
+71|Local embeddings of metric spaces.|Ittai Abraham,Yair Bartal,Ofer Neiman|19|8|0|9
+72|Sampling-based dimension reduction for subspace approximation.|Amit Deshpande,Kasturi R. Varadarajan|29|21|0|4
+73|Survivable network design with degree or order constraints.|Lap Chi Lau,Joseph Naor,Mohammad R. Salavatipour,Mohit Singh|107|69|0|18
+74|Approximating minimum bounded degree spanning trees to within one of optimal.|Mohit Singh,Lap Chi Lau|149|97|0|15
+75|Improved approximation for directed cut problems.|Amit Agarwal,Noga Alon,Moses Charikar|32|26|0|0
+76|Degree-constrained network flows.|P. Donovan,F. Bruce Shepherd,Adrian Vetta,Gordon T. Wilfong|14|10|0|4
+77|Lower bounds for randomized read/write stream algorithms.|Paul Beame,T. S. Jayram,Atri Rudra|30|20|0|2
+78|Lower bounds in communication complexity based on factorization norms.|Nati Linial,Adi Shraibman|97|57|0|11
+79|Constructing non-computable Julia sets.|Mark Braverman,Michael Yampolsky|17|13|0|2

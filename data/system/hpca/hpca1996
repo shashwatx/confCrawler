@@ -1,0 +1,31 @@
+30
+1|Proceedings of the Second International Symposium on High-Performance Computer Architecture, San Jose, CA, USA, February 3-7, 1996.|n/a
+2|Performance Evaluation of a Cluster-Based Multiprocessor Built from ATM Switches and Bus-Based Multiprocessor Servers.|Magnus Karlsson,Per Stenström|50|0|0|5
+3|Improving Release-Consistent Shared Virtual Memory Using Automatic Update.|Liviu Iftode,Cezary Dubnicki,Edward W. Felten,Kai Li|171|8|1|21
+4|A Comparison of Entry Consistency and Lazy Release Consistency Implementations.|Sarita V. Adve,Alan L. Cox,Sandhya Dwarkadas,Ramakrishnan Rajamony,Willy Zwaenepoel|77|11|0|2
+5|Register File Design Considerations in Dynamically Scheduled Processors.|Keith I. Farkas,Norman P. Jouppi,Paul Chow|133|7|2|2
+6|Co-Scheduling Hardware and Software Pipelines.|Ramaswamy Govindarajan,Erik R. Altman,Guang R. Gao|14|0|0|9
+7|Representative Traces for Processor Models with Infinite Cache.|Vijay S. Iyengar,Louise Trevillyan,Pradip Bose|95|12|0|0
+8|The Impact of Shared-Cache Clustering in Small-Scale Shared-Memory Multiprocessors.|Basem A. Nayfeh,Kunle Olukotun,Jaswinder Pal Singh|43|12|0|1
+9|Improving the Data Cache Performance of Multiprocessor Operating Systems.|Chun Xia,Josep Torrellas|16|0|0|2
+10|Bus-Based COMA - Reducing Traffic in Shared-Bus Multiprocessors.|Anders Landin,Fredrik Dahlgren|23|3|1|5
+11|RMB - A Reconfigurable Multiple Bus Network.|Hossam A. ElGindy,Arun K. Somani,Heiko Schröder,Hartmut Schmeck,Andrew Spray|40|16|2|1
+12|On the Multiplexing Degree Required to Embed Permutations in a Class of Networks with Direct Interconnects.|Chunming Qiao,Yousong Mei|19|1|0|11
+13|Shuffle-Ring: Overcoming the Increasing Degree of Hypercube.|Guihai Chen,Francis C. M. Lau|5|0|0|1
+14|Telegraphos: High-Performance Networking for Parallel Processing on Workstation Clusters.|Evangelos P. Markatos,Manolis Katevenis|44|2|0|11
+15|Protected, User-Level DMA for the SHRIMP Network Interface.|Matthias A. Blumrich,Cezary Dubnicki,Edward W. Felten,Kai Li|95|19|18|11
+16|Using Memory-Mapped Network Interfaces to Improve the Performance of Distributed Shared Memory.|Leonidas I. Kontothanassis,Michael L. Scott|43|0|0|5
+17|Fault-Tolerant Multicast Routing in the Mesh with No Virtual Channels.|Ran Libeskind-Hadas,Kevin Watkins,Thomas Hehre|24|2|0|0
+18|A Topology-Independent Generic Methodology for Deadlock-Free Wormhole Routing.|Hyunmin Park,Dharma P. Agrawal|1|0|0|1
+19|Fault-Tolerance with Multimodule Routers.|Suresh Chalasani,Rajendra V. Boppana|9|2|1|1
+20|Multitasking and Multithreading on a Multiprocessor with Virtual Shared Memory.|Henk L. Muller,Paul W. A. Stallard,David H. D. Warren|9|2|3|0
+21|A Cache Coherency Protocol for Optically Connected Parallel Computer Systems.|John A. Reisner,Tom S. Wailes|3|0|1|0
+22|Parallel Intersecting Compressed Bit Vectors in a High Speed Query Server for Processing Postal Addresses.|Wen-jann Yang,Ramalingam Sridhar,Victor Demjanenko|3|3|3|0
+23|Predictive Sequential Associative Cache.|Brad Calder,Dirk Grunwald,Joel S. Emer|231|92|6|4
+24|Distributed Prefetch-buffer/Cache Design for High-Performance Memory Systems.|Thomas Alexander,Gershon Kedem|87|8|3|5
+25|Performance Characterization of the Alpha 21164 Microprocessor Using TP and SPEC Workloads.|Zarka Cvetanovic,Dileep Bhandarkar|57|5|1|5
+26|Decoupled Vector Architectures.|Roger Espasa,Mateo Valero|77|40|16|16
+27|Performance Study of a Multithreaded Superscalar Microprocessor.|Manu Gulati,Nader Bagherzadeh|97|11|19|2
+28|Two Adaptive Hybrid Cache Coherency Protocols.|Craig Anderson,Anna R. Karlin|25|5|0|1
+29|A Shared-Bus Control Mechanism and a Cache Coherence Protocol for a High-Performance On-Chip Multiprocessor.|Masafumi Takahashi,Hiroyuki Takano,Emi Kaneko,Seigo Suzuki|22|8|4|0
+30|Distance-Adaptive Update Protocols for Scalable Shared-Memory Multiprocessors.|Alain Raynaud,Zheng Zhang,Josep Torrellas|20|4|0|1

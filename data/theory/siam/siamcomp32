@@ -1,0 +1,80 @@
+79
+1|Black-Box Concurrent Zero-Knowledge Requires (Almost) Logarithmically Many Rounds.|Ran Canetti,Joe Kilian,Erez Petrank,Alon Rosen|59|21|0|8
+2|The Nonstochastic Multiarmed Bandit Problem.|Peter Auer,Nicolò Cesa-Bianchi,Yoav Freund,Robert E. Schapire|858|611|3|41
+3|A Virtually Synchronous Group Multicast Algorithm for WANs: Formal Approach.|Idit Keidar,Roger Khazan|13|1|0|2
+4|An Approximate L1-Difference Algorithm for Massive Data Streams.|Joan Feigenbaum,Sampath Kannan,Martin Strauss,Mahesh Viswanathan|287|69|3|17
+5|Limit Laws for Sums of Functions of Subtrees of Random Binary Search Trees.|Luc Devroye|25|10|0|3
+6|Approximating the Domatic Number.|Uriel Feige,Magnús M. Halldórsson,Guy Kortsarz,Aravind Srinivasan|207|94|0|25
+7|Machine-Independent Characterizations and Complete Problems for Deterministic Linear Time.|Etienne Grandjean,Thomas Schwentick|25|2|0|11
+8|Improved Approximations of Crossings in Graph Drawings and VLSI Layout Areas.|Guy Even,Sudipto Guha,Baruch Schieber|25|13|0|0
+9|Computational Complexity of Compaction to Reflexive Cycles.|Narayan Vikas|29|17|0|7
+10|Backward Consistency and Sense of Direction in Advanced Distributed Systems.|Paola Flocchini,Alessandro Roncato,Nicola Santoro|7|1|0|4
+11|Binary Space Partitions for Line Segments with a Limited Number of Directions.|Csaba D. Tóth|21|3|0|0
+12|Arc-Disjoint Paths in Expander Digraphs.|Tom Bohman,Alan M. Frieze|7|2|0|0
+13|The Probable Value of the Lovász--Schrijver Relaxations for Maximum Independent Set.|Uriel Feige,Robert Krauthgamer|45|26|0|2
+14|Stability of Adaptive and Nonadaptive Packet Routing Policies in Adversarial Queueing Networks.|David Gamarnik|56|3|0|4
+15|Many to One Embeddings from Grids into Cylinders, Tori, and Hypercubes.|John A. Ellis,Stirling Chow,Dennis Manke|6|4|0|1
+16|Common-Face Embeddings of Planar Graphs.|Zhi-Zhong Chen,Xin He,Ming-Yang Kao|6|1|0|3
+17|Accelerated Solution of Multivariate Polynomial Systems of Equations.|Bernard Mourrain,Victor Y. Pan,Olivier Ruatta|20|7|0|6
+18|New Bounds for Variable-Sized Online Bin Packing.|Steven S. Seiden,Rob van Stee,Leah Epstein|48|27|1|6
+19|On Local Search and Placement of Meters in Networks.|Samir Khuller,Randeep Bhatia,Robert Pless|48|30|0|0
+20|Lower Bounds for Matrix Product in Bounded Depth Circuits with Arbitrary Gates.|Ran Raz,Amir Shpilka|37|14|0|7
+21|New Results on Monotone Dualization and Generating Hypergraph Transversals.|Thomas Eiter,Georg Gottlob,Kazuhisa Makino|142|59|0|29
+22|Computing the Median with Uncertainty.|Tomás Feder,Rajeev Motwani,Rina Panigrahy,Chris Olston,Jennifer Widom|42|20|0|3
+23|Acceleration of Euclidean Algorithm and Rational Number Reconstruction.|Xinmao Wang,Victor Y. Pan|51|27|0|19
+24|Rearrangeability of (2n-1)-Stage Shuffle-Exchange Networks.|Hasan Cam|42|15|0|1
+25|Identity-Based Encryption from the Weil Pairing.|Dan Boneh,Matthew K. Franklin|6515|3710|81|28
+26|3-Dimensional Euclidean Voronoi Diagrams of Lines with a Fixed Number of Orientations.|Vladlen Koltun,Micha Sharir|43|14|0|13
+27|Setting Parameters by Example.|David Eppstein|38|9|0|6
+28|An Approximation Algorithm for Minimum Convex Cover with Logarithmic Performance Guarantee.|Stephan Eidenbenz,Peter Widmayer|10|7|0|0
+29|Parallel Processor Scheduling with Limited Number of Preemptions.|Oliver Braun,Günter Schmidt|25|15|0|0
+30|Nondeterministic Quantum Query and Communication Complexities.|Ronald de Wolf|51|30|0|5
+31|Semi-Online Maintenance of Geometric Optima and Measures.|Timothy M. Chan|44|20|0|12
+32|Improved Bounds for the Online Scheduling Problem.|John F. Rudin III,R. Chandrasekaran|107|68|0|0
+33|New Lower Bound Techniques for Dynamic Partial Sums and Related Problems.|Thore Husfeldt,Theis Rauhe|17|7|0|1
+34|The Reconstruction of Doubled Genomes.|Nadia El-Mabrouk,David Sankoff|94|42|0|34
+35|Expected-Case Complexity of Approximate Nearest Neighbor Searching.|Sunil Arya,Ho-Yam Addy Fu|29|12|0|3
+36|The Online Median Problem.|Ramgopal R. Mettu,C. Greg Plaxton|180|56|0|3
+37|A Faster Scaling Algorithm for Minimizing Submodular Functions.|Satoru Iwata|83|43|1|9
+38|The Partition Technique for Overlays of Envelopes.|Vladlen Koltun,Micha Sharir|37|9|0|20
+39|Computing Phylogenetic Roots with Bounded Degrees and Errors.|Zhi-Zhong Chen,Tao Jiang,Guohui Lin|53|12|0|6
+40|Lexicographical Generation of a Generalized Dyck Language.|Jens Liebehenschel|7|4|0|2
+41|Partial Match Queries in Random Quadtrees.|Hua-Huai Chern,Hsien-Kuei Hwang|17|12|0|3
+42|The Hidden Subgroup Problem and Quantum Computation Using Group Representations.|Sean Hallgren,Alexander Russell,Amnon Ta-Shma|61|20|0|4
+43|Models for Random Constraint Satisfaction Problems.|Michael Molloy|25|8|0|5
+44|Macro Tree Translations of Linear Size Increase are MSO Definable.|Joost Engelfriet,Sebastian Maneth|52|34|0|19
+45|The Impact of Timing Knowledge on the Session Problem.|Injong Rhee,Jennifer L. Welch|1|1|0|1
+46|Multirate Rearrangeable Clos Networks and a Generalized Edge-Coloring Problem on Bipartite Graphs.|Hung Q. Ngo,Van H. Vu|13|4|0|0
+47|An Approximation Algorithm for the Minimum-Cost k-Vertex Connected Subgraph.|Joseph Cheriyan,Santosh Vempala,Adrian Vetta|134|45|0|4
+48|Tree Pattern Matching to Subset Matching in Linear Time.|Richard Cole,Ramesh Hariharan|21|10|0|1
+49|Revisiting Tucker's Algorithm to Color Circular Arc Graphs.|Mario Valencia-Pabon|17|3|0|1
+50|Genetic Design of Drugs Without Side-Effects.|Xiaotie Deng,Guojun Li,Zimao Li,Bin Ma,Lusheng Wang|50|24|0|12
+51|Windows Scheduling Problems for Broadcast Systems.|Amotz Bar-Noy,Richard E. Ladner|65|17|0|9
+52|A Polynomial-Time Algorithm for Near-Perfect Phylogeny.|David Fernández-Baca,Jens Lagergren|34|7|0|0
+53|The 3-Colorability Problem on Graphs with Maximum Degree Four.|Martin Kochol,Vadim V. Lozin,Bert Randerath|27|16|0|13
+54|Algorithms for Boolean Function Query Properties.|Scott Aaronson|16|9|0|5
+55|On Testing Convexity and Submodularity.|Michal Parnas,Dana Ron,Ronitt Rubinfeld|21|10|0|3
+56|Lower Bounds for Matrix Product.|Amir Shpilka|26|12|0|3
+57|Searching for Sorted Sequences of Kings in Tournaments.|Jian Shen,Li Sheng,Jie Wu|7|2|0|0
+58|An Optimal Algorithm for Checking Regularity.|Yoshiharu Kohayakawa,Vojtech Rödl,Lubos Thoma|46|23|0|4
+59|Dimension in Complexity Classes.|Jack H. Lutz|155|38|0|31
+60|The Natural Work-Stealing Algorithm is Stable.|Petra Berenbrink,Tom Friedetzky,Leslie Ann Goldberg|86|43|0|2
+61|The Algebraic Approach to the Discrete Cosine and Sine Transforms and Their Fast Algorithms.|Markus Püschel,José M. F. Moura|76|25|0|15
+62|Approximation Schemes for Minimum Latency Problems.|Sanjeev Arora,George Karakostas|44|16|0|5
+63|Reachability and Distance Queries via 2-Hop Labels.|Edith Cohen,Eran Halperin,Haim Kaplan,Uri Zwick|375|262|3|1
+64|On the Complexity of Matrix Product.|Ran Raz|73|39|1|2
+65|Minimizing Total Completion Time on Parallel Machines with Deadline Constraints.|Joseph Y.-T. Leung,Michael Pinedo|17|11|0|3
+66|Kolmogorov Complexity and Deterministic Context-Free Languages.|Oliver Glier|1|1|0|0
+67|Finding a Path of Superlogarithmic Length.|Andreas Björklund,Thore Husfeldt|45|17|0|2
+68|Better Algorithms for Unfair Metrical Task Systems and Applications.|Amos Fiat,Manor Mendel|52|19|1|10
+69|Matrix Rounding under the Lp-Discrepancy Measure and Its Application to Digital Halftoning.|Tetsuo Asano,Naoki Katoh,Koji Obokata,Takeshi Tokuyama|0|0|0|0
+70|Finding Points on Curves over Finite Fields.|Joachim von zur Gathen,Igor Shparlinski,Alistair Sinclair|12|2|0|6
+71|On Frictional Mechanical Systems and Their Computational Power.|John H. Reif,Zheng Sun|13|2|0|4
+72|Computing Elementary Symmetric Polynomials with a Subpolynomial Number of Multiplications.|Vince Grolmusz|18|3|2|11
+73|Optimal External Memory Interval Management.|Lars Arge,Jeffrey Scott Vitter|113|66|0|20
+74|Covering Rectilinear Polygons with Axis-Parallel Rectangles.|V. S. Anil Kumar,H. Ramesh|31|10|0|1
+75|On the Autoreducibility of Random Sequences.|Todd Ebert,Wolfgang Merkle,Heribert Vollmer|n/a
+76|The Quantum Communication Complexity of Sampling.|Andris Ambainis,Leonard J. Schulman,Amnon Ta-Shma,Umesh V. Vazirani,Avi Wigderson|93|19|0|3
+77|The Expected Number of 3D Visibility Events Is Linear.|Olivier Devillers,Vida Dujmovic,Hazel Everett,Xavier Goaoc,Sylvain Lazard,Hyeon-Suk Na,Sylvain Petitjean|26|2|0|9
+78|Pseudotriangulations from Surfaces and a Novel Type of Edge Flip.|Oswin Aichholzer,Franz Aurenhammer,Hannes Krasser,Peter Braß|56|12|0|25
+79|A Subquadratic Sequence Alignment Algorithm for Unrestricted Scoring Matrices.|Maxime Crochemore,Gad M. Landau,Michal Ziv-Ukelson|167|60|0|28

@@ -1,0 +1,60 @@
+59
+1|34th Annual Meeting of the Association for Computational Linguistics, 24-27 June 1996, University of California, Santa Cruz, California, USA, Proceedings.|Aravind K. Joshi,Martha Palmer|n/a
+2|Higher-Order Coloured Unification and Natural Language Semantics.|Claire Gardent,Michael Kohlhase|41|7|0|17
+3|A Model-Theoretic Framework for Theories of Syntax.|James Rogers|32|7|0|5
+4|Noun-Phrase Analysis in Unrestricted Text for Information Retrieval.|David A. Evans,ChengXiang Zhai|173|33|1|2
+5|Morphological Cues for Lexical Semantics.|Marc Light|43|9|0|0
+6|From Submit to Submitted via Submission: On Lexical Rules in Large-Scale Lexicon Acquisition.|Evelyne Viegas,Boyan A. Onyshkevych,Victor Raskin,Sergei Nirenburg|33|3|0|9
+7|Integrating Multiple Knowledge Sources to Disambiguate Word Sense: An Exemplar-Based Approach.|Hwee Tou Ng,Hian Beng Lee|560|134|1|15
+8|Eye Movements and Spoken Language Comprehension.|Michael K. Tanenhaus,Julie C. Sedivy,Michael J. Spivey-Knowlton,Paul D. Allopenna,Kathleen M. Eberhard,James S. Magnuson|n/a
+9|A Fully Statistical Approach to Natural Language Interfaces.|Scott Miller,David Stallard,Robert J. Bobrow,Richard M. Schwartz|131|37|3|3
+10|A Robust System for Natural Spoken Dialogue.|James F. Allen,Bradford W. Miller,Eric K. Ringger,Teresa Sikorski|284|51|18|11
+11|Combining Trigram-based and Feature-based Methods for Context-Sensitive Spelling Correction.|Andrew R. Golding,Yves Schabes|156|50|1|2
+12|Efficient Normal-Form Parsing for Combinatory Categorial Grammar.|Jason Eisner|85|34|0|2
+13|Another Facet of LIG Parsing.|Pierre Boullier|n/a
+14|Parsing for Semidirectional Lambek Grammar is NP-Complete.|Jochen Dörre|3|0|0|0
+15|Computing Optimal Descriptions for Optimality Theory Grammars with Context-Free Position Structures.|Bruce Tesar|23|3|0|3
+16|Directed Replacement.|Lauri Karttunen|95|7|5|16
+17|Synchronous Models of Language.|Owen Rambow,Giorgio Satta|34|5|0|6
+18|Coordination as a Direct Process.|Augusta Mela,Christophe Fouqueré|8|1|0|1
+19|High-Performance Bilingual Text Alignment Using Statistical and Dictionary Information.|Masahiko Haruno,Takefumi Yamazaki|81|20|0|3
+20|An Iterative Algorithm to Build Chinese Language Models.|Xiaoqiang Luo,Salim Roukos|19|3|0|3
+21|Pattern-Based Context-Free Grammars for Machine Translation.|Koichi Takeda|42|4|2|2
+22|A Polynomial-Time Algorithm for Statistical Machine Translation.|Dekai Wu|155|51|0|10
+23|SEMHE: A Generalised Two-Level System.|George Anton Kiraz|21|1|1|4
+24|Head Automata and Bilingual Tiling: Translation with Minimal Representations.|Hiyan Alshawi|80|21|1|8
+25|Parsing Algorithms and Metrics.|Joshua Goodman|157|57|0|7
+26|A New Statistical Parser Based on Bigram Lexical Dependencies.|Michael Collins|797|145|8|0
+27|Two Sources of Control over the Generation of Software Instructions.|Anthony Hartley,Cécile Paris|17|0|0|3
+28|Chart Generation.|Martin Kay|150|37|9|0
+29|Evaluating the Portability of Revision Rules for Incremental Summary Generation.|Jacques Robin|13|8|7|2
+30|Compilation of Weighted Finite-State Transducers from Decision Trees.|Richard Sproat,Michael Riley|66|43|66|1
+31|Fast Parsing Using Pruning and Grammar Specialization.|Manny Rayner,David M. Carter|41|3|0|3
+32|An Efficient Compiler for Weighted Rewrite Rules.|Mehryar Mohri,Richard Sproat|149|23|1|34
+33|Efficient Tabular LR Parsing.|Mark-Jan Nederhof,Giorgio Satta|20|1|0|7
+34|Magic for Filter Optimization in Dynamic Bottom-up Processing.|Guido Minnen|7|2|0|3
+35|Efficient Transformation-Based Parsing.|Giorgio Satta,Eric Brill|18|0|2|0
+36|Resolving Anaphors in Embedded Sentences.|Saliha Azzam|17|3|0|4
+37|Functional Centering.|Michael Strube,Udo Hahn|n/a
+38|Mechanisms for Mixed-Initiative Human-Computer Collaborative Discourse.|Curry I. Guinn|41|5|2|1
+39|A Prosodic Analysis of Discourse Segments in Direction-Giving Monologues.|Julia Hirschberg,Christine H. Nakatani|201|43|0|26
+40|An Information Structural Approach to Spoken Language Generation.|Scott Prevost|49|5|1|3
+41|The Rhythm of Lexical Stress in Prose.|Doug Beeferman|3|1|0|0
+42|An Empirical Study of Smoothing Techniques for Language Modeling.|Stanley F. Chen,Joshua Goodman|1896|962|22|13
+43|Minimizing Manual Annotation Cost in Supervised Training from Corpora.|Sean P. Engelson,Ido Dagan|87|23|1|0
+44|Unsupervised Learning of Word-Category Guessing Rules.|Andrei Mikheev|37|1|0|3
+45|Linguistic Structure as Composition and Perturbation.|Carl de Marcken|30|16|0|1
+46|Generating an LTAG out of a Principle-based Hierarchical Representation.|Marie-Hélène Candito|1|0|0|1
+47|Using Parsed Corpora for Structural Disambiguation in the TRAINS Domain.|Mark G. Core|0|0|0|0
+48|Subdeletion in Verb Phrase Ellipsis.|Paul G. Donecker|0|0|0|0
+49|Using Textual Clues to Improve Metaphor Processing.|Stéphane Ferrari|6|1|0|1
+50|On Reversing the Generation Process in Optimality Theory.|J. Eric Fosler|7|2|0|0
+51|A Synopsis of Learning to Recognize Names Across Languages.|Anthony F. Gallippi|3|2|0|0
+52|An Application of WordNet to Prepositional Attachment.|Sanda M. Harabagiu|18|5|0|4
+53|Towards Testing the Syntax of Punctuation.|Bernard E. M. Jones|12|6|0|0
+54|Using Terminological Knowledge Representation Languages to Manage Linguistic Resources.|Pamela W. Jordan|0|0|0|0
+55|Transitivity and Foregrounding in News Articles: Experiments in Information Retrieval and Automatic Summarising.|Roderick Kay,Ruth Aylett|0|0|0|0
+56|The Selection of the Most Probable Dependency Structure in Japanese Using Mutual Information.|Eduardo de Paiva Alves|11|0|0|3
+57|Incremental Parser Generation for Tree Adjoining Grammars.|Anoop Sarkar|6|0|0|1
+58|Processing Complex Sentences in the Centering Framework.|Michael Strube|10|0|0|3
+59|Maximizing Top-down Constraints for Unification-based Systems.|Noriko Tomuro|0|0|0|0

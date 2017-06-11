@@ -1,0 +1,66 @@
+65
+1|45th Symposium on Foundations of Computer Science (FOCS 2004), 17-19 October 2004, Rome, Italy, Proceedings.|n/a
+2|Quantum Weak Coin-Flipping with Bias of 0.192.|Carlos Mochon|32|14|0|3
+3|Quantum and Classical Strong Direct Product Theorems and Optimal Time-Space Tradeoffs.|Hartmut Klauck,Robert Spalek,Ronald de Wolf|84|46|0|20
+4|Quantum Walk Algorithm for Element Distinctness.|Andris Ambainis|463|275|0|35
+5|Quantum Speed-Up of Markov Chain Based Algorithms.|Mario Szegedy|238|165|0|2
+6|Adiabatic Quantum Computation is Equivalent to Standard Quantum Computation.|Dorit Aharonov,Wim van Dam,Julia Kempe,Zeph Landau,Seth Lloyd,Oded Regev|473|281|0|17
+7|Maximizing Quadratic Programs: Extending Grothendieck's Inequality.|Moses Charikar,Anthony Wirth|137|85|0|5
+8|An Approximate Max-Steiner-Tree-Packing Min-Steiner-Cut Theorem.|Lap Chi Lau|67|32|0|8
+9|Edge-Disjoint Paths in Planar Graphs.|Chandra Chekuri,Sanjeev Khanna,F. Bruce Shepherd|94|13|2|6
+10|Machine Minimization for Scheduling Jobs with Interval Constraints.|Julia Chuzhoy,Sudipto Guha,Sanjeev Khanna,Joseph Naor|28|17|0|4
+11|Random Edge Can Be Exponential on Abstract Cubes.|Jirí Matousek,Tibor Szabó|26|15|0|0
+12|On the Integrality Ratio for Asymmetric TSP.|Moses Charikar,Michel X. Goemans,Howard J. Karloff|13|8|0|0
+13|The Hardness of Metric Labeling.|Julia Chuzhoy,Joseph Naor|19|7|0|4
+14|Hardness of Buy-at-Bulk Network Design.|Matthew Andrews|82|37|0|13
+15|Hardness of Approximating the Shortest Vector Problem in Lattices.|Subhash Khot|152|88|0|5
+16|Ruling Out PTAS for Graph Min-Bisection, Densest Subgraph and Bipartite Clique.|Subhash Khot|235|152|0|2
+17|Optimal Inapproximability Results for Max-Cut and Other 2-Variable CSPs?|Subhash Khot,Guy Kindler,Elchanan Mossel,Ryan O'Donnell|410|275|0|63
+18|Assignment Testers: Towards a Combinatorial Proof of the PCP-Theorem.|Irit Dinur,Omer Reingold|59|49|0|9
+19|Cryptography in NC0.|Benny Applebaum,Yuval Ishai,Eyal Kushilevitz|152|102|0|24
+20|An Unconditional Study of Computational Zero Knowledge.|Salil P. Vadhan|54|20|0|2
+21|Universally Composable Protocols with Relaxed Set-Up Assumptions.|Boaz Barak,Ran Canetti,Jesper Buus Nielsen,Rafael Pass|176|107|0|19
+22|On the (Im)possibility of Cryptography with Imperfect Randomness.|Yevgeniy Dodis,Shien Jin Ong,Manoj Prabhakaran,Amit Sahai|60|40|0|7
+23|Approximating the Stochastic Knapsack Problem: The Benefit of Adaptivity.|Brian C. Dean,Michel X. Goemans,Jan Vondrák|148|77|0|6
+24|An Edge in Time Saves Nine: LP Rounding Approximation Algorithms for Stochastic Network Design.|Anupam Gupta,R. Ravi,Amitabh Sinha|55|17|0|11
+25|Stochastic Optimization is (Almost) as easy as Deterministic Optimization.|David B. Shmoys,Chaitanya Swamy|105|39|0|16
+26|0(sqrt (log n)) Approximation to SPARSEST CUT in Õ(n2) Time.|Sanjeev Arora,Elad Hazan,Satyen Kale|n/a
+27|Maximum Matchings via Gaussian Elimination.|Marcin Mucha,Piotr Sankowski|219|152|0|12
+28|Exponentially Many Steps for Finding a Nash Equilibrium in a Bimatrix Game.|Rahul Savani,Bernhard von Stengel|116|33|0|6
+29|Edge Pricing of Multicommodity Networks for Heterogeneous Selfish Users.|George Karakostas,Stavros G. Kolliopoulos|97|49|0|6
+30|Tolls for Heterogeneous Selfish Users in Multicommodity Networks and Generalized Congestion Games.|Lisa Fleischer,Kamal Jain,Mohammad Mahdian|149|76|0|4
+31|A Polynomial Time Algorithm for Computing the Arrow-Debreu Market Equilibrium for Linear Utilities.|Kamal Jain|135|60|2|6
+32|The Price of Stability for Network Design with Fair Cost Allocation.|Elliot Anshelevich,Anirban Dasgupta,Jon M. Kleinberg,Éva Tardos,Tom Wexler,Tim Roughgarden|647|393|0|16
+33|Holographic Algorithms (Extended Abstract).|Leslie G. Valiant|n/a
+34|Hierarchy Theorems for Probabilistic Polynomial Time.|Lance Fortnow,Rahul Santhanam|47|22|0|8
+35|Private Codes or Succinct Random Codes That Are (Almost) Perfect.|Michael Langberg|53|24|0|5
+36|On the List and Bounded Distance Decodibility of the Reed-Solomon Codes (Extended Abstract).|Qi Cheng,Daqing Wan|n/a
+37|Multilinear-NC neq Multilinear-NC.|Ran Raz|n/a
+38|Algebras with Polynomial Identities and Computing the Determinant.|Steve Chien,Alistair Sinclair|22|16|0|1
+39|Lattice Problems in NP cap coNP.|Dorit Aharonov,Oded Regev|n/a
+40|Worst-Case to Average-Case Reductions Based on Gaussian Measures.|Daniele Micciancio,Oded Regev|416|341|0|32
+41|Extracting Randomness Using Few Independent Sources.|Boaz Barak,Russell Impagliazzo,Avi Wigderson|167|96|0|14
+42|Deterministic Extractors for Bit-Fixing Sources by Obtaining an Independent Seed.|Ariel Gabizon,Ran Raz,Ronen Shaltiel|85|49|0|20
+43|Constructing Expander Graphs by 2-Lifts and Discrepancy vs. Spectral Gap.|Yonatan Bilu,Nathan Linial|14|7|0|1
+44|Testing Polynomials over General Fields.|Tali Kaufman,Dana Ron|82|48|0|18
+45|Testing Low-Degree Polynomials over Prime Fields.|Charanjit S. Jutla,Anindya C. Patthak,Atri Rudra,David Zuckerman|51|25|0|3
+46|Measured Descent: A New Embedding Method for Finite Metrics.|Robert Krauthgamer,James R. Lee,Manor Mendel,Assaf Naor|134|46|0|34
+47|Triangulation and Embedding Using Small Sets of Beacons.|Jon M. Kleinberg,Aleksandrs Slivkins,Tom Wexler|124|46|0|14
+48|A Simple Linear Time (1+έ)-Approximation Algorithm for k-Means Clustering in Any Dimensions.|Amit Kumar,Yogish Sabharwal,Sandeep Sen|170|92|0|5
+49|On the Power of Discrete and of Lexicographic Helly-Type Theorems.|Nir Halman|10|1|0|4
+50|An Optimal Randomised Cell Probe Lower Bound for Approximate Nearest Neighbour Searching.|Amit Chakrabarti,Oded Regev|58|15|0|7
+51|Dynamic Optimality - Almost.|Erik D. Demaine,Dion Harmon,John Iacono,Mihai Patrascu|58|27|0|3
+52|No Sorting? Better Searching!|Gianni Franceschini,Roberto Grossi|4|3|0|1
+53|Dynamic Approximate All-Pairs Shortest Paths in Undirected Graphs.|Liam Roditty,Uri Zwick|45|27|0|6
+54|Dynamic Transitive Closure via Dynamic Matrix Inverse (Extended Abstract).|Piotr Sankowski|61|29|0|10
+55|Dynamic Speed Scaling to Manage Energy and Temperature.|Nikhil Bansal,Tracy Kimbrel,Kirk Pruhs|174|93|0|8
+56|Optimal Power-Down Strategies.|John Augustine,Sandy Irani,Chaitanya Swamy|66|37|0|2
+57|On the Streaming Model Augmented with a Sorting Primitive.|Gagan Aggarwal,Mayur Datar,Sridhar Rajagopalan,Matthias Ruhl|94|42|0|0
+58|Approximating Edit Distance Efficiently.|Ziv Bar-Yossef,T. S. Jayram,Robert Krauthgamer,Ravi Kumar|74|34|0|1
+59|trong Spatial Mixing for Lattice Graphs with Fewer Colours.|Leslie Ann Goldberg,Russell A. Martin,Mike Paterson|19|5|0|0
+60|Shuffling by Semi-Random Transpositions.|Elchanan Mossel,Yuval Peres,Alistair Sinclair|23|15|0|2
+61|Randomly Coloring Constant Degree Graphs.|Martin E. Dyer,Alan M. Frieze,Thomas P. Hayes,Eric Vigoda|38|15|0|6
+62|The Exact Satisfiability Threshold for a Potentially Intractible Random Constraint Satisfaction Problem.|Harold S. Connamacher,Michael Molloy|23|12|0|9
+63|Spectral Analysis of Random Graphs with Skewed Degree Distributions.|Anirban Dasgupta,John E. Hopcroft,Frank McSherry|36|15|0|6
+64|Learning with Errors in Answers to Membership Queries.|Laurence Bisht,Nader H. Bshouty,Lawrance Khoury|5|5|0|1
+65|Learnability and Automatizability.|Michael Alekhnovich,Mark Braverman,Vitaly Feldman,Adam R. Klivans,Toniann Pitassi|45|12|0|1

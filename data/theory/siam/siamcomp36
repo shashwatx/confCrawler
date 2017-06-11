@@ -1,0 +1,76 @@
+75
+1|Scheduling Split Intervals.|Reuven Bar-Yehuda,Magnús M. Halldórsson,Joseph Naor,Hadas Shachnai,Irina Shapira|83|27|0|10
+2|A Simple Algorithm for Mal'tsev Constraints.|Andrei A. Bulatov,Víctor Dalmau|100|63|0|6
+3|Identifying Clusters from Positive Data.|John Case,Sanjay Jain,Eric Martin,Arun Sharma,Frank Stephan|1|0|0|1
+4|Fault-Tolerant Gathering Algorithms for Autonomous Mobile Robots.|Noa Agmon,David Peleg|171|104|0|13
+5|Disproving the Single Level Conjecture.|Stasys Jukna|10|5|0|5
+6|Reconstructing Chromosomal Evolution.|Li-San Wang,Tandy Warnow|1|0|0|0
+7|Fast Monte Carlo Algorithms for Matrices I: Approximating Matrix Multiplication.|Petros Drineas,Ravi Kannan,Michael W. Mahoney|236|151|2|43
+8|Fast Monte Carlo Algorithms for Matrices II: Computing a Low-Rank Approximation to a Matrix.|Petros Drineas,Ravi Kannan,Michael W. Mahoney|307|217|0|29
+9|Fast Monte Carlo Algorithms for Matrices III: Computing a Compressed Approximate Matrix Decomposition.|Petros Drineas,Ravi Kannan,Michael W. Mahoney|183|116|1|31
+10|A Complete Classification of the Complexity of Propositional Abduction.|Nadia Creignou,Bruno Zanuttini|40|24|0|12
+11|Full Constraint Satisfaction Problems.|Tomás Feder,Pavol Hell|42|21|0|15
+12|Rapidly Mixing Markov Chains for Sampling Contingency Tables with a Constant Number of Rows.|Mary Cryan,Martin E. Dyer,Leslie Ann Goldberg,Mark Jerrum,Russell A. Martin|39|15|0|8
+13|Erratum: Distributed Anonymous Mobile Robots: Formation of Geometric Patterns.|Ichiro Suzuki,Masafumi Yamashita|557|238|1|30
+14|Dominating Sets in Planar Graphs: Branch-Width and Exponential Speed-Up.|Fedor V. Fomin,Dimitrios M. Thilikos|176|66|0|42
+15|Between O(nm) and O(nalpha).|Dieter Kratsch,Jeremy P. Spinrad|n/a
+16|Certifying Algorithms for Recognizing Interval Graphs and Permutation Graphs.|Dieter Kratsch,Ross M. McConnell,Kurt Mehlhorn,Jeremy P. Spinrad|117|60|1|16
+17|Lower Bounds for On-line Graph Problems with Application to On-line Circuit and Optical Routing.|Yair Bartal,Amos Fiat,Stefano Leonardi|89|11|0|17
+18|Efficient Bundle Sorting.|Yossi Matias,Eran Segal,Jeffrey Scott Vitter|35|17|35|0
+19|Approximation Algorithms for Metric Facility Location Problems.|Mohammad Mahdian,Yinyu Ye,Jiawei Zhang|170|128|0|7
+20|An Unconditional Lower Bound on the Time-Approximation Trade-off for the Distributed Minimum Spanning Tree Problem.|Michael Elkin|82|43|0|7
+21|Toward a Topological Characterization of Asynchronous Complexity.|Gunnar Hoest,Nir Shavit|28|8|0|1
+22|Covering Problems with Hard Capacities.|Julia Chuzhoy,Joseph Naor|44|28|0|1
+23|Properties of NP-Complete Sets.|Christian Glaßer,Aduri Pavan,Alan L. Selman,Samik Sengupta|15|2|0|13
+24|The Directed Steiner Network Problem is Tractable for a Constant Number of Terminals.|Jon Feldman,Matthias Ruhl|33|8|0|1
+25|Time-Space Lower Bounds for the Polynomial-Time Hierarchy on Randomized Machines.|Scott Diehl,Dieter van Melkebeek|16|6|0|6
+26|Infinitely-Often Autoreducible Sets.|Richard Beigel,Lance Fortnow,Frank Stephan|14|3|0|0
+27|An Extension of the Lovász Local Lemma, and its Applications to Integer Programming.|Aravind Srinivasan|68|22|0|12
+28|Approximating Longest Cycles in Graphs with Bounded Degrees.|Guantao Chen,Zhicheng Gao,Xingxing Yu,Wenan Zang|8|5|0|0
+29|Fairness Measures for Resource Allocation.|Amit Kumar,Jon M. Kleinberg|65|23|0|2
+30|Dynamic Subgraph Connectivity with Geometric Applications.|Timothy M. Chan|15|10|0|3
+31|On the Number of Crossing-Free Matchings, Cycles, and Partitions.|Micha Sharir,Emo Welzl|76|42|0|9
+32|Counting and Enumerating Pointed Pseudotriangulations with the Greedy Flip Algorithm.|Hervé Brönnimann,Lutz Kettner,Michel Pocchiola,Jack Snoeyink|52|17|0|6
+33|Random k-SAT: Two Moments Suffice to Cross a Sharp Threshold.|Dimitris Achlioptas,Cristopher Moore|106|71|0|13
+34|Quantum Algorithms for Some Hidden Shift Problems.|Wim van Dam,Sean Hallgren,Lawrence Ip|117|50|5|7
+35|Testing Polynomials over General Fields.|Tali Kaufman,Dana Ron|82|48|0|18
+36|Exponential Determinization for omega-Automata with a Strong Fairness Acceptance Condition.|Shmuel Safra|3|3|0|0
+37|Computing Maximally Separated Sets in the Plane.|Pankaj K. Agarwal,Mark H. Overmars,Micha Sharir|4|3|0|0
+38|A Probabilistic Approach to the Dichotomy Problem.|Tomasz Luczak,Jaroslav Nesetril|17|3|0|1
+39|Special Issue on Randomness and Complexity.|Oded Goldreich,Madhu Sudan|0|0|0|0
+40|Cryptography in NC0.|Benny Applebaum,Yuval Ishai,Eyal Kushilevitz|152|102|0|24
+41|Robust PCPs of Proximity, Shorter PCPs, and Applications to Coding.|Eli Ben-Sasson,Oded Goldreich,Prahladh Harsha,Madhu Sudan,Salil P. Vadhan|178|97|0|52
+42|Assignment Testers: Towards a Combinatorial Proof of the PCP Theorem.|Irit Dinur,Omer Reingold|59|49|0|9
+43|Ruling Out PTAS for Graph Min-Bisection, Dense k-Subgraph, and Bipartite Clique.|Subhash Khot|235|152|0|2
+44|Deterministic Extractors for Bit-Fixing Sources by Obtaining an Independent Seed.|Ariel Gabizon,Ran Raz,Ronen Shaltiel|85|49|0|20
+45|Extracting Randomness Using Few Independent Sources.|Boaz Barak,Russell Impagliazzo,Avi Wigderson|167|96|0|14
+46|On Worst-Case to Average-Case Reductions for NP Problems.|Andrej Bogdanov,Luca Trevisan|107|42|0|10
+47|An Unconditional Study of Computational Zero Knowledge.|Salil P. Vadhan|54|20|0|2
+48|Derandomizing Homomorphism Testing in General Groups.|Amir Shpilka,Avi Wigderson|30|12|0|4
+49|Deterministic Extractors for Bit-Fixing Sources and Exposure-Resilient Cryptography.|Jesse Kamp,David Zuckerman|134|85|0|5
+50|Linear Upper Bounds for Random Walk on Small Density Random 3-CNFs.|Mikhail Alekhnovich,Eli Ben-Sasson|44|19|0|3
+51|The Complexity of Computing the Size of an Interval.|Lane A. Hemaspaandra,Christopher M. Homan,Sven Kosub,Klaus W. Wagner|8|1|0|3
+52|Chosen-Ciphertext Security from Identity-Based Encryption.|Dan Boneh,Ran Canetti,Shai Halevi,Jonathan Katz|701|414|9|12
+53|A Deterministic Algorithm for Finding All Minimum k-Way Cuts.|Yoko Kamidoi,Noriyoshi Yoshida,Hiroshi Nagamochi|20|15|0|2
+54|Online Conflict-Free Coloring for Intervals.|Ke Chen,Amos Fiat,Haim Kaplan,Meital Levy,Jirí Matousek,Elchanan Mossel,János Pach,Micha Sharir,Shakhar Smorodinsky,Uli Wagner,Emo Welzl|64|39|0|3
+55|Improved Combinatorial Group Testing Algorithms for Real-World Problem Sizes.|David Eppstein,Michael T. Goodrich,Daniel S. Hirschberg|40|33|0|3
+56|The Hardness of Metric Labeling.|Julia Chuzhoy,Joseph Naor|19|7|0|4
+57|Pseudorandom Bits for Constant-Depth Circuits with Few Arbitrary Symmetric Gates.|Emanuele Viola|48|28|0|19
+58|Locally Decodable Codes with Two Queries and Polynomial Identity Testing for Depth 3 Circuits.|Zeev Dvir,Amir Shpilka|110|79|0|23
+59|The Probabilistic Relationship Between the Assignment and Asymmetric Traveling Salesman Problems.|Alan M. Frieze,Gregory B. Sorkin|25|1|0|1
+60|The Wake-Up Problem in MultiHop Radio Networks.|Marek Chrobak,Leszek Gasieniec,Dariusz R. Kowalski|72|29|0|25
+61|Quantum and Classical Strong Direct Product Theorems and Optimal Time-Space Tradeoffs.|Hartmut Klauck,Robert Spalek,Ronald de Wolf|84|46|0|20
+62|Integrality Ratio for Group Steiner Trees and Directed Steiner Trees.|Eran Halperin,Guy Kortsarz,Robert Krauthgamer,Aravind Srinivasan,Nan Wang|37|15|0|6
+63|Zaps and Their Applications.|Cynthia Dwork,Moni Naor|127|40|0|10
+64|Complexity of Self-Assembled Shapes.|David Soloveichik,Erik Winfree|148|109|0|10
+65|First-Order Languages Expressing Constructible Spatial Database Queries.|Bart Kuijpers,Gabriel M. Kuper,Jan Paredaens,Luc Vandeurzen|3|1|0|0
+66|Quickest Flows Over Time.|Lisa Fleischer,Martin Skutella|113|80|0|25
+67|A Constant-Factor Approximation Algorithm for Optimal 1.5D Terrain Guarding.|Boaz Ben-Moshe,Matthew J. Katz,Joseph S. B. Mitchell|72|50|0|8
+68|Finding Paths and Cycles of Superpolylogarithmic Length.|Harold N. Gabow|44|17|0|2
+69|An Optimal Cache-Oblivious Priority Queue and Its Application to Graph Algorithms.|Lars Arge,Michael A. Bender,Erik D. Demaine,Bryan Holland-Minkley,J. Ian Munro|24|14|0|2
+70|Online Learning and Resource-Bounded Dimension: Winnow Yields New Lower Bounds for Hard Sets.|John M. Hitchcock|16|10|0|8
+71|Online Scheduling of Equal-Length Jobs: Randomization and Restarts Help.|Marek Chrobak,Wojciech Jawor,Jirí Sgall,Tomás Tichý|27|16|0|2
+72|Physical Limits of Heat-Bath Algorithmic Cooling.|Leonard J. Schulman,Tal Mor,Yossi Weinstein|67|36|0|13
+73|Whole Genome Duplications and Contracted Breakpoint Graphs.|Max A. Alekseyev,Pavel A. Pevzner|24|9|0|1
+74|Approximating the Radii of Point Sets.|Kasturi R. Varadarajan,Srinivasan Venkatesh,Yinyu Ye,Jiawei Zhang|n/a
+75|Linear Recurrences with Polynomial Coefficients and Application to Integer Factorization and Cartier-Manin Operator.|Alin Bostan,Pierrick Gaudry,Éric Schost|n/a

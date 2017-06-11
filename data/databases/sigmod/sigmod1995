@@ -1,0 +1,87 @@
+86
+1|Proceedings of the 1995 ACM SIGMOD International Conference on Management of Data, San Jose, California, May 22-25, 1995.|Michael J. Carey,Donovan A. Schneider|n/a
+2|A Critique of ANSI SQL Isolation Levels.|Hal Berenson,Philip A. Bernstein,Jim Gray,Jim Melton,Elizabeth J. O'Neil,Patrick E. O'Neil|870|473|38|5
+3|Recovery Protocols for Shared Memory Database Systems.|Lory D. Molesky,Krithi Ramamritham|8|2|0|4
+4|Efficient Optimistic Concurrency Control Using Loosely Synchronized Clocks.|Atul Adya,Robert Gruber,Barbara Liskov,Umesh Maheshwari|205|48|8|21
+5|The LyriC Language: Querying Constraint Objects.|Alexander Brodsky,Yoram Kornatzky|71|4|0|10
+6|Towards an Effective Calculus for Object Query Languages.|Leonidas Fegaras,David Maier|150|17|5|13
+7|OFL: A Functional Execution Model for Object Query Languages.|Georges Gardarin,Fernando Machuca,Philippe Pucheral|15|3|0|3
+8|Nearest Neighbor Queries.|Nick Roussopoulos,Stephen Kelley,Frédéic Vincent|1705|604|19|1
+9|A General Solution of the n-dimensional B-tree Problem.|Michael Freeston|124|23|3|6
+10|Topological Relations in the World of Minimum Bounding Rectangles: A Study with R-trees.|Dimitris Papadias,Yannis Theodoridis,Timos K. Sellis,Max J. Egenhofer|298|56|1|38
+11|Adaptive Parallel Aggregation Algorithms.|Ambuj Shatdal,Jeffrey F. Naughton|151|54|9|6
+12|Parallel Evaluation of Multi-Join Queries.|Annita N. Wilschut,Jan Flokstra,Peter M. G. Apers|121|13|0|1
+13|The Merge/Purge Problem for Large Databases.|Mauricio A. Hernández,Salvatore J. Stolfo|941|413|45|1
+14|OODB Indexing by Class-Division.|Sridhar Ramaswamy,Paris C. Kanellakis|61|2|2|0
+15|The Handwritten Trie: Indexing Electronic Ink.|Walid G. Aref,Daniel Barbará,Padmavathi Vallabhaneni|30|1|8|1
+16|FastMap: A Fast Algorithm for Indexing, Data-Mining and Visualization of Traditional and Multimedia Datasets.|Christos Faloutsos,King-Ip Lin|1207|346|30|29
+17|An Effective Hash Based Algorithm for Mining Association Rules.|Jong Soo Park,Ming-Syan Chen,Philip S. Yu|2021|579|16|26
+18|Implementing Crash Recovery in QuickStore: A Performance Study.|Seth J. White,David J. DeWitt|29|1|2|0
+19|Broadcast Disks: Data Management for Asymmetric Communications Environments.|Swarup Acharya,Rafael Alonso,Michael J. Franklin,Stanley B. Zdonik|1250|269|11|24
+20|Adapting Materialized Views after Redefinitions.|Ashish Gupta,Inderpal Singh Mumick,Kenneth A. Ross|148|26|2|9
+21|Enhancing Database Correctness: a Statistical Approach.|Wen-Chi Hou,Zhongyang Zhang|16|3|5|1
+22|Balancing Histogram Optimality and Practicality for Query Result Size Estimation.|Yannis E. Ioannidis,Viswanath Poosala|323|55|12|11
+23|Applying Update Streams in a Soft Real-Time Database System.|Brad Adelberg,Hector Garcia-Molina,Ben Kao|165|46|0|9
+24|Semantic Assumptions and Query Evaluation in Temporal Databases.|Claudio Bettini,Xiaoyang Sean Wang,Elisa Bertino,Sushil Jajodia|23|1|0|8
+25|Temporal Conditions and Integrity Constraints in Active Database Systems.|A. Prasad Sistla,Ouri Wolfson|96|9|2|5
+26|Dynamic Resource Brokering for Multi-User Query Execution.|Diane L. Davison,Goetz Graefe|41|13|3|2
+27|Reducing Multidatabase Query Response Time by Tree Balancing.|Weimin Du,Ming-Chien Shan,Umeshwar Dayal|66|9|0|1
+28|Hypergraph Based Reorderings of Outer Join Queries with Complex Predicates.|Gautam Bhargava,Piyush Goel,Balakrishna R. Iyer|87|40|16|11
+29|View Maintenance in a Warehousing Environment.|Yue Zhuge,Hector Garcia-Molina,Joachim Hammer,Jennifer Widom|695|114|11|35
+30|Incremental Maintenance of Views with Duplicates.|Timothy Griffin,Leonid Libkin|336|66|6|9
+31|Efficient Maintenance of Materialized Mediated Views.|James J. Lu,Guido Moerkotte,Joachim Schü,V. S. Subrahmanian|99|10|0|12
+32|The SPIFFI Scalable Video-on-Demand System.|Craig S. Freedman,David J. DeWitt|130|1|1|0
+33|Fault Tolerant Design of Multimedia Servers.|Steven Berson,Leana Golubchik,Richard R. Muntz|168|6|4|15
+34|An Online Video Placement Policy based on Bandwith to Space Ratio (BSR).|Asit Dan,Dinkar Sitaram|158|8|2|7
+35|A Database Interface for File Updates.|Serge Abiteboul,Sophie Cluet,Tova Milo|57|1|0|11
+36|Copy Detection Mechanisms for Digital Documents.|Sergey Brin,James Davis,Hector Garcia-Molina|678|309|83|11
+37|Join Queries with External Text Sources: Execution and Optimization Techniques.|Surajit Chaudhuri,Umeshwar Dayal,Tak W. Yan|52|5|0|1
+38|Object-Oriented, Rapid Application Development in a PC Database Environment.|n/a
+39|Upsizing from File Server to Clent Server Architectures.|The Access Team|n/a
+40|The Lotus Notes Storage System.|Kenneth Moore|17|3|2|1
+41|DIRECTV and Oracle Rdb: The Challenges of VLDB Transaction Processing.|William L. Gettys|1|0|1|0
+42|Enterprise Transaction Processing on Windows NT.|Greg Hope|2|0|0|0
+43|High Availability of Commercial Applications.|Kestutis Ivinskis|12|3|3|0
+44|The Data That You Won't Find in Databases: Tutorial panel on data exchange formats.|Peter Buneman,David Maier|3|1|0|0
+45|Parallel Database Systems 101.|Jim Gray|n/a
+46|Keynote Address.|Larry Ellison|n/a
+47|Keynote Address.|Robert S. Epstein|n/a
+48|Things Every Update Replication Customer Should Know.|Rob Golding|27|3|4|0
+49|VERSANT Replication: Supporting Fault-Tolerant Object Databases.|Yuh-Ming Shyy,H. Stephen Au-Yeung,C. P. Chou|3|0|0|0
+50|Carnot and InfoSleuth: Database Technology and the World Wide Web.|Darrell Woelk,William Bohrer,Nigel Jacobs,KayLiang Ong,Christine Tomlinson,C. Unnikrishnan|30|2|0|4
+51|Research and Products: Are They Relevant To Each Other? (Panel).|Herb Edelstein|0|0|0|0
+52|Data Extraction and Transformation for the Data Warehouse.|Cass Squire|35|12|15|0
+53|Real World Requirements for Decision Support - Implications for RDBMS.|Sanju K. Bansal|9|2|0|0
+54|``One Size Fits All'' Database Architectures Do Not Work for DDS.|Clark D. French|77|45|0|0
+55|Leveraging The Information Asset.|Janet Perna|1|0|0|0
+56|Cover Your Assets.|Michael A. Olson|0|0|0|0
+57|Use of a Component Architecture in Integrating Relational and Non-relational Storage Systems.|Robert G. Atkinson|2|0|0|0
+58|Enterprise Objects Framework, A Second Generation Object-Relational Enabler.|Charly Kleissner|22|5|13|0
+59|An Overview of DB2 Parallel Edition.|Chaitanya K. Baru,Gilles Fecteau,Ambuj Goyal,Hui-I Hsiao,Anant Jhingran,Sriram Padmanabhan,Walter G. Wilson|50|18|3|0
+60|Informix Online XPS.|Robert H. Gerber|19|1|1|0
+61|Order-of-Magnitude Advantage of TPC-C Though Massive Parallelism.|Charles Levine|n/a
+62|Objects and SQL: Strange Relations? Panel.|Donald R. Deutsch|n/a
+63|Indexing Multimedia Databases (Tutorial).|Christos Faloutsos|n/a
+64|An Overview of the Emerging Third-Generation SQL Standard (Tutorial).|Nelson Mendonça Mattos,Jim Melton|5|0|0|0
+65|Workflow Automation: Applications, Technology, and Research (Tutorial).|Amit P. Sheth|n/a
+66|Integration Approaches for CIM.|Moira C. Norrie|4|1|0|0
+67|Storage Technology: RAID and Beyond.|Garth A. Gibson|n/a
+68|DataMine - Interactive Rule Discovery System.|Tomasz Imielinski,Aashu Virmani|4|1|0|0
+69|The Algres Testbed of CHIMERA: An Active Object-Oriented Database System.|Stefano Ceri,Piero Fraternali,Stefano Paraboschi,Giuseppe Psaila|4|0|0|0
+70|The NAOS System.|Christine Collet,Thierry Coupaye|9|0|0|2
+71|The Query By Image Content (QBIC) System.|Jonathan Ashley,Myron Flickner,James L. Hafner,Denis Lee,Wayne Niblack,Dragutin Petkovic|106|29|4|0
+72|The REACH Active OODBMS.|Alejandro P. Buchmann,Alin Deutsch,Jürgen Zimmermann,M. Higa|33|6|0|4
+73|QBI: Query By Icons.|Antonio Massari,Stefano Pavani,Lorenzo Saladini,Panos K. Chrysanthis|n/a
+74|InfoHarness: A System for Search and Retrieval of Heterogeneous Information.|Leon A. Shklar,Amit P. Sheth,Vipul Kashyap,Satish Thatte|6|1|0|0
+75|Design and Implementation of Advanced Knowledge Processing in the KDMS KRISYS (Demonstration Description).|Joachim Thomas,Stefan Deßloch,Nelson Mendonça Mattos|2|0|0|0
+76|The SAMOS Active DBMS Prototype.|Stella Gatziu,Andreas Geppert,Klaus R. Dittrich|30|3|1|2
+77|Efendi: Federated Database System of Cadlab.|Elke Radeke,Ralf Böttger,Bernd Burkert,Yaron Engel,Gerd Kachel,Silvia Kolmschlag,Dietmar Nolte|14|0|0|1
+78|VisDB: A System for Visualizing Large Databases.|Daniel A. Keim,Hans-Peter Kriegel|37|3|0|8
+79|Information Translation, Mediation, and Mosaic-Based Browsing in the TSIMMIS System.|Joachim Hammer,Hector Garcia-Molina,Kelly Ireland,Yannis Papakonstantinou,Jeffrey D. Ullman,Jennifer Widom|117|8|0|8
+80|Semint: A System Prototype for Semantic Integration in Heterogeneous Databases.|Wen-Syan Li,Chris Clifton|17|7|0|6
+81|Paradise: A Database System for GIS Applications.|n/a
+82|SHORE: Combining the Best Features of OODBMS and File Systems.|n/a
+83|Pattern Matching and Pattern Discovery in Scientific, Program, and Document Databases.|Jason Tsong-Li Wang,Kaizhong Zhang,Dennis Shasha|12|0|0|2
+84|PTool: A Light Weight Persistent Object Manager.|Robert L. Grossman,David Hanley,Xiao Qin|6|0|0|3
+85|Using the CALANDA Time Series Management System.|Werner Dreyer,Angelika Kotz Dittrich,Duri Schmidt|13|1|0|2
+86|The ECRC Multi Database System.|Willem Jonker,Heribert Schütz|4|0|0|0

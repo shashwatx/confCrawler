@@ -1,0 +1,29 @@
+28
+1|10th International Conference on High-Performance Computer Architecture (HPCA-10 2004), 14-18 February 2004, Madrid, Spain.|n/a
+2|Exploiting Prediction to Reduce Power on Buses.|Victor Wen,Mark Whitney,Yatish Patel,John Kubiatowicz|13|2|0|0
+3|The Thrifty Barrier: Energy-Aware Synchronization in Shared-Memory Multiprocessors.|Jian Li,José F. Martínez,Michael C. Huang|137|93|33|4
+4|Program Counter Based Techniques for Dynamic Power Management.|Chris Gniady,Y. Charlie Hu,Yung-Hsiang Lu|70|19|0|9
+5|Wavelet Analysis for Microprocessor Design: Experiences with Wavelet-Based dI/dt Characterization.|Russ Joseph,Zhigang Hu,Margaret Martonosi|27|9|0|0
+6|Out-of-Order Commit Processors.|Adrián Cristal,Daniel Ortega,Josep Llosa,Mateo Valero|124|28|0|16
+7|Stream Register Files with Indexed Access.|Nuwan Jayasena,Mattan Erez,Jung Ho Ahn,William J. Dally|50|19|2|5
+8|Low-Complexity Distributed Issue Queue.|Jaume Abella,Antonio González|23|3|0|2
+9|Hardware Support for Prescient Instruction Prefetch.|Tor M. Aamodt,Paul Chow,Per Hammarlund,Hong Wang,John Paul Shen|30|12|6|8
+10|Data Cache Prefetching Using a Global History Buffer.|Kyle J. Nesbit,James E. Smith|256|164|6|3
+11|Processor Aware Anticipatory Prefetching in Loops.|Spiros Kalogeropulos,Mahadevan Rajagopalan,Vikram Rao,Yonghong Song,Partha Tirumalai|7|2|0|1
+12|Reducing Energy Consumption of Disk Storage Using Power-Aware Cache Management.|Qingbo Zhu,Francis M. David,Christo Frank Devaraj,Zhenmin Li,Yuanyuan Zhou,Pei Cao|246|117|6|4
+13|Improving Disk Throughput in Data-Intensive Servers.|Enrique V. Carrera,Ricardo Bianchini|22|9|0|2
+14|Synthesizing Representative I/O Workloads for TPC-H.|Jianyong Zhang,Anand Sivasubramaniam,Hubertus Franke,Natarajan Gautam,Yanyong Zhang,Shailabh Nagar|54|33|1|10
+15|Architectural Characterization of TCP/IP Packet Processing on the Pentium M Microprocessor.|Srihari Makineni,Ravi R. Iyer|52|19|6|9
+16|Signature Buffer: Bridging Performance Gap between Registers and Caches.|Lu Peng,Jih-Kwon Peir,Konrad Lai|5|1|0|1
+17|Organizing the Last Line of Defense before Hitting the Memory Wall for CMP.|Chun Liu,Anand Sivasubramaniam,Mahmut T. Kandemir|189|97|4|1
+18|Exploiting the Cache Capacity of a Single-Chip Multi-Core Processor with Execution Migration.|Pierre Michaud|40|26|1|0
+19|Understanding Scheduling Replay Schemes.|Ilhyun Kim,Mikko H. Lipasti|54|13|1|3
+20|Creating Converged Trace Schedules Using String Matching.|Satish Narayanasamy,Yuanfang Hu,Suleyman Sair,Brad Calder|1|0|0|0
+21|Reducing the Scheduling Critical Cycle Using Wakeup Prediction.|Todd E. Ehrhart,Sanjay J. Patel|23|0|0|0
+22|Exploring Wakeup-Free Instruction Scheduling.|Jie S. Hu,Narayanan Vijaykrishnan,Mary Jane Irwin|32|2|0|0
+23|A Low-Complexity, High-Performance Fetch Unit for Simultaneous Multithreading Processors.|Ayose Falcón,Alex Ramírez,Mateo Valero|21|3|0|3
+24|Reducing Branch Misprediction Penalty via Selective Branch Recovery.|Amit Gandhi,Haitham Akkary,Srikanth T. Srinivasan|44|13|0|0
+25|Perceptron-Based Branch Confidence Estimation.|Haitham Akkary,Srikanth T. Srinivasan,Rajendar Koltur,Yogesh Patil,Wael Refaai|24|10|2|1
+26|Accurate and Complexity-Effective Spatial Pattern Prediction.|Chi F. Chen,Se-Hyun Yang,Babak Falsafi,Andreas Moshovos|70|45|2|1
+27|Using Prime Numbers for Cache Indexing to Eliminate Conflict Misses.|Mazen Kharbutli,Keith Irwin,Yan Solihin,Jaejin Lee|99|47|7|1
+28|Link-Time Path-Sensitive Memory Redundancy Elimination.|Manel Fernández,Roger Espasa|4|1|0|1

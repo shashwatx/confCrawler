@@ -1,0 +1,41 @@
+40
+1|18th IEEE International Symposium on High Performance Computer Architecture, HPCA 2012, New Orleans, LA, USA, 25-29 February, 2012.|n/a
+2|MACAU: A Markov model for reliability evaluations of caches under Single-bit and Multi-bit Upsets.|Jinho Suh,Murali Annavaram,Michel Dubois|16|15|0|2
+3|Efficient scrub mechanisms for error-prone emerging memories.|Manu Awasthi,Manjunath Shevgoor,Kshitij Sudan,Bipin Rajendran,Rajeev Balasubramonian,Viji Srinivasan|38|36|0|0
+4|Booster: Reactive core acceleration for mitigating the effects of process variation and application imbalance in low-voltage chips.|Timothy N. Miller,Xiang Pan,Renji Thomas,Naser Sedaghati,Radu Teodorescu|34|34|0|2
+5|Staged Reads: Mitigating the impact of DRAM writes on DRAM reads.|Niladrish Chatterjee,Naveen Muralimanohar,Rajeev Balasubramonian,Al Davis,Norman P. Jouppi|29|26|0|4
+6|Balancing DRAM locality and parallelism in shared memory CMP systems.|Min Kyu Jeong,Doe Hyun Yoon,Dam Sunwoo,Mike Sullivan,Ikhwan Lee,Mattan Erez|73|69|0|0
+7|MORSE: Multi-objective reconfigurable self-optimizing memory scheduler.|Janani Mukundan,José F. Martínez|22|22|0|1
+8|The case for GPGPU spatial multitasking.|Jacob Adriaens,Katherine Compton,Nam Sung Kim,Michael J. Schulte|47|45|0|0
+9|TAP: A TLP-aware cache management policy for a CPU-GPU heterogeneous architecture.|Jaekyu Lee,Hyesoon Kim|70|70|1|5
+10|CPU-assisted GPGPU on fused CPU-GPU architectures.|Yi Yang,Ping Xiang,Mike Mantor,Huiyang Zhou|55|55|5|2
+11|Design, integration and implementation of the DySER hardware accelerator into OpenSPARC.|Jesse Benson,Ryan Cofell,Chris Frericks,Chen-Han Ho,Venkatraman Govindaraju,Tony Nowatzki,Karthikeyan Sankaralingam|20|18|0|1
+12|SCD: A scalable coherence directory with flexible sharer set encoding.|Daniel Sanchez,Christos Kozyrakis|64|61|0|3
+13|π-TM: Pessimistic invalidation for scalable lazy hardware transactional memory.|Anurag Negi,J. Rubén Titos Gil,Manuel E. Acacio,José M. García,Per Stenström|n/a
+14|BulkSMT: Designing SMT processors for atomic-block execution.|Xuehai Qian,Benjamin Sahelices,Josep Torrellas|8|8|0|4
+15|Supporting efficient collective communication in NoCs.|Sheng Ma,Natalie D. Enright Jerger,Zhiying Wang|15|15|0|3
+16|Quasi-nonvolatile SSD: Trading flash memory nonvolatility to improve storage system performance for enterprise applications.|Yangyang Pan,Guiqiang Dong,Qi Wu,Tong Zhang|26|25|1|0
+17|System-level implications of disaggregated memory.|Kevin T. Lim,Yoshio Turner,Jose Renato Santos,Alvin AuYoung,Jichuan Chang,Parthasarathy Ranganathan,Thomas F. Wenisch|26|22|0|0
+18|Improving write operations in MLC phase change memory.|Lei Jiang,Bo Zhao,Youtao Zhang,Jun Yang,Bruce R. Childers|81|79|0|9
+19|Adaptive Set-Granular Cooperative Caching.|Dyer Rolán,Basilio B. Fraguela,Ramon Doallo|10|10|0|2
+20|Cache restoration for highly partitioned virtualized systems.|David Daly,Harold W. Cain|9|9|1|1
+21|Decoupled dynamic cache segmentation.|Samira Manabi Khan,Zhe Wang,Daniel A. Jiménez|18|16|0|0
+22|Computational sprinting.|Arun Raghavan,Yixin Luo,Anuj Chandawalla,Marios C. Papaefthymiou,Kevin P. Pipe,Thomas F. Wenisch,Milo M. K. Martin|81|74|1|6
+23|Power balanced pipelines.|John Sartori,Ben Ahrens,Rakesh Kumar|16|15|0|0
+24|Flexible register management using reference counting.|Steven J. Battle,Andrew D. Hilton,Mark Hempstead,Amir Roth|3|3|0|1
+25|AgileRegulator: A hybrid voltage regulator scheme redeeming dark silicon for power efficiency in a multicore architecture.|Guihai Yan,Yingmin Li,Yinhe Han,Xiaowei Li,Minyi Guo,Xiaoyao Liang|24|23|0|6
+26|JETC: Joint energy thermal and cooling management for memory and CPU subsystems in servers.|Raid Zuhair Ayoub,Rajib Nath,Tajana Rosing|22|21|0|4
+27|Cooperative partitioning: Energy-efficient cache partitioning for high-performance CMPs.|Karthik T. Sundararajan,Vasileios Porpodas,Timothy M. Jones,Nigel P. Topham,Björn Franke|31|28|0|3
+28|Dynamically heterogeneous cores through 3D resource pooling.|Houman Homayoun,Vasileios Kontorinis,Amirali Shayan,Ta-Wei Lin,Dean M. Tullsen|29|29|3|7
+29|Architectural support for synchronization-free deterministic parallel programming.|Cedomir Segulja,Tarek S. Abdelrahman|5|4|0|1
+30|Pacman: Tolerating asymmetric data races with unintrusive hardware.|Shanxiang Qi,Norimasa Otsuki,Lois Orosa Nogueira,Abdullah Muzahid,Josep Torrellas|12|11|0|3
+31|BulkCompactor: Optimized deterministic execution via Conflict-Aware commit of atomic blocks.|Yuelu Duan,Xing Zhou,Wonsun Ahn,Josep Torrellas|3|3|0|1
+32|Parabix: Boosting the efficiency of text processing on commodity processors.|Dan Lin,Nigel Medforth,Kenneth S. Herdy,Arrvindh Shriraman,Robert D. Cameron|13|13|0|2
+33|WEST: Cloning data cache behavior using Stochastic Traces.|Ganesh Balakrishnan,Yan Solihin|11|10|0|4
+34|Statistical performance comparisons of computers.|Tianshi Chen,Yunji Chen,Qi Guo,Olivier Temam,Yue Wu,Weiwu Hu|16|15|0|2
+35|Accelerating business analytics applications.|Valentina Salapura,Tejas Karkhanis,Priya Nagpurkar,José E. Moreira|9|9|0|1
+36|Architectural perspectives of future wireless base stations based on the IBM PowerEN™ processor.|Augusto Vega,Pradip Bose,Alper Buyuktosunoglu,Jeff H. Derby,Michele Franceschini,Charles Johnson,Robert K. Montoye|2|2|0|0
+37|QuickIA: Exploring heterogeneous architectures on real prototypes.|Nagabhushan Chitlur,Ganapati Srinivasa,Scott Hahn,P. K. Gupta,Dheeraj Reddy,David A. Koufaty,Paul Brett,Abirami Prabhakaran,Li Zhao,Nelson Ijih,Suchit Subhaschandra,Sabina Grover,Xiaowei Jiang,Ravi Iyer|31|31|0|0
+38|Network congestion avoidance through Speculative Reservation.|Nan Jiang,Daniel U. Becker,George Michelogiannakis,William J. Dally|12|12|0|2
+39|Network within a network approach to create a scalable high-radix router microarchitecture.|Jung Ho Ahn,Sungwoo Choo,John Kim|11|11|0|5
+40|Whole packet forwarding: Efficient design of fully adaptive routing algorithms for networks-on-chip.|Sheng Ma,Natalie D. Enright Jerger,Zhiying Wang|42|41|0|5

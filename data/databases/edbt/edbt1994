@@ -1,0 +1,35 @@
+34
+1|Advances in Database Technology - EDBT'94. 4th International Conference on Extending Database Technology, Cambridge, United Kingdom, March 28-31, 1994, Proceedings.|Matthias Jarke,Janis A. Bubenko Jr.,Keith G. Jeffery|0|0|0|0
+2|The Object Management Group Standardization of Object Technology (Abstract).|Christopher M. Stone|1|1|0|0
+3|Databases in Distributed Systems: The New Frontier (Extended Abstract).|Andrew Herbert|4|0|0|0
+4|Type Derivation Using the Projection Operation.|Rakesh Agrawal,Linda G. DeMichiel|22|2|0|0
+5|Subsumption between Queries to Object-Oriented Databases.|Martin Buchheit,Manfred A. Jeusfeld,Werner Nutt,Martin Staudt|139|7|0|15
+6|Composite-Object Views in Relational DBMS: An Implementation Perspective.|Hamid Pirahesh,Bernhard Mitschang,Norbert Südkamp,Bruce G. Lindsay|18|2|0|1
+7|Matrix-Relation for Statistical Database Management.|Rosine Cicchetti,Lotfi Lakhal|5|0|0|3
+8|Deductive Database Support for Data Visualization.|Mariano P. Consens,Alberto O. Mendelzon,Dimitra Vista|13|0|0|6
+9|Subsumption-Free Bottom-up Evaluation of Logic Programs with Partially Instantiated Data Structures.|Zoltan Somogyi,David B. Kemp,James Harland,Kotagiri Ramamohanarao|4|1|0|2
+10|Schema Equivalence in Heterogeneous Systems: Bridging Theory and Practice (Extended Abstract).|Renée J. Miller,Yannis E. Ioannidis,Raghu Ramakrishnan|181|30|0|6
+11|Virtual Schemas and Bases.|Cassio Souza dos Santos,Serge Abiteboul,Claude Delobel|147|4|0|18
+12|Role-based Query Processing in Multidatabase Systems.|Peter Scheuermann,Eugene Inseok Chong|31|0|0|2
+13|Content Routing for Distributed Information Servers.|Mark A. Sheldon,Andrzej Duda,Ron Weiss,James O'Toole,David K. Gifford|64|11|18|8
+14|A Unified Approach to Concurrency Control and Transaction Recovery (Extended Abstract).|Gustavo Alonso,Radek Vingralek,Divyakant Agrawal,Yuri Breitbart,Amr El Abbadi,Hans-Jörg Schek,Gerhard Weikum|25|14|0|5
+15|Algorithms for Flexible Space Management in Transaction Systems Supporting Fine-Granularity Locking.|C. Mohan,Donald J. Haderle|36|6|9|8
+16|Indexing Alternatives for Multiversion Locking.|Paul M. Bober,Michael J. Carey|4|1|0|1
+17|A Rule-Based Approach for the Design and Implementation of Information Systems.|Ilias Petrounias,Pericles Loucopoulos|15|1|0|2
+18|On Behavioral Schema Evolution in Object-Oriented Databases.|Magdi M. A. Morsi,Shamkant B. Navathe,John Shilling|10|0|0|0
+19|Representing and Using Performance Requirements During the Development of Information Systems.|Brian A. Nixon|25|4|0|12
+20|A Model-Theoretic Semantics of the Multilevel Relational Model.|Xiaolei Qian|12|0|0|2
+21|On the Semantics of (Bi)Temporal Variable Databases.|James Clifford,Tomás Isakowitz|22|2|0|1
+22|Correctness of ISA Hierarchies in Object-Oriented Database Schemas.|Anna Formica,Michele Missikoff|17|3|0|7
+23|Power Efficient Filtering of Data an Air.|Tomasz Imielinski,S. Viswanathan,B. R. Badrinath|249|41|2|14
+24|Video Information Contents and Architecture.|Rune Hjelsvold|22|1|0|7
+25|Optimizing Storage of Objects on Mass Storage Systems with Robotic Devies.|Ling Tony Chen,Doron Rotem|12|0|0|2
+26|On the Estimation of Join Result Sizes.|Arun N. Swami,K. Bernhard Schiefer|69|26|7|1
+27|DBJ - A Dynamic Balancing Hash Join Algorithm in Multiprocessor Database Systems (Extented Abstract).|X. Zhao,Roger G. Johnson,Nigel J. Martin|9|1|0|0
+28|Tabu Search Optimization of Large Join Queries.|Tadeusz Morzy,Maciej Matysiak,Silvio Salza|11|3|0|0
+29|The Implementation and Performance Evaluation of the ADMS Query Optimizer: Integrating Query Result Caching and Matching.|Chung-Min Chen,Nick Roussopoulos|160|24|10|6
+30|Optimization of Nested Queries in a Complex Object Model.|Hennie J. Steenhagen,Peter M. G. Apers,Henk M. Blanken|25|5|0|3
+31|A Multi-Threaded Architecture for Prefetching in Object Bases.|Carsten Andreas Gerlhof,Alfons Kemper|36|9|0|1
+32|Supporting Full-Text Information Retrieval with a Persistent Object Store.|Eric W. Brown,James P. Callan,W. Bruce Croft,J. Eliot B. Moss|48|5|0|6
+33|Bit-Sliced Signature Files for Very Large Text Databases an a Parallel Machine Architecture.|George Panagopoulos,Christos Faloutsos|29|10|10|0
+34|Schemas for Telling Stories in Medical Records.|Carole A. Goble,Peter Crowther|2|0|0|1

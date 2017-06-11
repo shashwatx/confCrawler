@@ -1,0 +1,161 @@
+160
+1|Proceedings of the 27th International Conference on Machine Learning (ICML-10), June 21-24, 2010, Haifa, Israel.|Johannes Fürnkranz,Thorsten Joachims|n/a
+2|The Role of Machine Learning in Business Optimization.|Chid Apté|5|5|0|0
+3|FAB-MAP: Appearance-Based Place Recognition and Mapping using a Learned Visual Vocabulary Model.|Mark Joseph Cummins,Paul M. Newman|21|21|0|0
+4|Discriminative Latent Variable Models for Object Detection.|Pedro F. Felzenszwalb,Ross B. Girshick,David A. McAllester,Deva Ramanan|2|2|0|0
+5|Web-Scale Bayesian Click-Through rate Prediction for Sponsored Search Advertising in Microsoft's Bing Search Engine.|Thore Graepel,Joaquin Quiñonero Candela,Thomas Borchert,Ralf Herbrich|193|183|1|3
+6|Music Plus One and Machine Learning.|Christopher Raphael|31|31|0|1
+7|Climbing the Tower of Babel: Unsupervised Multilingual Learning.|Benjamin Snyder,Regina Barzilay|4|4|0|0
+8|Detecting Large-Scale System Problems by Mining Console Logs.|Wei Xu,Ling Huang,Armando Fox,David A. Patterson,Michael I. Jordan|284|277|1|7
+9|Particle Filtered MCMC-MLE with Connections to Contrastive Divergence.|Arthur U. Asuncion,Qiang Liu,Alexander T. Ihler,Padhraic Smyth|10|9|0|0
+10|Surrogating the surrogate: accelerating Gaussian-process-based global optimization with a mixture cross-entropy algorithm.|Rémi Bardenet,Balázs Kégl|21|20|0|1
+11|Forgetting Counts: Constant Memory Inference for a Dependent Hierarchical Pitman-Yor Process.|Nicholas Bartlett,David Pfau,Frank Wood|8|8|0|3
+12|Robust Formulations for Handling Uncertainty in Kernel Matrices.|Sahely Bhadra,Sourangshu Bhattacharya,Chiranjib Bhattacharyya,Aharon Ben-Tal|3|3|0|2
+13|Active Learning for Networked Data.|Mustafa Bilgic,Lilyana Mihalkova,Lise Getoor|79|77|0|3
+14|Distance dependent Chinese restaurant processes.|David M. Blei,Peter I. Frazier|128|122|0|6
+15|Causal filter selection in microarray data.|Gianluca Bontempi,Patrick E. Meyer|31|31|0|7
+16|Label Ranking under Ambiguous Supervision for Learning Semantic Correspondences.|Antoine Bordes,Nicolas Usunier,Jason Weston|16|16|0|1
+17|A Theoretical Analysis of Feature Pooling in Visual Recognition.|Y-Lan Boureau,Jean Ponce,Yann LeCun|302|293|1|8
+18|Multi-agent Learning Experiments on Repeated Matrix Games.|Bruno Bouzy,Marc Métivier|18|17|0|1
+19|Learning Tree Conditional Random Fields.|Joseph K. Bradley,Carlos Guestrin|31|31|0|2
+20|Finding Planted Partitions in Nearly Linear Time using Arrested Spectral Clustering.|Nader H. Bshouty,Philip M. Long|6|6|0|0
+21|Fast boosting using adversarial bandits.|Róbert Busa-Fekete,Balázs Kégl|31|30|0|7
+22|Modeling Transfer Learning in Human Categorization with the Hierarchical Dirichlet Process.|Kevin Robert Canini,Mikhail M. Shashkov,Thomas L. Griffiths|18|18|0|3
+23|Transfer Learning for Collective Link Prediction in Multiple Heterogenous Domains.|Bin Cao,Nathan Nan Liu,Qiang Yang|70|67|0|10
+24|The Elastic Embedding Algorithm for Dimensionality Reduction.|Miguel Á. Carreira-Perpiñán|59|58|0|0
+25|Random Spanning Trees and the Prediction of Weighted Graphs.|Nicolò Cesa-Bianchi,Claudio Gentile,Fabio Vitale,Giovanni Zappella|27|27|0|13
+26|Efficient Learning with Partially Observed Attributes.|Nicolò Cesa-Bianchi,Shai Shalev-Shwartz,Ohad Shamir|39|37|0|3
+27|Convergence, Targeted Optimality, and Safety in Multiagent Learning.|Doran Chakraborty,Peter Stone|17|15|0|5
+28|Structured Output Learning with Indirect Supervision.|Ming-Wei Chang,Vivek Srikumar,Dan Goldwasser,Dan Roth|43|43|1|11
+29|Dynamical Products of Experts for Modeling Financial Time Series.|Yutian Chen,Max Welling|0|0|0|0
+30|Label Ranking Methods based on the Plackett-Luce Model.|Weiwei Cheng,Krzysztof Dembczynski,Eyke Hüllermeier|40|39|0|8
+31|Graded Multilabel Classification: The Ordinal Case.|Weiwei Cheng,Krzysztof Dembczynski,Eyke Hüllermeier|17|17|0|1
+32|Comparing Clusterings in Space.|Michael H. Coen,M. Hidayath Ansari,Nathanael Fillmore|21|21|0|5
+33|Two-Stage Learning Kernel Algorithms.|Corinna Cortes,Mehryar Mohri,Afshin Rostamizadeh|100|92|1|0
+34|Generalization Bounds for Learning Kernels.|Corinna Cortes,Mehryar Mohri,Afshin Rostamizadeh|69|69|1|6
+35|Fast Neighborhood Subgraph Pairwise Distance Kernel.|Fabrizio Costa,Kurt De Grave|83|79|0|15
+36|Mining Clustering Dimensions.|Sajib Dasgupta,Vincent Ng|22|22|0|3
+37|Bottom-Up Learning of Markov Network Structure.|Jesse Davis,Pedro M. Domingos|31|29|0|5
+38|Bayes Optimal Multilabel Classification via Probabilistic Classifier Chains.|Krzysztof Dembczynski,Weiwei Cheng,Eyke Hüllermeier|174|168|1|6
+39|A Conditional Random Field for Multiple-Instance Learning.|Thomas Deselaers,Vittorio Ferrari|37|37|0|2
+40|Asymptotic Analysis of Generative Semi-Supervised Learning.|Joshua V. Dillon,Krishnakumar Balasubramanian,Guy Lebanon|14|13|0|3
+41|Heterogeneous Continuous Dynamic Bayesian Networks with Flexible Structure and Inter-Time Segment Information Sharing.|Frank Dondelinger,Sophie Lèbre,Dirk Husmeier|27|26|0|3
+42|Temporal Difference Bayesian Model Averaging: A Bayesian Perspective on Adapting Lambda.|Carlton Downey,Scott Sanner|9|9|0|1
+43|High-Performance Semi-Supervised Learning using Discriminatively Constrained Generative Models.|Gregory Druck,Andrew McCallum|27|27|0|1
+44|On the Consistency of Ranking Algorithms.|John C. Duchi,Lester W. Mackey,Michael I. Jordan|53|52|0|1
+45|Inverse Optimal Control with Linearly-Solvable MDPs.|Krishnamurthy Dvijotham,Emanuel Todorov|63|61|0|6
+46|Continuous-Time Belief Propagation.|Tal El-Hay,Ido Cohn,Nir Friedman,Raz Kupferman|19|18|0|1
+47|Nonparametric Information Theoretic Clustering Algorithm.|Lev Faivishevsky,Jacob Goldberger|41|41|0|3
+48|Feature Selection as a One-Player Game.|Romaric Gaudel,Michèle Sebag|47|47|0|3
+49|Multiscale Wavelets on Trees, Graphs and High Dimensional Data: Theory and Applications to Semi Supervised Learning.|Matan Gavish,Boaz Nadler,Ronald R. Coifman|95|89|0|3
+50|A Language-based Approach to Measuring Scholarly Impact.|Sean Gerrish,David M. Blei|82|81|0|2
+51|Boosting Classifiers with Tightened L0-Relaxation Penalties.|Noam Goldberg,Jonathan Eckstein|5|5|0|3
+52|Budgeted Nonparametric Learning from Data Streams.|Ryan Gomes,Andreas Krause|17|16|0|9
+53|Learning Fast Approximations of Sparse Coding.|Karol Gregor,Yann LeCun|125|121|0|14
+54|Boosted Backpropagation Learning for Training Deep Modular Networks.|Alexander Grubb,J. Andrew Bagnell|11|11|0|0
+55|Interactive Submodular Set Cover.|Andrew Guillory,Jeff A. Bilmes|35|32|0|4
+56|Large Scale Max-Margin Multi-Label Classification with Priors.|Bharath Hariharan,Lihi Zelnik-Manor,S. V. N. Vishwanathan,Manik Varma|83|80|1|1
+57|Active Learning for Multi-Task Adaptive Filtering.|Abhay Harpale,Yiming Yang|14|14|0|1
+58|Bayesian Nonparametric Matrix Factorization for Recorded Music.|Matthew D. Hoffman,David M. Blei,Perry R. Cook|104|102|0|3
+59|Multi-Task Learning of Gaussian Graphical Models.|Jean Honorio,Dimitris Samaras|34|34|0|2
+60|Learning Hierarchical Riffle Independent Groupings from Rankings.|Jonathan Huang,Carlos Guestrin|11|11|0|6
+61|On learning with kernels for unordered pairs.|Martial Hue,Jean-Philippe Vert|12|10|0|0
+62|A Simple Algorithm for Nuclear Norm Regularized Problems.|Martin Jaggi,Marek Sulovský|109|105|1|6
+63|Telling cause from effect based on high-dimensional observations.|Dominik Janzing,Patrik O. Hoyer,Bernhard Schölkopf|16|14|0|7
+64|Proximal Methods for Sparse Hierarchical Dictionary Learning.|Rodolphe Jenatton,Julien Mairal,Guillaume Obozinski,Francis R. Bach|249|243|0|12
+65|3D Convolutional Neural Networks for Human Action Recognition.|Shuiwang Ji,Wei Xu,Ming Yang,Kai Yu|310|286|0|7
+66|Accelerated dual decomposition for MAP inference.|Vladimir Jojic,Stephen Gould,Daphne Koller|84|83|0|1
+67|Efficient Selection of Multiple Bandit Arms: Theory and Practice.|Shivaram Kalyanakrishnan,Peter Stone|24|24|0|2
+68|A scalable trust-region algorithm with application to mixed-norm regression.|Dongmin Kim,Suvrit Sra,Inderjit S. Dhillon|31|30|0|10
+69|Local Minima Embedding.|Minyoung Kim,Fernando De la Torre|1|1|0|0
+70|Gaussian Processes Multiple Instance Learning.|Minyoung Kim,Fernando De la Torre|31|31|0|1
+71|Tree-Guided Group Lasso for Multi-Task Regression with Structured Sparsity.|Seyoung Kim,Eric P. Xing|219|212|0|12
+72|Learning Markov Logic Networks Using Structural Motifs.|Stanley Kok,Pedro M. Domingos|80|80|0|3
+73|On Sparse Nonparametric Conditional Covariance Selection.|Mladen Kolar,Ankur P. Parikh,Eric P. Xing|18|17|0|7
+74|Submodular Dictionary Selection for Sparse Representation.|Andreas Krause,Volkan Cevher|57|57|0|3
+75|Implicit Online Learning.|Brian Kulis,Peter L. Bartlett|27|25|0|1
+76|Probabilistic Backward and Forward Reasoning in Stochastic Relational Worlds.|Tobias Lang,Marc Toussaint|3|3|0|0
+77|Supervised Aggregation of Classifiers using Artificial Prediction Markets.|Nathan Lay,Adrian Barbu|17|17|0|3
+78|Bayesian Multi-Task Reinforcement Learning.|Alessandro Lazaric,Mohammad Ghavamzadeh|28|28|0|4
+79|Analysis of a Classification-based Policy Iteration Algorithm.|Alessandro Lazaric,Mohammad Ghavamzadeh,Rémi Munos|48|48|0|13
+80|Finite-Sample Analysis of LSTD.|Alessandro Lazaric,Mohammad Ghavamzadeh,Rémi Munos|44|44|0|11
+81|A fast natural Newton method.|Nicolas Le Roux,Andrew W. Fitzgibbon|19|17|0|0
+82|Making Large-Scale Nyström Approximation Possible.|Mu Li,James T. Kwok,Bao-Liang Lu|53|50|0|1
+83|Learning Programs: A Hierarchical Bayesian Approach.|Percy Liang,Michael I. Jordan,Dan Klein|27|25|0|1
+84|On the Interaction between Norm and Dimensionality: Multiple Regimes in Learning.|Percy Liang,Nati Srebro|10|8|0|5
+85|Power Iteration Clustering.|Frank Lin,William W. Cohen|94|87|1|6
+86|Robust Subspace Segmentation by Low-Rank Representation.|Guangcan Liu,Zhouchen Lin,Yong Yu|464|440|0|47
+87|Robust Graph Mode Seeking by Graph Shift.|Hairong Liu,Shuicheng Yan|61|59|1|10
+88|Large Graph Construction for Scalable Semi-Supervised Learning.|Wei Liu,Junfeng He,Shih-Fu Chang|170|160|1|15
+89|Learning Temporal Causal Graphs for Relational Time-Series Analysis.|Yan Liu,Alexandru Niculescu-Mizil,Aurelie C. Lozano,Yong Lu|32|32|0|2
+90|Efficient Reinforcement Learning with Multiple Reward Functions for Randomized Controlled Trial Analysis.|Daniel J. Lizotte,Michael H. Bowling,Susan A. Murphy|43|43|0|3
+91|Restricted Boltzmann Machines are Hard to Approximately Evaluate or Simulate.|Philip M. Long,Rocco A. Servedio|22|22|0|0
+92|Mixed Membership Matrix Factorization.|Lester W. Mackey,David J. Weiss,Michael I. Jordan|39|38|0|0
+93|Toward Off-Policy Learning Control with Function Approximation.|Hamid Reza Maei,Csaba Szepesvári,Shalabh Bhatnagar,Richard S. Sutton|100|99|0|1
+94|Constructing States for Reinforcement Learning.|M. M. Hassan Mahmud|10|10|0|0
+95|Deep learning via Hessian-free optimization.|James Martens|244|233|0|6
+96|Learning the Linear Dynamical System with ASOS.|James Martens|7|5|0|0
+97|From Transformation-Based Dimensionality Reduction to Feature Selection.|Mahdokht Masaeli,Glenn Fung,Jennifer G. Dy|48|46|0|2
+98|Risk minimization, probability elicitation, and cost-sensitive SVMs.|Hamed Masnadi-Shirazi,Nuno Vasconcelos|41|41|0|1
+99|Exploiting Data-Independence for Fast Belief-Propagation.|Julian John McAuley,Tibério S. Caetano|10|10|0|1
+100|Metric Learning to Rank.|Brian McFee,Gert R. G. Lanckriet|147|144|1|9
+101|Learning Efficiently with Approximate Inference via Dual Losses.|Ofer Meshi,David Sontag,Tommi S. Jaakkola,Amir Globerson|52|51|0|2
+102|Deep Supervised t-Distributed Embedding.|Martin Renqiang Min,Laurens van der Maaten,Zineng Yuan,Anthony J. Bonner,Zhaolei Zhang|19|18|0|3
+103|Nonparametric Return Distribution Approximation for Reinforcement Learning.|Tetsuro Morimura,Masashi Sugiyama,Hisashi Kashima,Hirotaka Hachiya,Toshiyuki Tanaka|14|14|0|2
+104|Rectified Linear Units Improve Restricted Boltzmann Machines.|Vinod Nair,Geoffrey E. Hinton|580|553|0|8
+105|Implicit Regularization in Variational Bayesian Matrix Factorization.|Shinichi Nakajima,Masashi Sugiyama|16|16|0|3
+106|Estimation of (near) low-rank matrices with noise and high-dimensional scaling.|Sahand Negahban,Martin J. Wainwright|190|178|0|19
+107|Multiple Non-Redundant Spectral Clustering Views.|Donglin Niu,Jennifer G. Dy,Michael I. Jordan|66|65|0|4
+108|Multiagent Inductive Learning: an Argumentation-based Approach.|Santiago Ontañón,Enric Plaza|24|23|0|6
+109|A Stick-Breaking Construction of the Beta Process.|John William Paisley,Aimee K. Zaas,Christopher W. Woods,Geoffrey S. Ginsburg,Lawrence Carin|41|38|0|1
+110|The Margin Perceptron with Unlearning.|Constantinos Panagiotakopoulos,Petroula Tsampouka|5|5|0|3
+111|Boosting for Regression Transfer.|David Pardoe,Peter Stone|39|38|0|2
+112|Feature Selection Using Regularization in Approximate Linear Programs for Markov Decision Processes.|Marek Petrik,Gavin Taylor,Ronald Parr,Shlomo Zilberstein|50|49|0|13
+113|Budgeted Distribution Learning of Belief Net Parameters.|Liuyang Li,Barnabás Póczos,Csaba Szepesvári,Russell Greiner|3|3|0|1
+114|Variable Selection in Model-Based Clustering: To Do or To Facilitate.|Leonard K. M. Poon,Nevin Lianwen Zhang,Tao Chen,Yi Wang|21|21|0|6
+115|Approximate Predictive Representations of Partially Observable Systems.|Monica Dinculescu,Doina Precup|10|10|0|0
+116|Spherical Topic Models.|Joseph Reisinger,Austin Waters,Bryan Silverthorn,Raymond J. Mooney|42|41|0|0
+117|SVM Classifier Estimation from Group Probabilities.|Stefan Rüping|38|38|0|0
+118|Clustering processes.|Daniil Ryabko|n/a
+119|Gaussian Process Change Point Models.|Yunus Saatci,Ryan D. Turner,Carl Edward Rasmussen|39|37|0|0
+120|Online Prediction with Privacy.|Jun Sakuma,Hiromi Arai|n/a
+121|Learning Deep Boltzmann Machines using Adaptive MCMC.|Ruslan Salakhutdinov|44|40|0|1
+122|Active Risk Estimation.|Christoph Sawade,Niels Landwehr,Steffen Bickel,Tobias Scheffer|24|24|0|4
+123|Should one compute the Temporal Difference fix point or minimize the Bellman Residual? The unified oblique projection view.|Bruno Scherrer|45|45|0|6
+124|Gaussian Covariance and Scalable Variational Inference.|Matthias W. Seeger|10|8|0|0
+125|Application of Machine Learning To Epileptic Seizure Detection.|Ali H. Shoeb,John V. Guttag|103|99|0|0
+126|Learning optimally diverse rankings over large document collections.|Aleksandrs Slivkins,Filip Radlinski,Sreenivas Gollapudi|n/a
+127|Hilbert Space Embeddings of Hidden Markov Models.|Le Song,Byron Boots,Sajid M. Siddiqi,Geoffrey J. Gordon,Alexander J. Smola|108|106|0|18
+128|COFFIN: A Computational Framework for Linear SVMs.|Sören Sonnenburg,Vojtech Franc|44|43|0|5
+129|Internal Rewards Mitigate Agent Boundedness.|Jonathan Sorg,Satinder P. Singh,Richard L. Lewis|30|30|0|7
+130|Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design.|Niranjan Srinivas,Andreas Krause,Sham Kakade,Matthias W. Seeger|242|233|0|15
+131|Unsupervised Risk Stratification in Clinical Datasets: Identifying Patients at Risk of Rare Outcomes.|Zeeshan Syed,Ilan Rubinfeld|15|15|0|6
+132|Model-based reinforcement learning with nearly tight exploration complexity bounds.|Istvan Szita,Csaba Szepesvári|58|55|0|3
+133|Total Variation, Cheeger Cuts.|Arthur Szlam,Xavier Bresson|54|50|0|7
+134|Learning Sparse SVM for Feature Selection on Very High Dimensional Datasets.|Mingkui Tan,Li Wang,Ivor W. Tsang|84|81|0|12
+135|Deep networks for robust visual recognition.|Yichuan Tang,Chris Eliasmith|48|48|0|6
+136|A DC Programming Approach for Sparse Eigenvalue Problem.|Mamadou Thiao,Pham Dinh Tao,Le Thi Hoai An|14|14|0|1
+137|Least-Squares Policy Iteration: Bias-Variance Trade-off in Control Problems.|Christophe Thiery,Bruno Scherrer|20|20|0|5
+138|An Analysis of the Convergence of Graph Laplacians.|Daniel Ting,Ling Huang,Michael I. Jordan|35|33|0|0
+139|A Fast Augmented Lagrangian Algorithm for Learning Low-Rank Matrices.|Ryota Tomioka,Taiji Suzuki,Masashi Sugiyama,Hisashi Kashima|19|19|0|4
+140|One-sided Support Vector Regression for Multiclass Cost-sensitive Classification.|Han-Hsing Tu,Hsuan-Tien Lin|22|20|0|7
+141|Non-Local Contrastive Objectives.|David Vickrey,Cliff Chiung-Yu Lin,Daphne Koller|16|15|0|1
+142|The Translation-invariant Wishart-Dirichlet Process for Clustering Distance Data.|Julia E. Vogt,Sandhya Prabhakaran,Thomas J. Fuchs,Volker Roth|17|17|0|5
+143|Generalizing Apprenticeship Learning across Hypothesis Classes.|Thomas J. Walsh,Kaushik Subramanian,Michael L. Littman,Carlos Diuk|25|25|0|10
+144|Sequential Projection Learning for Hashing with Compact Codes.|Jun Wang,Sanjiv Kumar,Shih-Fu Chang|182|172|1|18
+145|A New Analysis of Co-Training.|Wei Wang,Zhi-Hua Zhou|79|77|0|11
+146|Multi-Class Pegasos on a Budget.|Zhuang Wang,Koby Crammer,Slobodan Vucetic|22|20|0|1
+147|The IBP Compound Dirichlet Process and its Application to Focused Topic Modeling.|Sinead Williamson,Chong Wang,Katherine A. Heller,David M. Blei|95|95|1|1
+148|Online Streaming Feature Selection.|Xindong Wu,Kui Yu,Hao Wang,Wei Ding|49|46|0|9
+149|Classes of Multiagent Q-learning Dynamics with epsilon-greedy Exploration.|Michael Wunder,Michael L. Littman,Monica Babes|22|21|0|2
+150|Simple and Efficient Multiple Kernel Learning by Group Lasso.|Zenglin Xu,Rong Jin,Haiqin Yang,Irwin King,Michael R. Lyu|122|119|0|6
+151|Sparse Gaussian Process Regression via L1 Penalization.|Feng Yan,Yuan (Alan) Qi|13|12|0|0
+152|Online Learning for Group Lasso.|Haiqin Yang,Zenglin Xu,Irwin King,Michael R. Lyu|61|60|0|9
+153|Learning from Noisy Side Information by Generalized Maximum Entropy Model.|Tianbao Yang,Rong Jin,Anil K. Jain|17|16|0|4
+154|Convergence of Least Squares Temporal Difference Methods Under General Conditions.|Huizhen Yu|16|16|0|2
+155|Improved Local Coordinate Coding using Local Tangents.|Kai Yu,Tong Zhang|96|93|0|2
+156|Projection Penalties: Dimension Reduction without Loss.|Yi Zhang,Jeff G. Schneider|4|4|0|2
+157|OTL: A Framework of Online Transfer Learning.|Peilin Zhao,Steven C. H. Hoi|37|37|0|10
+158|Conditional Topic Random Fields.|Jun Zhu,Eric P. Xing|51|48|0|13
+159|Cognitive Models of Test-Item Effects in Human Category Learning.|Xiaojin Zhu,Bryan R. Gibson,Kwang-Sung Jun,Timothy T. Rogers,Joseph Harrison,Chuck Kalish|15|14|0|5
+160|Modeling Interaction via the Principle of Maximum Causal Entropy.|Brian D. Ziebart,J. Andrew Bagnell,Anind K. Dey|41|41|0|15

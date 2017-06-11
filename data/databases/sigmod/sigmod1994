@@ -1,0 +1,76 @@
+75
+1|Proceedings of the 1994 ACM SIGMOD International Conference on Management of Data, Minneapolis, Minnesota, May 24-27, 1994.|Richard T. Snodgrass,Marianne Winslett|n/a
+2|Sleepers and Workaholics: Caching Strategies in Mobile Environments.|Daniel Barbará,Tomasz Imielinski|687|115|6|0
+3|Data Replication for Mobile Computers.|Yixiu Huang,A. Prasad Sistla,Ouri Wolfson|231|37|0|8
+4|Energy Efficient Indexing on Air.|Tomasz Imielinski,S. Viswanathan,B. R. Badrinath|525|69|4|12
+5|Database Issues in Telecommunications Network Management.|Ilsoo Ahn|48|3|1|0
+6|ASSET: A System for Supporting Extended Transactions.|Alexandros Biliris,Shaul Dar,Narain H. Gehani,H. V. Jagadish,Krithi Ramamritham|196|15|6|0
+7|ARIES/CSA: A Method for Database Recovery in Client-Server Architectures.|C. Mohan,Inderpal Narang|81|21|3|3
+8|Ensuring Relaxed Atomicity for Flexible Transactions in Multidatabase Systems.|Aidong Zhang,Marian H. Nodine,Bharat K. Bhargava,Omran A. Bukhres|192|36|2|6
+9|Staggered Striping in Multimedia Information Systems.|Steven Berson,Shahram Ghandeharizadeh,Richard R. Muntz,Xiangyu Ju|412|15|7|53
+10|Data Modeling of Time-Based Media.|Simon J. Gibbs,Christian Breiteneder,Dennis Tsichritzis|168|22|10|0
+11|Implementation of Magic-sets in a Relational Database System.|Inderpal Singh Mumick,Hamid Pirahesh|71|24|3|6
+12|Combinatorial Pattern Discovery for Scientific Data: Some Preliminary Results.|Jason Tsong-Li Wang,Gung-Wei Chirn,Thomas G. Marr,Bruce A. Shapiro,Dennis Shasha,Kaizhong Zhang|210|28|4|14
+13|The Effectiveness of GlOSS for the Text Database Discovery Problem.|Luis Gravano,Hector Garcia-Molina,Anthony Tomasic|265|31|4|12
+14|Incomplete Path Expressions and their Disambiguation.|Yannis E. Ioannidis,Yezdi Lashkari|38|3|0|1
+15|Optimization of Dynamic Query Evaluation Plans.|Richard L. Cole,Goetz Graefe|216|50|6|9
+16|Adaptive Selectivity Estimation Using Query Feedback.|Chung-Min Chen,Nick Roussopoulos|210|41|15|2
+17|Estimating Page Fetches for Index Scans with Finite LRU Buffers.|Arun N. Swami,K. Bernhard Schiefer|8|1|1|0
+18|On Parallel Execution of Multiple Pipelined Hash Joins.|Hui-I Hsiao,Ming-Syan Chen,Philip S. Yu|42|4|0|5
+19|Multi-Step Processing of Spatial Joins.|Thomas Brinkhoff,Hans-Peter Kriegel,Ralf Schneider,Bernhard Seeger|323|42|2|22
+20|Spatial Joins Using Seeded Trees.|Ming-Ling Lo,Chinya V. Ravishankar|212|29|4|6
+21|Managing Memory for Real-Time Queries.|HweeHwa Pang,Michael J. Carey,Miron Livny|50|3|1|2
+22|AlphaSort: A RISC Machine Sort.|Chris Nyberg,Tom Barclay,Zarka Cvetanovic,Jim Gray,David B. Lomet|143|15|0|5
+23|Quickly Generating Billion-Record Synthetic Databases.|Jim Gray,Prakash Sundaresan,Susanne Englert,Kenneth Baclawski,Peter J. Weinberger|285|130|1|1
+24|Distributed File Organization with Scalable Cost/Performance.|Radek Vingralek,Yuri Breitbart,Gerhard Weikum|70|5|0|10
+25|Distributing a Search Tree Among a Growing Number of Processors.|Brigitte Kröll,Peter Widmayer|114|14|4|3
+26|Predictive Dynamic Load Balancing of Parallel and Distributed Rule and Query Processing.|Hasanat M. Dewan,Salvatore J. Stolfo,Mauricio A. Hernández,Jae-Jun Hwang|18|5|1|3
+27|Incremental Updates of Inverted Lists for Text Document Retrieval.|Anthony Tomasic,Hector Garcia-Molina,Kurt A. Shoens|242|64|9|11
+28|Optimizing Queries on Files.|Mariano P. Consens,Tova Milo|104|8|3|13
+29|From Structured Documents to Novel Query Facilities.|Vassilis Christophides,Serge Abiteboul,Sophie Cluet,Michel Scholl|467|17|6|37
+30|Practical Predicate Placement.|Joseph M. Hellerstein|101|14|2|3
+31|Optimizing Disjunctive Queries with Expensive Predicates.|Alfons Kemper,Guido Moerkotte,Klaus Peithner,Michael Steinbrunn|75|18|1|11
+32|Outerjoins as Disjunctions.|César A. Galindo-Legaria|102|21|2|0
+33|Fine-Grained Sharing in a Page Server OODBMS.|Michael J. Carey,Michael J. Franklin,Markos Zaharioudakis|192|30|0|8
+34|Partition Selection Policies in Object Database Garbage Collection.|Jonathan E. Cook,Alexander L. Wolf,Benjamin G. Zorn|55|0|0|5
+35|Shoring Up Persistent Applications.|Michael J. Carey,David J. DeWitt,Michael J. Franklin,Nancy E. Hall,Mark L. McAuliffe,Jeffrey F. Naughton,Daniel T. Schuh,Marvin H. Solomon,C. K. Tan,Odysseas G. Tsatalos,Seth J. White,Michael J. Zwilling|540|54|1|29
+36|QuickStore: A High Performance Mapped Object Store.|Seth J. White,David J. DeWitt|74|7|0|1
+37|Self-Adaptive, On-Line Reclustering of Complex Object Data.|William J. McIver Jr.,Roger King|46|7|0|0
+38|Fast Subsequence Matching in Time-Series Databases.|Christos Faloutsos,M. Ranganathan,Yannis Manolopoulos|1840|641|8|59
+39|Sequence Query Processing.|Praveen Seshadri,Miron Livny,Raghu Ramakrishnan|170|33|7|11
+40|XSB as an Efficient Deductive Database Engine.|Konstantinos F. Sagonas,Terrance Swift,David Scott Warren|466|89|0|53
+41|A Performance Study of Transitive Closure Algorithms.|Shaul Dar,Raghu Ramakrishnan|44|11|0|3
+42|Parallel Database Systems in the 1990's.|Michael J. Carey|n/a
+43|Oracle's Symmetric Replication Technology and Implications for Application Design.|Dean Daniels,Lip Boon Doo,Alan Downing,Curtis Elsbernd,Gary Hallmark,Sandeep Jain,Bob Jenkins,Peter Lim,Gordon Smith,Benny Souder,Jim Stamos|41|4|0|1
+44|DEC Data Distributor: for Data Replication and Data Warehousing.|Daniel J. Dietterich|20|7|0|0
+45|Sybase Replication Server.|Alex Gorelik,Yongdong Wang,Mark Deppe|27|0|0|0
+46|Oracle Media Server: Providing Consumer Based Interactive Access to Multimedia Data.|Andrew Laursen,Jeffrey Olkin,Mark Porter|79|13|14|0
+47|Object-Oriented Extensions in SQL3: A Status Report.|Krishna G. Kulkarni|21|2|0|0
+48|COSS: The Common Object Services Specifications.|Bruce E. Martin|1|0|0|0
+49|ODMG-93: A Standard for Object-Oriented DBMSs.|R. G. G. Cattell|26|2|0|0
+50|UniSQL/X Unified Relational and Object-Oriented Database System.|Won Kim|22|0|0|0
+51|The Montage Extensible DataBlade Achitecture.|Michael Ubell|52|8|2|0
+52|Object-Oriented Features of DB2 Client/Server.|Hamid Pirahesh|4|0|0|0
+53|Database in Crisis and Transition: A Technical Agenda for the Year 2001.|David Vaskevitch|21|3|0|0
+54|Evolving Teradata Decision Support for Massively Parallel Processing with UNIX.|Carrie Ballinger|2|2|0|0
+55|NonStop SQL: Scalability and Availability for Decision Support.|Susanne Englert|5|0|0|0
+56|Red Brick Warehouse: A Read-Mostly RDBMS for Open SMP Platforms.|Phillip M. Fernandez|52|32|7|0
+57|Enterprise Information Architectures -- They're Finally Changing.|Wesley P. Melling|16|3|1|0
+58|Relaxed Transaction Processing.|Munindar P. Singh,Christine Tomlinson,Darrell Woelk|7|0|0|6
+59|The IMPRESS DDT: A Database Design Toolbox Based on a Formal Specification Language.|Jan Flokstra,Maurice van Keulen,Jacek Skowronek|12|0|0|2
+60|The MEDUSA Project: Autonomous Data Management in a Shared-Nothing Parallel Database Machine.|George M. Bryan,Wayne E. Moore,B. J. Curry,K. W. Lodge,J. Geyer|1|0|0|0
+61|MOSAICO - A System for Conceptual Modeling and Rapid Prototyping of Object-Oriented Database Application.|Michele Missikoff,M. Toiati|17|1|0|5
+62|A Language Based Multidatabase System.|eva Kühn,Thomas Tschernko,Konrad Schwarz|2|0|0|0
+63|Ptool: A Scalable Persistent Object Manager.|Robert L. Grossman,Xiao Qin|n/a
+64|The ORES Temporal Database Management System.|Babis Theodoulidis,Aziz Ait-Braham,George Andrianopoulos,Jayant Chaudhary,George Karvelis,Simon Sou|5|0|0|0
+65|XSB as a Deductive Database.|Konstantinos F. Sagonas,Terrance Swift,David Scott Warren|n/a
+66|METU Object-Oriented DBMS.|Asuman Dogac,Ismailcem Budak Arpinar,Cem Evrendilek,Cetin Ozkan,Ilker Altintas,Ilker Durusoy,Mehmet Altinel,Tansel Okay,Yuksel Saygin|26|2|0|7
+67|Quest: A Project on Database Mining.|Rakesh Agrawal,Michael J. Carey,Christos Faloutsos,Sakti P. Ghosh,Maurice A. W. Houtsma,Tomasz Imielinski,Balakrishna R. Iyer,A. Mahboob,H. Miranda,Ramakrishnan Srikant,Arun N. Swami|20|5|6|1
+68|Query by Diagram: A Graphical Environment for Querying Databases.|Tiziana Catarci,Giuseppe Santucci|21|5|1|3
+69|DBLearn: A System Prototype for Knowledge Discovery in Relational Databases.|Jiawei Han,Yongjian Fu,Yue Huang,Yandong Cai,Nick Cercone|37|11|0|5
+70|EOS: An Extensible Object Store.|Alexandros Biliris,Euthimios Panagos|11|1|0|1
+71|The MYRIAD Federated Database Prototype.|San-Yih Hwang,Ee-Peng Lim,H.-R. Yang,S. Musukula,K. Mediratta,M. Ganesh,Dave Clements,J. Stenoien,Jaideep Srivastava|n/a
+72|GENESYS: A System for Efficient Spatial Query Processing.|Thomas Brinkhoff,Hans-Peter Kriegel,Ralf Schneider,Bernhard Seeger|14|1|0|0
+73|Open Object Database Management Systems.|José A. Blakeley|n/a
+74|A Survey and Critique of Advanced Transaction Models.|C. Mohan|27|1|0|1
+75|Databases for Networks.|H. V. Jagadish|n/a

@@ -1,0 +1,49 @@
+48
+1|Computers versus Common Sense.|Douglas B. Lenat|120|7|0|1
+2|Managing Persistent Objects in a Multi-Level Store.|Michael Stonebraker|93|9|3|6
+3|A Stochastic Approach for Clustering in Object Bases.|Manolis M. Tsangaris,Jeffrey F. Naughton|108|9|1|1
+4|Effective Clustering of Complex Objects in Object-Oriented Databases.|Jia-bing R. Cheng,Ali R. Hurson|94|3|0|8
+5|HYDRO: A Heterogeneous Distributed Database System.|William Perrizo,Joseph Rajkumar,Prabhu Ram|43|1|2|3
+6|Language Features for Interoperability of Databases with Schematic Discrepancies.|Ravi Krishnamurthy,Witold Litwin,William Kent|303|29|1|13
+7|Towards a Multilevel Secure Relational Data Model.|Sushil Jajodia,Ravi S. Sandhu|279|64|45|9
+8|Set-Oriented Constructs: From Rete Rule Bases to Database Systems.|Douglas N. Gordin,Alexander J. Pasik|23|2|0|0
+9|Space Optimization in the Bottom-Up Evaluation of Logic Programs.|S. Sudarshan,Divesh Srivastava,Raghu Ramakrishnan,Jeffrey F. Naughton|8|2|0|2
+10|Incremental Evaluation of Rules and its Relationship to Parallelism.|Ouri Wolfson,Hasanat M. Dewan,Salvatore J. Stolfo,Yechiam Yemini|47|3|0|8
+11|An Optimistic Commit Protocol for Distributed Transaction Management.|Eliezer Levy,Henry F. Korth,Abraham Silberschatz|113|10|0|9
+12|Using Multiversion Data for Non-interfering Execution of Write-only Transactions.|Divyakant Agrawal,V. Krishnamurthy|33|9|5|0
+13|Extracting Concurrency from Objects: A Methodology.|Panos K. Chrysanthis,S. Raghuram,Krithi Ramamritham|62|5|0|9
+14|Optimization and Evaluation of Database Queries Including Embedded Interpolation Procedures.|Leonore Neugebauer|25|7|1|0
+15|Spatial Priority Search: An Access Technique for Scaleless Maps.|Bruno Becker,Hans-Werner Six,Peter Widmayer|50|5|0|4
+16|Segment Indexes: Dynamic Indexing Techniques for Multi-Dimensional Interval Data.|Curtis P. Kolovson,Michael Stonebraker|146|22|2|1
+17|Efficient Assembly of Complex Objects.|Thomas Keller,Goetz Graefe,David Maier|109|7|0|15
+18|Algebraic Support for Complex Objects with Arrays, Identity, and Inheritance.|Scott L. Vandenberg,David J. DeWitt|144|9|1|7
+19|Left-Deep vs. Bushy Trees: An Analysis of Strategy Spaces and its Implications for Query Optimization.|Yannis E. Ioannidis,Younkyung Cha Kang|174|33|1|3
+20|New Directions For Uncertainty Reasoning In Deductive Databases.|Ulrich Güntzer,Werner Kießling,Helmut Thöne|38|3|0|0
+21|A Non-deterministic Deductive Database Language.|Yeh-Heng Sheng|3|1|0|0
+22|LLO: An Object-Oriented Deductive Language with Methods and Method Inheritance.|Yanjun Lou,Z. Meral Özsoyoglu|85|0|0|7
+23|A Retrieval Technique for Similar Shapes.|H. V. Jagadish|352|32|8|6
+24|Version Management of Composite Objects in CAD Databases.|Rafi Ahmed,Shamkant B. Navathe|82|8|2|3
+25|Trait: An Attribute Management System for VLSI Design Objects.|Tzi-cker Chiueh,Randy H. Katz|5|0|0|1
+26|Objects and Views.|Serge Abiteboul,Anthony J. Bonner|632|47|0|10
+27|Updating Relational Databases through Object-Based Views.|Thierry Barsalou,Arthur M. Keller,Niki Siambela,Gio Wiederhold|138|13|7|21
+28|Function Materialization in Object Bases.|Alfons Kemper,Christoph Kilger,Guido Moerkotte|66|6|2|11
+29|On the Propagation of Errors in the Size of Join Results.|Yannis E. Ioannidis,Stavros Christodoulakis|299|60|10|7
+30|Error-Constraint COUNT Query Evaluation in Relational Databases.|Wen-Chi Hou,Gultekin Özsoyoglu,Erdogan Dogdu|77|5|6|5
+31|Incomplete Objects - A Data Model for Design and Planning Applications.|Tomasz Imielinski,Shamim A. Naqvi,Kumar V. Vadaparty|88|14|4|5
+32|Aspects: Extending Objects to Support Multiple, Independent Roles.|Joel E. Richardson,Peter M. Schwarz|274|11|0|4
+33|Glue-Nail: A Deductive Database System.|Geoffrey Phipps,Marcia A. Derr,Kenneth A. Ross|107|4|0|10
+34|Database Programming Languages: A Functional Approach.|Jurgen Annevelink|28|2|1|4
+35|Nested Relation Based Database Knowledge Representation.|Qiming Chen,Yahiko Kambayashi|28|1|1|12
+36|K: A High-Level Knowledge Base Programming Language for Advanced Database Applications.|Yuh-Ming Shyy,Stanley Y. W. Su|37|0|0|14
+37|An Extended Memoryless Inference Control Method: Accounting for Dependence in Table-level Controls.|S. C. Hansen,Elizabeth A. Unger|2|0|0|1
+38|Data Caching Tradeoffs in Client-Server DBMS Architectures.|Michael J. Carey,Michael J. Franklin,Miron Livny,Eugene J. Shekita|313|37|11|16
+39|Cache Consistency and Concurrency Control in a Client/Server DBMS Architecture.|Yongdong Wang,Lawrence A. Rowe|185|10|2|0
+40|Replica Control in Distributed Systems: An Asynchronous Approach.|Calton Pu,Avraham Leff|304|32|15|28
+41|Flexible Buffer Allocation Based on Marginal Gains.|Raymond T. Ng,Christos Faloutsos,Timos K. Sellis|93|6|0|4
+42|MMDB Reload Algorithms.|Le Gruenwald,Margaret H. Eich|29|2|0|6
+43|Dynamic File Allocation in Disk Arrays.|Gerhard Weikum,Peter Zabback,Peter Scheuermann|112|8|6|16
+44|Performance of B-Tree Concurrency Algorithms.|V. Srinivasan,Michael J. Carey|99|7|4|5
+45|Fully Persistent B+-trees.|Sitaram Lanka,Eric Mays|94|20|2|0
+46|Multi-Disk B-trees.|Bernhard Seeger,Per-Åke Larson|84|19|9|2
+47|Are Standards the Panacea for Heterogeneous Distributed DBMSs?|Clenn Thompson|0|0|0|0
+48|Starburst II: The Extender Strikes Back!|Guy M. Lohman,George Lapis,Tobin J. Lehman,Rakesh Agrawal,Roberta Cochrane,John McPherson,C. Mohan,Hamid Pirahesh,Jennifer Widom|1|1|0|0

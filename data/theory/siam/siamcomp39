@@ -1,0 +1,150 @@
+149
+1|Special Issue On The Thirty-Eighth Annual ACM Symposium On Theory Of Computing (STOC 2006).|Scott Aaronson,Sudipto Guha,Jon M. Kleinberg,Frank McSherry,Dieter van Melkebeek,Amit Sahai|2|1|0|0
+2|Bounded-Error Quantum State Identification and Exponential Separations in Communication Complexity.|Dmitry Gavinsky,Julia Kempe,Oded Regev,Ronald de Wolf|40|15|0|16
+3|Zero-Knowledge against Quantum Attacks.|John Watrous|116|73|2|4
+4|Narrow Proofs May Be Spacious: Separating Space and Width in Resolution.|Jakob Nordström|48|30|0|0
+5|On Maximizing Welfare When Utility Functions Are Subadditive.|Uriel Feige|171|115|0|11
+6|A Combinatorial Characterization of the Testable Graph Properties: It's All About Regularity.|Noga Alon,Eldar Fischer,Ilan Newman,Asaf Shapira|171|116|0|23
+7|Extractors for a Constant Number of Polynomially Small Min-Entropy Independent Sources.|Anup Rao|77|54|0|12
+8|The Complexity of Computing a Nash Equilibrium.|Constantinos Daskalakis,Paul W. Goldberg,Christos H. Papadimitriou|788|530|0|48
+9|Random Formulas Have Frozen Variables.|Dimitris Achlioptas,Federico Ricci-Tersenghi|22|19|0|4
+10|Edge-Disjoint Paths in Planar Graphs with Constant Congestion.|Chandra Chekuri,Sanjeev Khanna,F. Bruce Shepherd|47|27|0|8
+11|The Fast Johnson--Lindenstrauss Transform and Approximate Nearest Neighbors.|Nir Ailon,Bernard Chazelle|130|121|1|7
+12|Gowers Uniformity, Influence of Variables, and PCPs.|Alex Samorodnitsky,Luca Trevisan|126|69|0|6
+13|The Online Set Cover Problem.|Noga Alon,Baruch Awerbuch,Yossi Azar,Niv Buchbinder,Joseph Naor|96|51|0|4
+14|On Earthmover Distance, Metric Labeling, and 0-Extension.|Howard J. Karloff,Subhash Khot,Aranyak Mehta,Yuval Rabani|17|12|0|1
+15|Sparse Algebraic Equations over Finite Fields.|Igor A. Semaev|17|17|0|4
+16|The Power of Extended Top-Down Tree Transducers.|Andreas Maletti,Jonathan Graehl,Mark Hopkins,Kevin Knight|74|67|0|31
+17|Finding a Heaviest Vertex-Weighted Triangle Is not Harder than Matrix Multiplication.|Artur Czumaj,Andrzej Lingas|7|7|0|2
+18|Distributed Approximate Matching.|Zvi Lotker,Boaz Patt-Shamir,Adi Rosén|50|37|0|3
+19|A Near-Tight Approximation Algorithm for the Robot Localization Problem.|Sven Koenig,Joseph S. B. Mitchell,Apurva Mudgal,Craig A. Tovey|6|6|0|1
+20|Combinatorial Construction of Locally Testable Codes.|Or Meir|38|30|0|7
+21|Special Section on Foundations of Computer Science.|Matthew Andrew,Ashwin Nayak,Rajmohan Rajaraman|2|1|0|0
+22|Set Partitioning via Inclusion-Exclusion.|Andreas Björklund,Thore Husfeldt,Mikko Koivisto|201|168|0|17
+23|Approximate List-Decoding of Direct Product Codes and Uniform Hardness Amplification.|Russell Impagliazzo,Ragesh Jaiswal,Valentine Kabanets|46|25|0|9
+24|On Agnostic Learning of Parities, Monomials, and Halfspaces.|Vitaly Feldman,Parikshit Gopalan,Subhash Khot,Ashok Kumar Ponnuswami|41|36|2|9
+25|Beyond Hirsch Conjecture: Walks on Random Polytopes and Smoothed Complexity of the Simplex Method.|Roman Vershynin|52|39|0|2
+26|Algebraic Algorithms for Matching and Matroid Problems.|Nicholas J. A. Harvey|46|41|0|1
+27|Transdichotomous Results in Computational Geometry, I: Point Location in Sublogarithmic Time.|Timothy M. Chan,Mihai Patrascu|36|33|0|8
+28|Higher Lower Bounds for Near-Neighbor and Further Rich Problems.|Mihai Patrascu,Mikkel Thorup|44|25|0|6
+29|Hardness of Learning Halfspaces with Noise.|Venkatesan Guruswami,Prasad Raghavendra|67|45|2|5
+30|Worst-Case and Smoothed Analysis of the ICP Algorithm, with an Application to the k-Means Method.|David Arthur,Sergei Vassilvitskii|64|43|0|4
+31|Pass-Efficient Algorithms for Learning Mixtures of Uniform Distributions.|Kevin L. Chang,Ravi Kannan|2|2|0|0
+32|Strong Lower Bounds for Approximating Distribution Support Size and the Distinct Elements Problem.|Sofya Raskhodnikova,Dana Ron,Amir Shpilka,Adam Smith|62|52|0|9
+33|Conditional Hardness for Approximate Coloring.|Irit Dinur,Elchanan Mossel,Oded Regev|100|63|0|18
+34|An LLL Algorithm with Quadratic Complexity.|Phong Q. Nguyen,Damien Stehlé|68|61|0|10
+35|Estimating the Weight of Metric Minimum Spanning Trees in Sublinear Time.|Artur Czumaj,Christian Sohler|30|10|0|7
+36|On Coresets for k-Median and k-Means Clustering in Metric and Euclidean Spaces and Their Applications.|Ke Chen|51|49|0|0
+37|Tight Bounds for Randomized and Quantum Local Search.|Shengyu Zhang|18|6|0|1
+38|Special Section On The Thirty-Ninth Annual ACM Symposium On Theory Of Computing (STOC 2007).|Eric Allender,Vladlen Koltun,Maxim Sviridenko|2|1|0|0
+39|Faster Integer Multiplication.|Martin Fürer|315|248|2|0
+40|Low-End Uniform Hardness versus Randomness Tradeoffs for AM.|Ronen Shaltiel,Christopher Umans|14|10|0|4
+41|Circuit Lower Bounds for Merlin--Arthur Classes.|Rahul Santhanam|29|18|0|3
+42|Survivable Network Design with Degree or Order Constraints.|Lap Chi Lau,Joseph Naor,Mohammad R. Salavatipour,Mohit Singh|107|69|0|18
+43|Playing Games with Approximation Algorithms.|Sham M. Kakade,Adam Tauman Kalai,Katrina Ligett|49|36|0|2
+44|Linear Probing with Constant Independence.|Anna Pagh,Rasmus Pagh,Milan Ruzic|51|38|0|2
+45|Zero-Knowledge Proofs from Secure Multiparty Computation.|Yuval Ishai,Eyal Kushilevitz,Rafail Ostrovsky,Amit Sahai|28|23|0|6
+46|Statistically Hiding Commitments and Statistical Zero-Knowledge Arguments from Any One-Way Function.|Iftach Haitner,Minh-Huyen Nguyen,Shien Jin Ong,Omer Reingold,Salil P. Vadhan|52|46|0|14
+47|Kinetic kd-Trees and Longest-Side kd-Trees.|Mohammad Ali Abam,Mark de Berg,Bettina Speckmann|11|9|0|2
+48|The Hiring Problem and Lake Wobegon Strategies.|Andrei Z. Broder,Adam Kirsch,Ravi Kumar,Michael Mitzenmacher,Eli Upfal,Sergei Vassilvitskii|26|20|0|2
+49|A New Approximation Method for Set Covering Problems, with Applications to Multidimensional Bin Packing.|Nikhil Bansal,Alberto Caprara,Maxim Sviridenko|48|45|0|6
+50|Hardness-Randomness Tradeoffs for Bounded Depth Arithmetic Circuits.|Zeev Dvir,Amir Shpilka,Amir Yehudayoff|41|32|0|15
+51|Speed Scaling for Weighted Flow Time.|Nikhil Bansal,Kirk Pruhs,Clifford Stein|152|107|0|24
+52|Time-decaying Sketches for Robust Aggregation of Sensor Data.|Graham Cormode,Srikanta Tirthapura,Bojian Xu|13|11|0|5
+53|Small Approximate Pareto Sets for Biobjective Shortest Paths and Other Problems.|Ilias Diakonikolas,Mihalis Yannakakis|42|41|0|6
+54|On the Computational Power of Demand Queries.|Liad Blumrosen,Noam Nisan|34|33|0|3
+55|Parameterized Approximation Scheme for the Multiple Knapsack Problem.|Klaus Jansen|29|23|0|8
+56|Additive Guarantees for Degree-Bounded Directed Network Design.|Nikhil Bansal,Rohit Khandekar,Viswanath Nagarajan|73|48|0|7
+57|More Efficient Algorithms for Closest String and Substring Problems.|Bin Ma,Xiaoming Sun|36|30|0|3
+58|On the Cost of Interchange Rearrangement in Strings.|Amihood Amir,Tzvika Hartman,Oren Kapah,Avivit Levy,Ely Porat|19|9|0|14
+59|Complexity of Stoquastic Frustration-Free Hamiltonians.|Sergey Bravyi,Barbara M. Terhal|48|44|0|2
+60|Complexity of Decision Problems for XML Schemas and Chain Regular Expressions.|Wim Martens,Frank Neven,Thomas Schwentick|29|27|0|12
+61|Congruence Distributivity Implies Bounded Width.|Libor Barto,Marcin Kozik|19|17|0|14
+62|More Robust Hashing: Cuckoo Hashing with a Stash.|Adam Kirsch,Michael Mitzenmacher,Udi Wieder|87|71|0|18
+63|Simulating Quantum Correlations with Finite Communication.|Oded Regev,Ben Toner|42|34|0|4
+64|Programmable Control of Nucleation for Algorithmic Self-Assembly.|Rebecca Schulman,Erik Winfree|59|22|0|9
+65|Low Distortion Maps Between Point Sets.|Claire Kenyon,Yuval Rabani,Alistair Sinclair|46|14|0|0
+66|Uniform Direct Product Theorems: Simplified, Optimized, and Derandomized.|Russell Impagliazzo,Ragesh Jaiswal,Valentine Kabanets,Avi Wigderson|54|38|0|8
+67|On the Compressibility of NP Instances and Cryptographic Applications.|Danny Harnik,Moni Naor|83|59|0|2
+68|Algorithmic Enumeration of Ideal Classes for Quaternion Orders.|Markus Kirschmer,John Voight|54|49|0|14
+69|O(sqrt(log(n)) Approximation to SPARSEST CUT in Õ(n2) Time.|Sanjeev Arora,Elad Hazan,Satyen Kale|n/a
+70|Approximation Algorithms for Nonuniform Buy-at-Bulk Network Design.|Chandra Chekuri,Mohammad Taghi Hajiaghayi,Guy Kortsarz,Mohammad R. Salavatipour|61|31|0|17
+71|Designing Network Protocols for Good Equilibria.|Ho-Lin Chen,Tim Roughgarden,Gregory Valiant|42|41|0|6
+72|The Sign-Rank of AC0.|Alexander A. Razborov,Alexander A. Sherstov|28|28|0|9
+73|Edge Disjoint Paths in Moderately Connected Graphs.|Satish Rao,Shuheng Zhou|22|20|0|0
+74|Querying Approximate Shortest Paths in Anisotropic Regions.|Siu-Wing Cheng,Hyeon-Suk Na,Antoine Vigneron,Yajun Wang|13|10|0|4
+75|An Optimal Randomized Cell Probe Lower Bound for Approximate Nearest Neighbor Searching.|Amit Chakrabarti,Oded Regev|7|6|0|0
+76|Intractability of Clique-Width Parameterizations.|Fedor V. Fomin,Petr A. Golovach,Daniel Lokshtanov,Saket Saurabh|30|27|0|3
+77|Selfish Traffic Allocation for Server Farms.|Artur Czumaj,Piotr Krysta,Berthold Vöcking|135|29|0|5
+78|Breaking the Epsilon-Soundness Bound of the Linearity Test over GF(2).|Tali Kaufman,Simon Litsyn,Ning Xie|27|23|0|3
+79|Testing Halfspaces.|Kevin Matulef,Ryan O'Donnell,Ronitt Rubinfeld,Rocco A. Servedio|59|50|0|9
+80|Labeling Dynamic XML Trees.|Edith Cohen,Haim Kaplan,Tova Milo|337|102|0|2
+81|More Algorithms for All-Pairs Shortest Paths in Weighted Graphs.|Timothy M. Chan|162|118|0|9
+82|Information-Theoretically Secure Protocols and Security under Composition.|Eyal Kushilevitz,Yehuda Lindell,Tal Rabin|49|27|0|5
+83|Effective Computations on Sliding Windows.|Vladimir Braverman,Rafail Ostrovsky|13|12|0|6
+84|On Spanners and Lightweight Spanners of Geometric Graphs.|Iyad A. Kanj,Ljubomir Perkovic,Ge Xia|14|14|0|9
+85|Distributed Broadcast in Unknown Radio Networks.|Gianluca De Marco|39|28|0|3
+86|Submodularity of Influence in Social Networks: From Local to Global.|Elchanan Mossel,Sébastien Roch|32|31|0|1
+87|On the Approximability of Budgeted Allocations and Improved Lower Bounds for Submodular Welfare Maximization and GAP.|Deeparnab Chakrabarty,Gagan Goel|70|52|1|4
+88|An Optimal Bifactor Approximation Algorithm for the Metric Uncapacitated Facility Location Problem.|Jaroslaw Byrka,Karen Aardal|114|90|0|2
+89|The Local Nature of List Colorings for Graphs of High Girth.|Flavio Chierichetti,Andrea Vattani|6|6|0|0
+90|Approximate Satisfiability and Equivalence.|Eldar Fischer,Frédéric Magniez,Michel de Rougemont|25|14|0|15
+91|Computing the Least Fixed Point of Positive Polynomial Systems.|Javier Esparza,Stefan Kiefer,Michael Luttenberger|15|14|0|7
+92|Quasi-Randomness and Algorithmic Regularity for Graphs with General Degree Distributions.|Noga Alon,Amin Coja-Oghlan,Hiêp Hàn,Mihyun Kang,Vojtech Rödl,Mathias Schacht|22|21|0|1
+93|On the k Shortest Simple Paths Problem in Weighted Directed Graphs.|Liam Roditty|9|9|0|2
+94|On the Impossibility of a Quantum Sieve Algorithm for Graph Isomorphism.|Cristopher Moore,Alexander Russell,Piotr Sniady|43|18|0|12
+95|Special Section On Foundations of Computer Science.|James R. Lee,Christopher Umans|2|1|0|0
+96|The Computational Hardness of Estimating Edit Distance.|Alexandr Andoni,Robert Krauthgamer|32|22|0|12
+97|Towards Sharp Inapproximability for Any 2-CSP.|Per Austrin|53|32|0|2
+98|Pseudorandom Bits for Polynomials.|Andrej Bogdanov,Emanuele Viola|95|69|0|13
+99|Local Global Tradeoffs in Metric Embeddings.|Moses Charikar,Konstantin Makarychev,Yury Makarychev|21|16|0|2
+100|Any AND-OR Formula of Size N Can Be Evaluated in Time N1/2+o(1) on a Quantum Computer.|Andris Ambainis,Andrew M. Childs,Ben Reichardt,Robert Spalek,Shengyu Zhang|n/a
+101|On the Complexity of Nash Equilibria and Other Fixed Points.|Kousha Etessami,Mihalis Yannakakis|156|121|0|15
+102|Hardness of Reconstructing Multivariate Polynomials over Finite Fields.|Parikshit Gopalan,Subhash Khot,Rishi Saket|20|12|0|7
+103|The PSPACE-Completeness of Black-White Pebbling.|Philipp Hertel,Toniann Pitassi|10|10|0|0
+104|Approximately Counting Integral Flows and Cell-Bounded Contingency Tables.|Mary Cryan,Martin E. Dyer,Dana Randall|12|7|0|1
+105|Approximate Halfspace Range Counting.|Boris Aronov,Micha Sharir|10|8|0|6
+106|An O(1) RMRs Leader Election Algorithm.|Wojciech M. Golab,Danny Hendler,Philipp Woelfel|12|12|0|6
+107|On the Implementation of Huge Random Objects.|Oded Goldreich,Shafi Goldwasser,Asaf Nussboim|38|14|0|10
+108|A Better Algorithm for Random k-SAT.|Amin Coja-Oghlan|28|25|0|9
+109|Faster Algorithms for All-pairs Approximate Shortest Paths in Undirected Graphs.|Surender Baswana,Telikepalli Kavitha|19|19|0|6
+110|Local Monotonicity Reconstruction.|Michael E. Saks,C. Seshadhri|24|23|0|3
+111|An Efficient Algorithm for Partial Order Production.|Jean Cardinal,Samuel Fiorini,Gwenaël Joret,Raphaël M. Jungers,J. Ian Munro|17|15|0|7
+112|Quantum Hardcore Functions by Complexity-Theoretical Quantum List Decoding.|Akinori Kawachi,Tomoyuki Yamakami|8|2|0|3
+113|An Approximation Algorithm for Max-Min Fair Allocation of Indivisible Goods.|Arash Asadpour,Amin Saberi|112|81|1|7
+114|Preprocessing Imprecise Points and Splitting Triangulations.|Marc J. van Kreveld,Maarten Löffler,Joseph S. B. Mitchell|25|21|0|3
+115|Approximating Steiner Networks with Node-Weights.|Zeev Nutov|27|25|0|10
+116|Tractability and Learnability Arising from Algebras with Few Subpowers.|Pawel M. Idziak,Petar Markovic,Ralph McKenzie,Matthew Valeriote,Ross Willard|90|63|0|8
+117|Adaptive Local Ratio.|Julián Mestre|7|2|0|2
+118|Chosen-Ciphertext Security via Correlated Products.|Alon Rosen,Gil Segev|129|113|0|3
+119|Quantum Computation and the Evaluation of Tensor Networks.|Itai Arad,Zeph Landau|32|26|0|3
+120|Hardness Amplification Proofs Require Majority.|Ronen Shaltiel,Emanuele Viola|39|27|0|16
+121|Approximate Hypergraph Partitioning and Applications.|Eldar Fischer,Arie Matsliah,Asaf Shapira|18|12|0|2
+122|Extensional Uniformity for Boolean Circuits.|Pierre McKenzie,Michael Thomas,Heribert Vollmer|12|10|0|2
+123|Unique Games with Entangled Provers Are Easy.|Julia Kempe,Oded Regev,Ben Toner|71|57|0|8
+124|Locally Testable Codes Require Redundant Testers.|Eli Ben-Sasson,Venkatesan Guruswami,Tali Kaufman,Madhu Sudan,Michael Viderman|21|21|0|9
+125|Small-Size $\eps$-Nets for Axis-Parallel Rectangles and Boxes.|Boris Aronov,Esther Ezra,Micha Sharir|75|70|0|8
+126|Line Transversals of Convex Polyhedra in R3.|Haim Kaplan,Natan Rubin,Micha Sharir|9|8|0|3
+127|Server Scheduling to Balance Priorities, Fairness, and Average Quality of Service.|Nikhil Bansal,Kirk Pruhs|21|20|0|2
+128|A Complexity Dichotomy for Partition Functions with Mixed Signs.|Leslie Ann Goldberg,Martin Grohe,Mark Jerrum,Marc Thurley|63|55|0|12
+129|Fault Tolerant Spanners for General Graphs.|Shiri Chechik,Michael Langberg,David Peleg,Liam Roditty|38|33|0|11
+130|Left-to-Right Multiplication for Monotone Boolean Dualization.|Endre Boros,Khaled M. Elbassioni,Kazuhisa Makino|4|3|0|0
+131|Bounded Independence Fools Halfspaces.|Ilias Diakonikolas,Parikshit Gopalan,Ragesh Jaiswal,Rocco A. Servedio,Emanuele Viola|72|64|0|24
+132|Lower Bounds on Streaming Algorithms for Approximating the Length of the Longest Increasing Subsequence.|Anna Gál,Parikshit Gopalan|27|19|0|0
+133|Reaching and Distinguishing States of Distributed Systems.|Robert M. Hierons|11|10|0|8
+134|Explicit Construction of a Small Epsilon-Net for Linear Threshold Functions.|Yuval Rabani,Amir Shpilka|29|27|0|2
+135|Randomized Self-Assembly for Exact Shapes.|David Doty|49|42|0|13
+136|Integrality Gaps of 2-o(1) for Vertex Cover SDPs in the Lov[a-acute]sz--Schrijver Hierarchy.|Konstantinos Georgiou,Avner Magen,Toniann Pitassi,Iannis Tourlakis|n/a
+137|Approximation Algorithms for Scheduling Parallel Jobs.|Klaus Jansen,Ralf Thöle|10|10|0|7
+138|Strict Cost Sharing Schemes for Steiner Forest.|Lisa Fleischer,Jochen Könemann,Stefano Leonardi,Guido Schäfer|5|5|0|0
+139|A General Approach for Incremental Approximation and Hierarchical Clustering.|Guolong Lin,Chandrashekhar Nagarajan,Rajmohan Rajaraman,David P. Williamson|32|13|0|0
+140|Extension Preservation Theorems on Classes of Acyclic Finite Structures.|David Duris|4|2|0|0
+141|Quantified Equality Constraints.|Manuel Bodirsky,Hubie Chen|29|18|0|15
+142|Fast Convergence to Wardrop Equilibria by Adaptive Sampling Methods.|Simon Fischer,Harald Räcke,Berthold Vöcking|109|47|0|11
+143|Deterministic Polynomial Time Algorithms for Matrix Completion Problems.|Gábor Ivanyos,Marek Karpinski,Nitin Saxena|18|17|0|7
+144|Fast Access to Distributed Atomic Memory.|Partha Dutta,Rachid Guerraoui,Ron R. Levy,Marko Vukolic|9|7|0|2
+145|Tightening Nonsimple Paths and Cycles on Surfaces.|Éric Colin de Verdière,Jeff Erickson|57|40|0|13
+146|Linear-Time Algorithms for Geometric Graphs with Sublinearly Many Edge Crossings.|David Eppstein,Michael T. Goodrich,Darren Strash|1|1|0|0
+147|Correctness of Gossip-Based Membership under Message Loss.|Maxim Gurevich,Idit Keidar|40|40|0|4
+148|Analysis of Delays Caused by Local Synchronization.|Julia Lipman,Quentin F. Stout|1|1|0|0
+149|Lower Bounds for Randomized Consensus under a Weak Adversary.|Hagit Attiya,Keren Censor-Hillel|28|26|0|2

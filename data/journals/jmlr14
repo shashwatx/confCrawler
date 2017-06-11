@@ -1,0 +1,122 @@
+121
+1|Global analytic solution of fully-observed variational Bayesian matrix factorization.|Shinichi Nakajima,Masashi Sugiyama,S. Derin Babacan,Ryota Tomioka|12|11|0|3
+2|Ranking forests.|Stéphan Clémençon,Marine Depecker,Nicolas Vayatis|15|15|0|5
+3|Nested expectation propagation for Gaussian process classification.|Jaakko Riihimäki,Pasi Jylänki,Aki Vehtari|23|23|0|8
+4|Pairwise likelihood ratios for estimation of non-Gaussian structural equation models.|Aapo Hyvärinen,Stephen M. Smith|37|33|0|1
+5|Universal consistency of localized versions of regularized kernel methods.|Robert Hable|2|2|0|1
+6|Lower bounds and selectivity of weak-consistent policies in stochastic multi-armed bandit problem.|Antoine Salomon,Jean-Yves Audibert,Issam El Alaoui|0|0|0|0
+7|MAGIC summoning: towards automatic suggesting and testing of gestures with low probability of false positives during use.|Daniel Kyu Hwa Kohlsdorf,Thad Starner|5|5|0|0
+8|Sparse single-index model.|Pierre Alquier,Gérard Biau|31|29|0|9
+9|Derivative estimation with local polynomial fitting.|Kris De Brabanter,Jos De Brabanter,Bart De Moor,Irène Gijbels|10|9|0|1
+10|Using symmetry and evolutionary search to minimize sorting networks.|Vinod K. Valsalam,Risto Miikkulainen|5|5|0|0
+11|A framework for evaluating approximation methods for Gaussian process regression.|Krzysztof Chalupka,Christopher K. I. Williams,Iain Murray|44|41|0|0
+12|Risk bounds of learning processes for Lévy processes.|Chao Zhang,Dacheng Tao|3|1|0|1
+13|Learning theory approach to minimum error entropy criterion.|Ting Hu,Jun Fan,Qiang Wu,Ding-Xuan Zhou|15|15|0|4
+14|Ranked bandits in metric spaces: learning diverse rankings over large document collections.|Aleksandrs Slivkins,Filip Radlinski,Sreenivas Gollapudi|21|18|0|4
+15|A theory of multiclass boosting.|Indraneel Mukherjee,Robert E. Schapire|39|37|0|1
+16|Algorithms for discovery of multiple Markov boundaries.|Alexander R. Statnikov,Jan Lemeire,Constantin F. Aliferis|10|8|0|2
+17|Stochastic dual coordinate ascent methods for regularized loss.|Shai Shalev-Shwartz,Tong Zhang|221|199|0|18
+18|Optimal discovery with probabilistic expert advice: finite time analysis and macroscopic optimality.|Sébastien Bubeck,Damien Ernst,Aurélien Garivier|3|2|0|1
+19|A C++ template-based reinforcement learning library: fitting the code to the mathematics.|Hervé Frezza-Buet,Matthieu Geist|4|3|0|1
+20|CODA: high dimensional copula discriminant analysis.|Fang Han,Tuo Zhao,Han Liu|25|23|0|11
+21|Bayesian nonparametric hidden semi-Markov models.|Matthew J. Johnson,Alan S. Willsky|81|75|0|4
+22|Differential privacy for functions and functional data.|Rob Hall,Alessandro Rinaldo,Larry A. Wasserman|17|17|0|0
+23|Sparsity regret bounds for individual sequences in online linear regression.|Sébastien Gerchinovitz|29|29|0|4
+24|Semi-supervised learning using greedy max-cut.|Jun Wang,Tony Jebara,Shih-Fu Chang|24|23|0|1
+25|MLPACK: a scalable C++ machine learning library.|Ryan R. Curtin,James R. Cline,N. P. Slagle,William B. March,Parikshit Ram,Nishant A. Mehta,Alexander G. Gray|47|43|0|11
+26|Greedy sparsity-constrained optimization.|Sohail Bahmani,Bhiksha Raj,Petros T. Boufounos|52|49|0|3
+27|Quasi-Newton methods: a new direction.|Philipp Hennig,Martin Kiefel|13|12|0|3
+28|A widely applicable Bayesian information criterion.|Sumio Watanabe|33|33|0|1
+29|Truncated power method for sparse eigenvalue problems.|Xiao-Tong Yuan,Tong Zhang|66|63|0|3
+30|Query induction with schema-guided pruning strategies.|Joachim Niehren,Jérôme Champavère,Aurélien Lemay,Rémi Gilleron|1|1|0|0
+31|Bayesian Canonical correlation analysis.|Arto Klami,Seppo Virtanen,Samuel Kaski|37|34|0|12
+32|Variational inference in nonconjugate models.|Chong Wang,David M. Blei|63|59|0|11
+33|Beyond Fano's inequality: bounds on the optimal F-score, BER, and cost-sensitive risk and their implications.|Ming-Jie Zhao,Narayanan Unny Edakunni,Adam Pocock,Gavin Brown|18|18|0|0
+34|Sparse activity and sparse connectivity in supervised learning.|Markus Thom,Günther Palm|9|9|0|1
+35|Stress functions for nonlinear dimension reduction, proximity analysis, and graph drawing.|Lisha Chen,Andreas Buja|9|7|0|0
+36|GPstuff: Bayesian modeling with Gaussian processes.|Jarno Vanhatalo,Jaakko Riihimäki,Jouni Hartikainen,Pasi Jylänki,Ville Tolvanen,Aki Vehtari|52|47|0|4
+37|Performance bounds for λ policy iteration and application to the game of Tetris.|Bruno Scherrer|9|9|0|5
+38|Manifold regularization and semi-supervised learning: some theoretical analyses.|Partha Niyogi|36|20|0|2
+39|Random spanning trees and the prediction ofweighted graphs.|Nicolò Cesa-Bianchi,Claudio Gentile,Fabio Vitale,Giovanni Zappella|27|27|0|13
+40|Regularization-free principal curve estimation.|Samuel Gerber,Ross T. Whitaker|6|6|0|1
+41|Stochastic variational inference.|Matthew D. Hoffman,David M. Blei,Chong Wang,John William Paisley|349|327|0|50
+42|Multicategory large-margin unified machines.|Chong Zhang,Yufeng Liu|5|5|0|3
+43|Finding optimal Bayesian networks using precedence constraints.|Pekka Parviainen,Mikko Koivisto|4|4|0|0
+44|JKernelMachines: a simple framework for kernel machine.|David Picard,Nicolas Thome,Matthieu Cord|3|3|0|1
+45|Asymptotic results on adaptive false discovery rate controlling procedures based on kernel estimators.|Pierre Neuvial|9|8|0|0
+46|Conjugate relation between loss functions and uncertainty sets in classification problems.|Takafumi Kanamori,Akiko Takeda,Taiji Suzuki|5|5|0|3
+47|A risk comparison of ordinary least squares vs ridge regression.|Paramveer S. Dhillon,Dean P. Foster,Sham M. Kakade,Lyle H. Ungar|13|12|0|2
+48|On the learnability of shuffle ideals.|Dana Angluin,James Aspnes,Sarah Eisenstat,Aryeh Kontorovich|3|3|0|1
+49|Fast generalized subset scan for anomalous pattern detection.|Edward McFowland,Skyler Speakman,Daniel B. Neill|18|16|0|8
+50|Sub-local constraint-based learning of Bayesian networks using a joint dependence criterion.|Rami Mahdi,Jason G. Mezey|6|6|0|1
+51|Dimension independent similarity computation.|Reza Bosagh Zadeh,Ashish Goel|24|21|0|7
+52|Dynamic affine-invariant shape-appearance handshape features and classification in sign language videos.|Anastasios Roussos,Stavros Theodorakis,Vassilis Pitsikalis,Petros Maragos|6|5|0|2
+53|Nonparametric sparsity and regularization.|Lorenzo Rosasco,Silvia Villa,Sofia Mosci,Matteo Santoro,Alessandro Verri|11|9|0|3
+54|Similarity-based clustering by left-stochastic matrix factorization.|Raman Arora,Maya R. Gupta,Amol Kapila,Maryam Fazel|7|5|0|0
+55|On the convergence of maximum variance unfolding.|Ery Arias-Castro,Bruno Pelletier|5|5|0|0
+56|Variable selection in high-dimension with random designs and orthogonal matching pursuit.|Antony Joseph|5|5|0|3
+57|Random walk kernels and learning curves for Gaussian process regression on random graphs.|Matthew Urry,Peter Sollich|3|3|0|3
+58|Distributions of angles in random packing on spheres.|T. Tony Cai,Jianqing Fan,Tiefeng Jiang|30|29|0|3
+59|Cluster analysis: unsupervised learning via supervised learning with a non-convex penalty.|Wei Pan,Xiaotong Shen,Binghui Liu|9|9|0|0
+60|Generalized spike-and-slab priors for Bayesian group feature selection using expectation propagation.|Daniel Hernández-Lobato,José Miguel Hernández-Lobato,Pierre Dupont|24|24|0|0
+61|Alleviating naive Bayes attribute independence assumption by attribute weighting.|Nayyar A. Zaidi,Jesús Cerquides,Mark James Carman,Geoffrey I. Webb|44|39|0|7
+62|Machine learning with operational costs.|Theja Tulabandhula,Cynthia Rudin|9|9|0|6
+63|Approximating the permanent with fractional belief propagation.|Michael Chertkov,Adam B. Yedidia|12|11|0|1
+64|Construction of approximation spaces for reinforcement learning.|Wendelin Böhmer,Steffen Grünewälder,Yun Shen,Marek Musial,Klaus Obermayer|5|5|0|1
+65|Distribution-dependent sample complexity of large margin learning.|Sivan Sabato,Nathan Srebro,Naftali Tishby|1|1|0|0
+66|Convex and scalable weakly labeled SVMs.|Yu-Feng Li,Ivor W. Tsang,James T. Kwok,Zhi-Hua Zhou|11|9|0|3
+67|Language-motivated approaches to action recognition.|Manavender R. Malgireddy,Ifeoma Nwogu,Venu Govindaraju|10|10|0|1
+68|Segregating event streams and noise with a Markov renewal process model.|Dan Stowell,Mark D. Plumbley|11|10|0|6
+69|Gaussian Kullback-Leibler approximate inference.|Edward Challis,David Barber|10|8|0|0
+70|Message-passing algorithms for quadratic minimization.|Nicholas Ruozzi,Sekhar Tatikonda|7|7|0|3
+71|The rate of convergence of AdaBoost.|Indraneel Mukherjee,Cynthia Rudin,Robert E. Schapire|22|22|0|4
+72|Orange: data mining toolbox in python.|Janez Demsar,Tomaz Curk,Ales Erjavec,Crtomir Gorup,Tomaz Hocevar,Mitar Milutinovic,Martin Mozina,Matija Polajnar,Marko Toplak,Anze Staric,Miha Stajdohar,Lan Umek,Lan Zagar,Jure Zbontar,Marinka Zitnik,Blaz Zupan|106|99|0|0
+73|Tapkee: an efficient dimension reduction library.|Sergey Lisitsyn,Christian Widmer,Fernando J. Iglesias Garcia|5|5|0|0
+74|On the mutual nearest neighbors estimate in regression.|Arnaud Guyader,Nick Hengartner|2|2|0|0
+75|Distance preserving embeddings for general n-dimensional manifolds.|Nakul Verma|10|8|0|2
+76|Supervised feature selection in graphs with path coding penalties and network flows.|Julien Mairal,Bin Yu|18|18|0|3
+77|Greedy feature selection for subspace clustering.|Eva L. Dyer,Aswin C. Sankaranarayanan,Richard G. Baraniuk|38|33|0|4
+78|Learning bilinear model for matching queries and documents.|Wei Wu,Zhengdong Lu,Hang Li|11|10|0|5
+79|One-shot learning gesture recognition from RGB-D data using bag of features.|Jun Wan,Qiuqi Ruan,Wei Li,Shuang Deng|29|28|0|2
+80|Efficient active learning of halfspaces: an aggressive approach.|Alon Gonen,Sivan Sabato,Shai Shalev-Shwartz|11|9|0|3
+81|Keep it simple and sparse: real-time action recognition.|Sean Ryan Fanello,Ilaria Gori,Giorgio Metta,Francesca Odone|23|23|0|3
+82|Maximum volume clustering: a new discriminative clustering approach.|Gang Niu,Bo Dai,Lin Shang,Masashi Sugiyama|7|7|0|4
+83|Sparse/robust estimation and Kalman smoothing with nonsmooth log-concave densities: modeling, computation, and theory.|Aleksandr Y. Aravkin,James V. Burke,Gianluigi Pillonetto|11|8|0|8
+84|Improving CUR matrix decomposition and the Nyström approximation via adaptive sampling.|Shusen Wang,Zhihua Zhang|39|38|0|10
+85|Training energy-based models for time-series imputation.|Philemon Brakel,Dirk Stroobandt,Benjamin Schrauwen|11|11|0|0
+86|Belief propagation for continuous state spaces: stochastic message-passing with quantitative guarantees.|Nima Noorshams,Martin J. Wainwright|8|8|0|2
+87|A binary-classification-based metric between time-series distributions and its use in statistical and learning problems.|Daniil Ryabko,Jérémie Mary|3|2|0|1
+88|Perturbative corrections for approximate inference in Gaussian latent variable models.|Manfred Opper,Ulrich Paquet,Ole Winther|3|3|0|2
+89|The CAM software for nonnegative blind source separation in R-Java.|Niya Wang,Fan Meng,Li Chen,Subha Madhavan,Robert Clarke,Eric P. Hoffman,Jianhua Xuan,Yue Wang|1|0|0|1
+90|A near-optimal algorithm for differentially-private principal components.|Kamalika Chaudhuri,Anand D. Sarwate,Kaushik Sinha|11|11|0|1
+91|Parallel vector field embedding.|Binbin Lin,Xiaofei He,Chiyuan Zhang,Ming Ji|11|9|0|3
+92|Multi-stage multi-task feature learning.|Pinghua Gong,Jieping Ye,Changshui Zhang|27|25|0|7
+93|A plug-in approach to neyman-pearson classification.|Xin Tong|4|4|0|1
+94|Experiment selection for causal discovery.|Antti Hyttinen,Frederick Eberhardt,Patrik O. Hoyer|8|7|0|2
+95|Stationary-sparse causality network learning.|Yuejia He,Yiyuan She,Dapeng Wu|5|5|0|4
+96|Algorithms and hardness results for parallel large margin learning.|Philip M. Long,Rocco A. Servedio|8|8|0|0
+97|Large-scale SVD and manifold learning.|Ameet Talwalkar,Sanjiv Kumar,Mehryar Mohri,Henry A. Rowley|19|18|0|0
+98|QuantMiner for mining quantitative association rules.|Ansaf Salleb-Aouissi,Christel Vrain,Cyril Nortet,Xiangrong Kong,Vivek Rathod,Daniel Cassard|14|13|0|0
+99|Divvy: fast and intuitive exploratory data analysis.|Joshua M. Lewis,Virginia R. de Sa,Laurens van der Maaten|1|0|0|0
+100|Variational algorithms for marginal MAP.|Qiang Liu,Alexander T. Ihler|34|31|0|7
+101|GURLS: a least squares library for supervised learning.|Andrea Tacchetti,Pavan Kumar Mallapragada,Matteo Santoro,Lorenzo Rosasco|16|14|0|1
+102|Counterfactual reasoning and learning systems: the example of computational advertising.|Léon Bottou,Jonas Peters,Joaquin Quiñonero Candela,Denis Xavier Charles,Max Chickering,Elon Portugaly,Dipankar Ray,Patrice Y. Simard,Ed Snelson|33|30|0|1
+103|Multivariate convex regression with adaptive partitioning.|Lauren Hannah,David B. Dunson|26|26|0|3
+104|Fast MCMC sampling for Markov jump processes and extensions.|Vinayak Rao,Yee Whye Teh|26|23|0|2
+105|Communication-efficient algorithms for statistical optimization.|Yuchen Zhang,John C. Duchi,Martin J. Wainwright|64|53|0|7
+106|PC algorithm for nonparanormal graphical models.|Naftali Harris,Mathias Drton|17|15|0|1
+107|Sparse matrix inversion with scaled Lasso.|Tingni Sun,Cun-Hui Zhang|30|26|0|2
+108|Consistent selection of tuning parameters via variable selection stability.|Wei Sun,Junhui Wang,Yixin Fang|16|15|0|4
+109|Learning theory analysis for association rules and sequential event prediction.|Cynthia Rudin,Benjamin Letham,David Madigan|10|9|0|4
+110|Comment on "Robustness and regularization of support vector machines" by H. Xu et al. (Journal of machine learning research, volume 10, pp 1485-1510, 2009).|Yahya Forghani,Hadi Sadoghi Yazdi|0|0|0|0
+111|Lovász ϑ function, SVMs and finding dense subgraphs.|Vinay Jethava,Anders Martinsson,Chiranjib Bhattacharyya,Devdatt P. Dubhashi|6|5|0|4
+112|Learning trees from strings: a strong learning algorithm for some context-free grammars.|Alexander Clark|17|17|0|5
+113|Classifying with confidence from incomplete information.|Nathan Parrish,Hyrum S. Anderson,Maya R. Gupta,Dun-Yu Hsiao|7|7|0|0
+114|Classifier selection using the predicate depth.|Ran Gilad-Bachrach,Christopher J. C. Burges|1|1|0|1
+115|A max-norm constrained minimization approach to 1-bit matrix completion.|Tony Cai,Wen-Xin Zhou|16|16|0|0
+116|Efficient program synthesis using constraint satisfaction in inductive logic programming.|John Ahlgren,Shiu Yin Yuen|1|1|0|0
+117|How to solve classification and regression problems on high-dimensional data with a supervised extension of slow feature analysis.|Alberto N. Escalante,Laurenz Wiskott|10|7|0|4
+118|Joint harmonic functions and their supervised connections.|Mark Vere Culp,Kenneth Joseph Ryan|0|0|0|0
+119|Kernel Bayes' rule: Bayesian inference with positive definite kernels.|Kenji Fukumizu,Le Song,Arthur Gretton|27|27|0|9
+120|Optimally fuzzy temporal memory.|Karthik H. Shankar,Marc W. Howard|2|2|0|2
+121|BudgetedSVM: a toolbox for scalable SVM approximations.|Nemanja Djuric,Liang Lan,Slobodan Vucetic,Zhuang Wang|16|14|0|2

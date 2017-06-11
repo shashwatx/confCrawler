@@ -1,0 +1,54 @@
+53
+1|Architectural Support for Programming Languages and Operating Systems, ASPLOS '14, Salt Lake City, UT, USA, March 1-5, 2014.|Rajeev Balasubramonian,Al Davis,Sarita V. Adve|n/a
+2|Inside windows azure: the challenges and opportunities of a cloud operating system.|Brad Calder|1|1|0|0
+3|Scale-out NUMA.|Stanko Novakovic,Alexandros Daglis,Edouard Bugnion,Babak Falsafi,Boris Grot|25|23|0|1
+4|Rhythm: harnessing data parallel hardware for server workloads.|Sandeep R. Agrawal,Valentin Pistol,Jun Pang,John Tran,David Tarjan,Alvin R. Lebeck|10|9|0|2
+5|Paraprox: pattern-based approximation for data parallel applications.|Mehrzad Samadi,Davoud Anoushe Jamshidi,Janghaeng Lee,Scott A. Mahlke|40|35|0|6
+6|Uncertain: a first-order type for uncertain data.|James Bornholt,Todd Mytkowicz,Kathryn S. McKinley|40|38|0|11
+7|Using ARM trustzone to build a trusted language runtime for mobile applications.|Nuno Santos,Himanshu Raj,Stefan Saroiu,Alec Wolman|37|31|0|2
+8|Virtual ghost: protecting applications from hostile operating systems.|John Criswell,Nathan Dautenhahn,Vikram S. Adve|34|32|0|3
+9|Sapper: a language for hardware-level security policy enforcement.|Xun Li,Vineeth Kashyap,Jason K. Oberg,Mohit Tiwari,Vasanth Ram Rajarathinam,Ryan Kastner,Timothy Sherwood,Ben Hardekopf,Frederic T. Chong|8|8|0|1
+10|Finding trojan message vulnerabilities in distributed systems.|Radu Banabic,George Candea,Rachid Guerraoui|1|1|0|0
+11|Quasar: resource-efficient and QoS-aware cluster management.|Christina Delimitrou,Christos Kozyrakis|85|78|0|7
+12|REF: resource elasticity fairness with sharing incentives for multiprocessors.|Seyed Majid Zahedi,Benjamin C. Lee|25|21|0|4
+13|Price theory based power management for heterogeneous multi-cores.|Thannirmalai Somu Muthukaruppan,Anuj Pathania,Tulika Mitra|20|17|0|3
+14|Underprovisioning backup power infrastructure for datacenters.|Di Wang,Sriram Govindan,Anand Sivasubramaniam,Aman Kansal,Jie Liu,Badriddine Khessib|12|11|0|1
+15|Comprehending performance from real-world execution traces: a device-driver case.|Xiao Yu,Shi Han,Dongmei Zhang,Tao Xie|11|10|0|0
+16|Leveraging the short-term memory of hardware to diagnose production-run software failures.|Joy Arulraj,Guoliang Jin,Shan Lu|7|6|0|1
+17|RelaxReplay: record and replay for relaxed-consistency multiprocessors.|Nima Honarmand,Josep Torrellas|7|7|0|2
+18|Prototyping symbolic execution engines for interpreted languages.|Stefan Bucur,Johannes Kinder,George Candea|10|10|0|2
+19|Q100: the architecture and design of a database processing unit.|Lisa Wu,Andrea Lottarini,Timothy K. Paine,Martha A. Kim,Kenneth A. Ross|27|23|0|1
+20|DianNao: a small-footprint high-throughput accelerator for ubiquitous machine-learning.|Tianshi Chen,Zidong Du,Ninghui Sun,Jia Wang,Chengyong Wu,Yunji Chen,Olivier Temam|72|64|0|7
+21|K2: a mobile operating system for heterogeneous coherence domains.|Felix Xiaozhu Lin,Zhen Wang,Lin Zhong|25|24|0|2
+22|Disengaged scheduling for fair, protected access to fast computational accelerators.|Konstantinos Menychtas,Kai Shen,Michael L. Scott|13|12|0|1
+23|Neuromorphic processing: a new frontier in scaling computer architecture.|Jeff Gehlhaar|3|3|0|0
+24|I/o paravirtualization at the device file boundary.|Ardalan Amiri Sani,Kevin Boos,Shaopu Qin,Lin Zhong|11|10|0|6
+25|KVM/ARM: the design and implementation of the linux ARM hypervisor.|Christoffer Dall,Jason Nieh|39|36|0|1
+26|VSwapper: a memory swapper for virtualized environments.|Nadav Amit,Dan Tsafrir,Assaf Schuster|18|15|0|0
+27|Cider: native execution of iOS apps on android.|Jeremy Andrus,Alexander Van't Hof,Naser AlDuaij,Christoffer Dall,Nicolas Viennot,Jason Nieh|3|3|0|1
+28|SI-TM: reducing transactional memory abort rates through snapshot isolation.|Heiner Litz,David R. Cheriton,Amin Firoozshahian,Omid Azizi,John P. Stevenson|8|8|0|2
+29|Transactionalizing legacy code: an experience report using GCC and Memcached.|Wenjia Ruan,Trilok Vyas,Yujie Liu,Michael F. Spear|19|19|0|7
+30|Fence-free work stealing on bounded TSO processors.|Adam Morrison,Yehuda Afek|3|3|0|2
+31|Heterogeneous-race-free memory models.|Derek R. Hower,Blake A. Hechtman,Bradford M. Beckmann,Benedict R. Gaster,Mark D. Hill,Steven K. Reinhardt,David A. Wood|19|18|0|5
+32|Triple-A: a Non-SSD based autonomic all-flash array for high performance storage systems.|Myoungsoo Jung,Wonil Choi,John Shalf,Mahmut T. Kandemir|3|3|0|0
+33|NVM duet: unified working memory and persistent store architecture.|Ren-Shuo Liu,De-Yu Shen,Chia-Lin Yang,Shun-Chih Yu,Cheng-Yuan Michael Wang|29|27|0|0
+34|SDF: software-defined flash for web-scale internet storage systems.|Jian Ouyang,Shiding Lin,Jiang Song,Zhenyu Hou,Yong Wang,Yuanzheng Wang|36|36|0|1
+35|Integrated 3D-stacked server designs for increasing physical density of key-value stores.|Anthony Gutierrez,Michael Cieslak,Bharan Giridhar,Ronald G. Dreslinski,Luis Ceze,Trevor N. Mudge|11|10|0|1
+36|Deterministic galois: on-demand, portable and parameterless.|Donald Nguyen,Andrew Lenharth,Keshav Pingali|17|17|0|0
+37|Energy-efficient work-stealing language runtimes.|Haris Ribic,Yu David Liu|12|12|0|4
+38|Data-parallel finite-state machines.|Todd Mytkowicz,Madanlal Musuvathi,Wolfram Schulte|20|19|0|3
+39|Challenging the "embarrassingly sequential": parallelizing finite state machine-based computations through principled speculation.|Zhijia Zhao,Bo Wu,Xipeng Shen|6|6|0|2
+40|The sharing architecture: sub-core configurability for IaaS clouds.|Yanqi Zhou,David Wentzlaff|3|3|0|0
+41|ASC: automatically scalable computation.|Amos Waterland,Elaine Angelino,Ryan P. Adams,Jonathan Appavoo,Margo I. Seltzer|5|5|0|3
+42|The benefit of SMT in the multi-core era: flexibility towards degrees of thread-level parallelism.|Stijn Eyerman,Lieven Eeckhout|8|8|0|1
+43|Finding the limit: examining the potential and complexity of compilation scheduling for JIT-based runtime systems.|Yufei Ding,Mingzhou Zhou,Zhijia Zhao,Sarah Eisenstat,Xipeng Shen|4|4|0|1
+44|Speculative hardware/software co-designed floating-point multiply-add fusion.|Marc Lupon,Enric Gibert,Grigorios Magklis,Sridhar Samudrala,Raúl Martínez,Kyriakos Stavrou,David R. Ditzel|5|4|0|0
+45|Post-compiler software optimization for reducing energy.|Eric M. Schulte,Jonathan Dorn,Stephen Harding,Stephanie Forrest,Westley Weimer|17|17|0|3
+46|Resolved: specialized architectures, languages, and system software should supplant general-purpose alternatives within a decade.|David A. Wood|1|1|0|0
+47|Guardrail: a high fidelity approach to protecting hardware devices from buggy drivers.|Olatunji Ruwase,Michael A. Kozuch,Phillip B. Gibbons,Todd C. Mowry|4|4|0|0
+48|Low-level detection of language-level data races with LARD.|Benjamin P. Wood,Luis Ceze,Dan Grossman|7|6|0|1
+49|EnCore: exploiting system environment and correlation information for misconfiguration detection.|Jiaqi Zhang,Lakshminarayanan Renganarayana,Xiaolan Zhang,Niyu Ge,Vasanth Bala,Tianyin Xu,Yuanyuan Zhou|19|18|0|0
+50|High-performance fractal coherence.|Gwendolyn Voskuilen,T. N. Vijaykumar|4|4|0|1
+51|Locality-oblivious cache organization leveraging single-cycle multi-hop NoCs.|Woo-Cheol Kwon,Tushar Krishna,Li-Shiuan Peh|1|1|0|0
+52|Ubik: efficient cache sharing with strict qos for latency-critical workloads.|Harshad Kasture,Daniel Sanchez|18|17|0|5
+53|Architectural support for address translation on GPUs: designing memory management units for CPU/GPUs with unified address spaces.|Bharath Pichai,Lisa Hsu,Abhishek Bhattacharjee|21|19|0|2

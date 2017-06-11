@@ -1,0 +1,39 @@
+38
+1|Proceedings of the 17th International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2012, London, UK, March 3-7, 2012.|Tim Harris,Michael L. Scott|n/a
+2|PocketWeb: instant web browsing for mobile devices.|Dimitrios Lymberopoulos,Oriana Riva,Karin Strauss,Akshay Mittal,Alexandros Ntoulas|36|36|1|2
+3|Reflex: using low-power processors in smartphones without knowing them.|Felix Xiaozhu Lin,Zhen Wang,Robert LiKamWa,Lin Zhong|37|35|0|7
+4|Totally green: evaluating and designing servers for lifecycle environmental impact.|Jichuan Chang,Justin Meza,Parthasarathy Ranganathan,Amip Shah,Rocky Shih,Cullen Bash|10|10|0|1
+5|Clearing the clouds: a study of emerging scale-out workloads on modern hardware.|Michael Ferdman,Almutaz Adileh,Yusuf Onur Koçberber,Stavros Volos,Mohammad Alisafaee,Djordje Jevdjic,Cansu Kaynak,Adrian Daniel Popescu,Anastasia Ailamaki,Babak Falsafi|298|279|2|6
+6|Iterative optimization for the data center.|Yang Chen,Shuangde Fang,Lieven Eeckhout,Olivier Temam,Chengyong Wu|8|8|0|2
+7|Tarazu: optimizing MapReduce on heterogeneous clusters.|Faraz Ahmad,Srimat T. Chakradhar,Anand Raghunathan,T. N. Vijaykumar|126|124|0|2
+8|Leveraging stored energy for handling power emergencies in aggressively provisioned datacenters.|Sriram Govindan,Di Wang,Anand Sivasubramaniam,Bhuvan Urgaonkar|59|58|0|9
+9|Understanding modern device drivers.|Asim Kadav,Michael M. Swift|36|35|0|1
+10|Chameleon: operating system support for dynamic processors.|Sankaralingam Panneerselvam,Michael M. Swift|18|17|0|1
+11|Cosmic rays don't strike twice: understanding the nature of DRAM errors and the implications for system design.|Andy A. Hwang,Ioan A. Stefanovici,Bianca Schroeder|112|108|0|1
+12|Relyzer: exploiting application-level fault equivalence to analyze application resiliency to transient faults.|Siva Kumar Sastry Hari,Sarita V. Adve,Helia Naeimi,Pradeep Ramachandran|54|52|0|3
+13|Comprehensive kernel instrumentation via dynamic binary translation.|Peter Feiner,Angela Demke Brown,Ashvin Goel|21|21|0|3
+14|Continuous object access profiling and optimizations to overcome the memory wall and bloat.|Rei Odaira,Toshio Nakatani|5|5|0|0
+15|A case for unlimited watchpoints.|Joseph L. Greathouse,Hongyi Xin,Yixin Luo,Todd M. Austin|17|16|0|1
+16|Aikido: accelerating shared data dynamic analyses.|Marek Olszewski,Qin Zhao,David Koh,Jason Ansel,Saman P. Amarasinghe|18|18|0|0
+17|Data races vs. data race bugs: telling the difference with portend.|Baris Kasikci,Cristian Zamfir,George Candea|54|53|0|7
+18|Scalable address spaces using RCU balanced trees.|Austin T. Clements,M. Frans Kaashoek,Nickolai Zeldovich|51|48|2|2
+19|Applying transactional memory to concurrency bugs.|Haris Volos,Andres Jaan Tack,Michael M. Swift,Shan Lu|21|21|0|3
+20|Bottleneck identification and scheduling in multithreaded applications.|José A. Joao,M. Aater Suleman,Onur Mutlu,Yale N. Patt|69|63|0|9
+21|Optimal task assignment in multithreaded processors: a statistical approach.|Petar Radojkovic,Vladimir Cakarevic,Miquel Moretó,Javier Verdú,Alex Pajuelo,Francisco J. Cazorla,Mario Nemirovsky,Mateo Valero|24|22|0|0
+22|CRUISE: cache replacement and utility-aware scheduling.|Aamer Jaleel,Hashem Hashemi Najaf-abadi,Samantika Subramaniam,Simon C. Steely Jr.,Joel S. Emer|49|48|1|1
+23|Execution migration in a heterogeneous-ISA chip multiprocessor.|Matthew DeVuyst,Ashish Venkat,Dean M. Tullsen|37|36|0|1
+24|Efficient sequential consistency via conflict ordering.|Changhui Lin,Vijay Nagarajan,Rajiv Gupta,Bharghava Rajaram|23|22|0|3
+25|HICAMP: architectural support for efficient concurrency-safe shared structured data access.|David R. Cheriton,Amin Firoozshahian,Alex Solomatnikov,John P. Stevenson,Omid Azizi|15|15|0|4
+26|Architecture support for disciplined approximate programming.|Hadi Esmaeilzadeh,Adrian Sampson,Luis Ceze,Doug Burger|180|167|0|32
+27|DreamWeaver: architectural support for deep sleep.|David Meisner,Thomas F. Wenisch|38|37|0|1
+28|Automatic generation of hardware/software interfaces.|Myron King,Nirav Dave,Arvind|11|11|0|3
+29|Path-exploration lifting: hi-fi tests for lo-fi emulators.|Lorenzo Martignoni,Stephen McCamant,Pongsin Poosankam,Dawn Song,Petros Maniatis|25|24|0|2
+30|Green-Marl: a DSL for easy and efficient graph analysis.|Sungpack Hong,Hassan Chafi,Eric Sedlar,Kunle Olukotun|122|115|0|17
+31|SIMD defragmenter: efficient ILP realization on data-parallel architectures.|Yongjun Park,Sangwon Seo,Hyunchul Park,Hyoun Kyu Cho,Scott A. Mahlke|16|14|0|0
+32|An update-aware storage system for low-locality update-intensive workloads.|Dilip Nijagal Simha,Maohua Lu,Tzi-cker Chiueh|5|5|0|2
+33|Providing safe, user space access to fast, solid state disks.|Adrian M. Caulfield,Todor I. Mollov,Louis Alex Eisner,Arup De,Joel Coburn,Steven Swanson|74|71|1|4
+34|Whole-system persistence.|Dushyanth Narayanan,Orion Hodson|91|86|2|0
+35|ELI: bare-metal performance for I/O virtualization.|Abel Gordon,Nadav Amit,Nadav Har'El,Muli Ben-Yehuda,Alex Landau,Assaf Schuster,Dan Tsafrir|134|130|0|11
+36|DejaVu: accelerating resource allocation in virtualized environments.|Nedeljko Vasic,Dejan M. Novakovic,Svetozar Miucin,Dejan Kostic,Ricardo Bianchini|86|80|0|0
+37|Architectural support for hypervisor-secure virtualization.|Jakub Szefer,Ruby B. Lee|67|64|0|6
+38|Region scheduling: efficiently using the cache architectures via page-level affinity.|Min Lee,Karsten Schwan|26|26|0|9

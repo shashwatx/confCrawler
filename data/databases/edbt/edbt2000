@@ -1,0 +1,38 @@
+37
+1|Advances in Database Technology - EDBT 2000, 7th International Conference on Extending Database Technology, Konstanz, Germany, March 27-31, 2000, Proceedings.|Carlo Zaniolo,Peter C. Lockemann,Marc H. Scholl,Torsten Grust|1|1|0|0
+2|XML: Current Developments and Future Challenges for the Database Community.|Stefano Ceri,Piero Fraternali,Stefano Paraboschi|70|2|0|1
+3|Trading Quality for Time with Nearest Neighbor Search.|Roger Weber,Klemens Böhm|106|25|0|7
+4|Dynamically Optimizing High-Dimensional Index Structures.|Christian Böhm,Hans-Peter Kriegel|41|11|0|3
+5|Slim-Trees: High Performance Metric Trees Minimizing Overlap Between Nodes.|Caetano Traina Jr.,Agma J. M. Traina,Bernhard Seeger,Christos Faloutsos|301|92|0|28
+6|Automatic Deployment of Application-Specific Metadata and Code in MOCHA.|Manuel Rodriguez-Martinez,Nick Roussopoulos|27|2|9|2
+7|A Graph-Oriented Model for Articulation of Ontology Interdependencies.|Prasenjit Mitra,Gio Wiederhold,Martin L. Kersten|485|136|57|13
+8|An Approach to the Semi-Automatic Generation of Mediator Specifications.|Birgitta König-Ries|4|0|0|0
+9|Securing XML Documents.|Ernesto Damiani,Sabrina De Capitani di Vimercati,Stefano Paraboschi,Pierangela Samarati|298|59|6|18
+10|Using Checksums to Detect Data Corruption.|Daniel Barbará,Rajni Goel,Sushil Jajodia|46|5|2|6
+11|Navigation-Driven Evaluation of Virtual Mediated Views.|Bertram Ludäscher,Yannis Papakonstantinou,Pavel Velikhov|73|7|1|14
+12|Aggregate Aware Caching for Multi-Dimensional Queries.|Prasad Deshpande,Jeffrey F. Naughton|34|5|0|0
+13|Performance and Availability Assessment for the Configuration of Distributed Workflow Management Systems.|Michael Gillmann,Jeanine Weißenfels,Gerhard Weikum,Achim Kraiss|39|4|0|4
+14|Evolution and Revolutions in LDAP Directory Caches.|Olga Kapitskaia,Raymond T. Ng,Divesh Srivastava|23|5|1|0
+15|Order Based Analysis Functions in NCR Teradata Parallel RDBMS.|Ambuj Shatdal|7|2|4|4
+16|Performance of DB2 Enterprise-Extended Edition on NT with Virtual Interface Architecture.|Sivakumar Harinath,Robert L. Grossman,K. Bernhard Schiefer,Xun Xue,Sadique Syed|0|0|0|0
+17|A Database Perspective on Building Large Applications - Experience Report.|Joachim Thomas,Prithwish Kangsabanik|0|0|0|0
+18|The Dynamic Data Cube.|Steven Geffner,Divyakant Agrawal,Amr El Abbadi|115|6|1|8
+19|OLAP Query Routing and Physical Design in a Database Cluster.|Uwe Röhm,Klemens Böhm,Hans-Jörg Schek|131|28|1|7
+20|Materialized View Selection for Multi-Cube Data Models.|Amit Shukla,Prasad Deshpande,Jeffrey F. Naughton|42|20|4|0
+21|On Bounding-Schemas for LDAP Directories.|Sihem Amer-Yahia,H. V. Jagadish,Laks V. S. Lakshmanan,Divesh Srivastava|12|0|0|1
+22|Approximate Graph Schema Extraction for Semi-Structured Data.|Qiu Yue Wang,Jeffrey Xu Yu,Kam-Fai Wong|47|12|1|2
+23|A Data Model for Semistructured Data with Partial and Inconsistent Information.|Mengchi Liu,Tok Wang Ling|36|5|0|7
+24|Mining Classification Rules from Datasets with Large Number of Many-Valued Attributes.|Giovanni Giuffrida,Wesley W. Chu,Dominique M. Hanssens|18|9|0|2
+25|Efficient Discovery of Functional Dependencies and Armstrong Relations.|Stéphane Lopes,Jean-Marc Petit,Lotfi Lakhal|160|80|3|26
+26|Athena: Mining-Based Interactive Management of Text Database.|Rakesh Agrawal,Roberto J. Bayardo Jr.,Ramakrishnan Srikant|126|22|0|5
+27|Tamino - An Internet Database System.|Harald Schöning,Jürgen Wäsch|73|7|0|0
+28|A Systematic Approach for Informal Communication During Workflow Execution.|Christoph Bussler|3|1|0|0
+29|Temporal View Self-Maintenance.|Jun Yang,Jennifer Widom|75|8|0|5
+30|A Unified Approach for Indexed and Non-Indexed Spatial Joins.|Lars Arge,Octavian Procopiuc,Sridhar Ramaswamy,Torsten Suel,Jan Vahrenhold,Jeffrey Scott Vitter|42|4|0|3
+31|Parametric Rectangles: A Model for Querying and Animation of Spatiotemporal Databases.|Mengchu Cai,Dinesh Keshwani,Peter Z. Revesz|48|4|0|5
+32|An Architecture for Management of Large, Distributed, Scientific Data Using SQL/MED and XML.|Mark Papiani,Jasmin L. Wason,Denis A. Nicole|n/a
+33|Persistent Client-Server Database Sessions.|Roger S. Barga,David B. Lomet,Thomas Baby,Sanjay Agrawal|30|19|30|0
+34|Object View Hierarchies in DB2 UDB.|Michael J. Carey,Serge Rielau,Bennet Vance|3|1|0|0
+35|Plug&Join: An easy-to-use Generic Algorithm for Efficiently Processing Equi and Non-Equi Joins.|Jochen Van den Bercken,Martin Schneider,Bernhard Seeger|7|1|0|3
+36|Querying Graph Databases.|Sergio Flesca,Sergio Greco|59|58|0|0
+37|Hierarchical Declustering Schemes for Range Queries.|Randeep Bhatia,Rakesh K. Sinha,Chung-Min Chen|38|5|0|9

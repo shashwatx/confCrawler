@@ -1,0 +1,68 @@
+67
+1|Improved Approximation Algorithms for the Uncapacitated Facility Location Problem.|Fabián A. Chudak,David B. Shmoys|205|118|0|8
+2|Faster Suffix Tree Construction with Missing Suffix Links.|Richard Cole,Ramesh Hariharan|61|26|0|1
+3|Nondeterministic Communication with a Limited Number of Advice Bits.|Juraj Hromkovic,Georg Schnitger|29|3|0|3
+4|Quality Meshing with Weighted Delaunay Refinement.|Siu-Wing Cheng,Tamal K. Dey|89|21|0|9
+5|Conflict-Free Colorings of Simple Geometric Regions with Applications to Frequency Assignment in Cellular Networks.|Guy Even,Zvi Lotker,Dana Ron,Shakhar Smorodinsky|148|81|0|23
+6|Communication Complexity of Simultaneous Messages.|László Babai,Anna Gál,Peter G. Kimmel,Satyanarayana V. Lokam|33|19|0|2
+7|Design and Analysis of Practical Public-Key Encryption Schemes Secure against Adaptive Chosen Ciphertext Attack.|Ronald Cramer,Victor Shoup|712|398|6|14
+8|Counting Complexity Classes for Numeric Computations I: Semilinear Sets.|Peter Bürgisser,Felipe Cucker|n/a
+9|An efficient polynomial time approximation scheme for the constrained minimum spanning tree problem using matroid intersection.|Refael Hassin,Asaf Levin|44|25|0|1
+10|Shape Fitting with Outliers.|Sariel Har-Peled,Yusu Wang|45|16|0|13
+11|New stability results for adversarial queuing.|Zvi Lotker,Boaz Patt-Shamir,Adi Rosén|43|6|0|3
+12|On identifying codes in the triangular and square grids.|Iiro S. Honkala,Tero Laihonen|25|12|0|15
+13|A bound on the capacity of backoff and acknowledgment-based protocols.|Leslie Ann Goldberg,Mark Jerrum,Sampath Kannan,Mike Paterson|20|8|0|0
+14|Stackelberg Scheduling Strategies.|Tim Roughgarden|285|136|0|10
+15|Hypergraphs in Model Checking: Acyclicity and Hypertree-Width versus Clique-Width.|Georg Gottlob,Reinhard Pichler|17|3|0|5
+16|The Minimum All-Ones Problem for Trees.|William Y. C. Chen,Xueliang Li,Chao Wang,Xiaoyan Zhang|18|4|0|5
+17|Scheduling with AND/OR Precedence Constraints.|Rolf H. Möhring,Martin Skutella,Frederik Stork|n/a
+18|The Complexity of Choosing an H-Coloring (Nearly) Uniformly at Random.|Leslie Ann Goldberg,Steven Kelk,Mike Paterson|20|6|0|7
+19|The Potential of the Approximation Method.|Kazuyuki Amano,Akira Maruoka|12|4|0|6
+20|Algorithms for Data Migration with Cloning.|Samir Khuller,Yoo Ah Kim,Yung-Chun (Justin) Wan|82|28|0|13
+21|An Optimal Competitive Strategy for Walking in Streets.|Christian Icking,Rolf Klein,Elmar Langetepe,Sven Schuierer,Ines Semrau|37|9|0|7
+22|Learning a Hidden Matching.|Noga Alon,Richard Beigel,Simon Kasif,Steven Rudich,Benny Sudakov|66|37|0|4
+23|On Rational Number Reconstruction and Approximation.|Victor Y. Pan,Xinmao Wang|23|15|0|9
+24|On Universal Classes of Extremely Random Constant-Time Hash Functions.|Alan Siegel|62|41|0|0
+25|Local Search Heuristics for k-Median and Facility Location Problems.|Vijay Arya,Naveen Garg,Rohit Khandekar,Adam Meyerson,Kamesh Munagala,Vinayaka Pandit|618|315|1|17
+26|Buffer Overflow Management in QoS Switches.|Alexander Kesselman,Zvi Lotker,Yishay Mansour,Boaz Patt-Shamir,Baruch Schieber,Maxim Sviridenko|201|78|2|31
+27|On the Frame--Stewart Conjecture about the Towers of Hanoi.|Xiao Chen,Jian Shen|24|11|0|2
+28|Incomplete Directed Perfect Phylogeny.|Itsik Pe'er,Tal Pupko,Ron Shamir,Roded Sharan|44|22|0|1
+29|(1+epsilon, beta)-Spanner Constructions for General Graphs.|Michael Elkin,David Peleg|n/a
+30|OPT Versus LOAD in Dynamic Storage Allocation.|Adam L. Buchsbaum,Howard J. Karloff,Claire Kenyon,Nick Reingold,Mikkel Thorup|55|33|0|1
+31|Distances and Finger Search in Random Binary Search Trees.|Luc Devroye,Ralph Neininger|24|6|0|1
+32|The Effects of Temporary Sessions on Network Performance.|Matthew Andrews,Lisa Zhang|36|2|1|6
+33|Complete Axiomatizations for Reasoning about Knowledge and Time.|Joseph Y. Halpern,Ron van der Meyden,Moshe Y. Vardi|164|70|0|5
+34|Hardness of Approximation for Vertex-Connectivity Network Design Problems.|Guy Kortsarz,Robert Krauthgamer,James R. Lee|86|52|0|6
+35|The Glauber Dynamics on Colorings of a Graph with High Girth and Maximum Degree.|Michael Molloy|39|13|0|1
+36|Quantum Computation and Lattice Problems.|Oded Regev|162|69|0|4
+37|Compaction, Retraction, and Constraint Satisfaction.|Narayan Vikas|14|11|0|4
+38|Strict Polynomial-Time in Simulation and Extraction.|Boaz Barak,Yehuda Lindell|120|52|0|12
+39|The Complexity of Three-Way Statistical Tables.|Jesús A. De Loera,Shmuel Onn|72|36|0|25
+40|On Multidimensional Packing Problems.|Chandra Chekuri,Sanjeev Khanna|152|77|2|7
+41|Counting Complexity of Solvable Black-Box Group Problems.|N. V. Vinodchandran|11|0|0|1
+42|Time of Deterministic Broadcasting in Radio Networks with Local Knowledge.|Dariusz R. Kowalski,Andrzej Pelc|54|22|0|19
+43|The Parameterized Complexity of Counting Problems.|Jörg Flum,Martin Grohe|144|74|0|3
+44|On Worst-Case Robin Hood Hashing.|Luc Devroye,Pat Morin,Alfredo Viola|10|7|0|1
+45|Online Routing in Triangulations.|Prosenjit Bose,Pat Morin|214|54|0|4
+46|Distributional Results for Costs of Partial Match Queries in Asymmetric K-Dimensional Tries.|Werner Schachinger|0|0|0|0
+47|On Proving Circuit Lower Bounds against the Polynomial-Time Hierarchy.|Jin-yi Cai,Osamu Watanabe|5|3|0|2
+48|Efficient Algorithms for Optimal Stream Merging for Media-on-Demand.|Amotz Bar-Noy,Richard E. Ladner|37|9|0|3
+49|Better Online Algorithms for Scheduling with Machine Cost.|György Dósa,Yong He|20|8|0|5
+50|Solving Equations in the Relational Algebra.|Joachim Biskup,Jan Paredaens,Thomas Schwentick,Jan Van den Bussche|6|4|0|1
+51|Equivalences and Separations Between Quantum and Classical Learnability.|Rocco A. Servedio,Steven J. Gortler|41|28|0|2
+52|On the Hardness of Graph Isomorphism.|Jacobo Torán|126|62|0|0
+53|A Lambda Calculus for Quantum Computation.|André van Tonder|163|76|0|1
+54|Circumference of Graphs with Bounded Degree.|Guantao Chen,Jun Xu,Xingxing Yu|14|8|0|5
+55|A Switching Lemma for Small Restrictions and Lower Bounds for k-DNF Resolution.|Nathan Segerlind,Samuel R. Buss,Russell Impagliazzo|76|34|0|8
+56|Approximate Local Search in Combinatorial Optimization.|James B. Orlin,Abraham P. Punnen,Andreas S. Schulz|59|24|0|4
+57|A Note on the Homotopy Type of Wait-Free Atomic Snapshot Protocol Complexes.|John Havlicek|9|9|0|0
+58|Average-Case Performance of the Apriori Algorithm.|Paul W. Purdom,Dirk Van Gucht,Dennis P. Groth|35|15|0|3
+59|Fast, Distributed Approximation Algorithms for Positive Linear Programming with Applications to Flow Control.|Yair Bartal,John W. Byers,Danny Raz|32|19|0|1
+60|Preemptive Weighted Completion Time Scheduling of Parallel Jobs.|Uwe Schwiegelshohn|27|5|0|1
+61|Algebraic Properties for Selector Functions.|Lane A. Hemaspaandra,Harald Hempel,Arfst Nickelsen|10|1|0|9
+62|Graphs with Tiny Vector Chromatic Numbers and Huge Chromatic Numbers.|Uriel Feige,Michael Langberg,Gideon Schechtman|35|12|0|6
+63|Disjoint NP-Pairs.|Christian Glaßer,Alan L. Selman,Samik Sengupta,Liyu Zhang|37|10|0|14
+64|Incremental Clustering and Dynamic Information Retrieval.|Moses Charikar,Chandra Chekuri,Tomás Feder,Rajeev Motwani|387|147|2|2
+65|Tight Bounds for Testing Bipartiteness in General Graphs.|Tali Kaufman,Michael Krivelevich,Dana Ron|58|34|0|19
+66|Depth Optimal Sorting Networks Resistant to k Passive Faults.|Marek Piotrów|11|0|0|0
+67|Arithmetic Circuits and Polynomial Replacement Systems.|Pierre McKenzie,Heribert Vollmer,Klaus W. Wagner|6|1|0|3

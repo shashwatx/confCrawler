@@ -1,0 +1,74 @@
+73
+1|Asymptotic Model Selection for Naive Bayesian Networks.|Dmitry Rusakov,Dan Geiger|101|52|0|3
+2|Dimension Reduction in Text Classification with Support Vector Machines.|Hyunsoo Kim,Peg Howland,Haesun Park|197|120|0|8
+3|Stability of Randomized Learning Algorithms.|André Elisseeff,Theodoros Evgeniou,Massimiliano Pontil|46|32|0|0
+4|Learning Hidden Variable Networks: The Information Bottleneck Approach.|Gal Elidan,Nir Friedman|85|49|0|0
+5|Diffusion Kernels on Statistical Manifolds.|John D. Lafferty,Guy Lebanon|207|100|0|11
+6|Information Bottleneck for Gaussian Variables.|Gal Chechik,Amir Globerson,Naftali Tishby,Yair Weiss|87|53|0|2
+7|Multiclass Boosting for Weak Classifiers.|Günther Eibl,Karl Peter Pfeiffer|58|28|0|0
+8|A Classification Framework for Anomaly Detection.|Ingo Steinwart,Don R. Hush,Clint Scovel|219|132|0|13
+9|Denoising Source Separation.|Jaakko Särelä,Harri Valpola|128|62|0|18
+10|Tutorial on Practical Prediction Theory for Classification.|John Langford|240|140|0|6
+11|Generalization Bounds and Complexities Based on Sparsity and Clustering for Convex Combinations of Functions from Random Classes.|Savina Andonova Jaeger|7|3|0|0
+12|A Modified Finite Newton Method for Fast Solution of Large Scale Linear SVMs.|S. Sathiya Keerthi,Dennis DeCoste|230|125|0|10
+13|Core Vector Machines: Fast SVM Training on Very Large Data Sets.|Ivor W. Tsang,James T. Kwok,Pak-Ming Cheung|713|497|1|14
+14|Generalization Bounds for the Area Under the ROC Curve.|Shivani Agarwal,Thore Graepel,Ralf Herbrich,Sariel Har-Peled,Dan Roth|179|98|1|20
+15|Learning with Decision Lists of Data-Dependent Features.|Mario Marchand,Marina Sokolova|44|27|0|8
+16|Estimating Functions for Blind Separation When Sources Have Variance Dependencies.|Motoaki Kawanabe,Klaus-Robert Müller|22|13|0|4
+17|Characterization of a Family of Algorithms for Generalized Discriminant Analysis on Undersampled Problems.|Jieping Ye|249|180|0|17
+18|Tree-Based Batch Mode Reinforcement Learning.|Damien Ernst,Pierre Geurts,Louis Wehenkel|504|353|0|53
+19|Learning Module Networks.|Eran Segal,Dana Pe'er,Aviv Regev,Daphne Koller,Nir Friedman|153|75|0|9
+20|Active Learning to Recognize Multiple Types of Plankton.|Tong Luo,Kurt Kramer,Dmitry B. Goldgof,Lawrence O. Hall,Scott Samson,Andrew Remsen,Thomas Hopkins|143|99|0|5
+21|Learning Multiple Tasks with Kernel Methods.|Theodoros Evgeniou,Charles A. Micchelli,Massimiliano Pontil|562|430|0|15
+22|Adaptive Online Prediction by Following the Perturbed Leader.|Marcus Hutter,Jan Poland|51|28|0|15
+23|Variational Message Passing.|John M. Winn,Christopher M. Bishop|360|249|1|4
+24|Estimation of Non-Normalized Statistical Models by Score Matching.|Aapo Hyvärinen|172|133|0|0
+25|Smooth epsiloon-Insensitive Regression by Loss Symmetrization.|Ofer Dekel,Shai Shalev-Shwartz,Yoram Singer|21|14|0|2
+26|Quasi-Geodesic Neural Learning Algorithms Over the Orthogonal Group: A Tutorial.|Simone Fiori|50|19|0|21
+27|Machine Learning Methods for Predicting Failures in Hard Drives: A Multiple-Instance Application.|Joseph F. Murray,Gordon F. Hughes,Kenneth Kreutz-Delgado|109|86|6|0
+28|Multiclass Classification with Multi-Prototype Support Vector Machines.|Fabio Aiolli,Alessandro Sperduti|60|30|0|0
+29|Prioritization Methods for Accelerating MDP Solvers.|David Wingate,Kevin D. Seppi|78|37|0|1
+30|Learning from Examples as an Inverse Problem.|Ernesto De Vito,Lorenzo Rosasco,Andrea Caponnetto,Umberto De Giovannini,Francesca Odone|104|59|0|28
+31|Loopy Belief Propagation: Convergence and Effects of Message Errors.|Alexander T. Ihler,John W. Fisher III,Alan S. Willsky|227|148|0|11
+32|Learning a Mahalanobis Metric from Equivalence Constraints.|Aharon Bar-Hillel,Tomer Hertz,Noam Shental,Daphna Weinshall|463|321|2|8
+33|Algorithmic Stability and Meta-Learning.|Andreas Maurer|16|10|0|2
+34|Matrix Exponentiated Gradient Updates for On-line Learning and Bregman Projection.|Koji Tsuda,Gunnar Rätsch,Manfred K. Warmuth|131|85|0|2
+35|Gaussian Processes for Ordinal Regression.|Wei Chu,Zoubin Ghahramani|300|193|4|6
+36|Learning the Kernel with Hyperkernels.|Cheng Soon Ong,Alexander J. Smola,Robert C. Williamson|307|170|2|2
+37|A Generalization Error for Q-Learning.|Susan A. Murphy|71|55|0|6
+38|Learning the Kernel Function via Regularization.|Charles A. Micchelli,Massimiliano Pontil|326|197|1|9
+39|Analysis of Variance of Cross-Validation Estimators of the Generalization Error.|Marianthi Markatou,Hong Tian,Shameek Biswas,George Hripcsak|62|43|0|4
+40|Semigroup Kernels on Measures.|Marco Cuturi,Kenji Fukumizu,Jean-Philippe Vert|69|35|0|14
+41|Separating a Real-Life Nonlinear Image Mixture.|Luis B. Almeida|36|21|1|3
+42|Concentration Bounds for Unigram Language Models.|Evgeny Drukh,Yishay Mansour|7|3|0|0
+43|An MDP-Based Recommender System.|Guy Shani,David Heckerman,Ronen I. Brafman|293|212|1|7
+44|Universal Algorithms for Learning Theory Part I : Piecewise Constant Functions.|Peter Binev,Albert Cohen,Wolfgang Dahmen,Ronald A. DeVore,Vladimir N. Temlyakov|74|33|0|3
+45|Efficient Computation of Gapped Substring Kernels on Large Alphabets.|Juho Rousu,John Shawe-Taylor|51|31|1|1
+46|Clustering on the Unit Hypersphere using von Mises-Fisher Distributions.|Arindam Banerjee,Inderjit S. Dhillon,Joydeep Ghosh,Suvrit Sra|427|329|0|8
+47|Inner Product Spaces for Bayesian Networks.|Atsuyoshi Nakamura,Michael Schmitt,Niels Schmitt,Hans-Ulrich Simon|10|4|0|0
+48|Maximum Margin Algorithms with Boolean Kernels.|Roni Khardon,Rocco A. Servedio|14|7|0|0
+49|A Bayes Optimal Approach for Partitioning the Values of Categorical Attributes.|Marc Boullé|51|30|0|0
+50|Large Margin Methods for Structured and Interdependent Output Variables.|Ioannis Tsochantaridis,Thorsten Joachims,Thomas Hofmann,Yasemin Altun|1536|1200|5|18
+51|Frames, Reproducing Kernels, Regularization and Learning.|Alain Rakotomamonjy,Stéphane Canu|74|35|0|8
+52|Local Propagation in Conditional Gaussian Bayesian Networks.|Robert G. Cowell|21|19|0|1
+53|A Bayesian Model for Supervised Clustering with the Dirichlet Process Prior.|Hal Daumé III,Daniel Marcu|45|23|0|0
+54|Fast Kernel Classifiers with Online and Active Learning.|Antoine Bordes,Seyda Ertekin,Jason Weston,Léon Bottou|455|308|3|27
+55|Managing Diversity in Regression Ensembles.|Gavin Brown,Jeremy L. Wyatt,Peter Tiño|181|120|0|4
+56|Active Coevolutionary Learning of Deterministic Finite Automata.|Josh C. Bongard,Hod Lipson|56|24|0|10
+57|Assessing Approximate Inference for Binary Gaussian Process Classification.|Malte Kuss,Carl Edward Rasmussen|202|139|0|9
+58|Clustering with Bregman Divergences.|Arindam Banerjee,Srujana Merugu,Inderjit S. Dhillon,Joydeep Ghosh|923|672|4|68
+59|Combining Information Extraction Systems Using Voting and Stacked Generalization.|Georgios Sigletos,Georgios Paliouras,Constantine D. Spyropoulos,Michael Hatzopoulos|57|30|0|3
+60|Probabilistic Non-linear Principal Component Analysis with Gaussian Process Latent Variable Models.|Neil D. Lawrence|548|399|2|32
+61|A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data.|Rie Kubota Ando,Tong Zhang|802|546|3|14
+62|Feature Selection for Unsupervised and Supervised Inference: The Emergence of Sparsity in a Weight-Based Approach.|Lior Wolf,Amnon Shashua|151|99|0|0
+63|Working Set Selection Using Second Order Information for Training Support Vector Machines.|Rong-En Fan,Pai-Hsuen Chen,Chih-Jen Lin|1294|894|6|11
+64|New Horn Revision Algorithms.|Judy Goldsmith,Robert H. Sloan|8|3|0|0
+65|A Unifying View of Sparse Approximate Gaussian Process Regression.|Joaquin Quiñonero Candela,Carl Edward Rasmussen|564|441|0|10
+66|What's Strange About Recent Events (WSARE): An Algorithm for the Early Detection of Disease Outbreaks.|Weng-Keen Wong,Andrew W. Moore,Gregory F. Cooper,Michael M. Wagner|43|39|1|1
+67|Change Point Problems in Linear Dynamical Systems.|Onno Zoeter,Tom Heskes|8|6|1|4
+68|Asymptotics in Empirical Risk Minimization.|Leila Mohammadi,Sara A. van de Geer|3|2|0|1
+69|Convergence Theorems for Generalized Alternating Minimization Procedures.|Asela Gunawardana,William Byrne|84|56|0|0
+70|Kernel Methods for Measuring Independence.|Arthur Gretton,Ralf Herbrich,Alexander J. Smola,Olivier Bousquet,Bernhard Schölkopf|161|95|1|22
+71|Efficient Margin Maximizing with Boosting.|Gunnar Rätsch,Manfred K. Warmuth|114|54|0|12
+72|On the Nyström Method for Approximating a Gram Matrix for Improved Kernel-Based Learning.|Petros Drineas,Michael W. Mahoney|411|334|2|13
+73|Expectation Consistent Approximate Inference.|Manfred Opper,Ole Winther|83|46|0|12

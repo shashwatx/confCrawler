@@ -1,0 +1,81 @@
+80
+1|38th Annual Meeting of the Association for Computational Linguistics, Hong Kong, China, October 1-8, 2000.|n/a
+2|Invited Talk: Processes that Shape Conversation and their Implications for Computational Linguistics.|Susan Brennan|41|8|0|1
+3|Invited Talk: Generic NLP Technologies: Language, Knowledge and Information Extraction.|Jun'ichi Tsujii|8|3|0|0
+4|Invited Talk: Spoken Language Technology: Where Do We Go From Here?|Roger K. Moore|0|0|0|0
+5|Translation with Cascaded Finite State Transducers.|Stephan Vogel,Hermann Ney|16|0|0|8
+6|Phrase-Pattern-based Korean to English Machine Translation using Two Level Translation Pattern Selection.|Jung-jae Kim,Key-Sun Choi,Young-Soog Chae|4|2|0|1
+7|A Maximum Entropy/Minimum Divergence Translation Model.|George F. Foster|45|4|0|5
+8|Incorporating Compositional Evidence in Memory-Based Partial Parsing.|Yuval Krymolowski,Ido Dagan|8|0|0|0
+9|Tree-gram Parsing: Lexical Dependencies and Structural Relations.|Khalil Sima'an|37|9|0|6
+10|An Improved Parser for Data-Oriented Lexical-Functional Analysis.|Rens Bod|11|1|0|5
+11|Robust Temporal Processing of News.|Inderjeet Mani,D. George Wilson|380|144|0|15
+12|Tagging Unknown Proper Names Using Decision Trees.|Frédéric Béchet,Alexis Nasr,Franck Genet|69|29|0|0
+13|The Order of Prenominal Adjectives in Natural Language Generation.|Rob Malouf|78|28|0|0
+14|Spoken Dialogue Management Using Probabilistic Reasoning.|Nicholas Roy,Joelle Pineau,Sebastian Thrun|329|162|1|22
+15|An Unsupervised Approach to Prepositional Phrase Attachment using Contextually Similar Words.|Patrick Pantel,Dekang Lin|88|29|0|0
+16|A Unified Statistical Model for the Identification of English BaseNP.|Endong Xun,Changning Huang,Ming Zhou|49|9|5|3
+17|Rule Writing or Annotation: Cost-efficient Resource Usage for Base Noun Phrase Chunking.|Grace Ngai,David Yarowsky|90|28|1|2
+18|Using Existing Systems to Supplement Small Amounts of Annotated Grammatical Relations Training Data.|Alexander S. Yeh|11|1|0|0
+19|Distributing Representation for Robust Interpretation of Dialogue Utterances.|David Milward|32|0|0|4
+20|Can Nominal Expressions Achieve Multiple Goals? An Empirical Study.|Pamela W. Jordan|19|6|0|2
+21|An Empirical Study of the Influence of Argument Conciseness on Argument Effectiveness.|Giuseppe Carenini,Johanna D. Moore|34|4|0|5
+22|Multi-Agent Explanation Strategies in Real-Time Domains.|Kumiko Tanaka-Ishii,Ian Frank|14|2|0|4
+23|A Computational Approach to Zero-pronouns in Spanish.|Antonio Ferrández Rodríguez,Jesús Peral|51|31|0|5
+24|Coreference for NLP Applications.|Thomas S. Morton|105|27|0|0
+25|Learning Attribute Selections for Non-Pronominal Expressions.|Pamela W. Jordan,Marilyn A. Walker|31|13|0|1
+26|Finite-State Non-Concatenative Morphotactics.|Kenneth R. Beesley,Lauri Karttunen|89|19|1|7
+27|A Morphologically Sensitive Clustering Algorithm for Identifying Arabic Roots.|Anne N. De Roeck,Waleed Al-Fares|65|29|0|0
+28|Minimally Supervised Morphological Analysis by Multimodal Alignment.|David Yarowsky,Richard Wicentowski|169|61|1|9
+29|A Constraint-based Approach to English Prosodic Constituents.|Ewan Klein|7|3|0|0
+30|Inducing Probabilistic Syllable Classes Using Multivariate Clustering.|Karin Müller,Bernd Möbius,Detlef Prescher|25|3|0|4
+31|Modeling Local Context for Pitch Accent Prediction.|Shimei Pan,Julia Hirschberg|41|22|0|2
+32|A New Statistical Approach To Chinese Pinyin Input.|Zheng Chen,Kai-Fu Lee|63|29|3|4
+33|Automatic Detecting/Correcting Errors in Chinese Text by an Approximate Word-Matching Algorithm.|Lei Zhang,Ming Zhou,Changning Huang,Haihua Pan|42|30|0|0
+34|Dependency-based Syntactic Analysis of Chinese and Annotation of Parsed Corpus.|Tom B. Y. Lai,Changning Huang|11|1|0|0
+35|Part-of-Speech Tagging Based on Hidden Markov Model Assuming Joint Independence.|Sang-Zoo Lee,Jun'ichi Tsujii,Hae-Chang Rim|16|4|0|0
+36|Language Independent, Minimally Supervised Induction of Lexical Probabilities.|Silviu Cucerzan,David Yarowsky|30|7|0|8
+37|Independence and Commitment: Assumptions for Rapid Training and Execution of Rule-based POS Taggers.|Mark Hepple|137|53|0|1
+38|An Improved Error Model for Noisy Channel Spelling Correction.|Eric Brill,Robert C. Moore|367|225|8|3
+39|Query-Relevant Summarization using FAQs.|Adam L. Berger,Vibhu O. Mittal|92|27|3|0
+40|An Algorithm for One-page Summarization of a Long Text Based on Thematic Hierarchy Detection.|Yoshio Nakao|28|7|0|2
+41|Summarizing Multilingual Spoken Negotiation Dialogues.|Norbert Reithinger,Michael Kipp,Ralf Engel,Jan Alexandersson|35|6|0|0
+42|Headline Generation Based on Statistical Translation.|Michele Banko,Vibhu O. Mittal,Michael J. Witbrock|141|62|0|0
+43|Named Entity Extraction Based on A Maximum Entropy Model and Transformation Rules.|Kiyotaka Uchimoto,Qing Ma,Masaki Murata,Hiromi Ozaku,Hitoshi Isahara|101|30|0|7
+44|Extracting Causal Knowledge from a Medical Database Using Graphical Patterns.|Christopher S. G. Khoo,Syin Chan,Yun Niu|133|79|4|1
+45|Difficulty Indices for the Named Entity Task in Japanese.|Chikashi Nobata,Satoshi Sekine,Jun'ichi Tsujii|3|1|0|0
+46|Memory-Efficient and Thread-Safe Quasi-Destructive Graph Unification.|Marcel P. van Lohuizen|9|2|0|1
+47|Processing Optimality-theoretic Syntax by Interleaved Chart Parsing and Generation.|Jonas Kuhn|23|1|1|8
+48|A Polynomial-Time Fragment of Dominance Constraints.|Alexander Koller,Kurt Mehlhorn,Joachim Niehren|34|3|0|8
+49|Hidden Markov Model-Based Korean Part-of-Speech Tagging Considering High Agglutinativity, Word-Spacing, and Lexical Correlativity.|Sang-Zoo Lee,Jun'ichi Tsujii,Hae-Chang Rim|14|4|0|1
+50|Synchronous Morphological Analysis of Grapheme and Phoneme for Japanese OCR.|Masaaki Nagata|1|0|0|0
+51|Chinese-Korean Word Alignment Based on Linguistic Comparison.|Jin-Xia Huang,Key-Sun Choi|29|10|0|3
+52|Specifying the Parameters of Centering Theory: a Corpus-Based Evaluation using Text from Application-Oriented Domains.|Massimo Poesio,Hua Cheng,Renate Henschel,Janet Hitzeman,Rodger Kibble,Rosemary Stevenson|35|7|0|6
+53|The Role of Centering Theory's Rough-Shift in the Teaching and Evaluation of Writing Skills.|Eleni Miltsakaki,Karen Kukich|34|11|0|4
+54|A Hierarchical Account of Referential Accessibility.|Nancy Ide,Dan Cristea|34|9|0|8
+55|Lexical Transfer Using a Vector-Space Model.|Eiichiro Sumita|8|4|1|0
+56|Using Confidence Bands for Parallel Texts Alignment.|António Ribeiro,José Gabriel Pereira Lopes,João Mexia|19|0|0|7
+57|Improved Statistical Alignment Models.|Franz Josef Och,Hermann Ney|1035|432|30|22
+58|Multi-Component TAG and Notions of Formal Power.|William Schuler,David Chiang,Mark Dras|11|1|0|2
+59|Statistical Parsing with an Automatically-Extracted Tree Adjoining Grammar.|David Chiang|191|65|0|10
+60|Corpus-Based Lexical Choice in Natural Language Generation.|Srinivas Bangalore,Owen Rambow|46|23|1|1
+61|An Information-Theory-Based Feature Type Analysis for the Modeling of Statistical Parsing.|Zhifang Sui,Jun Zhao,Dekai Wu|1|1|0|0
+62|Lexicalized Stochastic Modeling of Constraint-Based Grammars using Log-Linear Measures and EM Training.|Stefan Riezler,Detlef Prescher,Jonas Kuhn,Mark Johnson|89|16|0|20
+63|Utilizing the World Wide Web as an Encyclopedia: Extracting Term Descriptions from Semi-Structured Texts.|Atsushi Fujii,Tetsuya Ishikawa|54|10|1|8
+64|Term Recognition Using Technical Dictionary Hierarchy.|Jong-Hoon Oh,Kyung-Soon Lee,Key-Sun Choi|13|3|0|6
+65|Mapping WordNets Using Structural Information.|Jordi Daudé,Lluís Padró,German Rigau|86|24|0|16
+66|Automatic Labeling of Semantic Roles.|Daniel Gildea,Daniel Jurafsky|1561|754|26|22
+67|Feature Logic for Dotted Types: A Formalism for Complex Word Meanings.|Manfred Pinkal,Michael Kohlhase|7|5|0|0
+68|PENS: A Machine-aided English Writing System for Chinese Users.|Ting Liu,Ming Zhou,Jianfeng Gao,Endong Xun,Changning Huang|18|11|0|3
+69|Diagnostic Processing of Japanese for Computer-Assisted Second Language Learning.|Jun'ichi Kakegawa,Hisayuki Kanda,Eitaro Fujioka,Makoto Itami,Kohji Itoh|7|2|0|1
+70|Word Sense Disambiguation by Learning from Unlabeled Data.|Seong-Bae Park,Byoung-Tak Zhang,Yung Taek Kim|12|1|0|1
+71|Importance of Pronominal Anaphora Resolution in Question Answering Systems.|José Luis Vicedo González,Antonio Ferrández Rodríguez|60|12|1|3
+72|The Structure and Performance of an Open-Domain Question Answering System.|Dan I. Moldovan,Sanda M. Harabagiu,Marius Pasca,Rada Mihalcea,Roxana Girju,Richard Goodrum,Vasile Rus|170|71|10|5
+73|Dimension-Reduced Estimation of Word Co-occurrence Probability.|Kilyoun Kim,Key-Sun Choi|3|1|0|0
+74|Distribution-Based Pruning of Backoff Language Models.|Jianfeng Gao,Kai-Fu Lee|21|5|2|6
+75|Panel: Computational Linguistics Research on Philippine Languages.|Rachel E. O. Roxas,Allan Borra|n/a
+76|Panel: Development of Computational Linguistics Research: A Challenge for Indonesia.|Bobby Nazief|1|1|0|0
+77|Panel: Good Spelling of Vietnamese Texts, One Aspect of Computational Linguistics in Vietnam.|Huy Khanh Phan|1|0|0|0
+78|Panel: Computational Linguistics in India: An Overview.|Akshar Bharati,Vineet Chaitanya,Rajeev Sangal|n/a
+79|Panel: The State of the Art in Thai Language Processing.|Virach Sornlertlamvanich,Tanapong Potipiti,Chai Wutiwiwatchai,Pradit Mittrapiyanuruk|n/a
+80|Panel: Computational Linguistics in Malaysia.|Yusoff Zaharin|n/a

@@ -1,0 +1,114 @@
+113
+1|Proceedings of the Tenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Seattle, Washington, USA, August 22-25, 2004.|Won Kim,Ron Kohavi,Johannes Gehrke,William DuMouchel|n/a
+2|User-centered design for KDD.|Eric Haseltine|4|1|0|0
+3|Graphical models for data mining.|David Heckerman|n/a
+4|An iterative method for multi-class cost-sensitive learning.|Naoki Abe,Bianca Zadrozny,John Langford|114|72|1|3
+5|Approximating a collection of frequent sets.|Foto N. Afrati,Aristides Gionis,Heikki Mannila|152|70|0|1
+6|Mining reference tables for automatic text segmentation.|Eugene Agichtein,Venkatesh Ganti|139|72|3|2
+7|Recovering latent time-series from their observed sums: network tomography with particle filters.|Edoardo Airoldi,Christos Faloutsos|21|13|0|2
+8|Fast nonlinear regression via eigenimages applied to galactic morphology.|Brigham Anderson,Andrew W. Moore,Andrew J. Connolly,Robert Nichol|4|2|0|0
+9|Clustering time series from ARMA models with clipped data.|Anthony J. Bagnall,Gareth J. Janacek|66|31|0|2
+10|A probabilistic framework for semi-supervised clustering.|Sugato Basu,Mikhail Bilenko,Raymond J. Mooney|730|443|3|10
+11|Data mining in metric space: an empirical analysis of supervised learning performance criteria.|Rich Caruana,Alexandru Niculescu-Mizil|219|135|3|3
+12|Fully automatic cross-associations.|Deepayan Chakrabarti,Spiros Papadimitriou,Dharmendra S. Modha,Christos Faloutsos|228|148|4|14
+13|Exploiting dictionaries in named entity extraction: combining semi-Markov extraction processes and data integration methods.|William W. Cohen,Sunita Sarawagi|239|118|6|12
+14|Adversarial classification.|Nilesh N. Dalvi,Pedro M. Domingos,Mausam,Sumit K. Sanghai,Deepak Verma|309|203|2|1
+15|Regularized multi--task learning.|Theodoros Evgeniou,Massimiliano Pontil|631|505|1|11
+16|Fast discovery of connection subgraphs.|Christos Faloutsos,Kevin S. McCurley,Andrew Tomkins|343|208|8|23
+17|Systematic data selection to mine concept-drifting data streams.|Wei Fan|226|125|4|6
+18|Efficient closed pattern mining in the presence of tough block constraints.|Krishna Gade,Jianyong Wang,George Karypis|39|11|0|4
+19|Discovering complex matchings across web query interfaces: a correlation mining approach.|Bin He,Kevin Chen-Chuan Chang,Jiawei Han|186|58|2|17
+20|Cyclic pattern kernels for predictive graph mining.|Tamás Horváth,Thomas Gärtner,Stefan Wrobel|238|145|0|8
+21|Mining and summarizing customer reviews.|Minqing Hu,Bing Liu|3403|2770|27|59
+22|Interestingness of frequent itemsets using Bayesian networks as background knowledge.|Szymon Jaroszewicz,Dan A. Simovici|126|62|1|7
+23|Mining the space of graph properties.|Glen Jeh,Jennifer Widom|23|7|0|0
+24|Web usage mining based on probabilistic latent semantic analysis.|Xin Jin,Yanzan Zhou,Bamshad Mobasher|155|73|3|5
+25|Towards parameter-free data mining.|Eamonn J. Keogh,Stefano Lonardi,Chotirat (Ann) Ratanamahatana|473|255|7|21
+26|A graph-theoretic approach to extract storylines from search results.|Ravi Kumar,Uma Mahadevan,D. Sivakumar|47|17|1|3
+27|Incremental maintenance of quotient cube for median.|Cuiping Li,Gao Cong,Anthony K. H. Tung,Shan Wang|22|10|0|6
+28|Mining, indexing, and querying historical spatiotemporal data.|Nikos Mamoulis,Huiping Cao,George Kollios,Marios Hadjieleftheriou,Yufei Tao,David W. Cheung|269|177|8|5
+29|Machine learning for online query relaxation.|Ion Muslea|52|24|1|1
+30|Rapid detection of significant spatial clusters.|Daniel B. Neill,Andrew W. Moore|93|48|0|18
+31|Turning CARTwheels: an alternating algorithm for mining redescriptions.|Naren Ramakrishnan,Deept Kumar,Bud Mishra,Malcolm Potts,Richard F. Helm|58|27|0|19
+32|Selection, combination, and evaluation of effective software sensors for detecting abnormal computer usage.|Jude W. Shavlik,Mark Shavlik|51|22|4|0
+33|A Bayesian network framework for reject inference.|Andrew T. Smith,Charles Elkan|19|7|1|3
+34|Support envelopes: a technique for exploring the structure of association patterns.|Michael Steinbach,Pang-Ning Tan,Vipin Kumar|27|8|0|3
+35|Probabilistic author-topic models for information discovery.|Mark Steyvers,Padhraic Smyth,Michal Rosen-Zvi,Thomas L. Griffiths|505|357|2|15
+36|Scalable mining of large disk-based graph databases.|Chen Wang,Wei Wang,Jian Pei,Yongtai Zhu,Baile Shi|97|49|1|5
+37|Incorporating prior knowledge with weighted margin support vector machines.|Xiaoyun Wu,Rohini K. Srihari|148|75|5|0
+38|Exploiting a support-based upper bound of Pearson's correlation coefficient for efficiently identifying strongly correlated pairs.|Hui Xiong,Shashi Shekhar,Pang-Ning Tan,Vipin Kumar|110|67|0|8
+39|The complexity of mining maximal frequent itemsets and maximal frequent patterns.|Guizhen Yang|156|97|0|0
+40|GPCA: an efficient dimension reduction scheme for image compression and retrieval.|Jieping Ye,Ravi Janardan,Qi Li|115|70|0|3
+41|IDR/QR: an incremental dimension reduction algorithm via QR decomposition.|Jieping Ye,Qi Li,Hui Xiong,Haesun Park,Ravi Janardan,Vipin Kumar|104|69|0|1
+42|On the discovery of significant statistical quantitative rules.|Hong Zhang,Balaji Padmanabhan,Alexander Tuzhilin|73|27|0|6
+43|Fast mining of spatial collocations.|Xin Zhang,Nikos Mamoulis,David W. Cheung,Yutao Shou|114|53|6|2
+44|TiVo: making show recommendations using a distributed collaborative filtering architecture.|Kamal Ali,Wijnand van Stam|208|135|4|0
+45|Predicting customer shopping lists from point-of-sale purchase data.|Chad M. Cumby,Andrew E. Fano,Rayid Ghani,Marko Krema|25|14|0|2
+46|A rank sum test method for informative gene discovery.|Lin Deng,Jian Pei,Jinwen Ma,Dik Lun Lee|51|28|0|0
+47|Early detection of insider trading in option markets.|Steve Donoho|60|45|0|0
+48|Mining coherent gene clusters from gene-sample-time microarray data.|Daxin Jiang,Jian Pei,Murali Ramanathan,Chun Tang,Aidong Zhang|80|32|2|7
+49|Eigenspace-based anomaly detection in computer systems.|Tsuyoshi Idé,Hisashi Kashima|126|91|0|7
+50|Effective localized regression for damage detection in large complex mechanical structures.|Aleksandar Lazarevic,Ramdev Kanapady,Chandrika Kamath|10|6|0|0
+51|Visually mining and monitoring massive time series.|Jessica Lin,Eamonn J. Keogh,Stefano Lonardi,Jeffrey P. Lankford,Donna M. Nystrom|127|68|1|12
+52|Learning to detect malicious executables in the wild.|Jeremy Z. Kolter,Marcus A. Maloof|296|190|11|3
+53|Predicting prostate cancer recurrence via maximizing the concordance index.|Lian Yan,David Verbel,Olivier Saidi|15|7|0|2
+54|Density-based spam detector.|Kenichi Yoshida,Fuminori Adachi,Takashi Washio,Hiroshi Motoda,Teruaki Homma,Akihiro Nakashima,Hiromitsu Fujikawa,Katsuyuki Yamazaki|n/a
+55|V-Miner: using enhanced parallel coordinates to mine product design and test data.|Kaidi Zhao,Bing Liu,Thomas M. Tirpak,Andreas Schaller|10|1|0|4
+56|On demand classification of data streams.|Charu C. Aggarwal,Jiawei Han,Jianyong Wang,Philip S. Yu|257|130|6|33
+57|A generalized maximum entropy approach to bregman co-clustering and matrix approximation.|Arindam Banerjee,Inderjit S. Dhillon,Joydeep Ghosh,Srujana Merugu,Dharmendra S. Modha|346|231|9|26
+58|An objective evaluation criterion for clustering.|Arindam Banerjee,John Langford|34|14|0|3
+59|Column-generation boosting methods for mixture of kernels.|Jinbo Bi,Tong Zhang,Kristin P. Bennett|80|55|2|3
+60|IncSpan: incremental mining of sequential patterns in large database.|Hong Cheng,Xifeng Yan,Jiawei Han|207|107|0|6
+61|Parallel computation of high dimensional robust correlation and covariance matrices.|James Chilson,Raymond T. Ng,Alan Wagner,Ruben H. Zamar|26|9|0|3
+62|Belief state approaches to signaling alarms in surveillance systems.|Kaustav Das,Andrew W. Moore,Jeff G. Schneider|7|1|0|1
+63|Locating secret messages in images.|Ian Davidson,Goutam Paul|18|9|0|1
+64|Kernel k-means: spectral clustering and normalized cuts.|Inderjit S. Dhillon,Yuqiang Guan,Brian Kulis|680|494|2|5
+65|A microeconomic data mining problem: customer-oriented catalog segmentation.|Martin Ester,Rong Ge,Wen Jin,Zengjian Hu|25|11|0|2
+66|k-TTP: a new privacy model for large-scale distributed environments.|Bobi Gilburd,Assaf Schuster,Ran Wolff|65|35|0|3
+67|Diagnosing extrapolation: tree-based density estimation.|Giles Hooker|15|10|0|6
+68|Discovering additive structure in black box functions.|Giles Hooker|21|16|0|2
+69|SPIN: mining maximal frequent subgraphs from graph databases.|Jun Huan,Wei Wang,Jan Prins,Jiong Yang|288|174|1|19
+70|On detecting space-time clusters.|Vijay S. Iyengar|45|22|0|1
+71|Why collective inference improves relational classification.|David Jensen,Jennifer Neville,Brian Gallagher|239|148|0|30
+72|When do data mining results violate privacy?|Murat Kantarcioglu,Jiashun Jin,Chris Clifton|132|60|0|1
+73|Improved robustness of signature-based near-replica detection via lexicon randomization.|Aleksander Kolcz,Abdur Chowdhury,Joshua Alspector|99|56|5|2
+74|Learning spatially variant dissimilarity (SVaD) measures.|Krishna Kummamuru,Raghu Krishnapuram,Rakesh Agrawal|9|0|0|3
+75|Clustering moving objects.|Yifan Li,Jiawei Han,Jiong Yang|218|133|0|4
+76|A framework for ontology-driven subspace clustering.|Jinze Liu,Wei Wang,Jiong Yang|44|19|0|1
+77|The IOC algorithm: efficient many-class non-parametric classification for high-dimensional data.|Ting Liu,Ke Yang,Andrew W. Moore|5|0|0|3
+78|Sleeved coclustering.|Avraham A. Melkman,Eran Shaham|n/a
+79|Semantic representation: search and mining of multimedia content.|Apostol Natsev,Milind R. Naphade,John R. Smith|37|12|0|7
+80|A quickstart in frequent structure mining can make a difference.|Siegfried Nijssen,Joost N. Kok|476|272|1|7
+81|Automatic multimedia cross-modal correlation discovery.|Jia-Yu Pan,Hyung-Jeong Yang,Christos Faloutsos,Pinar Duygulu|370|259|6|37
+82|Estimating the size of the telephone universe: a Bayesian Mark-recapture approach.|David Poole|5|2|0|0
+83|Cluster-based concept invention for statistical relational learning.|Alexandrin Popescul,Lyle H. Ungar|37|15|0|4
+84|Identifying early buyers from purchase data.|Paat Rusmevichientong,Shenghuo Zhu,David Selinger|21|13|0|1
+85|Privacy preserving regression modelling via distributed computation.|Ashish P. Sanil,Alan F. Karr,Xiaodong Lin,Jerome P. Reiter|60|29|0|11
+86|Dense itemsets.|Jouni K. Seppänen,Heikki Mannila|65|33|0|1
+87|Generalizing the notion of support.|Michael Steinbach,Pang-Ning Tan,Hui Xiong,Vipin Kumar|45|13|0|8
+88|Ordering patterns by combining opinions from multiple sources.|Pang-Ning Tan,Rong Jin|12|7|1|0
+89|A generative probabilistic approach to visualizing sets of symbolic sequences.|Peter Tiño,Ata Kabán,Yi Sun|31|12|0|0
+90|Rotation invariant distance measures for trajectories.|Michail Vlachos,Dimitrios Gunopulos,Gautam Das|87|51|0|8
+91|Privacy-preserving Bayesian network structure computation on distributed heterogeneous data.|Rebecca N. Wright,Zhiqiang Yang|202|88|1|9
+92|Mining scale-free networks using geodesic clustering.|Andrew Y. Wu,Michael Garland,Jiawei Han|85|38|0|7
+93|IMMC: incremental maximum margin criterion.|Jun Yan,Benyu Zhang,Shuicheng Yan,Qiang Yang,Hua Li,Zheng Chen,Wensi Xi,Weiguo Fan,Wei-Ying Ma,QianSheng Cheng|55|36|0|8
+94|2PXMiner: an efficient two pass mining of frequent XML query patterns.|Liang Huai Yang,Mong-Li Lee,Wynne Hsu,Xinyu Guo|13|5|0|1
+95|Redundancy based feature selection for microarray data.|Lei Yu,Huan Liu|205|99|0|8
+96|A cross-collection mixture model for comparative text mining.|ChengXiang Zhai,Atulya Velivelli,Bei Yu|209|136|1|26
+97|A data mining approach to modeling relationships among categories in image collection.|Ruofei Zhang,Zhongfei (Mark) Zhang,Sandeep Khanzode|13|5|1|3
+98|A DEA approach for model combination.|Zhiqiang (Eric) Zheng,Balaji Padmanabhan,Haoqiang Zheng|9|2|0|0
+99|Optimal randomization for privacy preserving data mining.|Michael Yu Zhu,Lei Liu|64|32|0|6
+100|Cross channel optimized marketing by reinforcement learning.|Naoki Abe,Naval K. Verma,Chidanand Apté,Robert Schroko|32|15|0|4
+101|Interactive training of advanced classifiers for mining remote sensing image archives.|Selim Aksoy,Krzysztof Koperski,Carsten Tusk,Giovanni B. Marchisio|25|7|1|2
+102|Exploring the community structure of newsgroups.|Christian Borgs,Jennifer T. Chayes,Mohammad Mahdian,Amin Saberi|54|22|0|0
+103|Feature selection in scientific applications.|Erick Cantú-Paz,Shawn D. Newsam,Chandrika Kamath|80|44|0|2
+104|A general approach to incorporate data quality matrices into data mining algorithms.|Ian Davidson,Ashish Grover,Ashwin Satyanarayana,Giri Kumar Tayi|12|3|0|1
+105|ANN quality diagnostic models for packaging manufacturing: an industrial data mining case study.|Nicolás de Abajo,Alberto B. Diez,Vanesa Lobato,Sergio R. Cuesta|12|4|0|0
+106|A system for automated mapping of bill-of-materials part numbers.|Jayant Kalagnanam,Moninder Singh,Sudhir Verma,Michael Patek,Yuk Wah Wong|7|5|0|0
+107|Tracking dynamics of topic trends using a finite mixture model.|Satoshi Morinaga,Kenji Yamanishi|104|58|0|7
+108|Mining traffic data from probe-car system for travel time prediction.|Takayuki Nakata,Jun-ichi Takeuchi|64|33|2|0
+109|Programming the K-means clustering algorithm in SQL.|Carlos Ordonez|30|14|0|3
+110|Document preprocessing for naive Bayes classification and clustering with mixture of multinomials.|Dmitry Pavlov,Ramnath Balasubramanyan,Byron Dom,Shyam Kapur,Jignashu Parikh|28|13|0|1
+111|Learning a complex metabolomic dataset using random forests and support vector machines.|Young Truong,Xiaodong Lin,Chris Beecher|17|9|0|2
+112|1-dimensional splines as building blocks for improving accuracy of risk outcomes models.|David S. Vogel,Morgan C. Wang|1|0|0|0
+113|Analytical view of business data.|Adam Yeh,Jonathan Tang,Youxuan Jin,Sam Skrivan|n/a

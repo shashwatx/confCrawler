@@ -1,0 +1,12 @@
+11
+1|Learning with Mixtures of Trees.|Marina Meila,Michael I. Jordan|266|102|2|4
+2|Dependency Networks for Inference, Collaborative Filtering, and Data Visualization.|David Heckerman,David Maxwell Chickering,Christopher Meek,Robert Rounthwaite,Carl Myers Kadie|509|242|7|15
+3|Learning Evaluation Functions to Improve Optimization by Local Search.|Justin A. Boyan,Andrew W. Moore|119|37|1|1
+4|Reducing Multiclass to Binary: A Unifying Approach for Margin Classifiers.|Erin L. Allwein,Robert E. Schapire,Yoram Singer|1610|732|3|21
+5|SVMTorch: Support Vector Machines for Large-Scale Regression Problems.|Ronan Collobert,Samy Bengio|39|4|0|7
+6|Lagrangian Support Vector Machines.|Olvi L. Mangasarian,David R. Musicant|593|255|4|17
+7|Regularized Principal Manifolds.|Alexander J. Smola,Sebastian Mika,Bernhard Schölkopf,Robert C. Williamson|83|43|0|1
+8|Sparse Bayesian Learning and the Relevance Vector Machine.|Michael E. Tipping|4193|2660|11|13
+9|Bayes Point Machines.|Ralf Herbrich,Thore Graepel,Colin Campbell|203|65|0|9
+10|Tracking the Best Linear Predictor.|Mark Herbster,Manfred K. Warmuth|134|73|0|24
+11|Prior Knowledge and Preferential Structures in Gradient Descent Learning Algorithms.|Robert E. Mahony,Robert C. Williamson|24|9|0|3

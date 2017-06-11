@@ -1,0 +1,91 @@
+90
+1|Proceedings of the 1993 ACM SIGMOD International Conference on Management of Data, Washington, D.C., May 26-28, 1993.|Peter Buneman,Sushil Jajodia|n/a
+2|The Sequoia 2000 Benchmark.|Michael Stonebraker,James Frew,Kenn Gardels,Jeff Meredith|320|44|2|5
+3|The oo7 Benchmark.|Michael J. Carey,David J. DeWitt,Jeffrey F. Naughton|611|85|1|18
+4|A Modeling Study of the TPC-C Benchmark.|Scott T. Leutenegger,Daniel M. Dias|124|49|0|0
+5|Methods and Rules.|Serge Abiteboul,Georg Lausen,Heinz Uphoff,Emmanuel Waller|105|13|1|5
+6|Index Support for Rule Activation.|David A. Brant,Daniel P. Miranker|52|3|0|4
+7|Local Verification of Global Integrity Constraints in Distributed Databases.|Ashish Gupta,Jennifer Widom|125|20|1|16
+8|Partially Preemptive Hash Joins.|HweeHwa Pang,Michael J. Carey,Miron Livny|84|11|15|7
+9|On Optimal Processor Allocation to Support Pipelined Hash Joins.|Ming-Ling Lo,Ming-Syan Chen,Chinya V. Ravishankar,Philip S. Yu|70|20|12|6
+10|An Instant and Accurate Estimation Method for Joins and Selection in a Retrieval-Intensive Environment.|Wei Sun,Yibei Ling,Naphtali Rishe,Yi Deng|74|5|2|4
+11|A Logical Semantics for Object-Oriented Databases.|José Meseguer,Xiaolei Qian|41|3|0|7
+12|A New Perspective on Rule Support for Object-Oriented Databases.|Eman Anwar,L. Maugis,Sharma Chakravarthy|161|7|0|47
+13|Using the Co-existence Approach to Achieve Combined Functionality of Object-Oriented and Relational Systems.|R. Ananthanarayanan,Vibby Gottemukkala,Wolfgang Käfer,Tobin J. Lehman,Hamid Pirahesh|27|3|1|4
+14|Using Shared Virtual Memory for Parallel Join Processing.|Ambuj Shatdal,Jeffrey F. Naughton|55|8|0|1
+15|Caching and Database Scaling in Distributed Shard-Nothing Information Retrieval Systems.|Anthony Tomasic,Hector Garcia-Molina|49|21|14|3
+16|An Efficient and Flexible Method for Archiving a Data Base.|C. Mohan,Inderpal Narang|50|7|1|9
+17|Design and Implementation of the Glue-Nail Database System.|Marcia A. Derr,Shinichi Morishita,Geoffrey Phipps|61|2|0|4
+18|Maintaining Views Incrementally.|Ashish Gupta,Inderpal Singh Mumick,V. S. Subrahmanian|802|203|9|33
+19|Implementation of the CORAL Deductive Database System.|Raghu Ramakrishnan,Divesh Srivastava,S. Sudarshan,Praveen Seshadri|88|9|0|12
+20|Atomic Incremental Garbage Collection and Recovery for a Large Stable Heap.|Elliot K. Kolodner,William E. Weihl|54|5|2|2
+21|Performance Evaluation of Ephemeral Logging.|John S. Keen,William J. Dally|15|2|0|3
+22|Real-Time Transaction Scheduling: A Cost Conscious Approach.|D. Hong,Theodore Johnson,Sharma Chakravarthy|73|6|0|7
+23|Mining Association Rules between Sets of Items in Large Databases.|Rakesh Agrawal,Tomasz Imielinski,Arun N. Swami|16806|7340|105|39
+24|Loading Data into Description Reasoners.|Alexander Borgida,Ronald J. Brachman|125|22|0|7
+25|Temporal Modules: An Approach Toward Federated Temporal Databases.|Xiaoyang Sean Wang,Sushil Jajodia,V. S. Subrahmanian|64|6|0|8
+26|Efficient Processing of Spatial Joins Using R-Trees.|Thomas Brinkhoff,Hans-Peter Kriegel,Bernhard Seeger|769|156|5|29
+27|Evaluation of Signature Files as Set Access Facilities in OODBs.|Yoshiharu Ishikawa,Hiroyuki Kitagawa,Nobuo Ohbo|142|23|11|11
+28|Practical Prefetching via Data Compression.|Kenneth M. Curewitz,P. Krishnan,Jeffrey Scott Vitter|286|51|10|9
+29|Predicate Migration: Optimizing Queries with Expensive Predicates.|Joseph M. Hellerstein,Michael Stonebraker|315|71|6|10
+30|Second-Order Signature: A Tool for Specifying Data Models, Query Processing, and Optimization.|Ralf Hartmut Güting|86|13|0|1
+31|Experiences Building the Open OODB Query Optimizer.|José A. Blakeley,William J. McKenna,Goetz Graefe|158|17|10|13
+32|The LRU-K Page Replacement Algorithm For Database Disk Buffering.|Elizabeth J. O'Neil,Patrick E. O'Neil,Gerhard Weikum|918|291|16|5
+33|Doubly Distorted Mirrors.|Cyril U. Orji,Jon A. Solworth|36|6|0|2
+34|Comparing Rebuild Algorithms for Mirrored and RAID5 Disk Arrays.|Robert Y. Hou,Yale N. Patt|17|1|4|4
+35|LH* - Linear Hashing for Distributed Files.|Witold Litwin,Marie-Anne Neimat,Donovan A. Schneider|199|35|15|27
+36|Lazy Updates for Distributed Search Structure.|Theodore Johnson,Padmashree Krishna|84|9|5|2
+37|Algorithms for Loading Parallel Grid Files.|Jianzhong Li,Doron Rotem,Jaideep Srivastava|30|0|0|1
+38|Towards a Unified Visual Database Access.|Kumar V. Vadaparty,Y. Alp Aslandogan,Gultekin Özsoyoglu|64|4|0|5
+39|Interpreting a Reconstructed Relational Calculus (Extended Abstract).|Aaron Watters|1|0|0|1
+40|On the Power of Algebras with Recursion.|Catriel Beeri,Tova Milo|12|1|0|3
+41|Database System Issues in Nomadic Computing.|Rafael Alonso,Henry F. Korth|305|32|9|5
+42|Third Generation TP Monitors: A Database Challenge.|Umeshwar Dayal,Hector Garcia-Molina,Meichun Hsu,Ben Kao,Ming-Chien Shan|55|4|0|4
+43|What's Special about Spatial? Database Requirements for Vehicle Navigation in Geographic Space (Extended Abstract).|Max J. Egenhofer|84|18|1|0
+44|Database Challenges in Global Information Systems.|Joann J. Ordille,Barton P. Miller|16|3|0|2
+45|Incremental Database Systems: Databases from Ground Up.|Stanley B. Zdonik|34|2|3|1
+46|Tapes Hold Data, Too: Challenges of Tuples on Tertiary Store.|Michael J. Carey,Laura M. Haas,Miron Livny|68|1|0|4
+47|Issues in Multimedia Datbases (Panel).|H. V. Jagadish|n/a
+48|What to Teach about Datbases (Panel).|Amihai Motro|n/a
+49|Pegasus Architecture and Design Principles.|Ming-Chien Shan|27|3|0|0
+50|An InterBase System at BNR.|Omran A. Bukhres,Jiansan Chen,Rob Pezzoli|3|1|0|0
+51|Open DECdtm: Constraint Based Transaction Management.|Johannes Klein,Francis Upton IV|0|0|0|0
+52|Intelligent Integration of Information.|Gio Wiederhold|254|30|2|4
+53|A Deductive and Object-Oriented Database System: Why and How?|Laurent Vieille|5|0|0|1
+54|The Miro DBMS.|Michael Stonebraker|17|0|0|0
+55|Modularity and Tuning Mechanisms in the O2 System.|Fernando Vélez|0|0|0|0
+56|Single Logical View over Enterprise-Wide Distributed Databases.|Andrew E. Wade|6|4|3|0
+57|IBM's Relational DBMS Products: Features and Technologies.|C. Mohan|27|3|4|8
+58|GREO: A Commercial Database Processor Based on A Pipelined Hardware Sorter.|Shinya Fushimi,Masaru Kitsuregawa|17|5|2|3
+59|Parallel Database Processing on the KSR1 Computer.|Emy Tseng,David S. Reiner|9|0|0|0
+60|Concurrency Control and Recovery of Multidatabase Work Flows in Telecommunication Applications.|W. Woody Jin,Marek Rusinkiewicz,Linda A. Ness,Amit P. Sheth|35|5|0|9
+61|Architecture of the Encina Distributed Transaction Processing Family.|Marek Sherman|22|2|0|0
+62|Replicated Data in a Distributed Environment.|Malcolm Colton|27|1|15|0
+63|DDB: An Object Oriented Design Data Manager for VLSI CAD.|Anoop Singhal,Robert M. Arlein,Chi-Yuan Lo|31|11|28|0
+64|Issues and Approaches for Migration/Cohabitation between Legacy and new Systems.|Rodolphe Nassif,Don Mitchusson|9|1|2|0
+65|The International Directory Network and Connected Data Information Systems for Research in the Earth and Space Sciences.|James R. Thieman|1|0|0|0
+66|Interoperability Using APPC.|Debajyoti Mukhopadhyay|2|0|0|1
+67|Multidatabase Interdependencies in Industry.|Amit P. Sheth,George Karabatis|15|0|1|3
+68|Role of Interoperability in Business Application Development.|David Cohen,Gary Larson,Larry Berke|10|0|0|3
+69|Task Scheduling Using Intertask Dependencies in Carot.|Darrell Woelk,Paul C. Attie,Philip Cannata,Greg Meredith,Amit P. Sheth,Munindar P. Singh,Christine Tomlinson|30|0|1|4
+70|Enhancing Inter-Operability and Data Sharing In Medical Information Systems.|Dhamir N. Mannai,Khaled M. Bugrara|9|2|0|0
+71|Modeling Battlefield Sensor Environments with an Object Database Management System.|Mark A. Woyna,John H. Christiansen,Christopher W. Hield,Kathy Lee Simunich|2|0|0|0
+72|The INterset Concept for Multidatabase System Integration in the Pharmaceutical Industry.|Tony Schaller|1|0|0|1
+73|GOOD: AGraph-Oriented Object Database System.|Marc Gemis,Jan Paredaens,Inge Thyssens,Jan Van den Bussche|n/a
+74|Hy+: A Hygraph-based Query and Visualization System.|Mariano P. Consens,Alberto O. Mendelzon|143|12|2|2
+75|The Design and Implementation of CoBase.|Wesley W. Chu,M. A. Merzbacher,L. Berkovich|48|2|0|13
+76|Persistence Software: Bridging Object-Oriented Programming and Relational Databases.|Arthur M. Keller,Richard Jensen,Shailesh Agrawal|97|15|8|4
+77|NAUDA - A Cooperative, Natural Language Interface to Relational Databases.|Detlef Küpper,M. Strobel,Dietmar F. Rösner|7|2|0|0
+78|InterBase: A Multidatabase Prototype System.|Omran A. Bukhres,Jiansan Chen,Ahmed K. Elmagarmid,Xianging Liu,James G. Mullen|10|1|0|0
+79|OSAM*KBMS: An Object-Oriented Knowledge Base Management System for Supporting Advanced Applications.|Stanley Y. W. Su,Herman Lam,Srinivasa Eddula,Javier Arroyo,Neeta Prasad,Ronghao Zhuang|21|0|0|12
+80|The COMFORT Prototype: A Step Toward Automated Database Performance Tuning.|Axel Mönkeberg,Peter Zabback,Christof Hasse,Gerhard Weikum|0|0|0|0
+81|The CORAL Deductive Database System.|Raghu Ramakrishnan,William G. Roth,Praveen Seshadri,Divesh Srivastava,S. Sudarshan|10|1|0|0
+82|The "SUPER" Project.|Martin Andersson,Annamaria Auddino,Yann Dupont,Edi Fontana,M. Gentile,Stefano Spaccapietra|0|0|0|0
+83|Instrumental Complex of Parallel Software System Development and Operating Environment Support for Distributed Processing within Multitransputer Systems, TRANSSOFT.|Boris E. Polyachenko,Filipp I. Andon|1|0|0|0
+84|The LOGRES prototype.|Filippo Cacace,Stefano Ceri,Stefano Crespi-Reghizzi,Piero Fraternali,Stefano Paraboschi,Letizia Tanca|2|2|0|0
+85|Open OODB: A Modular Object-Oriented DBMS.|Steve Ford,José A. Blakeley,Thomas J. Bannon|5|1|0|0
+86|Papyrus GIS Demonstration.|Waqar Hasan,Michael L. Heytens,Curtis P. Kolovson,Marie-Anne Neimat,Spyros Potamianos,Donovan A. Schneider|9|0|1|0
+87|The V3 Video Server - Managing Analog and Digital Video Clips.|Thomas C. Rakow,Peter Muth|25|3|9|4
+88|VODAK Open Nested Transactions - Visualizing Database Internals.|Peter Muth,Thomas C. Rakow|6|0|0|3
+89|Information Organization Using Rufus.|Allen Luniewski,Peter M. Schwarz,Kurt A. Shoens,Jim Stamos,John Thomas|13|1|1|0
+90|SIMS: Retrieving and Integrating Information From Multiple Sources.|Yigal Arens,Craig A. Knoblock|33|6|3|0

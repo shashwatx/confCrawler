@@ -1,0 +1,82 @@
+81
+1|Proceedings of the 35th Annual ACM Symposium on Theory of Computing, June 9-11, 2003, San Diego, CA, USA.|Lawrence L. Larmore,Michel X. Goemans|n/a
+2|Hidden translation and orbit coset in quantum computing.|Katalin Friedl,Gábor Ivanyos,Frédéric Magniez,Miklos Santha,Pranab Sen|112|36|0|15
+3|Classical deterministic complexity of Edmonds' Problem and quantum entanglement.|Leonid Gurvits|225|143|0|7
+4|Adiabatic quantum state generation and statistical zero knowledge.|Dorit Aharonov,Amnon Ta-Shma|158|82|0|3
+5|Better streaming algorithms for clustering problems.|Moses Charikar,Liadan O'Callaghan,Rina Panigrahy|239|102|0|3
+6|Approximation algorithms for hierarchical location problems.|C. Greg Plaxton|41|15|0|0
+7|Approximation schemes for clustering problems.|Wenceslas Fernandez de la Vega,Marek Karpinski,Claire Kenyon,Yuval Rabani|133|57|0|5
+8|Exponential algorithmic speedup by a quantum walk.|Andrew M. Childs,Richard Cleve,Enrico Deotto,Edward Farhi,Sam Gutmann,Daniel A. Spielman|411|212|0|18
+9|Quantum time-space tradeoffs for sorting.|Hartmut Klauck|18|7|0|2
+10|On the power of quantum fingerprinting.|Andrew Chi-Chih Ya|49|15|0|0
+11|Management of multi-queue switches in QoS networks.|Yossi Azar,Yossi Richter|86|23|3|9
+12|Constant factor approximation of vertex-cuts in planar graphs.|Eyal Amir,Robert Krauthgamer,Satish Rao|19|8|0|3
+13|The online set cover problem.|Noga Alon,Baruch Awerbuch,Yossi Azar,Niv Buchbinder,Joseph Naor|96|51|0|4
+14|Exponential lower bound for 2-query locally decodable codes via a quantum argument.|Iordanis Kerenidis,Ronald de Wolf|195|92|0|23
+15|Optimal probabilistic fingerprint codes.|Gábor Tardos|350|220|5|2
+16|Linear time encodable and list decodable codes.|Venkatesan Guruswami,Piotr Indyk|32|12|0|10
+17|Reconstructing curves in three (and higher) dimensional space from noisy data.|Don Coppersmith,Madhu Sudan|58|23|0|1
+18|Short path queries in planar graphs in constant time.|Lukasz Kowalik,Maciej Kurowski|27|13|0|3
+19|Integer priority queues with decrease key in constant time and the single source shortest paths problem.|Mikkel Thorup|98|52|0|8
+20|A new approach to dynamic all pairs shortest paths.|Camil Demetrescu,Giuseppe F. Italiano|232|113|0|16
+21|A fast algorithm for computing steiner edge connectivity.|Richard Cole,Ramesh Hariharan|13|1|0|4
+22|The computational complexity of some julia sets.|Robert Rettinger,Klaus Weihrauch|45|9|0|4
+23|Time-space tradeoff lower bounds for integer multiplication and graphs of arithmetic functions.|Martin Sauerhoff,Philipp Woelfel|24|10|0|4
+24|Boosting in the presence of noise.|Adam Kalai,Rocco A. Servedio|50|18|2|9
+25|Learning juntas.|Elchanan Mossel,Ryan O'Donnell,Rocco A. Servedio|68|29|0|3
+26|Generating random regular graphs.|Jeong Han Kim,Van H. Vu|64|16|0|6
+27|The threshold for random k-SAT is 2k (ln 2 - O(k)).|Dimitris Achlioptas,Yuval Peres|n/a
+28|Random knapsack in expected polynomial time.|René Beier,Berthold Vöcking|108|55|0|9
+29|Server scheduling in the Lp norm: a rising tide lifts all boat.|Nikhil Bansal,Kirk Pruhs|52|24|0|13
+30|Work-competitive scheduling for cooperative computing with dynamic groups.|Chryssis Georgiou,Alexander Russell,Alexander A. Shvartsman|33|12|0|26
+31|A tight time lower bound for space-optimal implementations of multi-writer snapshots.|Panagiota Fatourou,Faith Ellen Fich,Eric Ruppert|15|2|0|8
+32|Randomly coloring graphs of girth at least five.|Thomas P. Hayes|33|9|0|4
+33|Evolving sets and mixin.|Ben Morris,Yuval Peres|n/a
+34|Modified log-sobolev inequalities, mixing and hypercontractivity.|Sergey Bobkov,Prasad Tetali|10|6|0|2
+35|On the fractal behavior of TCP.|Anna C. Gilbert,Howard J. Karloff|3|2|0|0
+36|On the limits of cache-obliviousness.|Gerth Stølting Brodal,Rolf Fagerberg|73|30|0|11
+37|A sublinear algorithm for weakly approximating edit distance.|Tugkan Batu,Funda Ergün,Joe Kilian,Avner Magen,Sofya Raskhodnikova,Ronitt Rubinfeld,Rahul Sami|67|28|1|1
+38|New degree bounds for polynomial threshold functions.|Ryan O'Donnell,Rocco A. Servedio|44|17|0|13
+39|Sampling lower bounds via information theory.|Ziv Bar-Yossef|41|13|0|0
+40|Some 3CNF properties are hard to test.|Eli Ben-Sasson,Prahladh Harsha,Sofya Raskhodnikova|124|68|0|21
+41|Derandomizing polynomial identity tests means proving circuit lower bounds.|Valentine Kabanets,Russell Impagliazzo|324|206|0|14
+42|Simpler and better approximation algorithms for network design.|Anupam Gupta,Amit Kumar,Tim Roughgarden|174|57|0|19
+43|Meet and merge: approximation algorithms for confluent flows.|Jiangzhuo Chen,Rajmohan Rajaraman,Ravi Sundaram|28|10|0|10
+44|Optimal oblivious routing in polynomial time.|Yossi Azar,Edith Cohen,Amos Fiat,Haim Kaplan,Harald Räcke|177|65|1|4
+45|Primal-dual meets local search: approximating MST's with nonuniform degree bounds.|Jochen Könemann,R. Ravi|63|29|0|2
+46|The worst-case behavior of schnorr's algorithm approximating the shortest nonzero vector in a lattice.|Miklós Ajtai|42|14|0|1
+47|New lattice based cryptographic constructions.|Oded Regev|209|107|0|8
+48|Lower bounds on the efficiency of encryption and digital signature schemes.|Rosario Gennaro,Yael Gertner,Jonathan Katz|28|12|0|2
+49|Non-interactive and reusable non-malleable commitment schemes.|Ivan Damgård,Jens Groth|104|40|0|3
+50|The intrinsic dimensionality of graphs.|Robert Krauthgamer,James R. Lee|36|9|0|4
+51|A tight bound on approximating arbitrary metrics by tree metrics.|Jittat Fakcharoenphol,Satish Rao,Kunal Talwar|576|292|0|17
+52|On average distortion of embedding metrics into the line and into L1.|Yuri Rabinovich|42|16|0|0
+53|On metric ramsey-type phenomena.|Yair Bartal,Nathan Linial,Manor Mendel,Assaf Naor|120|51|0|48
+54|Touring a sequence of polygons.|Moshe Dror,Alon Efrat,Anna Lubiw,Joseph S. B. Mitchell|104|59|0|11
+55|Well-separated pair decomposition for the unit-disk graph metric and its applications.|Jie Gao,Li Zhang|34|15|0|4
+56|Alpha-shapes and flow shapes are homotopy equivalent.|Tamal K. Dey,Joachim Giesen,Matthias John|30|12|0|5
+57|Reducing truth-telling online mechanisms to online optimization.|Baruch Awerbuch,Yossi Azar,Adam Meyerson|65|26|0|1
+58|Near-optimal network design with selfish agents.|Elliot Anshelevich,Anirban Dasgupta,Éva Tardos,Tom Wexler|242|81|0|10
+59|Pricing network edges for heterogeneous selfish users.|Richard Cole,Yevgeniy Dodis,Tim Roughgarden|196|76|0|14
+60|Sublinear geometric algorithms.|Bernard Chazelle,Ding Liu,Avner Magen|53|18|0|4
+61|Distinct distances in three and higher dimensions.|Boris Aronov,János Pach,Micha Sharir,Gábor Tardos|21|4|0|8
+62|Cutting triangular cycles of lines in space.|Boris Aronov,Vladlen Koltun,Micha Sharir|3|1|0|3
+63|OPT versus LOAD in dynamic storage allocation.|Adam L. Buchsbaum,Howard J. Karloff,Claire Kenyon,Nick Reingold,Mikkel Thorup|55|33|0|1
+64|Consistent load balancing via spread minimization.|Robert D. Kleinberg,Frank Thomson Leighton|10|3|1|0
+65|A stochastic process on the hypercube with applications to peer-to-peer networks.|Micah Adler,Eran Halperin,Richard M. Karp,Vijay V. Vazirani|121|28|0|1
+66|Polylogarithmic inapproximability.|Eran Halperin,Robert Krauthgamer|158|83|0|3
+67|A new multilayered PCP and the hardness of hypergraph vertex cover.|Irit Dinur,Venkatesan Guruswami,Subhash Khot,Oded Regev|138|64|0|21
+68|Extractors: optimal up to constant factors.|Chi-Jen Lu,Omer Reingold,Salil P. Vadhan,Avi Wigderson|123|45|0|6
+69|Randomness-efficient low degree tests and short PCPs via epsilon-biased sets.|Eli Ben-Sasson,Madhu Sudan,Salil P. Vadhan,Avi Wigderson|106|38|0|16
+70|Uniform hashing in constant time and linear space.|Anna Östlin,Rasmus Pagh|55|18|2|3
+71|Almost random graphs with simple hash functions.|Martin Dietzfelbinger,Philipp Woelfel|63|33|0|7
+72|Dynamic rectangular intersection with priorities.|Haim Kaplan,Eyal Molad,Robert Endre Tarjan|40|21|0|6
+73|Space efficient dynamic stabbing with fast queries.|Mikkel Thorup|31|7|0|3
+74|Lower bounds on the amount of randomness in private computation.|Anna Gál,Adi Rosén|n/a
+75|Cell-probe lower bounds for the partial match problem.|T. S. Jayram,Subhash Khot,Ravi Kumar,Yuval Rabani|40|10|0|0
+76|Two applications of information complexity.|T. S. Jayram,Ravi Kumar,D. Sivakumar|74|43|0|5
+77|Bounded-concurrent secure two-party computation without setup assumptions.|Yehuda Lindell|88|46|0|14
+78|Approximate counting by dynamic programming.|Martin E. Dyer|72|46|0|6
+79|Testing subgraphs in directed graphs.|Noga Alon,Asaf Shapira|121|68|0|19
+80|On the sample size of k-restricted min-wise independent permutations and other k-wise distributions.|Toshiya Itoh,Yoshinori Takei,Jun Tarui|17|4|0|4
+81|A proof of Alon's second eigenvalue conjecture.|Joel Friedman|146|74|0|1

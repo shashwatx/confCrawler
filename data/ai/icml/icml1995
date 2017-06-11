@@ -1,0 +1,73 @@
+72
+1|Machine Learning, Proceedings of the Twelfth International Conference on Machine Learning, Tahoe City, California, USA, July 9-12, 1995.|Armand Prieditis,Stuart J. Russell|n/a
+2|On-line Learning of Binary Lexical Relations Using Two-dimensional Weighted Majority Algorithms.|Naoki Abe,Hang Li,Atsuyoshi Nakamura|10|0|0|7
+3|On Handling Tree-Structured Attributed in Decision Tree Learning.|Hussein Almuallim,Yasuhiro Akiba,Shigeo Kaneda|n/a
+4|Theory and Applications of Agnostic PAC-Learning with Small Decision Trees.|Peter Auer,Robert C. Holte,Wolfgang Maass|146|10|0|2
+5|Residual Algorithms: Reinforcement Learning with Function Approximation.|Leemon C. Baird III|649|253|1|1
+6|Removing the Genetics from the Standard Genetic Algorithm.|Shumeet Baluja,Rich Caruana|534|158|0|11
+7|Inductive Learning of Reactive Action Models.|Scott Benson|85|17|0|1
+8|Visualizing High-Dimensional Structure with the Incremental Grid Growing Neural Network.|Justine Blackmore,Risto Miikkulainen|73|19|0|2
+9|Empirical Support for Winnow and Weighted-Majority Based Algorithms: Results on a Calendar Scheduling Domain.|Avrim Blum|255|77|12|4
+10|Automatic Selection of Split Criterion during Tree Growing Based on Node Location.|Carla E. Brodley|n/a
+11|A Lexical Based Semantic Bias for Theory Revision.|Clifford Brunk,Michael J. Pazzani|15|1|0|0
+12|A Comparative Evaluation of Voting and Meta-learning on Partitioned Data.|Philip K. Chan,Salvatore J. Stolfo|219|25|0|15
+13|Fast and Efficient Reinforcement Learning with Truncated Temporal Differences.|Pawel Cichosz,Jan J. Mulawka|23|3|0|5
+14|K*: An Instance-based Learner Using and Entropic Distance Measure.|John G. Cleary,Leonard E. Trigg|445|291|0|0
+15|Fast Effective Rule Induction.|William W. Cohen|3480|1580|37|20
+16|Text Categorization and Relational Learning.|William W. Cohen|124|13|7|5
+17|Protein Folding: Symbolic Refinement Competes with Neural Networks.|Susan Craw,Paul Hutton|11|0|0|5
+18|A Bayesian Analysis of Algorithms for Learning Finite Functions.|James Cussens|1|0|0|0
+19|Committee-Based Sampling For Training Probabilistic Classifiers.|Ido Dagan,Sean P. Engelson|328|165|5|3
+20|Learning Prototypical Concept Descriptions.|Piew Datta,Dennis F. Kibler|40|1|0|2
+21|A Case Study of Explanation-Based Control.|Gerald DeJong|7|0|0|0
+22|Explanation-Based Learning and Reinforcement Learning: A Unified View.|Thomas G. Dietterich,Nicholas S. Flann|101|13|0|2
+23|Lessons from Theory Revision Applied to Constructive Induction.|Steven K. Donoho,Larry A. Rendell|2|2|0|0
+24|Supervised and Unsupervised Discretization of Continuous Features.|James Dougherty,Ron Kohavi,Mehran Sahami|1935|683|6|14
+25|Bounds on the Classification Error of the Nearest Neighbor Rule.|John A. Drakopoulos|9|2|0|0
+26|Q-Learning for Bandit Problems.|Michael O. Duff|n/a
+27|Distilling Reliable Information From Unreliable Theories.|Sean P. Engelson,Moshe Koppel|n/a
+28|A Quantitative Study of Hypothesis Selection.|Philip W. L. Fong|n/a
+29|Learning Proof Heuristics by Adaptive Parameters.|Matthias Fuchs|n/a
+30|Efficient Algorithms for Finding Multi-way Splits for Decision Trees.|Truxton Fulton,Simon Kasif,Steven Salzberg|n/a
+31|Ant-Q: A Reinforcement Learning Approach to the Traveling Salesman Problem.|Luca Maria Gambardella,Marco Dorigo|n/a
+32|Stable Function Approximation in Dynamic Programming.|Geoffrey J. Gordon|n/a
+33|The Challenge of Revising an Impure Theory.|Russell Greiner|0|0|0|0
+34|Symbiosis in Multimodal Concept Learning.|Jukka Hekanaho|24|4|0|4
+35|Tracking the Best Expert.|Mark Herbster,Manfred K. Warmuth|400|167|5|30
+36|Reinforcement Learning by Stochastic Hill Climbing on Discounted Reward.|Hajime Kimura,Masayuki Yamamura,Shigenobu Kobayashi|57|11|0|5
+37|Autmatic Parameter Selection by Minimizing Estimated Error.|Ron Kohavi,George H. John|134|31|0|10
+38|Error-Correcting Output Coding Corrects Bias and Variance.|Eun Bae Kong,Thomas G. Dietterich|392|113|4|8
+39|Learning to Make Rent-to-Buy Decisions with Systems Applications.|P. Krishnan,Philip M. Long,Jeffrey Scott Vitter|n/a
+40|NewsWeeder: Learning to Filter Netnews.|Ken Lang|n/a
+41|Hill Climbing Beats Genetic Search on a Boolean Circuit Synthesis Problem of Koza's.|Kevin J. Lang|n/a
+42|Case-Based Acquisition of Place Knowledge.|Pat Langley,Karl Pfleger|n/a
+43|Comparing Several Linear-threshold Learning Algorithms on Tasks Involving Superfluous Attributes.|Nick Littlestone|n/a
+44|Learning Policies for Partially Observable Environments: Scaling Up.|Michael L. Littman,Anthony R. Cassandra,Leslie Pack Kaelbling|n/a
+45|Increasing the Performance and Consistency of Classification Trees by Using the Accuracy Criterion at the Leaves.|David J. Lubinsky|n/a
+46|Efficient Learning with Virtual Threshold Gates.|Wolfgang Maass,Manfred K. Warmuth|62|4|0|9
+47|Instance-Based Utile Distinctions for Reinforcement Learning with Hidden State.|Andrew McCallum|249|64|0|2
+48|Efficient Learning from Delayed Rewards through Symbiotic Evolution.|David E. Moriarty,Risto Miikkulainen|n/a
+49|Free to Choose: Investigating the Sample Complexity of Active Learning of Real Valued Functions.|Partha Niyogi|n/a
+50|On Learning Decision Committees.|Richard Nock,Olivier Gascuel|n/a
+51|Inferring Reduced Ordered Decision Graphs of Minimum Description Length.|Arlindo L. Oliveira,Alberto L. Sangiovanni-Vincentelli|15|0|0|1
+52|On Pruning and Averaging Decision Trees.|Jonathan J. Oliver,David J. Hand|82|10|0|0
+53|Efficient Memory-Based Dynamic Programming.|Jing Peng|25|1|0|4
+54|Using Multidimensional Projection to Find Relations.|Eduardo Pérez,Larry A. Rendell|33|3|0|0
+55|Compression-Based Discretization of Continuous Attributes.|Bernhard Pfahringer|120|27|0|2
+56|MDL and Categorial Theories (Continued).|J. Ross Quinlan|n/a
+57|For Every Generalization Action, Is There Really an Equal and Opposite Reaction?|R. Bharat Rao,Diana F. Gordon,William M. Spears|n/a
+58|Active Exploration and Learning in real-Valued Spaces using Multi-Armed Bandit Allocation Indices.|Marcos Salganicoff,Lyle H. Ungar|15|4|1|1
+59|Discovering Solutions with Low Kolmogorov Complexity and High Generalization Capability.|Jürgen Schmidhuber|83|14|0|10
+60|A Comparison of Induction Algorithms for Selective and non-Selective Bayesian Classifiers.|Moninder Singh,Gregory M. Provan|49|9|0|5
+61|Retrofitting Decision Tree Classifiers Using Kernel Density Estimation.|Padhraic Smyth,Alexander G. Gray,Usama M. Fayyad|86|13|0|0
+62|Automatic Speaker Recognition: An Application of Machine Learning.|Brett Squires,Claude Sammut|8|2|0|1
+63|An Inductive Learning Approach to Prognostic Prediction.|W. Nick Street,Olvi L. Mangasarian,William H. Wolberg|66|27|0|6
+64|TD Models: Modeling the World at a Mixture of Time Scales.|Richard S. Sutton|112|30|2|20
+65|Learning Collection FUsion Strategies for Information Retrieval.|Geoffrey G. Towell,Ellen M. Voorhees,Narendra Kumar Gupta,Ben Johnson-Laird|59|6|3|4
+66|Learning by Observation and Practice: An Incremental Approach for Planning Operator Acquisition.|Xuemei Wang|144|45|0|2
+67|Learning with Rare Cases and Small Disjuncts.|Gary M. Weiss|85|30|0|9
+68|Horizonal Generalization.|David Wolpert|n/a
+69|Learning Hierarchies from Ambiguous Natural Language Data.|Takefumi Yamazaki,Michael J. Pazzani,Christopher J. Merz|15|1|0|0
+70|Machine Learning and Information Retrieval (Abstract).|W. Bruce Croft|n/a
+71|Learning With Bayesian Networks (Abstract).|David Heckerman|n/a
+72|Learning for Automotive Collision Avoidance and Autonomous Control.|Dean Pomerleau|0|0|0|0

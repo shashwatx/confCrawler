@@ -1,0 +1,32 @@
+31
+1|Advances in Database Technology - EDBT'90.  International Conference on Extending Database Technology, Venice, Italy, March 26-30, 1990, Proceedings.|François Bancilhon,Costantino Thanos,Dennis Tsichritzis|0|0|0|0
+2|Deductive Databases - Theory Meets Practice.|Carlo Zaniolo|23|2|0|0
+3|An Adaptive Overflow Technique for B-trees.|Ricardo A. Baeza-Yates|14|4|2|6
+4|Single Table Access Using Multiple Indexes: Optimization, Execution, and Concurrency Control Techniques.|C. Mohan,Donald J. Haderle,Yun Wang,Josephine M. Cheng|105|29|6|16
+5|Optimization of Queries using Nested Indices.|Elisa Bertino|34|3|0|9
+6|A Probalilistic Relational Data Model.|Daniel Barbará,Hector Garcia-Molina,Daryl Porter|n/a
+7|Extending the Functional Data Model to Computational Completeness.|Alexandra Poulovassilis,Peter J. H. King|44|1|0|9
+8|Methods and Tools for Equivalent Data Model Mapping Construction.|Leonid A. Kalinichenko|77|20|0|11
+9|The Many Faces of Query Monotonicity.|Catriel Beeri,Yoram Kornatzky|11|0|0|0
+10|File Access Level Optimization Using Page Access Graph on Recursive Query Evaluation.|Yuki Kusumi,Shojiro Nishio,Toshiharu Hasegawa|9|0|0|0
+11|Abstract Machine for LDL.|Danette Chimenti,Ruben Gamboa,Ravi Krishnamurthy|n/a
+12|Query Processing in Distributed ORION.|B. Paul Jenq,Darrell Woelk,Won Kim,Wan-Lik Lee|112|7|4|3
+13|A Localized Approach to Distributed Query Processing.|Arbee L. P. Chen|30|0|15|11
+14|Retrieval of Multimedia Documents by Imprecise Query Specification.|Fausto Rabitti,Pasquale Savino|51|13|1|0
+15|A Lock Technique for Disjoint and Non-Disjoint Complex Objects.|Ulrich Herrmann,Peter Dadam,Klaus Küspert,E. A. Roman,Gunter Schlageter|22|4|0|3
+16|Modeling Physical Systems by Complex Structural Objects and Complex Functional Objects.|Shamkant B. Navathe,Aloysius Cornelio|17|0|0|6
+17|Uniform Object Management.|George P. Copeland,Michael J. Franklin,Gerhard Weikum|44|7|0|2
+18|Exceeding the Limits of Polymorphism in Database Programming Languages.|David W. Stemple,Leonidas Fegaras,Tim Sheard,Adolfo Socorro|49|2|0|5
+19|Set Operations in a Data Model Supporting Complex Objects.|Elke A. Rundensteiner,Lubomir Bic|10|0|0|4
+20|Existentially Quantified Typed as a Database Viewing Mechanism.|Richard C. H. Connor,Alan Dearle,Ronald Morrison,Fred Brown|28|1|0|16
+21|Panel: Has Theory Brought Anything to Database Systems and Will It in the Future?|David Maier|0|0|0|0
+22|The HyperModel Benchmark.|T. Lougenia Anderson,Arne-Jørgen Berre,Moira Mallison,Harry H. Porter,Bruce Schneider|111|9|0|1
+23|LISPO2: a Persistent Object-Oriented Lisp.|Gilles Barbedette|10|0|0|2
+24|The Iris Kernel Architecture.|Peter Lyngbæk,W. Kevin Wilkinson,Waqar Hasan|5|0|0|0
+25|Integrating Concurrency Control into an Object-Oriented Database System.|Michèle Cart,Jean Ferrié|60|6|0|0
+26|Representation of the Historical Information Necessary for Temporal Integrity Monitoring.|Klaus Hülsmann,Gunter Saake|15|0|0|6
+27|Making an Object-Oriented DBMS Active: Design, Implementation, and Evaluation of a Prototype.|Sharma Chakravarthy,Susan Nesson|53|3|0|13
+28|A Theory for Rule Triggering Systems.|Yuli Zhou,Meichun Hsu|85|8|0|1
+29|A Pragmatic Approach for Integrating Data Management and Tasks Management: Modelling and Implementation Issues.|Francisca Antunes,Seán Baker,Brian Caulfield,Mauricio Lopez,Mark Sheppard|3|0|0|0
+30|The Reuse and Modification of Rulebases by Predicate Substituation.|Anthony J. Bonner,Tomasz Imielinski|9|0|0|4
+31|Panel: ``Why are object-oriented folks producing systems, while deductive foks are producing papers?''.|Michele Missikoff|0|0|0|0

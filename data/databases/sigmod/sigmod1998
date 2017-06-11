@@ -1,0 +1,88 @@
+87
+1|SIGMOD 1998, Proceedings ACM SIGMOD International Conference on Management of Data, June 2-4, 1998, Seattle, Washington, USA.|Laura M. Haas,Ashutosh Tiwary|n/a
+2|Query Flocks: A Generalization of Association-Rule Mining.|Shalom Tsur,Jeffrey D. Ullman,Serge Abiteboul,Chris Clifton,Rajeev Motwani,Svetlozar Nestorov,Arnon Rosenthal|224|24|0|0
+3|Exploratory Mining and Pruning Optimizations of Constrained Association Rules.|Raymond T. Ng,Laks V. S. Lakshmanan,Jiawei Han,Alex Pang|880|227|3|74
+4|Parallel Mining Algorithms for Generalized Association Rules with Classification Hierarchy.|Takahiko Shintani,Masaru Kitsuregawa|80|9|0|14
+5|Reusing Invariants: A New Strategy for Correlated Queries.|Jun Rao,Kenneth A. Ross|44|10|2|1
+6|Query Unnesting in Object-Oriented Databases.|Leonidas Fegaras|46|5|0|6
+7|Changing the Rules: Transformations for Rule-Based Optimizers.|Mitch Cherniack,Stanley B. Zdonik|40|3|0|2
+8|CURE: An Efficient Clustering Algorithm for Large Databases.|Sudipto Guha,Rajeev Rastogi,Kyuseok Shim|2711|1100|8|10
+9|Efficiently Mining Long Patterns from Databases.|Roberto J. Bayardo Jr.|1698|540|6|3
+10|Automatic Subspace Clustering of High Dimensional Data for Data Mining Applications.|Rakesh Agrawal,Johannes Gehrke,Dimitrios Gunopulos,Prabhakar Raghavan|2642|977|18|16
+11|Efficient Mid-Query Re-Optimization of Sub-Optimal Query Execution Plans.|Navin Kabra,David J. DeWitt|376|128|31|2
+12|Interaction of Query Evaluation and Buffer Management for Information Retrieval.|Björn Þór Jónsson,Michael J. Franklin,Divesh Srivastava|48|8|2|0
+13|Cost Based Query Scrambling for Initial Delays.|Tolga Urhan,Michael J. Franklin,Laurent Amsaleg|253|48|2|12
+14|The Pyramid-Technique: Towards Breaking the Curse of Dimensionality.|Stefan Berchtold,Christian Böhm,Hans-Peter Kriegel|653|154|3|6
+15|Optimal Multi-Step k-Nearest Neighbor Search.|Thomas Seidl,Hans-Peter Kriegel|508|156|10|50
+16|Dimensionality Reduction for Similarity Searching in Dynamic Databases.|Kothuri Venkata Ravi Kanth,Divyakant Agrawal,Ambuj K. Singh|300|79|12|5
+17|Your Mediators Need Data Conversion!|Sophie Cluet,Claude Delobel,Jérôme Siméon,Katarzyna Smaga|497|33|0|15
+18|Using Schematically Heterogeneous Structures.|Renée J. Miller|140|16|9|5
+19|Integration of Heterogeneous Databases Without Common Domains Using Queries Based on Textual Similarity.|William W. Cohen|507|137|16|18
+20|The DEDALE System for Complex Spatial Queries.|Stéphane Grumbach,Philippe Rigaux,Luc Segoufin|163|21|0|9
+21|Similarity Query Processing Using Disk Arrays.|Apostolos Papadopoulos,Yannis Manolopoulos|35|7|0|9
+22|Incremental Distance Join Algorithms for Spatial Databases.|Gísli R. Hjaltason,Hanan Samet|386|86|0|25
+23|An Alternative Storage Organization for ROLAP Aggregate Views Based on Cubetrees.|Yannis Kotidis,Nick Roussopoulos|110|18|10|10
+24|Caching Multidimensional Queries Using Chunks.|Prasad Deshpande,Karthikeyan Ramasamy,Amit Shukla,Jeffrey F. Naughton|241|44|5|8
+25|Simultaneous Optimization and Evaluation of Multiple Dimensional Queries.|Yihong Zhao,Prasad Deshpande,Jeffrey F. Naughton,Amit Shukla|94|21|6|2
+26|NoDoSE - A Tool for Semi-Automatically Extracting Semi-Structured Data from Text Documents.|Brad Adelberg|n/a
+27|Extracting Schema from Semistructured Data.|Svetlozar Nestorov,Serge Abiteboul,Rajeev Motwani|n/a
+28|Enhanced Hypertext Categorization Using Hyperlinks.|Soumen Chakrabarti,Byron Dom,Piotr Indyk|980|298|24|18
+29|Cost-Based Optimization of Decision Support Queries Using Transient Views.|Subbu N. Subramanian,Shivakumar Venkataraman|129|60|129|2
+30|New Sampling-Based Summary Statistics for Improving Approximate Query Answers.|Phillip B. Gibbons,Yossi Matias|481|119|10|21
+31|Integrating Mining with Relational Database Systems: Alternatives and Implications.|Sunita Sarawagi,Shiby Thomas,Rakesh Agrawal|n/a
+32|Bitmap Index Design and Evaluation.|Chee Yong Chan,Yannis E. Ioannidis|412|88|10|3
+33|AutoAdmin 'What-if' Index Analysis Utility.|Surajit Chaudhuri,Vivek R. Narasayya|265|78|16|29
+34|On Parallel Processing of Aggregate and Scalar Functions in Object-Relational DBMS.|Michael Jaedicke,Bernhard Mitschang|54|11|4|8
+35|Secure and Portable Database Extensibility.|Michael W. Godfrey,Tobias Mayr,Praveen Seshadri,Thorsten von Eicken|38|1|1|8
+36|A Multi-Similarity Algebra.|Sibel Adali,Piero A. Bonatti,Maria Luisa Sapino,V. S. Subrahmanian|85|25|0|9
+37|Catching the Boat with Strudel: Experiences with a Web-Site Management System.|Mary F. Fernández,Daniela Florescu,Jaewoo Kang,Alon Y. Levy,Dan Suciu|435|18|1|22
+38|Approximate Medians and other Quantiles in One Pass and with Limited Memory.|Gurmeet Singh Manku,Sridhar Rajagopalan,Bruce G. Lindsay|249|69|8|2
+39|Random Sampling for Histogram Construction: How much is enough?|Surajit Chaudhuri,Rajeev Motwani,Vivek R. Narasayya|251|65|12|28
+40|Wavelet-Based Histograms for Selectivity Estimation.|Yossi Matias,Jeffrey Scott Vitter,Min Wang|456|94|13|24
+41|Efficient and Transparent Application Recovery in Client-Server Information Systems.|David B. Lomet,Gerhard Weikum|69|9|12|12
+42|Memory Management During Run Generation in External Sorting.|Per-Åke Larson,Goetz Graefe|49|17|0|4
+43|Replication, Consistency, and Practicality: Are These Mutually Exclusive?|Todd A. Anderson,Yuri Breitbart,Henry F. Korth,Avishai Wool|162|22|0|6
+44|Are We Working On the Right Problems? (Panel).|Michael Stonebraker|10|1|0|0
+45|Panel on Next Generation Database Systems Won't Work Without Semantics!|John Mylopoulos|n/a
+46|Electronic Commerce: Tutorial.|Nabil R. Adam,Yelena Yesha|n/a
+47|SAP R/3: A Database Application System (Tutorial).|Alfons Kemper,Donald Kossmann,Florian Matthes|n/a
+48|Java and Relational Databases: SQLJ (Tutorial).|Gray Clossman,Phil Shaw,Mark Hapner,Johannes Klein,Richard Pledereder,Brian Becker|8|1|0|0
+49|High-Dimensional Index Structures, Database Support for Next Decade's Applications (Tutorial).|Stefan Berchtold,Daniel A. Keim|35|3|0|3
+50|Microsoft Universal Data Access Platform.|José A. Blakeley,Michael Pizzo|12|3|3|1
+51|Enterprise Java Platform Data Access.|Seth J. White,R. G. G. Cattell,Sheldon J. Finkelstein|n/a
+52|SQL Open Heterogeneous Data Access.|Berthold Reinwald,Hamid Pirahesh|18|3|1|2
+53|Managing Large Systems with DB2 UDB.|Chris Eaton|n/a
+54|Database Systems Management and Oracle8.|C. Gregory Doherty|4|1|1|0
+55|Ubiquitous, Self-tuning, Scalable Servers.|Peter M. Spiro|15|6|11|0
+56|"Data In Your Face": Push Technology in Perspective.|Michael J. Franklin,Stanley B. Zdonik|279|61|18|9
+57|The PointCast Network.|Satish Ramakrishnan,Vibha Dayal|36|1|0|0
+58|Transactional Publish / Subscribe: The Proactive Multicast of Database Changes.|Arvola Chan|32|5|1|0
+59|A Data Mining Application: Customes Retention at the Port of Singapore Authority (PSA).|KianSing Ng,Huan Liu,HweeBong Kwah|10|3|0|1
+60|Oracle Rdb's Record Caching Model.|Richard Anderson,Gopalan Arun,Richard Frank|n/a
+61|50,000 Users on an Oracle8 Universal Server Database.|Tirthankar Lahiri,Ashok Joshi,Amit Jasuja,Sumanta Chatterjee|7|1|4|1
+62|About Quark Digital Media System.|Kamar Aulakh|1|0|0|0
+63|FileNet Integrated Document Management Database Usage and Issues.|Daniel S. Whelan|7|2|0|0
+64|Developing a High Traffic, Read-Only Web Site.|John Nauman,Ray Suorsa|n/a
+65|Real Business Processing Meets the Web.|James Chong|1|0|0|0
+66|Olympic Records for Data at the 1998 Nagano Games.|Edwin R. Lassettre|6|0|0|0
+67|Delivering High Availability for Inktomi Search Engines.|Eric A. Brewer|11|1|0|0
+68|Microsoft.com: A High-Scale Data Management and Transaction Processing Solution.|Sherri Kennamer|6|0|0|0
+69|Free Parallel Data Mining.|Bin Li,Dennis Shasha|12|5|0|0
+70|The Araneus Web-Base Management System.|Giansalvatore Mecca,Paolo Atzeni,Alessandro Masci,Paolo Merialdo,Giuseppe Sindoni|n/a
+71|CQ: A Personalized Update Monitoring Toolkit.|Ling Liu,Calton Pu,Wei Tang,David Buttler,John Biggs,Tong Zhou,Paul Benninghoff,Wei Han,Fenghua Yu|47|3|3|15
+72|DataSplash.|Chris Olston,Allison Woodruff,Alexander Aiken,Michael Chu,Vuk Ercegovac,Mark Lin,Mybrid Spalding,Michael Stonebraker|35|4|0|2
+73|Microsoft Index Tuning Wizard for SQL Server 7.0.|Surajit Chaudhuri,Vivek R. Narasayya|40|7|1|0
+74|FlowBack: Providing Backward Recovery for Workflow Systems.|Bartek Kiepuszewski,Ralf Mühlberger,Maria E. Orlowska|53|14|2|4
+75|Providing Database-like Access to the Web Using Queries Based on Textual Similarity.|William W. Cohen|25|9|0|0
+76|ARIADNE: A System for Constructing Mediators for Internet Sources.|José Luis Ambite,Naveen Ashish,Greg Barish,Craig A. Knoblock,Steven Minton,Pragnesh Jay Modi,Ion Muslea,Andrew Philpot,Sheila Tejada|98|8|1|1
+77|Capability Based Mediation in TSIMMIS.|Chen Li,Ramana Yerneni,Vasilis Vassalos,Hector Garcia-Molina,Yannis Papakonstantinou,Jeffrey D. Ullman,Murty Valiveti|159|14|1|25
+78|CONTROL: Continuous Output and Navigation Technology with Refinement On-Line.|Ron Avnur,Joseph M. Hellerstein,Bruce Lo,Chris Olston,Bhaskaran Raman,Vijayshankar Raman,Tali Roth,Kirk Wylie|25|11|2|4
+79|amdb: An Access Method Debugging Tool.|Marcel Kornacker,Mehul A. Shah,Joseph M. Hellerstein|n/a
+80|User-oriented smart-cache for the Web: What You Seek is What You Get!|Zoé Lacroix,Arnaud Sahuguet,Raman Chandrasekar|15|1|0|3
+81|The Multidimensional Database System RasDaMan.|Peter Baumann,Andreas Dehmel,Paula Furtado,Roland Ritsch,Norbert Widmann|107|88|0|7
+82|Xmas: An Extensible Main-Memory Storage System for High-Performance Applications.|Jang Ho Park,Yong Sik Kwon,Ki Hong Kim,Sangho Lee,Byoung Dae Park,Sang Kyun Cha|17|1|1|2
+83|MultiMediaMiner: A System Prototype for Multimedia Data Mining.|Osmar R. Zaïane,Jiawei Han,Ze-Nian Li,Sonny Han Seng Chee,Jenny Chiang|154|26|0|5
+84|SuperSQL: An Extended SQL for Database Publishing and Presentation.|Motomichi Toyama|46|12|8|14
+85|The IDEA Web Lab.|Stefano Ceri,Piero Fraternali,Stefano Paraboschi|4|1|0|0
+86|DTL's DataSpot: Database Exploration as Easy as Browsing the Web ...|Shaul Dar,Gadi Entin,Shai Geva,Eran Palmon|4|1|0|0
+87|A Protein Patent Query System Powered By Kleisli.|Jing Chen,Limsoon Wong,Louxin Zhang|16|1|1|10

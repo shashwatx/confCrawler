@@ -1,0 +1,88 @@
+87
+1|32nd Annual Symposium on Foundations of Computer Science, San Juan, Puerto Rico, 1-4 October 1991.|n/a
+2|Approximating Clique is Almost NP-Complete (Preliminary Version).|Uriel Feige,Shafi Goldwasser,László Lovász,Shmuel Safra,Mario Szegedy|n/a
+3|Fully Parallelized Multi Prover Protocols for NEXP-Time (Extended Abstract).|Dror Lapidot,Adi Shamir|86|9|0|1
+4|Languages that Are Easier than their Proofs.|Richard Beigel,Mihir Bellare,Joan Feigenbaum,Shafi Goldwasser|40|8|0|6
+5|An Optimal Convex Hull Algorithm and New Results on Cuttings (Extended Abstract).|Bernard Chazelle|92|13|0|5
+6|The Art Gallery Theorem for Polygons With Holes.|Frank Hoffmann,Michael Kaufmann,Klaus Kriegel|81|32|0|1
+7|Fat Triangles Determine Linearly Many Holes.|Jirí Matousek,Nathaly Miller,János Pach,Micha Sharir,Shmuel Sifrony,Emo Welzl|160|30|0|46
+8|Quantifying Knowledge Complexity.|Oded Goldreich,Erez Petrank|63|7|0|20
+9|Subquadratic Zero-Knowledge.|Joan Boyar,Gilles Brassard,René Peralta|21|7|0|1
+10|Simulating BPP Using a General Weak Random Source.|David Zuckerman|135|35|0|18
+11|Checking the Correctness of Memories.|Manuel Blum,William S. Evans,Peter Gemmell,Sampath Kannan,Moni Naor|274|100|13|24
+12|On-line Scheduling in the Presence of Overload.|Sanjoy K. Baruah,Gilad Koren,Bhubaneswar Mishra,Arvind Raghunathan,Louis E. Rosier,Dennis Shasha|164|39|2|10
+13|Dynamic Scheduling on Parallel Machines.|Anja Feldmann,Jirí Sgall,Shang-Hua Teng|120|18|0|8
+14|Optimal Prefetching via Data Compression (Extended Abstract).|Jeffrey Scott Vitter,P. Krishnan|n/a
+15|Scheduling Parallel Machines On-Line.|David B. Shmoys,Joel Wein,David P. Williamson|310|60|0|8
+16|Concentrated Regular Data Streams on Grids: Sorting and Routing Near to the Bisection Bound.|Manfred Kunde|68|0|0|5
+17|Communication Complexity for Parallel Divide-and-Conquer.|I-Chen Wu,H. T. Kung|65|7|0|1
+18|On Selecting a Satisfying Truth Assignment (Extended Abstract).|Christos H. Papadimitriou|n/a
+19|Exact Learning of Read-Twice DNF Formulas (Extended Abstract).|Howard Aizenstein,Leonard Pitt|n/a
+20|Randomized Multidimensional Search Trees: Lazy Balancing and Dynamic Shuffling (Extended Abstract).|Ketan Mulmuley|47|3|0|2
+21|Dynamic Maintenance of Geometric Structures Made Easy.|Otfried Schwarzkopf|59|6|0|2
+22|Reporting Points in Halfspaces.|Jirí Matousek|200|67|0|0
+23|Randomized Multidimensional Search Trees: Further Results in Dynamic Sampling (Extended Abstract).|Ketan Mulmuley|35|3|0|0
+24|Interactive Communication: Balanced Distributions, Correlated Files, and Average-Case Complexity.|Alon Orlitsky|35|12|0|1
+25|Amortized Communication Complexity (Preliminary Version).|Tomás Feder,Eyal Kushilevitz,Moni Naor|n/a
+26|Communication Complexity Towards Lower Bounds on Circuit Depth.|Jeff Edmonds,Steven Rudich,Russell Impagliazzo,Jirí Sgall|19|14|0|0
+27|Distributed Program Checking: a Paradigm for Building Self-stabilizing Distributed Protocols (Extended Abstract).|Baruch Awerbuch,George Varghese|170|49|1|13
+28|Self-Stabilization By Local Checking and Correction (Extended Abstract).|Baruch Awerbuch,Boaz Patt-Shamir,George Varghese|229|56|1|26
+29|An Asynchronous Two-Dimensional Self-Correcting Cellular Automaton.|Weiguo Wang|14|4|0|0
+30|Competitive Algorithms for Layered Graph Traversal.|Amos Fiat,Dean P. Foster,Howard J. Karloff,Yuval Rabani,Yiftach Ravid,Sundar Vishwanathan|49|3|0|8
+31|How to Learn an Unknown Environment (Extended Abstract).|Xiaotie Deng,Tiko Kameda,Christos H. Papadimitriou|n/a
+32|Walking an Unknown Street with Bounded Detour.|Rolf Klein|123|10|0|9
+33|Better Bounds for Threshold Formulas.|Jaikumar Radhakrishnan|19|1|0|6
+34|Shrinkage of de~Morgan formulae under restriction.|Mike Paterson,Uri Zwick|33|17|0|4
+35|Size-Depth Tradeoffs for Algebraic Formulae.|Nader H. Bshouty,Richard Cleve,Wayne Eberly|21|8|0|1
+36|A New Characterization of Mehlhorn's Polynomial Time Functionals (Extended Abstract).|Bruce M. Kapron,Stephen A. Cook|31|3|0|3
+37|A Theory of Using History for Equational Systems with Applications (Extended Abstract).|Rakesh M. Verma|15|2|0|3
+38|Progress Measures for Complementation of omega-Automata with Applications to Temporal Logic.|Nils Klarlund|n/a
+39|Tree Automata, Mu-Calculus and Determinacy (Extended Abstract).|E. Allen Emerson,Charanjit S. Jutla|n/a
+40|Lower Bounds for Polynomial Evaluation and Interpolation Problems.|Victor Shoup,Roman Smolensky|25|5|0|1
+41|Efficient Exponentiation in Finite Fields (Extended Abstract).|Joachim von zur Gathen|n/a
+42|Explicit Construction of Natural Bounded Concentrators.|Moshe Morgenstern|10|2|0|0
+43|Better Expansion for Ramanujan Graphs.|Nabil Kahale|29|3|0|6
+44|A General Approach to Removing Degeneracies.|Ioannis Z. Emiris,John F. Canny|107|18|0|8
+45|A Quadratic Time Algorithm for The MinMax Length Triangulation (Extended Abstract).|Herbert Edelsbrunner,Tiow Seng Tan|80|11|12|5
+46|Discrepancy and epsilon-approximations for bounded VC-dimension.|Jirí Matousek,Emo Welzl,Lorenz Wernisch|78|19|0|9
+47|On Better Heuristic for Euclidean Steiner Minimum Trees (Extended Abstract).|Ding-Zhu Du,Yanjun Zhang,Qing Feng|86|15|0|13
+48|Asymptotically Optimal PRAM Emulation on Faulty Hypercubes (Extended Abstract).|Yonatan Aumann,Michael Ben-Or|12|1|0|1
+49|Fault-tolerant Computation in the Full Information Model (Extended Abstract).|Oded Goldreich,Shafi Goldwasser,Nathan Linial|n/a
+50|Highly Fault-Tolerant Sorting Circuits.|Frank Thomson Leighton,Yuan Ma,C. Greg Plaxton|15|0|0|8
+51|Efficient Algorithms for Dynamic Allocation of Distributed Memory.|Frank Thomson Leighton,Eric J. Schwabe|3|0|1|1
+52|Polynomial Algorithms for LP over a Subring of the Algebraic Integers with Applications to LP with Circulant Matrices.|Ilan Adler,Peter A. Beling|4|1|0|2
+53|Dynamic Three-Dimensional Linear Programming.|David Eppstein|57|12|0|5
+54|Fast Approximation Algorithms for Fractional Packing and Covering Problems.|Serge A. Plotkin,David B. Shmoys,Éva Tardos|559|182|2|2
+55|The Maintenance of Common Data in a Distributed System.|Baruch Awerbuch,Leonard J. Schulman|19|4|5|2
+56|Optimal File Sharing in Distributed Networks (Preliminary Version).|Moni Naor,Ron M. Roth|n/a
+57|Low Contention Linearizable Counting.|Maurice Herlihy,Nir Shavit,Orli Waarts|42|0|0|11
+58|A Unified Geometric Approach to Graph Separators.|Gary L. Miller,Shang-Hua Teng,Stephen A. Vavasis|209|42|1|21
+59|A Linear Time Algorithm for Triconnectivity Augmentation (Extended Abstract).|Tsan-sheng Hsu,Vijaya Ramachandran|n/a
+60|Finding the Hidden Path: Time Bounds for All-Pairs Shortest Paths.|David R. Karger,Daphne Koller,Steven J. Phillips|141|46|1|0
+61|On the Exponent of the All Pairs Shortest Path Problem.|Noga Alon,Zvi Galil,Oded Margalit|101|40|0|0
+62|Search Problems in the Decision Tree Model (Preliminary Version).|László Lovász,Moni Naor,Ilan Newman,Avi Wigderson|n/a
+63|A parallel algorithmic version of the Local Lemma.|Noga Alon|161|59|0|14
+64|Lower Bounds for the Complexity of Reliable Boolean Circuits with Noisy Gates.|Anna Gál|70|21|0|0
+65|Reliable Computation with Noisy Circuits and Decision Trees-A General n log n Lower Bound.|Rüdiger Reischuk,Bernd Schmeltz|52|11|1|1
+66|A Lower Bound for the Dictionary Problem under a Hashing Model.|Rajamani Sundar|9|5|0|0
+67|Lower Bounds for Data Structure Problems on RAMs (Extended Abstract).|Amir M. Ben-Amram,Zvi Galil|16|1|0|3
+68|Ambivalent Data Structures for Dynamic 2-Edge-Connectivity and k Smallest Spanning Trees.|Greg N. Frederickson|109|5|0|2
+69|Faster Uniquely Represented Dictionaries.|Arne Andersson,Thomas Ottmann|18|4|0|1
+70|On the Complexity of Computing the Homology Type of a Triangulation.|Bruce Randall Donald,Davied Renpan Chang|42|10|0|0
+71|An Approximation Algorithm for the Number of Zeros of Arbitrary Polynomials over GF[q].|Dima Grigoriev,Marek Karpinski|21|4|0|8
+72|Computing Sums of Radicals in Polynomial Time.|Johannes Blömer|35|12|0|0
+73|Efficient Algorithms for the Riemann-Roch Problem and for Addition in the Jacobian of a Curve (Extended Abstract).|Ming-Deh A. Huang,Doug Ierardi|62|13|1|2
+74|Connected Components in O(\lg^3/2 |V|) Parallel Time for the CREW PRAM.|Donald B. Johnson,Panagiotis Takis Metaxas|48|1|0|4
+75|Towards a Theory of Nearly Constant Time Parallel Algorithms.|Joseph Gil,Yossi Matias,Uzi Vishkin|107|12|0|25
+76|Using Approximation Algorithms to Design Parallel Algorithms that May Ignore Processor Allocation (Preliminary Version).|Michael T. Goodrich|43|3|0|4
+77|A Deterministic Parallel Algorithm for Planar Graphs Isomorphism.|Hillel Gazit|7|1|0|0
+78|Approximate Representation Theory of Finite Groups.|László Babai,Katalin Friedl|15|8|0|4
+79|Finding k-cuts within Twice the Optimal.|Huzur Saran,Vijay V. Vazirani|124|53|0|3
+80|How to Pack Better than Best Fit: Tight Bounds for Average-Case On-Line Bin Packing.|Peter W. Shor|30|10|0|1
+81|Adaptive Dictionary Matching.|Amihood Amir,Martin Farach|68|13|0|9
+82|On the Computational Power of Sigmoid versus Boolean Threshold Circuits.|Wolfgang Maass,Georg Schnitger,Eduardo D. Sontag|88|9|0|13
+83|Variation Ranks of Communication Matrices and Lower Bounds for Depth Two Circuits Having Symmetric Gates with Unbounded Fan-In.|Matthias Krause,Stephan Waack|55|7|0|6
+84|On ACC.|Richard Beigel,Jun Tarui|n/a
+85|On-Line Maintenance of the Four-Connected Components of a Graph (Extended Abstract).|Arkady Kanevsky,Roberto Tamassia,Giuseppe Di Battista,Jianer Chen|68|2|0|11
+86|Computing Planar Intertwines.|Arvind Gupta,Russell Impagliazzo|9|2|0|2
+87|Applications of a Poset Representation to Edge Connectivity and Graph Rigidity.|Harold N. Gabow|113|10|0|11

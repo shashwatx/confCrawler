@@ -1,0 +1,11 @@
+10
+1|Proceedings of the 2004 ACM Workshop on Formal Methods in Security Engineering, FMSE 2004, Washington, DC, USA, October 29, 2004.|Vijayalakshmi Atluri,Michael Backes,David A. Basin,Michael Waidner|n/a
+2|Authenticity by tagging and typing.|Michele Bugliesi,Riccardo Focardi,Matteo Maffei|25|8|0|11
+3|Formally verifying information flow type systems for concurrent and thread systems.|Gilles Barthe,Leonor Prensa Nieto|25|16|0|1
+4|Timed model checking of security protocols.|Ricardo Corin,Sandro Etalle,Pieter H. Hartel,Angelika Mader|42|18|0|2
+5|Stepwise development of security protocols: a speech act-oriented approach.|Phan Minh Dung,Phan Minh Thang|4|0|0|0
+6|A logic-based framework for attribute based access control.|Lingyu Wang,Duminda Wijesekera,Sushil Jajodia|234|135|0|8
+7|Synthesising verified access control systems in XACML.|Nan Zhang,Mark Ryan,Dimitar P. Guelev|69|26|0|5
+8|Automatic analysis of firewall and network intrusion detection system configurations.|Tomás E. Uribe,Steven Cheung|66|27|0|0
+9|MAC and UML for secure software design.|Thuong Doan,Steven A. Demurjian,T. C. Ting,Andreas Ketterl|58|19|0|7
+10|Lessons learned using alloy to formally specify MLS-PCA trusted security architecture.|Brant Hashii|11|4|0|0

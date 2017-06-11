@@ -1,0 +1,106 @@
+105
+1|Exploitation of Machine Learning Techniques in Modelling Phrase Movements for Machine Translation.|Yizhao Ni,Craig Saunders,Sándor Szedmák,Mahesan Niranjan|8|7|0|4
+2|Improved Moves for Truncated Convex Models.|M. Pawan Kumar,Olga Veksler,Philip H. S. Torr|45|40|0|5
+3|CARP: Software for Fishing Out Good Clustering Algorithms.|Volodymyr Melnykov,Ranjan Maitra|5|5|0|4
+4|Multitask Sparsity via Maximum Entropy Discrimination.|Tony Jebara|39|39|1|2
+5|Bayesian Generalized Kernel Mixed Models.|Zhihua Zhang,Guang Dai,Michael I. Jordan|17|16|0|0
+6|Training SVMs Without Offset.|Ingo Steinwart,Don R. Hush,Clint Scovel|45|43|0|4
+7|Logistic Stick-Breaking Process.|Lu Ren,Lan Du,Lawrence Carin,David B. Dunson|40|39|0|5
+8|Online Learning in Case of Unbounded Losses Using Follow the Perturbed Leader Algorithm.|Vladimir V. V'yugin|1|1|0|0
+9|A Bayesian Approximation Method for Online Ranking.|Ruby C. Weng,Chih-Jen Lin|31|27|0|2
+10|Cumulative Distribution Networks and the Derivative-sum-product Algorithm: Models and Inference for Cumulative Distribution Functions on Graphs.|Jim C. Huang,Brendan J. Frey|9|9|0|0
+11|Models of Cooperative Teaching and Learning.|Sandra Zilles,Steffen Lange,Robert Holte,Martin Zinkevich|27|27|0|7
+12|Operator Norm Convergence of Spectral Clustering on Level Sets.|Bruno Pelletier,Pierre Pudlo|8|8|0|4
+13|Approximate Marginals in Latent Gaussian Models.|Botond Cseke,Tom Heskes|40|40|1|5
+14|Posterior Sparsity in Unsupervised Dependency Parsing.|Jennifer Gillenwater,Kuzman Ganchev,João Graça,Fernando Pereira,Ben Taskar|24|24|0|3
+15|Learning Multi-modal Similarity.|Brian McFee,Gert R. G. Lanckriet|74|67|1|3
+16|Minimum Description Length Penalization for Group and Multi-Task Sparse Learning.|Paramveer S. Dhillon,Dean P. Foster,Lyle H. Ungar|7|7|0|0
+17|Variable Sparsity Kernel Learning.|Jonathan Aflalo,Aharon Ben-Tal,Chiranjib Bhattacharyya,Jagarlapudi Saketha Nath,Sankaran Raman|41|40|0|1
+18|Regression on Fixed-Rank Positive Semidefinite Matrices: A Riemannian Approach.|Gilles Meyer,Silvere Bonnabel,Rodolphe Sepulchre|32|31|0|11
+19|Parameter Screening and Optimisation for ILP using Designed Experiments.|Ashwin Srinivasan,Ganesh Ramakrishnan|7|5|0|3
+20|Efficient Structure Learning of Bayesian Networks using Constraints.|Cassio Polpo de Campos,Qiang Ji|113|104|0|28
+21|Inverse Reinforcement Learning in Partially Observable Environments.|Jaedeug Choi,Kee-Eung Kim|46|42|0|1
+22|Information, Divergence and Risk for Binary Experiments.|Mark D. Reid,Robert C. Williamson|93|85|0|20
+23|Learning Transformation Models for Ranking and Survival Analysis.|Vanya Van Belle,Kristiaan Pelckmans,Johan A. K. Suykens,Sabine Van Huffel|15|14|0|9
+24|Sparse Linear Identifiable Multivariate Modeling.|Ricardo Henao,Ole Winther|16|15|0|5
+25|Forest Density Estimation.|Han Liu,Min Xu,Haijie Gu,Anupam Gupta,John D. Lafferty,Larry A. Wasserman|42|40|0|9
+26|lp-Norm Multiple Kernel Learning.|Marius Kloft,Ulf Brefeld,Sören Sonnenburg,Alexander Zien|157|148|1|18
+27|Unsupervised Similarity-Based Risk Stratification for Cardiovascular Events Using Long-Term Time-Series Data.|Zeeshan Syed,John V. Guttag|9|9|0|0
+28|Two Distributed-State Models For Generating High-Dimensional Time Series.|Graham W. Taylor,Geoffrey E. Hinton,Sam T. Roweis|49|46|0|0
+29|Differentially Private Empirical Risk Minimization.|Kamalika Chaudhuri,Claire Monteleoni,Anand D. Sarwate|170|161|0|13
+30|Anechoic Blind Source Separation Using Wigner Marginals.|Lars Omlor,Martin A. Giese|26|25|0|6
+31|Laplacian Support Vector Machines Trained in the Primal.|Stefano Melacci,Mikhail Belkin|148|135|0|6
+32|The Indian Buffet Process: An Introduction and Review.|Thomas L. Griffiths,Zoubin Ghahramani|155|151|0|14
+33|DirectLiNGAM: A Direct Method for Learning a Linear Non-Gaussian Structural Equation Model.|Shohei Shimizu,Takanori Inazumi,Yasuhiro Sogawa,Aapo Hyvärinen,Yoshinobu Kawahara,Takashi Washio,Patrik O. Hoyer,Kenneth Bollen|68|65|0|13
+34|Locally Defined Principal Curves and Surfaces.|Umut Ozertem,Deniz Erdogmus|91|85|0|15
+35|Better Algorithms for Benign Bandits.|Elad Hazan,Satyen Kale|37|35|0|6
+36|A Family of Simple Non-Parametric Kernel Learning Algorithms.|Jinfeng Zhuang,Ivor W. Tsang,Steven C. H. Hoi|34|32|0|9
+37|Faster Algorithms for Max-Product Message-Passing.|Julian John McAuley,Tibério S. Caetano|23|23|0|0
+38|Clustering Algorithms for Chains.|Antti Ukkonen|7|5|0|0
+39|Introduction to the Special Topic on Grammar Induction, Representation of Language and Language Learning.|Dorota Glowacka,John Shawe-Taylor,Alexander Clark,Colin de la Higuera,Mark Johnson|2|1|0|0
+40|Learning a Robust Relevance Model for Search Using Kernel Methods.|Wei Wu,Jun Xu,Hang Li,Satoshi Oyama|8|8|1|4
+41|Computationally Efficient Convolved Multiple Output Gaussian Processes.|Mauricio A. Álvarez,Neil D. Lawrence|54|52|0|3
+42|Learning from Partial Labels.|Timothée Cour,Benjamin Sapp,Ben Taskar|79|74|0|0
+43|Super-Linear Convergence of Dual Augmented Lagrangian Algorithm for Sparsity Regularized Estimation.|Ryota Tomioka,Taiji Suzuki,Masashi Sugiyama|39|38|0|12
+44|Double Updating Online Learning.|Peilin Zhao,Steven C. H. Hoi,Rong Jin|44|42|0|28
+45|Learning High-Dimensional Markov Forest Distributions: Analysis of Error Rates.|Vincent Y. F. Tan,Animashree Anandkumar,Alan S. Willsky|24|24|0|10
+46|X-Armed Bandits.|Sébastien Bubeck,Rémi Munos,Gilles Stoltz,Csaba Szepesvári|124|117|0|14
+47|Domain Decomposition Approach for Fast Gaussian Process Regression of Large Spatial Data Sets.|Chiwoo Park,Jianhua Z. Huang,Yu Ding|19|19|0|2
+48|A Bayesian Approach for Learning and Planning in Partially Observable Markov Decision Processes.|Stéphane Ross,Joelle Pineau,Brahim Chaib-draa,Pierre Kreitmann|58|54|0|5
+49|Learning Latent Tree Graphical Models.|Myung Jin Choi,Vincent Y. F. Tan,Animashree Anandkumar,Alan S. Willsky|104|98|1|21
+50|Hyper-Sparse Optimal Aggregation.|Stéphane Gaïffas,Guillaume Lecué|10|10|0|0
+51|A Refined Margin Analysis for Boosting Algorithms via Equilibrium Margin.|Liwei Wang,Masashi Sugiyama,Zhaoxiang Jing,Cheng Yang,Zhi-Hua Zhou,Jufu Feng|21|20|0|2
+52|Stochastic Methods for l1-regularized Loss Minimization.|Shai Shalev-Shwartz,Ambuj Tewari|194|175|0|10
+53|Internal Regret with Partial Monitoring: Calibration-Based Optimal Algorithms.|Vianney Perchet|21|21|0|11
+54|Dirichlet Process Mixtures of Generalized Linear Models.|Lauren Hannah,David M. Blei,Warren B. Powell|66|61|0|3
+55|Kernel Regression in the Presence of Correlated Errors.|Kris De Brabanter,Jos De Brabanter,Johan A. K. Suykens,Bart De Moor|13|13|0|5
+56|Generalized TD Learning.|Tsuyoshi Ueno,Shin-ichi Maeda,Motoaki Kawanabe,Shin Ishii|5|3|0|3
+57|The arules R-Package Ecosystem: Analyzing Interesting Patterns from Large Transaction Data Sets.|Michael Hahsler,Sudheer Chelluboina,Kurt Hornik,Christian Buchta|10|10|0|0
+58|A Cure for Variance Inflation in High Dimensional Kernel Principal Component Analysis.|Trine Julie Abrahamsen,Lars Kai Hansen|16|16|0|5
+59|Exploiting Best-Match Equations for Efficient Reinforcement Learning.|Harm van Seijen,Shimon Whiteson,Hado van Hasselt,Marco Wiering|17|17|0|3
+60|Information Rates of Nonparametric Gaussian Process Methods.|Aad van der Vaart,Harry van Zanten|40|36|0|3
+61|Adaptive Subgradient Methods for Online Learning and Stochastic Optimization.|John C. Duchi,Elad Hazan,Yoram Singer|769|701|1|5
+62|On the Relation between Realizable and Nonrealizable Cases of the Sequence Prediction Problem.|Daniil Ryabko|8|7|0|2
+63|Discriminative Learning of Bayesian Networks via Factorized Conditional Log-Likelihood.|Alexandra M. Carvalho,Teemu Roos,Arlindo L. Oliveira,Petri Myllymäki|39|37|0|3
+64|Multiple Kernel Learning Algorithms.|Mehmet Gönen,Ethem Alpaydin|567|529|0|0
+65|Smoothness, Disagreement Coefficient, and the Label Complexity of Agnostic Active Learning.|Liwei Wang|22|22|0|3
+66|MSVMpack: A Multi-Class Support Vector Machine Package.|Fabien Lauer,Yann Guermeur|41|35|0|8
+67|Proximal Methods for Hierarchical Sparse Coding.|Rodolphe Jenatton,Julien Mairal,Guillaume Obozinski,Francis R. Bach|202|195|0|23
+68|Producing Power-Law Distributions and Damping Word Frequencies with Two-Stage Language Models.|Sharon Goldwater,Thomas L. Griffiths,Mark Johnson|40|40|0|3
+69|Waffles: A Machine Learning Toolkit.|Michael Gashler|41|20|0|1
+70|Universality, Characteristic Kernels and RKHS Embedding of Measures.|Bharath K. Sriperumbudur,Kenji Fukumizu,Gert R. G. Lanckriet|49|42|0|9
+71|MULAN: A Java Library for Multi-Label Learning.|Grigorios Tsoumakas,Eleftherios Spyromitros Xioufis,Jozef Vilcek,Ioannis P. Vlahavas|261|253|0|13
+72|Union Support Recovery in Multi-task Learning.|Mladen Kolar,John D. Lafferty,Larry A. Wasserman|19|19|0|2
+73|Parallel Algorithm for Learning Optimal Bayesian Network Structure.|Yoshinori Tamada,Seiya Imoto,Satoru Miyano|22|21|1|0
+74|Distance Dependent Chinese Restaurant Processes.|David M. Blei,Peter I. Frazier|134|123|0|6
+75|LPmade: Link Prediction Made Easy.|Ryan Lichtenwalter,Nitesh V. Chawla|24|23|0|4
+76|Natural Language Processing (Almost) from Scratch.|Ronan Collobert,Jason Weston,Léon Bottou,Michael Karlen,Koray Kavukcuoglu,Pavel P. Kuksa|929|873|3|22
+77|Weisfeiler-Lehman Graph Kernels.|Nino Shervashidze,Pascal Schweitzer,Erik Jan van Leeuwen,Kurt Mehlhorn,Karsten M. Borgwardt|139|130|0|0
+78|Kernel Analysis of Deep Networks.|Grégoire Montavon,Mikio L. Braun,Klaus-Robert Müller|27|25|0|11
+79|Theoretical Analysis of Bayesian Matrix Factorization.|Shinichi Nakajima,Masashi Sugiyama|24|24|0|8
+80|Bayesian Co-Training.|Shipeng Yu,Balaji Krishnapuram,Rómer Rosales,R. Bharat Rao|94|79|1|1
+81|Convex and Network Flow Optimization for Structured Sparsity.|Julien Mairal,Rodolphe Jenatton,Guillaume Obozinski,Francis R. Bach|58|58|0|9
+82|Large Margin Hierarchical Classification with Mutually Exclusive Class Membership.|Huixin Wang,Xiaotong Shen,Wei Pan|6|6|0|0
+83|Non-Parametric Estimation of Topic Hierarchies from Texts with Hierarchical Dirichlet Processes.|Elias Zavitsanos,Georgios Paliouras,George A. Vouros|20|19|0|0
+84|Structured Variable Selection with Sparsity-Inducing Norms.|Rodolphe Jenatton,Jean-Yves Audibert,Francis R. Bach|330|308|0|29
+85|Scikit-learn: Machine Learning in Python.|Fabian Pedregosa,Gaël Varoquaux,Alexandre Gramfort,Vincent Michel,Bertrand Thirion,Olivier Grisel,Mathieu Blondel,Peter Prettenhofer,Ron Weiss,Vincent Dubourg,Jake VanderPlas,Alexandre Passos,David Cournapeau,Matthieu Brucher,Matthieu Perrot,Edouard Duchesnay|2615|2420|2|40
+86|Neyman-Pearson Classification, Convexity and Stochastic Constraints.|Philippe Rigollet,Xin Tong|11|11|0|4
+87|Efficient Learning with Partially Observed Attributes.|Nicolò Cesa-Bianchi,Shai Shalev-Shwartz,Ohad Shamir|40|37|0|3
+88|Convergence Rates of Efficient Global Optimization Algorithms.|Adam D. Bull|69|64|0|0
+89|On Equivalence Relationships Between Classification and Ranking Algorithms.|Seyda Ertekin,Cynthia Rudin|16|15|0|3
+90|Hierarchical Knowledge Gradient for Sequential Sampling.|Martijn R. K. Mes,Warren B. Powell,Peter I. Frazier|21|21|0|6
+91|High-dimensional Covariance Estimation Based On Gaussian Graphical Models.|Shuheng Zhou,Philipp Rütimann,Min Xu,Peter Bühlmann|30|28|0|2
+92|Robust Approximate Bilinear Programming for Value Function Approximation.|Marek Petrik,Shlomo Zilberstein|9|8|0|1
+93|The Stationary Subspace Analysis Toolbox.|Jan Saputra Müller,Paul von Bünau,Frank C. Meinecke,Franz J. Király,Klaus-Robert Müller|8|8|0|3
+94|In All Likelihood, Deep Belief Is Not Enough.|Lucas Theis,Sebastian Gerwinn,Fabian H. Sinz,Matthias Bethge|20|19|0|5
+95|Efficient and Effective Visual Codebook Generation Using Additive Kernels.|Jianxin Wu,Wei-Chian Tan,James M. Rehg|26|22|0|5
+96|Unsupervised Supervised Learning II: Margin-Based Classification Without Labels.|Krishnakumar Balasubramanian,Pinar Donmez,Guy Lebanon|7|7|0|1
+97|Adaptive Exact Inference in Graphical Models.|Özgür Sümer,Umut A. Acar,Alexander T. Ihler,Ramgopal R. Mettu|7|7|0|3
+98|Group Lasso Estimation of High-dimensional Covariance Matrices.|Jérémie Bigot,Rolando J. Biscay,Jean-Michel Loubes,Lilian Muñiz-Alvarez|8|8|0|2
+99|Robust Gaussian Process Regression with a Student-t Likelihood.|Pasi Jylänki,Jarno Vanhatalo,Aki Vehtari|42|40|0|9
+100|The Sample Complexity of Dictionary Learning.|Daniel Vainsencher,Shie Mannor,Alfred M. Bruckstein|45|43|0|0
+101|An Asymptotic Behaviour of the Marginal Likelihood for General Markov Models.|Piotr Zwiernik|17|16|0|3
+102|Semi-Supervised Learning with Measure Propagation.|Amarnag Subramanya,Jeff A. Bilmes|51|45|0|4
+103|Learning with Structured Sparsity.|Junzhou Huang,Tong Zhang,Dimitris N. Metaxas|284|267|0|21
+104|A Simpler Approach to Matrix Completion.|Benjamin Recht|375|361|0|8
+105|Convergence of Distributed Asynchronous Learning Vector Quantization Algorithms.|Benoît Patra|12|12|0|1

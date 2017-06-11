@@ -1,0 +1,77 @@
+76
+1|Randomly Supported Independence and Resistance.|Per Austrin,Johan Håstad|31|30|0|5
+2|Multiwriter Consistency Conditions for Shared Memory Registers.|Cheng Shao,Jennifer L. Welch,Evelyn Pierce,Hyunyoung Lee|9|9|0|3
+3|The Complexity of Early Deciding Set Agreement.|Eli Gafni,Rachid Guerraoui,Bastian Pochon|8|8|0|2
+4|How Hard Is It to Approximate the Best Nash Equilibrium?|Elad Hazan,Robert Krauthgamer|55|53|0|0
+5|Uncoordinated Two-Sided Matching Markets.|Heiner Ackermann,Paul W. Goldberg,Vahab S. Mirrokni,Heiko Röglin,Berthold Vöcking|54|42|0|5
+6|A Near-Optimal Separation of Regular and General Resolution.|Alasdair Urquhart|7|7|0|1
+7|On Achieving the "Best of Both Worlds" in Secure Multiparty Computation.|Yuval Ishai,Jonathan Katz,Eyal Kushilevitz,Yehuda Lindell,Erez Petrank|43|35|0|4
+8|Search via Quantum Walk.|Frédéric Magniez,Ashwin Nayak,Jérémie Roland,Miklos Santha|170|116|0|12
+9|The Chow Parameters Problem.|Ryan O'Donnell,Rocco A. Servedio|46|41|0|16
+10|An Almost Optimal Rank Bound for Depth-3 Identities.|Nitin Saxena,C. Seshadhri|39|30|0|10
+11|Black-Box Constructions of Protocols for Secure Computation.|Iftach Haitner,Yuval Ishai,Eyal Kushilevitz,Yehuda Lindell,Erez Petrank|19|19|0|3
+12|A Combinatorial Construction of Almost-Ramanujan Graphs Using the Zig-Zag Product.|Avraham Ben-Aroya,Amnon Ta-Shma|13|10|0|0
+13|An Analysis of Random-Walk Cuckoo Hashing.|Alan M. Frieze,Páll Melsted,Michael Mitzenmacher|21|19|1|3
+14|Improved Approximation Algorithms for Prize-Collecting Steiner Tree and TSP.|Aaron Archer,MohammadHossein Bateni,MohammadTaghi Hajiaghayi,Howard J. Karloff|64|60|0|7
+15|Dynamic Connectivity: Connecting to Networks and Geometry.|Timothy M. Chan,Mihai Patrascu,Liam Roditty|20|18|0|1
+16|Self-Improving Algorithms.|Nir Ailon,Bernard Chazelle,Kenneth L. Clarkson,Ding Liu,Wolfgang Mulzer,C. Seshadhri|32|23|0|3
+17|Algorithmic Aspects of Property Testing in the Dense Graphs Model.|Oded Goldreich,Dana Ron|14|13|0|7
+18|Deciding Regularity of the Set of Instances of a Set of Terms with Regular Constraints is EXPTIME-Complete.|Omer Giménez,Guillem Godoy,Sebastian Maneth|4|4|0|3
+19|Space-Efficient Preprocessing Schemes for Range Minimum Queries on Static Arrays.|Johannes Fischer,Volker Heun|96|88|0|5
+20|Fail-Aware Untrusted Storage.|Christian Cachin,Idit Keidar,Alexander Shraer|40|32|0|14
+21|On Proximity-Oblivious Testing.|Oded Goldreich,Dana Ron|42|36|0|20
+22|Inapproximability Results for Maximum Edge Biclique, Minimum Linear Arrangement, and Sparsest Cut.|Christoph Ambühl,Monaldo Mastrolilli,Ola Svensson|33|33|0|0
+23|Sorting and Selection in Posets.|Constantinos Daskalakis,Richard M. Karp,Elchanan Mossel,Samantha Riesenfeld,Elad Verbin|49|39|0|2
+24|Optimal Envy-Free Pricing with Metric Substitutability.|Ning Chen,Arpita Ghosh,Sergei Vassilvitskii|27|23|0|3
+25|A Topological View of Unsupervised Learning from Noisy Data.|Partha Niyogi,Stephen Smale,Shmuel Weinberger|77|73|0|6
+26|Short Seed Extractors against Quantum Storage.|Amnon Ta-Shma|22|22|0|0
+27|Terminal Backup, 3D Matching, and Covering Cubic Graphs.|Elliot Anshelevich,Adriana Karagiozova|16|8|0|4
+28|An Expansion Tester for Bounded Degree Graphs.|Satyen Kale,C. Seshadhri|12|9|0|1
+29|Boltzmann Samplers, Pólya Theory, and Cycle Pointing.|Manuel Bodirsky,Éric Fusy,Mihyun Kang,Stefan Vigerske|14|14|0|1
+30|Special Section on Foundations of Computer Science.|Scott Aaronson,Jeff Erickson,Mohammad Mahdian,R. Ravi,Emanuele Viola|2|1|0|0
+31|A Counterexample to Strong Parallel Repetition.|Ran Raz|58|44|0|3
+32|Kakeya Sets, New Mergers, and Old Extractors.|Zeev Dvir,Avi Wigderson|49|42|0|5
+33|What Can We Learn Privately?|Shiva Prasad Kasiviswanathan,Homin K. Lee,Kobbi Nissim,Sofya Raskhodnikova,Adam Smith|186|161|0|6
+34|Unifying the Landscape of Cell-Probe Lower Bounds.|Mihai Patrascu|53|50|0|0
+35|Entangled Games Are Hard to Approximate.|Julia Kempe,Hirotada Kobayashi,Keiji Matsumoto,Ben Toner,Thomas Vidick|59|40|0|6
+36|Beating the Random Ordering Is Hard: Every Ordering CSP Is Approximation Resistant.|Venkatesan Guruswami,Johan Håstad,Rajsekar Manokaran,Prasad Raghavendra,Moses Charikar|36|32|0|6
+37|Truthful Approximation Schemes for Single-Parameter Agents.|Peerapong Dhangwatnotai,Shahar Dobzinski,Shaddin Dughmi,Tim Roughgarden|66|48|0|7
+38|A Quantitative Version of the Gibbard-Satterthwaite Theorem for Three Alternatives.|Ehud Friedgut,Gil Kalai,Nathan Keller,Noam Nisan|16|16|0|1
+39|Degree Bounded Network Design with Metric Costs.|Yuk Hei Chan,Wai Shing Fung,Lap Chi Lau,Chun Kong Yung|20|17|0|4
+40|Spectral Sparsification of Graphs.|Daniel A. Spielman,Shang-Hua Teng|102|98|0|12
+41|Optimal Homologous Cycles, Total Unimodularity, and Linear Programming.|Tamal K. Dey,Anil N. Hirani,Bala Krishnamoorthy|51|48|0|13
+42|Semialgebraic Range Reporting and Emptiness Searching with Applications.|Micha Sharir,Hayim Shaul|10|9|0|8
+43|Testing Fourier Dimensionality and Sparsity.|Parikshit Gopalan,Ryan O'Donnell,Rocco A. Servedio,Amir Shpilka,Karl Wimmer|56|53|0|7
+44|Computational Complexity of Holant Problems.|Jin-yi Cai,Pinyan Lu,Mingji Xia|26|22|0|12
+45|Maximizing Non-monotone Submodular Functions.|Uriel Feige,Vahab S. Mirrokni,Jan Vondrák|280|231|0|12
+46|Matching Vector Codes.|Zeev Dvir,Parikshit Gopalan,Sergey Yekhanin|43|43|0|15
+47|An Overview of Mathematical Issues Arising in the Geometric Complexity Theory Approach to VP≠VNP.|Peter Bürgisser,J. M. Landsberg,Laurent Manivel,Jerzy Weyman|60|58|0|16
+48|Exact Price of Anarchy for Polynomial Congestion Games.|Sebastian Aland,Dominic Dumrauf,Martin Gairing,Burkhard Monien,Florian Schoppmann|83|48|0|14
+49|The Recognition of Tolerance and Bounded Tolerance Graphs.|George B. Mertzios,Ignasi Sau,Shmuel Zaks|11|10|0|10
+50|Hardness of Precedence Constrained Scheduling on Identical Machines.|Ola Svensson|6|6|0|0
+51|Fitting Tree Metrics: Hierarchical Clustering and Phylogeny.|Nir Ailon,Moses Charikar|44|21|0|7
+52|Interval Graphs: Canonical Representations in Logspace.|Johannes Köbler,Sebastian Kuhnert,Bastian Laubner,Oleg Verbitsky|24|24|0|13
+53|Terrain Guarding is NP-Hard.|James King,Erik Krohn|24|24|0|3
+54|Near Optimal Bounds for Steiner Trees in the Hypercube.|Tao Jiang,Zevi Miller,Dan Pritikin|4|4|0|0
+55|Sampling and Cost-Sharing: Approximation Algorithms for Stochastic Optimization Problems.|Anupam Gupta,Martin Pál,R. Ravi,Amitabh Sinha|12|12|0|2
+56|Efficient Stream Sampling for Variance-Optimal Estimation of Subset Sums.|Edith Cohen,Nick G. Duffield,Haim Kaplan,Carsten Lund,Mikkel Thorup|8|8|0|6
+57|List Decoding Tensor Products and Interleaved Codes.|Parikshit Gopalan,Venkatesan Guruswami,Prasad Raghavendra|23|22|0|3
+58|Rank-Pairing Heaps.|Bernhard Haeupler,Siddhartha Sen,Robert Endre Tarjan|22|21|0|6
+59|On the Power of the Randomized Iterate.|Iftach Haitner,Danny Harnik,Omer Reingold|48|30|1|11
+60|On the Composition of Public-Coin Zero-Knowledge Protocols.|Rafael Pass,Wei-Lung Dustin Tseng,Douglas Wikström|17|16|0|8
+61|Buying Cheap Is Expensive: Approximability of Combinatorial Pricing Problems.|Patrick Briest,Piotr Krysta|10|10|0|0
+62|Approximation Techniques for Utilitarian Mechanism Design.|Patrick Briest,Piotr Krysta,Berthold Vöcking|154|90|0|15
+63|Learning Kernel-Based Halfspaces with the 0-1 Loss.|Shai Shalev-Shwartz,Ohad Shamir,Karthik Sridharan|14|14|0|4
+64|Optimal Cover of Points by Disks in a Simple Polygon.|Haim Kaplan,Matthew J. Katz,Gila Morgenstern,Micha Sharir|6|6|0|2
+65|Bisimulation Metrics for Continuous Markov Decision Processes.|Norm Ferns,Prakash Panangaden,Doina Precup|13|13|0|1
+66|Submodular Approximation: Sampling-based Algorithms and Lower Bounds.|Zoya Svitkina,Lisa Fleischer|93|81|0|1
+67|Special Section on the Fortieth Annual ACM Symposium On Theory Of Computing (STOC 2008).|Shuchi Chawla,Cynthia Dwork,Venkat Guruswami|0|0|0|0
+68|Maximizing a Monotone Submodular Function Subject to a Matroid Constraint.|Gruia Calinescu,Chandra Chekuri,Martin Pál,Jan Vondrák|186|167|0|13
+69|Fast Polynomial Factorization and Modular Composition.|Kiran S. Kedlaya,Christopher Umans|47|42|0|0
+70|Lossy Trapdoor Functions and Their Applications.|Chris Peikert,Brent Waters|359|297|5|23
+71|Sketching in Adversarial Environments.|Ilya Mironov,Moni Naor,Gil Segev|7|5|0|1
+72|Parallel Repetition in Projection Games and a Concentration Bound.|Anup Rao|83|63|0|3
+73|Interdomain Routing and Games.|Hagay Levin,Michael Schapira,Aviv Zohar|87|54|0|26
+74|Graph Sparsification by Effective Resistances.|Daniel A. Spielman,Nikhil Srivastava|306|278|0|15
+75|Testing Symmetric Properties of Distributions.|Paul Valiant|89|80|0|12
+76|The Pattern Matrix Method.|Alexander A. Sherstov|45|42|0|11

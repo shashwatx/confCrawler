@@ -1,0 +1,84 @@
+83
+1|49th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2008, October 25-28, 2008, Philadelphia, PA, USA.|n/a
+2|The Polynomial Method in Quantum and Classical Computing.|Scott Aaronson|15|12|0|0
+3|Theory of Sponsored Search Auctions.|Gagan Aggarwal,S. Muthukrishnan|4|3|0|0
+4|Average-case Complexity.|Luca Trevisan|96|63|0|4
+5|Truthful Approximation Schemes for Single-Parameter Agents.|Peerapong Dhangwatnotai,Shahar Dobzinski,Shaddin Dughmi,Tim Roughgarden|66|48|0|7
+6|Discretized Multinomial Distributions and Nash Equilibria in Anonymous Games.|Constantinos Daskalakis,Christos H. Papadimitriou|38|29|0|8
+7|Approximation Algorithms for Single-minded Envy-free Profit-maximization Problems with Limited Supply.|Maurice Cheung,Chaitanya Swamy|32|24|0|1
+8|Market Equilibria in Polynomial Time for Fixed Number of Goods or Agents.|Nikhil R. Devanur,Ravi Kannan|35|30|0|3
+9|The Sign-Rank of AC^O.|Alexander A. Razborov,Alexander A. Sherstov|28|13|0|10
+10|Arithmetic Circuits: A Chasm at Depth Four.|Manindra Agrawal,V. Vinay|118|105|0|5
+11|Dense Subsets of Pseudorandom Sets.|Omer Reingold,Luca Trevisan,Madhur Tulsiani,Salil P. Vadhan|89|77|0|8
+12|Almost-Natural Proofs.|Timothy Y. Chow|11|8|0|0
+13|Dynamic Connectivity: Connecting to Networks and Geometry.|Timothy M. Chan,Mihai Patrascu,Liam Roditty|20|18|0|1
+14|Algorithms for Single-Source Vertex Connectivity.|Julia Chuzhoy,Sanjeev Khanna|44|30|0|3
+15|A Polynomial-Time Approximation Scheme for Euclidean Steiner Forest.|Glencora Borradaile,Philip N. Klein,Claire Mathieu|16|12|0|4
+16|Degree Bounded Network Design with Metric Costs.|Yuk Hei Chan,Wai Shing Fung,Lap Chi Lau,Chun Kong Yung|20|17|0|4
+17|Matrix Sparsification for Rank and Determinant Computations via Nested Dissection.|Raphael Yuster|7|7|0|2
+18|Fast Modular Composition in any Characteristic.|Kiran S. Kedlaya,Christopher Umans|44|36|0|1
+19|Gaussian Bounds for Noise Correlation of Functions and Tight Analysis of Long Codes.|Elchanan Mossel|49|37|0|3
+20|Worst Case to Average Case Reductions for Polynomials.|Tali Kaufman,Shachar Lovett|46|38|0|18
+21|On the Union of Cylinders in Three Dimensions.|Esther Ezra|12|8|0|5
+22|Spherical Cubes and Rounding in High Dimensions.|Guy Kindler,Ryan O'Donnell,Anup Rao,Avi Wigderson|8|3|0|1
+23|Near-Optimal Sparse Recovery in the L1 Norm.|Piotr Indyk,Milan Ruzic|98|85|0|5
+24|On Basing Lower-Bounds for Learning on Worst-Case Assumptions.|Benny Applebaum,Boaz Barak,David Xiao|17|14|0|5
+25|The Bayesian Learner is Optimal for Noisy Binary Search (and Pretty Good for Quantum as Well).|Michael Ben-Or,Avinatan Hassidim|28|26|0|2
+26|Hardness of Minimizing and Learning DNF Expressions.|Subhash Khot,Rishi Saket|18|15|0|5
+27|Elections Can be Manipulated Often.|Ehud Friedgut,Gil Kalai,Noam Nisan|99|76|0|2
+28|On the Hardness of Being Truthful.|Christos H. Papadimitriou,Michael Schapira,Yaron Singer|101|80|0|13
+29|Multi-unit Auctions with Budget Limits.|Shahar Dobzinski,Ron Lavi,Noam Nisan|119|102|0|6
+30|Multilinear Formulas, Maximal-Partition Discrepancy and Mixed-Sources Extractors.|Ran Raz,Amir Yehudayoff|29|20|0|8
+31|On the Impossibility of Basing Identity Based Encryption on Trapdoor Permutations.|Dan Boneh,Periklis A. Papakonstantinou,Charles Rackoff,Yevgeniy Vahlis,Brent Waters|26|23|0|3
+32|Leakage-Resilient Cryptography.|Stefan Dziembowski,Krzysztof Pietrzak|360|329|0|35
+33|Succincter.|Mihai Patrascu|n/a
+34|Two Query PCP with Sub-Constant Error.|Dana Moshkovitz,Ran Raz|n/a
+35|Constant-Time Approximation Algorithms via Local Improvements.|Huy N. Nguyen,Krzysztof Onak|84|75|0|6
+36|Some Results on Greedy Embeddings in Metric Spaces.|Ankur Moitra,Tom Leighton|92|70|0|0
+37|Set Covering with our Eyes Closed.|Fabrizio Grandoni,Anupam Gupta,Stefano Leonardi,Pauli Miettinen,Piotr Sankowski,Mohit Singh|22|17|1|3
+38|Minimizing Movement in Mobile Facility Location Problems.|Zachary Friggstad,Mohammad R. Salavatipour|34|32|0|1
+39|A Counterexample to Strong Parallel Repetition.|Ran Raz|58|44|0|3
+40|Rounding Parallel Repetitions of Unique Games.|Boaz Barak,Moritz Hardt,Ishay Haviv,Anup Rao,Oded Regev,David Steurer|37|30|0|3
+41|The Unbounded-Error Communication Complexity of Symmetric Functions.|Alexander A. Sherstov|30|15|0|12
+42|Lower Bounds for Noisy Wireless Networks using Sampling Algorithms.|Chinmoy Dutta,Jaikumar Radhakrishnan|6|5|0|3
+43|Inapproximability for Metric Embeddings into R^d.|Jirí Matousek,Anastasios Sidiropoulos|13|11|0|6
+44|A Geometric Approach to Lower Bounds for Approximate Near-Neighbor Search and Partial Match.|Rina Panigrahy,Kunal Talwar,Udi Wieder|22|18|0|2
+45|Hardness of Nearest Neighbor under L-infinity.|Alexandr Andoni,Dorian Croitoru,Mihai Patrascu|14|13|0|0
+46|(Data) STRUCTURES.|Mihai Patrascu|n/a
+47|Entangled Games are Hard to Approximate.|Julia Kempe,Hirotada Kobayashi,Keiji Matsumoto,Ben Toner,Thomas Vidick|59|40|0|6
+48|Unique Games with Entangled Provers are Easy.|Julia Kempe,Oded Regev,Ben Toner|72|57|0|8
+49|Quantum Multi Prover Interactive Proofs with Communicating Provers.|Michael Ben-Or,Avinatan Hassidim,Haran Pilpel|8|6|0|0
+50|A Hypercontractive Inequality for Matrix-Valued Functions with Applications to Quantum Computing and LDCs.|Avraham Ben-Aroya,Oded Regev,Ronald de Wolf|52|40|0|4
+51|Sketching and Streaming Entropy via Approximation Theory.|Nicholas J. A. Harvey,Jelani Nelson,Krzysztof Onak|64|52|1|5
+52|On the Value of Multiple Read/Write Streams for Approximating Frequency Moments.|Paul Beame,Dang-Trinh Huynh-Ngoc|22|16|0|3
+53|Clock Synchronization with Bounded Global and Local Skew.|Christoph Lenzen,Thomas Locher,Roger Wattenhofer|33|23|0|8
+54|Shallow-Low-Light Trees, and Tight Lower Bounds for Euclidean Spanners.|Yefim Dinitz,Michael Elkin,Shay Solomon|16|16|0|11
+55|What Can We Learn Privately?|Shiva Prasad Kasiviswanathan,Homin K. Lee,Kobbi Nissim,Sofya Raskhodnikova,Adam Smith|186|161|0|6
+56|Learning Geometric Concepts via Gaussian Surface Area.|Adam R. Klivans,Ryan O'Donnell,Rocco A. Servedio|47|41|0|2
+57|Isotropic PCA and Affine-Invariant Clustering.|S. Charles Brubaker,Santosh Vempala|76|63|0|4
+58|Approximate Kernel Clustering.|Subhash Khot,Assaf Naor|25|22|0|5
+59|Beating the Random Ordering is Hard: Inapproximability of Maximum Acyclic Subgraph.|Venkatesan Guruswami,Rajsekar Manokaran,Prasad Raghavendra|72|60|0|12
+60|(Acyclic) JobShops are Hard to Approximate.|Monaldo Mastrolilli,Ola Svensson|2|1|0|1
+61|Linear Level Lasserre Lower Bounds for Certain k-CSPs.|Grant Schoenebeck|130|111|0|3
+62|The Power of Reordering for Online Minimum Makespan Scheduling.|Matthias Englert,Deniz Özmen,Matthias Westermann|41|39|0|2
+63|Locally Testing Direct Product in the Low Error Range.|Irit Dinur,Elazar Goldenberg|15|15|0|6
+64|Kakeya Sets, New Mergers and Old Extractors.|Zeev Dvir,Avi Wigderson|49|42|0|5
+65|A Dichotomy Theorem for the Resolution Complexity of Random Constraint Satisfaction Problems.|Siu On Chan,Michael Molloy|2|2|0|2
+66|Holographic Algorithms by Fibonacci Gates and Holographic Reductions for Hardness.|Jin-yi Cai,Pinyan Lu,Mingji Xia|45|38|0|23
+67|Network Extractor Protocols.|Yael Tauman Kalai,Xin Li,Anup Rao,David Zuckerman|n/a
+68|Isomorhism of Hypergraphs of Low Rank in Moderately Exponential Time.|László Babai,Paolo Codenotti|31|31|0|2
+69|Computing the Tutte Polynomial in Vertex-Exponential Time.|Andreas Björklund,Thore Husfeldt,Petteri Kaski,Mikko Koivisto|49|40|0|4
+70|On the Approximability of Budgeted Allocations and Improved Lower Bounds for Submodular Welfare Maximization and GAP.|Deeparnab Chakrabarty,Gagan Goel|70|52|1|4
+71|Submodular Approximation: Sampling-based Algorithms and Lower Bounds.|Zoya Svitkina,Lisa Fleischer|93|81|0|1
+72|Short Proofs May Be Spacious: An Optimal Separation of Space and Length in Resolution.|Eli Ben-Sasson,Jakob Nordström|40|33|0|10
+73|Noise Tolerance of Expanders and Sublinear Expander Reconstruction.|Satyen Kale,Yuval Peres,C. Seshadhri|18|16|0|6
+74|Sequence Length Requirement of Distance-Based Phylogeny Reconstruction: Breaking the Polynomial Barrier.|Sébastien Roch|15|12|0|9
+75|Size Bounds and Query Plans for Relational Joins.|Albert Atserias,Martin Grohe,Dániel Marx|36|32|0|4
+76|Eigenvalue Bounds, Spectral Partitioning, and Metrical Deformations via Flows.|Punyashloka Biswal,James R. Lee,Satish Rao|33|29|0|5
+77|Embeddings of Topological Graphs: Lossy Invariants, Linearization, and 2-Sums.|Amit Chakrabarti,Alexander Jaffe,James R. Lee,Justin Vincent|19|14|0|4
+78|A Simpler Linear Time Algorithm for Embedding Graphs into an Arbitrary Surface and the Genus of Graphs of Bounded Tree-Width.|Ken-ichi Kawarabayashi,Bojan Mohar,Bruce A. Reed|42|38|0|11
+79|Nearly Tight Low Stretch Spanning Trees.|Ittai Abraham,Yair Bartal,Ofer Neiman|88|80|0|7
+80|Algorithmic Barriers from Phase Transitions.|Dimitris Achlioptas,Amin Coja-Oghlan|139|113|0|35
+81|Mixing Time of Exponential Random Graphs.|Shankar Bhamidi,Guy Bresler,Allan Sly|62|59|0|1
+82|k-Wise Independent Random Graphs.|Noga Alon,Asaf Nussboim|6|5|0|2
+83|Broadcasting with Side Information.|Noga Alon,Eyal Lubetzky,Uri Stav,Amit Weinstein,Avinatan Hassidim|92|85|0|5

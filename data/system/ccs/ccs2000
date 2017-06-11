@@ -1,0 +1,34 @@
+33
+1|CCS 2000, Proceedings of the 7th ACM Conference on Computer and Communications Security, Athens, Greece, November 1-4, 2000.|Dimitris Gritzalis,Sushil Jajodia,Pierangela Samarati|n/a
+2|Evaluating certificate status information mechanisms.|John Iliadis,Diomidis Spinellis,Dimitris Gritzalis,Bart Preneel,Sokratis K. Katsikas|37|15|0|16
+3|Accountable certificate management using undeniable attestations.|Ahto Buldas,Peeter Laud,Helger Lipmaa|86|22|3|3
+4|Efficient fault-tolerant certificate revocation.|Rebecca N. Wright,Patrick Lincoln,Jonathan K. Millen|48|10|0|0
+5|Timing attacks on Web privacy.|Edward W. Felten,Michael A. Schneider|253|124|7|0
+6|A protocol for anonymous communication over the Internet.|Clay Shields,Brian Neil Levine|288|86|5|5
+7|A secure execution framework for Java.|Manfred Hauswirth,Clemens Kerer,Roman Kurmanowytsch|29|2|1|2
+8|User privacy issues regarding certificates and the TLS protocol: the design and implementation of the SPSL protocol.|Pino Persiano,Ivan Visconti|38|6|1|2
+9|Distribution chain security.|Glenn Durfee,Matthew K. Franklin|20|4|0|0
+10|Threshold-based identity recovery for privacy enhanced applications.|Joachim Biskup,Ulrich Flegel|27|8|0|9
+11|Reducing the round complexity of a sealed-bid auction protocol with an off-line TTP.|Yuji Watanabe,Hideki Imai|43|11|0|1
+12|XML document security based on provisional authorization.|Michiharu Kudo,Satoshi Hada|403|52|5|10
+13|Security: the state of the practice (invited talk).|Ravi Ganesan|n/a
+14|Which PKI (public key infrastructure) is the right one? (panel session).|Carlisle M. Adams,Mike Burmester,Yvo Desmedt,Michael K. Reiter,Philip Zimmermann|25|4|0|0
+15|Multi-round passive attacks on server-aided RSA protocols.|Johannes Merkle|13|2|0|0
+16|Simple forward-secure signatures from any signature scheme.|Hugo Krawczyk|200|59|0|1
+17|Moiré cryptography.|Yvo Desmedt,Tri Van Le|16|11|0|0
+18|Funkspiel schemes: an alternative to conventional tamper resistance.|Johan Håstad,Jakob Jonsson,Ari Juels,Moti Yung|25|9|4|2
+19|Regulating service access and information release on the Web.|Piero A. Bonatti,Pierangela Samarati|234|56|0|12
+20|An authorization model for temporal data.|Avigdor Gal,Vijayalakshmi Atluri|51|14|0|3
+21|An access control model for simplifying constraint expression.|Jonathon Tidswell,Trent Jaeger|43|9|0|3
+22|A modular approach to composing access control policies.|Piero A. Bonatti,Sabrina De Capitani di Vimercati,Pierangela Samarati|101|26|2|1
+23|Operating system enhancements to prevent the misuse of system calls.|Massimo Bernaschi,Emanuele Gabrielli,Luigi V. Mancini|88|20|2|1
+24|Using router stamping to identify the source of IP packets.|Thomas W. Doeppner Jr.,Philip N. Klein,Andrew Koyfman|88|26|5|0
+25|Implementing a distributed firewall.|Sotiris Ioannidis,Angelos D. Keromytis,Steven M. Bellovin,Jonathan M. Smith|517|239|133|38
+26|Security enhanced mobile agents.|Vijay Varadharajan|55|9|3|12
+27|PRUNES: an efficient and complete strategy for automated trust negotiation over the Internet.|Ting Yu,Xiaosong Ma,Marianne Winslett|163|47|0|4
+28|Cross-domain one-shot authorization using smart cards.|Richard Au,Mark Looi,Paul Ashley|23|3|1|7
+29|New constructions for multicast re-keying schemes using perfect hash families.|Reihaneh Safavi-Naini,Huaxiong Wang|n/a
+30|Simple and fault-tolerant key agreement for dynamic collaborative groups.|Yongdae Kim,Adrian Perrig,Gene Tsudik|618|165|7|22
+31|Composition and integrity preservation of secure reactive systems.|Birgit Pfitzmann,Michael Waidner|288|60|0|49
+32|Network security and IPsec (tutorial).|John Ioannidis,Angelos D. Keromytis|n/a
+33|Electronic payment technologies.|Yair Frankel|n/a

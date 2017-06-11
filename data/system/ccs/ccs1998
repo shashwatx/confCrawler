@@ -1,0 +1,20 @@
+19
+1|CCS '98, Proceedings of the 5th ACM Conference on Computer and Communications Security, San Francisco, CA, USA, November 3-5, 1998.|Li Gong,Michael K. Reiter|n/a
+2|Communication Complexity of Group Key Distribution.|Klaus Becker,Uta Wille|389|86|3|0
+3|Key Management for Encrypted broadcast.|Avishai Wool|42|10|4|3
+4|Authenticated Group Key Agreement and Friends.|Giuseppe Ateniese,Michael Steiner,Gene Tsudik|255|63|2|9
+5|The Design, Implementation and Operation of an Email Pseudonym Server.|David Mazières,M. Frans Kaashoek|100|17|5|0
+6|Anonymity on the Internet (Panel).|Paul F. Syverson|n/a
+7|History-Based Access Control for Mobile Code.|Guy Edjlali,Anurag Acharya,Vipin Chaudhary|239|62|31|5
+8|A Specification of Java Loading and Bytecode Verification.|Allen Goldberg|108|9|6|4
+9|A New Public Key Cryptosystem Based on Higher Residues.|David Naccache,Jacques Stern|327|149|5|12
+10|An Efficient Non-Interactive Statistical Zero-Knowledge Proof System for Quasi-Safe Prime Products.|Rosario Gennaro,Daniele Micciancio,Tal Rabin|56|5|1|7
+11|Communication-Efficient Anonymous Group Identification.|Alfredo De Santis,Giovanni Di Crescenzo,Giuseppe Persiano|48|3|1|5
+12|A Security Architecture for Computational Grids.|Ian T. Foster,Carl Kesselman,Gene Tsudik,Steven Tuecke|1779|351|20|59
+13|Design of a High-Performance ATM Firewall.|Jun (Jim) Xu,Mukesh Singhal|17|3|1|3
+14|A Practical Secure Physical Random Bit Generator.|Markus Jakobsson,Elizabeth A. M. Shriver,Bruce Hillyer,Ari Juels|42|14|1|2
+15|A Probabilistic Poly-Time Framework for Protocol Analysis.|Patrick Lincoln,John C. Mitchell,Mark Mitchell,Andre Scedrov|267|27|0|22
+16|Public-Key Cryptography and Password Protocols.|Shai Halevi,Hugo Krawczyk|461|165|19|5
+17|Cryptanalysis of Microsoft's Point-to-Point Tunneling Protocol (PPTP).|Bruce Schneier,Mudge|76|10|1|3
+18|How to Prove Where You Are: Tracking the Location of Customer Equipment.|Eran Gabber,Avishai Wool|55|10|0|3
+19|Temporal Sequence Learning and Data Reduction for Anomaly Detection.|Terran Lane,Carla E. Brodley|608|178|13|7

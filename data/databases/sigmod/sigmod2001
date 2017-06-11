@@ -1,0 +1,85 @@
+84
+1|Efficient Computation of Iceberg Cubes with Complex Measures.|Jiawei Han,Jian Pei,Guozhu Dong,Ke Wang|241|67|7|37
+2|On Computing Correlated Aggregates Over Continual Data Streams.|Johannes Gehrke,Flip Korn,Divesh Srivastava|344|83|7|15
+3|Iceberg-cube computation with PC clusters.|Raymond T. Ng,Alan S. Wagner,Yu Yin|82|33|0|1
+4|Outlier Detection for High Dimensional Data.|Charu C. Aggarwal,Philip S. Yu|952|518|3|26
+5|Bit-Sliced Index Arithmetic.|Denis Rinfret,Patrick E. O'Neil,Elizabeth J. O'Neil|76|18|1|3
+6|Space-Efficient Online Computation of Quantile Summaries.|Michael Greenwald,Sanjeev Khanna|407|154|8|3
+7|Probe, Count, and Classify: Categorizing Hidden Web Databases.|Panagiotis G. Ipeirotis,Luis Gravano,Mehran Sahami|192|52|14|8
+8|Data Bubbles: Quality Preserving Performance Boosting for Hierarchical Clustering.|Markus M. Breunig,Hans-Peter Kriegel,Peer Kröger,Jörg Sander|98|28|3|10
+9|Mining Needle in a Haystack: Classifying Rare Classes via Two-phase Rule Induction.|Mahesh V. Joshi,Ramesh C. Agarwal,Vipin Kumar|141|52|0|14
+10|Efficient Evaluation of XML Middle-ware Queries.|Mary F. Fernandez,Atsuyuki Morishima,Dan Suciu|167|10|6|10
+11|Filtering Algorithms and Implementation for Very Fast Publish/Subscribe.|Françoise Fabret,Hans-Arno Jacobsen,François Llirbat,João L. M. Pereira,Kenneth A. Ross,Dennis Shasha|608|210|9|62
+12|Adaptable Query Optimization and Evaluation in Temporal Middleware.|Giedrius Slivinskas,Christian S. Jensen,Richard T. Snodgrass|40|30|40|0
+13|Optimizing Multidimensional Index Trees for Main Memory Access.|Kihong Kim,Sang Kyun Cha,Keunjoo Kwon|137|28|0|4
+14|Locally Adaptive Dimensionality Reduction for Indexing Large Time Series Databases.|Eamonn J. Keogh,Kaushik Chakrabarti,Sharad Mehrotra,Michael J. Pazzani|760|291|1|32
+15|Main-Memory Index Structures with Fixed-Size Partial Keys.|Philip Bohannon,Peter McIlroy,Rajeev Rastogi|104|29|3|0
+16|Automatic Segmentation of Text into Structured Records.|Vinayak R. Borkar,Kaustubh Deshmukh,Sunita Sarawagi|301|122|12|14
+17|Efficient and Effective Metasearch for Text Databases Incorporating Linkages among Documents.|Clement T. Yu,Weiyi Meng,Wensheng Wu,King-Lup Liu|60|16|2|14
+18|Independence is Good: Dependency-Based Histogram Synopses for High-Dimensional Data.|Amol Deshpande,Minos N. Garofalakis,Rajeev Rastogi|141|36|3|29
+19|STHoles: A Multidimensional Workload-Aware Histogram.|Nicolas Bruno,Surajit Chaudhuri,Luis Gravano|299|100|14|16
+20|Global Optimization of Histograms.|H. V. Jagadish,Hui Jin,Beng Chin Ooi,Kian-Lee Tan|53|7|4|0
+21|Improving Index Performance through Prefetching.|Shimin Chen,Phillip B. Gibbons,Todd C. Mowry|153|38|1|11
+22|Efficient and Tunable Similar Set Retrieval.|Aristides Gionis,Dimitrios Gunopulos,Nick Koudas|57|18|4|1
+23|PREFER: A System for the Efficient Execution of Multi-parametric Ranked Queries.|Vagelis Hristidis,Nick Koudas,Yannis Papakonstantinou|312|134|6|16
+24|Query Optimization In Compressed Database Systems.|Zhiyuan Chen,Johannes Gehrke,Flip Korn|133|68|13|1
+25|SPARTAN: A Model-Based Semantic Compression System for Massive Data Tables.|Shivnath Babu,Minos N. Garofalakis,Rajeev Rastogi|86|20|0|12
+26|A Robust, Optimization-Based Approach for Approximate Answering of Aggregate Queries.|Surajit Chaudhuri,Gautam Das,Vivek R. Narasayya|112|28|3|11
+27|Materialized View Selection and Maintenance Using Multi-Query Optimization.|Hoshi Mistry,Prasan Roy,S. Sudarshan,Krithi Ramamritham|201|85|7|2
+28|Generating Efficient Plans for Queries Using Views.|Foto N. Afrati,Chen Li,Jeffrey D. Ullman|77|13|1|12
+29|Optimizing Queries Using Materialized Views: A practical, scalable solution.|Jonathan Goldstein,Per-Åke Larson|299|102|16|9
+30|Dynamic Buffer Allocation in Video-on-Demand Systems.|Sang Ho Lee,Kyu-Young Whang,Yang-Sae Moon,Il-Yeol Song|22|0|0|1
+31|Adaptive Precision Setting for Cached Approximate Values.|Chris Olston,Boon Thau Loo,Jennifer Widom|239|58|6|5
+32|Proxy-Server Architectures for OLAP.|Panos Kalnis,Dimitris Papadias|38|10|2|3
+33|Epsilon Grid Order: An Algorithm for the Similarity Join on Massive High-Dimensional Data.|Christian Böhm,Bernhard Braunmüller,Florian Krebs,Hans-Peter Kriegel|95|36|1|5
+34|Modeling High-Dimensional Index Structures using Sampling.|Christian A. Lang,Ambuj K. Singh|29|5|0|6
+35|Progressive Approximate Aggregate Queries with a Multi-Resolution Tree Structure.|Iosif Lazaridis,Sharad Mehrotra|214|64|1|9
+36|Updating XML.|Igor Tatarinov,Zachary G. Ives,Alon Y. Halevy,Daniel S. Weld|428|41|0|3
+37|On Supporting Containment Queries in Relational Database Management Systems.|Chun Zhang,Jeffrey F. Naughton,David J. DeWitt,Qiong Luo,Guy M. Lohman|1086|339|4|8
+38|Monitoring XML Data on the Web.|Benjamin Nguyen,Serge Abiteboul,Gregory Cobena,Mihai Preda|183|18|0|14
+39|Using the Golden Rule of Sampling for Query Estimation.|Yi-Leh Wu,Divyakant Agrawal,Amr El Abbadi|47|8|3|3
+40|Selectivity Estimation using Probabilistic Models.|Lise Getoor,Benjamin Taskar,Daphne Koller|209|93|14|5
+41|Communication Efficient Distributed Mining of Association Rules.|Assaf Schuster,Ran Wolff|132|52|0|6
+42|Data-Driven Understanding and Refinement of Schema Mappings.|Ling-Ling Yan,Renée J. Miller,Laura M. Haas,Ronald Fagin|247|53|3|13
+43|Minimization of Tree Pattern Queries.|Sihem Amer-Yahia,SungRan Cho,Laks V. S. Lakshmanan,Divesh Srivastava|298|53|1|10
+44|Reconciling Schemas of Disparate Data Sources: A Machine-Learning Approach.|AnHai Doan,Pedro M. Domingos,Alon Y. Halevy|903|240|10|39
+45|StorHouse Metanoia - New Applications for Database, Storage & Data Warehousing.|Felipe Cariño,Pekka Kostamaa,Art Kaufmann,John G. Burgess|12|4|6|0
+46|Enabling Dynamic Content Caching for Database-Driven Web Sites.|K. Selçuk Candan,Wen-Syan Li,Qiong Luo,Wang-Pin Hsiung,Divyakant Agrawal|206|43|43|28
+47|The Network is the Database: Data Management for Highly Distributed Systems.|Julio C. Navas,Michael J. Wynblatt|13|3|0|0
+48|Content Integration for E-Business.|Michael Stonebraker,Joseph M. Hellerstein|114|18|13|1
+49|Catalog Management in Websphere Commerce Suite.|Thomas Maguire|0|0|0|0
+50|Experiences in Mining Aviation Safety Data.|Zohreh Nazeri,Eric Bloedorn,Paul Ostwald|21|9|0|3
+51|The Nimble Integration Engine.|Denise Draper,Alon Y. Halevy,Daniel S. Weld|30|3|0|0
+52|Data Management: Lasting Impact of the Wild, Wild, Web.|Reed M. Meseck|n/a
+53|Orthogonal Optimization of Subqueries and Aggregation.|César A. Galindo-Legaria,Milind Joshi|93|22|8|3
+54|Exploiting Constraint-Like Data Characterizations in Query Optimization.|Parke Godfrey,Jarek Gryz,Calisto Zuzarte|38|8|4|4
+55|Fast-Start: Quick Fault Recovery in Oracle.|Tirthankar Lahiri,Amit Ganesh,Ron Weiss,Ashok Joshi|33|11|6|4
+56|Online Query Processing.|Peter J. Haas,Joseph M. Hellerstein|n/a
+57|Time Series Similarity Measures and Time Series Indexing.|Dimitrios Gunopulos,Gautam Das|65|23|0|1
+58|Semantic B2B Integration.|Christoph Bussler|10|3|0|0
+59|Models and Languages for Describing and Discovering E-Services.|Fabio Casati,Ming-Chien Shan|58|10|0|0
+60|MPEG-7 Standard for Multimedia Databases.|John R. Smith|n/a
+61|Dissemination of Dynamic Data.|Pavan Deolasee,Amol Katkar,Ankur Panchbudhe,Krithi Ramamritham,Prashant J. Shenoy|12|4|0|0
+62|COSIMA - Your Smart, Speaking E-Salesperson.|Werner Kießling,Stefan Holland,Stefan Fischer,Thorsten Ehm|7|0|0|3
+63|REVIEW: A Real Time Virtual Walkthrough System.|Lidan Shou,Jason Chionh,Kian-Lee Tan,Yixin Ruan,Zhiyong Huang|2|0|0|0
+64|Kweelt: More than just "yet another framework to query XML!".|Arnaud Sahuguet|26|1|0|0
+65|VQBD: Exploring Semistructured Data.|Sudarshan S. Chawathe,Thomas Baby,Jihwang Yeo|13|1|0|1
+66|OminiSearch: A Method for Searching Dynamic Content on the Web.|David Buttler,Ling Liu,Calton Pu,Henrique Paques|12|0|1|0
+67|Securing XML Documents: the Author-X Project Demonstration.|Elisa Bertino,Silvana Castano,Elena Ferrari|26|5|0|8
+68|Gangam - A Solution to Support Multiple Data Models, their Mappings and Maintenance.|Kajal T. Claypool,Elke A. Rundensteiner,Xin Zhang,Hong Su,Harumi A. Kuno,Wang-Chien Lee,Gail Mitchell|18|3|1|6
+69|Clio: A Semi-Automatic Tool For Schema Mapping.|Mauricio A. Hernández,Renée J. Miller,Laura M. Haas|168|50|1|3
+70|Materialized View and Index Selection Tool for Microsoft SQL Server 2000.|Sanjay Agrawal,Surajit Chaudhuri,Vivek R. Narasayya|44|12|0|1
+71|The Prototype of the DARE System.|Tiziana Catarci,Giuseppe Santucci|8|0|0|6
+72|Monitoring Business Processes through Event Correlation based on Dependency Model.|Asaf Adi,David Botzer,Opher Etzion,Tali Yatzkar-Haham|4|1|2|1
+73|Fault-tolerant, Load-balancing Queries in Telegraph.|Mehul A. Shah,Sirish Chandrasekaran|9|1|0|0
+74|Snowball: A Prototype System for Extracting Relations from Large Text Collections.|Eugene Agichtein,Luis Gravano,Jeff Pavel,Viktoriya Sokolova,Aleksandr Voskoboynik|67|34|0|0
+75|PBIR - Perception-Based Image Retrieval.|Edward Y. Chang,Kwang-Ting (Tim) Cheng,Lihyuarn L. Chang|13|1|0|9
+76|Spatial Data Management for Computer Aided Design.|Hans-Peter Kriegel,Andreas Müller,Marco Pötke,Thomas Seidl|12|1|1|5
+77|RETINA: A REal-time TraffIc NAvigation System.|Kam-yiu Lam,Edward Chan,Tei-Wei Kuo,S. W. Ng,Dick Hung|10|6|0|0
+78|Dynamic Content Acceleration: A Caching Solution to Enable Scalable Dynamic Web Page Generation.|Anindya Datta,Kaushik Dutta,Krithi Ramamritham,Helen M. Thomas,Debra E. VanderMeer|19|1|0|2
+79|Lots o' Ticks: Real-Time High Performance Time Series Queries on Billions of Trades and Quotes.|Arthur T. Whitney,Dennis Shasha|10|2|0|1
+80|DNA-Miner: A System Prototype for Mining DNA Sequences.|Jiawei Han,Hasan M. Jamil,Ying Lu,Liangyou Chen,Yaqin Liao,Jian Pei|17|0|0|2
+81|DyDa: Data Warehouse Maintenance in Fully Concurrent Environments.|Jun Chen,Xin Zhang,Songting Chen,Andreas Koeller,Elke A. Rundensteiner|14|2|0|6
+82|XML Data Management Go Native or Spruce up Relational Systems? (Panel Abstract).|Per-Åke Larson|4|1|0|0
+83|Will Database Researchers Have ANY Role in Data Security? (Panel Abstract).|Arnon Rosenthal|0|0|0|0
+84|Application Servers: Born-Again TP Monitors for the Web? (Panel Abstract).|C. Mohan|n/a

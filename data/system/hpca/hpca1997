@@ -1,0 +1,32 @@
+31
+1|Proceedings of the 3rd IEEE Symposium on High-Performance Computer Architecture (HPCA '97), San Antonio, Texas, USA, February 1-5, 1997.|n/a
+2|Speeding up the Memory Hierarchy in Flat COMA Multiprocessors.|Liuxi Yang,Josep Torrellas|12|5|5|1
+3|Reducing the Replacement Overhead in Bus-Based COMA Multiprocessors.|Fredrik Dahlgren,Anders Landin|7|0|0|2
+4|Datapath Design for a VLIW Video Signal Processor.|Andrew Wolfe,Jason Fritts,Santanu Dutta,Edil S. Tavares Fernandes|25|2|0|5
+5|Distributed Path Reservation Algorithms for Multiplexed All-Optical Interconnection Networks.|Xin Yuan,Rami G. Melhem,Rajiv Gupta|89|16|1|8
+6|Multicast on Irregular Switch-Based Networks with Wormhole Routing.|Ram Kesavan,Kiran Bondalapati,Dhabaleswar K. Panda|78|7|0|10
+7|A Performance Comparison of Hierarchical Ring- and Mesh-Connected Multiprocessor Networks.|Govindan Ravindran,Michael Stumm|64|24|1|2
+8|The Impact of Instruction-Level Parallelism on Multiprocessor Performance and Simulation Methodology.|Vijay S. Pai,Parthasarathy Ranganathan,Sarita V. Adve|96|4|0|23
+9|Architectural Support for Compiler-Synthesized Dynamic Branch Prediction Strategies: Rationale and Initial Results.|David I. August,Daniel A. Connors,John C. Gyllenhaal,Wen-mei W. Hwu|30|5|2|0
+10|Multiple Branch and Block Prediction.|Steven Wallace,Nader Bagherzadeh|25|1|3|0
+11|Evaluating MPI Collective Communication on the SP2, T3D, and Paragon Multicomputers.|Kai Hwang,Choming Wang,Cho-Li Wang|15|1|0|3
+12|Message Proxies for Efficient, Protected Communication on SMP Clusters.|Beng-Hong Lim,Philip Heidelberger,Pratap Pattnaik,Marc Snir|20|0|0|1
+13|Scheduling Communication on a SMP Node Parallel Machine.|Babak Falsafi,David A. Wood|45|2|0|4
+14|Design Issues and Tradeoffs for Write Buffers.|Kevin Skadron,Douglas W. Clark|89|23|3|4
+15|Software-Managed Address Translation.|Bruce L. Jacob,Trevor N. Mudge|63|9|2|7
+16|Global Address Space, Non-Uniform Bandwidth: A Memory System Performance Characterization of Parallel Systems.|Thomas Stricker,Thomas R. Gross|20|1|0|4
+17|On the Use and Performance of Explicit Communication Primitives in Cache-Coherent Multiprocessor Systems.|Xiaohan Qin,Jean-Loup Baer|5|0|0|1
+18|Reducing the Communication Overhead of Dynamic Applications on Shared Memory Multiprocessors.|Anand Sivasubramaniam|6|1|0|2
+19|An Evaluation of Fine-Grain Producer-Initiated Communication in Cache-Coherent Multiprocessors.|Hazim Abdel-Shafi,Jonathan Hall,Sarita V. Adve,Vikram S. Adve|94|27|5|4
+20|Control Flow Speculation in Multiscalar Processors.|Quinn Jacobson,Steve Bennett,Nikhil Sharma,James E. Smith|88|12|5|5
+21|Advances of the Counterflow Pipeline Microarchitecture.|Kenneth J. Janik,Shih-Lien Lu,Michael F. Miller|14|0|2|4
+22|Multithreaded Vector Architectures.|Roger Espasa,Mateo Valero|42|9|0|13
+23|The Memory Performance of DSS Commercial Workloads in Shared-Memory Multiprocessors.|Pedro Trancoso,Josep-Lluis Larriba-Pey,Zheng Zhang,Josep Torrellas|107|2|0|7
+24|Software DSM Protocols that Adapt between Single Writer and Multiple Writer.|Cristiana Amza,Alan L. Cox,Sandhya Dwarkadas,Willy Zwaenepoel|103|9|0|11
+25|Reducing Remote Conflict Misses: NUMA with Remote Cache versus COMA.|Zheng Zhang,Josep Torrellas|73|7|0|6
+26|Performance Characterization of the Pentium(r) Pro Processor.|Dileep Bhandarkar,Jianxun Jason Ding|139|16|5|0
+27|A Framework for Statistical Modeling of Superscalar Processor Performance.|Derek B. Noonburg,John Paul Shen|87|23|3|0
+28|Towards a Communication Characterization Methodology for Parallel Applications.|Sucheta Chodnekar,Viji Srinivasan,Aniruddha S. Vaidya,Anand Sivasubramaniam,Chita R. Das|58|11|0|0
+29|User-Level DMA without Operating System Kernel Modification.|Evangelos P. Markatos,Manolis Katevenis|41|9|4|4
+30|ATM and Fast Ethernet Network Interfaces for User-Level Communication.|Matt Welsh,Anindya Basu,Thorsten von Eicken|80|7|0|0
+31|Architectural Support for Reducing Communication Overhead in Multiprocessor Interconnection Networks.|Binh Vien Dao,Sudhakar Yalamanchili,José Duato|25|1|0|2

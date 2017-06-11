@@ -1,0 +1,45 @@
+44
+1|Proceedings of the Twenty-Third Annual IEEE Symposium on Logic in Computer Science, LICS 2008, 24-27 June 2008, Pittsburgh, PA, USA.|n/a
+2|Cryptographically-Sound Protocol-Model Abstractions.|Christoph Sprenger,David A. Basin|15|10|0|1
+3|On the Expressiveness and Complexity of Randomization in Finite State Monitors.|Rohit Chadha,A. Prasad Sistla,Mahesh Viswanathan|26|21|0|9
+4|Combining Generic Judgments with Recursive Definitions.|Andrew Gacek,Dale Miller,Gopalan Nadathur|47|34|0|10
+5|Mechanizing the Metatheory of LF.|Christian Urban,James Cheney,Stefan Berghofer|33|25|0|9
+6|Second-Order and Dependently-Sorted Abstract Syntax.|Marcelo P. Fiore|23|16|0|10
+7|Structural Logical Relations.|Carsten Schürmann,Jeffrey Sarnat|23|15|0|1
+8|Types for Hereditary Permutators.|Makoto Tatsuta|3|3|0|0
+9|Context Matching for Compressed Terms.|Adria Gascón,Guillem Godoy,Manfred Schmidt-Schauß|14|10|0|5
+10|Nonlocal Flow of Control and Kleene Algebra with Tests.|Dexter Kozen|15|11|0|1
+11|A Logic for Algebraic Effects.|Gordon D. Plotkin,Matija Pretnar|19|15|0|7
+12|An Algebraic Process Calculus.|Emmanuel Beffara|n/a
+13|On the Expressiveness and Decidability of Higher-Order Process Calculi.|Ivan Lanese,Jorge A. Pérez,Davide Sangiorgi,Alan Schmitt|62|45|0|7
+14|On the Axiomatizability of Impossible Futures: Preorder versus Equivalence.|Taolue Chen,Wan Fokkink|11|7|0|5
+15|General Structural Operational Semantics through Categorical Logic.|Sam Staton|12|8|0|6
+16|Parameterization as Abstraction: A Tractable Approach to the Dataflow Analysis of Concurrent Programs.|Vineet Kahlon|4|3|0|0
+17|Winning Regions of Higher-Order Pushdown Games.|Arnaud Carayol,Matthew Hague,Antoine Meyer,C.-H. Luke Ong,Olivier Serre|25|16|0|7
+18|The Ordinal Recursive Complexity of Lossy Channel Systems.|Pierre Chambart,Philippe Schnoebelen|43|38|0|21
+19|Almost-Sure Model Checking of Infinite Paths in One-Clock Timed Automata.|Christel Baier,Nathalie Bertrand,Patricia Bouyer,Thomas Brihaye,Marcus Größer|43|32|0|9
+20|From Axioms to Analytic Rules in Nonclassical Logics.|Agata Ciabattoni,Nikolaos Galatos,Kazushige Terui|87|75|0|27
+21|Focusing on Binding and Computation.|Daniel R. Licata,Noam Zeilberger,Robert Harper|40|26|0|8
+22|A First-Order Representation of Pure Type Systems Using Superdeduction.|Guillaume Burel|9|6|0|5
+23|The Quest for a Logic Capturing PTIME.|Martin Grohe|22|17|0|4
+24|On the Asymptotic Nullstellensatz and Polynomial Calculus Proof Complexity.|Søren Riis|2|2|0|0
+25|On the Computational Complexity of Cut-Reduction.|Klaus Aehlig,Arnold Beckmann|6|2|0|5
+26|Maltsev + Datalog --> Symmetric Datalog.|Víctor Dalmau,Benoit Larose|15|14|0|4
+27|Caterpillar Duality for Constraint Satisfaction Problems.|Catarina Carvalho,Víctor Dalmau,Andrei A. Krokhin|12|7|0|4
+28|Quantified Constraints and Containment Problems.|Hubie Chen,Florent R. Madelaine,Barnaby Martin|10|9|0|10
+29|Hiding Local State in Direct Style: A Higher-Order Anti-Frame Rule.|François Pottier|35|28|0|8
+30|Typed Normal Form Bisimulation for Parametric Polymorphism.|Søren B. Lassen,Paul Blain Levy|23|18|0|4
+31|Reachability Games and Game Semantics: Comparing Nondeterministic Programs.|Andrzej S. Murawski|9|8|0|0
+32|Weak Topology and a Differentiable Operator for Lipschitz Maps.|Abbas Edalat|2|1|0|0
+33|A Logical Characterization of Individual-Based Models.|James F. Lynch|6|6|0|0
+34|The Satisfiability Problem for Probabilistic CTL.|Tomás Brázdil,Vojtech Forejt,Jan Kretínský,Antonín Kucera|31|26|0|0
+35|The Axiomatic Derivation of Absolute Lower Bounds.|Yiannis N. Moschovakis|0|0|0|0
+36|Definable Tree Decompositions.|Martin Grohe|16|10|0|10
+37|Hypergraph Acyclicity and Extension Preservation Theorems.|David Duris|7|5|0|5
+38|From Automatic Structures to Borel Structures.|Greg Hjorth,Bakhadyr Khoussainov,Antonio Montalbán,André Nies|28|16|0|1
+39|Piecewise Testable Tree Languages.|Mikolaj Bojanczyk,Luc Segoufin,Howard Straubing|21|13|0|6
+40|Collapsible Pushdown Automata and Recursion Schemes.|Matthew Hague,Andrzej S. Murawski,C.-H. Luke Ong,Olivier Serre|102|81|0|13
+41|The Geometry of Interaction of Differential Interaction Nets.|Marc de Falco|7|4|0|1
+42|Correctness of Multiplicative Additive Proof Structures is NL-Complete.|Paulin Jacobé de Naurois,Virgile Mogbil|4|3|0|2
+43|Cut Elimination for Monomial MALL Proof Nets.|Olivier Laurent,Roberto Maieli|9|7|0|5
+44|A Neutral Approach to Proof and Refutation in MALL.|Olivier Delande,Dale Miller|21|6|0|8

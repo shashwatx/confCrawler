@@ -1,0 +1,91 @@
+90
+1|Proceedings of the 44th Symposium on Theory of Computing Conference, STOC 2012, New York, NY, USA, May 19 - 22, 2012.|Howard J. Karloff,Toniann Pitassi|n/a
+2|Faster approximate multicommodity flow using quadratically coupled flows.|Jonathan A. Kelner,Gary L. Miller,Richard Peng|14|14|0|9
+3|When the cut condition is enough: a complete characterization for multiflow problems in series-parallel networks.|Amit Chakrabarti,Lisa Fleischer,Christophe Weibel|4|4|0|2
+4|Strongly polynomial algorithm for a class of minimum-cost flow problems with separable convex objectives.|László A. Végh|16|16|0|0
+5|Quantum money from hidden subspaces.|Scott Aaronson,Paul Christiano|27|23|0|1
+6|Certifiable quantum dice: or, true random number generation secure against quantum adversaries.|Umesh V. Vazirani,Thomas Vidick|37|35|0|9
+7|Span programs for functions with constant-sized 1-certificates: extended abstract.|Aleksandrs Belovs|53|50|0|15
+8|The cell probe complexity of dynamic range counting.|Kasper Green Larsen|20|20|0|6
+9|Linear vs. semidefinite extended formulations: exponential separation and strong lower bounds.|Samuel Fiorini,Serge Massar,Sebastian Pokutta,Hans Raj Tiwary,Ronald de Wolf|137|131|0|21
+10|Polyhedral clinching auctions and the adwords polytope.|Gagan Goel,Vahab S. Mirrokni,Renato Paes Leme|29|29|0|6
+11|Matroid prophet inequalities.|Robert Kleinberg,S. Matthew Weinberg|36|36|0|8
+12|Online matching with concave returns.|Nikhil R. Devanur,Kamal Jain|24|24|0|3
+13|Computing a nonnegative matrix factorization - provably.|Sanjeev Arora,Rong Ge,Ravindran Kannan,Ankur Moitra|127|118|0|11
+14|On identity testing of tensors, low-rank recovery and compressed sensing.|Michael A. Forbes,Amir Shpilka|24|24|0|8
+15|Structure theorem and isomorphism test for graphs with excluded topological subgraphs.|Martin Grohe,Dániel Marx|53|50|0|6
+16|Short proofs for the determinant identities.|Pavel Hrubes,Iddo Tzameret|13|13|0|5
+17|Time-space tradeoffs in resolution: superpolynomial lower bounds for superlinear space.|Paul Beame,Christopher Beck,Russell Impagliazzo|26|26|0|2
+18|On the virtue of succinct proofs: amplifying communication complexity hardness to time-space trade-offs in proof complexity.|Trinh Huynh,Jakob Nordström|17|17|0|3
+19|Determinism versus nondeterminism with arithmetic tests and computation: extended abstract.|Miklós Ajtai|1|1|0|1
+20|Solution of the propeller conjecture in R3.|Steven Heilman,Aukosh Jagannath,Assaf Naor|5|5|0|4
+21|2log1-ε n hardness for the closest vector problem with preprocessing.|Subhash Khot,Preyas Popat,Nisheeth K. Vishnoi|9|9|0|1
+22|A new point of NP-hardness for unique games.|Ryan O'Donnell,John Wright|18|18|0|5
+23|Hypercontractivity, sum-of-squares proofs, and their applications.|Boaz Barak,Fernando G. S. L. Brandão,Aram Wettroth Harrow,Jonathan A. Kelner,David Steurer,Yuan Zhou|81|77|0|15
+24|From irreducible representations to locally decodable codes.|Klim Efremenko|4|4|0|0
+25|Folded codes from function field towers and improved optimal rate list decoding.|Venkatesan Guruswami,Chaoping Xing|21|21|0|10
+26|Subspace evasive sets.|Zeev Dvir,Shachar Lovett|29|29|0|2
+27|Edge transitive ramanujan graphs and symmetric LDPC good codes.|Tali Kaufman,Alexander Lubotzky|6|6|0|2
+28|Approximation algorithms for semi-random partitioning problems.|Konstantin Makarychev,Yury Makarychev,Aravindan Vijayaraghavan|23|23|0|6
+29|A near-linear time ε-approximation algorithm for geometric bipartite matching.|R. Sharathkumar,Pankaj K. Agarwal|n/a
+30|Using petal-decompositions to build a low stretch spanning tree.|Ittai Abraham,Ofer Neiman|51|49|0|4
+31|Improved smoothed analysis of multiobjective optimization.|Tobias Brunsch,Heiko Röglin|12|12|0|4
+32|Prior-free auctions with ordered bidders.|Stefano Leonardi,Tim Roughgarden|11|11|0|3
+33|On the limits of black-box reductions in mechanism design.|Shuchi Chawla,Nicole Immorlica,Brendan Lucier|15|15|0|3
+34|Budget feasible mechanism design: from prior-free to bayesian.|Xiaohui Bei,Ning Chen,Nick Gravin,Pinyan Lu|23|23|0|5
+35|An algorithmic characterization of multi-dimensional mechanisms.|Yang Cai,Constantinos Daskalakis,S. Matthew Weinberg|61|61|0|16
+36|Tight bounds on computing error-correcting codes by bounded-depth circuits with arbitrary gates.|Anna Gál,Kristoffer Arnsfelt Hansen,Michal Koucký,Pavel Pudlák,Emanuele Viola|12|12|0|1
+37|Tight bounds for monotone switching networks via fourier analysis.|Siu Man Chan,Aaron Potechin|12|12|0|4
+38|Interactive information complexity.|Mark Braverman|76|71|0|15
+39|The multiparty communication complexity of set disjointness.|Alexander A. Sherstov|34|33|0|6
+40|Fast matrix rank algorithms and applications.|Ho Yee Cheung,Tsz Chiu Kwok,Lap Chi Lau|21|18|0|3
+41|Nearly optimal sparse fourier transform.|Haitham Hassanieh,Piotr Indyk,Dina Katabi,Eric Price|115|112|0|24
+42|Polynomial time algorithms for multi-type branching processesand stochastic context-free grammars.|Kousha Etessami,Alistair Stewart,Mihalis Yannakakis|15|14|0|8
+43|Optimal online buffer scheduling for block devices.|Anna Adamaszek,Artur Czumaj,Matthias Englert,Harald Räcke|7|7|0|0
+44|Jacobian hits circuits: hitting-sets, lower bounds for depth-D occur-k formulas & depth-3 transcendence degree-k circuits.|Manindra Agrawal,Chandan Saha,Ramprasad Saptharishi,Nitin Saxena|36|35|0|7
+45|Separating multilinear branching programs and formulas.|Zeev Dvir,Guillaume Malod,Sylvain Perifel,Amir Yehudayoff|10|9|0|1
+46|Reconstruction of depth-4 multilinear circuits with top fan-in 2.|Ankit Gupta,Neeraj Kayal,Satyanarayana V. Lokam|9|8|0|2
+47|Affine projections of polynomials: extended abstract.|Neeraj Kayal|n/a
+48|The traveling salesman problem: low-dimensionality implies a polynomial time approximation scheme.|Yair Bartal,Lee-Ad Gottlieb,Robert Krauthgamer|24|22|0|8
+49|On vertex sparsifiers with Steiner nodes.|Julia Chuzhoy|14|14|0|2
+50|Approximation algorithms and hardness of integral concurrent flow.|Parinya Chalermsook,Julia Chuzhoy,Alina Ene,Shi Li|1|1|0|1
+51|Learning poisson binomial distributions.|Constantinos Daskalakis,Ilias Diakonikolas,Rocco A. Servedio|32|30|0|17
+52|Nearly optimal solutions for the chow parameters problem and low-weight approximation of halfspaces.|Anindya De,Ilias Diakonikolas,Vitaly Feldman,Rocco A. Servedio|15|15|0|6
+53|Making polynomials robust to noise.|Alexander A. Sherstov|11|11|0|2
+54|Competitive contagion in networks.|Sanjeev Goyal,Michael Kearns|104|101|0|4
+55|Finding red balloons with split contracts: robustness to individuals' selfishness.|Manuel Cebrián,Lorenzo Coviello,Andrea Vattani,Panagiotis Voulgaris|19|19|0|8
+56|An analysis of one-dimensional schelling segregation.|Christina Brandt,Nicole Immorlica,Gautam Kamath,Robert Kleinberg|21|21|0|1
+57|Pseudorandom generators with long stretch and low locality from random local one-way functions.|Benny Applebaum|29|29|0|4
+58|Characterizing pseudoentropy and simplifying pseudorandom generator constructions.|Salil P. Vadhan,Colin Jia Zheng|37|35|0|3
+59|Design extractors, non-malleable condensers and privacy amplification.|Xin Li|14|14|0|5
+60|Routing in undirected graphs with constant congestion.|Julia Chuzhoy|20|18|0|8
+61|Improving christofides' algorithm for the s-t path TSP.|Hyung-Chan An,Robert Kleinberg,David B. Shmoys|43|40|0|0
+62|Multiplying matrices faster than coppersmith-winograd.|Virginia Vassilevska Williams|395|381|0|12
+63|Catching the k-NAESAT threshold.|Amin Coja-Oghlan,Konstantinos Panagiotou|22|18|0|6
+64|Complexity of counting CSP with complex weights.|Jin-Yi Cai,Xi Chen|35|33|0|12
+65|The freezing threshold for k-colourings of a random graph.|Michael Molloy|26|23|0|4
+66|Robust satisfiability of constraint satisfaction problems.|Libor Barto,Marcin Kozik|28|27|0|4
+67|Tight bounds for distributed functional monitoring.|David P. Woodruff,Qin Zhang|46|45|0|17
+68|Global computation in a poorly connected world: fast rumor spreading with no dependence on conductance.|Keren Censor-Hillel,Bernhard Haeupler,Jonathan A. Kelner,Petar Maymounkov|37|35|0|11
+69|Tight time-space tradeoff for mutual exclusion.|Nikhil Bansal,Vibhor Bhatt,Prasad Jayanti,Ranganath Kondapally|0|0|0|0
+70|A tight RMR lower bound for randomized mutual exclusion.|George Giakkoupis,Philipp Woelfel|13|13|0|7
+71|A complementary pivot algorithm for markets under separable, piecewise-linear concave utilities.|Jugal Garg,Ruta Mehta,Milind A. Sohoni,Vijay V. Vazirani|15|15|0|12
+72|Rational proofs.|Pablo Daniel Azar,Silvio Micali|12|9|0|4
+73|Minimax option pricing meets black-scholes in the limit.|Jacob Abernethy,Rafael M. Frongillo,Andre Wibisono|14|13|0|4
+74|A quantitative gibbard-satterthwaite theorem without neutrality.|Elchanan Mossel,Miklós Z. Rácz|21|21|0|2
+75|Monotone expansion.|Jean Bourgain,Amir Yehudayoff|n/a
+76|Nearly complete graphs decomposable into large induced matchings and their applications.|Noga Alon,Ankur Moitra,Benny Sudakov|8|8|0|1
+77|Probabilistic existence of rigid combinatorial structures.|Greg Kuperberg,Shachar Lovett,Ron Peled|12|12|0|4
+78|From query complexity to computational complexity.|Shahar Dobzinski,Jan Vondrák|18|18|0|2
+79|Multi-way spectral partitioning and higher-order cheeger inequalities.|James R. Lee,Shayan Oveis Gharan,Luca Trevisan|87|83|0|7
+80|Many sparse cuts via higher eigenvalues.|Anand Louis,Prasad Raghavendra,Prasad Tetali,Santosh Vempala|42|41|0|3
+81|Approximating the exponential, the lanczos method and an Õ(m)-time spectral algorithm for balanced separator.|Lorenzo Orecchia,Sushant Sachdeva,Nisheeth K. Vishnoi|31|30|0|12
+82|Matroids and integrality gaps for hypergraphic steiner tree relaxations.|Michel X. Goemans,Neil Olver,Thomas Rothvoß,Rico Zenklusen|13|13|0|0
+83|Strict fibonacci heaps.|Gerth Stølting Brodal,George Lagogiannis,Robert Endre Tarjan|17|17|0|5
+84|Tight lower bounds for the online labeling problem.|Jan Bulánek,Michal Koucký,Michael E. Saks|8|8|0|3
+85|Fully dynamic approximate distance oracles for planar graphs via forbidden-set distance labels.|Ittai Abraham,Shiri Chechik,Cyril Gavoille|9|7|0|4
+86|On-the-fly multiparty computation on the cloud via multikey fully homomorphic encryption.|Adriana López-Alt,Eran Tromer,Vinod Vaikuntanathan|202|184|1|4
+87|Multiparty computation secure against continual memory leakage.|Elette Boyle,Shafi Goldwasser,Abhishek Jain,Yael Tauman Kalai|24|23|0|6
+88|Beating randomized response on incoherent matrices.|Moritz Hardt,Aaron Roth|35|35|0|8
+89|Unconditional differentially private mechanisms for linear queries.|Aditya Bhaskara,Daniel Dadush,Ravishankar Krishnaswamy,Kunal Talwar|18|18|0|0
+90|Optimal private halfspace counting via discrepancy.|S. Muthukrishnan,Aleksandar Nikolov|22|22|0|7

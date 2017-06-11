@@ -1,0 +1,84 @@
+83
+1|Proceedings of the 17th International Conference on Extending Database Technology, EDBT 2014, Athens, Greece, March 24-28, 2014.|Sihem Amer-Yahia,Vassilis Christophides,Anastasios Kementsietsidis,Minos N. Garofalakis,Stratos Idreos,Vincent Leroy|n/a
+2|Advances in Database Technology - EDBT 2014.|n/a
+3|PStorM: Profile Storage and Matching for Feedback-Based Tuning of MapReduce Jobs.|Mostafa Ead,Herodotos Herodotou,Ashraf Aboulnaga,Shivnath Babu|4|4|0|0
+4|Optimization Techniques for "Scaling Down" Hadoop on Multi-Core, Shared-Memory Systems.|K. Ashwin Kumar,Jonathan Gluck,Amol Deshpande,Jimmy Lin|n/a
+5|Redoop: Supporting Recurring Queries in Hadoop.|Chuan Lei,Elke A. Rundensteiner,Mohamed Y. Eltabakh|2|2|0|2
+6|Efficient Skyline Computation in MapReduce.|Kasper Mullesgaard,Jens Laurits Pederseny,Hua Lu,Yongluan Zhou|11|11|0|2
+7|Projected Clustering for Huge Data Sets in MapReduce.|Sergej Fries,Stephan Wels,Thomas Seidl|2|1|0|0
+8|Efficient and Flexible Index Access in MapReduce.|Zhao Cao,Shimin Chen,Dongzhe Ma,Jianhua Feng,Min Wang|4|4|0|0
+9|JISC: Adaptive Stream Processing Using Just-In-Time State Completion.|Ahmed M. Aly,Walid G. Aref,Mourad Ouzzani,Hosam M. Mahmoud|1|0|0|0
+10|Adaptive Fault-Tolerance for Dynamic Resource Provisioning in Distributed Stream Processing Systems.|Paolo Bellavista,Antonio Corradi,Spyros Kotoulas,Andrea Reale|n/a
+11|Adapting Tree Structures for Processing with SIMD Instructions.|Steffen Zeuch,Johann-Christoph Freytag,Frank Huber|1|1|0|0
+12|Contender: A Resource Modeling Approach for Concurrent Query Performance Prediction.|Jennie Duggan,Olga Papaemmanouil,Ugur Çetintemel,Eli Upfal|3|2|0|2
+13|CAQE: A Contract Driven Approach to Processing Concurrent Decision Support Queries.|Venkatesh Raghavan,Elke A. Rundensteiner|n/a
+14|Multi-Query Diversification in Microblogging Posts.|Shiwen Cheng,Anastasios Arvanitis,Marek Chrobak,Vagelis Hristidis|5|5|0|1
+15|Query-Based Why-Not Provenance with NedExplain.|Nicole Bidoit,Melanie Herschel,Katerina Tzompanaki|19|17|0|10
+16|Corroborating Facts from Affirmative Statements.|Minji Wu,Amélie Marian|n/a
+17|Overcoming Semantic Drift in Information Extraction.|Zhixu Li,Hongsong Li,Haixun Wang,Yi Yang,Xiangliang Zhang,Xiaofang Zhou|2|2|0|0
+18|COLARM: Cost-based Optimization for Localized Association Rule Mining.|Abhishek Mukherji,Elke A. Rundensteiner,Matthew O. Ward|1|1|0|1
+19|Fast Mining of Interesting Phrases from Subsets of Text Corpora.|Deepak P,Atreyee Dey,Debapriyo Majumdar|n/a
+20|Sequence Pattern Matching over Time-Series Data with Temporal Uncertainty.|Yongluan Zhou,Chunyang Ma,Qingsong Guo,Lidan Shou,Gang Chen|2|2|0|1
+21|Spatial Data Management Challenges in the Simulation Sciences.|Thomas Heinis,Farhan Tauheed,Anastasia Ailamaki|2|2|0|1
+22|What Can Programming Languages Say About Data Exchange?|Michael Johnson,Jorge Pérez,James F. Terwilliger|1|1|0|1
+23|Toward Hardware-Sensitive Database Operations.|David Broneske,Sebastian Breß,Max Heimel,Gunter Saake|n/a
+24|Distributed Spatial Keyword Querying on Road Networks.|Siqiang Luo,Yifeng Luo,Shuigeng Zhou,Gao Cong,Jihong Guan|6|6|0|0
+25|Continuous Quantile Query Processing in Wireless Sensor Networks.|Johannes Niedermayer,Mario A. Nascimento,Matthias Renz,Peer Kröger,Hans-Peter Kriegel|0|0|0|0
+26|RIPPLE: A Scalable Framework for Distributed Processing of Rank Queries.|George Tsatsanifos,Dimitris Sacharidis,Timos K. Sellis|2|1|0|0
+27|HCS: Hierarchical Cut Selection for Efficiently Processing Queries on Data Columns using Hierarchical Bitmap Indices.|Parth Nagarkar,K. Selçuk Candan|3|3|0|2
+28|Adaptive String Dictionary Compression in In-Memory Column-Store Database Systems.|Ingo Müller,Cornelius Ratsch,Franz Färber|3|3|0|0
+29|Online Topic-aware Influence Maximization Queries.|Çigdem Aslay,Nicola Barbieri,Francesco Bonchi,Ricardo A. Baeza-Yates|12|9|0|1
+30|Determining Essential Statistics for Cost Based Optimization of an ETL Workflow.|Ramanujam Halasipuram,Prasad M. Deshpande,Sriram Padmanabhan|n/a
+31|CLUDE: An Efficient Algorithm for LU Decomposition Over a Sequence of Evolving Graphs.|Chenghui Ren,Luyi Mo,Ben Kao,Reynold Cheng,David W. Cheung|0|0|0|0
+32|Model Selection for Semi-Supervised Clustering.|Mojgan Pourrajabi,Davoud Moulavi,Ricardo J. G. B. Campello,Arthur Zimek,Jörg Sander,Randy Goebel|n/a
+33|Spatial Partitioning of Large Urban Road Networks.|Tarique Anwar,Chengfei Liu,Hai L. Vu,Christopher Leckie|2|2|0|1
+34|ENFrame: A Platform for Processing Probabilistic Data.|Sebastiaan J. van Schaik,Dan Olteanu,Robert Fink|7|6|0|3
+35|Diversified Spatial Keyword Search On Road Networks.|Chengyuan Zhang,Ying Zhang,Wenjie Zhang,Xuemin Lin,Muhammad Aamir Cheema,Xiaoyang Wang|10|9|0|2
+36|Cleaning trajectory data of RFID-monitored objects through conditioning under integrity constraints.|Bettina Fazzinga,Sergio Flesca,Filippo Furfaro,Francesco Parisi|n/a
+37|Multi-Criteria Optimal Location Query with Overlapping Voronoi Diagrams.|Ji Zhang,Wei-Shinn Ku,Min-Te Sun,Xiao Qin,Hua Lu|1|1|0|0
+38|Efficient Concept-based Document Ranking.|Anastasios Arvanitis,Matthew T. Wiley,Vagelis Hristidis|0|0|0|0
+39|Metric-Based Top-k Dominating Queries.|Eleftherios Tiakas,George Valkanas,Apostolos N. Papadopoulos,Yannis Manolopoulos|6|4|0|2
+40|A Unified Framework for Efficiently Processing Ranking Related Queries.|Muhammad Aamir Cheema,Zhitao Shen,Xuemin Lin,Wenjie Zhang|7|5|0|4
+41|Exploiting the query structure for efficient join ordering in SPARQL queries.|Andrey Gubichev,Thomas Neumann|15|14|0|2
+42|Interactive Inference of Join Queries.|Angela Bonifati,Radu Ciucanu,Slawek Staworko|13|12|0|9
+43|Processing Interval Joins On Map-Reduce.|Bhupesh Chawda,Himanshu Gupta,Sumit Negi,Tanveer A. Faruquie,L. Venkata Subramaniam,Mukesh K. Mohania|3|2|0|0
+44|Differentially Private Synthesization of Multi-Dimensional Data using Copula Functions.|Haoran Li,Li Xiong,Xiaoqian Jiang|6|6|0|6
+45|Privacy-Preserving Query Execution using a Decentralized Architecture and Tamper Resistant Hardware.|Quoc-Cuong To,Benjamin Nguyen,Philippe Pucheral|11|10|0|7
+46|Privacy Preserving Similarity Evaluation of Time Series Data.|Haohan Zhu,Xianrui Meng,George Kollios|4|4|0|1
+47|Reachability Queries in Very Large Graphs: A Fast Refined Online Search Approach.|Renê Rodrigues Veloso,Loïc Cerf,Wagner Meira Jr.,Mohammed J. Zaki|5|3|0|0
+48|Graph Analytics on Massive Collections of Small Graphs.|Dritan Bleco,Yannis Kotidis|1|1|0|0
+49|Fast Reliability Search in Uncertain Graphs.|Arijit Khan,Francesco Bonchi,Aristides Gionis,Francesco Gullo|10|9|0|2
+50|Distance oracles in edge-labeled graphs.|Francesco Bonchi,Aristides Gionis,Francesco Gullo,Antti Ukkonen|3|3|0|1
+51|Privacy Preserving Estimation of Social Influence.|Tamir Tassa,Francesco Bonchi|2|1|0|2
+52|A Privacy-Preserving Framework for Personalized, Social Recommendations.|Zach Jorgensen,Ting Yu|5|5|0|1
+53|L-opacity: Linkage-Aware Graph Anonymization.|Sadegh Nobari,Panagiotis Karras,Hweehwa Pang,Stéphane Bressan|5|4|0|0
+54|Privacy Risk in Anonymized Heterogeneous Information Networks.|Aston Zhang,Xing Xie,Kevin Chen-Chuan Chang,Carl A. Gunter,Jiawei Han,XiaoFeng Wang|7|7|0|2
+55|A Condensation Approach to Privacy Preserving Data Mining.|Charu C. Aggarwal,Philip S. Yu|343|206|6|21
+56|Mindmap-Inspired Semantic Personal Information Management.|Jenny Rompa,Christos Tryfonopoulos,Costas Vassilakis,George Lepouras|0|0|0|0
+57|READ: Rapid data Exploration, Analysis and Discovery.|Udayan Khurana,Srinivasan Parthasarathy,Deepak S. Turaga|n/a
+58|Demonstrating Self-Learning Algorithm Adaptivity in a Hardware-Oblivious Database Engine.|Max Heimel,Filip Haase,Martin Meinke,Sebastian Breß,Michael Saecker,Volker Markl|n/a
+59|SECRETA: A System for Evaluating and Comparing RElational and Transaction Anonymization algorithms.|Giorgos Poulis,Aris Gkoulalas-Divanis,Grigorios Loukides,Spiros Skiadopoulos,Christos Tryfonopoulos|6|6|0|1
+60|SIAS-V in Action: Snapshot Isolation Append Storage - Vectors on Flash.|Robert Gottstein,Thorsten Peter,Ilia Petrov,Alejandro P. Buchmann|0|0|0|0
+61|inWalk: Interactive and Thematic Walks inside the Web of Data.|Silvana Castano,Alfio Ferrara,Stefano Montanelli|5|5|0|0
+62|KIEV: a Tool for Extracting Semantic Relations from the World Wide Web.|Naimdjon Takhirov,Fabien Duchateau,Trond Aalberg,Ingeborg T. Sølvberg|1|1|0|0
+63|AGGREGO SEARCH: Interactive Keyword Query Construction.|Grégory Smits,Olivier Pivert,Hélène Jaudoin,François Paulus|3|3|0|1
+64|R2G: a Tool for Migrating Relations to Graphs.|Roberto De Virgilio,Antonio Maccioni,Riccardo Torlone|4|4|0|2
+65|Large-scale Semantic Profile Extraction.|Michael N. Gubanov,Michael Stonebraker|1|1|0|1
+66|ALIAS: Author Disambiguation in Microsoft Academic Search Engine Dataset.|Michael Pitts,Swapna Savvana,Senjuti Basu Roy,Vani Mandava|3|3|0|0
+67|gst-Store: An Engine for Large RDF Graph Integrating Spatiotemporal Information.|Dong Wang,Lei Zou,Dongyan Zhao|0|0|0|0
+68|Learn2Learn: A Visual Educational System for Study Planning.|Jishang Wei,Georgia Koutrika,Shanchan Wu|n/a
+69|Helping Teenagers Relieve Psychological Pressures: A Micro-blog Based System.|Qi Li,Yuanyuan Xue,Jia Jia,Ling Feng|5|4|0|4
+70|WePIGE: The WebLab Provenance Information Generator and Explorer.|Clément Caron,Bernd Amann,Camélia Constantin,Patrick Giroux|n/a
+71|Learning Event Patterns for Gesture Detection.|Felix Beier,Nedal Alaqraa,Yuting Lai,Kai-Uwe Sattler|0|0|0|0
+72|Tutorial: Managing Personal Data with Strong Privacy Guarantees.|Nicolas Anciaux,Benjamin Nguyen,Iulian Sandu Popa|1|1|0|1
+73|Tutorial: An In-Depth Look at Modern Database Systems.|C. Mohan|n/a
+74|Tutorial: Formal Methods for Event Processing.|Alexander Artikis,Georgios Paliouras|2|1|0|0
+75|Talking to the Database in a Semantically Rich Way.|Henrietta Dombrovskaya,Richard Lee|0|0|0|0
+76|SMILE: A Data Sharing Platform for Mobile Apps in the Cloud.|Jagan Sankaranarayanan,Hakan Hacigümüs,Haopeng Zhang,Mohamed Sarwat|n/a
+77|Diff-Index: Differentiated Index in Distributed Log-Structured Data Stores.|Wei Tan,Sandeep Tata,Yuzhe Tang,Liana L. Fong|6|6|0|4
+78|Heterogeneous Stream Processing and Crowdsourcing for Urban Traffic Management.|Alexander Artikis,Matthias Weidlich,François Schnitzler,Ioannis Boutsis,Thomas Liebig,Nico Piatkowski,Christian Bockermann,Katharina Morik,Vana Kalogeraki,Jakub Marecek,Avigdor Gal,Shie Mannor,Dimitrios Gunopulos,Dermot Kinane|38|34|0|11
+79|On Assigning Implicit Reputation Scores in an Online Labor Marketplace.|Maria Daltayanni,Luca de Alfaro,Panagiotis Papadimitriou,Panayiotis Tsaparas|n/a
+80|Annotating the Behavior of Scientific Modules Using Data Examples: A Practical Approach.|Khalid Belhajjame|3|3|0|1
+81|Benchmarking Bitemporal Database Systems: Ready for the Future or Stuck in the Past?|Martin Kaufmann,Peter M. Fischer,Norman May,Donald Kossmann|5|5|0|2
+82|Business-Intelligence Queries with Order Dependencies in DB2.|Jaroslaw Szlichta,Parke Godfrey,Jarek Gryz,Wenbin Ma,Weinan Qiu,Calisto Zuzarte|n/a
+83|A Tale of Two Graphs: Property Graphs as RDF in Oracle.|Souripriya Das,Jagannathan Srinivasan,Matthew Perry,Eugene Inseok Chong,Jayanta Banerjee|6|6|0|0

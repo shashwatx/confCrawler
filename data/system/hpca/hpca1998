@@ -1,0 +1,33 @@
+32
+1|Proceedings of the Fourth International Symposium on High-Performance Computer Architecture, Las Vegas, Nevada, USA, January 31 - February 4, 1998.|n/a
+2|The Potential for Using Thread-Level Data Speculation to Facilitate Automatic Parallelization.|J. Gregory Steffan,Todd C. Mowry|351|80|18|9
+3|Control Speculation in Multithreaded Processors through Dynamic Loop Detection.|Jordi Tubella,Antonio González|90|24|2|1
+4|Performance Study of a Concurrent Multithreaded Processor.|Jenn-Yuan Tsai,Zhenzhen Jiang,Eric Ness,Pen-Chung Yew|56|3|23|1
+5|The Sensitivity of Communication Mechanisms to Bandwidth and Latency.|Frederic T. Chong,Rajeev Barua,Fredrik Dahlgren,John Kubiatowicz,Anant Agarwal|19|1|0|0
+6|Credit-Flow-Controlled ATM for MP Interconnection: The ATLAS I Single-Chip ATM Switch.|Manolis Katevenis,Dimitrios N. Serpanos,Emmanuel Spyridakis|38|13|0|6
+7|A Very Efficient Distributed Deadlock Detection Mechanism for Wormhole Networks.|Pedro López,Juan Miguel Martínez,José Duato|51|16|0|12
+8|Challenging Applications on Fast Networks.|Koen Langendoen,Rutger F. H. Hofman,Henri E. Bal|13|1|0|2
+9|Architectural Implications of a Family of Irregular Applications.|David R. O'Hallaron,Jonathan Richard Shewchuk,Thomas R. Gross|23|0|0|3
+10|The Architectural Costs of Streaming I/O: A Comparison of Workstations, Clusters, and SMPs.|Remzi H. Arpaci-Dusseau,Andrea C. Arpaci-Dusseau,David E. Culler,Joseph M. Hellerstein,David A. Patterson|30|5|0|2
+11|The Effectiveness of SRAM Network Caches in Clustered DSMs.|Adrian Moga,Michel Dubois|42|4|0|3
+12|Home-Based SVM Protocols for SMP Clusters: Design and Performance.|Rudrajit Samanta,Angelos Bilas,Liviu Iftode,Jaswinder Pal Singh|106|4|0|12
+13|Fine-Grain Software Distributed Shared Memory on SMP Clusters.|Daniel J. Scales,Kourosh Gharachorloo,Anshu Aggarwal|98|7|10|3
+14|PRISM: An Integrated Architecture for Scalable Shared Memory.|Kattamuri Ekanadham,Beng-Hong Lim,Pratap Pattnaik,Marc Snir|22|5|3|0
+15|Enhancing Memory Use in Simple Coma: Multiplexed Simple Coma.|Sujoy Basu,Josep Torrellas|13|2|0|3
+16|Hardware for Speculative Run-Time Parallelization in Distributed Shared-Memory Multiprocessors.|Ye Zhang,Lawrence Rauchwerger,Josep Torrellas|96|20|2|9
+17|Virtual-Physical Registers.|Antonio González,José González,Mateo Valero|129|21|5|7
+18|Supporting Highly-Speculative Execution via Adaptive Branch Trees.|Tien-Fu Chen|14|1|1|0
+19|Speculative Versioning Cache.|Sridhar Gopal,T. N. Vijaykumar,James E. Smith,Gurindar S. Sohi|313|74|26|9
+20|The Impact of Data Transfer and Buffering Alternatives on Network Interface Design.|Shubhendu S. Mukherjee,Mark D. Hill|28|4|2|1
+21|Address Translation Mechanisms In Network Interfaces.|Ioannis Schoinas,Mark D. Hill|41|8|1|2
+22|Exploiting Two-Case Delivery for Fast Protected Messaging.|Kenneth Mackenzie,John Kubiatowicz,Matthew Frank,Walter Lee,Victor Lee,Anant Agarwal,M. Frans Kaashoek|28|6|0|3
+23|Temporal-Based Procedure Reordering for Improved Instruction Cache Performance.|John Kalamatianos,David R. Kaeli|44|11|3|1
+24|Performance Evaluation of Tiling for the Register Level.|Marta Jiménez,José M. Llabería,Agustin Fernández|8|0|0|0
+25|Treegion Scheduling for Wide Issue Processors.|William A. Havanki,Sanjeev Banerjia,Thomas M. Conte|82|12|0|1
+26|Communication Across Fault-Containment Firewalls on the SGI Origin.|Kaushik Ghosh,Allan J. Christie|1|0|0|0
+27|Efficiently Adapting to Sharing Patterns in Software DSMs.|Luiz Rodolpho Monnerat,Ricardo Bianchini|87|6|0|9
+28|Comparative Evaluation of Latency Tolerance Techniques for Software Distributed Shared Memory.|Todd C. Mowy,Charles Q. C. Chan,Adley K. W. Lo|51|4|4|2
+29|Using Multicast and Multithreading to Reduce Communication in Software DSM Systems.|Evan Speight,John K. Bennett|48|2|0|2
+30|FPGA Based Custom Computing Machines for Irregular Problems.|David Abramson,Paul Logothetis,Adam Postula,Marcus Randall|13|3|0|1
+31|Non-Stalling CounterFlow Architecture.|Michael F. Miller,Kenneth J. Janik,Shih-Lien Lu|n/a
+32|Partial Sampling with Reverse State Reconstruction: A New Technique for Branch Predictor Performance Estimation.|Darren Erik Vengroff,Guang R. Gao|5|1|0|0

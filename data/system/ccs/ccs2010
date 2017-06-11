@@ -1,0 +1,100 @@
+99
+1|Proceedings of the 17th ACM Conference on Computer and Communications Security, CCS 2010, Chicago, Illinois, USA, October 4-8, 2010.|Ehab Al-Shaer,Angelos D. Keromytis,Vitaly Shmatikov|n/a
+2|Security analysis of India's electronic voting machines.|Scott Wolchok,Eric Wustrow,J. Alex Halderman,Hari K. Prasad,Arun Kankipati,Sai Krishna Sakhamuri,Vasavya Yagati,Rop Gonggrijp|57|54|0|4
+3|Dissecting one click frauds.|Nicolas Christin,Sally S. Yanagihara,Keisuke Kamataki|35|34|0|10
+4|@spam: the underground on 140 characters or less.|Chris Grier,Kurt Thomas,Vern Paxson,Chao Michael Zhang|337|324|0|11
+5|HyperSentry: enabling stealthy in-context measurement of hypervisor integrity.|Ahmed M. Azab,Peng Ning,Zhi Wang,Xuxian Jiang,Xiaolan Zhang,Nathan C. Skalsky|196|193|1|7
+6|Trail of bytes: efficient support for forensic analysis.|Srinivas Krishnan,Kevin Z. Snow,Fabian Monrose|30|28|1|1
+7|Survivable key compromise in software update systems.|Justin Samuel,Nick Mathewson,Justin Cappos,Roger Dingledine|24|23|1|0
+8|A methodology for empirical analysis of permission-based security models and its application to android.|David Barrera,Hilmi Günes Kayacik,Paul C. van Oorschot,Anil Somayaji|321|310|0|3
+9|Mobile location tracking in metro areas: malnets and others.|Nathaniel Husted,Steven Myers|37|37|0|3
+10|On pairing constrained wireless devices based on secrecy of auxiliary channels: the case of acoustic eavesdropping.|Tzipora Halevi,Nitesh Saxena|20|19|0|6
+11|PinDr0p: using single-ended audio features to determine call provenance.|Vijay A. Balasubramaniyan,Aamir Poonawalla,Mustaque Ahamad,Michael T. Hunter,Patrick Traynor|23|23|0|1
+12|Building efficient fully collusion-resilient traitor tracing and revocation schemes.|Sanjam Garg,Abishek Kumarasubramanian,Amit Sahai,Brent Waters|41|39|0|6
+13|Algebraic pseudorandom functions with improved efficiency from the augmented cascade.|Dan Boneh,Hart William Montgomery,Ananth Raghunathan|26|25|0|0
+14|Practical leakage-resilient pseudorandom generators.|Yu Yu,François-Xavier Standaert,Olivier Pereira,Moti Yung|55|48|0|21
+15|Practical leakage-resilient identity-based encryption from simple assumptions.|Sherman S. M. Chow,Yevgeniy Dodis,Yannis Rouselakis,Brent Waters|96|91|0|6
+16|Testing metrics for password creation policies by attacking large sets of revealed passwords.|Matt Weir,Sudhir Aggarwal,Michael P. Collins,Henry Stern|185|176|0|2
+17|The security of modern password expiration: an algorithmic framework and empirical analysis.|Yinqian Zhang,Fabian Monrose,Michael K. Reiter|82|76|2|2
+18|Attacks and design of image recognition CAPTCHAs.|Bin B. Zhu,Jeff Yan,Qiujie Li,Chao Yang,Jia Liu,Ning Xu,Meng Yi,Kaiwei Cai|102|95|1|6
+19|Robusta: taming the native beast of the JVM.|Joseph Siefers,Gang Tan,Greg Morrisett|33|31|0|9
+20|Retaining sandbox containment despite bugs in privileged memory-safe code.|Justin Cappos,Armon Dadgar,Jeff Rasley,Justin Samuel,Ivan Beschastnikh,Cosmin Barsan,Arvind Krishnamurthy,Thomas E. Anderson|34|33|1|13
+21|A control point for reducing root abuse of file-system privileges.|Glenn Wurster,Paul C. van Oorschot|8|7|0|1
+22|Modeling attacks on physical unclonable functions.|Ulrich Rührmair,Frank Sehnke,Jan Sölter,Gideon Dror,Srinivas Devadas,Jürgen Schmidhuber|272|266|3|9
+23|Dismantling SecureMemory, CryptoMemory and CryptoRF.|Flavio D. Garcia,Peter van Rossum,Roel Verdult,Ronny Wichers Schreur|33|33|0|9
+24|Attacking and fixing PKCS#11 security tokens.|Matteo Bortolozzo,Matteo Centenaro,Riccardo Focardi,Graham Steel|77|75|0|5
+25|An empirical study of privacy-violating information flows in JavaScript web applications.|Dongseok Jang,Ranjit Jhala,Sorin Lerner,Hovav Shacham|146|143|0|2
+26|DIFC programs by automatic instrumentation.|William R. Harris,Somesh Jha,Thomas W. Reps|22|22|3|7
+27|Predictive black-box mitigation of timing channels.|Aslan Askarov,Danfeng Zhang,Andrew C. Myers|76|75|0|7
+28|In search of an anonymous and secure lookup: attacks on structured peer-to-peer anonymous communication systems.|Qiyan Wang,Prateek Mittal,Nikita Borisov|28|27|0|8
+29|Recruiting new tor relays with BRAIDS.|Rob Jansen,Nicholas Hopper,Yongdae Kim|54|53|0|12
+30|An improved algorithm for tor circuit scheduling.|Can Tang,Ian Goldberg|61|60|0|6
+31|Dissent: accountable anonymous group messaging.|Henry Corrigan-Gibbs,Bryan Ford|72|69|0|16
+32|Abstraction by set-membership: verifying security protocols and web services with databases.|Sebastian Mödersheim|32|31|0|0
+33|Developing security protocols by refinement.|Christoph Sprenger,David A. Basin|20|19|0|3
+34|Computational indistinguishability logic.|Gilles Barthe,Marion Daubignard,Bruce M. Kapron,Yassine Lakhnech|41|39|0|10
+35|Computationally sound verification of source code.|Michael Backes,Matteo Maffei,Dominique Unruh|47|44|0|18
+36|AccessMiner: using system-centric models for malware protection.|Andrea Lanzi,Davide Balzarotti,Christopher Kruegel,Mihai Christodorescu,Engin Kirda|93|90|0|3
+37|Input generation via decomposition and re-stitching: finding bugs in Malware.|Juan Caballero,Pongsin Poosankam,Stephen McCamant,Domagoj Babic,Dawn Song|43|41|0|7
+38|Inference and analysis of formal models of botnet command and control protocols.|Chia Yuan Cho,Domagoj Babic,Eui Chul Richard Shin,Dawn Song|97|94|0|2
+39|BLADE: an attack-agnostic approach for preventing drive-by malware infections.|Long Lu,Vinod Yegneswaran,Phillip A. Porras,Wenke Lee|118|118|2|7
+40|TASTY: tool for automating secure two-party computations.|Wilko Henecka,Stefan Kögl,Ahmad-Reza Sadeghi,Thomas Schneider,Immo Wehrenberg|208|201|3|21
+41|Worry-free encryption: functional encryption with public keys.|Amit Sahai,Hakan Seyalioglu|63|58|0|7
+42|Synchronized aggregate signatures: new definitions, constructions and applications.|Jae Hyun Ahn,Matthew Green,Susan Hohenberger|28|26|0|2
+43|Secure text processing with applications to private DNA matching.|Jonathan Katz,Lior Malka|53|52|3|0
+44|On the (in)security of IPsec in MAC-then-encrypt configurations.|Jean Paul Degabriele,Kenneth G. Paterson|43|43|1|8
+45|On the soundness of authenticate-then-encrypt: formalizing the malleability of symmetric encryption.|Ueli Maurer,Björn Tackmann|33|32|1|7
+46|A new framework for efficient password-based authenticated key exchange.|Adam Groce,Jonathan Katz|47|47|0|2
+47|Accountability: definition and relationship to verifiability.|Ralf Küsters,Tomasz Truderung,Andreas Vogt|71|70|0|7
+48|Mimimorphism: a new approach to binary code obfuscation.|Zhenyu Wu,Steven Gianvecchio,Mengjun Xie,Haining Wang|22|21|0|0
+49|Platform-independent programs.|Sang Kil Cha,Brian Pak,David Brumley,Richard Jay Lipton|9|9|0|2
+50|Return-oriented programming without returns.|Stephen Checkoway,Lucas Davi,Alexandra Dmitrienko,Ahmad-Reza Sadeghi,Hovav Shacham,Marcel Winandy|238|230|5|16
+51|DieHarder: securing the heap.|Gene Novark,Emery D. Berger|66|65|0|3
+52|Symbolic security analysis of ruby-on-rails web applications.|Avik Chaudhuri,Jeffrey S. Foster|39|36|0|0
+53|Sidebuster: automated detection and quantification of side-channel leaks in web application development.|Kehuan Zhang,Zhou Li,Rui Wang,XiaoFeng Wang,Shuo Chen|26|26|0|0
+54|NoTamper: automatic blackbox detection of parameter tampering opportunities in web applications.|Prithvi Bisht,Timothy L. Hinrichs,Nazari Skrupsky,Radoslaw Bobrowicz,V. N. Venkatakrishnan|62|61|0|8
+55|Protecting browsers from cross-origin CSS attacks.|Lin-Shung Huang,Zack Weinberg,Chris Evans,Collin Jackson|35|34|0|0
+56|A privacy recommendation wizard for users of social networking sites.|Lujun Fang,Heedo Kim,Kristen LeFevre,Aaron Tami|32|31|0|2
+57|SecTag: a multi-policy supported secure web tag framework.|Ruixuan Li,Meng Dong,Bin Liu,Jianfeng Lu,Xiaopu Ma,Kai Li|0|0|0|0
+58|Demonstrating cognitive packet network resilience to worm attacks.|Georgia Sakellari,Erol Gelenbe|15|15|0|8
+59|In God we trust all others we monitor.|Patrick Stewin,Jean-Pierre Seifert|4|4|0|2
+60|Enhancing resilience of probabilistic key pre-distribution schemes for WSNs through hash chaining.|Walid Bechkit,Abdelmadjid Bouabdallah,Yacine Challal|5|5|0|3
+61|TAPS: automatically preparing safe SQL queries.|Prithvi Bisht,A. Prasad Sistla,V. N. Venkatakrishnan|2|2|0|1
+62|XACML policy performance evaluation using a flexible load testing framework.|Bernard Butler,Brendan Jennings,Dmitri Botvich|11|11|0|4
+63|Protecting portable storage with host validation.|Kevin R. B. Butler,Stephen E. McLaughlin,Patrick Drew McDaniel|3|3|0|0
+64|Virtual browser: a web-level sandbox to secure third-party JavaScript without sacrificing functionality.|Yinzhi Cao,Zhichun Li,Vaibhav Rastogi,Yan Chen|5|5|0|0
+65|CardSpace in the cloud.|David W. Chadwick,George Inman,Paul Coxwell|2|2|0|1
+66|Secure latency estimation with treeple.|Eric Chan-Tin,Nicholas Hopper|1|1|0|1
+67|TEE: a virtual DRTM based execution environment for secure cloud-end computing.|Weiqi Dai,Hai Jin,Deqing Zou,Shouhuai Xu,Weide Zheng,Lei Shi|15|14|0|3
+68|Laptop theft: a case study on the effectiveness of security mechanisms in open organizations.|Trajce Dimkov,Wolter Pieters,Pieter H. Hartel|9|9|0|6
+69|Information security for sensors by overwhelming random sequences and permutations.|Shlomi Dolev,Niv Gilboa,Marina Kopeetsky,Giuseppe Persiano,Paul G. Spirakis|4|4|0|1
+70|On verifying stateful dataflow processing services in large-scale cloud systems.|Juan Du,Xiaohui Gu,Ting Yu|10|10|0|2
+71|Assessing trust in uncertain information using Bayesian description logic.|Achille Fokoue,Mudhakar Srivatsa,Robert Young|0|0|0|0
+72|Timing attacks on PIN input devices.|Denis Foo Kune,Yongdae Kim|28|28|0|0
+73|Detecting and characterizing social spam campaigns.|Hongyu Gao,Jun Hu,Christo Wilson,Zhichun Li,Yan Chen,Ben Y. Zhao|266|253|0|14
+74|Fingerprinting websites using remote traffic analysis.|Xun Gong,Negar Kiyavash,Nikita Borisov|33|31|0|3
+75|Efficient sensor node authentication via 3GPP mobile communication networks.|Kyusuk Han,Jangseong Kim,Kwangjo Kim,Taeshik Shon|6|6|0|2
+76|Rendezvous tunnel for anonymous publishing.|Ofer Hermoni,Niv Gilboa,Eyal Felstaine,Yuval Elovici,Shlomi Dolev|2|2|0|2
+77|Exploiting social networking sites for spam.|Markus Huber,Martin Mulazzani,Edgar R. Weippl,Gerhard Kitzler,Sigrun Goluch|14|14|0|0
+78|An implementation of event and filter confidentiality in pub/sub systems and its application to e-health.|Mihaela Ion,Giovanni Russello,Bruno Crispo|6|6|0|1
+79|Privacy and robustness for data aggregation in wireless sensor networks.|Marian Kamal Iskander,Adam J. Lee,Daniel Mossé|4|3|0|0
+80|Designing router scheduling policies: a privacy perspective.|Sachin Kadloor,Xun Gong,Negar Kiyavash,Parv Venkitasubramaniam|11|10|0|5
+81|CRAFT: a new secure congestion control architecture.|Dongho Kim,Jerry T. Chiang,Yih-Chun Hu,Adrian Perrig,P. R. Kumar|1|1|0|1
+82|Dialog-based payload aggregation for intrusion detection.|Tobias Limmer,Falko Dressler|4|4|0|2
+83|Protecting location privacy against inference attacks.|Kazuhiro Minami,Nikita Borisov|10|9|0|1
+84|Designs to account for trust in social network-based sybil defenses.|Abedelaziz Mohaisen,Nicholas Hopper,Yongdae Kim|7|7|0|5
+85|Secure encounter-based social networks: requirements, challenges, and designs.|Abedelaziz Mohaisen,Eugene Y. Vasserman,Max Schuchard,Denis Foo Kune,Yongdae Kim|6|6|0|2
+86|Secure online banking on untrusted computers.|Yanlin Peng,Wenji Chen,J. Morris Chang,Yong Guan|2|2|0|0
+87|iFriendU: leveraging 3-cliques to enhance infiltration attacks in online social networks.|Rahul Potharaju,Bogdan Carbunar,Cristina Nita-Rotaru|5|5|0|1
+88|Losing control of the internet: using the data plane to attack the control plane.|Max Schuchard,Abedelaziz Mohaisen,Denis Foo Kune,Nicholas Hopper,Yongdae Kim,Eugene Y. Vasserman|59|55|0|3
+89|Size-based scheduling: a recipe for DDOS?|Abdul Serwadda,Vir V. Phoha,Idris A. Rai|5|5|0|1
+90|User-friendly matching protocol for online social networks.|Qiang Tang|3|3|0|2
+91|Hierarchical attribute-based encryption for fine-grained access control in cloud storage services.|Guojun Wang,Qin Liu,Jie Wu|300|285|2|9
+92|Secure dynamic code generation against spraying.|Tao Wei,Tielei Wang,Lei Duan,Jing Luo|17|17|0|1
+93|Ad hoc broadcast encryption.|Qianhong Wu,Bo Qin,Lei Zhang,Josep Domingo-Ferrer|3|3|0|0
+94|Dynamic window based multihop authentication for WSN.|Lan Yao,Zhiliang Yu,Tie Zhang,Fuxiang Gao|6|6|0|0
+95|Spectrum based fraud detection in social networks.|Xiaowei Ying,Xintao Wu,Daniel Barbará|22|22|0|2
+96|A portable TPM based on USB key.|Dawei Zhang,Zhen Han,Guangwen Yan|7|6|0|0
+97|On efficient ciphertext-policy attribute based encryption and broadcast encryption: extended abstract.|Zhibin Zhou,Dijiang Huang|51|49|0|1
+98|Efficient provable data possession for hybrid clouds.|Yan Zhu,Huaixi Wang,Zexing Hu,Gail-Joon Ahn,Hongxin Hu,Stephen S. Yau|105|100|0|8
+99|A cloud based SIM DRM scheme for the mobile internet.|Peng Zou,Chaokun Wang,Zhang Liu,Jianmin Wang,Jia-Guang Sun|4|4|0|1

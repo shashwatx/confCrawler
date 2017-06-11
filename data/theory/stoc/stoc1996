@@ -1,0 +1,76 @@
+75
+1|Proceedings of the Twenty-Eighth Annual ACM Symposium on the Theory of Computing, Philadelphia, Pennsylvania, USA, May 22-24, 1996.|Gary L. Miller|n/a
+2|The Linear-Array Conjecture in Communication Complexity is False.|Eyal Kushilevitz,Nathan Linial,Rafail Ostrovsky|26|13|0|3
+3|Testing of the Long Code and Hardness for Clique.|Johan Håstad|51|7|0|0
+4|The Space Complexity of Approximating the Frequency Moments.|Noga Alon,Yossi Matias,Mario Szegedy|1405|633|12|12
+5|Deterministic Restrictions in Circuit Complexity.|Shiva Chaudhuri,Jaikumar Radhakrishnan|53|21|0|1
+6|Fast Algorithms for k-Shredders and k-Node Connectivity Augmentation (Extended Abstract).|Joseph Cheriyan,Ramakrishna Thurimella|55|9|0|1
+7|Approximating s-t Minimum Cuts in Õ(n2) Time.|András A. Benczúr,David R. Karger|181|134|0|13
+8|Minimum Cuts in Near-Linear Time.|David R. Karger|192|68|0|13
+9|Deterministic Õ(nm) Time Edge-Splitting in Undirected Graphs.|Hiroshi Nagamochi,Toshihide Ibaraki|52|6|0|25
+10|Evaluation May Be Easier Than Generation (Extended Abstract).|Moni Naor|n/a
+11|The PL Hierarchy Collapses.|Mitsunori Ogihara|34|6|0|9
+12|Convergence Complexity of Optimistic Rate Based Flow Control Algorithms (Extended Abstract).|Yehuda Afek,Yishay Mansour,Zvi Ostfeld|49|9|1|0
+13|Generating Hard Instances of Lattice Problems (Extended Abstract).|Miklós Ajtai|770|421|1|9
+14|Translational Polygon Containment and Minimal Enclosure using Linear Programming Based Restriction.|Victor Milenkovic|35|8|0|9
+15|Pushing Disks Together - The Continuous-Motion Case.|Marshall W. Bern,Amit Sahai|24|7|0|0
+16|Learning Sat-k-DNF Formulas from Membership Queries.|Francesco Bergadano,Dario Catalano,Stefano Varricchio|25|5|0|9
+17|Towards the Learnability of DNF Formulae.|Nader H. Bshouty|3|1|0|2
+18|Noise-Tolerant Learning Near the Information-Theoretic Bound.|Nicolò Cesa-Bianchi,Eli Dichterman,Paul Fischer,Hans-Ulrich Simon|7|1|0|3
+19|Noise-Tolerant Distribution-Free Learning of General Geometric Concepts.|Nader H. Bshouty,Sally A. Goldman,H. David Mathias,Subhash Suri,Hisao Tamaki|27|8|0|5
+20|The Complexity of Matrix Rank and Feasible Systems of Linear Equations (Extended Abstract).|Eric Allender,Robert Beals,Mitsunori Ogihara|104|33|0|17
+21|Computing Roadmaps of Semi-Algebraic Sets (Extended Abstract).|Saugata Basu,Richard Pollack,Marie-Françoise Roy|n/a
+22|Using the Groebner Basis Algorithm to Find Proofs of Unsatisfiability.|Matthew Clegg,Jeff Edmonds,Russell Impagliazzo|248|84|1|14
+23|Sparsity Considerations in Dixon Resultants.|Deepak Kapur,Tushar Saxena|53|4|0|23
+24|Efficient 3-D Range Searching in External Memory.|Darren Erik Vengroff,Jeffrey Scott Vitter|68|17|0|12
+25|Purely Functional Representations of Catenable Sorted Lists.|Haim Kaplan,Robert Endre Tarjan|34|7|0|8
+26|A Fast Quantum Mechanical Algorithm for Database Search.|Lov K. Grover|3464|1480|13|12
+27|Constructing Evolutionary Trees in the Presence of Polymorphic Characters.|Maria Luisa Bonet,Cynthia A. Phillips,Tandy Warnow,Shibu Yooseph|24|3|0|11
+28|Efficient Algorithms for Inverting Evolution.|Martin Farach,Sampath Kannan|85|7|0|5
+29|Modular Competitiveness for Distributed Algorithms.|James Aspnes,Orli Waarts|23|1|0|3
+30|Communication-Efficient Parallel Sorting (Preliminary Version).|Michael T. Goodrich|n/a
+31|Automatic Methods for Hiding Latency in High Bandwidth Networks (Extended Abstract).|Matthew Andrews,Frank Thomson Leighton,Panagiotis Takis Metaxas,Lisa Zhang|13|2|0|3
+32|An O(n log n)-Size Fault-Tolerant Sorting Network (Extended Abstract).|Yuan Ma|8|1|0|1
+33|On Extracting Randomness From Weak Random Sources (Extended Abstract).|Amnon Ta-Shma|0|0|0|0
+34|Randomness-Optimal Sampling, Extractors, and Constructive Leader Election.|David Zuckerman|44|3|0|1
+35|Generating Random Spanning Trees More Quickly than the Cover Time.|David Bruce Wilson|266|148|1|6
+36|Towards an Analysis of Local Optimization Algorithms.|Tassos Dimitriou,Russell Impagliazzo|36|7|0|8
+37|A Threshold of ln n for Approximating Set Cover (Preliminary Version).|Uriel Feige|453|102|1|0
+38|Fast Algorithms for Parametric Scheduling Come from Extensions to Parametric Maximum Flow.|S. Thomas McCormick|59|23|0|5
+39|Towards a Syntactic Characterization of PTAS.|Sanjeev Khanna,Rajeev Motwani|99|17|0|10
+40|Efficient Approximation Algorithms for Semidefinite Programs Arising from MAX CUT and COLORING.|Philip N. Klein,Hsueh-I Lu|55|27|0|2
+41|Dynamic Deflection Routing on Arrays (Preliminary Version).|Andrei Z. Broder,Eli Upfal|52|1|0|5
+42|Universal Algorithms for Store-and-Forward and Wormhole Routing.|Robert Cypher,Friedhelm Meyer auf der Heide,Christian Scheideler,Berthold Vöcking|81|5|1|3
+43|Distributed Packet Switching in Arbitrary Networks.|Yuval Rabani,Éva Tardos|91|13|0|1
+44|Adversarial Queueing Theory.|Allan Borodin,Jon M. Kleinberg,Prabhakar Raghavan,Madhu Sudan,David P. Williamson|142|10|1|7
+45|Computing Betti Numbers via Combinatorial Laplacians.|Joel Friedman|85|44|0|3
+46|Embedding Graphs in an Arbitrary Surface in Linear Time.|Bojan Mohar|46|18|0|5
+47|Algorithms for Manifolds and Simplicial Complexes in Euclidean 3-Space (Preliminary Version).|Tamal K. Dey,Sumanta Guha|17|2|0|1
+48|On Bounding the Betti Numbers and Computing the Euler Characteristic of Semi-Algebraic Sets.|Saugata Basu|82|18|0|33
+49|Approximability and Nonapproximability Results for Minimizing Total Flow Time on a Single Machine.|Hans Kellerer,Thomas Tautenhahn,Gerhard J. Woeginger|131|24|1|11
+50|How Good is the Goemans-Williamson MAX CUT Algorithm?|Howard J. Karloff|93|22|0|1
+51|A Tight Analysis of the Greedy Algorithm for Set Cover.|Petr Slavík|302|106|0|0
+52|A Constant-factor Approximation Algorithm for the k MST Problem (Extended Abstract).|Avrim Blum,R. Ravi,Santosh Vempala|111|30|0|9
+53|Reconstructing a Three-Dimensional Model with Arbitrary Errors.|Bonnie Berger,Jon M. Kleinberg,Frank Thomson Leighton|44|17|0|0
+54|On the Boosting Ability of Top-Down Decision Tree Learning Algorithms.|Michael J. Kearns,Yishay Mansour|218|53|2|6
+55|Robot Navigation with Range Queries.|Dana Angluin,Jeffery Westbrook,Wenhong Zhu|22|3|0|0
+56|Correlated Pseudorandomness and the Complexity of Private Computations.|Donald Beaver|83|52|0|0
+57|Digital Signets: Self-Enforcing Protection of Digital Information (Preliminary Version).|Cynthia Dwork,Jeffrey B. Lotspiech,Moni Naor|124|29|8|13
+58|Witness-Based Cryptographic Program Checking and Robust Function Sharing.|Yair Frankel,Peter Gemmell,Moti Yung|86|9|0|19
+59|Non-Expansive Hashing.|Nathan Linial,Ori Sasson|49|12|0|0
+60|Making Commitments in the Face of Uncertainty: How to Pick a Winner Almost Every Time (Extended Abstract).|Baruch Awerbuch,Yossi Azar,Amos Fiat,Frank Thomson Leighton|91|21|0|11
+61|Lower Bounds for On-line Graph Problems with Application to On-line Circuit and Optical Routing.|Yair Bartal,Amos Fiat,Stefano Leonardi|89|11|0|17
+62|Characterizing Linear Size Circuits in Terms of Privacy.|Eyal Kushilevitz,Rafail Ostrovsky,Adi Rosén|40|3|0|11
+63|Nondeterministic Communication with a Limited Number of Advice Bits.|Juraj Hromkovic,Georg Schnitger|29|3|0|3
+64|Public vs. Private Coin Flips in One Round Communication Games (Extended Abstract).|Ilan Newman,Mario Szegedy|79|25|0|0
+65|Efficiently Four-Coloring Planar Graphs.|Neil Robertson,Daniel P. Sanders,Paul D. Seymour,Robin Thomas|112|47|0|0
+66|Faster Isomorphism Testing of Strongly Regular Graphs.|Daniel A. Spielman|72|43|0|1
+67|Node-Disjoint Paths on the Mesh and a New Trade-Off in VLSI Layout.|Alok Aggarwal,Jon M. Kleinberg,David P. Williamson|20|10|0|0
+68|Modular Coloring Formulas Are Hard for Cutting Planes Proofs.|Xudong Fu|2|0|0|0
+69|Extremal Bipartite Graphs and Superpolynomial Lower Bounds for Monotone Span Programs.|László Babai,Anna Gál,János Kollár,Lajos Rónyai,Tibor Szabó,Avi Wigderson|30|6|0|5
+70|A Lower Bound for Randomized Algebraic Decision Trees.|Dima Grigoriev,Marek Karpinski,Friedhelm Meyer auf der Heide,Roman Smolensky|36|2|0|9
+71|Lower Bounds for Noisy Boolean Decision Trees.|William S. Evans,Nicholas Pippenger|10|1|0|2
+72|Adaptive Zero Knowledge and Computational Equivocation (Extended Abstract).|Donald Beaver|51|18|0|2
+73|Adaptively Secure Multi-Party Computation.|Ran Canetti,Uriel Feige,Oded Goldreich,Moni Naor|397|164|2|43
+74|On Relationships between Statistical Zero-Knowledge Proofs.|Tatsuaki Okamoto|93|23|0|0
+75|Large-Scale Assembly of DNA Strings and Space-Efficient Construction of Suffix Trees (Correction).|S. Rao Kosaraju,Arthur L. Delcher|n/a

@@ -1,0 +1,87 @@
+86
+1|Proceedings of the 40th Annual ACM Symposium on Theory of Computing, Victoria, British Columbia, Canada, May 17-20, 2008.|Cynthia Dwork|n/a
+2|Parallel repetition in projection games and a concentration bound.|Anup Rao|83|63|0|3
+3|Sdp gaps and ugc hardness for multiway cut, 0-extension, and metric labeling.|Rajsekar Manokaran,Joseph Naor,Prasad Raghavendra,Roy Schwartz|36|27|0|9
+4|Unique games on expanding constraint graphs are easy: extended abstract.|Sanjeev Arora,Subhash Khot,Alexandra Kolla,David Steurer,Madhur Tulsiani,Nisheeth K. Vishnoi|85|67|0|12
+5|The complexity of temporal constraint satisfaction problems.|Manuel Bodirsky,Jan Kára|88|71|0|37
+6|An effective ergodic theorem and some applications.|Satyadev Nandakumar|10|8|0|2
+7|Algorithms for subset selection in linear regression.|Abhimanyu Das,David Kempe|112|90|0|4
+8|Rethinking internet routing.|Jennifer Rexford|8|7|0|0
+9|Interdomain routing and games.|Hagay Levin,Michael Schapira,Aviv Zohar|87|54|0|26
+10|Optimal approximation for the submodular welfare problem in the value oracle model.|Jan Vondrák|246|197|0|0
+11|Optimal mechanism design and money burning.|Jason D. Hartline,Tim Roughgarden|123|102|0|23
+12|The pattern matrix method for lower bounds on quantum communication.|Alexander A. Sherstov|68|29|0|15
+13|Classical interaction cannot replace a quantum message.|Dmitry Gavinsky|19|13|0|4
+14|Span-program-based quantum algorithm for evaluating formulas.|Ben Reichardt,Robert Spalek|66|56|0|10
+15|Delegating computation: interactive proofs for muggles.|Shafi Goldwasser,Yael Tauman Kalai,Guy N. Rothblum|246|228|3|13
+16|Universal semantic communication I.|Brendan Juba,Madhu Sudan|0|0|0|0
+17|Infeasibility of instance compression and succinct PCPs for NP.|Lance Fortnow,Rahul Santhanam|219|195|0|5
+18|A (de)constructive approach to program checking.|Shafi Goldwasser,Dan Gutfreund,Alexander Healy,Tali Kaufman,Guy N. Rothblum|14|14|0|0
+19|An o(log2 k)-approximation algorithm for the k-vertex connected spanning subgraph problem.|Jittat Fakcharoenphol,Bundit Laekhanukit|33|22|0|6
+20|Minimum k-way cuts via deterministic greedy tree packing.|Mikkel Thorup|17|16|0|2
+21|Network design for vertex connectivity.|Tanmoy Chakraborty,Julia Chuzhoy,Sanjeev Khanna|51|36|0|4
+22|A fixed-parameter algorithm for the directed feedback vertex set problem.|Jianer Chen,Yang Liu,Songjian Lu,Barry O'Sullivan,Igor Razgon|198|158|0|18
+23|Lossy trapdoor functions and their applications.|Chris Peikert,Brent Waters|359|297|5|23
+24|Trapdoors for hard lattices and new cryptographic constructions.|Craig Gentry,Chris Peikert,Vinod Vaikuntanathan|758|669|7|57
+25|Finding short lattice vectors within mordell's inequality.|Nicolas Gama,Phong Q. Nguyen|74|53|0|11
+26|Tight rmr lower bounds for mutual exclusion and other problems.|Hagit Attiya,Danny Hendler,Philipp Woelfel|44|37|0|14
+27|Randomized k-server on hierarchical binary trees.|Aaron Cote,Adam Meyerson,Laura J. Poplawski|28|25|0|4
+28|Randomized competitive algorithms for generalized caching.|Nikhil Bansal,Niv Buchbinder,Joseph Naor|33|29|1|7
+29|Optimal algorithms and inapproximability results for every CSP?|Prasad Raghavendra|260|207|0|18
+30|Optimal hierarchical decompositions for congestion minimization in networks.|Harald Räcke|144|121|1|0
+31|List-decoding reed-muller codes over small fields.|Parikshit Gopalan,Adam R. Klivans,David Zuckerman|53|42|0|4
+32|Decodability of group homomorphisms beyond the johnson bound.|Irit Dinur,Elena Grigorescu,Swastik Kopparty,Madhu Sudan|13|12|0|1
+33|Combinatorial construction of locally testable codes.|Or Meir|38|30|0|7
+34|Balanced outcomes in social exchange networks.|Jon M. Kleinberg,Éva Tardos|73|67|0|1
+35|Pricing combinatorial markets for tournaments.|Yiling Chen,Sharad Goel,David M. Pennock|36|27|0|21
+36|Fast-converging tatonnement algorithms for one-time and ongoing market problems.|Richard Cole,Lisa Fleischer|35|27|0|4
+37|A combinatorial construction of almost-ramanujan graphs using the zig-zag product.|Avraham Ben-Aroya,Amnon Ta-Shma|13|10|0|0
+38|An optimal sdp algorithm for max-cut, and equally optimal long code tests.|Ryan O'Donnell,Yi Wu|40|24|0|10
+39|On hardness of learning intersection of two halfspaces.|Subhash Khot,Rishi Saket|26|19|0|5
+40|Inapproximability of pure nash equilibria.|Alexander Skopalik,Berthold Vöcking|79|56|0|17
+41|The myth of the folk theorem.|Christian Borgs,Jennifer T. Chayes,Nicole Immorlica,Adam Tauman Kalai,Vahab S. Mirrokni,Christos H. Papadimitriou|51|37|0|0
+42|Regret minimization and the price of total anarchy.|Avrim Blum,MohammadTaghi Hajiaghayi,Katrina Ligett,Aaron Roth|96|70|0|9
+43|Testing symmetric properties of distributions.|Paul Valiant|89|80|0|12
+44|Every minor-closed property of sparse graphs is testable.|Itai Benjamini,Oded Schramm,Asaf Shapira|76|64|0|1
+45|Algebraic property testing: the role of invariance.|Tali Kaufman,Madhu Sudan|108|97|0|32
+46|Complete fairness in secure two-party computation.|S. Dov Gordon,Carmit Hazay,Jonathan Katz,Yehuda Lindell|94|83|1|14
+47|Games for exchanging information.|Gillat Kol,Moni Naor|105|97|0|0
+48|Cryptography with constant computational overhead.|Yuval Ishai,Eyal Kushilevitz,Rafail Ostrovsky,Amit Sahai|67|57|0|13
+49|The vpn conjecture is true.|Navin Goyal,Neil Olver,F. Bruce Shepherd|37|30|0|2
+50|Faster approximate lossy generalized flow via interior point algorithms.|Samuel I. Daitch,Daniel A. Spielman|63|59|0|8
+51|On partitioning graphs via single commodity flows.|Lorenzo Orecchia,Leonard J. Schulman,Umesh V. Vazirani,Nisheeth K. Vishnoi|55|44|0|8
+52|Graph and map isomorphism and all polyhedral embeddings in linear time.|Ken-ichi Kawarabayashi,Bojan Mohar|26|20|0|10
+53|Fast polynomial factorization and modular composition in small characteristic.|Christopher Umans|22|20|0|2
+54|A quadratic lower bound for the permanent and determinant problem over any characteristic != 2.|Jin-yi Cai,Xi Chen,Dong Li|10|10|0|1
+55|Fast integer multiplication using modular arithmetic.|Anindya De,Piyush P. Kurur,Chandan Saha,Ramprasad Saptharishi|54|49|0|2
+56|Read-once polynomial identity testing.|Amir Shpilka,Ilya Volkovich|48|37|0|14
+57|The chow parameters problem.|Ryan O'Donnell,Rocco A. Servedio|46|41|0|16
+58|Agnostically learning decision trees.|Parikshit Gopalan,Adam Tauman Kalai,Adam R. Klivans|32|23|0|5
+59|Random projection trees and low dimensional manifolds.|Sanjoy Dasgupta,Yoav Freund|175|151|0|7
+60|Inverse conjecture for the gowers norm is false.|Shachar Lovett,Roy Meshulam,Alex Samorodnitsky|50|35|0|5
+61|Unconditional pseudorandom generators for low degree polynomials.|Shachar Lovett|56|41|0|10
+62|Graph sparsification by effective resistances.|Daniel A. Spielman,Nikhil Srivastava|306|278|0|15
+63|Some topics in analysis of boolean functions.|Ryan O'Donnell|102|95|0|2
+64|Uniform direct product theorems: simplified, optimized, and derandomized.|Russell Impagliazzo,Ragesh Jaiswal,Valentine Kabanets,Avi Wigderson|54|38|0|8
+65|Hardness amplification proofs require majority.|Ronen Shaltiel,Emanuele Viola|39|27|0|16
+66|Direct product theorems for classical communication complexity via subdistribution bounds: extended abstract.|Rahul Jain,Hartmut Klauck,Ashwin Nayak|35|26|0|13
+67|A learning theory approach to non-interactive database privacy.|Avrim Blum,Katrina Ligett,Aaron Roth|366|320|0|27
+68|Evolvability from learning algorithms.|Vitaly Feldman|41|30|0|10
+69|On agnostic boosting and parity learning.|Adam Tauman Kalai,Yishay Mansour,Elad Verbin|21|14|0|0
+70|Computing how we became human.|David Haussler|1|1|0|0
+71|Robust lower bounds for communication and stream computation.|Amit Chakrabarti,Graham Cormode,Andrew McGregor|52|38|0|12
+72|Sketching in adversarial environments.|Ilya Mironov,Moni Naor,Gil Segev|7|5|0|1
+73|Communication in the presence of replication.|Omer Barkol,Yuval Ishai,Enav Weinreb|3|2|0|2
+74|A discriminative framework for clustering via similarity functions.|Maria-Florina Balcan,Avrim Blum,Santosh Vempala|69|55|0|14
+75|Multi-armed bandits in metric spaces.|Robert Kleinberg,Aleksandrs Slivkins,Eli Upfal|174|157|0|23
+76|Stateless distributed gradient descent for positive linear programs.|Baruch Awerbuch,Rohit Khandekar|32|26|1|4
+77|Towards an optimal separation of space and length in resolution.|Jakob Nordström,Johan Håstad|23|17|0|0
+78|Elusive functions and lower bounds for arithmetic circuits.|Ran Raz|33|27|0|1
+79|On the constant-depth complexity of k-clique.|Benjamin Rossman|36|32|0|8
+80|Algebrization: a new barrier in complexity theory.|Scott Aaronson,Avi Wigderson|122|94|0|4
+81|Hardness-randomness tradeoffs for bounded depth arithmetic circuits.|Zeev Dvir,Amir Shpilka,Amir Yehudayoff|41|32|0|15
+82|Optimal query complexity bounds for finding graphs.|Sung-Soon Choi,Jeong Han Kim|32|29|0|3
+83|Additive approximation for bounded degree survivable network design.|Lap Chi Lau,Mohit Singh|45|33|0|9
+84|Additive guarantees for degree bounded directed network design.|Nikhil Bansal,Rohit Khandekar,Viswanath Nagarajan|73|48|0|7
+85|Logconcave random graphs.|Alan M. Frieze,Santosh Vempala,Juan Vera|n/a
+86|Graphs, polymorphisms and the complexity of homomorphism problems.|Libor Barto,Marcin Kozik,Todd Niven|26|20|0|8

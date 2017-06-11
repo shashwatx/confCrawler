@@ -1,0 +1,87 @@
+86
+1|Proceedings of the Thirty-Second Annual ACM Symposium on Theory of Computing, May 21-23, 2000, Portland, OR, USA.|F. Frances Yao,Eugene M. Luks|n/a
+2|Extractors and pseudo-random generators with optimal seed length.|Russell Impagliazzo,Ronen Shaltiel,Avi Wigderson|76|9|0|23
+3|Pseudo-random functions and factoring (extended abstract).|Moni Naor,Omer Reingold,Alon Rosen|n/a
+4|Satisfiability of equations in free groups is in PSPACE.|Claudio Gutiérrez|29|6|0|0
+5|Setting 2 variables at a time yields a new lower bound for random 3-SAT (extended abstract).|Dimitris Achlioptas|92|11|0|11
+6|A new algorithm approach to the general Lovász local lemma with applications to scheduling and satisfiability problems (extended abstract).|Artur Czumaj,Christian Scheideler|41|10|0|5
+7|A deterministic polynomial-time algorithm for approximating mixed discriminant and mixed volume.|Leonid Gurvits,Alex Samorodnitsky|18|2|0|14
+8|Randomized metarounding (extended abstract).|Robert D. Carr,Santosh Vempala|n/a
+9|Isomorphism testing for embeddable graphs through definability.|Martin Grohe|48|20|0|5
+10|Circuit minimization problem.|Valentine Kabanets,Jin-yi Cai|73|39|0|4
+11|On the efficiency of local decoding procedures for error-correcting codes.|Jonathan Katz,Luca Trevisan|187|103|0|4
+12|Statistical mechanics, three-dimensionality and NP-completeness: I. Universality of intracatability for the partition function of the Ising model across non-planar surfaces (extended abstract).|Sorin Istrail|113|70|0|1
+13|A combinatorial, strongly polynomial-time algorithm for minimizing submodular functions.|Satoru Iwata,Lisa Fleischer,Satoru Fujishige|469|252|1|38
+14|Improved algorithms for submodular function minimization and submodular flow.|Lisa Fleischer,Satoru Iwata|33|13|0|8
+15|On dual minimum cost flow algorithms (extended abstract).|Jens Vygen|n/a
+16|On the approximability of the traveling salesman problem (extended abstract).|Christos H. Papadimitriou,Santosh Vempala|87|11|0|1
+17|Approximating the domatic number.|Uriel Feige,Magnús M. Halldórsson,Guy Kortsarz|207|94|0|25
+18|The value of strong inapproximability results for clique.|Aravind Srinivasan|9|2|0|0
+19|Compression using efficient multicasting.|Micah Adler,Frank Thomson Leighton|4|1|0|1
+20|The small-world phenomenon: an algorithmic perspective.|Jon M. Kleinberg|2147|995|102|8
+21|A random graph model for massive graphs.|William Aiello,Fan R. K. Chung,Linyuan Lu|970|333|4|44
+22|List decoding algorithms for certain concatenated codes.|Venkatesan Guruswami,Madhu Sudan|90|18|0|32
+23|A PCP characterization of NP with optimal amortized query complexity.|Alex Samorodnitsky,Luca Trevisan|155|61|0|8
+24|On transformation of interactive proofs that preserve the prover's complexity.|Salil P. Vadhan|10|2|0|2
+25|On the sum-of-squares algorithm for bin packing.|János Csirik,David S. Johnson,Claire Kenyon,James B. Orlin,Peter W. Shor,Richard R. Weber|67|30|0|8
+26|Sharing the cost of muliticast transmissions (preliminary version).|Joan Feigenbaum,Christos H. Papadimitriou,Scott Shenker|484|118|1|11
+27|The risk profile problem for stock portfolio optimization (extended abstract).|Ming-Yang Kao,Andreas Nolte,Stephen R. Tate|6|2|1|1
+28|Resettable zero-knowledge (extended abstract).|Ran Canetti,Oded Goldreich,Shafi Goldwasser,Silvio Micali|n/a
+29|Complete characterization of security notions for probabilistic private-key encryption.|Jonathan Katz,Moti Yung|115|27|2|14
+30|On zero-knowledge proofs (extended abstract): ``from membership to decision''.|Giovanni Di Crescenzo,Kouichi Sakurai,Moti Yung|13|1|0|5
+31|Finding smooth integers in short intervals using CRT decoding.|Dan Boneh|73|23|0|0
+32|Smoothing and cleaning up slivers.|Herbert Edelsbrunner,Xiang-Yang Li,Gary L. Miller,Andreas Stathopoulos,Dafna Talmor,Shang-Hua Teng,Alper Üngör,Noel Walkington|80|24|0|5
+33|Hard-Potato routing.|Costas Busch,Maurice Herlihy,Roger Wattenhofer|38|3|0|15
+34|Approximation algorithms for geometric shortest path problems.|Lyudmil Aleksandrov,Anil Maheshwari,Jörg-Rüdiger Sack|93|29|0|10
+35|Improved approximations of crossings in graph drawings.|Guy Even,Sudipto Guha,Baruch Schieber|24|4|0|0
+36|On the decidability of accessibility problems (extended abstract).|Rajeev Motwani,Rina Panigrahy,Vijay A. Saraswat,Suresh Venkatasubramanian|30|11|0|1
+37|More general completeness theorems for secure two-party computation.|Joe Kilian|89|53|0|0
+38|On the complexity of verifiable secret sharing and multiparty computation.|Ronald Cramer,Ivan Damgård,Stefan Dziembowski|69|36|1|6
+39|Tight(er) worst-case bounds on dynamic searching and priority queues.|Arne Andersson,Mikkel Thorup|89|11|0|9
+40|Near-optimal fully-dynamic graph connectivity.|Mikkel Thorup|109|58|0|4
+41|A new NC-algorithm for finding a perfect matching in bipartite planar and small genus graphs (extended abstract).|Meena Mahajan,Kasturi R. Varadarajan|27|16|1|3
+42|Space complexity in propositional calculus.|Michael Alekhnovich,Eli Ben-Sasson,Alexander A. Razborov,Avi Wigderson|108|54|0|13
+43|A new proof of the weak pigeonhole principle.|Alexis Maciel,Toniann Pitassi,Alan R. Woods|70|19|0|3
+44|Higher lower bounds on monotone size.|Danny Harnik,Ran Raz|30|10|0|1
+45|Tighter bounds for nearest neighbor search and related problems in the cell probe model.|Omer Barkol,Yuval Rabani|57|19|0|3
+46|Compressed suffix arrays and suffix trees with applications to text indexing and string matching (extended abstract).|Roberto Grossi,Jeffrey Scott Vitter|576|243|5|45
+47|Faster suffix tree construction with missing suffix links.|Richard Cole,Ramesh Hariharan|61|26|0|1
+48|Approximate nearest neighbors and sequence comparison with block operations.|S. Muthukrishnan,Süleyman Cenk Sahinalp|94|28|1|13
+49|Near optimal multiple alignment within a band in polynomial time.|Ming Li,Bin Ma,Lusheng Wang|25|3|0|3
+50|Noise-tolerant learning, the parity problem, and the statistical query model.|Avrim Blum,Adam Kalai,Hal Wasserman|347|213|2|1
+51|More theory revision with queries (extended abstract).|Judy Goldsmith,Robert H. Sloan|n/a
+52|Are bitvectors optimal?|Harry Buhrman,Peter Bro Miltersen,Jaikumar Radhakrishnan,Srinivasan Venkatesh|n/a
+53|The program-size complexity of self-assembled squares (extended abstract).|Paul W. K. Rothemund,Erik Winfree|402|221|5|25
+54|Shortest path queries in planar graphs.|Danny Z. Chen,Jinhui Xu|25|16|0|0
+55|How tall is a tree?|Bruce A. Reed|11|1|0|0
+56|Random walks with ``back buttons'' (extended abstract).|Ronald Fagin,Anna R. Karlin,Jon M. Kleinberg,Prabhakar Raghavan,Sridhar Rajagopalan,Ronitt Rubinfeld,Madhu Sudan,Andrew Tomkins|n/a
+57|From partial consistency to global broadcast.|Matthias Fitzi,Ueli M. Maurer|67|25|0|13
+58|Connectivity and inference problems for temporal networks.|David Kempe,Jon M. Kleinberg,Amit Kumar|205|165|0|5
+59|Strictly non-blocking WDM cross-connects for heterogeneous networks.|April Rasala,Gordon T. Wilfong|24|7|1|2
+60|Finding long paths and cycles in sparse Hamiltonian graphs.|Tomás Feder,Rajeev Motwani,Carlos S. Subi|13|2|0|1
+61|Approximating the minimum bisection size (extended abstract).|Uriel Feige,Robert Krauthgamer,Kobbi Nissim|n/a
+62|A matter of degree: improved approximation algorithms for degree-bounded minimum spanning trees.|Jochen Könemann,R. Ravi|93|29|0|8
+63|Clustering for edge-cost minimization (extended abstract).|Leonard J. Schulman|n/a
+64|Exact computations of the inertia symmetric integer matrices.|Steven Fortune|7|1|0|2
+65|epsilon-optimization schemes and L-bit precision: alternative perspectives in combinatorial optimization (extended abstract).|James B. Orlin,Andreas S. Schulz,Sudipta Sengupta|1|1|0|0
+66|Matrix-vector product for confluent Cauchy-like matrices with application to confluent rational interpolation.|Vadim Olshevsky,Mohammad Amin Shokrollahi|5|2|0|1
+67|Query strategies for priced information (extended abstract).|Moses Charikar,Ronald Fagin,Venkatesan Guruswami,Jon M. Kleinberg,Prabhakar Raghavan,Amit Sahai|n/a
+68|A guessing game and randomized online algorithms.|Steven S. Seiden|55|20|0|0
+69|Computing the median with uncertainty.|Tomás Feder,Rajeev Motwani,Rina Panigrahy,Chris Olston,Jennifer Widom|42|20|0|3
+70|Parallelization, amplification, and exponential time simulation of quantum interactive proof systems.|Alexei Kitaev,John Watrous|150|62|0|21
+71|Rapid sampling though quantum computing.|Lov K. Grover|36|5|0|0
+72|Normal subgroup reconstruction and quantum computation using group representations.|Sean Hallgren,Alexander Russell,Amnon Ta-Shma|91|15|0|19
+73|Quantum lower bounds by quantum arguments.|Andris Ambainis|332|115|0|27
+74|On quantum and probabilistic communication: Las Vegas and one-way protocols.|Hartmut Klauck|71|22|0|11
+75|A constant factor approximation algorithm for a class of classification problems.|Anupam Gupta,Éva Tardos|56|18|0|2
+76|Polynomial-time approximation scheme for data broadcast.|Claire Kenyon,Nicolas Schabanel,Neal E. Young|74|11|0|4
+77|Approximating permanents of complex matrices.|Martin Fürer|3|2|0|0
+78|Combining fairness with throughput: online routing with multiple objectives.|Ashish Goel,Adam Meyerson,Serge A. Plotkin|59|22|0|11
+79|Improvements in throughout maximization for real-time scheduling.|Piotr Berman,Bhaskar DasGupta|37|12|0|5
+80|Self-testing of universal and fault-tolerant sets of quantum gates.|Wim van Dam,Frédéric Magniez,Michele Mosca,Miklos Santha|21|9|0|4
+81|Computing with highly mixed states (extended abstract).|Andris Ambainis,Leonard J. Schulman,Umesh V. Vazirani|n/a
+82|Quantum bit escrow.|Dorit Aharonov,Amnon Ta-Shma,Umesh V. Vazirani,Andrew Chi-Chih Yao|90|36|0|1
+83|A proof of the security of quantum key distribution (extended abstract).|Eli Biham,Michel Boyer,P. Oscar Boykin,Tal Mor,Vwani P. Roychowdhury|199|63|2|9
+84|Better algorithms for unfair metrical task systems and applications.|Amos Fiat,Manor Mendel|52|19|1|10
+85|A unified approach to approximating resource allocation and scheduling.|Amotz Bar-Noy,Reuven Bar-Yehuda,Ari Freund,Joseph Naor,Baruch Schieber|324|135|0|31
+86|Balanced allocations: the heavily loaded case.|Petra Berenbrink,Artur Czumaj,Angelika Steger,Berthold Vöcking|85|19|2|8

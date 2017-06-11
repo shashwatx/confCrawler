@@ -1,0 +1,46 @@
+45
+1|Proceedings of the Seventh Annual Symposium on Logic in Computer Science (LICS '92), Santa Cruz, California, USA, June 22-25, 1992.|n/a
+2|Third Order Matching is Decidable.|Gilles Dowek|109|12|0|2
+3|Double-exponential Complexity of Computing a Complete Set of AC-Unifiers.|Deepak Kapur,Paliath Narendran|64|4|0|5
+4|Random Worlds and Maximum Entropy.|Adam J. Grove,Joseph Y. Halpern,Daphne Koller|94|24|0|18
+5|Minimal Model Semantics for Nonmonotonic Modal Logics.|Grigori Schwarz|48|7|0|6
+6|Fixpoint Logic vs. Infinitary Logic in Finite-Model Theory.|Phokion G. Kolaitis,Moshe Y. Vardi|84|3|0|11
+7|Deterministic vs. Nondeterministic Transitive Closure Logic.|Erich Grädel,Gregory L. McColm|10|1|0|2
+8|Axiomatizable Classes of Finite Models and Definability of Linear Order.|Alexei P. Stolboushkin|8|1|0|1
+9|An abstract standardisation theorem.|Georges Gonthier,Jean-Jacques Lévy,Paul-André Melliès|77|10|0|8
+10|A Constructive Formalization of the Catch and Throw Mechanism.|Hiroshi Nakano|29|4|0|2
+11|A Computational Analysis of Girard's Translation and LC.|Chetan R. Murthy|48|8|0|0
+12|The Lazy Lambda Calculus in a Concurrency Scenario (Extended Abstract).|Davide Sangiorgi|151|33|0|18
+13|Specification in Software Development.|Jeannette M. Wing|n/a
+14|Turning SOS Rules into Equations.|Luca Aceto,Bard Bloom,Frits W. Vaandrager|133|33|0|32
+15|A Calculus of Dataflow Networks (Extended Abstract).|Eugene W. Stark|n/a
+16|Asynchronous Communication in Process Algebra.|Frank S. de Boer,Jan Willem Klop,Catuscia Palamidessi|57|10|0|2
+17|Equivalences on Observable Processes.|Irek Ulidowski|50|11|0|14
+18|The Type and Effect Discipline.|Jean-Pierre Talpin,Pierre Jouvelot|384|85|1|10
+19|Disjunctive Strictness Analysis.|Thomas P. Jensen|45|3|0|0
+20|References, Local Variables and Operational Reasoning.|Ian A. Mason,Carolyn L. Talcott|66|7|0|6
+21|Horn Programming in Linear Logic Is NP-Complete.|Max I. Kanovich|92|18|0|12
+22|New Foundations for the Geometry of Interaction.|Samson Abramsky,Radha Jagadeesan|162|32|0|39
+23|Linear Logic Without Boxes.|Georges Gonthier,Martín Abadi,Jean-Jacques Lévy|105|14|0|0
+24|Operational aspects of linear lambda calculus.|Patrick Lincoln,John C. Mitchell|80|4|0|4
+25|Origins of the Calculus of Binary Relations.|Vaughan R. Pratt|82|22|0|2
+26|Decidable Problems in Shallow Equational Theories (Extended Abstract).|Hubert Comon,Marianne Haberstrau,Jean-Pierre Jouannaud|33|0|0|1
+27|Monadic Theory of Term Rewritings.|Didier Caucal|n/a
+28|Strong Sequentiality of Left-Linear Overlapping Term Rewriting Systems.|Yoshihito Toyama|46|3|0|7
+29|There is No Recursive Axiomatization for Feasible Functionals of Type~2.|Anil Seth|22|3|0|4
+30|Cutting Planes and constant depth Frege proofs.|Peter Clote|5|0|0|2
+31|Subtype Inequalities.|Jerzy Tiuryn|81|14|0|6
+32|An Engine for Logic Program Analysis.|Nevin Heintze,Joxan Jaffar|31|3|0|10
+33|Solving Systems of Set Constraints (Extended Abstract).|Alexander Aiken,Edward L. Wimmers|n/a
+34|The Category of Constraint Systems is Cartesian-Closed.|Vijay A. Saraswat|70|10|0|20
+35|Generalized Quantifiers and Pebble Games on Finite Structures.|Phokion G. Kolaitis,Jouko A. Väänänen|137|31|0|4
+36|Logical Hierarchies in PTIME.|Lauri Hella|93|16|0|8
+37|Zero-One Laws for Modal Logic.|Joseph Y. Halpern,Bruce M. Kapron|19|4|0|1
+38|Progress Measures, Immediate Determinacy, and a Subset Construction for Tree Automata.|Nils Klarlund|59|8|0|2
+39|Symbolic Model Checking for Real-time Systems.|Thomas A. Henzinger,Xavier Nicollin,Joseph Sifakis,Sergio Yovine|1416|315|2|95
+40|Compiler Verification in LF.|John Hannan,Frank Pfenning|91|10|0|22
+41|Mixing List Recursion and Arithmetic.|Laurent Fribourg|7|0|0|5
+42|Observable Algorithms on Concrete Data Structures.|Pierre-Louis Curien|32|2|0|4
+43|Functorial Parametricity.|Peter J. Freyd,E. P. Robinson,Giuseppe Rosolini|n/a
+44|The Church-Rosser Property for beta-eta-reduction in Typed lambda-Calculi.|Herman Geuvers|n/a
+45|Retracts in simply typed lambda-beta-eta-calculus.|Ugo de'Liguoro,Adolfo Piperno,Richard Statman|n/a

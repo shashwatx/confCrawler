@@ -1,0 +1,96 @@
+95
+1|A Local Clustering Algorithm for Massive Graphs and Its Application to Nearly Linear Time Graph Partitioning.|Daniel A. Spielman,Shang-Hua Teng|79|73|0|7
+2|A Dichotomy Theorem for the Resolution Complexity of Random Constraint Satisfaction Problems.|Siu On Chan,Michael Molloy|2|2|0|2
+3|Information Cost Tradeoffs for Augmented Index and Streaming Language Recognition.|Amit Chakrabarti,Graham Cormode,Ranganath Kondapally,Andrew McGregor|28|28|1|5
+4|Error-Correcting Data Structures.|Victor Chen,Elena Grigorescu,Ronald de Wolf|11|9|0|3
+5|Sherali-Adams Relaxations and Indistinguishability in Counting Logics.|Albert Atserias,Elitza N. Maneva|27|23|0|2
+6|Approximate Nearest Neighbor Search for Low-Dimensional Queries.|Sariel Har-Peled,Nirman Kumar|5|5|0|3
+7|The Price of Routing Unsplittable Flow.|Baruch Awerbuch,Yossi Azar,Amir Epstein|307|138|0|6
+8|Matroid Secretary Problem in the Random-Assignment Model.|José A. Soto|30|30|0|2
+9|The Limits of Buffering: A Tight Lower Bound for Dynamic Membership in the External Memory Model.|Elad Verbin,Qin Zhang|11|11|0|2
+10|Circumventing the Price of Anarchy: Leading Dynamics to Good Behavior.|Maria-Florina Balcan,Avrim Blum,Yishay Mansour|25|25|0|5
+11|Symmetry and Approximability of Submodular Maximization Problems.|Jan Vondrák|79|72|0|0
+12|Noise Tolerance of Expanders and Sublinear Expansion Reconstruction.|Satyen Kale,Yuval Peres,C. Seshadhri|2|2|0|0
+13|The Complexity of Symmetric Boolean Parity Holant Problems.|Heng Guo,Pinyan Lu,Leslie G. Valiant|17|15|0|6
+14|Matroid Matching: The Power of Local Search.|Jon Lee,Maxim Sviridenko,Jan Vondrák|21|20|0|1
+15|IP = PSPACE Using Error-Correcting Codes.|Or Meir|8|7|0|1
+16|Threshold Phenomena in k-Dominant Skylines of Random Samples.|Hsien-Kuei Hwang,Tsung-Hsi Tsai,Wei-Mei Chen|3|2|0|0
+17|Embeddings of Surfaces, Curves, and Moving Points in Euclidean Space.|Pankaj K. Agarwal,Sariel Har-Peled,Hai Yu|22|13|0|4
+18|Nearly Tight Bounds for Testing Function Isomorphism.|Noga Alon,Eric Blais,Sourav Chakraborty,David García-Soriano,Arie Matsliah|25|25|0|4
+19|Contractions, Removals, and Certifying 3-Connectivity in Linear Time.|Jens M. Schmidt|5|5|0|2
+20|Optimal Testing of Multivariate Polynomials over Small Prime Fields.|Elad Haramaty,Amir Shpilka,Madhu Sudan|16|16|0|6
+21|Reconstruction of Markov Random Fields from Samples: Some Observations and Algorithms.|Guy Bresler,Elchanan Mossel,Allan Sly|82|69|0|7
+22|A Harmonic Algorithm for the 3D Strip Packing Problem.|Nikhil Bansal,Xin Han,Kazuo Iwama,Maxim Sviridenko,Guochuan Zhang|8|8|0|2
+23|Spectral Gap Amplification.|Rolando D. Somma,Sergio Boixo|13|12|0|6
+24|Pattern Matching under Polynomial Transformation.|Ayelet Butman,Peter Clifford,Raphaël Clifford,Markus Jalsenius,Noa Lewenstein,Benny Porat,Ely Porat,Benjamin Sach|4|4|0|0
+25|Link Reversal Routing with Binary Link Labels: Work Complexity.|Bernadette Charron-Bost,Antoine Gaillard,Jennifer L. Welch,Josef Widder|1|1|0|1
+26|Bounded-Curvature Shortest Paths through a Sequence of Points Using Convex Optimization.|Xavier Goaoc,Hyo-Sil Kim,Sylvain Lazard|8|8|0|0
+27|Fast Integer Multiplication Using Modular Arithmetic.|Anindya De,Piyush P. Kurur,Chandan Saha,Ramprasad Saptharishi|54|49|0|2
+28|Testing and Reconstruction of Lipschitz Functions with Applications to Data Privacy.|Madhav Jha,Sofya Raskhodnikova|40|37|0|14
+29|Graph Connectivities, Network Coding, and Expander Graphs.|Ho Yee Cheung,Lap Chi Lau,Kai Man Leung|18|18|0|4
+30|NP-Hardness of Approximately Solving Linear Equations over Reals.|Subhash Khot,Dana Moshkovitz|16|16|0|2
+31|LDFS-Based Certifying Algorithm for the Minimum Path Cover Problem on Cocomparability Graphs.|Derek G. Corneil,Barnaby Dalton,Michel Habib|14|13|0|4
+32|Set Covering with Our Eyes Closed.|Fabrizio Grandoni,Anupam Gupta,Stefano Leonardi,Pauli Miettinen,Piotr Sankowski,Mohit Singh|22|17|1|3
+33|Finding, Minimizing, and Counting Weighted Subgraphs.|Virginia Vassilevska Williams,Ryan Williams|55|42|0|4
+34|On Multiplicative Lambda-Approximations and Some Geometric Applications.|Ilan Newman,Yuri Rabinovich|16|16|0|2
+35|Branching-Time Model Checking of One-Counter Processes and Timed Automata.|Stefan Göller,Markus Lohrey|4|3|0|0
+36|Graph Homomorphisms with Complex Values: A Dichotomy Theorem.|Jin-Yi Cai,Xi Chen,Pinyan Lu|68|62|0|33
+37|Balls and Bins: Smaller Hash Families and Faster Evaluation.|L. Elisa Celis,Omer Reingold,Gil Segev,Udi Wieder|19|19|0|5
+38|Pseudorandom Generators for Combinatorial Shapes.|Parikshit Gopalan,Raghu Meka,Omer Reingold,David Zuckerman|18|18|0|4
+39|Computing the Girth of a Planar Graph in Linear Time.|Hsien-Chih Chang,Hsueh-I Lu|4|4|0|0
+40|Every Property of Hyperfinite Graphs Is Testable.|Ilan Newman,Christian Sohler|31|31|0|6
+41|Determining Edge Expansion and Other Connectivity Measures of Graphs of Bounded Genus.|Viresh Patel|7|7|0|1
+42|A Polynomial-Time Algorithm for Estimating the Partition Function of the Ferromagnetic Ising Model on a Regular Matroid.|Leslie Ann Goldberg,Mark Jerrum|7|7|0|0
+43|Computing Shortest Paths amid Convex Pseudodisks.|Danny Z. Chen,John Hershberger,Haitao Wang|4|3|0|3
+44|Efficient Edge Splitting-Off Algorithms Maintaining All-Pairs Edge-Connectivities.|Lap Chi Lau,Chun Kong Yung|2|2|0|1
+45|Locating Regions in a Sequence under Density Constraints.|Benjamin A. Burton,Mathias Hiron|3|2|0|0
+46|Special Section on the Forty-Second Annual ACM Symposium on Theory of Computing (STOC 2010).|Chris Peikert,Robert Kleinberg,Aravind Srinivasan,Alan M. Frieze,Alexander Russell,Leonard J. Schulman|0|0|0|0
+47|Improving Exhaustive Search Implies Superpolynomial Lower Bounds.|Ryan Williams|89|84|0|18
+48|An Effective Dichotomy for the Counting Constraint Satisfaction Problem.|Martin E. Dyer,David Richerby|26|24|0|3
+49|Pseudorandom Generators for Polynomial Threshold Functions.|Raghu Meka,David Zuckerman|49|47|0|13
+50|Local List-Decoding and Testing of Random Linear Codes from High Error.|Swastik Kopparty,Shubhangi Saraf|25|23|0|0
+51|How to Compress Interactive Communication.|Boaz Barak,Mark Braverman,Xi Chen,Anup Rao|116|111|0|21
+52|A Deterministic Single Exponential Time Algorithm for Most Lattice Problems Based on Voronoi Cell Computations.|Daniele Micciancio,Panagiotis Voulgaris|161|155|0|6
+53|Perfect Matchings in O(nlog n) Time in Regular Bipartite Graphs.|Ashish Goel,Michael Kapralov,Sanjeev Khanna|30|28|0|1
+54|Efficiency Improvements in Constructing Pseudorandom Generators from One-Way Functions.|Iftach Haitner,Omer Reingold,Salil P. Vadhan|55|51|0|7
+55|Fixed-Parameter Algorithms for Maximum Agreement Forests.|Chris Whidden,Robert G. Beiko,Norbert Zeh|43|41|0|5
+56|The All-or-Nothing Multicommodity Flow Problem.|Chandra Chekuri,Sanjeev Khanna,F. Bruce Shepherd|84|30|0|17
+57|Privately Releasing Conjunctions and the Statistical Query Barrier.|Anupam Gupta,Moritz Hardt,Aaron Roth,Jonathan Ullman|78|77|0|20
+58|On the Bit-Complexity of Lempel-Ziv Compression.|Paolo Ferragina,Igor Nitto,Rossano Venturini|23|21|0|9
+59|Multiple-Source Shortest Paths in Embedded Graphs.|Sergio Cabello,Erin W. Chambers,Jeff Erickson|12|12|0|4
+60|A Deterministic Truthful PTAS for Scheduling Related Machines.|George Christodoulou,Annamária Kovács|31|26|0|3
+61|Asymmetric Traveling Salesman Path and Directed Latency Problems.|Zachary Friggstad,Mohammad R. Salavatipour,Zoya Svitkina|11|11|0|4
+62|The Stretch Factor of the Delaunay Triangulation Is Less than 1.998.|Ge Xia|18|16|0|2
+63|Soft Heaps Simplified.|Haim Kaplan,Robert Endre Tarjan,Uri Zwick|0|0|0|0
+64|Fixed-Parameter Tractability of Directed Multiway Cut Parameterized by the Size of the Cutset.|Rajesh Hemant Chitnis,MohammadTaghi Hajiaghayi,Dániel Marx|31|31|0|10
+65|Nerves of Good Covers Are Algorithmically Unrecognizable.|Martin Tancer,Dmitry Tonkonog|0|0|0|0
+66|Robust Geometric Spanners.|Prosenjit Bose,Vida Dujmovic,Pat Morin,Michiel H. M. Smid|8|7|0|1
+67|Size Bounds and Query Plans for Relational Joins.|Albert Atserias,Martin Grohe,Dániel Marx|36|32|0|4
+68|Counting Trees in a Phylogenetic Network Is \#P-Complete.|Simone Linz,Katherine St. John,Charles Semple|3|3|0|1
+69|Models for the Compressible Web.|Flavio Chierichetti,Ravi Kumar,Silvio Lattanzi,Alessandro Panconesi,Prabhakar Raghavan|13|12|0|2
+70|Adding One Edge to Planar Graphs Makes Crossing Number and 1-Planarity Hard.|Sergio Cabello,Bojan Mohar|26|23|0|2
+71|Jaywalking Your Dog: Computing the Fréchet Distance with Shortcuts.|Anne Driemel,Sariel Har-Peled|27|27|0|4
+72|Computing Correlation between Piecewise-Linear Functions.|Pankaj K. Agarwal,Boris Aronov,Marc J. van Kreveld,Maarten Löffler,Rodrigo I. Silveira|3|3|0|1
+73|Restricted Isometry of Fourier Matrices and List Decodability of Random Linear Codes.|Mahdi Cheraghchi,Venkatesan Guruswami,Ameya Velingker|40|37|0|0
+74|An Algebraic Theory of Complexity for Discrete Optimization.|David A. Cohen,Martin C. Cooper,Páidí Creed,Peter G. Jeavons,Stanislav Zivny|27|25|0|1
+75|On the Complexity of Package Recommendation Problems.|Ting Deng,Wenfei Fan,Floris Geerts|15|15|0|3
+76|Hidden Symmetry Subgroup Problems.|Thomas Decker,Gábor Ivanyos,Miklos Santha,Pawel Wocjan|2|2|0|2
+77|Pseudorandom Generators with Long Stretch and Low Locality from Random Local One-Way Functions.|Benny Applebaum|29|29|0|4
+78|On Range Searching with Semialgebraic Sets. II.|Pankaj K. Agarwal,Jirí Matousek,Micha Sharir|18|15|0|4
+79|Reducibility among Fractional Stability Problems.|Shiva Kintali,Laura J. Poplawski,Rajmohan Rajaraman,Ravi Sundaram,Shang-Hua Teng|25|22|0|3
+80|Deterministic Identity Testing of Depth-4 Multilinear Circuits with Bounded Top Fan-in.|Zohar Shay Karnin,Partha Mukhopadhyay,Amir Shpilka,Ilya Volkovich|32|30|0|3
+81|Deterministic Algorithms for the Lovász Local Lemma.|Karthekeyan Chandrasekaran,Navin Goyal,Bernhard Haeupler|n/a
+82|On the Insertion Time of Cuckoo Hashing.|Nikolaos Fountoulakis,Konstantinos Panagiotou,Angelika Steger|14|12|0|0
+83|A Space Lower Bound for Dynamic Approximate Membership Data Structures.|Shachar Lovett,Ely Porat|0|0|0|0
+84|Subexponential Parameterized Algorithm for Minimum Fill-In.|Fedor V. Fomin,Yngve Villanger|46|44|0|14
+85|Additive Approximation for Bounded Degree Survivable Network Design.|Lap Chi Lau,Mohit Singh|45|33|0|9
+86|On the Queue Number of Planar Graphs.|Giuseppe Di Battista,Fabrizio Frati,János Pach|14|13|0|0
+87|Special Section on the Fiftieth Annual IEEE Symposium on Foundations of Computer Science (FOCS 2009).|Maria-Florina Balcan,Mark Braverman,Daniel A. Spielman|1|1|0|0
+88|On the Power of Randomization in Algorithmic Mechanism Design.|Shahar Dobzinski,Shaddin Dughmi|62|58|0|13
+89|Extensions to the Method of Multiplicities, with Applications to Kakeya Sets and Mergers.|Zeev Dvir,Swastik Kopparty,Shubhangi Saraf,Madhu Sudan|73|71|0|10
+90|The Intersection of Two Halfspaces Has High Threshold Degree.|Alexander A. Sherstov|23|21|0|4
+91|KKL, Kruskal-Katona, and Monotone Nets.|Ryan O'Donnell,Karl Wimmer|32|32|0|4
+92|Vertex Sparsification and Oblivious Reductions.|Ankur Moitra|1|1|0|0
+93|Dynamic and Nonuniform Pricing Strategies for Revenue Maximization.|Tanmoy Chakraborty,Zhiyi Huang,Sanjeev Khanna|17|16|0|5
+94|Composition of Low-Error 2-Query PCPs Using Decodable PCPs.|Irit Dinur,Prahladh Harsha|29|28|0|6
+95|A Parallel Repetition Theorem for Any Interactive Argument.|Iftach Haitner|24|22|0|2

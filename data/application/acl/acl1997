@@ -1,0 +1,75 @@
+74
+1|35th Annual Meeting of the Association for Computational Linguistics and 8th Conference of the European Chapter of the Association for Computational Linguistics, Proceedings of the Conference, 7-12 July 1997, Universidad Nacional de Educación a Distancia (UNED), Madrid, Spain.|Philip R. Cohen,Wolfgang Wahlster|n/a
+2|Interleaving Universal Principles and Relational Constraints over Typed Feature Logic.|Thilo Götz,Detmar Meurers|11|1|0|1
+3|Fast Context-Free Parsing Requires Fast Boolean Matrix Multiplication.|Lillian Lee|3|2|0|0
+4|Three Generative, Lexicalised Models for Statistical Parsing.|Michael Collins|1127|273|12|14
+5|Expansion of Multi-Word Terms for Indexing and Retrieval Using Morphology and Syntax.|Christian Jacquemin,Judith Klavans,Evelyne Tzoukermann|125|27|0|13
+6|Automatic Detection of Text Genre.|Brett Kessler,Geoffrey Nunberg,Hinrich Schütze|462|157|5|0
+7|Document Classification Using a Finite Mixture Model.|Hang Li,Kenji Yamanishi|51|13|1|5
+8|Combining Unsupervised Lexical Knowledge Methods for Word Sense Disambiguation.|German Rigau,Jordi Atserias,Eneko Agirre|123|15|1|15
+9|Similarity-Based Methods for Word Sense Disambiguation.|Ido Dagan,Lillian Lee,Fernando C. N. Pereira|150|49|1|4
+10|Using Syntactic Dependency as Local Context to Resolve Word Sense Ambiguity.|Dekang Lin|329|120|0|5
+11|Homonymy and Polysemy in Information Retrieval.|Robert Krovetz|141|28|1|1
+12|Learning Features that Predict Cue Usage.|Barbara Di Eugenio,Johanna D. Moore,Massimo Paolucci|70|11|0|9
+13|Expectations in Incremental Discourse Processing.|Dan Cristea,Bonnie L. Webber|55|11|0|21
+14|The Rhetorical Parsing of Natural Language Texts.|Daniel Marcu|546|156|10|17
+15|Centering in-the-Large: Computing Referential Discourse Segments.|Udo Hahn,Michael Strube|43|5|0|4
+16|Probing the Lexicon in Evaluating Commercial MT Systems.|Martin Volk|4|1|0|1
+17|Ambiguity Resolution for Machine Translation of Telegraphic Messages.|Young-Suk Lee,Clifford J. Weinstein,Stephanie Seneff,Dinesh Tummala|9|2|0|4
+18|Machine Transliteration.|Kevin Knight,Jonathan Graehl|471|211|3|11
+19|Integrating Symbolic and Statistical Representations: The Lexicon Pragmatics Interface.|Ann A. Copestake,Alex Lascarides|47|11|0|8
+20|Negative Polarity Licensing at the Syntax-Semantics Interface.|John Fry|11|1|0|1
+21|Deriving Verbal and Compositional Lexical Aspect for NLP Applications.|Bonnie J. Dorr,Mari Broman Olsen|47|9|0|11
+22|A DOP Model for Semantic Interpretation.|Remko Bonnema,Rens Bod,Remko Scha|62|8|0|24
+23|Fertility Models for Statistical Natural Language Understanding.|Stephen Della Pietra,Mark Epstein,Salim Roukos,Todd Ward|35|9|0|1
+24|Predicting the Semantic Orientation of Adjectives.|Vasileios Hatzivassiloglou,Kathleen McKeown|1571|1070|6|6
+25|Independence Assumptions Considered Harmful.|Alexander Franz|22|1|0|0
+26|Planning Reference Choices for Argumentative Texts.|Xiaorong Huang|22|0|0|5
+27|Sentence Planning as Description Using Tree Adjoining Grammar.|Matthew Stone,Christine Doran|163|19|10|16
+28|An Algorithm for Generating Referential Descriptions with Flexible Interfaces.|Helmut Horacek|66|13|0|3
+29|Applying Explanation-based Learning to Control and Speeding-up Natural Language Generation.|Günter Neumann|30|1|1|5
+30|Morphological Disambiguation by Voting Constraints.|Kemal Oflazer,Gökhan Tür|40|11|0|5
+31|Mistake-Driven Mixture of Hierarchical Tag Context Trees.|Masahiko Haruno,Yuji Matsumoto|18|0|0|4
+32|A Flexible POS Tagger Using an Automatically Acquired Language Model.|Lluís Màrquez,Lluís Padró|55|10|0|3
+33|Comparing a Linguistic and a Stochastic Tagger.|Christer Samuelsson,Atro Voutilainen|132|21|0|6
+34|Intonational Boundaries, Speech Repairs and Discourse Markers: Modeling Spoken Dialog.|Peter A. Heeman,James F. Allen|63|6|0|4
+35|Tracking Initiative in Collaborative Dialogue Interactions.|Jennifer Chu-Carroll,Michael K. Brown|45|5|0|1
+36|PARADISE: A Framework for Evaluating Spoken Dialogue Agents.|Marilyn A. Walker,Diane J. Litman,Candace A. Kamm,Alicia Abella|676|248|13|20
+37|Unification-based Multimodal Integration.|Michael Johnston,Philip R. Cohen,David McGee,Sharon L. Oviatt,James A. Pittman,Ira A. Smith|280|47|6|33
+38|A DP based Search Using Monotone Alignments in Statistical Translation.|Christoph Tillmann,Stephan Vogel,Hermann Ney,A. Zubiaga|101|21|4|21
+39|An Alignment Method for Noisy Parallel Corpora based on Image Processing Techniques.|Jason S. Chang,Mathis H. M. Chen|17|3|0|1
+40|A Portable Algorithm for Mapping Bitext Correspondence.|I. Dan Melamed|99|22|2|8
+41|Efficient Generation in Primitive Optimality Theory.|Jason Eisner|126|30|0|8
+42|A Trainable Rule-based Algorithm for Word Segmentation.|David D. Palmer|113|27|0|2
+43|Compiling Regular Formalisms with Rule Features into Finite-State Automata.|George Anton Kiraz|10|0|0|1
+44|The Complexity of Recognition of Linguistically Adequate Dependency Grammars.|Peter Neuhaus,Norbert Bröker|55|13|0|3
+45|Maximal Incrementality in Linear Categorial Deduction.|Mark Hepple|3|1|0|1
+46|Automatic Extraction of Aspectual Information from a Monolingual Corpus.|Akira Oishi,Yuji Matsumoto|1|0|0|0
+47|A Comparison of Head Transducers and Transfer for a Limited Domain Translation Application.|Hiyan Alshawi,Adam L. Buchsbaum,Fei Xia|30|5|1|7
+48|Decoding Algorithm in Statistical Machine Translation.|Ye-Yi Wang,Alex Waibel|146|36|9|6
+49|A Model of Lexical Attraction and Repulsion.|Doug Beeferman,Adam L. Berger,John D. Lafferty|102|27|0|8
+50|Hierarchical Non-Emitting Markov Models.|Eric Sven Ristad,Robert G. Thomas|12|0|0|2
+51|Efficient Construction of Underspecified Semantics under Massive Ambiguity.|Jochen Dörre|19|1|1|0
+52|A Theory of Parallelism and the Case of VP Ellipsis.|Jerry R. Hobbs,Andrew Kehler|57|18|0|4
+53|On Interpreting F-Structures as UDRSs.|Josef van Genabith,Richard S. Crouch|13|1|0|8
+54|A Uniform Approach to Underspecification and Parallelism.|Joachim Niehren,Manfred Pinkal,Peter Ruhrberg|51|10|0|12
+55|Co-evolution of Language and of the Language Acquisition Device.|Ted Briscoe|37|6|0|6
+56|Paradigmatic Cascades: a Linguistically Sound Model of Pronunciation by Analogy.|François Yvon|42|6|0|7
+57|Memory-Based Learning: Using Similarity for Smoothing.|Jakub Zavrel,Walter Daelemans|85|11|0|23
+58|String Transformation Learning.|Giorgio Satta,John C. Henderson|12|1|1|0
+59|Approximating Context-Free Grammars with a Finite-State Calculus.|Edmund Grimley-Evans|22|2|0|0
+60|Finite State Transducers Approximating Hidden Markov Models.|André Kempe|23|4|2|4
+61|Representing Constraints with Automata.|Frank Morawietz,Tom Cornell|16|0|0|2
+62|Retrieving Collocations by Co-occurrences and Word Order Constraints.|Sayori Shimohata,Toshiyuki Sugio,Junji Nagata|85|22|3|3
+63|Learning Parse and Translation Decisions from Examples with Rich Context.|Ulf Hermjakob,Raymond J. Mooney|102|3|0|13
+64|A Word-to-Word Model of Translational Equivalence.|I. Dan Melamed|161|31|5|6
+65|A Structured Language Model.|Ciprian Chelba|47|19|7|7
+66|Incorporating Context Information for the Extraction of Terms.|Katerina T. Frantzi|43|14|0|2
+67|Knowledge Acquisition from Texts: Using an Automatic Clustering Method Based on Noun-Modifier Relationship.|Houssem Assadi|29|4|0|1
+68|Choosing the Word Most Typical in Context Using a Lexical Co-Occurrence Network.|Philip Edmonds|90|41|4|2
+69|Improving Translation through Contextual Information.|Maite Taboada|3|0|0|1
+70|Generative Power of CCGs with Generalized Type-Raised Categories.|Nobo Komagata|3|1|0|2
+71|Representing Paraphrases Using Synchronous TAGs.|Marc Dras|20|4|0|4
+72|Contrastive Accent in a Data-to-Speech System.|Mariët Theune|16|2|0|5
+73|Towards Resolution of Bridging Descriptions.|Renata Vieira,Simone Teufel|22|7|0|9
+74|Compositional Semantics of German Prefix Verbs.|Maria Wolters|4|0|0|0

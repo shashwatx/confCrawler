@@ -1,0 +1,80 @@
+79
+1|Proceedings of the Tenth International World Wide Web Conference, WWW 10, Hong Kong, China, May 1-5, 2001.|Vincent Y. Shen,Nobuo Saito,Michael R. Lyu,Mary Ellen Zurko|n/a
+2|Personal DJ, an architecture for personalised content delivery.|Adam Field,Pieter H. Hartel,Wim Mooij|36|6|9|2
+3|Communication design for electronic negotiations on the basis of XML schema.|Michael Ströbel|37|2|4|0
+4|On granting limited access to private information.|Frans A. Lategan,Martin S. Olivier|14|1|0|3
+5|Using proxy cache relocation to accelerate Web browsing in wireless/mobile communications.|Stathes Hadjiefthymiades,Lazaros F. Merakos|68|18|11|0
+6|Segment-based proxy caching of multimedia streams.|Kun-Lung Wu,Philip S. Yu,Joel L. Wolf|351|92|2|2
+7|Engineering server-driven consistency for large scale dynamic Web services.|Jian Yin,Lorenzo Alvisi,Michael Dahlin,Arun Iyengar|76|8|1|7
+8|On representation of a highlight on the Web: the amber room as a cultural phenomenon in progress.|Tatyana G. Bogomazova,Cyrill A. Malevanov|0|0|0|0
+9|1000 years of the olympic games: treasures of ancient Greece. digital reconstruction at the home of the gods.|Sarah Kenderdine|12|2|0|2
+10|sTeam - Designing an integrative infrastructure for Web-based computer-supported cooperative learning.|Thorsten Hampel,Reinhard Keil-Slawik|36|3|2|15
+11|A component model for stardardized web-based education.|Luis E. Anido-Rifón,Martín Llamas Nistal,Manuel J. Fernández Iglesias|26|5|0|0
+12|Intelligent crawling on the World Wide Web with arbitrary predicates.|Charu C. Aggarwal,Fatima Al-Garawi,Philip S. Yu|385|140|11|5
+13|An adaptive model for optimizing performance of an incremental web crawler.|Jenny Edwards,Kevin S. McCurley,John A. Tomlin|233|84|4|3
+14|Breadth-first crawling yields high-quality pages.|Marc Najork,Janet L. Wiener|460|172|15|5
+15|Support concepts for Web navigation: a cognitive engineering approach.|Mark A. Neerincx,Jasper Lindenberg,Steven Pemberton|34|8|1|6
+16|Web-based personalization and management of interactive video.|Rune Hjelsvold,Subu Vdaygiri,Yves Léauté|71|18|3|2
+17|LiteMinutes: an Internet-based system for multimedia meeting minutes.|Patrick Chiu,John S. Boreczky,Andreas Girgensohn,Don Kimber|82|18|4|5
+18|Scaling question answering to the Web.|Cody C. T. Kwok,Oren Etzioni,Daniel S. Weld|535|178|9|20
+19|Clustering user queries of a search engine.|Ji-Rong Wen,Jian-Yun Nie,HongJiang Zhang|447|247|10|7
+20|Learning search engine specific query transformations for question answering.|Eugene Agichtein,Steve Lawrence,Luis Gravano|163|42|12|3
+21|A unified constraint model for XML.|Wenfei Fan,Gabriel M. Kuper,Jérôme Siméon|57|7|0|0
+22|MSL - a model for W3C XML schema.|Allen Brown,Matthew Fuchs,Jonathan Robie,Philip Wadler|68|9|0|2
+23|Keys for XML.|Peter Buneman,Susan B. Davidson,Wenfei Fan,Carmem S. Hara,Wang Chiew Tan|435|106|0|47
+24|Integrating the document object model with hyperlinks for enhanced topic distillation and information extraction.|Soumen Chakrabarti|234|50|9|3
+25|Geospatial mapping and navigation of the web.|Kevin S. McCurley|286|116|27|2
+26|Retrieving and organizing web pages by ``information unit''.|Wen-Syan Li,K. Selçuk Candan,Quoc Vu,Divyakant Agrawal|145|53|2|9
+27|Resource management for scalable disconnected access to Web services.|Bharat Chandra,Michael Dahlin,Lei Gao,Amjad-Ali Khoja,Amol Nayate,Asim Razzaq,Anil Sewani|49|15|12|13
+28|N for the price of 1: bundling web objects for more efficient content delivery.|Craig E. Wills,Mikhail Mikhailov,Hao Shang|54|9|8|6
+29|Adaptive push-pull: disseminating dynamic web data.|Pavan Deolasee,Amol Katkar,Ankur Panchbudhe,Krithi Ramamritham,Prashant J. Shenoy|179|36|0|0
+30|Designing personalized web applications.|Gustavo Rossi,Daniel Schwabe,Robson Guimarães|273|77|54|7
+31|Item-based collaborative filtering recommendation algorithms.|Badrul M. Sarwar,George Karypis,Joseph A. Konstan,John Riedl|5063|3360|36|41
+32|Personalizing E-commerce applications with on-line heuristic decision making.|Vinod Anupam,Richard Hull,Bharat Kumar|13|3|0|1
+33|An intelligent distributed environment for active learning.|Yi Shang,Hongchi Shi,Su-Shing Chen|185|52|1|6
+34|ViBE: virtual biology experiments.|Rajaram Subramanian,Ivan Marsic|42|12|0|2
+35|A metro map metaphor for guided tours on the Web: the Webvise guided tour system.|Elmer Sandvad,Kaj Grønbæk,Lennert Sloth,Jørgen Lindskov Knudsen|48|12|0|0
+36|Conceptual linking: ontology-based open hypermedia.|Les Carr,Wendy Hall,Sean Bechhofer,Carole A. Goble|226|32|2|41
+37|Constructing multi-granular and topic-focused web site maps.|Wen-Syan Li,Necip Fazil Ayan,Okan Kolak,Quoc Vu,Hajime Takano,Hisashi Shimamura|31|8|0|2
+38|Vinci: a service-oriented architecture for rapid development of web applications.|Rakesh Agrawal,Roberto J. Bayardo Jr.,Daniel Gruhl,Spiros Papadimitriou|107|19|8|8
+39|Algorithms and programming models for efficient representation of XML for Internet applications.|Neel Sundaresan,Reshad Moussa|84|24|13|0
+40|Enabling full service surrogates using the portable channel representation.|Micah Beck,Terry Moore,Leif Abrahamsson,Christophe Achouiantz,Patrick Johansson|19|5|12|1
+41|Towards a highly-scalable and effective metasearch engine.|Zonghuan Wu,Weiyi Meng,Clement T. Yu,Zhuogang Li|79|18|0|7
+42|Building a distributed full-text index for the Web.|Sergey Melnik,Sriram Raghavan,Beverly Yang,Hector Garcia-Molina|256|99|27|4
+43|Placing search in context: the concept revisited.|Lev Finkelstein,Evgeniy Gabrilovich,Yossi Matias,Ehud Rivlin,Zach Solan,Gadi Wolfman,Eytan Ruppin|864|592|69|7
+44|Finding authorities and hubs from link structures on the World Wide Web.|Allan Borodin,Gareth O. Roberts,Jeffrey S. Rosenthal,Panayiotis Tsaparas|320|83|4|4
+45|Mining web logs to improve website organization.|Ramakrishnan Srikant,Yinghui Yang|207|62|1|0
+46|PicASHOW: pictorial authority search by hyperlinks on the Web.|Ronny Lempel,Aya Soffer|93|33|9|0
+47|The design and implementation of the redland RDF application framework.|Dave J. Beckett|201|71|9|1
+48|Combining RDF and XML schemas to enhance interoperability between metadata application profiles.|Jane Hunter,Carl Lagoze|115|25|2|3
+49|Enabling knowledge representation on the Web by extending RDF schema.|Jeen Broekstra,Michel C. A. Klein,Stefan Decker,Dieter Fensel,Frank van Harmelen,Ian Horrocks|221|36|1|10
+50|Towards second and third generation web-based multimedia.|Jacco van Ossenbruggen,Joost Geurts,Frank Cornelissen,Lynda Hardman,Lloyd Rutledge|143|8|0|20
+51|A constraint extension to scalable vector graphics.|Greg J. Badros,Jojada J. Tirtowidjojo,Kim Marriott,Bernd Meyer,Will Portnoy,Alan Borning|63|14|3|7
+52|A RTP to HTTP video gateway.|Mathias Johanson|35|7|3|3
+53|Fine grained access control for SOAP E-services.|Ernesto Damiani,Sabrina De Capitani di Vimercati,Stefano Paraboschi,Pierangela Samarati|107|36|3|5
+54|Protecting web servers from distributed denial of service attacks.|Frank Kargl,Jörn Maier,Michael Weber|175|49|11|0
+55|Batch rekeying for secure group communications.|Xiaozhou (Steve) Li,Yang Richard Yang,Mohamed G. Gouda,Simon S. Lam|305|94|4|7
+56|A client-aware dispatching algorithm for web clusters providing multiple services.|Emiliano Casalicchio,Michele Colajanni|127|40|1|6
+57|An admission control scheme for predictable server response time for web accesses.|Xiangping Chen,Prasant Mohapatra,Huamin Chen|134|24|4|5
+58|Distributed cooperative Apache web server.|Quanzhong Li,Bongki Moon|60|6|0|0
+59|Personalizing Web Sites for Mobile Users.|Corin R. Anderson,Pedro M. Domingos,Daniel S. Weld|186|41|17|6
+60|WebViews: accessing personalized web content and services.|Juliana Freire,Bharat Kumar,Daniel F. Lieuwen|137|30|27|1
+61|Function-based object model towards website adaptation.|Jinlin Chen,Baoyao Zhou,Jin Shi,HongJiang Zhang,Qiu Fengwu|267|77|25|14
+62|When experts agree: using non-affiliated experts to rank popular topics.|Krishna Bharat,George A. Mihaila|109|34|5|0
+63|On integrating catalogs.|Rakesh Agrawal,Ramakrishnan Srikant|181|33|0|0
+64|Rank aggregation methods for the Web.|Cynthia Dwork,Ravi Kumar,Moni Naor,D. Sivakumar|1271|770|17|12
+65|Annotea: an open RDF infrastructure for shared Web annotations.|José Kahan,Marja-Riitta Koivunen|937|287|39|6
+66|Pushing reactive services to XML repositories using active rules.|Angela Bonifati,Stefano Ceri,Stefano Paraboschi|89|17|1|1
+67|XML Query Forms (XQForms): Declarative Specification of XML Query Interfaces.|Michalis Petropoulos,Vasilis Vassalos,Yannis Papakonstantinou|31|7|0|6
+68|Seeing the whole in parts: text summarization for web browsing on handheld devices.|Orkut Buyukkokten,Hector Garcia-Molina,Andreas Paepcke|357|77|13|2
+69|Efficient Web form entry on PDAs.|Oliver Kaljuvee,Orkut Buyukkokten,Hector Garcia-Molina,Andreas Paepcke|83|24|13|2
+70|Improving mobile internet usability.|George Buchanan,Sarah Farrant,Matt Jones,Harold W. Thimbleby,Gary Marsden,Michael J. Pazzani|356|102|1|8
+71|IEPAD: information extraction based on pattern discovery.|Chia-Hui Chang,Shao-Chen Lui|605|310|52|12
+72|Effective Web data extraction with standard XML technologies.|Jussi Myllymaki|353|89|51|3
+73|Mixed-initiative, multi-source information assistants.|Craig A. Knoblock,Steven Minton,José Luis Ambite,Maria Muslea,Jean Oh,Martin Frank|82|15|12|9
+74|A case study in web search using TREC algorithms.|Amit Singhal,Marcin Kaszkiel|76|17|0|0
+75|WebQuilt: a framework for capturing and visualizing the web experience.|Jason I. Hong,James A. Landay|139|52|23|6
+76|Object-Z web environment and projections to UML.|Jing Sun,Jin Song Dong,Jing Liu,Hai H. Wang|41|10|0|11
+77|Map adaptation for users of mobile systems.|Dan Chalmers,Morris Sloman,Naranker Dulay|38|7|0|3
+78|Visitor awareness in the web.|Albrecht Schmidt,Hans-Werner Gellersen|22|8|0|4
+79|Knowledge encapsulation for focused search from pervasive devices.|Yariv Aridor,David Carmel,Yoëlle S. Maarek,Aya Soffer,Ronny Lempel|31|2|3|1

@@ -1,0 +1,76 @@
+75
+1|Proceedings of the Second International Conference on Knowledge Discovery and Data Mining (KDD-96), Portland, Oregon, USA.|Evangelos Simoudis,Jiawei Han,Usama M. Fayyad|n/a
+2|Sharing Learned Models among Remote Database Partitions by Local Meta-Learning.|Philip K. Chan,Salvatore J. Stolfo|57|3|0|7
+3|Combining Data Mining and Machine Learning for Effective User Profiling.|Tom Fawcett,Foster J. Provost|212|79|10|11
+4|Local Induction of Decision Trees: Towards Interactive Data Mining.|Truxton Fulton,Simon Kasif,Steven Salzberg,David L. Waltz|11|4|0|0
+5|Knowledge Discovery in RNA Sequence Families of HIV Using Scalable Computers.|Ivo L. Hofacker,Martijn A. Huynen,Peter F. Stadler,Paul E. Stolorz|29|2|0|12
+6|Parallel Halo Finding in N-Body Cosmology Simulations.|David W. Pfitzner,John K. Salmon|7|3|0|0
+7|Scalable Exploratory Data Mining of Distributed Geoscientific Data.|Eddie C. Shek,Richard R. Muntz,Edmond Mesrobian,Kenneth W. Ng|39|0|0|0
+8|Using a Hybrid Neural/Expert System for Data Base Mining in Market Survey Data.|Victor Ciesielski,Gregory Palstra|28|5|0|0
+9|Discovering Knowledge in Commercial Databases Using Modern Heuristic Techniques.|Beatriz de la Iglesia,Justin C. W. Debuse,Victor J. Rayward-Smith|29|2|0|9
+10|KDD for Science Data Analysis: Issues and Examples.|Usama M. Fayyad,David Haussler,Paul E. Stolorz|111|21|0|2
+11|Data Mining and Model Simplicity: A Case Study in Diagnosis.|Gregory M. Provan,Moninder Singh|15|3|0|0
+12|Automated Discovery of Medical Expert System Rules from Clinical Databases Based on Rough Sets.|Shusaku Tsumoto,Hiroshi Tanaka|86|19|0|38
+13|Automated Discovery of Active Motifs in Multiple RNA Secondary Structures.|Jason Tsong-Li Wang,Bruce A. Shapiro,Dennis Shasha,Kaizhong Zhang,Chia-Yo Chang|36|2|0|10
+14|Detecting Early Indicator Cars in an Automotive Database: A Multi-Strategy Approach.|Rüdiger Wirth,Thomas P. Reinartz|20|3|0|4
+15|Knowledge Discovery and Data Mining: Towards a Unifying Framework.|Usama M. Fayyad,Gregory Piatetsky-Shapiro,Padhraic Smyth|951|351|7|1
+16|An Overview of Issues in Developing Industrial Data Mining and Knowledge Discovery Applications.|Gregory Piatetsky-Shapiro,Ronald J. Brachman,Tom Khabaza,Willi Klösgen,Evangelos Simoudis|84|17|0|1
+17|Linear-Time Rule Induction.|Pedro M. Domingos|34|5|0|0
+18|Learning from Biased Data Using Mixture Models.|A. J. Feelders|8|1|0|0
+19|Discovery of Relevant New Features by Generating Non-Linear Decision Trees.|Andreas Ittner,Michael Schlosser|23|6|0|1
+20|Error-Based and Entropy-Based Discretization of Continuous Features.|Ron Kohavi,Mehran Sahami|337|70|0|4
+21|Rethinking the Learning of Belief Network Probabilities.|Ron Musick|3|0|0|0
+22|Clustering Using Monte Carlo Cross-Validation.|Padhraic Smyth|192|41|0|10
+23|Harnessing Graphical Structure in Markov Chain Monte Carlo Learning.|Paul E. Stolorz,Philip C. Chew|0|0|0|0
+24|Imputation of Missing Data Using Machine Learning Techniques.|Kamakshi Lakshminarayan,Steven A. Harp,Robert P. Goldman,Tariq Samad|81|30|0|1
+25|Discovering Generalized Episodes Using Minimal Occurrences.|Heikki Mannila,Hannu Toivonen|490|110|4|12
+26|Metapattern Generation for Integrated Data Mining.|Wei-Min Shen,Bing Leng|4|0|0|0
+27|Automated Pattern Mining with a Scale Dimension.|Jan M. Zytkow,Robert Zembowicz|0|0|0|0
+28|A Linear Method for Deviation Detection in Large Databases.|Andreas Arning,Rakesh Agrawal,Prabhakar Raghavan|406|147|6|3
+29|Planning Tasks for Knowledge Discovery in Databases; Performing Task-Oriented User-Guidance.|Robert Engels|63|10|0|6
+30|Predictive Data Mining with Finite Mixtures.|Petri Kontkanen,Petri Myllymäki,Henry Tirri|18|1|0|10
+31|An Empirical Test of the Weighted Effect Approach to Generalized Prediction Using Recursive Neural Nets.|Rense Lange|4|0|0|2
+32|Multiple Uses of Frequent Sets and Condensed Representations (Extended Abstract).|Heikki Mannila,Hannu Toivonen|270|72|1|8
+33|A Comparison of Approaches for Maximizing Business Payoff of Prediction Models.|Brij M. Masand,Gregory Piatetsky-Shapiro|44|7|0|1
+34|Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid.|Ron Kohavi|932|462|18|10
+35|Quakefinder: A Scalable Data Mining System for Detecting Earthquakes from Space.|Paul E. Stolorz,Christopher Dean|28|5|0|0
+36|Extensibility in Data Mining Systems.|Stefan Wrobel,Dietrich Wettschereck,Edgar Sommer,Werner Emde|56|3|0|7
+37|Mining Knowledge in Noisy Audio Data.|Andrzej Czyzewski|16|3|0|0
+38|A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise.|Martin Ester,Hans-Peter Kriegel,Jörg Sander,Xiaowei Xu|7922|4890|29|128
+39|A Method for Reasoning with Structured and Continuous Attributes in the INLEN-2 Multistrategy Knowledge Discovery System.|Kenneth A. Kaufman,Ryszard S. Michalski|29|5|0|10
+40|Self-Organizing Maps of Document Collections: A New Approach to Interactive Exploration.|Krista Lagus,Timo Honkela,Samuel Kaski,Teuvo Kohonen|230|33|1|24
+41|The Quest Data Mining System.|Rakesh Agrawal,Manish Mehta,John C. Shafer,Ramakrishnan Srikant,Andreas Arning,Toni Bollinger|310|84|14|2
+42|DBMiner: A System for Mining Knowledge in Large Relational Databases.|Jiawei Han,Yongjian Fu,Wei Wang,Jenny Chiang,Wan Gong,Krzysztof Koperski,Deyi Li,Yijun Lu,Amynmohamed Rajan,Nebojsa Stefanovic,Betty Xia,Osmar R. Zaïane|229|34|2|0
+43|DataMine: Application Programming Interface and Query Language for Database Mining.|Tomasz Imielinski,Aashu Virmani,Amin Abdulghani|111|17|2|2
+44|Evaluating the Interestingness of Characteristic Rules.|Micheline Kamber,Rajjan Shinghal|114|25|0|1
+45|The Field Matching Problem: Algorithms and Applications.|Alvaro E. Monge,Charles Elkan|569|260|10|7
+46|Discovering Classification Knowledge in Databases Using Rough Sets.|Ning Shan,Wojciech Ziarko,Howard J. Hamilton,Nick Cercone|10|0|0|1
+47|Exceptional Knowledge Discovery in Databases Based on Information Theory.|Einoshin Suzuki,Masamichi Shimura|57|14|0|19
+48|Interactive Knowledge Discovery from Marketing Questionnaire Using Simulated Breeding and Inductive Learning Methods.|Takao Terano,Yoko Ishino|12|1|0|1
+49|Representing Discovered Patterns Using Attributed Hypergraph.|Yang Wang,Andrew K. C. Wong|2|0|0|0
+50|Developing Tightly-Coupled Data Mining Applications on a Relational Database System.|Rakesh Agrawal,Kyuseok Shim|167|35|14|4
+51|Mining Entity-Identification Rules for Database Integration.|M. Ganesh,Jaideep Srivastava,Travis Richardson|23|7|0|1
+52|Undiscovered Public Knowledge: A Ten-Year Update.|Don R. Swanson,Neil R. Smalheiser|21|15|0|1
+53|A Genetic Algorithm-Based Approach to Data Mining.|Ian W. Flockhart,Nicholas J. Radcliffe|66|13|0|0
+54|Deriving Queries from Results Using Genetic Programming.|Tae-Wan Ryu,Christoph F. Eick|24|4|0|6
+55|Maintenance of Discovered Knowledge: A Case in Multi-Level Association Rules.|David Wai-Lok Cheung,Vincent T. Y. Ng,Benjamin W. Tam|83|12|0|0
+56|Analysing Binary Associations.|Arno J. Knobbe,Pieter W. Adriaans|25|2|0|1
+57|Growing Simpler Decision Trees to Facilitate Knowledge Discovery.|Kevin J. Cherkauer,Jude W. Shavlik|100|19|0|0
+58|Efficient Specific-to-General Rule Induction.|Pedro M. Domingos|25|4|1|0
+59|Data Mining and Tree-Based Optimization.|Robert L. Grossman,Haim Bodek,Dave Northcutt,H. Vincent Poor|21|4|0|12
+60|Induction of Condensed Determinations.|Pat Langley|24|5|0|2
+61|SE-Trees Outperform Decision Trees in Noisy Domains.|Ron Rymon|7|1|0|1
+62|Learning Limited Dependence Bayesian Classifiers.|Mehran Sahami|425|158|16|10
+63|RITIO - Rule Induction Two In One.|David Urpani,Xindong Wu,Jim Sykes|n/a
+64|Mining Associations in Text in the Presence of Background Knowledge.|Ronen Feldman,Haym Hirsh|147|32|8|3
+65|Extraction of Spatial Proximity Patterns by Concept Generalization.|Edwin M. Knorr,Raymond T. Ng|25|7|0|1
+66|Pattern Discovery in Temporal Databases: A Temporal Logic Approach.|Balaji Padmanabhan,Alexander Tuzhilin|72|18|0|2
+67|Exploiting Background Knowledge in Automated Discovery.|John M. Aronis,Foster J. Provost,Bruce G. Buchanan|42|10|0|4
+68|Data Mining with Sparse and Simplified Interaction Selection.|Gerald Fahner|0|0|0|0
+69|Inferring Hierarchical Clustering Structures by Deterministic Annealing.|Thomas Hofmann,Joachim M. Buhmann|8|1|0|2
+70|Static Versus Dynamic Sampling for Data Mining.|George H. John,Pat Langley|214|58|1|2
+71|Efficient Search for Strong Partial Determinations.|Stefan Kramer,Bernhard Pfahringer|n/a
+72|Reverse Engineering Databases for Knowledge Discovery.|Stephen McKearney,Huw Roberts|14|0|0|0
+73|Performing Effective Feature Selection by Investigating the Deep Structure of the Data.|Marco Richeldi,Pier Luca Lanzi|39|3|0|2
+74|Harnessing the Human in Knowledge Discovery.|Georges G. Grinstein|19|3|0|2
+75|Efficient Implementation of Data Cubes Via Materialized Views.|Jeffrey D. Ullman|27|7|2|0

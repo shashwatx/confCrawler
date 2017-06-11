@@ -1,0 +1,37 @@
+36
+1|Advances in Database Technology - EDBT'92, 3rd International Conference on Extending Database Technology, Vienna, Austria, March 23-27, 1992, Proceedings.|Alain Pirotte,Claude Delobel,Georg Gottlob|0|0|0|0
+2|Understanding Object-Oriented Database Systems.|François Bancilhon|12|1|0|0
+3|On Formalizing Database Updates: Preliminary Report.|Raymond Reiter|59|2|0|4
+4|Concepts for Graph-Oriented Object Manipulation.|Marc Andries,Marc Gemis,Jan Paredaens,Inge Thyssens,Jan Van den Bussche|47|15|0|14
+5|The Manchester Multimedia Information System.|Carole A. Goble,Michael O'Docherty,Peter Crowther,Mark Ireton,John P. Oakley,Costas S. Xydeas|56|6|14|2
+6|Query by Visual Example - Content based Image Retrieval.|Kyoji Hirata,Toshikazu Kato|n/a
+7|Optimization of Linear Logic Programs Using Counting Methods.|Sergio Greco,Carlo Zaniolo|16|5|0|9
+8|Generalized Bottom-Up Query Evaluation.|Stefan Brass,Udo W. Lipeck|33|1|0|18
+9|Compilation-Based List Processing in Deductive Databases.|Jiawei Han|9|1|0|7
+10|Multiple Substitutability Without Affecting the Taxonomy.|Guido Moerkotte,Andreas Zachmann|11|0|0|2
+11|A View Mechanism for Object-Oriented Databases.|Elisa Bertino|301|10|0|6
+12|Theoretical Aspects of Schema Merging.|Peter Buneman,Susan B. Davidson,Anthony Kosky|142|27|0|5
+13|Towards a Logical-Object Oriented Programming Language for Databases.|Elisa Bertino,Danilo Montesi|47|1|0|6
+14|Supporting Access Control in an Object-Oriented Database Language.|Rafiul Ahad,James Davis,Stefan Gower,Peter Lyngbæk,Andra Marynowski,Emmanuel Onuegbe|49|5|3|1
+15|CQL++: A SQL for the Ode Object-Oriented DBMS.|Shaul Dar,Narain H. Gehani,H. V. Jagadish|38|2|1|4
+16|Retrieval of Complex Objects.|W. Bruce Croft,Howard R. Turtle|15|0|0|4
+17|Evolution of Knowledge Bases.|Domenico Saccà,Brigitte Verdonk,Dirk Vermeir|3|1|0|1
+18|The Events Method for View Updating in Deductive Databases.|Ernest Teniente,Antoni Olivé|27|1|0|10
+19|Implementation of Delayed Updates in Heraclitus.|Shahram Ghandeharizadeh,Richard Hull,Dean Jacobs|22|1|0|7
+20|Adaptive and Automated Index Selection in RDBMS.|Martin R. Frank,Edward Omiecinski,Shamkant B. Navathe|77|22|9|0
+21|Performance of On-Line Index Construction Algorithms.|V. Srinivasan,Michael J. Carey|48|19|2|1
+22|Hybrid Index Organizations for Text Databases.|Christos Faloutsos,H. V. Jagadish|43|4|0|4
+23|Sampling Issues in Parallel Database Systems.|S. Seshadri,Jeffrey F. Naughton|46|12|4|3
+24|Parallelism For High Performance Query Processing.|Vincent G. Winters|2|0|0|0
+25|Dynamic and Load-balanced Task-Oriented Datbase Query Processing in Parallel Systems.|Hongjun Lu,Kian-Lee Tan|70|13|4|4
+26|The Demarcation Protocol: A Technique for Maintaining Linear Arithmetic Constraints in Distributed Database Systems.|Daniel Barbará,Hector Garcia-Molina|98|6|1|5
+27|Fragmentation of Recursive Relations in Distributed Datbases.|Sakti Pramanik,David T. Kao,David Vineyard|4|0|0|1
+28|A Geometric Approach to Indexing Large Rule Bases.|Timos K. Sellis,Chih-Chen Lin|5|1|0|0
+29|Database Support for Problematic Knowledge.|Werner Kießling,Helmut Thöne,Ulrich Güntzer|34|5|0|0
+30|A Knowledge-Based Approach to Statistical Query Processing.|Carla Basili,Roberto Basili,Leonardo Meo-Evoli|3|1|0|3
+31|Efficient Locking and Caching of Data in the Multisystem Shard Disks Transaction Environment.|C. Mohan,Inderpal Narang|59|9|17|7
+32|A Non-Restrictive Concurrency Control for Object Oriented Databases.|Divyakant Agrawal,Amr El Abbadi|33|4|0|1
+33|An Execution Model for Distributed Database Transactions and Its Implementation in VPL.|eva Kühn,Franz Puntigam,Ahmed K. Elmagarmid|6|0|0|4
+34|Approximate Query Processing with Summary Tables in Statistical Databases.|Soraya Abad-Mota|10|0|0|1
+35|Pipelined Query Processing in the DBGraph Storage Model.|Philippe Pucheral,Jean-Marc Thévenin|9|1|0|2
+36|Optimizing Object-Oriented Datbase Queries using Cost-Controlled Rewriting.|Georges Gardarin,Rosana S. G. Lanzelotte|10|1|1|2

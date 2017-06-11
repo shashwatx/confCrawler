@@ -1,0 +1,50 @@
+49
+1|17th International Conference on High-Performance Computer Architecture (HPCA-17 2011), February 12-16 2011, San Antonio, Texas, USA.|n/a
+2|Programming the cloud.|James R. Larus|n/a
+3|Achieving uniform performance and maximizing throughput in the presence of heterogeneity.|Krishna K. Rangan,Michael D. Powell,Gu-Yeon Wei,David M. Brooks|29|28|1|0
+4|Fg-STP: Fine-Grain Single Thread Partitioning on Multicores.|Rakesh Ranjan,Fernando Latorre,Pedro Marcuello,Antonio González|4|3|0|0
+5|Thread block compaction for efficient SIMT control flow.|Wilson W. L. Fung,Tor M. Aamodt|126|122|0|5
+6|Low-voltage on-chip cache architecture using heterogeneous cell sizes for high-performance processors.|Hamid Reza Ghasemi,Stark C. Draper,Nam Sung Kim|22|21|0|4
+7|Relaxing non-volatility for fast and energy-efficient STT-RAM caches.|Clinton Wills Smullen IV,Vidyabhushan Mohan,Anurag Nigam,Sudhanva Gurumurthi,Mircea R. Stan|166|164|2|4
+8|Shared last-level TLBs for chip multiprocessors.|Abhishek Bhattacharjee,Daniel Lustig,Margaret Martonosi|46|45|2|8
+9|Bloom Filter Guided Transaction Scheduling.|Geoffrey Blake,Ronald G. Dreslinski,Trevor N. Mudge|25|24|0|0
+10|Dynamic parallelization of JavaScript applications using an ultra-lightweight speculation mechanism.|Mojtaba Mehrara,Po-Chun Hsu,Mehrzad Samadi,Scott A. Mahlke|32|31|0|1
+11|HAQu: Hardware-accelerated queueing for fine-grained threading on a chip multiprocessor.|Sanghoon Lee,Devesh Tiwari,Yan Solihin,James Tuck|15|14|0|2
+12|MOPED: Orchestrating interprocess message data on CMPs.|Junli Gu,Steven S. Lumetta,Rakesh Kumar,Yihe Sun|3|3|0|1
+13|Addressing system-level trimming issues in on-chip nanophotonic networks.|Christopher Nitta,Matthew K. Farrens,Venkatesh Akella|44|42|0|6
+14|Atomic Coherence: Leveraging nanophotonics to build race-free cache coherence protocols.|Dana Vantrease,Mikko H. Lipasti,Nathan L. Binkert|40|40|1|0
+15|CHIPPER: A low-complexity bufferless deflection router.|Chris Fallin,Chris Craik,Onur Mutlu|104|99|0|18
+16|Power shifting in Thrifty Interconnection Network.|Jian Li,Wei Huang,Charles Lefurgy,Lixin Zhang,Wolfgang E. Denzel,Richard R. Treumann,Kun Wang|23|23|0|0
+17|Cuckoo directory: A scalable directory for many-core systems.|Michael Ferdman,Pejman Lotfi-Kamran,Ken Balet,Babak Falsafi|87|86|1|1
+18|Data-triggered threads: Eliminating redundant computation.|Hung-Wei Tseng,Dean M. Tullsen|21|19|0|5
+19|Fast thread migration via cache working set prediction.|Jeffery A. Brown,Leo Porter,Dean M. Tullsen|32|32|1|1
+20|SolarCore: Solar energy driven multi-core architecture power management.|Chao Li,Wangyuan Zhang,Chang-Burm Cho,Tao Li|55|53|0|12
+21|How's the parallel computing revolution going?|Kathryn S. McKinley|0|0|0|0
+22|CloudCache: Expanding and shrinking private caches.|Hyunjin Lee,Sangyeun Cho,Bruce R. Childers|53|49|0|1
+23|MorphCache: A Reconfigurable Adaptive Multi-level Cache hierarchy.|Shekhar Srikantaiah,Emre Kultursay,Tao Zhang,Mahmut T. Kandemir,Mary Jane Irwin,Yuan Xie|33|30|0|1
+24|NUcache: An efficient multicore cache organization based on Next-Use distance.|R. Manikantan,Kaushik Rajan,R. Govindarajan|35|35|0|1
+25|A new server I/O architecture for high speed networks.|Guangdeng Liao,Xia Zhu,Laxmi N. Bhuyan|40|38|0|1
+26|Essential roles of exploiting internal parallelism of flash memory based solid state drives in high-speed data processing.|Feng Chen,Rubao Lee,Xiaodong Zhang|130|128|1|6
+27|I-CASH: Intelligently Coupled Array of SSD and HDD.|Qing Yang,Jin Ren|105|105|3|6
+28|A case for guarded power gating for multi-core processors.|Niti Madan,Alper Buyuktosunoglu,Pradip Bose,Murali Annavaram|50|50|0|0
+29|Beyond block I/O: Rethinking traditional storage primitives.|Xiangyong Ouyang,David W. Nellans,Robert Wipfel,David Flynn,Dhabaleswar K. Panda|75|72|2|3
+30|Efficient data streaming with on-chip accelerators: Opportunities and challenges.|Rui Hou,Lixin Zhang,Michael C. Huang,Kun Wang,Hubertus Franke,Yi Ge,Xiaotao Chang|25|25|1|1
+31|Hardware/software-based diagnosis of load-store queues using expandable activity logs.|Javier Carretero,Xavier Vera,Jaume Abella,Tanausú Ramírez,Matteo Monchiero,Antonio González|7|7|0|2
+32|Calvin: Deterministic or not? Free will to choose.|Derek Hower,Polina Dudnik,Mark D. Hill,David A. Wood|71|70|1|1
+33|Mercury: A fast and energy-efficient multi-level cell based Phase Change Memory system.|Madhura Joshi,Wangyuan Zhang,Tao Li|46|44|1|1
+34|Offline symbolic analysis to infer Total Store Order.|Dongyoon Lee,Mahmoud Said,Satish Narayanasamy,Zijiang Yang|17|16|0|0
+35|Safe and efficient supervised memory systems.|Jayaram Bobba,Marc Lupon,Mark D. Hill,David A. Wood|3|3|0|0
+36|A quantitative performance analysis model for GPU architectures.|Yao Zhang,John D. Owens|177|171|0|7
+37|Abstraction and microarchitecture scaling in early-stage power modeling.|Hans M. Jacobson,Alper Buyuktosunoglu,Pradip Bose,Emrah Acar,Richard J. Eickemeyer|28|28|4|10
+38|HAsim: FPGA-based high-detail multicore simulation using time-division multiplexing.|Michael Pellauer,Michael Adler,Michel A. Kinsy,Angshuman Parashar,Joel S. Emer|54|54|0|3
+39|Checked Load: Architectural support for JavaScript type-checking on mobile processors.|Owen Anderson,Emily Fortuna,Luis Ceze,Susan J. Eggers|6|6|1|0
+40|Exploiting criticality to reduce bottlenecks in distributed uniprocessors.|Behnam Robatmili,Madhu Saravana Sibi Govindan,Doug Burger,Stephen W. Keckler|9|9|0|1
+41|Storage free confidence estimation for the TAGE branch predictor.|André Seznec|19|19|0|8
+42|Architectural framework for supporting operating system survivability.|Xiaowei Jiang,Yan Solihin|5|5|0|1
+43|FREE-p: Protecting non-volatile memory against both hard and soft errors.|Doe Hyun Yoon,Naveen Muralimanohar,Jichuan Chang,Parthasarathy Ranganathan,Norman P. Jouppi,Mattan Erez|103|99|3|7
+44|Practical and secure PCM systems by online detection of malicious write streams.|Moinuddin K. Qureshi,André Seznec,Luis Lastras,Michele Franceschini|46|45|3|3
+45|Efficient complex operators for irregular codes.|Jack Sampson,Ganesh Venkatesh,Nathan Goulding-Hotta,Saturnino Garcia,Steven Swanson,Michael Bedford Taylor|29|29|0|6
+46|Dynamically Specialized Datapaths for energy efficient computing.|Venkatraman Govindaraju,Chen-Han Ho,Karthikeyan Sankaralingam|126|119|1|8
+47|Hardware/software techniques for DRAM thermal management.|Song Liu,Brian Leung,Alexander Neckar,Seda Ogrenci Memik,Gokhan Memik,Nikos Hardavellas|21|21|0|0
+48|ACCESS: Smart scheduling for asymmetric cache CMPs.|Xiaowei Jiang,Asit K. Mishra,Li Zhao,Ravishankar Iyer,Zhen Fang,Sadagopan Srinivasan,Srihari Makineni,Paul Brett,Chita R. Das|21|21|0|0
+49|Archipelago: A polymorphic cache design for enabling robust near-threshold operation.|Amin Ansari,Shuguang Feng,Shantanu Gupta,Scott A. Mahlke|38|36|0|1

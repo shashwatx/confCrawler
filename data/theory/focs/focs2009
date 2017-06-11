@@ -1,0 +1,75 @@
+74
+1|50th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2009, October 25-27, 2009, Atlanta, Georgia, USA.|n/a
+2|Approximation Algorithms for Multicommodity-Type Problems with Guarantees Independent of the Graph Size.|Ankur Moitra|36|36|0|4
+3|Faster Generation of Random Spanning Trees.|Jonathan A. Kelner,Aleksander Madry|46|44|0|1
+4|Local Graph Partitions for Approximation and Testing.|Avinatan Hassidim,Jonathan A. Kelner,Huy N. Nguyen,Krzysztof Onak|52|48|0|1
+5|Oblivious Routing for the Lp-norm.|Matthias Englert,Harald Räcke|9|9|0|0
+6|Linear Systems over Composite Moduli.|Arkadev Chattopadhyay,Avi Wigderson|9|9|0|2
+7|Multiparty Communication Complexity and Threshold Circuit Size of AC^0.|Paul Beame,Dang-Trinh Huynh-Ngoc|30|27|0|2
+8|The Communication Complexity of Set-Disjointness with Small Sets and 0-1 Intersection.|Eyal Kushilevitz,Enav Weinreb|9|9|0|0
+9|Polynomial Hierarchy, Betti Numbers and a Real Analogue of Toda's Theorem.|Saugata Basu,Thierry Zell|12|12|0|4
+10|Randomized Self-Assembly for Exact Shapes.|David Doty|49|42|0|13
+11|The Quantum and Classical Complexity of Translationally Invariant Tiling and Hamiltonian Problems.|Daniel Gottesman,Sandy Irani|21|19|0|0
+12|On Allocating Goods to Maximize Fairness.|Deeparnab Chakrabarty,Julia Chuzhoy,Sanjeev Khanna|49|44|0|1
+13|Online Stochastic Matching: Beating 1-1/e.|Jon Feldman,Aranyak Mehta,Vahab S. Mirrokni,S. Muthukrishnan|112|106|1|13
+14|Instance-Optimal Geometric Algorithms.|Peyman Afshani,Jérémy Barbay,Timothy M. Chan|40|38|0|5
+15|Delaunay Triangulations in O(sort(n)) Time and More.|Kevin Buchin,Wolfgang Mulzer|25|24|0|8
+16|Orthogonal Range Reporting in Three and Higher Dimensions.|Peyman Afshani,Lars Arge,Kasper Dalgaard Larsen|30|29|0|6
+17|Decomposing Coverings and the Planar Sensor Cover Problem.|Matt Gibson,Kasturi R. Varadarajan|36|35|0|1
+18|Bounded Independence Fools Halfspaces.|Ilias Diakonikolas,Parikshit Gopalan,Ragesh Jaiswal,Rocco A. Servedio,Emanuele Viola|72|64|0|24
+19|Extensions to the Method of Multiplicities, with Applications to Kakeya Sets and Mergers.|Zeev Dvir,Swastik Kopparty,Shubhangi Saraf,Madhu Sudan|73|71|0|10
+20|Constructing Small-Bias Sets from Algebraic-Geometric Codes.|Avraham Ben-Aroya,Amnon Ta-Shma|30|29|0|3
+21|Blackbox Polynomial Identity Testing for Depth 3 Circuits.|Neeraj Kayal,Shubhangi Saraf|55|49|0|9
+22|A New Probability Inequality Using Typical Moments and Concentration Results.|Ravindran Kannan|7|7|0|3
+23|A Probabilistic Inequality with Applications to Threshold Direct-Product Theorems.|Falk Unger|11|10|0|0
+24|Choice-Memory Tradeoff in Allocations.|Noga Alon,Eyal Lubetzky,Ori Gurel-Gurevich|0|0|0|0
+25|A Parallel Repetition Theorem for Any Interactive Argument.|Iftach Haitner|24|22|0|2
+26|Resolving the Simultaneous Resettability Conjecture and a New Non-Black-Box Simulation Strategy.|Yi Deng,Vipul Goyal,Amit Sahai|46|46|0|12
+27|Extracting Correlations.|Yuval Ishai,Eyal Kushilevitz,Rafail Ostrovsky,Amit Sahai|n/a
+28|Settling the Complexity of Arrow-Debreu Equilibria in Markets with Additively Separable Utilities.|Xi Chen,Decheng Dai,Ye Du,Shang-Hua Teng|46|44|0|6
+29|Reducibility among Fractional Stability Problems.|Shiva Kintali,Laura J. Poplawski,Rajmohan Rajaraman,Ravi Sundaram,Shang-Hua Teng|25|22|0|3
+30|Convergence of Local Dynamics to Balanced Outcomes in Exchange Networks.|Yossi Azar,Benjamin E. Birnbaum,L. Elisa Celis,Nikhil R. Devanur,Yuval Peres|21|20|0|0
+31|Convergence to Equilibrium in Local Interaction Games.|Andrea Montanari,Amin Saberi|59|57|0|2
+32|Exact and Approximate Pattern Matching in the Streaming Model.|Benny Porat,Ely Porat|35|33|0|12
+33|Efficient Sketches for Earth-Mover Distance, with Applications.|Alexandr Andoni,Khanh Do Ba,Piotr Indyk,David P. Woodruff|39|36|0|12
+34|Models for the Compressible Web.|Flavio Chierichetti,Ravi Kumar,Silvio Lattanzi,Alessandro Panconesi,Prabhakar Raghavan|13|12|0|2
+35|The Intersection of Two Halfspaces Has High Threshold Degree.|Alexander A. Sherstov|23|21|0|4
+36|Breaking the Multicommodity Flow Barrier for O(vlog n)-Approximations to Sparsest Cut.|Jonah Sherman|60|56|0|1
+37|A Complete Characterization of Statistical Query Learning with Applications to Evolvability.|Vitaly Feldman|37|34|0|17
+38|Agnostic Learning of Monomials by Halfspaces Is Hard.|Vitaly Feldman,Venkatesan Guruswami,Prasad Raghavendra,Yi Wu|53|48|0|4
+39|Learning and Smoothed Analysis.|Adam Tauman Kalai,Alex Samorodnitsky,Shang-Hua Teng|21|20|0|0
+40|k-Means Has Polynomial Smoothed Complexity.|David Arthur,Bodo Manthey,Heiko Röglin|40|36|0|3
+41|Approximating Minimum Cost Connectivity Problems via Uncrossable Bifamilies and Spider-Cover Decompositions.|Zeev Nutov|n/a
+42|Improved Approximation Algorithms for PRIZE-COLLECTING STEINER TREE and TSP.|Aaron Archer,MohammadHossein Bateni,Mohammad Taghi Hajiaghayi,Howard J. Karloff|64|60|0|7
+43|An O(k^3 log n)-Approximation Algorithm for Vertex-Connectivity Survivable Network Design.|Julia Chuzhoy,Sanjeev Khanna|70|62|0|1
+44|An Oblivious O(1)-Approximation for Single Source Buy-at-Bulk.|Ashish Goel,Ian Post|12|10|0|1
+45|Optimal Long Code Test with One Free Bit.|Nikhil Bansal,Subhash Khot|41|35|0|8
+46|Combinatorial PCPs with Efficient Verifiers.|Or Meir|18|18|0|3
+47|Composition of Low-Error 2-Query PCPs Using Decodable PCPs.|Irit Dinur,Prahladh Harsha|29|28|0|6
+48|The Complexity of Rationalizing Network Formation.|Shankar Kalyanaraman,Christopher Umans|3|3|0|0
+49|Dynamic and Non-uniform Pricing Strategies for Revenue Maximization.|Tanmoy Chakraborty,Zhiyi Huang,Sanjeev Khanna|17|16|0|5
+50|On the Power of Randomization in Algorithmic Mechanism Design.|Shahar Dobzinski,Shaddin Dughmi|62|58|0|13
+51|Universal Blind Quantum Computation.|Anne Broadbent,Joseph Fitzsimons,Elham Kashefi|118|103|1|13
+52|Optimal Quantum Strong Coin Flipping.|André Chailloux,Iordanis Kerenidis|46|41|0|12
+53|Two-Message Quantum Interactive Proofs Are in PSPACE.|Rahul Jain,Sarvagya Upadhyay,John Watrous|44|37|0|8
+54|Span Programs and Quantum Query Complexity: The General Adversary Bound Is Nearly Tight for Every Boolean Function.|Ben Reichardt|75|70|0|7
+55|A (log n)Omega(1) Integrality Gap for the Sparsest Cut SDP.|Jeff Cheeger,Bruce Kleiner,Assaf Naor|41|36|0|7
+56|SDP Integrality Gaps with Local ell_1-Embeddability.|Subhash Khot,Rishi Saket|58|51|0|10
+57|Integrality Gaps for Strong SDP Relaxations of UNIQUE GAMES.|Prasad Raghavendra,David Steurer|79|71|0|16
+58|How to Round Any CSP.|Prasad Raghavendra,David Steurer|45|40|0|6
+59|Constraint Satisfaction Problems of Bounded Width.|Libor Barto,Marcin Kozik|122|111|0|15
+60|Bit Encryption Is Complete.|Steven Myers,Abhi Shelat|47|44|0|1
+61|2-Source Extractors under Computational Assumptions and Cryptography with Defective Randomness.|Yael Tauman Kalai,Xin Li,Anup Rao|27|27|0|9
+62|(Meta) Kernelization.|Hans L. Bodlaender,Fedor V. Fomin,Daniel Lokshtanov,Eelko Penninkx,Saket Saurabh,Dimitrios M. Thilikos|102|99|0|5
+63|Planarity Allowing Few Error Vertices in Linear Time.|Ken-ichi Kawarabayashi|21|20|0|1
+64|Symmetry and Approximability of Submodular Maximization Problems.|Jan Vondrák|79|72|0|0
+65|Submodular Function Minimization under Covering Constraints.|Satoru Iwata,Kiyohito Nagano|83|78|0|6
+66|Smoothed Analysis of Multiobjective Optimization.|Heiko Röglin,Shang-Hua Teng|31|31|0|1
+67|Fully Dynamic (2 + epsilon) Approximate All-Pairs Shortest Paths with Fast Query and Close to Linear Update Time.|Aaron Bernstein|20|18|0|3
+68|Distance Oracles for Sparse Graphs.|Christian Sommer,Elad Verbin,Wei Yu|38|38|1|6
+69|Space-Efficient Framework for Top-k String Retrieval Problems.|Wing-Kai Hon,Rahul Shah,Jeffrey Scott Vitter|83|82|0|16
+70|KKL, Kruskal-Katona, and Monotone Nets.|Ryan O'Donnell,Karl Wimmer|32|32|0|4
+71|Higher Eigenvalues of Graphs.|Jonathan A. Kelner,James R. Lee,Gregory N. Price,Shang-Hua Teng|9|8|0|1
+72|Regularity Lemmas and Combinatorial Algorithms.|Nikhil Bansal,Ryan Williams|42|40|0|5
+73|Approximability of Combinatorial Problems with Multi-agent Submodular Cost Functions.|Gagan Goel,Chinmay Karande,Pushkar Tripathi,Lei Wang|59|54|0|7
+74|The Data Stream Space Complexity of Cascaded Norms.|T. S. Jayram,David P. Woodruff|36|30|3|18

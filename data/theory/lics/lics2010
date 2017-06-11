@@ -1,0 +1,48 @@
+47
+1|Proceedings of the 25th Annual IEEE Symposium on Logic in Computer Science, LICS 2010, 11-14 July 2010, Edinburgh, United Kingdom.|n/a
+2|Querying the Guarded Fragment.|Vince Bárány,Georg Gottlob,Martin Otto|70|64|0|25
+3|Highly Acyclic Groups, Hypergraph Covers and the Guarded Fragment.|Martin Otto|21|20|0|9
+4|Equality Is Typable in Semi-full Pure Type Systems.|Vincent Siles,Hugo Herbelin|13|12|0|2
+5|Strong Normalization for System F by HOAS on Top of FOAS.|Andrei Popescu,Elsa L. Gunter,Christopher J. Osborn|9|9|0|6
+6|Game Semantics for a Polymorphic Programming Language.|James Laird|6|5|0|2
+7|An Intuitionistic Logic that Proves Markov's Principle.|Hugo Herbelin|32|31|0|3
+8|Amir Pnueli: A Gentle Giant, Lord of the Phi's and the Psi's.|David Harel|0|0|0|0
+9|Robin Milner, a Craftsman of Tools for the Mind.|Gordon D. Plotkin|0|0|0|0
+10|Alternating Timed Automata over Bounded Time.|Mark Jenkins,Joël Ouaknine,Alexander Rabinovich,James Worrell|14|14|0|4
+11|Regular Cost Functions over Finite Trees.|Thomas Colcombet,Christof Löding|32|32|0|9
+12|Parikh Images of Grammars: Complexity and Applications.|Eryk Kopczynski,Anthony Widjaja To|45|43|0|1
+13|On the Scope of the Universal-Algebraic Approach to Constraint Satisfaction.|Manuel Bodirsky,Martin Hils,Barnaby Martin|17|16|0|15
+14|New Conditions for Taylor Varieties and CSP.|Libor Barto,Marcin Kozik|22|21|0|3
+15|The Fine Print of Security.|Martín Abadi|0|0|0|0
+16|Modular Construction of Fixed Point Combinators and Clocked Bohm Trees.|Jörg Endrullis,Dimitri Hendriks,Jan Willem Klop|7|7|0|5
+17|Recursion Schemes and Logical Reflection.|Christopher H. Broadbent,Arnaud Carayol,C.-H. Luke Ong,Olivier Serre|32|32|0|7
+18|Undecidability of Propositional Separation Logic and Its Neighbours.|James Brotherston,Max I. Kanovich|49|48|0|9
+19|The Undecidability of Boolean BI through Phase Semantics.|Dominique Larchey-Wendling,Didier Galmiche|40|39|0|10
+20|Segal Condition Meets Computational Effects.|Paul-André Melliès|24|24|0|2
+21|The Isomorphism Problem on Classes of Automatic Structures.|Dietrich Kuske,Jiamou Liu,Markus Lohrey|24|21|0|8
+22|On the Strictness of the First-Order Quantifier Structure Hierarchy over Finite Structures.|Yuguo He|0|0|0|0
+23|Fixed-Point Definability and Polynomial Time on Graphs with Excluded Minors.|Martin Grohe|42|37|0|9
+24|Lower Bounds for the Complexity of Monadic Second-Order Logic.|Stephan Kreutzer,Siamak Tazari|22|20|0|4
+25|Capturing Polynomial Time on Interval Graphs.|Bastian Laubner|15|14|0|3
+26|A Generic Operational Metatheory for Algebraic Effects.|Patricia Johann,Alex Simpson,Janis Voigtländer|13|13|0|0
+27|Polarity and the Logic of Delimited Continuations.|Noam Zeilberger|14|14|0|0
+28|Datalog+/-: A Family of Logical Knowledge Representation and Query Languages for New Applications.|Andrea Calì,Georg Gottlob,Thomas Lukasiewicz,Bruno Marnette,Andreas Pieris|93|90|0|17
+29|An Extension of Data Automata that Captures XPath.|Mikolaj Bojanczyk,Slawomir Lasota|34|30|0|0
+30|Deciding Definability in FO2(<) (or XPath) on Trees.|Thomas Place,Luc Segoufin|n/a
+31|The Emptiness Problem for Tree Automata with Global Constraints.|Luis Barguñó,Carles Creus,Guillem Godoy,Florent Jacquemard,Camille Vacher|19|17|0|2
+32|Addition-Invariant FO and Regularity.|Nicole Schweikardt,Luc Segoufin|9|8|0|7
+33|Theorem Proving for Verification: The Early Days.|J. Strother Moore|4|4|0|0
+34|Breaking Paths in Atomic Flows for Classical Logic.|Alessio Guglielmi,Tom Gundersen,Lutz Straßburger|30|29|0|13
+35|Infinitary Completeness in Ludics.|Michele Basaldella,Kazushige Terui|2|2|0|1
+36|On Strong Maximality of Paraconsistent Finite-Valued Logics.|Arnon Avron,Ofer Arieli,Anna Zamansky|4|3|0|2
+37|Probabilistic Information Flow.|Mário S. Alvim,Miguel E. Andrés,Catuscia Palamidessi|16|16|0|1
+38|Weak Equivalences in Psi-Calculi.|Magnus Johansson,Jesper Bengtson,Joachim Parrow,Björn Victor|14|13|0|4
+39|A Calculus of Contracting Processes.|Massimo Bartoletti,Roberto Zunino|49|47|0|25
+40|On Probabilistic Automata in Continuous Time.|Christian Eisentraut,Holger Hermanns,Lijun Zhang|94|89|0|27
+41|omega-QRB-Domains and the Probabilistic Powerdomain.|Jean Goubault-Larrecq|2|2|0|1
+42|Abstracting the Differential Semantics of Rule-Based Models: Exact and Automated Model Reduction.|Vincent Danos,Jérôme Feret,Walter Fontana,Russell Harmer,Jean Krivine|65|61|0|15
+43|The Expressive Power of Synchronizations.|Cosimo Laneve,Antonio Vitale|7|7|0|0
+44|On the Expressivity of Symmetry in Event Structures.|Sam Staton,Glynn Winskel|8|7|0|0
+45|A Finiteness Structure on Resource Terms.|Thomas Ehrhard|16|13|0|3
+46|Coalgebras, Chu Spaces, and Representations of Physical Systems.|Samson Abramsky|22|20|0|5
+47|A Sound and Complete Calculus for Finite Stream Circuits.|Stefan Milius|36|33|0|14

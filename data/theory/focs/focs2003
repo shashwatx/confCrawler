@@ -1,0 +1,66 @@
+65
+1|44th Symposium on Foundations of Computer Science (FOCS 2003), 11-14 October 2003, Cambridge, MA, USA, Proceedings.|n/a
+2|Machine Learning: My Favorite Results, Directions, and Open Problems.|Avrim Blum|5|2|0|1
+3|Mixing.|Dana Randall|1556|588|0|45
+4|Performance Analysis of Dynamic Network Processes.|Eli Upfal|0|0|0|0
+5|A Polynomial Algorithm for Recognizing Perfect Graphs.|Gérard Cornuéjols,Xinming Liu,Kristina Vuskovic|46|16|0|0
+6|On Certain Connectivity Properties of the Internet Topology.|Milena Mihail,Christos H. Papadimitriou,Amin Saberi|139|56|0|3
+7|Paths, Trees, and Minimum Latency Tours.|Kamalika Chaudhuri,Brighten Godfrey,Satish Rao,Kunal Talwar|111|77|0|0
+8|Approximation Algorithms for Orienteering and Discounted-Reward TSP.|Avrim Blum,Shuchi Chawla,David R. Karger,Terran Lane,Adam Meyerson,Maria Minkoff|156|93|0|2
+9|Approximation Algorithms for Asymmetric TSP by Decomposing Directed Regular Multigraphs.|Haim Kaplan,Moshe Lewenstein,Nira Shafrir,Maxim Sviridenko|178|105|0|3
+10|On the Implementation of Huge Random Objects.|Oded Goldreich,Shafi Goldwasser,Asaf Nussboim|38|14|0|10
+11|Zero-Knowledge Sets.|Silvio Micali,Michael O. Rabin,Joe Kilian|128|59|0|1
+12|Deterministic Extractors for Bit-Fixing Sources and Exposure-Resilient Cryptography.|Jesse Kamp,David Zuckerman|134|85|0|5
+13|On the (In)security of the Fiat-Shamir Paradigm.|Shafi Goldwasser,Yael Tauman Kalai|254|121|0|9
+14|Locally Testable Cyclic Codes.|László Babai,Amir Shpilka,Daniel Stefankovic|27|15|0|2
+15|List-Decoding Using The XOR Lemma.|Luca Trevisan|68|29|0|5
+16|On e-Biased Generators in NC0.|Elchanan Mossel,Amir Shpilka,Luca Trevisan|n/a
+17|Proving Hard-Core Predicates Using List Decoding.|Adi Akavia,Shafi Goldwasser,Shmuel Safra|90|57|0|9
+18|Instability of FIFO at Arbitrarily Low Rates in the Adversarial Queueing Model.|Rajat Bhattacharjee,Ashish Goel|60|9|0|2
+19|Proofs of the Parisi and Coppersmith-Sorkin Conjectures for the Finite Random Assignment Problem.|Chandra Nair,Balaji Prabhakar,Mayank Sharma|27|8|0|2
+20|Always Good Turing: Asymptotically Optimal Probability Estimation.|Alon Orlitsky,Narayana P. Santhanam,Junan Zhang|124|65|0|23
+21|Learning DNF from Random Walks.|Nader H. Bshouty,Elchanan Mossel,Ryan O'Donnell,Rocco A. Servedio|34|15|0|4
+22|Quantum Search of Spatial Regions.|Scott Aaronson,Andris Ambainis|190|84|0|25
+23|A Lattice Problem in Quantum NP.|Dorit Aharonov,Oded Regev|40|11|0|5
+24|A Lower Bound for the Bounded Round Quantum Communication Complexity of Set Disjointness.|Rahul Jain,Jaikumar Radhakrishnan,Pranab Sen|43|22|0|13
+25|Polynomial Degree vs. Quantum Query Complexity.|Andris Ambainis|158|84|0|21
+26|An In-Place Sorting with O(n log n) Comparisons and O(n) Moves.|Gianni Franceschini,Viliam Geffert|46|18|0|9
+27|Breaking a Time-and-Space Barrier in Constructing Full-Text Indices.|Wing-Kai Hon,Kunihiko Sadakane,Wing-Kin Sung|n/a
+28|I/O-Efficient Strong Connectivity and Depth-First Search for Directed Planar Graphs.|Lars Arge,Norbert Zeh|20|8|0|9
+29|The Cost of Cache-Oblivious Searching.|Michael A. Bender,Gerth Stølting Brodal,Rolf Fagerberg,Dongdong Ge,Simai He,Haodong Hu,John Iacono,Alejandro López-Ortiz|38|17|1|14
+30|Tight Lower Bounds for the Distinct Elements Problem.|Piotr Indyk,David P. Woodruff|98|60|0|15
+31|Hardness of Approximating the Shortest Vector Problem in High Lp Norms.|Subhash Khot|19|6|0|4
+32|More on Average Case vs Approximation Complexity.|Michael Alekhnovich|97|68|0|2
+33|On Worst-Case to Average-Case Reductions for NP Problems.|Andrej Bogdanov,Luca Trevisan|107|42|0|10
+34|Rank Bounds and Integrality Gaps for Cutting Planes Procedures Joshua.|Josh Buresh-Oppenheim,Nicola Galesi,Shlomo Hoory,Avner Magen,Toniann Pitassi|80|37|0|1
+35|The Resolution Complexity of Random Constraint Satisfaction Problems.|Michael Molloy,Mohammad R. Salavatipour|23|2|0|6
+36|Algorithms and Complexity Results for #SAT and Bayesian Inference.|Fahiem Bacchus,Shannon Dalmao,Toniann Pitassi|100|49|0|8
+37|Linear Upper Bounds for Random Walk on Small Density Random 3-CNF.|Michael Alekhnovich,Eli Ben-Sasson|44|19|0|3
+38|On the Maximum Satisfiability of Random Formulas.|Dimitris Achlioptas,Assaf Naor,Yuval Peres|14|11|0|1
+39|Logics for Reasoning about Cryptographic Constructions.|Russell Impagliazzo,Bruce M. Kapron|93|28|0|1
+40|Lower Bounds for Non-Black-Box Zero Knowledge.|Boaz Barak,Yehuda Lindell,Salil P. Vadhan|87|46|0|10
+41|General Composition and Universal Composability in Secure Multi-Party Computation.|Yehuda Lindell|121|47|0|14
+42|Bounded-Concurrent Secure Two-Party Computation in a Constant Number of Rounds.|Rafael Pass,Alon Rosen|71|34|0|18
+43|Solving Sparse, Symmetric, Diagonally-Dominant Linear Systems in Time 0(m1.31).|Daniel A. Spielman,Shang-Hua Teng|55|28|0|3
+44|Separating the Power of Monotone Span Programs over Different Fields.|Amos Beimel,Enav Weinreb|28|11|0|9
+45|A Group-Theoretic Approach to Fast Matrix Multiplication.|Henry Cohn,Christopher Umans|90|56|1|5
+46|Symmetric Polynomials over Zm and Simultaneous Communication Protocol.|Nayantara Bhatnagar,Parikshit Gopalan,Richard J. Lipton|17|8|0|1
+47|Average Case and Smoothed Competitive Analysis of the Multi-Level Feedback Algorithm.|Luca Becchetti,Stefano Leonardi,Alberto Marchetti-Spaccamela,Guido Schäfer,Tjark Vredeveld|73|25|0|2
+48|Stability and Efficiency of a Random Local Load Balancing Protocol.|Aris Anagnostopoulos,Adam Kirsch,Eli Upfal|11|0|0|1
+49|Gossip-Based Computation of Aggregate Information.|David Kempe,Alin Dobra,Johannes Gehrke|1016|601|0|9
+50|Broadcasting Algorithms in Radio Networks with Unknown Topology.|Artur Czumaj,Wojciech Rytter|202|99|0|5
+51|Switch Scheduling via Randomized Edge Coloring.|Gagan Aggarwal,Rajeev Motwani,Devavrat Shah,An Zhu|20|13|0|3
+52|On the Impossibility of Dimension Reduction in l1.|Bo Brinkman,Moses Charikar|127|61|0|2
+53|Clustering with Qualitative Information.|Moses Charikar,Venkatesan Guruswami,Anthony Wirth|279|145|2|6
+54|Bounded Geometries, Fractals, and Low-Distortion Embeddings.|Anupam Gupta,Robert Krauthgamer,James R. Lee|307|162|1|59
+55|On Levels in Arrangements of Curves, II: A Simple Inequality and Its Consequences.|Timothy M. Chan|25|12|0|4
+56|The Complexity of Homomorphism and Constraint Satisfaction Problems Seen from the Other Side.|Martin Grohe|160|117|0|10
+57|Towards a Dichotomy Theorem for the Counting Constraint Satisfaction Problem.|Andrei A. Bulatov,Víctor Dalmau|75|22|0|8
+58|Towards a Characterization of Truthful Combinatorial Auctions.|Ron Lavi,Ahuva Mu'alem,Noam Nisan|242|86|0|28
+59|Group Strategyproof Mechanisms via Primal-Dual Algorithms.|Martin Pál,Éva Tardos|164|70|0|6
+60|The Value of Knowing a Demand Curve: Bounds on Regret for Online Posted-Price Auctions.|Robert D. Kleinberg,Frank Thomson Leighton|120|81|0|11
+61|Approximation Via Cost-Sharing: A Simple Approximation Algorithm for the Multicommodity Rent-or-Buy Problem.|Anupam Gupta,Amit Kumar,Martin Pál,Tim Roughgarden|77|20|0|10
+62|A Non-Markovian Coupling for Randomly Sampling Colorings.|Thomas P. Hayes,Eric Vigoda|48|16|0|11
+63|The Ising Model on Trees: Boundary Conditions and Mixing Time.|Fabio Martinelli,Alistair Sinclair,Dror Weitz|26|9|0|2
+64|Logconcave Functions: Geometry and Efficient Sampling Algorithms.|László Lovász,Santosh Vempala|21|6|0|3
+65|Simulated Annealing in Convex Bodies and an 0*(n4) Volume Algorithm.|László Lovász,Santosh Vempala|171|97|1|23

@@ -1,0 +1,83 @@
+82
+1|Joint 2013 EDBT/ICDT Conferences, EDBT '13 Proceedings, Genoa, Italy, March 18-22, 2013.|Giovanna Guerrini,Norman W. Paton|n/a
+2|Invisible loading: access-driven data transfer from raw files into database systems.|Azza Abouzied,Daniel J. Abadi,Avi Silberschatz|24|24|0|1
+3|History repeats itself: sensible and NonsenSQL aspects of the NoSQL hoopla.|C. Mohan|51|49|0|0
+4|From A to E: analyzing TPC's OLTP benchmarks: the obsolete, the ubiquitous, the unexplored.|Pinar Tözün,Ippokratis Pandis,Cansu Kaynak,Djordje Jevdjic,Anastasia Ailamaki|24|22|0|7
+5|Query-aware compression of join results.|Christopher M. Mullins,Lipyeow Lim,Christian A. Lang|9|7|9|0
+6|Web data indexing in the cloud: efficiency and cost reductions.|Jesús Camacho-Rodríguez,Dario Colazzo,Ioana Manolescu|9|9|0|0
+7|ProRea: live database migration for multi-tenant RDBMS with snapshot isolation.|Oliver Schiller,Nazario Cipriani,Bernhard Mitschang|11|10|0|1
+8|SWAT: a lightweight load balancing method for multitenant databases.|Hyun Jin Moon,Hakan Hacigümüs,Yun Chi,Wang-Pin Hsiung|11|11|0|0
+9|CloudOptimizer: multi-tenancy for I/O-bound OLAP workloads.|Hatem A. Mahmoud,Hyun Jin Moon,Yun Chi,Hakan Hacigümüs,Divyakant Agrawal,Amr El Abbadi|7|6|0|0
+10|Eagle-eyed elephant: split-oriented indexing in Hadoop.|Mohamed Y. Eltabakh,Fatma Özcan,Yannis Sismanis,Peter J. Haas,Hamid Pirahesh,Jan Vondrák|25|24|0|3
+11|Computing n-gram statistics in MapReduce.|Klaus Berberich,Srikanta J. Bedathur|9|9|0|3
+12|Processing multi-way spatial joins on map-reduce.|Himanshu Gupta,Bhupesh Chawda,Sumit Negi,Tanveer A. Faruquie,L. Venkata Subramaniam,Mukesh K. Mohania|19|19|0|3
+13|Rapid experimentation for testing and tuning a production database deployment.|Nedyalko Borisov,Shivnath Babu|1|1|0|0
+14|Towards context-aware search and analysis on social media data.|Leon Derczynski,Bin Yang,Christian S. Jensen|23|22|0|3
+15|Proactive natural language search engine: tapping into structured data on the web.|Wensheng Wu|4|4|0|2
+16|Anomaly management using complex event processing: extending data base technology paper.|Bastian Hoßbach,Bernhard Seeger|10|9|0|3
+17|Compromising privacy in precise query protocols.|Jonathan L. Dautrich Jr.,Chinya V. Ravishankar|11|10|0|0
+18|Efficient privacy-aware record integration.|Mehmet Kuzu,Murat Kantarcioglu,Ali Inan,Elisa Bertino,Elizabeth Durham,Bradley Malin|27|24|0|2
+19|Updating outsourced anatomized private databases.|Ahmet Erhan Nergiz,Chris Clifton,Qutaibah M. Malluhi|7|7|0|4
+20|Efficient and accurate strategies for differentially-private sliding window queries.|Jianneng Cao,Qian Xiao,Gabriel Ghinita,Ninghui Li,Elisa Bertino,Kian-Lee Tan|10|10|0|0
+21|An automatic physical design tool for clustered column-stores.|Alexander Rasin,Stanley B. Zdonik|6|6|0|0
+22|Mining frequent serial episodes over uncertain sequence data.|Li Wan,Ling Chen,Chengqi Zhang|9|9|0|1
+23|Efficient processing of containment queries on nested sets.|Ahmed Ibrahim,George H. L. Fletcher|2|2|0|1
+24|Inferential time-decaying Bloom filters.|Jonathan L. Dautrich Jr.,Chinya V. Ravishankar|3|3|0|0
+25|Utility-driven data acquisition in participatory sensing.|Mehdi Riahi,Thanasis G. Papaioannou,Immanuel Trummer,Karl Aberer|30|27|0|1
+26|An RFID and particle filter-based indoor spatial query evaluation system.|Jiao Yu,Wei-Shinn Ku,Min-Te Sun,Hua Lu|15|15|0|3
+27|A safe zone based approach for monitoring moving skyline queries.|Muhammad Aamir Cheema,Xuemin Lin,Wenjie Zhang,Ying Zhang|7|6|0|1
+28|Compressed feature-based filtering and verification approach for subgraph search.|Karam Gouda,Mosab Hassaan|2|2|0|0
+29|Efficient query answering against dynamic RDF databases.|François Goasdoué,Ioana Manolescu,Alexandra Roatis|21|20|0|12
+30|Efficient breadth-first search on large graphs with skewed degree distributions.|Haichuan Shang,Masaru Kitsuregawa|8|8|0|1
+31|CINEMA: conformity-aware greedy algorithm for influence maximization in online social networks.|Hui Li,Sourav S. Bhowmick,Aixin Sun|13|13|0|3
+32|Pollux: towards scalable distributed real-time search on microblogs.|Liwei Lin,Xiaohui Yu,Nick Koudas|4|4|0|1
+33|Semantic queries by example.|Lipyeow Lim,Haixun Wang,Min Wang|2|2|0|0
+34|Scalable top-k spatial keyword search.|Dongxiang Zhang,Kian-Lee Tan,Anthony K. H. Tung|32|30|0|5
+35|Panorama: a semantic-aware application search framework.|Di Jiang,Jan Vosecky,Kenneth Wai-Ting Leung,Wilfred Ng|10|9|0|4
+36|Selectivity estimation for hybrid queries over text-rich data graphs.|Andreas Wagner,Veli Bicer,Thanh Tran|6|6|0|3
+37|Skyline probability over uncertain preferences.|Qing Zhang,Pengjie Ye,Xuemin Lin,Ying Zhang|8|8|0|0
+38|SkyDiver: a framework for skyline diversification.|George Valkanas,Apostolos N. Papadopoulos,Dimitrios Gunopulos|9|9|0|2
+39|Subspace global skyline query processing.|Mei Bai,Junchang Xin,Guoren Wang|3|3|0|0
+40|SWORD: scalable workload-aware data placement for transactional workloads.|Abdul Quamar,K. Ashwin Kumar,Amol Deshpande|33|31|0|2
+41|PMAX: tenant placement in multitenant databases for profit maximization.|Ziyang Liu,Hakan Hacigümüs,Hyun Jin Moon,Yun Chi,Wang-Pin Hsiung|20|18|0|0
+42|Elastic online analytical processing on RAMCloud.|Christian Tinnefeld,Donald Kossmann,Martin Grund,Joos-Hendrik Boese,Frank Renkes,Vishal Sikka,Hasso Plattner|7|7|0|3
+43|Skyline queries in crowd-enabled databases.|Christoph Lofi,Kinda El Maarry,Wolf-Tilo Balke|18|16|0|5
+44|From stars to galaxies: skyline queries on aggregate data.|Matteo Magnani,Ira Assent|14|13|0|2
+45|Efficient top-k query answering using cached views.|Min Xie,Laks V. S. Lakshmanan,Peter T. Wood|17|15|0|1
+46|Enhanced stream processing in a DBMS kernel.|Erietta Liarou,Stratos Idreos,Stefan Manegold,Martin L. Kersten|9|9|0|3
+47|Probabilistic inference of object identifications for event stream analytics.|Di Wang,Elke A. Rundensteiner,Richard T. Ellison,Han Wang|3|3|0|1
+48|High-performance complex event processing using continuous sliding views.|Medhabi Ray,Elke A. Rundensteiner,Mo Liu,Chetan Gupta,Song Wang,Ismail Ari|1|1|0|0
+49|Data exchange with arithmetic operations.|Balder ten Cate,Phokion G. Kolaitis,Walied Othman|1|1|0|0
+50|HIL: a high-level scripting language for entity integration.|Mauricio A. Hernández,Georgia Koutrika,Rajasekar Krishnamurthy,Lucian Popa,Ryan Wisnesky|20|20|0|4
+51|Optimizing query rewriting in ontology-based data access.|Floriana Di Pinto,Domenico Lembo,Maurizio Lenzerini,Riccardo Mancini,Antonella Poggi,Riccardo Rosati,Marco Ruzzi,Domenico Fabio Savo|31|29|0|9
+52|Temporal query processing in Teradata.|Mohammed Al-Kateb,Ahmad Ghazal,Alain Crolotte,Ramesh Bhashyam,Jaiprakash Chimanchode,Sai Pavan Pakala|14|14|0|0
+53|Near real-time analytics with IBM DB2 analytics accelerator.|Daniel Martin,Oliver Koeth,Johannes Kern,Iliyana Ivanova|1|1|0|0
+54|AppSleuth: a tool for database tuning at the application level.|Wei Cao,Dennis Shasha|1|1|0|0
+55|Cost exploration of data sharings in the cloud.|Samer Al-Kiswany,Hakan Hacigümüs,Ziyang Liu,Jagan Sankaranarayanan|6|6|0|2
+56|A performance comparison of parallel DBMSs and MapReduce on large-scale text analytics.|Fei Chen,Meichun Hsu|6|6|0|1
+57|Sparkler: supporting large-scale matrix factorization.|Boduo Li,Sandeep Tata,Yannis Sismanis|15|15|0|2
+58|Choosing the right crowd: expert finding in social networks.|Alessandro Bozzon,Marco Brambilla,Stefano Ceri,Matteo Silvestri,Giuliano Vesci|51|45|0|3
+59|Real-time wildfire monitoring using scientific database and linked data technologies.|Manolis Koubarakis,Charalambos Kontoes,Stefan Manegold|13|13|0|7
+60|Efficient multifaceted screening of job applicants.|Sameep Mehta,Rakesh Pimplikar,Amit Singh,Lav R. Varshney,Karthik Visweswariah|4|3|0|0
+61|EXLEngine: executable schema mappings for statistical data processing.|Paolo Atzeni,Luigi Bellomarini,Francesca Bugiotti|1|1|0|1
+62|HyperLogLog in practice: algorithmic engineering of a state of the art cardinality estimation algorithm.|Stefan Heule,Marc Nunkesser,Alexander Hall|27|27|0|0
+63|Entity discovery and annotation in tables.|Gianluca Quercini,Chantal Reynaud|13|13|0|1
+64|iPark: identifying parking spaces from trajectories.|Bin Yang,Nicolas Fantini,Christian S. Jensen|2|2|0|1
+65|Limosa: a system for geographic user interest analysis in Twitter.|Jan Vosecky,Di Jiang,Wilfred Ng|7|7|0|1
+66|Accelerating spatial range queries.|Alexandros Stougiannis,Farhan Tauheed,Thomas Heinis,Anastasia Ailamaki|0|0|0|0
+67|An efficient layout method for a large collection of geographic data entries.|Sarana Nutanong,Marco D. Adelfio,Hanan Samet|1|1|0|1
+68|In the Mood4: recommendation by examples.|Rubi Boim,Tova Milo|1|1|0|1
+69|YmalDB: a result-driven recommendation system for databases.|Marina Drosou,Evaggelia Pitoura|2|2|0|0
+70|CrowdSeed: query processing on microblogs.|Zhou Zhao,Wilfred Ng,Zhijun Zhang|8|8|0|4
+71|Hive open research network platform.|Jung Hyun Kim,Xilun Chen,K. Selçuk Candan,Maria Luisa Sapino|0|0|0|0
+72|Tuning in action.|Wei Cao,Dennis Shasha|4|4|0|0
+73|PostgreSQL anomalous query detector.|Bilal Shebaro,Asmaa Sallam,Ashish Kamra,Elisa Bertino|4|4|0|1
+74|Processing XML queries and updates on map/reduce clusters.|Nicole Bidoit,Dario Colazzo,Noor Malla,Federico Ulliana,Maurizio Nolé,Carlo Sartiani|12|12|0|1
+75|CISC: clustered image search by conceptualization.|Kaiqi Zhao,Enxun Wei,Qingyu Sui,Kenny Q. Zhu,Eric Lo|0|0|0|0
+76|MinExp-card: limiting data collection using a smart card.|Nicolas Anciaux,Walid Bezza,Benjamin Nguyen,Michalis Vazirgiannis|4|4|0|2
+77|PrivComp: a privacy-aware data service composition system.|Mahmoud Barhamgi,Djamal Benslimane,Youssef Amghar,Nora Cuppens-Boulahia,Frédéric Cuppens|6|6|0|4
+78|ProQua: a system for evaluating logic-based scoring functions on uncertain relational data.|Sebastian Lehrack,Sascha Saretz,Christian Winkel|0|0|0|0
+79|ProvenanceCurious: a tool to infer data provenance from scripts.|Mohammad Rezwanul Huq,Peter M. G. Apers,Andreas Wombacher|7|7|0|1
+80|Trust and reputation in and across virtual communities.|Nurit Gal-Oz,Ehud Gudes|0|0|0|0
+81|The W3C PROV family of specifications for modelling provenance metadata.|Paolo Missier,Khalid Belhajjame,James Cheney|27|26|0|1
+82|Schema mappings and data examples.|Balder ten Cate,Phokion G. Kolaitis,Wang Chiew Tan|0|0|0|0

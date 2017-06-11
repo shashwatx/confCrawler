@@ -1,0 +1,77 @@
+76
+1|Proceedings of the 24th Annual ACM Symposium on Theory of Computing, May 4-6, 1992, Victoria, British Columbia, Canada.|S. Rao Kosaraju,Mike Fellows,Avi Wigderson,John A. Ellis|n/a
+2|Biased Random Walks.|Yossi Azar,Andrei Z. Broder,Anna R. Karlin,Nathan Linial,Steven Phillips|27|11|0|1
+3|Approximations of General Independent Distributions.|Guy Even,Oded Goldreich,Michael Luby,Noam Nisan,Boban Velickovic|81|13|0|11
+4|Sample Spaces Uniform on Neighborhoods.|Leonard J. Schulman|24|2|0|0
+5|Balanced Matroids.|Tomás Feder,Milena Mihail|151|35|0|5
+6|Competitive Algorithms for Distributed Data Management (Extended Abstract).|Yair Bartal,Amos Fiat,Yuval Rabani|217|31|7|15
+7|New Algorithms for an Ancient Scheduling Problem.|Yair Bartal,Amos Fiat,Howard J. Karloff,Rakesh Vohra|250|53|0|5
+8|Alphabet Independent Two Dimensional Matching.|Amihood Amir,Gary Benson,Martin Farach|74|6|0|9
+9|A Constant-Time Optimal Parallel String-Matching Algorithm.|Zvi Galil|63|5|0|2
+10|Methods for Message Routing in Parallel Machines.|Frank Thomson Leighton|100|1|1|2
+11|Computing Frobenius Maps and Factoring Polynomials (Extended Abstract).|Joachim von zur Gathen,Victor Shoup|202|54|0|27
+12|Parallel Computation Over Hyperbolic Groups.|Jin-yi Cai|12|7|0|0
+13|Structure Forest and Composition Factors for Small Base Groups in Nearly Linear Time.|Robert Beals,Ákos Seress|20|0|0|7
+14|Feasibility Testing for Systems of Real Quadratic Equations.|Alexander I. Barvinok|60|19|0|1
+15|Fault Tolerant Planar Communication Networks.|Geng Lin|6|1|0|3
+16|Existence and Construction of Edge Disjoint Paths on Expander Graphs.|Andrei Z. Broder,Alan M. Frieze,Eli Upfal|67|12|0|8
+17|Simple Algorithms for Routing on Butterfly Networks with Bounded Queues (Extended Abstract).|Bruce M. Maggs,Ramesh K. Sitaraman|32|2|0|9
+18|Computing with Faulty Arrays.|Yonatan Aumann,Michael Ben-Or|25|1|0|0
+19|Linear Decision Trees: Volume Estimates and Topological Bounds.|Anders Björner,László Lovász,Andrew Chi-Chih Yao|120|17|0|2
+20|Entropy and Sorting.|Jeff Kahn,Jeong Han Kim|70|29|0|0
+21|Randomized versus Nondeterministic Communication Complexity.|Paul Beame,Joan Lawry|11|2|0|0
+22|Exponential Lower Bounds for the Pigeonhole Principle.|Paul Beame,Russell Impagliazzo,Jan Krajícek,Toniann Pitassi,Pavel Pudlák,Alan R. Woods|146|37|0|29
+23|Finding Approximate Separators and Computing Tree Width Quickly.|Bruce A. Reed|205|68|0|3
+24|Faster Algorithms for Finding Small Edge Cuts in Planar Graphs (Extended Abstract).|Satish Rao|43|6|1|2
+25|The Complexity of Multiway Cuts (Extended Abstract).|Elias Dahlhaus,David S. Johnson,Christos H. Papadimitriou,Paul D. Seymour,Mihalis Yannakakis|n/a
+26|Graph Decomposition Is NPC-A Complete Proof of Holyer's Conjecture.|Dorit Dor,Michael Tarsi|54|7|0|2
+27|Online Minimization of Transition Systems (Extended Abstract).|David Lee,Mihalis Yannakakis|n/a
+28|Exponential Determinization for omega-Automata with Strong-Fairness Acceptance Condition (Extended Abstract).|Shmuel Safra|3|3|0|0
+29|A New Recursion-Theoretic Characterization of the Polytime Functions (Extended Abstract).|Stephen Bellantoni,Stephen A. Cook|520|166|0|8
+30|Asymptotic Conditional Probabilities for First-Order Logic.|Adam J. Grove,Joseph Y. Halpern,Daphne Koller|n/a
+31|Efficient Program Transformations for Resilient Parallel Computation via Randomization (Preliminary Version).|Zvi M. Kedem,Krishna V. Palem,Michael O. Rabin,A. Raghunathan|77|5|0|5
+32|Efficient PRAM Simulation on a Distributed Memory Machine.|Richard M. Karp,Michael Luby,Friedhelm Meyer auf der Heide|245|44|0|18
+33|A Deterministic Poly(log log N)-Time N-Processor Algorithm for Linear Programming in Fixed Dimension.|Miklós Ajtai,Nimrod Megiddo|15|1|0|0
+34|On the Parallel Complexity of Computing a Maximal Independent Set in a Hypergraph.|Pierre Kelsen|35|5|0|3
+35|Computational Learning Theory: Survey and Selected Bibliography.|Dana Angluin|229|63|0|0
+36|Learning Arithmetic Read-Once Formulas.|Nader H. Bshouty,Thomas R. Hancock,Lisa Hellerstein|53|11|1|16
+37|Fast Learning of k-Term DNF Formulas with Queries.|Avrim Blum,Steven Rudich|83|11|0|4
+38|Can Finite Samples Detect Singularities of Real-Valued Functions?|Shai Ben-David|29|1|0|3
+39|A Logspace Algorithm for Tree Canonization (Extended Abstract).|Steven Lindell|n/a
+40|A Hypercubic Sorting Network with Nearly Logarithmic Depth.|C. Greg Plaxton|19|0|0|7
+41|Small-Depth Counting Networks.|Michael Klugerman,C. Greg Plaxton|73|6|0|5
+42|Shallow Multiplication Circuits and Wise Financial Investments.|Mike Paterson,Uri Zwick|3|0|0|1
+43|Symmetry and Complexity.|László Babai,Robert Beals,Pál Takácsi-Nagy|18|9|0|3
+44|When Do Extra Majority Gates Help? Polylog(n) Majority Gates Are Equivalent to One.|Richard Beigel|34|9|0|2
+45|Representing Boolean Functions as Polynomials Modulo Composite Numbers (Extended Abstract).|David A. Mix Barrington,Richard Beigel,Steven Rudich|78|24|0|3
+46|On the Degree of Boolean Functions as Real Polynomials.|Noam Nisan,Mario Szegedy|231|107|0|3
+47|On the Degree of Polynomials that Approximate Symmetric Boolean Functions (Preliminary Version).|Ramamohan Paturi|123|39|0|0
+48|A Subexponential Randomized Simplex Algorithm (Extended Abstract).|Gil Kalai|200|54|0|5
+49|Polynomial Algorithms for Linear Programming over the Algebraic Numbers.|Ilan Adler,Peter A. Beling|15|5|0|3
+50|Fully Dynamic Planarity Testing (Extended Abstract).|Zvi Galil,Giuseppe F. Italiano,Neil Sarnak|n/a
+51|Planar Separators and Parallel Polygon Triangulation (Preliminary Version).|Michael T. Goodrich|112|24|2|13
+52|Ray Shooting and Parametric Search.|Pankaj K. Agarwal,Jirí Matousek|247|41|0|35
+53|On the Angular Resolution of Planar Graphs.|Seth M. Malitz,Achilleas Papakostas|106|34|0|0
+54|Ham-Sandwich Cuts in R^d.|Chi-Yuan Lo,Jirí Matousek,William L. Steiger|15|4|0|2
+55|A Decomposition of Multi-Dimensional Point-Sets with Applications to k-Nearest-Neighbors and n-Body Potential Fields (Preliminary Version).|Paul B. Callahan,S. Rao Kosaraju|474|164|0|4
+56|Adapting to Asynchronous Dynamic Networks (Extended Abstract).|Baruch Awerbuch,Boaz Patt-Shamir,David Peleg,Michael E. Saks|n/a
+57|Competitive Distributed Job Scheduling (Extended Abstract).|Baruch Awerbuch,Shay Kutten,David Peleg|n/a
+58|Improved Distributed Algorithms for Coloring and Network Decomposition Problems.|Alessandro Panconesi,Aravind Srinivasan|100|28|0|8
+59|Efficient Fault Tolerant Algorithms for Resource Allocation in Distributed Systems.|Manhoi Choy,Ambuj K. Singh|63|11|0|5
+60|The History and Status of the P versus NP Question.|Michael Sipser|159|56|0|2
+61|RL ⊆ SC.|Noam Nisan|n/a
+62|On the Complexity of RAM with Various Operation Sets.|Janos Simon,Mario Szegedy|6|2|0|0
+63|Average Case Intractability of Matrix and Diophantine Problems (Extended Abstract).|Ramarathnam Venkatesan,Sivaramakrishnan Rajagopalan|37|2|0|2
+64|On the Hardness of Computing the Permanent of Random Matrices (Extended Abstract).|Uriel Feige,Carsten Lund|37|2|0|2
+65|Simple and Efficient Bounded Concurrent Timestamping or Bounded Concurrent Timestamp Systems are Comprehensible!|Cynthia Dwork,Orli Waarts|57|5|0|8
+66|Self-Stabilizing Symmetry Breaking in Constant-Space (Extended Abstract).|Alain J. Mayer,Yoram Ofek,Rafail Ostrovsky,Moti Yung|49|7|0|11
+67|A Correctness Condition for High-Performance Multiprocessors (Extended Abstract).|Hagit Attiya,Roy Friedman|100|7|1|11
+68|Target Shooting with Programmed Random Variables.|Graham Brightwell,Teunis J. Ott,Peter Winkler|4|1|0|0
+69|Communication Complexity of Secure Computation (Extended Abstract).|Matthew K. Franklin,Moti Yung|177|81|1|10
+70|Making Zero-Knowledge Provers Efficient.|Mihir Bellare,Erez Petrank|34|2|0|9
+71|A Note on Efficient Zero-Knowledge Proofs and Arguments (Extended Abstract).|Joe Kilian|327|171|10|8
+72|Two-Prover One-Round Proof Systems: Their Power and Their Problems (Extended Abstract).|Uriel Feige,László Lovász|245|63|0|15
+73|On the All-Pairs-Shortest-Path Problem.|Raimund Seidel|118|31|0|0
+74|A Parallel Randomized Approximation Scheme for Shortest Paths.|Philip N. Klein,Sairam Sairam|41|8|0|5
+75|Biconnectivity Approximations and Graph Carvings.|Samir Khuller,Uzi Vishkin|243|66|1|8
+76|epsilon-Approximations with Minimum Packing Constraint Violation (Extended Abstract).|Jyh-Han Lin,Jeffrey Scott Vitter|242|66|2|5

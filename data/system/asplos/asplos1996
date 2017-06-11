@@ -1,0 +1,27 @@
+26
+1|ASPLOS-VII Proceedings - Seventh International Conference on Architectural Support for Programming Languages and Operating Systems, Cambridge, Massachusetts, USA, October 1-5, 1996.|Bill Dally,Susan J. Eggers|n/a
+2|The Case for a Single-Chip Multiprocessor.|Kunle Olukotun,Basem A. Nayfeh,Lance Hammond,Kenneth G. Wilson,Kunyung Chang|916|298|61|21
+3|An Evaluation of Memory Consistency Models for Shared-Memory Systems with ILP Processors.|Vijay S. Pai,Parthasarathy Ranganathan,Sarita V. Adve,Tracy Harton|95|6|9|24
+4|Synchronization and Communication in the T3E Multiprocessor.|Steven L. Scott|350|68|23|8
+5|Evaluation of Architectural Support for Global Address-Based Communication in Large-Scale Parallel Machines.|Arvind Krishnamurthy,Klaus E. Schauser,Chris J. Scheiman,Randolph Y. Wang,David E. Culler,Katherine A. Yelick|32|3|0|5
+6|Whole-Program Optimization for Time and Space Efficient Threads.|Dirk Grunwald,Richard Neves|30|2|0|1
+7|Thread Scheduling for Cache Locality.|James Philbin,Jan Edler,Otto J. Anshus,Craig C. Douglas,Kai Li|103|27|2|5
+8|The Rio File Cache: Surviving Operating System Crashes.|Peter M. Chen,Wee Teck Ng,Subhachandra Chandra,Christopher M. Aycock,Gurushankar Rajamani,David E. Lowell|237|79|5|16
+9|Petal: Distributed Virtual Disks.|Edward K. Lee,Chandramohan A. Thekkath|734|168|84|9
+10|A Quantitative Analysis of Loop Nest Locality.|Kathryn S. McKinley,Olivier Temam|132|6|0|17
+11|The Intrinsic Bandwidth Requirements of Ordinary Programs.|Andrew S. Huang,John Paul Shen|36|1|0|2
+12|Multiple-Block Ahead Branch Predictors.|André Seznec,Stéphan Jourdan,Pascal Sainrat,Pierre Michaud|119|14|3|11
+13|Analysis of Branch Prediction Via Data Compression.|I-Cheng K. Chen,John T. Coffey,Trevor N. Mudge|149|31|1|0
+14|Value Locality and Load Value Prediction.|Mikko H. Lipasti,Christopher B. Wilkerson,John Paul Shen|711|124|26|22
+15|The Structure and Performance of Interpreters.|Theodore H. Romer,Dennis Lee,Geoffrey M. Voelker,Alec Wolman,Wayne A. Wong,Jean-Loup Baer,Brian N. Bershad,Henry M. Levy|110|26|0|0
+16|Adapting to Network and Client Variability via On-Demand Dynamic Distillation.|Armando Fox,Steven D. Gribble,Eric A. Brewer,Elan Amir|565|78|73|17
+17|Shasta: A Low Overhead, Software-Only Approach for Supporting Fine-Grain Shared Memory.|Daniel J. Scales,Kourosh Gharachorloo,Chandramohan A. Thekkath|390|48|16|7
+18|An Integrated Compile-Time/Run-Time Software Distributed Shared Memory System.|Sandhya Dwarkadas,Alan L. Cox,Willy Zwaenepoel|147|16|1|16
+19|Hiding Communication Latency and Coherence Overhead in Software DSMs.|Ricardo Bianchini,Leonidas I. Kontothanassis,Raquel Pinto,M. De Maria,M. Abud,Claudio Luis de Amorim|89|7|0|9
+20|SoftFLASH: Analyzing the Performance of Clustered Distributed Virtual Shared Memory.|Andrew Erlichson,Neal Nuckolls,Greg Chesson,John L. Hennessy|129|6|1|0
+21|Compiler-Based Prefetching for Recursive Data Structures.|Chi-Keung Luk,Todd C. Mowry|423|65|17|16
+22|Exploiting Dual Data-Memory Banks in Digital Signal Processors.|Mazen A. R. Saghir,Paul Chow,Corinna G. Lee|131|15|0|1
+23|Compiler-Directed Page Coloring for Multiprocessors.|Edouard Bugnion,Jennifer-Ann M. Anderson,Todd C. Mowry,Mendel Rosenblum,Monica S. Lam|120|38|4|4
+24|Reducing Network Latency Using Subpages in a Global Memory Environment.|Hervé A. Jamrozik,Michael J. Feeley,Geoffrey M. Voelker,James Evans II,Anna R. Karlin,Henry M. Levy,Mary K. Vernon|42|3|1|5
+25|Improving Cache Performance with Balanced Tag and Data Paths.|Jih-Kwon Peir,Windsor W. Hsu,Honesty C. Young,Shauchi Ong|14|0|0|4
+26|Operating System Support for Improving Data Locality on CC-NUMA Compute Servers.|Ben Verghese,Scott Devine,Anoop Gupta,Mendel Rosenblum|262|84|9|8

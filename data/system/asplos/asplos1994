@@ -1,0 +1,31 @@
+30
+1|ASPLOS-VI Proceedings - Sixth International Conference on Architectural Support for Programming Languages and Operating Systems, San Jose, California, USA, October 4-7, 1994.|Forest Baskett,Douglas W. Clark|n/a
+2|Separating Data and Control Transfer in Distributed Operating Systems.|Chandramohan A. Thekkath,Henry M. Levy,Edward D. Lazowska|88|2|0|0
+3|Scheduling and Page Migration for Multiprocessor Compute Servers.|Rohit Chandra,Scott Devine,Ben Verghese,Anoop Gupta,Mendel Rosenblum|173|35|10|5
+4|Reactive Synchronization Algorithms for Multiprocessors.|Beng-Hong Lim,Anant Agarwal|118|21|5|4
+5|Integration of Message Passing and Shared Memory in the Stanford FLASH Multiprocessor.|John Heinlein,Kourosh Gharachorloo,Scott Dresser,Anoop Gupta|128|20|5|2
+6|Software Overhead in Messaging Layers: Where Does the Time Go?|Vijay Karamcheti,Andrew A. Chien|129|11|0|7
+7|Where is Time Spent in Message-Passing and Shared-Memory Programs?|Satish Chandra,James R. Larus,Anne Rogers|95|7|2|6
+8|Performance of a Hardware-Assisted Real-Time Garbage Collector.|William J. Schmidt,Kelvin D. Nilsen|56|17|3|1
+9|eNVy: A Non-Volatile, Main Memory Storage System.|Michael Wu,Willy Zwaenepoel|476|230|50|1
+10|Resource Allocation in a High Clock Rate Microprocessor.|Michael Upton,Thomas Huff,Trevor N. Mudge,Richard B. Brown|19|1|0|2
+11|Hardware and Software Support for Efficient Exception Handling.|Chandramohan A. Thekkath,Henry M. Levy|97|6|0|1
+12|A Technique for Monitoring Run-Time Dynamics of an Operating System and a Microprocessor Executing User Applications.|Pramod V. Argade,David K. Charles,Craig Taylor|8|1|0|0
+13|Trap-driven Simulation with Tapeworm II.|Richard Uhlig,David Nagle,Trevor N. Mudge,Stuart Sechrest|45|7|6|2
+14|Contrasting Characteristics and Cache Performance of Technical and Multi-User Commercial Workloads.|Ann Marie Grizzaffi Maynard,Colette M. Donnelly,Bret R. Olszewski|224|17|1|1
+15|Avoiding Conflict Misses Dynamically in Large Direct-Mapped Caches.|Brian N. Bershad,Dennis Lee,Theodore H. Romer,J. Bradley Chen|177|34|1|5
+16|Surpassing the TLB Performance of Superpages with Less Operating System Support.|Madhusudhan Talluri,Mark D. Hill|194|60|8|5
+17|Dynamic Memory Disambiguation Using the Memory Conflict Buffer.|David M. Gallagher,William Y. Chen,Scott A. Mahlke,John C. Gyllenhaal,Wen-mei W. Hwu|161|21|17|1
+18|AP1000+: Architectural Support of PUT/GET Interface for Parallelizing Compiler.|Kenichi Hayashi,Tsunehisa Doi,Takeshi Horie,Yoichi Koyanagi,Osamu Shiraki,Nobutaka Imamura,Toshiyuki Shimizu,Hiroaki Ishihata,Tatsuya Shindo|36|5|0|1
+19|LCM: Memory System Support for Parallel Language Implementation.|James R. Larus,Brad Richards,Guhan Viswanathan|53|3|0|11
+20|The Performance Advantages of Integrating Block Data Trabsfer in Cache-Coherent Multiprocessors.|Steven Cameron Woo,Jaswinder Pal Singh,John L. Hennessy|122|29|1|12
+21|Improving the Accuracy of Static Branch Prediction Using Branch Correlation.|Cliff Young,Michael D. Smith|139|13|2|12
+22|Reducing Branch Costs via Branch Alignment.|Brad Calder,Dirk Grunwald|125|17|3|15
+23|Compiler Optimizations for Improving Data Locality.|Steve Carr,Kathryn S. McKinley,Chau-Wen Tseng|321|47|3|22
+24|DCG: An Efficient, Retargetable Dynamic Code Generation System.|Dawson R. Engler,Todd A. Proebsting|115|13|0|8
+25|The Performance Impact of Flexibility in the Stanford FLASH Multiprocessor.|Mark Heinrich,Jeffrey Kuskin,David Ofelt,John Heinlein,Joel Baxter,Jaswinder Pal Singh,Richard Simoni,Kourosh Gharachorloo,David Nakahira,Mark Horowitz,Anoop Gupta,Mendel Rosenblum,John L. Hennessy|158|5|0|22
+26|Simple Compiler Algorithms to Reduce Ownership Operhead in Cache Coherence Protocols.|Jonas Skeppstedt,Per Stenström|20|1|0|5
+27|Fine-grain Access Control for Distributed Shared Memory.|Ioannis Schoinas,Babak Falsafi,Alvin R. Lebeck,Steven K. Reinhardt,James R. Larus,David A. Wood|327|37|5|25
+28|Interleaving: A Multithreading Technique Targeting Multiprocessors and Workstations.|James Laudon,Anoop Gupta,Mark Horowitz|138|21|1|7
+29|Hardware Support for Fast Capability-based Addressing.|Nicholas P. Carter,Stephen W. Keckler,William J. Dally|74|22|5|9
+30|The Effectiveness of Multiple Hardware Contexts.|Radhika Thekkath,Susan J. Eggers|90|9|7|3

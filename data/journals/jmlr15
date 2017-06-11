@@ -1,0 +1,121 @@
+120
+1|Bridging Viterbi and posterior decoding: a generalized risk approach to hidden path inference based on hidden Markov models.|Jüri Lember,Alexey A. Koloydenko|0|0|0|0
+2|Fast SVM training using approximate extreme points.|Manu Nandan,Pramod P. Khargonekar,Sachin S. Talathi|9|8|0|0
+3|Detecting click fraud in online advertising: a data mining approach.|Richard Jayadi Oentaryo,Ee-Peng Lim,Michael Finegold,David Lo,Feida Zhu,Clifton Phua,Eng-Yeow Cheu,Ghim-Eng Yap,Kelvin Sim,Minh Nhut Nguyen,Kasun S. Perera,Bijay Neupane,Mustafa Amir Faisal,Zeyar Aung,Wei Lee Woon,Wei Chen,Dhaval Patel,Daniel Berrar|6|4|0|0
+4|EnsembleSVM: a library for ensemble learning using support vector machines.|Marc Claesen,Frank De Smet,Johan A. K. Suykens,Bart De Moor|16|15|0|5
+5|A junction tree framework for undirected graphical model selection.|Divyanshu Vats,Robert D. Nowak|4|4|0|1
+6|Axioms for graph clustering quality functions.|Twan van Laarhoven,Elena Marchiori|7|5|0|3
+7|Convex vs non-convex estimators for regression and sparse estimation: the mean squared error properties of ARD and GLasso.|Aleksandr Y. Aravkin,James V. Burke,Alessandro Chiuso,Gianluigi Pillonetto|14|14|0|11
+8|Using trajectory data to improve bayesian optimization for reinforcement learning.|Aaron Wilson,Alan Fern,Prasad Tadepalli|1|1|0|0
+9|Information theoretical estimators toolbox.|Zoltán Szabó|12|12|0|0
+10|Off-policy learning with eligibility traces: a survey.|Matthieu Geist,Bruno Scherrer|16|14|0|2
+11|Early stopping and non-parametric regression: an optimal data-dependent stopping rule.|Garvesh Raskutti,Martin J. Wainwright,Bin Yu|8|8|0|1
+12|Unbiased generative semi-supervised learning.|Patrick Fox-Roberts,Edward Rosten|4|3|0|0
+13|Node-based learning of multiple Gaussian graphical models.|Karthik Mohan,Palma London,Maryam Fazel,Daniela M. Witten,Su-In Lee|20|16|0|2
+14|The fastclime package for linear programming and large-scale precision matrix estimation in R.|Haotian Pang,Han Liu,Robert J. Vanderbei|5|5|0|2
+15|LIBOL: a library for online learning algorithms.|Steven C. H. Hoi,Jialei Wang,Peilin Zhao|36|30|0|26
+16|Improving Markov network structure learning using decision trees.|Daniel Lowd,Jesse Davis|10|9|0|2
+17|Ground metric learning.|Marco Cuturi,David Avis|11|10|0|2
+18|Link prediction in graphs with autoregressive features.|Emile Richard,Stéphane Gaïffas,Nicolas Vayatis|6|6|0|2
+19|Adaptivity of averaged stochastic gradient descent to local strong convexity for logistic regression.|Francis R. Bach|19|17|0|9
+20|Random intersection trees.|Rajen Dinesh Shah,Nicolai Meinshausen|3|3|0|0
+21|Reinforcement learning for closed-loop propofol anesthesia: a study in human volunteers.|Brett L. Moore,Larry D. Pyeatt,Vivekanand Kulkarni,Periklis Panousis,Kevin Padrez,Anthony G. Doufas|3|3|0|0
+22|Clustering hidden Markov models with variational HEM.|Emanuele Coviello,Antoni B. Chan,Gert R. G. Lanckriet|9|9|0|6
+23|A novel M-estimator for robust PCA.|Teng Zhang,Gilad Lerman|35|34|0|6
+24|Policy evaluation with temporal differences: a survey and comparison.|Christoph Dann,Gerhard Neumann,Jan Peters|18|17|0|1
+25|Active learning using smooth relative regret approximations with applications.|Nir Ailon,Ron Begleiter,Esther Ezra|n/a
+26|An extension of slow feature analysis for nonlinear blind source separation.|Henning Sprekeler,Tiziano Zito,Laurenz Wiskott|10|8|0|7
+27|Natural evolution strategies.|Daan Wierstra,Tom Schaul,Tobias Glasmachers,Yi Sun,Jan Peters,Jürgen Schmidhuber|111|100|0|16
+28|Conditional random field with high-order dependencies for sequence labeling and segmentation.|Viet Cuong Nguyen,Nan Ye,Wee Sun Lee,Hai Leong Chieu|6|6|0|3
+29|Ellipsoidal rounding for nonnegative matrix factorization under noisy separability.|Tomohiko Mizutani|8|8|0|2
+30|Improving prediction from dirichlet process mixtures via enrichment.|Sara Wade,David B. Dunson,Sonia Petrone,Lorenzo Trippa|7|7|0|0
+31|Gibbs max-margin topic models with data augmentation.|Jun Zhu,Ning Chen,Hugh Perkins,Bo Zhang|27|23|0|14
+32|A reliable effective terascale linear learning system.|Alekh Agarwal,Olivier Chapelle,Miroslav Dudík,John Langford|150|144|0|3
+33|New learning methods for supervised and unsupervised preference aggregation.|Maksims Volkovs,Richard S. Zemel|13|11|0|0
+34|Prediction and clustering in signed networks: a local to global perspective.|Kai-Yang Chiang,Cho-Jui Hsieh,Nagarajan Natarajan,Inderjit S. Dhillon,Ambuj Tewari|15|13|0|3
+35|Bayesian nonparametric comorbidity analysis of psychiatric disorders.|Francisco J. R. Ruiz,Isabel Valera,Carlos Blanco,Fernando Pérez-Cruz|10|7|0|4
+36|Robust near-separable nonnegative matrix factorization using linear optimization.|Nicolas Gillis,Robert Luce|20|15|0|5
+37|Follow the leader if you can, hedge if you must.|Steven de Rooij,Tim van Erven,Peter D. Grünwald,Wouter M. Koolen|34|34|0|10
+38|Structured prediction via output space search.|Janardhan Rao Doppa,Alan Fern,Prasad Tadepalli|15|15|0|6
+39|Fully simplified multivariate normal updates in non-conjugate variational message passing.|Matt P. Wand|15|14|0|2
+40|Towards ultrahigh dimensional feature selection for big data.|Mingkui Tan,Ivor W. Tsang,Li Wang|25|21|0|2
+41|Adaptive sampling for large scale boosting.|Charles Dubout,François Fleuret|4|4|0|0
+42|Manopt, a matlab toolbox for optimization on manifolds.|Nicolas Boumal,Bamdev Mishra,Pierre-Antoine Absil,Rodolphe Sepulchre|85|74|0|17
+43|Training highly multiclass classifiers.|Maya R. Gupta,Samy Bengio,Jason Weston|n/a
+44|Locally adaptive factor processes for multivariate time series.|Daniele Durante,Bruno Scarpa,David B. Dunson|5|5|0|4
+45|Iteration complexity of feasible descent methods for convex optimization.|Po-Wei Wang,Chih-Jen Lin|55|49|0|1
+46|High-dimensional covariance decomposition into sparse Markov and independence models.|Majid Janzamin,Animashree Anandkumar|3|3|0|0
+47|The No-U-turn sampler: adaptively setting path lengths in Hamiltonian Monte Carlo.|Matthew D. Hoffman,Andrew Gelman|237|211|0|5
+48|Confidence intervals for random forests: the jackknife and the infinitesimal jackknife.|Stefan Wager,Trevor Hastie,Bradley Efron|21|21|0|4
+49|Surrogate regret bounds for bipartite ranking via strongly proper losses.|Shivani Agarwal|15|15|0|1
+50|Adaptive minimax regression estimation over sparse lq-hulls.|Zhan Wang,Sandra Paterlini,Fuchang Gao,Yuhong Yang|8|7|0|3
+51|Graph estimation from multi-attribute data.|Mladen Kolar,Han Liu,Eric P. Xing|3|3|0|2
+52|Hitting and commute times in large random neighborhood graphs.|Ulrike von Luxburg,Agnes Radl,Matthias Hein|9|9|0|1
+53|Bayesian inference with posterior regularization and applications to infinite latent SVMs.|Jun Zhu,Ning Chen,Eric P. Xing|29|27|0|19
+54|Expectation propagation for neural networks with sparsity-promoting priors.|Pasi Jylänki,Aapo Nummenmaa,Aki Vehtari|4|4|0|2
+55|Pattern alternating maximization algorithm for missing data in high-dimensional problems.|Nicolas Städler,Daniel J. Stekhoven,Peter Bühlmann|2|1|0|0
+56|Dropout: a simple way to prevent neural networks from overfitting.|Nitish Srivastava,Geoffrey E. Hinton,Alex Krizhevsky,Ilya Sutskever,Ruslan Salakhutdinov|533|438|0|5
+57|Sparse factor analysis for learning and content analytics.|Andrew S. Lan,Andrew E. Waters,Christoph Studer,Richard G. Baraniuk|21|19|2|5
+58|Causal discovery with continuous additive noise models.|Jonas Peters,Joris M. Mooij,Dominik Janzing,Bernhard Schölkopf|27|25|0|8
+59|PyStruct: learning structured prediction in python.|Andreas C. Müller,Sven Behnke|8|7|0|0
+60|The student-t mixture as a natural image patch prior with application to image compression.|Aäron Van Den Oord,Benjamin Schrauwen|3|3|0|1
+61|Parallel MCMC with generalized elliptical slice sampling.|Robert Nishihara,Iain Murray,Ryan P. Adams|7|6|0|2
+62|Classifier cascades and trees for minimizing feature evaluation cost.|Zhixiang Eddie Xu,Matt J. Kusner,Kilian Q. Weinberger,Minmin Chen,Olivier Chapelle|10|8|0|1
+63|Particle gibbs with ancestor sampling.|Fredrik Lindsten,Michael I. Jordan,Thomas B. Schön|49|47|0|15
+64|Ramp loss linear programming support vector machine.|Xiaolin Huang,Lei Shi,Johan A. K. Suykens|7|6|0|3
+65|Clustering partially observed graphs via convex optimization.|Yudong Chen,Ali Jalali,Sujay Sanghavi,Huan Xu|45|44|0|14
+66|A tensor approach to learning mixed membership community models.|Animashree Anandkumar,Rong Ge,Daniel Hsu,Sham M. Kakade|64|63|0|22
+67|Cover tree Bayesian reinforcement learning.|Nikolaos Tziortziotis,Christos Dimitrakakis,Konstantinos Blekas|5|5|0|0
+68|Efficient state-space inference of periodic latent force models.|Steven Reece,Siddhartha Ghosh,Alex Rogers,Stephen J. Roberts,Nicholas R. Jennings|9|8|0|4
+69|Spectral learning of latent-variable PCFGs: algorithms and sample complexity.|Shay B. Cohen,Karl Stratos,Michael Collins,Dean P. Foster,Lyle H. Ungar|12|11|0|2
+70|On multilabel classification and ranking with bandit feedback.|Claudio Gentile,Francesco Orabona|4|3|0|1
+71|Beyond the regret minimization barrier: optimal algorithms for stochastic strongly-convex optimization.|Elad Hazan,Satyen Kale|99|92|0|4
+72|One-shot-learning gesture recognition using HOG-HOF features.|Jakub Konecný,Michal Hagara|10|10|0|0
+73|Contextual bandits with similarity information.|Aleksandrs Slivkins|108|102|0|16
+74|Boosting algorithms for detector cascade learning.|Mohammad J. Saberian,Nuno Vasconcelos|6|5|0|1
+75|Efficient and accurate methods for updating generalized linear models with multiple feature additions.|Amit Dhurandhar,Marek Petrik|1|1|0|1
+76|Bayesian estimation of causal direction in acyclic structural equation models with individual-specific confounder variables and non-Gaussian distributions.|Shohei Shimizu,Kenneth Bollen|2|2|0|1
+77|A truncated EM approach for spike-and-slab sparse coding.|Abdul-Saboor Sheikh,Jacquelyn A. Shelton,Jörg Lücke|6|6|0|3
+78|Efficient occlusive components analysis.|Marc Henniges,Richard E. Turner,Maneesh Sahani,Julian Eggert,Jörg Lücke|2|2|0|0
+79|Optimality of graphlet screening in high dimensional variable selection.|Jiashun Jin,Cun-Hui Zhang,Qi Zhang|21|20|0|9
+80|Tensor decompositions for learning latent variable models.|Animashree Anandkumar,Rong Ge,Daniel Hsu,Sham M. Kakade,Matus Telgarsky|200|185|0|36
+81|Bayesian entropy estimation for countable discrete distributions.|Evan Archer,Il Memming Park,Jonathan W. Pillow|15|13|0|1
+82|Confidence intervals and hypothesis testing for high-dimensional regression.|Adel Javanmard,Andrea Montanari|107|98|0|6
+83|QUIC: quadratic approximation for sparse inverse covariance estimation.|Cho-Jui Hsieh,Mátyás A. Sustik,Inderjit S. Dhillon,Pradeep D. Ravikumar|11|6|0|0
+84|Multimodal learning with deep Boltzmann machines.|Nitish Srivastava,Ruslan Salakhutdinov|304|278|0|2
+85|Optimal data collection for informative rankings expose well-connected graphs.|Braxton Osting,Christoph Brune,Stanley J. Osher|6|6|0|4
+86|Bayesian co-boosting for multi-modal gesture recognition.|Jiaxiang Wu,Jian Cheng|2|2|0|0
+87|Effective string processing and matching for author disambiguation.|Wei-Sheng Chin,Yong Zhuang,Yu-Chin Juan,Felix Wu,Hsiao-Yu Tung,Tong Yu,Jui-Pin Wang,Cheng-Xia Chang,Chun-Pai Yang,Wei-Cheng Chang,Kuan-Hao Huang,Tzu-Ming Kuo,Shan-Wei Lin,Young-San Lin,Yu-Chen Lu,Yu-Chuan Su,Cheng-Kuang Wei,Tu-Chun Yin,Chun-Liang Li,Ting-Wei Lin,Cheng-Hao Tsai,Shou-De Lin,Hsuan-Tien Lin,Chih-Jen Lin|8|8|0|0
+88|High-dimensional learning of linear causal networks via inverse covariance estimation.|Po-Ling Loh,Peter Bühlmann|7|7|0|0
+89|Recursive teaching dimension, VC-dimension and sample compression.|Thorsten Doliwa,Gaojian Fan,Hans Ulrich Simon,Sandra Zilles|7|7|0|3
+90|Do we need hundreds of classifiers to solve real world classification problems?|Manuel Fernández Delgado,Eva Cernadas,Senén Barro,Dinani Gomes Amorim|143|122|0|1
+91|ooDACE toolbox: a flexible object-oriented Kriging implementation.|Ivo Couckuyt,Tom Dhaene,Piet Demeester|8|6|0|5
+92|Robust online gesture recognition with crowdsourced annotations.|Long-Van Nguyen-Dinh,Alberto Calatroni,Gerhard Tröster|2|2|0|1
+93|Accelerating t-SNE using tree-based algorithms.|Laurens van der Maaten|42|30|0|3
+94|Set-valued approachability and online learning with partial monitoring.|Shie Mannor,Vianney Perchet,Gilles Stoltz|2|2|0|0
+95|Learning graphical models with hubs.|Kean Ming Tan,Palma London,Karthik Mohan,Su-In Lee,Maryam Fazel,Daniela M. Witten|n/a
+96|Inconsistency of Pitman-Yor process mixtures for the number of components.|Jeffrey W. Miller,Matthew T. Harrison|12|12|0|3
+97|Active contextual policy search.|Alexander Fabisch,Jan Hendrik Metzen|5|5|0|3
+98|Matrix completion with the trace norm: learning, bounding, and transducing.|Ohad Shamir,Shai Shalev-Shwartz|2|2|0|0
+99|Statistical analysis of metric graph reconstruction.|Fabrizio Lecci,Alessandro Rinaldo,Larry A. Wasserman|4|4|0|4
+100|Alternating linearization for structured regularization problems.|Xiaodong Lin,Minh Pham,Andrzej Ruszczynski|7|7|0|1
+101|The gesture recognition toolkit.|Nicholas Edward Gillian,Joseph A. Paradiso|16|13|0|2
+102|Convolutional nets and watershed cuts for real-time semantic Labeling of RGBD videos.|Camille Couprie,Clément Farabet,Laurent Najman,Yann LeCun|4|3|0|0
+103|On the bayes-optimality of F-measure maximizers.|Willem Waegeman,Krzysztof Dembczynski,Arkadiusz Jachnik,Weiwei Cheng,Eyke Hüllermeier|4|4|0|0
+104|SPMF: a Java open-source pattern mining library.|Philippe Fournier-Viger,Antonio Gomariz,Ted Gueniche,Azadeh Soltani,Cheng-Wei Wu,Vincent S. Tseng|39|36|0|9
+105|Efficient learning and planning with compressed predictive states.|William L. Hamilton,Mahdi Milani Fard,Joelle Pineau|4|4|0|2
+106|Revisiting Stein's paradox: multi-task averaging.|Sergey Feldman,Maya R. Gupta,Bela A. Frigyik|0|0|0|0
+107|Multi-objective reinforcement learning using sets of pareto dominating policies.|Kristof Van Moffaert,Ann Nowé|5|5|0|1
+108|Seeded graph matching for correlated Erdös-Rényi graphs.|Vince Lyzinski,Donniell E. Fishkind,Carey E. Priebe|12|10|0|8
+109|Asymptotic accuracy of distribution-based estimation of latent variables.|Keisuke Yamazaki|9|8|0|8
+110|What regularized auto-encoders learn from the data-generating distribution.|Guillaume Alain,Yoshua Bengio|53|47|0|18
+111|Revisiting Bayesian blind deconvolution.|David P. Wipf,Haichao Zhang|20|19|0|6
+112|New results for random walk learning.|Jeffrey C. Jackson,Karl Wimmer|4|3|0|1
+113|Transfer learning decision forests for gesture recognition.|Norberto A. Goussies,Sebastián Ubalde,Marta Mejail|1|1|0|0
+114|Semi-supervised eigenvectors for large-scale locally-biased learning.|Toke Jansen Hansen,Michael W. Mahoney|1|1|0|0
+115|BayesOpt: a Bayesian optimization library for nonlinear optimization, experimental design and bandits.|Ruben Martinez-Cantin|9|8|0|3
+116|Order-independent constraint-based causal structure learning.|Diego Colombo,Marloes H. Maathuis|17|13|0|3
+117|Effective sampling and learning for mallows models with pairwise-preference data.|Tyler Lu,Craig Boutilier|6|5|0|0
+118|Robust hierarchical clustering.|Maria-Florina Balcan,Yingyu Liang,Pramod Gupta|38|36|0|9
+119|Parallelizing exploration-exploitation tradeoffs in Gaussian process bandit optimization.|Thomas Desautels,Andreas Krause,Joel W. Burdick|32|31|0|6
+120|Active lmitation learning: formal and practical reductions to I.I.D. learning.|Kshitij Judah,Alan Paul Fern,Thomas G. Dietterich,Prasad Tadepalli|1|1|0|0

@@ -1,0 +1,149 @@
+148
+1|IEEE 28th International Conference on Data Engineering (ICDE 2012), Washington, DC, USA (Arlington, Virginia), 1-5 April, 2012.|Anastasios Kementsietsidis,Marcos Antonio Vaz Salles|n/a
+2|Viewing the Web as a Distributed Knowledge Base.|Serge Abiteboul,Emilien Antoine,Julia Stoyanovich|14|14|0|2
+3|How Different is Big Data?|Surajit Chaudhuri|10|10|0|0
+4|Accountability and Trust in Cooperative Information Systems.|Peter Druschel|0|0|0|0
+5|The Future of Scientific Data Bases.|Michael Stonebraker,Anastasia Ailamaki,Jeremy Kepner,Alexander S. Szalay|3|3|0|0
+6|Privacy in Social Networks: How Risky is Your Social Graph?|Cuneyt Gurcan Akcora,Barbara Carminati,Elena Ferrari|29|29|0|4
+7|Differentially Private Spatial Decompositions.|Graham Cormode,Cecilia M. Procopiuc,Divesh Srivastava,Entong Shen,Ting Yu|110|107|0|6
+8|Differentially Private Histogram Publication.|Jia Xu,Zhenjie Zhang,Xiaokui Xiao,Yin Yang,Ge Yu|91|86|0|7
+9|Privacy-Preserving and Content-Protecting Location Based Queries.|Russell Paulet,Md. Golam Kaosar,Xun Yi,Elisa Bertino|38|33|0|2
+10|GeoFeed: A Location Aware News Feed System.|Jie Bao,Mohamed F. Mokbel,Chi-Yin Chow|43|42|13|8
+11|Entity Search Strategies for Mashup Applications.|Stefan Endrullis,Andreas Thor,Erhard Rahm|8|8|0|3
+12|CI-Rank: Ranking Keyword Search Results Based on Collective Importance.|Xiaohui Yu,Huxia Shi|6|6|0|0
+13|Temporal Analytics on Big Data for Web Advertising.|Badrish Chandramouli,Jonathan Goldstein,Songyun Duan|60|56|0|8
+14|Lookup Tables: Fine-Grained Partitioning for Distributed Databases.|Aubrey Tatarowicz,Carlo Curino,Evan P. C. Jones,Sam Madden|29|29|1|2
+15|Temporal Support for Persistent Stored Modules.|Richard T. Snodgrass,Dengfeng Gao,Rui Zhang,Stephen W. Thomas|5|5|0|2
+16|Energy Efficient Storage Management Cooperated with Large Data Intensive Applications.|Norifumi Nishikawa,Miyuki Nakano,Masaru Kitsuregawa|20|20|0|3
+17|ISOBAR Preconditioner for Effective and High-throughput Lossless Data Compression.|Eric R. Schendel,Ye Jin,Neil Shah,Jackie Chen,Choong-Seock Chang,Seung-Hoe Ku,Stéphane Ethier,Scott Klasky,Robert Latham,Robert B. Ross,Nagiza F. Samatova|32|32|0|9
+18|Physically Independent Stream Merging.|Badrish Chandramouli,David Maier,Jonathan Goldstein|1|1|0|0
+19|A General Method for Estimating Correlated Aggregates over a Data Stream.|Srikanta Tirthapura,David P. Woodruff|16|16|0|2
+20|Accuracy-Aware Uncertain Stream Databases.|Tingjian Ge,Fujun Liu|0|0|0|0
+21|On Discovery of Traveling Companions from Streaming Trajectories.|Lu An Tang,Yu Zheng,Jing Yuan,Jiawei Han,Alice Leung,Chih-Chieh Hung,Wen-Chih Peng|53|52|0|9
+22|Iterative Graph Feature Mining for Graph Indexing.|Dayu Yuan,Prasenjit Mitra,Huiwen Yu,C. Lee Giles|7|7|0|4
+23|An Efficient Graph Indexing Method.|Xiaoli Wang,Xiaofeng Ding,Anthony K. H. Tung,Shanshan Ying,Hai Jin|30|30|0|3
+24|PRAGUE: Towards Blending Practical Visual Subgraph Query Formulation and Query Processing.|Changjiu Jin,Sourav S. Bhowmick,Byron Choi,Shuigeng Zhou|4|4|0|2
+25|Ego-centric Graph Pattern Census.|Walaa Eldin Moustafa,Amol Deshpande,Lise Getoor|8|8|0|1
+26|Searching Uncertain Data Represented by Non-axis Parallel Gaussian Mixture Models.|Katrin Haegler,Frank Fiedler,Christian Böhm|1|1|0|0
+27|Aggregate Query Answering on Possibilistic Data with Cardinality Constraints.|Graham Cormode,Divesh Srivastava,Entong Shen,Ting Yu|6|6|0|0
+28|Discovering Threshold-based Frequent Closed Itemsets over Probabilistic Data.|Yongxin Tong,Lei Chen,Bolin Ding|43|42|0|9
+29|Ranking Query Answers in Probabilistic Databases: Complexity and Efficient Algorithms.|Dan Olteanu,Hongkai Wen|16|15|0|1
+30|Joint Entity Resolution.|Steven Euijong Whang,Hector Garcia-Molina|24|21|0|3
+31|A Self-Configuring Schema Matching System.|Eric Peukert,Julian Eberius,Erhard Rahm|30|27|0|2
+32|Incremental Detection of Inconsistencies in Distributed Data.|Wenfei Fan,Jianzhong Li,Nan Tang,Wenyuan Yu|24|22|0|7
+33|Recomputing Materialized Instances after Changes to Mappings and Data.|Todd J. Green,Zachary G. Ives|4|4|0|2
+34|SWST: A Disk Based Index for Sliding Window Spatio-Temporal Data.|Manish Singh,Qiang Zhu,H. V. Jagadish|6|6|0|1
+35|Querying Uncertain Spatio-Temporal Data.|Tobias Emrich,Hans-Peter Kriegel,Nikos Mamoulis,Matthias Renz,Andreas Züfle|43|41|0|11
+36|The Min-dist Location Selection Query.|Jianzhong Qi,Rui Zhang,Lars Kulik,Dan Lin,Yuan Xue|25|24|0|14
+37|Bi-level Locality Sensitive Hashing for k-Nearest Neighbor Computation.|Jia Pan,Dinesh Manocha|24|23|0|3
+38|Learning-based Query Performance Modeling and Prediction.|Mert Akdere,Ugur Çetintemel,Matteo Riondato,Eli Upfal,Stanley B. Zdonik|45|45|0|2
+39|Parametric Plan Caching Using Density-Based Clustering.|Günes Aluç,David DeHaan,Ivan T. Bowman|2|2|0|1
+40|Effective and Robust Pruning for Top-Down Join Enumeration Algorithms.|Pit Fender,Guido Moerkotte,Thomas Neumann,Viktor Leis|11|11|0|4
+41|Towards Preference-aware Relational Databases.|Anastasios Arvanitis,Georgia Koutrika|13|13|0|2
+42|A Foundation for Efficient Indoor Distance-Aware Query Processing.|Hua Lu,Xin Cao,Christian S. Jensen|24|24|0|14
+43|LARS: A Location-Aware Recommender System.|Justin J. Levandoski,Mohamed Sarwat,Ahmed Eldawy,Mohamed F. Mokbel|128|125|0|11
+44|Approximate Shortest Distance Computing: A Query-Dependent Local Landmark Scheme.|Miao Qiao,Hong Cheng,Lijun Chang,Jeffrey Xu Yu|26|25|0|1
+45|DESKS: Direction-Aware Spatial Keyword Search.|Guoliang Li,Jianhua Feng,Jing Xu|51|48|0|18
+46|Extending Map-Reduce for Efficient Predicate-Based Sampling.|Raman Grover,Michael J. Carey|35|35|0|2
+47|Fuzzy Joins Using MapReduce.|Foto N. Afrati,Anish Das Sarma,David Menestrina,Aditya G. Parameswaran,Jeffrey D. Ullman|48|44|0|4
+48|Parallel Top-K Similarity Join Algorithms Using MapReduce.|Younghoon Kim,Kyuseok Shim|46|44|0|2
+49|Load Balancing in MapReduce Based on Scalable Cardinality Estimates.|Benjamin Gufler,Nikolaus Augsten,Angelika Reiser,Alfons Kemper|63|60|0|0
+50|Community Detection with Edge Content in Social Media Networks.|Guo-Jun Qi,Charu C. Aggarwal,Thomas S. Huang|45|43|0|6
+51|Cross Domain Search by Exploiting Wikipedia.|Chen Liu,Sai Wu,Shouxu Jiang,Anthony K. H. Tung|8|8|0|3
+52|Provenance-based Indexing Support in Micro-blog Platforms.|Junjie Yao,Bin Cui,Zijun Xue,Qingyun Liu|20|17|0|2
+53|Learning Stochastic Models of Information Flow.|Luke Dickens,Ian Molloy,Jorge Lobo,Pau-Chen Cheng,Alessandra Russo|12|12|0|0
+54|BestPeer++: A Peer-to-Peer Based Large-Scale Data Processing Platform.|Gang Chen,Tianlei Hu,Dawei Jiang,Peng Lu,Kian-Lee Tan,Hoang Tam Vo,Sai Wu|12|11|0|1
+55|Effective Data Density Estimation in Ring-Based P2P Networks.|Minqi Zhou,Heng Tao Shen,Xiaofang Zhou,Weining Qian,Aoying Zhou|1|1|0|1
+56|Processing of Rank Joins in Highly Distributed Systems.|Christos Doulkeridis,Akrivi Vlachou,Kjetil Nørvåg,Yannis Kotidis,Neoklis Polyzotis|4|3|0|1
+57|Load Balancing for MapReduce-based Entity Resolution.|Lars Kolb,Andreas Thor,Erhard Rahm|79|77|0|8
+58|Mapping XML to a Wide Sparse Table.|Liang Jeff Chen,Philip A. Bernstein,Peter Carlin,Dimitrije Filipovic,Michael Rys,Nikita Shamgunov,James F. Terwilliger,Milos Todic,Sasa Tomasevic,Dragan Tomic|12|12|0|0
+59|Querying XML Data: As You Shape It.|Curtis E. Dyreson,Sourav S. Bhowmick|n/a
+60|Branch Code: A Labeling Scheme for Efficient Query Answering on Trees.|Yanghua Xiao,Ji Hong,Wanyun Cui,Zhenying He,Wei Wang,Guodong Feng|1|1|0|0
+61|Scalable Multi-query Optimization for SPARQL.|Wangchao Le,Anastasios Kementsietsidis,Songyun Duan,Feifei Li|38|38|0|1
+62|GSLPI: A Cost-Based Query Progress Indicator.|Jiexing Li,Rimma V. Nehme,Jeffrey F. Naughton|17|17|0|3
+63|Micro-Specialization in DBMSes.|Rui Zhang,Richard T. Snodgrass,Saumya Debray|n/a
+64|Towards Multi-tenant Performance SLOs.|Willis Lang,Srinath Shankar,Jignesh M. Patel,Ajay Kalhan|55|53|0|3
+65|Multi-version Concurrency via Timestamp Range Conflict Management.|David B. Lomet,Alan Fekete,Rui Wang,Peter Ward|20|20|0|3
+66|Automatic Extraction of Structured Web Data with Domain Knowledge.|Nora Derouiche,Bogdan Cautis,Talel Abdessalem|11|11|0|0
+67|Discovering Conservation Rules.|Lukasz Golab,Howard J. Karloff,Flip Korn,Barna Saha,Divesh Srivastava|6|6|0|2
+68|Answering Why-not Questions on Top-k Queries.|Zhian He,Eric Lo|42|41|0|0
+69|An Efficient Trie-based Method for Approximate Entity Extraction with Edit-Distance Constraints.|Dong Deng,Guoliang Li,Jianhua Feng|12|12|1|5
+70|On Top-k Structural Similarity Search.|Pei Lee,Laks V. S. Lakshmanan,Jeffrey Xu Yu|29|26|0|1
+71|Relevance Matters: Capitalizing on Less (Top-k Matching in Publish/Subscribe).|Mohammad Sadoghi,Hans-Arno Jacobsen|16|16|0|5
+72|Efficiently Monitoring Top-k Pairs over Sliding Windows.|Zhitao Shen,Muhammad Aamir Cheema,Xuemin Lin,Wenjie Zhang,Haixun Wang|11|10|0|5
+73|Processing and Notifying Range Top-k Subscriptions.|Albert Yu,Pankaj K. Agarwal,Jun Yang|3|3|0|0
+74|Efficient Exact Similarity Searches Using Multiple Token Orderings.|Jongik Kim,Hongrae Lee|12|12|0|1
+75|Efficient Graph Similarity Joins with Edit Distance Constraints.|Xiang Zhao,Chuan Xiao,Xuemin Lin,Wei Wang|26|26|0|5
+76|Parameter-Free Determination of Distance Thresholds for Metric Distance Constraints.|Shaoxu Song,Lei Chen,Hong Cheng|5|5|0|3
+77|Random Error Reduction in Similarity Search on Time Series: A Statistical Approach.|Wush Chi-Hsuan Wu,Mi-Yen Yeh,Jian Pei|4|4|0|0
+78|Optimizing Statistical Information Extraction Programs over Evolving Text.|Fei Chen,Xixuan Feng,Christopher Re,Min Wang|21|21|0|3
+79|Approximate String Membership Checking: A Multiple Filter, Optimization-Based Approach.|Chong Sun,Jeffrey F. Naughton,Siddharth Barman|1|1|0|0
+80|On Text Clustering with Side Information.|Charu C. Aggarwal,Yuchen Zhao,Philip S. Yu|26|26|0|3
+81|Fast SLCA and ELCA Computation for XML Keyword Queries Based on Set Intersection.|Junfeng Zhou,Zhifeng Bao,Wei Wang,Tok Wang Ling,Ziyang Chen,Xudong Lin,Jingfeng Guo|39|36|0|10
+82|Optimization of Massive Pattern Queries by Dynamic Configuration Morphing.|Nikolay Laptev,Carlo Zaniolo|4|4|0|1
+83|Three-Level Processing of Multiple Aggregate Continuous Queries.|Shenoda Guirguis,Mohamed A. Sharaf,Panos K. Chrysanthis,Alexandros Labrinidis|13|13|0|5
+84|Accelerating Range Queries for Brain Simulations.|Farhan Tauheed,Laurynas Biveinis,Thomas Heinis,Felix Schürmann,Henry Markram,Anastasia Ailamaki|18|17|0|7
+85|Keyword Query Reformulation on Structured Data.|Junjie Yao,Bin Cui,Liansheng Hua,Yuxin Huang|13|13|0|0
+86|Predicting Approximate Protein-DNA Binding Cores Using Association Rule Mining.|Po-Yuen Wong,Tak-Ming Chan,Man Hon Wong,Kwong-Sak Leung|11|11|0|1
+87|Upgrading Uncompetitive Products Economically.|Hua Lu,Christian S. Jensen|5|5|0|1
+88|Attribute-Based Subsequence Matching and Mining.|Yu Peng,Raymond Chi-Wing Wong,Liangliang Ye,Philip S. Yu|4|3|0|0
+89|Integrating Frequent Pattern Mining from Multiple Data Domains for Classification.|Dhaval Patel,Wynne Hsu,Mong-Li Lee|6|6|0|1
+90|Efficient Versioning for Scientific Array Databases.|Adam Seering,Philippe Cudré-Mauroux,Samuel Madden,Michael Stonebraker|25|25|0|2
+91|Multidimensional Analysis of Atypical Events in Cyber-Physical Data.|Lu An Tang,Xiao Yu,Sangkyum Kim,Jiawei Han,Wen-Chih Peng,Yizhou Sun,Hector Gonzalez,Sebastian Seith|16|14|0|3
+92|HiCS: High Contrast Subspaces for Density-Based Outlier Ranking.|Fabian Keller,Emmanuel Müller,Klemens Böhm|69|65|0|7
+93|Extracting Analyzing and Visualizing Triangle K-Core Motifs within Networks.|Yang Zhang,Srinivasan Parthasarathy|32|30|0|2
+94|Horizontal Reduction: Instance-Level Dimensionality Reduction for Similarity Search in Large Document Databases.|Min Soo Kim,Kyu-Young Whang,Yang-Sae Moon|7|7|0|2
+95|Adaptive Windows for Duplicate Detection.|Uwe Draisbach,Felix Naumann,Sascha Szott,Oliver Wonneberg|34|33|0|1
+96|Efficient Dual-Resolution Layer Indexing for Top-k Queries.|Jongwuk Lee,Hyunsouk Cho,Seung-won Hwang|11|10|0|1
+97|Evaluating Probabilistic Queries over Uncertain Matching.|Reynold Cheng,Jian Gong,David W. Cheung,Jiefeng Cheng|1|1|0|0
+98|Detecting Outliers in Sensor Networks Using the Geometric Approach.|Sabbas Burdakis,Antonios Deligiannakis|31|30|0|7
+99|Efficient Threshold Monitoring for Distributed Probabilistic Data.|Mingwang Tang,Feifei Li,Jeff M. Phillips,Jeffrey Jestes|15|15|0|2
+100|Incorporating Duration Information for Trajectory Classification.|Dhaval Patel,Chang Sheng,Wynne Hsu,Mong-Li Lee|8|7|0|3
+101|Reducing Uncertainty of Low-Sampling-Rate Trajectories.|Kai Zheng,Yu Zheng,Xing Xie,Xiaofang Zhou|62|61|0|17
+102|Efficient Similarity Search over Encrypted Data.|Mehmet Kuzu,Mohammad Saiful Islam,Murat Kantarcioglu|72|70|0|2
+103|Obfuscating the Topical Intention in Enterprise Text Search.|HweeHwa Pang,Xiaokui Xiao,Jialie Shen|10|10|0|0
+104|Correlation Support for Risk Evaluation in Databases.|Katrin Eisenreich,Jochen Adamek,Philipp Rösch,Volker Markl,Gregor Hackenbroich|1|1|0|0
+105|A Game-Theoretic Approach for High-Assurance of Data Trustworthiness in Sensor Networks.|Hyo-Sang Lim,Gabriel Ghinita,Elisa Bertino,Murat Kantarcioglu|24|24|0|2
+106|Data Management Issues on the Semantic Web.|Oktie Hassanzadeh,Anastasios Kementsietsidis,Yannis Velegrakis|17|17|0|1
+107|Discovering Multiple Clustering Solutions: Grouping Objects in Different Views of the Data.|Emmanuel Müller,Stephan Günnemann,Ines Färber,Thomas Seidl|38|37|0|1
+108|Detecting Clones, Copying and Reuse on the Web.|Xin Luna Dong,Divesh Srivastava|3|3|0|0
+109|Mining Knowledge from Data: An Information Network Analysis Approach.|Jiawei Han,Yizhou Sun,Xifeng Yan,Philip S. Yu|12|12|0|0
+110|Emerging Graph Queries in Linked Data.|Arijit Khan,Yinghui Wu,Xifeng Yan|8|7|0|3
+111|Boolean Matrix Decomposition Problem: Theory, Variations and Applications to Data Engineering.|Jaideep Vaidya|5|5|0|0
+112|SMIX Live - A Self-Managing Index Infrastructure for Dynamic Workloads.|Thomas Kissinger,Hannes Voigt,Wolfgang Lehner|1|1|0|1
+113|Multi-query Stream Processing on FPGAs.|Mohammad Sadoghi,Rija Javed,Naif Tarafdar,Harsh Singh,Rohan Palaniappan,Hans-Arno Jacobsen|19|19|0|4
+114|EUDEMON: A System for Online Video Frame Copy Detection by Earth Mover's Distance.|Jia Xu,Qiushi Bai,Yu Gu,Anthony K. H. Tung,Guoren Wang,Ge Yu,Zhenjie Zhang|3|3|0|0
+115|A Dataset Search Engine for the Research Document Corpus.|Meiyu Lu,Srinivas Bangalore,Graham Cormode,Marios Hadjieleftheriou,Divesh Srivastava|6|6|0|0
+116|AskFuzzy: Attractive Visual Fuzzy Query Builder.|Keivan Kianmehr,Negar Koochakzadeh,Reda Alhajj|3|3|0|0
+117|F2DB: The Flash-Forward Database System.|Ulrike Fischer,Frank Rosenthal,Wolfgang Lehner|9|9|0|9
+118|Provenance-Based Debugging and Drill-Down in Data-Oriented Workflows.|Robert Ikeda,Junsang Cho,Charlie Fang,Semih Salihoglu,Satoshi Torikai,Jennifer Widom|15|15|0|3
+119|M3: Stream Processing on Main-Memory MapReduce.|Ahmed M. Aly,Asmaa Sallam,Bala M. Gnanasekaran,Long-Van Nguyen-Dinh,Walid G. Aref,Mourad Ouzzani,Arif Ghafoor|30|30|0|0
+120|A Deep Embedding of Queries into Ruby.|Torsten Grust,Manuel Mayr|8|8|0|3
+121|Asking the Right Questions in Crowd Data Sourcing.|Rubi Boim,Ohad Greenshpan,Tova Milo,Slava Novgorodov,Neoklis Polyzotis,Wang Chiew Tan|26|25|0|2
+122|LotusX: A Position-Aware XML Graphical Search System with Auto-Completion.|Chunbin Lin,Jiaheng Lu,Tok Wang Ling,Bogdan Cautis|1|1|0|1
+123|Efficient Top-k Keyword Search in Graphs with Polynomial Delay.|Mehdi Kargar,Aijun An|6|6|0|2
+124|TEDAS: A Twitter-based Event Detection and Analysis System.|Rui Li,Kin Hou Lei,Ravi Khadiwala,Kevin Chen-Chuan Chang|127|119|0|6
+125|AutoDict: Automated Dictionary Discovery.|Fei Chiang,Periklis Andritsos,Erkang Zhu,Renée J. Miller|3|3|0|1
+126|Trust and Share: Trusted Information Sharing in Online Social Networks.|Barbara Carminati,Elena Ferrari,Jacopo Girardi|8|8|0|1
+127|Evaluation of Clusterings - Metrics and Visual Support.|Elke Achtert,Sascha Goldhofer,Hans-Peter Kriegel,Erich Schubert,Arthur Zimek|50|48|0|3
+128|Horton: Online Query Execution Engine for Large Distributed Graphs.|Mohamed Sarwat,Sameh Elnikety,Yuxiong He,Gabriel Kliot|24|24|2|6
+129|MXQuery with Hardware Acceleration.|Peter M. Fischer,Jens Teubner|2|2|0|1
+130|Data3 - A Kinect Interface for OLAP Using Complex Event Processing.|Steffen Hirte,Andreas Seifert,Stephan Baumann,Daniel Klan,Kai-Uwe Sattler|16|16|0|1
+131|Analyzing Query Optimization Process: Portraits of Join Enumeration Algorithms.|Anisoara Nica,Ian Charlesworth,Maysum Panju|1|1|0|1
+132|DPCube: Releasing Differentially Private Data Cubes for Health Information.|Yonghui Xiao,James J. Gardner,Li Xiong|14|14|0|4
+133|NYAYA: A System Supporting the Uniform Management of Large Sets of Semantic Data.|Roberto De Virgilio,Giorgio Orsi,Letizia Tanca,Riccardo Torlone|16|15|0|3
+134|R2DB: A System for Querying and Visualizing Weighted RDF Graphs.|Songling Liu,Juan P. Cedeño,K. Selçuk Candan,Maria Luisa Sapino,Shengyu Huang,Xinsheng Li|0|0|0|0
+135|Project Daytona: Data Analytics as a Cloud Service.|Roger S. Barga,Jaliya Ekanayake,Wei Lu|16|16|0|0
+136|Interactive User Feedback in Ontology Matching Using Signature Vectors.|Isabel F. Cruz,Cosmin Stroe,Matteo Palmonari|22|22|0|5
+137|DObjects+: Enabling Privacy-Preserving Data Federation Services.|Pawel Jurczyk,Li Xiong,Slawomir Goryczka|2|2|0|0
+138|DRAGOON: An Information Accountability System for High-Performance Databases.|Kyriacos E. Pavlou,Richard T. Snodgrass|3|3|0|0
+139|Intuitive Interaction with Encrypted Query Execution in DataStorm.|Kenneth P. Smith,Ameet Kini,William Wang,Chris Wolf,M. David Allen,Andrew Sillers|1|1|0|1
+140|Exploiting Common Subexpressions for Cloud Query Processing.|Yasin N. Silva,Per-Åke Larson,Jingren Zhou|22|22|0|1
+141|Vectorwise: A Vectorized Analytical DBMS.|Marcin Zukowski,Mark van de Wiel,Peter A. Boncz|20|19|0|0
+142|Scalable and Numerically Stable Descriptive Statistics in SystemML.|Yuanyuan Tian,Shirish Tatikonda,Berthold Reinwald|8|8|0|4
+143|Earlybird: Real-Time Search at Twitter.|Michael Busch,Krishna Gade,Brian Larson,Patrick Lok,Samuel Luckenbill,Jimmy Lin|82|80|0|1
+144|Data Infrastructure at LinkedIn.|Aditya Auradkar,Chavdar Botev,Shirshanka Das,Dave De Maagd,Alex Feinberg,Phanindra Ganti,Lei Gao,Bhaskar Ghosh,Kishore Gopalakrishna,Brendan Harris,Joel Koshy,Kevin Krawez,Jay Kreps,Shi Lu,Sunil Nagaraj,Neha Narkhede,Sasha Pachev,Igor Perisic,Lin Qiao,Tom Quiggle,Jun Rao,Bob Schulman,Abraham Sebastian,Oliver Seeliger,Adam Silberstein,Boris Shkolnik,Chinmay Soman,Roshan Sumbaly,Kapil Surlaker,Sajid Topiwala,Cuong Tran,Balaji Varadarajan,Jemiah Westerman,Zach White,David Zhang,Jason Zhang|16|15|0|0
+145|The Credit Suisse Meta-data Warehouse.|Claudio Jossen,Lukas Blunschi,Magdalini Mori,Donald Kossmann,Kurt Stockinger|5|5|0|2
+146|Efficient Support of XQuery Update Facility in XML Enabled RDBMS.|Zhen Hua Liu,Hui J. Chang,Balasubramanyam Sthanikam|6|6|0|1
+147|Making Unstructured Data SPARQL Using Semantic Indexing in Oracle Database.|Souripriya Das,Seema Sundara,Matthew Perry,Jagannathan Srinivasan,Jayanta Banerjee,Aravind Yalamanchi|6|5|1|1
+148|A Meta-language for MDX Queries in eLog Business Solution.|Sonia Bergamaschi,Matteo Interlandi,Mario Longo,Laura Po,Maurizio Vincini|0|0|0|0

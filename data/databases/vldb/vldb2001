@@ -1,0 +1,107 @@
+106
+1|VLDB 2001, Proceedings of 27th International Conference on Very Large Data Bases, September 11-14, 2001, Roma, Italy.|Peter M. G. Apers,Paolo Atzeni,Stefano Ceri,Stefano Paraboschi,Kotagiri Ramamohanarao,Richard T. Snodgrass|n/a
+2|Business Process Coordination: State of the Art, Trends, and Open Issues.|Umeshwar Dayal,Meichun Hsu,Rivka Ladin|250|64|9|3
+3|Ambient Intelligence with the Ubiquitous Network, the Embedded Computer Devices and the Hidden Databases (abstract).|Egbert-Jan Sol|1|0|0|0
+4|Et tu, XML? The downfall of the relational empire (abstract).|Philip Wadler|0|0|0|0
+5|The Semantic Web Paving the Way to the Knowledge Society.|Pierre-Paul Sondag|1|0|0|0
+6|LEO - DB2's LEarning Optimizer.|Michael Stillger,Guy M. Lohman,Volker Markl,Mokhtar Kandil|306|112|20|20
+7|User-Optimizer Communication using Abstract Plans in Sybase ASE.|Mihnea Andrei,Patrick Valduriez|8|2|0|2
+8|XXL - A Library Approach to Supporting Efficient Implementations of Advanced Database Queries.|Jochen Van den Bercken,Björn Blohsfeld,Jens-Peter Dittrich,Jürgen Krämer,Tobias Schäfer,Martin Schneider,Bernhard Seeger|108|25|0|5
+9|Generic Schema Matching with Cupid.|Jayant Madhavan,Philip A. Bernstein,Erhard Rahm|1719|580|35|32
+10|A Formal Perspective on the View Selection Problem.|Rada Chirkova,Alon Y. Halevy,Dan Suciu|84|21|1|10
+11|Self-similarity in the Web.|Stephen Dill,Ravi Kumar,Kevin S. McCurley,Sridhar Rajagopalan,D. Sivakumar,Andrew Tomkins|323|76|2|9
+12|Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries.|Anna C. Gilbert,Yannis Kotidis,S. Muthukrishnan,Martin Strauss|456|118|7|26
+13|Analyzing Quantitative Databases: Image is Everything.|Amihood Amir,Reuven Kashi,Nathan S. Netanyahu|12|0|0|4
+14|Discovery of Influence Sets in Frequently Updated Databases.|Ioana Stanoi,Mirek Riedewald,Divyakant Agrawal,Amr El Abbadi|142|79|0|0
+15|RoadRunner: Towards Automatic Data Extraction from Large Web Sites.|Valter Crescenzi,Giansalvatore Mecca,Paolo Merialdo|1229|557|26|32
+16|Visual Web Information Extraction with Lixto.|Robert Baumgartner,Sergio Flesca,Georg Gottlob|658|206|4|70
+17|Crawling the Hidden Web.|Sriram Raghavan,Hector Garcia-Molina|863|377|24|3
+18|A Database Index to Large Biological Sequences.|Ela Hunt,Malcolm P. Atkinson,Robert W. Irving|145|29|1|7
+19|Storage and Querying of E-Commerce Data.|Rakesh Agrawal,Amit Somani,Yirong Xu|242|101|2|1
+20|Improving Business Process Quality through Exception Understanding, Prediction, and Prevention.|Daniela Grigori,Fabio Casati,Umeshwar Dayal,Ming-Chien Shan|192|71|4|20
+21|Weaving Relations for Cache Performance.|Anastassia Ailamaki,David J. DeWitt,Mark D. Hill,Marios Skounakis|440|182|6|21
+22|Cache-Conscious Concurrency Control of Main-Memory Indexes on Shared-Memory Multiprocessor Systems.|Sang Kyun Cha,Sangyong Hwang,Kihong Kim,Keunjoo Kwon|38|15|0|4
+23|Form-Based Proxy Caching for Database-Backed Web Sites.|Qiong Luo,Jeffrey F. Naughton|119|13|1|7
+24|FeedbackBypass: A New Approach to Interactive Similarity Query Processing.|Ilaria Bartolini,Paolo Ciaccia,Florian Waas|86|10|1|18
+25|Fast Evaluation Techniques for Complex Similarity Queries.|Klemens Böhm,Michael Mlivoncic,Hans-Jörg Schek,Roger Weber|46|6|0|13
+26|An Extendible Hash for Multi-Precision Similarity Querying of Image Databases.|Shu Lin,M. Tamer Özsu,Vincent Oria,Raymond T. Ng|63|24|2|5
+27|Similarity Search for Adaptive Ellipsoid Queries Using Spatial Transformation.|Yasushi Sakurai,Masatoshi Yoshikawa,Ryoji Kataoka,Shunsuke Uemura|14|1|0|1
+28|Answering XML Queries on Heterogeneous Data Sources.|Ioana Manolescu,Daniela Florescu,Donald Kossmann|447|87|0|12
+29|Query Engines for Web-Accessible XML Data.|Leonidas Fegaras,Ramez Elmasri|55|7|0|3
+30|Querying XML Views of Relational Data.|Jayavel Shanmugasundaram,Jerry Kiernan,Eugene J. Shekita,Catalina Fan,John E. Funderburk|343|60|39|10
+31|Views in a Large Scale XML Repository.|Sophie Cluet,Pierangelo Veltri,Dan Vodislav|125|3|0|5
+32|Supporting Incremental Join Queries on Ranked Inputs.|Apostol Natsev,Yuan-Chi Chang,John R. Smith,Chung-Sheng Li,Jeffrey Scott Vitter|209|78|4|7
+33|Efficient Management of Multiversion Documents by Object Referencing.|Shu-Yao Chien,Vassilis J. Tsotras,Carlo Zaniolo|151|25|26|15
+34|Efficient Progressive Skyline Computation.|Kian-Lee Tan,Pin-Kwang Eng,Beng Chin Ooi|719|448|1|14
+35|NetCube: A Scalable Tool for Fast Data Mining and Compression.|Dimitris Margaritis,Christos Faloutsos,Sebastian Thrun|22|4|1|1
+36|Mining Multi-Dimensional Constrained Gradients in Data Cubes.|Guozhu Dong,Jiawei Han,Joyce M. W. Lam,Jian Pei,Ke Wang|64|16|0|10
+37|C2P: Clustering based on Closest Pairs.|Alexandros Nanopoulos,Yannis Theodoridis,Yannis Manolopoulos|211|36|1|8
+38|A Fast Index for Semistructured Data.|Brian F. Cooper,Neal Sample,Michael J. Franklin,Gísli R. Hjaltason,Moshe Shadmon|554|119|44|5
+39|Efficient Index Structures for String Databases.|Tamer Kahveci,Ambuj K. Singh|188|48|1|12
+40|Indexing and Querying XML Data for Regular Path Expressions.|Quanzhong Li,Bongki Moon|1198|271|7|18
+41|Declarative Data Cleaning: Language, Model, and Algorithms.|Helena Galhardas,Daniela Florescu,Dennis Shasha,Eric Simon,Cristian-Augustin Saita|392|128|8|15
+42|Potter's Wheel: An Interactive Data Cleaning System.|Vijayshankar Raman,Joseph M. Hellerstein|451|196|8|6
+43|Update Propagation Strategies for Improving the Quality of Data on the Web.|Alexandros Labrinidis,Nick Roussopoulos|105|30|0|10
+44|Walking Through a Very Large Virtual Environment in Real-time.|Lidan Shou,Jason Chionh,Zhiyong Huang,Yixin Ruan,Kian-Lee Tan|40|6|0|4
+45|Analyzing energy behavior of spatial access methods for memory-resident data.|Ning An,Anand Sivasubramaniam,Narayanan Vijaykrishnan,Mahmut T. Kandemir,Mary Jane Irwin,Sudhanva Gurumurthi|15|0|0|3
+46|Indexing the Distance: An Efficient Method to KNN Processing.|Cui Yu,Beng Chin Ooi,Kian-Lee Tan,H. V. Jagadish|335|116|0|37
+47|MV3R-Tree: A Spatio-Temporal Access Method for Timestamp and Interval Queries.|Yufei Tao,Dimitris Papadias|3|0|0|0
+48|Transaction Timestamping in (Temporal) Databases.|Christian S. Jensen,David B. Lomet|61|30|1|5
+49|Online Scaling in a Highly Available Database.|Svein Erik Bratsberg,Rune Humborstad|8|4|0|1
+50|An Evaluation of Generic Bulk Loading Techniques.|Jochen Van den Bercken,Bernhard Seeger|73|28|0|1
+51|Lineage Tracing for General Data Warehouse Transformations.|Yingwei Cui,Jennifer Widom|380|202|0|13
+52|A Data Warehousing Architecture for Enabling Service Provisioning Process.|Yannis Kotidis|2|1|0|1
+53|Approximate String Joins in a Database (Almost) for Free.|Luis Gravano,Panagiotis G. Ipeirotis,H. V. Jagadish,Nick Koudas,S. Muthukrishnan,Divesh Srivastava|535|279|11|13
+54|Dynamic Pipeline Scheduling for Improving Interactive Query Performance.|Tolga Urhan,Michael J. Franklin|118|23|1|1
+55|Functional Properties of Information Filtering.|Rie Sawai,Masahiko Tsukamoto,Yin-Huei Loh,Tsutomu Terada,Shojiro Nishio|12|0|0|4
+56|Dynamic Update Cube for Range-sum Queries.|Seok-Ju Chun,Chin-Wan Chung,Ju-Hong Lee,Seok-Lyong Lee|91|9|0|4
+57|Intelligent Rollups in Multidimensional OLAP Data.|Gayatri Sathe,Sunita Sarawagi|89|33|3|0
+58|Distinct Sampling for Highly-Accurate Answers to Distinct Values Queries and Event Reports.|Phillip B. Gibbons|217|85|12|6
+59|Hyperqueries: Dynamic Distributed Query Processing on the Internet.|Alfons Kemper,Christian Wiesner|63|9|3|11
+60|Comparing Hybrid Peer-to-Peer Systems.|Beverly Yang,Hector Garcia-Molina|381|68|21|11
+61|Data Staging for On-Demand Broadcast.|Demet Aksoy,Michael J. Franklin,Stanley B. Zdonik|73|14|0|5
+62|Change-Centric Management of Versions in an XML Warehouse.|Amélie Marian,Serge Abiteboul,Gregory Cobena,Laurent Mignet|284|59|2|7
+63|Estimating the Selectivity of XML Path Expressions for Internet Scale Applications.|Ashraf Aboulnaga,Alaa R. Alameldeen,Jeffrey F. Naughton|246|49|3|7
+64|On Processing XML in LDAP.|Pedro José Marrón,Georg Lausen|23|2|1|4
+65|Collaborative Analytical Processing - Dream or Reality? (Panel abstract).|William O'Connell,Andrew Witkowski,Goetz Graefe|0|0|0|0
+66|Are Web Services the Next Revolution in e-Commerce? (Panel).|Shalom Tsur,Serge Abiteboul,Rakesh Agrawal,Umeshwar Dayal,Johannes Klein,Gerhard Weikum|101|27|0|0
+67|Storage Service Providers: a Solution for Storage Management? (Panel).|Banu Özden,Eran Gabber,Bruce Hillyer,Wee Teck Ng,Elizabeth A. M. Shriver,David J. DeWitt,Bruce Gordon,Jim Gray,John Wilkes|2|0|0|0
+68|French government activity in the conservation of data and electronic documents.|Serge Novaretti|2|1|0|0
+69|The Long-Term Preservation of Authentic Electronic Records.|Luciana Duranti|7|3|0|0
+70|Italian Electronic Identity Card - principle and architecture.|Mario Gentili|8|2|1|0
+71|Ontology-based Support for Digital Government.|Athman Bouguettaya,Ahmed K. Elmagarmid,Brahim Medjahed,Mourad Ouzzani|19|4|0|7
+72|Discovering Web Services: An Overview.|Vadim Draluk|28|7|0|0
+73|Architectures for Internal Web Services Deployment.|Oded Shmueli|35|10|0|1
+74|Scientific OLAP for the Biotech Domain.|Nam Huyn|8|4|1|0
+75|Warehousing Workflow Data: Challenges and Opportunities.|Angela Bonifati,Fabio Casati,Umeshwar Dayal,Ming-Chien Shan|66|18|3|14
+76|A Sequential Pattern Query Language for Supporting Instant Data Mining for e-Services.|Reza Sadri,Carlo Zaniolo,Amir M. Zarkesh,Jafar Adibi|29|12|0|9
+77|Aggregate Maintenance for Data Warehousing in Informix Red Brick Vista.|Craig J. Bunker,Latha S. Colby,Richard L. Cole,William J. McKenna,Gopal Mulagund,David Wilhite|4|2|0|0
+78|Navigating large-scale semi-structured data in business portals.|Mani Abrol,Neil Latarche,Uma Mahadevan,Jianchang Mao,Rajat Mukherjee,Prabhakar Raghavan,Michel Tourn,John Wang,Grace Zhang|23|5|1|1
+79|A Comparative Study of Alternative Middle Tier Caching Solutions to Support Dynamic Web Content Acceleration.|Anindya Datta,Kaushik Dutta,Helen M. Thomas,Debra E. VanderMeer,Krithi Ramamritham,Dan Fishman|65|20|2|6
+80|The Propel Distributed Services Platform.|Michael J. Carey,Steve Kirsch,Mary Roth,Bert Van der Linden,Nicolas Adiba,Michael Blow,Daniela Florescu,David Li,Ivan Oprencak,Rajendra Panwar,Runping Qi,David Rieber,John C. Shafer,Brian Sterling,Tolga Urhan,Brian Vickery,Dan Wineman,Kuan Yee|0|0|0|0
+81|Tavant System Architecture for Sell-side Channel Management.|Srinivasa Narayanan,Subbu N. Subramanian|0|0|0|0
+82|Operating System Extensions for the Teradata Parallel VLDB.|John Catozzi,Sorana Rabinovici|4|0|0|0
+83|Cache Fusion: Extending Shared-Disk Clusters with Shared Caches.|Tirthankar Lahiri,Vinay Srihari,Wilson Chan,N. MacNaughton,Sashikanth Chandrasekaran|57|36|12|1
+84|DB2 Spatial Extender - Spatial data within the RDBMS.|David W. Adler|39|11|0|0
+85|A Prototype Content-Based Retrieval System that Uses Virtual Images to Save Space.|Leonard Brown,Le Gruenwald|2|0|0|2
+86|ACTIVIEW: Adaptive data presentation using SuperSQL.|Yoko Maeda,Motomichi Toyama|9|3|0|4
+87|AgFlow: Agent-based Cross-Enterprise Workflow Management System.|Liangzhao Zeng,Boualem Benatallah,Phuong Nguyen,Anne H. H. Ngu|23|11|1|4
+88|Cache Portal: Technology for Accelerating Database-driven e-commerce Web Sites.|Wen-Syan Li,K. Selçuk Candan,Wang-Pin Hsiung,Oliver Po,Divyakant Agrawal,Qiong Luo,Wei-Kuang Waine Huang,Yusuf Akca,Cemal Yilmaz|17|1|1|9
+89|Developing an Indexing Scheme for XML Document Collection using the Oracle8i Extensibility Framework.|Seema Sundara,Ying Hu,Timothy Chorma,Nipun Agarwal,Jagannathan Srinivasan|6|0|0|0
+90|Enabling End-users to Construct Data-intensive Web-sites from XML Repositories: An Example-based Approach.|Atsuyuki Morishima,Seiichi Koizumi,Hiroyuki Kitagawa,Satoshi Takano|3|0|0|1
+91|Flexible and scalable digital library search.|Henk Ernst Blok,Menzo Windhouwer,Roelof van Zwol,Milan Petkovic,Peter M. G. Apers,Martin L. Kersten,Willem Jonker|11|0|0|5
+92|LoPiX: A System for XML Data Integration and Manipulation.|Wolfgang May|25|2|0|10
+93|PicoDBMS: Validation and Experience.|Nicolas Anciaux,Christophe Bobineau,Luc Bouganim,Philippe Pucheral,Patrick Valduriez|27|4|0|17
+94|SIT-IN: a Real-Life Spatio-Temporal Information System.|Giuseppe Sindoni,Leonardo Tininini,Amedea Ambrosetti,Cristina Bedeschi,Stefano De Francisci,Orietta Gargano,Rossella Molinaro,Mario Paolucci,Paola Patteri,Pina Ticca|2|0|0|1
+95|SMOOTH - A Distributed Multimedia Database System.|Harald Kosch,László Böszörményi,Alexander Bachlechner,Christian Hanin,Christian Hofbauer,Margit Lang,Carmen Riedler,Roland Tusch|27|5|0|7
+96|Supervised Wrapper Generation with Lixto.|Robert Baumgartner,Sergio Flesca,Georg Gottlob|34|11|0|3
+97|The WorlInfo Assistant: Spatio-Temporal Information Integration on the Web.|José Luis Ambite,Craig A. Knoblock,Mohammad R. Kolahdouzan,Maria Muslea,Cyrus Shahabi,Snehal Thakkar|5|0|0|1
+98|VXMLR: A Visual XML-Relational Database System.|Aoying Zhou,Hongjun Lu,Shihui Zheng,Yuqi Liang,Long Zhang,Wenyun Ji,Zengping Tian|36|4|0|12
+99|WARLOCK: A Data Allocation Tool for Parallel Warehouses.|Thomas Stöhr,Erhard Rahm|29|18|0|1
+100|WebFilter: A High-throughput XML-based Publish and Subscribe System.|João L. M. Pereira,Françoise Fabret,Hans-Arno Jacobsen,François Llirbat,Dennis Shasha|75|19|2|6
+101|Storage and Retrieval of XML Data Using Relational Databases.|Surajit Chaudhuri,Kyuseok Shim|29|7|10|0
+102|Data Management for Pervasive Computing.|Mitch Cherniack,Michael J. Franklin,Stanley B. Zdonik|n/a
+103|Caching Technologies for Web Applications.|C. Mohan|89|20|12|3
+104|Approximate Query Processing: Taming the TeraBytes.|Minos N. Garofalakis,Phillip B. Gibbons|127|62|2|5
+105|Information Management for Genome Level Bioinformatics.|Norman W. Paton,Carole A. Goble|8|0|0|0
+106|Managing Business Processes via Workflow Technology.|Frank Leymann|19|8|1|2

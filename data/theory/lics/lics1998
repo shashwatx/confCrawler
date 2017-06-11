@@ -1,0 +1,49 @@
+48
+1|Thirteenth Annual IEEE Symposium on Logic in Computer Science, Indianapolis, Indiana, USA, June 21-24, 1998.|n/a
+2|Logic and Over-Simplification.|Roger M. Needham|n/a
+3|Fixed-Point Logics on Planar Graphs.|Martin Grohe|73|23|0|16
+4|Existential Second-Order Logic over Strings.|Thomas Eiter,Georg Gottlob,Yuri Gurevich|26|4|0|5
+5|Ordering Finite Variable Types with Generalized Quantifiers.|Anuj Dawar,Lauri Hella,Anil Seth|3|1|0|1
+6|Convergence Results for Relational Bayesian Networks.|Manfred Jaeger|7|2|0|2
+7|The Horn Mu-calculus.|Witold Charatonik,David A. McAllester,Damian Niwinski,Andreas Podelski,Igor Walukiewicz|20|1|0|7
+8|On Model Checking for Non-Deterministic Infinite-State Systems.|E. Allen Emerson,Kedar S. Namjoshi|159|42|0|4
+9|Freedom, Weakness, and Determinism: From Linear-Time to Branching-Time.|Orna Kupferman,Moshe Y. Vardi|87|13|0|21
+10|Efficient Representation and Validation of Proofs.|George C. Necula,Peter Lee|150|16|0|13
+11|Secure Implementation of Channel Abstractions.|Martín Abadi,Cédric Fournet,Georges Gonthier|76|8|0|20
+12|The Logical Role of the Four-Valued Bilattice.|Ofer Arieli,Arnon Avron|14|4|0|5
+13|Completeness of a Relational Calculus for Program Schemes.|Marcelo F. Frias,Roger D. Maddux|2|2|0|0
+14|Monadic Logic and Automata: Recent Developments.|Wolfgang Thomas|0|0|0|0
+15|Phase Semantics and Verification of Concurrent Constraint Programs.|François Fages,Paul Ruet,Sylvain Soliman|28|1|0|10
+16|A Congruence Theorem for Structured Operational Semantics of Higher-Order Languages.|Karen L. Bernstein|n/a
+17|Bisimulation in Name-Passing Calculi without Matching.|Michele Boreale,Davide Sangiorgi|69|8|0|20
+18|The Fusion Calculus: Expressiveness and Symmetry in Mobile Processes.|Joachim Parrow,Björn Victor|297|50|0|16
+19|Type Theory via Exact Categories.|Lars Birkedal,Aurelio Carboni,Giuseppe Rosolini,Dana S. Scott|65|14|0|16
+20|Higher Dimensional Multigraphs.|Claudio Hermida,Michael Makkai,John Power|18|1|0|2
+21|An Axiomatics for Categories of Transition Systems as Coalgebras.|Peter T. Johnstone,John Power,Toru Tsujishita,Hiroshi Watanabe,James Worrell|16|2|0|8
+22|A Theory of Recursive Domains with Applications to Concurrency.|Gian Luca Cattani,Marcelo P. Fiore,Glynn Winskel|29|3|0|13
+23|L. E. J. Brouwer's Intuitionism: A Revolution in Two Installments.|Dirk van Dalen|2|1|0|0
+24|Process Operations in Extended Dynamic Logics.|Johan van Benthem|3|0|0|1
+25|Herbrand's Theorem, Automated Reasoning and Semantics Tableaux.|Andrei Voronkov|16|2|0|6
+26|The Relation Between Second-Order Unification and Simultaneous Rigid E-Unification.|Margus Veanes|15|3|0|8
+27|Decision Problems in Ordered Rewriting.|Hubert Comon,Paliath Narendran,Robert Nieuwenhuis,Michaël Rusinowitch|30|1|0|10
+28|A Stability Theorem in Rewriting Theory.|Paul-André Melliès|28|1|0|10
+29|Light Affine Logic.|Andrea Asperti|120|22|0|5
+30|Linear Logic With Boxes.|Ian Mackie|105|14|0|0
+31|Coinductive Techniques for Operational Equivalence of Interaction Nets.|Maribel Fernández,Ian Mackie|12|1|0|9
+32|A Fully Abstract Game Semantics for General References.|Samson Abramsky,Kohei Honda,Guy McCusker|197|53|0|14
+33|Recursive Types in Games: Axiomatics and Process Representation.|Marcelo P. Fiore,Kohei Honda|16|1|0|9
+34|Realizability for Constructive Theory of Functions and Classes and its Application to Program Synthesis.|Makoto Tatsuta|9|0|0|1
+35|Completeness of Type Assignment Systems with Intersection, Union, and Type Quantifiers.|Hirofumi Yokouchi|3|0|0|1
+36|Full Abstraction for First-Order Objects with Recursive Types and Subtyping.|Ramesh Viswanathan|38|3|0|0
+37|Linear vs. Branching Time: A Complexity-Theoretic Perspective.|Moshe Y. Vardi|44|11|0|6
+38|Calculus in Coinductive Form.|Dusko Pavlovic,Martín Hötzel Escardó|66|22|0|9
+39|Invertibility in lambda-eta.|Enno Folkerts|2|0|0|0
+40|The First-Order Theory of Ordering Constraints over Feature Trees.|Martin Müller,Joachim Niehren,Ralf Treinen|34|3|0|12
+41|On Proofs about Threshold Circuits and Counting Hierarchies.|Jan Johannsen,Chris Pollett|23|6|0|5
+42|How to Specify and Verify the Long-Run Average Behavior of Probabilistic Systems.|Luca de Alfaro|102|37|0|4
+43|Compositional Analysis of Expected Delays in Networks of Probabilistic I/O Automata.|Eugene W. Stark,Scott A. Smolka|28|4|1|11
+44|A Logical Characterization of Bisimulation for Labeled Markov Processes.|Josee Desharnais,Abbas Edalat,Prakash Panangaden|87|33|0|10
+45|Embedded Finite Models, Stability Theory and the Impact of Order.|John T. Baldwin,Michael Benedikt|11|0|0|0
+46|On Counting Logics and Local Properties.|Leonid Libkin|29|1|0|19
+47|On the Boundedness Problem for Two-Variable First-Order Logic.|Phokion G. Kolaitis,Martin Otto|5|0|0|0
+48|Fragments of Existential Second-Order Logic without 0-1 Laws.|Jean-Marie Le Bars|29|5|0|4

@@ -1,0 +1,73 @@
+72
+1|Proceedings of the 41st Annual Meeting of the Association for Computational Linguistics, 7-12 July 2003, Sapporo Convention Center, Sapporo, Japan.|Erhard W. Hinrichs,Dan Roth|n/a
+2|Offline Strategies for Online Question Answering: Answering Questions Before They Are Asked.|Michael Fleischman,Eduard H. Hovy,Abdessamad Echihabi|174|53|3|7
+3|Using Predicate-Argument Structures for Information Extraction.|Mihai Surdeanu,Sanda M. Harabagiu,John Williams,Paul Aarseth|358|192|1|16
+4|A Noisy-Channel Approach to Question Answering.|Abdessamad Echihabi,Daniel Marcu|134|61|0|6
+5|Fast Methods for Kernel-Based Text Analysis.|Taku Kudo,Yuji Matsumoto|207|95|2|4
+6|Hierarchical Directed Acyclic Graph Kernel: Methods for Structured Natural Language Data.|Jun Suzuki,Tsutomu Hirao,Yutaka Sasaki,Eisaku Maeda|76|20|0|6
+7|Generalized Algorithms for Constructing Statistical Language Models.|Cyril Allauzen,Mehryar Mohri,Brian Roark|119|61|2|17
+8|Improving Subcategorization Acquisition Using Word Sense Disambiguation.|Anna Korhonen,Judita Preiss|32|8|0|5
+9|Syntactic Features and Word Similarity for Supervised Metonymy Resolution.|Malvina Nissim,Katja Markert|47|19|1|4
+10|Clustering Polysemic Subcategorization Frame Distributions Semantically.|Anna Korhonen,Yuval Krymolowski,Zvika Marx|86|37|0|15
+11|Reliable Measures for Aligning Japanese-English News Articles and Sentences.|Masao Utiyama,Hitoshi Isahara|201|100|0|20
+12|Loosely Tree-Based Alignment for Machine Translation.|Daniel Gildea|215|82|35|3
+13|A Probability Model to Improve Word Alignment.|Colin Cherry,Dekang Lin|113|39|6|7
+14|Probabilistic Parsing for German Using Sister-Head Dependencies.|Amit Dubey,Frank Keller|107|27|0|5
+15|Integrated Shallow and Deep Parsing: TopP Meets HPSG.|Anette Frank,Markus Becker,Berthold Crysmann,Bernd Kiefer,Ulrich Schäfer|51|13|0|4
+16|Combining Deep and Shallow Approaches in Parsing German.|Michael Schiehlen|17|4|0|4
+17|Synonymous Collocation Extraction Using Translation Information.|Hua Wu,Ming Zhou|66|27|1|4
+18|Constructing Semantic Space Models from Parsed Corpora.|Sebastian Padó,Mirella Lapata|49|19|0|1
+19|Orthogonal Negation in Vector Spaces for Modelling Word-Meanings and Document Retrieval.|Dominic Widdows|94|55|0|9
+20|A Comparative Study on Reordering Constraints in Statistical Machine Translation.|Richard Zens,Hermann Ney|130|59|4|4
+21|tRuEcasIng.|Lucian Vlad Lita,Abraham Ittycheriah,Salim Roukos,Nanda Kambhatla|67|32|4|0
+22|Minimum Error Rate Training in Statistical Machine Translation.|Franz Josef Och|2409|1620|50|14
+23|A Machine Learning Approach to Pronoun Resolution in Spoken Dialogue.|Michael Strube,Christoph Müller|102|38|0|3
+24|Coreference Resolution Using Competition Learning Approach.|Xiaofeng Yang,Guodong Zhou,Jian Su,Chew Lim Tan|175|85|0|10
+25|Generating Parallel Multilingual LFG-TAG Grammars from a MetaGrammar.|Lionel Clément,Alexandra Kinyon|23|11|0|3
+26|Compounding and Derivational Morphology in a Finite-State Setting.|Jonas Kuhn|1|0|0|0
+27|A Tabulation-Based Parsing Method that Reduces Copying.|Gerald Penn,Cosmin Munteanu|14|3|0|3
+28|Recognizing Expressions of Commonsense Psychology in English Text.|Andrew Gordon,Abe Kazemzadeh,Anish Nair,Milena Petrova|28|10|0|5
+29|Closing the Gap: Learning-Based Information Extraction Rivaling Knowledge-Engineering Methods.|Hai Leong Chieu,Hwee Tou Ng,Yoong Keok Lee|54|24|0|0
+30|An Improved Extraction Pattern Representation Model for Automatic IE Pattern Acquisition.|Kiyoshi Sudo,Satoshi Sekine,Ralph Grishman|139|79|5|8
+31|Optimizing Story Link Detection is not Equivalent to Optimizing New Event Detection.|Ayman Farahat,Francine Chen,Thorsten Brants|20|7|0|1
+32|Corpus-Based Discourse Understanding in Spoken Dialogue Systems.|Ryuichiro Higashinaka,Mikio Nakano,Kiyoaki Aikawa|46|21|2|5
+33|Extracting Key Semantic Terms from Chinese Speech Query for Web Searches.|Gang Wang,Tat-Seng Chua,Yongcheng Wang|8|1|0|2
+34|Flexible Guidance Generation Using User Model in Spoken Dialogue Systems.|Kazunori Komatani,Shinichi Ueno,Tatsuya Kawahara,Hiroshi G. Okuno|36|20|0|1
+35|Integrating Discourse Markers into a Pipelined Natural Language Generation Architecture.|Charles B. Callaway|11|4|0|0
+36|Improved Source-Channel Models for Chinese Word Segmentation.|Jianfeng Gao,Mu Li,Changning Huang|97|32|0|10
+37|Unsupervised Segmentation of Words Using Prior Distributions of Morph Length and Frequency.|Mathias Creutz|84|33|0|10
+38|Parametric Models of Linguistic Count Data.|Martin Jansche|24|7|0|0
+39|Self-Organizing Markov Models and Their Application to Part-of-Speech Tagging.|Jin-Dong Kim,Hae-Chang Rim,Jun'ichi Tsujii|8|5|0|1
+40|Chunk-Based Statistical Translation.|Taro Watanabe,Eiichiro Sumita,Hiroshi G. Okuno|40|17|0|1
+41|Feature-Rich Statistical Translation of Noun Phrases.|Philipp Koehn,Kevin Knight|87|37|0|10
+42|Effective Phrase Translation Extraction from Alignment Models.|Ashish Venugopal,Stephan Vogel,Alex Waibel|92|35|3|1
+43|Uncertainty Reduction in Collaborative Bootstrapping: Measure and Algorithm.|Yunbo Cao,Hang Li,Li Lian|7|1|0|0
+44|A Bootstrapping Approach to Named Entity Classification Using Successive Learners.|Cheng Niu,Wei Li,Jihong Ding,Rohini K. Srihari|58|27|0|8
+45|Counter-Training in Discovery of Semantic Patterns.|Roman Yangarber|134|63|6|9
+46|k-Valued Non-Associative Lambek Categorial Grammars are not Learnable from Strings.|Denis Béchet,Annie Foret|8|2|0|2
+47|Parsing with Generative Models of Predicate-Argument Structure.|Julia Hockenmaier|71|21|0|3
+48|Bridging the Gap Between Underspecification Formalisms: Minimal Recursion Semantics as Dominance Constraints.|Joachim Niehren,Stefan Thater|27|6|0|13
+49|Evaluation Challenges in Large-Scale Document Summarization.|Dragomir R. Radev,Simone Teufel,Horacio Saggion,Wai Lam,John Blitzer,Hong Qi,Arda Çelebi,Danyu Liu,Elliott Drábek|106|44|0|9
+50|Analysis of Source Identified Text Corpora: Exploring the Statistics of the Reused Text and Authorship.|Akiko N. Aizawa|4|1|0|0
+51|Unsupervised Learning of Arabic Stemming Using a Parallel Corpus.|Monica Rogati,J. Scott McCarley,Yiming Yang|47|21|0|0
+52|Language Model Based Arabic Word Segmentation.|Young-Suk Lee,Kishore Papineni,Salim Roukos,Ossama Emam,Hany Hassan|109|45|0|11
+53|Acquiring Vocabulary for Predictive Text Entry through Dynamic Reuse of a Small User Corpus.|Kumiko Tanaka-Ishii,Daichi Hayakawa,Masato Takeichi|6|4|0|3
+54|A Word-Order Database for Testing Computational Models of Language Acquisition.|William Gregory Sakas|16|8|0|5
+55|Accurate Unlexicalized Parsing.|Dan Klein,Christopher D. Manning|2373|1790|2|76
+56|Deep Syntactic Processing by Combining Shallow Methods.|Péter Dienes,Amit Dubey|36|11|0|1
+57|Is it Harder to Parse Chinese, or the Chinese Treebank?|Roger Levy,Christopher D. Manning|216|125|0|2
+58|Feedback Cleaning of Machine Translation Rules Using Automatic Evaluation.|Kenji Imamura,Eiichiro Sumita,Yuji Matsumoto|38|8|0|9
+59|Exploiting Parallel Texts for Word Sense Disambiguation: An Empirical Study.|Hwee Tou Ng,Bin Wang,Yee Seng Chan|165|79|0|10
+60|Learning the Countability of English Nouns from Corpus Data.|Timothy Baldwin,Francis Bond|60|19|0|18
+61|A Syllable Based Word Recognition Model for Korean Noun Extraction.|Do-Gil Lee,Hae-Chang Rim,Heui-Seok Lim|5|2|0|2
+62|Morphological Analysis of a Large Spontaneous Speech Corpus in Japanese.|Kiyotaka Uchimoto,Chikashi Nobata,Atsushi Yamada,Satoshi Sekine,Hitoshi Isahara|18|1|0|4
+63|Learning to Predict Pitch Accents and Prosodic Boundaries in Dutch.|Erwin Marsi,Martin Reynaert,Antal van den Bosch,Walter Daelemans,Véronique Hoste|26|9|0|4
+64|Text Chunking by Combining Hand-Crafted Rules and Memory-Based Learning.|Seong-Bae Park,Byoung-Tak Zhang|42|14|0|9
+65|A SNoW Based Supertagger with Application to NP Chunking.|Libin Shen,Aravind K. Joshi|18|9|0|3
+66|An Expert Lexicon Approach to Identifying English Phrasal Verbs.|Wei Li,Xiuhong Zhang,Cheng Niu,Yuankai Jiang,Rohini K. Srihari|27|13|0|1
+67|Unsupervised Learning of Dependency Structure for Language Modeling.|Jianfeng Gao,Hisami Suzuki|27|9|0|3
+68|Using Model-Theoretic Semantic Interpretation to Guide Statistical Parsing and Word Recognition in a Spoken Language Interface.|William Schuler|22|4|0|1
+69|Towards a Resource for Lexical Semantics: A Large German Corpus with Extensive Semantic Annotation.|Katrin Erk,Andrea Kowalski,Sebastian Padó,Manfred Pinkal|100|18|0|14
+70|Probabilistic Text Structuring: Experiments with Sentence Ordering.|Mirella Lapata|228|106|6|3
+71|Towards a Model of Face-to-Face Grounding.|Yukiko I. Nakano,Gabe Reinstein,Tom Stocky,Justine Cassell|227|97|0|13
+72|Discourse Segmentation of Multi-Party Conversation.|Michel Galley,Kathleen McKeown,Eric Fosler-Lussier,Hongyan Jing|274|125|0|5

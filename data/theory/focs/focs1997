@@ -1,0 +1,65 @@
+64
+1|38th Annual Symposium on Foundations of Computer Science, FOCS '97, Miami Beach, Florida, USA, October 19-22, 1997.|n/a
+2|Beyond the Flow Decomposition Barrier.|Andrew V. Goldberg,Satish Rao|444|206|6|9
+3|Undirected Single Source Shortest Path in Linear Time.|Mikkel Thorup|89|20|0|1
+4|A Faster Deterministic Algorithm for Minimum Spanning Trees.|Bernard Chazelle|44|9|0|1
+5|Flows in Undirected Unit Capacity Networks.|Andrew V. Goldberg,Satish Rao|57|10|0|2
+6|Randomized and Deterministic Algorithms for the Dimension of Algebraic Varieties.|Pascal Koiran|37|4|0|7
+7|Deciding Properties of Polynomials Without Factoring.|Tomas Sander,Mohammad Amin Shokrollahi|1|0|0|0
+8|An Improved Algorithm for Quantifier Elimination Over Real Closed Fields.|Saugata Basu|27|6|0|0
+9|On the Power of Quantum Finite State Automata.|Attila Kondacs,John Watrous|366|138|0|4
+10|Two Decades of Temporal Logic: Achievements and Challenges (Abstract).|Amir Pnueli|1|0|0|0
+11|Computable Obstructions to Wait-free Computability.|John Havlicek|9|3|0|1
+12|Reliable Cellular Automata with Self-Organization.|Péter Gács|179|91|0|0
+13|Alternating-time Temporal Logic.|Rajeev Alur,Thomas A. Henzinger,Orna Kupferman|1048|596|0|54
+14|On the Complexity of a Set-Union Problem.|Richard J. Lipton,Paul J. Martino,Andy Neitzke|3|0|0|0
+15|Succinct Representation of Balanced Parentheses, Static Trees and Planar Graphs.|J. Ian Munro,Venkatesh Raman|160|54|2|16
+16|Deterministic Superimposed Coding with Applications to Pattern Matching.|Piotr Indyk|48|8|0|7
+17|Optimal Suffix Tree Construction with Large Alphabets.|Martin Farach|415|136|1|1
+18|Pattern Matching with Swaps.|Amihood Amir,Yonatan Aumann,Gad M. Landau,Moshe Lewenstein,Noa Lewenstein|73|31|0|20
+19|Improved Bounds on Planar k-sets and k-levels.|Tamal K. Dey|30|8|0|0
+20|Computing Integral Points in Convex Semi-algebraic Sets.|Leonid Khachiyan,Lorant Porkolab|21|9|0|0
+21|The Computational Complexity of Knot and Link Problems.|Joel Hass,J. C. Lagarias,Nicholas Pippenger|144|59|0|11
+22|Approximating Shortest Paths on an Nonconvex Polyhedron.|Kasturi R. Varadarajan,Pankaj K. Agarwal|67|21|0|6
+23|Randomized Allocation Processes.|Artur Czumaj,Volker Stemann|49|11|0|4
+24|The Analysis of a List-Coloring Algorithm on a Random Graph.|Dimitris Achlioptas,Michael S. O. Molloy|82|24|0|13
+25|Contention Resolution with Guaranteed Constant Expected Delay.|Leslie Ann Goldberg,Philip D. MacKenzie|9|2|0|2
+26|Path Coupling: A Technique for Proving Rapid Mixing in Markov Chains.|Russ Bubley,Martin E. Dyer|256|94|0|27
+27|Separation of the Monotone NC Hierarchy.|Ran Raz,Pierre McKenzie|96|40|0|4
+28|Making Nondeterminism Unambiguous.|Klaus Reinhardt,Eric Allender|111|51|0|22
+29|No Feasible Interpolation for TC0-Frege Proofs.|Maria Luisa Bonet,Toniann Pitassi,Ran Raz|33|5|0|9
+30|Weak Random Sources, Hitting Sets, and BPP Simulations.|Alexander E. Andreev,Andrea E. F. Clementi,José D. P. Rolim,Luca Trevisan|46|4|0|5
+31|Parallelizing Elimination Orders with Linear Fill.|Claudson F. Bornstein,Bruce M. Maggs,Gary L. Miller,R. Ravi|5|1|0|1
+32|Exploiting Locality for Data Management in Systems of Limited Bandwidth.|Bruce M. Maggs,Friedhelm Meyer auf der Heide,Berthold Vöcking,Matthias Westermann|112|29|0|4
+33|General Dynamic Routing with Per-Packet Delay Guarantees of O(distance + 1 / session rate).|Matthew Andrews,Antonio Fernández,Mor Harchol-Balter,Frank Thomson Leighton,Lisa Zhang|47|8|1|10
+34|Global Optimization Using Local Information with Applications to Flow Control.|Yair Bartal,John W. Byers,Danny Raz|135|28|1|3
+35|New Directions in Cryptography: Twenty Some Years Later.|Shafi Goldwasser|n/a
+36|Truly Online Paging with Locality of Reference.|Amos Fiat,Manor Mendel|29|7|0|1
+37|The Competitive Analysis of Risk Taking with Applications to Online Trading.|Sabah al-Binali|14|2|0|0
+38|Minimizing Flow Time Nonclairvoyantly.|Bala Kalyanasundaram,Kirk Pruhs|n/a
+39|Storage Management for Evolving Databases.|Jon M. Kleinberg,Rajeev Motwani,Prabhakar Raghavan,Suresh Venkatasubramanian|14|7|0|1
+40|Replication is NOT Needed: SINGLE Database, Computationally-Private Information Retrieval.|Eyal Kushilevitz,Rafail Ostrovsky|746|382|11|43
+41|Does Parallel Repetition Lower the Error in Computationally Sound Protocols?|Mihir Bellare,Russell Impagliazzo,Moni Naor|117|40|3|16
+42|Optimal Resilience Proactive Public-Key Cryptosystems.|Yair Frankel,Peter Gemmell,Philip D. MacKenzie,Moti Yung|255|46|1|7
+43|A Concrete Security Treatment of Symmetric Encryption.|Mihir Bellare,Anand Desai,E. Jokipii,Phillip Rogaway|912|350|8|56
+44|A 7/8-Approximation Algorithm for MAX 3SAT?|Howard J. Karloff,Uri Zwick|243|49|0|14
+45|Improved Approximations for Edge-Disjoint Paths, Unsplittable Flow, and Related Routing Problems.|Aravind Srinivasan|94|18|0|8
+46|Improved Approximation Algorithms for Unsplittable Flow Problems.|Stavros G. Kolliopoulos,Clifford Stein|117|53|0|4
+47|Lower Bounds for the Signature Size of Incremental Schemes.|Marc Fischlin|13|4|0|2
+48|A Complete Promise Problem for Statistical Zero-Knowledge.|Amit Sahai,Salil P. Vadhan|75|12|0|9
+49|Number-theoretic Constructions of Efficient Pseudo-random Functions.|Moni Naor,Omer Reingold|483|194|5|20
+50|An Improved Worst-Case to Average-Case Connection for Lattice Problems.|Jin-yi Cai,Ajay Nerurkar|108|21|0|13
+51|Finding an Even Hole in a Graph.|Michele Conforti,Gérard Cornuéjols,Ajai Kapoor,Kristina Vuskovic|7|3|0|0
+52|Edge-Connectivity Augmentation Preserving Simplicity.|Jørgen Bang-Jensen,Tibor Jordán|31|7|0|6
+53|Hamiltonian Cycles in Solid Grid Graphs.|Christopher Umans,William Lenhart|58|23|0|0
+54|A Random Sampling Based Algorithm for Learning the Intersection of Half-spaces.|Santosh Vempala|56|15|0|8
+55|Learning Noisy Perceptrons by a Perceptron in Polynomial Time.|Edith Cohen|61|13|2|0
+56|Nearly Tight Bounds on the Learnability of Evolution.|Andris Ambainis,Richard Desper,Martin Farach,Sampath Kannan|37|4|0|2
+57|Improved Approximations for Shallow-Light Spanning Trees.|Joseph Naor,Baruch Schieber|25|12|0|0
+58|Buy-at-Bulk Network Design.|Baruch Awerbuch,Yossi Azar|187|61|2|0
+59|A 2-Approximation Algorithm for the Directed Multiway Cut Problem.|Joseph Naor,Leonid Zosin|29|5|0|2
+60|Nearly Linear Time Approximation Schemes for Euclidean TSP and other Geometric Problems.|Sanjeev Arora|204|47|0|3
+61|Satisfiability Coding Lemma.|Ramamohan Paturi,Pavel Pudlák,Francis Zane|171|71|0|15
+62|The Minimization Problem for Boolean Formulas.|Edith Hemaspaandra,Gerd Wechsung|36|5|0|3
+63|Tight Bounds for Depth-two Superconcentrators.|Jaikumar Radhakrishnan,Amnon Ta-Shma|n/a
+64|Constant Depth Circuits and the Lutz Hypothesis.|Jin-yi Cai,D. Sivakumar,Martin Strauss|19|2|0|2

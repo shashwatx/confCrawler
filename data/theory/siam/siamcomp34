@@ -1,0 +1,73 @@
+72
+1|Fast Universalization of Investment Strategies.|Karhan Akcoglu,Petros Drineas,Ming-Yang Kao|8|6|0|1
+2|Labeling Schemes for Flow and Connectivity.|Michal Katz,Nir A. Katz,Amos Korman,David Peleg|90|44|0|29
+3|A Characterization of Universal Stability in the Adversarial Queuing Model.|Carme Àlvarez,Maria J. Blesa,Maria J. Serna|44|12|0|7
+4|Pseudorandom Generators in Propositional Proof Complexity.|Michael Alekhnovich,Eli Ben-Sasson,Alexander A. Razborov,Avi Wigderson|55|23|0|8
+5|Algorithms for RH Mapping: New Ideas and Improved Analysis.|Lars Ivansson,Jens Lagergren|1|0|0|0
+6|Perfectness is an Elusive Graph Property.|Stefan Hougardy,Annegret Wagler|2|1|0|1
+7|Almost Perfect Lattices, the Covering Radius Problem, and Applications to Ajtai's Connection Factor.|Daniele Micciancio|54|24|0|14
+8|Small Spans in Scaled Dimension.|John M. Hitchcock|24|2|0|8
+9|Random Walks on Truncated Cubes and Sampling 0-1 Knapsack Solutions.|Ben Morris,Alistair Sinclair|77|35|0|0
+10|Balanced-Replication Algorithms for Distribution Trees.|Edith Cohen,Haim Kaplan|5|0|0|1
+11|Multiembedding of Metric Spaces.|Yair Bartal,Manor Mendel|n/a
+12|Bounded-Depth Frege Lower Bounds for Weaker Pigeonhole Principles.|Joshua Buresh-Oppenheim,Paul Beame,Toniann Pitassi,Ran Raz,Ashish Sabharwal|5|2|0|1
+13|A Complete Characterization of the Algebras of Minimal Bilinear Complexity.|Markus Bläser|11|8|0|0
+14|Nonindependent Randomized Rounding and an Application to Digital Halftoning.|Benjamin Doerr|10|1|0|7
+15|Instability of FIFO at Arbitrarily Low Rates in the Adversarial Queueing Model.|Rajat Bhattacharjee,Ashish Goel,Zvi Lotker|60|9|0|2
+16|Generalized Irreducibility of Consensus and the Equivalence of t-Resilient and Wait-Free Implementations of Consensus.|Tushar Deepak Chandra,Vassos Hadzilacos,Prasad Jayanti,Sam Toueg|23|13|0|1
+17|Approximation Algorithms for the 0-Extension Problem.|Gruia Calinescu,Howard J. Karloff,Yuval Rabani|121|58|0|3
+18|An Optimal Algorithm for the Maximum-Density Segment Problem.|Kai-Min Chung,Hsueh-I Lu|63|20|0|4
+19|New Approximation Techniques for Some Linear Ordering Problems.|Satish Rao,Andréa W. Richa|39|20|0|0
+20|Quick k-Median, k-Center, and Facility Location for Sparse Graphs.|Mikkel Thorup|57|7|0|2
+21|Online Scheduling to Minimize Average Stretch.|S. Muthukrishnan,Rajmohan Rajaraman,Anthony Shaheen,Johannes Gehrke|106|22|0|2
+22|Traveling with a Pez Dispenser (or, Routing Issues in MPLS).|Anupam Gupta,Amit Kumar,Rajeev Rastogi|49|24|0|3
+23|The Simplex Algorithm in Dimension Three.|Volker Kaibel,Rafael Mechtel,Micha Sharir,Günter M. Ziegler|10|4|0|2
+24|Temporal Reasoning about Two Concurrent Sequences of Events.|Yasunori Ishihara,Shin Ishii,Hiroyuki Seki,Minoru Ito|0|0|0|0
+25|Top-Down Analysis of Path Compression.|Raimund Seidel,Micha Sharir|24|11|0|1
+26|Pseudo-Line Arrangements: Duality, Algorithms, and Applications.|Pankaj K. Agarwal,Micha Sharir|30|11|0|6
+27|Layout of Graphs with Bounded Tree-Width.|Vida Dujmovic,Pat Morin,David R. Wood|66|28|0|28
+28|Abstract Combinatorial Programs and Efficient Property Testers.|Artur Czumaj,Christian Sohler|36|9|0|13
+29|Load Balancing in Arbitrary Network Topologies with Stochastic Adversarial Input.|Aris Anagnostopoulos,Adam Kirsch,Eli Upfal|15|6|0|1
+30|A Second-Order Perceptron Algorithm.|Nicolò Cesa-Bianchi,Alex Conconi,Claudio Gentile|112|81|0|18
+31|Nonmigratory Online Deadline Scheduling on Multiprocessors.|Ho-Leung Chan,Tak Wah Lam,Kar-Keung To|24|8|0|9
+32|On Even Triangulations of 2-Connected Embedded Graphs.|Huaming Zhang,Xin He|10|8|0|1
+33|Fault-Tolerant Scheduling.|Bala Kalyanasundaram,Kirk Pruhs|38|5|0|5
+34|Classifying the Complexity of Constraints Using Finite Algebras.|Andrei A. Bulatov,Peter Jeavons,Andrei A. Krokhin|394|240|0|34
+35|Online Scheduling of Precedence Constrained Tasks.|Yumei Huo,Joseph Y.-T. Leung|8|7|0|1
+36|Primal-Dual Meets Local Search: Approximating MSTs With Nonuniform Degree Bounds.|Jochen Könemann,R. Ravi|63|29|0|2
+37|The Complexity of the Union of (alpha, beta)-Covered Objects.|Alon Efrat|45|23|0|1
+38|Stochastic Machine Scheduling with Precedence Constraints.|Martin Skutella,Marc Uetz|53|28|0|5
+39|Improved Combinatorial Algorithms for Facility Location Problems.|Moses Charikar,Sudipto Guha|116|87|2|0
+40|On the Relationship Between Clique-Width and Treewidth.|Derek G. Corneil,Udi Rotics|122|71|0|5
+41|Work-Competitive Scheduling for Cooperative Computing with Dynamic Groups.|Chryssis Georgiou,Alexander Russell,Alexander A. Shvartsman|33|12|0|26
+42|Curve-Sensitive Cuttings.|Vladlen Koltun,Micha Sharir|7|2|0|4
+43|Low-Dimensional Linear Programming with Violations.|Timothy M. Chan|66|27|0|8
+44|Dynamic LCA Queries on Trees.|Richard Cole,Ramesh Hariharan|69|13|0|0
+45|Orderly Spanning Trees with Applications.|Yi-Ting Chiang,Ching-Chi Lin,Hsueh-I Lu|54|32|0|5
+46|Omega(log n) Lower Bounds on the Amount of Randomness in 2-Private Computation.|Anna Gál,Adi Rosén|11|5|0|0
+47|A Lower Bound on the Complexity of Polynomial Multiplication over Finite Fields.|Michael Kaminski|6|6|0|1
+48|A Work-Optimal Deterministic Algorithm for the Certified Write-All Problem with a Nontrivial Number of Asynchronous Processors.|Grzegorz Malewicz|20|16|6|7
+49|The Bisimulation Problem for Equational Graphs of Finite Out-Degree.|Géraud Sénizergues|28|21|0|0
+50|Learning Random Log-Depth Decision Trees under Uniform Distribution.|Jeffrey C. Jackson,Rocco A. Servedio|9|7|0|2
+51|A New Multilayered PCP and the Hardness of Hypergraph Vertex Cover.|Irit Dinur,Venkatesan Guruswami,Subhash Khot,Oded Regev|138|64|0|21
+52|The Difficulty of Testing for Isomorphism against a Graph That Is Given in Advance.|Eldar Fischer|28|19|0|5
+53|Fair Simulation Relations, Parity Games, and State Space Reduction for Bu"chi Automata.|Kousha Etessami,Thomas Wilke,Rebecca A. Schuller|65|14|0|5
+54|The Complexity of Finding Paths in Graphs with Bounded Independence Number.|Arfst Nickelsen,Till Tantau|12|2|0|6
+55|Separating the Power of Monotone Span Programs over Different Fields.|Amos Beimel,Enav Weinreb|28|11|0|9
+56|Efficiency of Oblivious versus Nonoblivious Schedulers for Optimistic, Rate-based Flow Control.|Panagiota Fatourou,Marios Mavronicolas,Paul G. Spirakis|10|1|0|9
+57|Optimal Two-Stage Algorithms for Group Testing Problems.|Annalisa De Bonis,Leszek Gasieniec,Ugo Vaccaro|93|61|0|10
+58|Strictly Nonblocking Multirate logd(N, m, p) Networks.|Frank Kwang-Ming Hwang,Yong He,Yang Wang|2|0|0|0
+59|SRT Division Algorithms as Dynamical Systems.|Mark McCann,Nicholas Pippenger|5|4|0|0
+60|Polynomial-Time Approximation Schemes for Geometric Intersection Graphs.|Thomas Erlebach,Klaus Jansen,Eike Seidel|115|61|0|4
+61|Quantum Algorithms for Element Distinctness.|Harry Buhrman,Christoph Dürr,Mark Heiligman,Peter Høyer,Frédéric Magniez,Miklos Santha,Ronald de Wolf|97|9|0|3
+62|Output-Sensitive Construction of the Union of Triangles.|Esther Ezra,Micha Sharir|13|2|0|10
+63|Extending Downward Collapse from 1-versus-2 Queries to m-versus-m + 1 Queries.|Edith Hemaspaandra,Lane A. Hemaspaandra,Harald Hempel|3|0|0|1
+64|Approximating the Minimum Spanning Tree Weight in Sublinear Time.|Bernard Chazelle,Ronitt Rubinfeld,Luca Trevisan|62|43|0|6
+65|Binary Space Partitions of Orthogonal Subdivisions.|John Hershberger,Subhash Suri,Csaba D. Tóth|7|5|0|2
+66|A Shortest Path Algorithm for Real-Weighted Undirected Graphs.|Seth Pettie,Vijaya Ramachandran|48|30|0|8
+67|On the Bounded Sum-of-Digits Discrete Logarithm Problem in Finite Fields.|Qi Cheng|5|2|0|2
+68|Duality Between Prefetching and Queued Writing with Parallel Disks.|David A. Hutchinson,Peter Sanders,Jeffrey Scott Vitter|30|2|0|12
+69|Decidable and Undecidable Problems about Quantum Automata.|Vincent D. Blondel,Emmanuel Jeandel,Pascal Koiran,Natacha Portier|55|34|0|1
+70|Novel Transformation Techniques Using Q-Heaps with Applications to Computational Geometry.|Qingmin Shi,Joseph JáJá|4|3|0|0
+71|Complexities for Generalized Models of Self-Assembly.|Gagan Aggarwal,Qi Cheng,Michael H. Goldwasser,Ming-Yang Kao,Pablo Moisset de Espanés,Robert T. Schweller|161|98|0|1
+72|Convergence Properties of the Gravitational Algorithm in Asynchronous Robot Systems.|Reuven Cohen,David Peleg|87|65|0|4

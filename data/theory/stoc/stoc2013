@@ -1,0 +1,102 @@
+101
+1|Symposium on Theory of Computing Conference, STOC'13, Palo Alto, CA, USA, June 1-4, 2013.|Dan Boneh,Tim Roughgarden,Joan Feigenbaum|n/a
+2|A PRG for lipschitz functions of polynomials with applications to sparsest cut.|Daniel M. Kane,Raghu Meka|11|11|0|0
+3|Improved Cheeger's inequality: analysis of spectral partitioning algorithms through higher order spectral gap.|Tsz Chiu Kwok,Lap Chi Lau,Yin Tat Lee,Shayan Oveis Gharan,Luca Trevisan|33|32|0|4
+4|Natural proofs versus derandomization.|Ryan Williams|17|17|0|8
+5|On the complexity of trial and error.|Xiaohui Bei,Ning Chen,Shengyu Zhang|8|8|0|3
+6|Coevolutionary opinion formation games.|Kshipra Bhawalkar,Sreenivas Gollapudi,Kamesh Munagala|16|13|0|1
+7|Prior-independent mechanisms for scheduling.|Shuchi Chawla,Jason D. Hartline,David L. Malec,Balasubramanian Sivan|11|11|0|2
+8|Combinatorial walrasian equilibrium.|Michal Feldman,Nick Gravin,Brendan Lucier|8|8|0|6
+9|Efficient rounding for the noncommutative grothendieck inequality.|Assaf Naor,Oded Regev,Thomas Vidick|23|22|0|5
+10|Low rank approximation and regression in input sparsity time.|Kenneth L. Clarkson,David P. Woodruff|123|113|0|14
+11|Low-distortion subspace embeddings in input-sparsity time and applications to robust linear regression.|Xiangrui Meng,Michael W. Mahoney|57|55|0|5
+12|Sparsity lower bounds for dimensionality reducing maps.|Jelani Nelson,Huy L. Nguyen|14|14|0|5
+13|Recursive composition and bootstrapping for SNARKS and proof-carrying data.|Nir Bitansky,Ran Canetti,Alessandro Chiesa,Eran Tromer|87|83|0|22
+14|How robust are linear sketches to adaptive inputs?|Moritz Hardt,David P. Woodruff|5|5|0|3
+15|Equivalence of deterministic one-counter automata is NL-complete.|Stanislav Böhm,Stefan Göller,Petr Jancar|16|14|0|1
+16|Explicit lower bounds via geometric complexity theory.|Peter Bürgisser,Christian Ikenmeyer|15|14|0|5
+17|From information to exact communication.|Mark Braverman,Ankit Garg,Denis Pankratov,Omri Weinstein|38|38|0|13
+18|An information complexity approach to extended formulations.|Mark Braverman,Ankur Moitra|50|50|0|3
+19|Average-case lower bounds for formula size.|Ilan Komargodski,Ran Raz|13|12|0|2
+20|The complexity of non-monotone markets.|Xi Chen,Dimitris Paparas,Mihalis Yannakakis|15|14|0|1
+21|Tatonnement beyond gross substitutes?: gradient descent to the rescue.|Yun Kuen Cheung,Richard Cole,Nikhil R. Devanur|8|6|0|1
+22|Simultaneous auctions are (almost) efficient.|Michal Feldman,Hu Fu,Nick Gravin,Brendan Lucier|58|53|0|12
+23|Composable and efficient mechanisms.|Vasilis Syrgkanis,Éva Tardos|78|74|0|16
+24|Non-black-box simulation in the fully concurrent setting.|Vipul Goyal|10|10|0|1
+25|Non-black-box simulation from one-way functions and applications to resettable security.|Kai-Min Chung,Rafael Pass,Karn Seth|16|15|0|5
+26|On the impossibility of approximate obfuscation and applications to resettable cryptography.|Nir Bitansky,Omer Paneth|26|22|0|5
+27|Shielding circuits with groups.|Eric Miles,Emanuele Viola|15|13|0|2
+28|Quasipolynomial-time canonical form for steiner designs.|László Babai,John Wilmes|7|7|0|6
+29|Multi-stage design for quasipolynomial-time isomorphism testing of steiner 2-systems.|Xi Chen,Xiaorui Sun,Shang-Hua Teng|6|6|0|3
+30|Sparsest cut on bounded treewidth graphs: algorithms and hardness results.|Anupam Gupta,Kunal Talwar,David Witmer|13|13|0|1
+31|Large-treewidth graph decompositions and applications.|Chandra Chekuri,Julia Chuzhoy|17|15|0|4
+32|Fast hamiltonicity checking via bases of perfect matchings.|Marek Cygan,Stefan Kratsch,Jesper Nederlof|32|30|0|7
+33|Polynomial-time perfect matchings in dense hypergraphs.|Peter Keevash,Fiachra Knox,Richard Mycroft|13|10|0|7
+34|Quasi-polynomial hitting-set for set-depth-Δ formulas.|Manindra Agrawal,Chandan Saha,Nitin Saxena|21|21|0|6
+35|Beyond worst-case analysis in private singular vector computation.|Moritz Hardt,Aaron Roth|31|30|0|6
+36|Differential privacy for the analyst via private equilibrium computation.|Justin Hsu,Aaron Roth,Jonathan Ullman|15|15|0|10
+37|The geometry of differential privacy: the sparse and approximate cases.|Aleksandar Nikolov,Kunal Talwar,Li Zhang|52|50|0|9
+38|Answering n{2+o(1)} counting queries with differential privacy is hard.|Jonathan Ullman|43|41|0|10
+39|Bottom-k and priority sampling, set similarity and subset sums with minimal independence.|Mikkel Thorup|9|9|0|5
+40|Fast routing table construction using small messages: extended abstract.|Christoph Lenzen,Boaz Patt-Shamir|17|15|0|4
+41|Multidimensional approximate agreement in Byzantine asynchronous systems.|Hammurabi Mendes,Maurice Herlihy|20|18|0|5
+42|Byzantine agreement in polynomial expected time: [extended abstract].|Valerie King,Jared Saia|9|8|0|3
+43|A o(n) monotonicity tester for boolean functions over the hypercube.|Deeparnab Chakrabarty,C. Seshadhri|22|21|0|0
+44|Optimal bounds for monotonicity and lipschitz testing over hypercubes and hypergrids.|Deeparnab Chakrabarty,C. Seshadhri|18|18|0|2
+45|Every locally characterized affine-invariant property is testable.|Arnab Bhattacharyya,Eldar Fischer,Hamed Hatami,Pooya Hatami,Shachar Lovett|29|29|0|5
+46|Testing subdivision-freeness: property testing meets structural graph theory.|Ken-ichi Kawarabayashi,Yuichi Yoshida|0|0|0|0
+47|Approximation resistance from pairwise independent subgroups.|Siu On Chan|58|57|0|1
+48|Approximation resistance on satisfiable instances for predicates with few accepting inputs.|Sangxia Huang|6|6|0|0
+49|Witness encryption and its applications.|Sanjam Garg,Craig Gentry,Amit Sahai,Brent Waters|83|76|0|17
+50|Majority is stablest: discrete and SoS.|Anindya De,Elchanan Mossel,Joe Neeman|13|13|0|2
+51|Strong ETH holds for regular resolution.|Christopher Beck,Russell Impagliazzo|10|7|0|1
+52|A node-capacitated okamura-seymour theorem.|James R. Lee,Manor Mendel,Mohammad Moharrami|5|4|0|1
+53|Structured recursive separator decompositions for planar graphs in linear time.|Philip N. Klein,Shay Mozes,Christian Sommer|14|11|0|4
+54|Fast approximation algorithms for the diameter and radius of sparse graphs.|Liam Roditty,Virginia Vassilevska Williams|45|41|0|4
+55|The power of deferral: maintaining a constant-competitive steiner tree online.|Albert Gu,Anupam Gupta,Amit Kumar|11|10|0|4
+56|Simplex partitioning via exponential clocks and the multiway cut problem.|Niv Buchbinder,Joseph Naor,Roy Schwartz|14|14|0|1
+57|Attribute-based encryption for circuits.|Sergey Gorbunov,Vinod Vaikuntanathan,Hoeteck Wee|124|114|0|19
+58|Reusable garbled circuits and succinct functional encryption.|Shafi Goldwasser,Yael Tauman Kalai,Raluca A. Popa,Vinod Vaikuntanathan,Nickolai Zeldovich|123|113|1|5
+59|Delegation for bounded space.|Yael Tauman Kalai,Ran Raz,Ron D. Rothblum|16|14|0|2
+60|Classical hardness of learning with errors.|Zvika Brakerski,Adeline Langlois,Chris Peikert,Oded Regev,Damien Stehlé|145|127|0|18
+61|On the concrete efficiency of probabilistically-checkable proofs.|Eli Ben-Sasson,Alessandro Chiesa,Daniel Genkin,Eran Tromer|38|34|0|12
+62|Extending continuous maps: polynomiality and undecidability.|Martin Cadek,Marek Krcál,Jirí Matousek,Lukás Vokrínek,Uli Wagner|0|0|0|0
+63|Net and prune: a linear time algorithm for euclidean distance problems.|Sariel Har-Peled,Benjamin Adam Raichel|12|12|0|6
+64|Random lattice triangulations: structure and algorithms.|Pietro Caputo,Fabio Martinelli,Alistair Sinclair,Alexandre Stauffer|9|9|0|1
+65|Lee-Yang theorems and the complexity of computing averages.|Alistair Sinclair,Piyush Srivastava|9|9|0|3
+66|A complete dichotomy rises from the capture of vanishing signatures: extended abstract.|Jin-Yi Cai,Heng Guo,Tyson Williams|23|20|0|12
+67|Optimal euclidean spanners: really short, thin and lanky.|Michael Elkin,Shay Solomon|18|16|0|6
+68|Statistical algorithms and a lower bound for detecting planted cliques.|Vitaly Feldman,Elena Grigorescu,Lev Reyzin,Santosh Vempala,Ying Xiao|48|47|0|7
+69|Low-rank matrix completion using alternating minimization.|Prateek Jain,Praneeth Netrapalli,Sujay Sanghavi|156|145|0|18
+70|The approximate rank of a matrix and its algorithmic applications: approximate rank.|Noga Alon,Troy Lee,Adi Shraibman,Santosh Vempala|19|18|0|2
+71|Constraint satisfaction, packet routing, and the lovasz local lemma.|David G. Harris,Aravind Srinivasan|6|5|0|1
+72|The complexity of finite-valued CSPs.|Johan Thapper,Stanislav Zivny|46|40|0|7
+73|Going after the k-SAT threshold.|Amin Coja-Oghlan,Konstantinos Panagiotou|26|23|0|10
+74|Interactive channel capacity.|Gillat Kol,Ran Raz|25|24|0|2
+75|Maintaining shortest paths under deletions in weighted directed graphs: [extended abstract].|Aaron Bernstein|16|16|0|2
+76|Linear-time algorithms for max flow and multiple-source shortest paths in unit-weight planar graphs.|David Eisenstat,Philip N. Klein|10|9|0|0
+77|Simple deterministic algorithms for fully dynamic maximal matching.|Ofer Neiman,Shay Solomon|24|20|0|3
+78|A new approach to computing maximum flows using electrical flows.|Yin Tat Lee,Satish Rao,Nikhil Srivastava|28|26|0|8
+79|Max flows in O(nm) time, or better.|James B. Orlin|86|77|0|0
+80|Succinct sampling from discrete distributions.|Karl Bringmann,Kasper Green Larsen|4|4|0|2
+81|New independent source extractors with exponential improvement.|Xin Li|10|10|0|5
+82|Interactive proofs of proximity: delegating computation in sublinear time.|Guy N. Rothblum,Salil P. Vadhan,Avi Wigderson|13|12|0|2
+83|Lower bounds for RAMs and quantifier elimination.|Miklós Ajtai|0|0|0|0
+84|Some trade-off results for polynomial calculus: extended abstract.|Chris Beck,Jakob Nordström,Bangsheng Tang|14|14|0|4
+85|New bounds for matching vector families.|Abhishek Bhowmick,Zeev Dvir,Shachar Lovett|14|13|0|9
+86|A new family of locally correctable codes based on degree-lifted algebraic geometry codes.|Eli Ben-Sasson,Ariel Gabizon,Yohay Kaplan,Swastik Kopparty,Shubhangi Saraf|3|3|0|1
+87|List decoding reed-solomon, algebraic-geometric, and gabidulin subcodes up to the singleton bound.|Venkatesan Guruswami,Chaoping Xing|33|33|0|8
+88|On the list decodability of random linear codes with large error rates.|Mary Wootters|9|9|0|3
+89|Quantum de finetti theorems under local measurements with applications.|Fernando G. S. L. Brandão,Aram Wettroth Harrow|37|34|0|7
+90|Product-state approximations to quantum ground states.|Fernando G. S. L. Brandão,Aram Wettroth Harrow|16|16|0|5
+91|Inverting well conditioned matrices in quantum logspace.|Amnon Ta-Shma|5|5|0|2
+92|Superlinear advantage for exact quantum algorithms.|Andris Ambainis|13|13|0|5
+93|Approximating k-median via pseudo-approximation.|Shi Li,Ola Svensson|70|68|0|10
+94|A simple, combinatorial algorithm for solving SDD systems in nearly-linear time.|Jonathan A. Kelner,Lorenzo Orecchia,Aaron Sidford,Zeyuan Allen Zhu|67|66|0|4
+95|Communication lower bounds using directional derivatives.|Alexander A. Sherstov|22|22|0|4
+96|Homomorphic fingerprints under misalignments: sketching edit and shift distances.|Alexandr Andoni,Assaf Goldberger,Andrew McGregor,Ely Porat|6|6|0|1
+97|The orbit problem in higher dimensions.|Ventsislav Chonev,Joël Ouaknine,James Worrell|7|7|0|3
+98|The loss of serving in the dark.|Yossi Azar,Ilan Reuven Cohen,Iftah Gamzu|2|1|0|1
+99|Tight bounds for online vector bin packing.|Yossi Azar,Ilan Reuven Cohen,Seny Kamara,F. Bruce Shepherd|14|14|0|2
+100|Stochastic combinatorial optimization via poisson approximation.|Jian Li,Wen Yuan|8|8|0|3
+101|Solving large optimization problems using spectral graph theory.|Gary L. Miller|0|0|0|0

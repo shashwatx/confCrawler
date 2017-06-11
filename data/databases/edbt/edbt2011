@@ -1,0 +1,63 @@
+62
+1|EDBT 2011, 14th International Conference on Extending Database Technology, Uppsala, Sweden, March 21-24, 2011, Proceedings.|Anastasia Ailamaki,Sihem Amer-Yahia,Jignesh M. Patel,Tore Risch,Pierre Senellart,Julia Stoyanovich|n/a
+2|Map-reduce extensions and recursive queries.|Foto N. Afrati,Vinayak R. Borkar,Michael J. Carey,Neoklis Polyzotis,Jeffrey D. Ullman|64|61|0|2
+3|Database researchers: plumbers or thinkers?|Gerhard Weikum|3|2|0|0
+4|Novel techniques to reduce search space in multiple minimum supports-based frequent pattern mining algorithms.|R. Uday Kiran,P. Krishna Reddy|26|25|0|4
+5|Mining closed discriminative dyadic sequential patterns.|David Lo,Hong Cheng,Lucia|13|12|0|4
+6|Sequenced event set pattern matching.|Bruno Cadonna,Johann Gamper,Michael H. Böhlen|9|9|0|2
+7|GPX-matcher: a generic boolean predicate-based XPath expression matcher.|Mohammad Sadoghi,Ioana Burcea,Hans-Arno Jacobsen|12|12|0|7
+8|An optimal strategy for monitoring top-k queries in streaming windows.|Di Yang,Avani Shastri,Elke A. Rundensteiner,Matthew O. Ward|14|12|0|2
+9|Fast and accurate computation of equi-depth histograms over data streams.|Hamid Mousavi,Carlo Zaniolo|15|14|0|2
+10|Energy proportionality for disk storage using replication.|Jinoh Kim,Doron Rotem|27|24|0|1
+11|Caching query-biased snippets for efficient retrieval.|Diego Ceccarelli,Claudio Lucchese,Salvatore Orlando,Raffaele Perego,Fabrizio Silvestri|19|19|0|2
+12|Efficient and scalable data evolution with column oriented databases.|Ziyang Liu,Bin He,Hui-I Hsiao,Yi Chen|10|10|0|0
+13|Native support of multi-tenancy in RDBMS for software as a service.|Oliver Schiller,Benjamin Schiller,Andreas Brodt,Bernhard Mitschang|38|38|0|2
+14|SLA-tree: a framework for efficiently supporting SLA-based decisions in cloud computing.|Yun Chi,Hyun Jin Moon,Hakan Hacigümüs,Jun'ichi Tatemura|36|35|3|4
+15|On enhancing scalability for distributed RDF/S stores.|George Tsatsanifos,Dimitris Sacharidis,Timos K. Sellis|16|15|0|1
+16|Answering tree pattern queries using views: a revisit.|Junhu Wang,Jiang Li,Jeffrey Xu Yu|12|11|0|2
+17|Dynamic reasoning on XML updates.|Federico Cavalieri,Giovanna Guerrini,Marco Mesiti|16|16|0|4
+18|Algebraic incremental maintenance of XML views.|Angela Bonifati,Martin Hugh Goodfellow,Ioana Manolescu,Domenica Sileo|18|18|0|1
+19|Keyword-based, context-aware selection of natural language query patterns.|Giorgio Orsi,Letizia Tanca,Eugenio Zimeo|8|8|1|1
+20|Unified structure and content search for personal information management systems.|Wei Wang,Amélie Marian,Thu D. Nguyen|3|3|1|0
+21|TopRecs: Top-k algorithms for item-based collaborative filtering.|Mohammad Khabbaz,Laks V. S. Lakshmanan|15|15|0|2
+22|Efficient answering of set containment queries for skewed item distributions.|Manolis Terrovitis,Panagiotis Bouros,Panos Vassiliadis,Timos K. Sellis,Nikos Mamoulis|12|12|0|1
+23|Subspace clustering for indexing high dimensional data: a main memory index based on local reductions and individual multi-representations.|Stephan Günnemann,Hardy Kremer,Dominik Lenhard,Thomas Seidl|10|10|0|0
+24|On (not) indexing quadratic form distance by metric access methods.|Tomás Skopal,Tomás Bartos,Jakub Lokoc|9|8|0|4
+25|SeMiTri: a framework for semantic annotation of heterogeneous trajectories.|Zhixian Yan,Dipanjan Chakraborty,Christine Parent,Stefano Spaccapietra,Karl Aberer|114|112|0|8
+26|Efficient execution plans for distributed skyline query processing.|João B. Rocha-Junior,Akrivi Vlachou,Christos Doulkeridis,Kjetil Nørvåg|25|25|0|3
+27|Probabilistic range queries for uncertain trajectories on road networks.|Kai Zheng,Goce Trajcevski,Xiaofang Zhou,Peter Scheuermann|57|53|0|9
+28|TAGs: scalable threshold-based algorithms for proximity computation in graphs.|Apostolos Lyritsis,Apostolos N. Papadopoulos,Yannis Manolopoulos|0|0|0|0
+29|Projection for XML update optimization.|Mohamed Amine Baazizi,Nicole Bidoit,Dario Colazzo,Noor Malla,Marina Sahakyan|15|14|0|6
+30|Efficient reverse skyline retrieval with arbitrary non-metric similarity measures.|Prasad M. Deshpande,Deepak Padmanabhan|23|23|0|2
+31|Fast random graph generation.|Sadegh Nobari,Xuesong Lu,Panagiotis Karras,Stéphane Bressan|33|32|0|6
+32|Symmetrizations for clustering directed graphs.|Venu Satuluri,Srinivasan Parthasarathy|54|51|0|10
+33|Efficient discovery of frequent subgraph patterns in uncertain graph databases.|Odysseas Papapetrou,Ekaterini Ioannou,Dimitrios Skoutas|27|24|0|0
+34|Finding closed frequent item sets by intersecting transactions.|Christian Borgelt,Xiaoyuan Yang,Rubén Nogales-Cadenas,Pedro Carmona-Saez,Alberto D. Pascual-Montano|21|21|0|2
+35|Aspect-oriented relational algebra.|Curtis E. Dyreson|6|6|0|2
+36|Synopses for probabilistic data over large domains.|Nicholas D. Larusso,Ambuj K. Singh|1|1|0|0
+37|Data integration with dependent sources.|Anish Das Sarma,Xin Luna Dong,Alon Y. Halevy|24|23|0|2
+38|Constructing concept relation network and its application to personalized web search.|Kenneth Wai-Ting Leung,Hing Yuet Fung,Dik Lun Lee|8|7|0|2
+39|Effective and efficient sampling methods for deep web aggregation queries.|Fan Wang,Gagan Agrawal|11|9|0|0
+40|Making interval-based clustering rank-aware.|Julia Stoyanovich,Sihem Amer-Yahia,Tova Milo|6|6|0|5
+41|Predicting completion times of batch query workloads using interaction-aware models and simulation.|Mumtaz Ahmad,Songyun Duan,Ashraf Aboulnaga,Shivnath Babu|34|33|1|5
+42|Memory-efficient frequent-itemset mining.|Benjamin Schlegel,Rainer Gemulla,Wolfgang Lehner|22|21|0|2
+43|Link-based hidden attribute discovery for objects on Web.|Jiuming Huang,Haixun Wang,Yan Jia,Ariel Fuxman|5|5|0|2
+44|Real-time approximate Range Motif discovery & data redundancy removal algorithm.|Ankur Narang,Souvik Bhattacherjee|6|6|3|0
+45|Queries on dates: fast yet not blind.|Jaroslaw Szlichta,Parke Godfrey,Jarek Gryz,Wenbin Ma,Przemyslaw Pawluk,Calisto Zuzarte|13|13|0|10
+46|Designing integration flows using hypercubes.|Kevin Wilkinson,Alkis Simitsis|8|8|1|2
+47|Experience in Continuous analytics as a Service (CaaaS).|Qiming Chen,Meichun Hsu,Hans Zeller|40|38|1|14
+48|SocialSearch: enhancing entity search with social network matching.|Gae-won You,Seung-won Hwang,Zaiqing Nie,Ji-Rong Wen|17|17|0|1
+49|Road crash proneness prediction using data mining.|Richi Nayak,Daniel Emerson,Justin Weligamage,Noppadol Piyatrapoomi|12|11|0|4
+50|Schema matching and mapping: from usage to evaluation.|Angela Bonifati,Yannis Velegrakis|4|3|0|3
+51|Big data and cloud computing: current state and future opportunities.|Divyakant Agrawal,Sudipto Das,Amr El Abbadi|268|264|0|2
+52|The hidden web, XML and the Semantic Web: scientific data management perspectives.|Fabian M. Suchanek,Aparna S. Varde,Richi Nayak,Pierre Senellart|9|9|0|0
+53|A probabilistic XML merging tool.|Talel Abdessalem,Mouhamadou Lamine Ba,Pierre Senellart|12|12|0|9
+54|Taking the OXPath down the deep web.|Andrew Jon Sellers,Tim Furche,Georg Gottlob,Giovanni Grasso,Christian Schallhart|n/a
+55|SPRINT: ranking search results by paths.|Christoph Böhm,Eyk Kny,Benjamin Emde,Ziawasch Abedjan,Felix Naumann|3|3|0|0
+56|A query optimization assistant for XPath.|Haris Georgiadis,Minas Charalambides,Vasilis Vassalos|2|2|0|0
+57|TPM: supporting pattern matching queries for road-network trajectory data.|Gook-Pil Roh,Seung-won Hwang|4|4|0|0
+58|QueryViz: helping users understand SQL queries and their patterns.|Jonathan Danaparamita,Wolfgang Gatterbauer|25|23|0|2
+59|True language-level SQL debugging.|Torsten Grust,Fabian Kliebhan,Jan Rittinger,Tom Schreiber|8|8|0|3
+60|SITAC: discovering semantically identical temporally altering concepts in text archives.|Amal Chaminda Kaluarachchi,Debjani Roychoudhury,Aparna S. Varde,Gerhard Weikum|6|6|0|0
+61|Unraveling multi-dimensional data using pDView.|Luigi Di Caro,Maria Luisa Sapino,K. Selçuk Candan|0|0|0|0
+62|RanKloud: a scalable ranked query processing framework on hadoop.|K. Selçuk Candan,Parth Nagarkar,Mithila Nagendra,Renwei Yu|7|7|0|2

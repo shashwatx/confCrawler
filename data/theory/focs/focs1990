@@ -1,0 +1,94 @@
+93
+1|31st Annual Symposium on Foundations of Computer Science, St. Louis, Missouri, USA, October 22-24, 1990, Volume I.|n/a
+2|Algebraic Methods for Interactive Proof Systems.|Carsten Lund,Lance Fortnow,Howard J. Karloff,Noam Nisan|629|185|1|44
+3|IP=PSPACE.|Adi Shamir|812|230|3|2
+4|Non-Deterministic Exponential Time Has Two-Prover Interactive Protocols.|László Babai,Lance Fortnow,Carsten Lund|566|173|0|45
+5|A Characterization of \sharp P Arithmetic Straight Line Programs.|László Babai,Lance Fortnow|n/a
+6|Perfectly Secure Message Transmission.|Danny Dolev,Cynthia Dwork,Orli Waarts,Moti Yung|364|164|2|13
+7|Coin-Flipping Games Immune against Linear-Sized Coalitions (Extended Abstract).|Noga Alon,Moni Naor|50|12|0|3
+8|Are Wait-Free Algorithms Fast? (Extended Abstract).|Hagit Attiya,Nancy A. Lynch,Nir Shavit|n/a
+9|A Dining Philosophers Algorithm with Polynomial Response Time.|Baruch Awerbuch,Michael E. Saks|75|15|0|2
+10|An Approach for Proving Lower Bounds: Solution of Gilbert-Pollak's Conjecture on Steiner Ratio.|Ding-Zhu Du,Frank K. Hwang|103|9|0|11
+11|Drawing Graphs in the Plane with High Resolution.|Michael Formann,Torben Hagerup,James Haralambides,Michael Kaufmann,Frank Thomson Leighton,Antonios Symvonis,Emo Welzl,Gerhard J. Woeginger|95|29|0|0
+12|New Results on Dynamic Planar Point Location.|Siu-Wing Cheng,Ravi Janardan|73|10|0|1
+13|The Computability and Complexity of Optical Beam Tracing.|John H. Reif,J. D. Tygar,Akitoshi Yoshida|35|8|0|5
+14|Approximate String Matching in Sublinear Expected Time.|William I. Chang,Eugene L. Lawler|146|24|3|4
+15|Towards a DNA Sequencing Theory (Learning a String) (Preliminary Version).|Ming Li|98|19|0|8
+16|On the Exact Complexity of String Matching (Extended Abstract).|Livio Colussi,Zvi Galil,Raffaele Giancarlo|n/a
+17|Faster Tree Pattern Matching.|Moshe Dubiner,Zvi Galil,Edith Magen|141|42|13|0
+18|Specified Precision Polynomial Root Isolation is in NC.|C. Andrew Neff|41|8|0|2
+19|A Tree-Partitioning Technique with Applications to Expression Evaluation and Term Matching (Extended Abstract).|S. Rao Kosaraju,Arthur L. Delcher|14|0|0|1
+20|Efficient Parallel Algorithms for Tree-Decomposition and Related Problems.|Jens Lagergren|71|5|0|1
+21|Learning Conjunctions of Horn Clauses (Extended Abstract).|Dana Angluin,Michael Frazier,Leonard Pitt|n/a
+22|Exact Identification of Circuits Using Fixed Points of Amplification Functions (Extended Abstract).|Sally A. Goldman,Michael J. Kearns,Robert E. Schapire|34|3|0|2
+23|On the Complexity of Learning from Counterexamples and Membership Queries.|Wolfgang Maass,György Turán|43|4|0|4
+24|Separating Distribution-Free and Mistake-Bound Learning Models over the Boolean Domain.|Avrim Blum|35|11|0|0
+25|Triangulating a Simple Polygon in Linear Time.|Bernard Chazelle|864|202|0|10
+26|Provably Good Mesh Generation.|Marshall W. Bern,David Eppstein,John R. Gilbert|455|103|1|23
+27|Counting and Cutting Cycles of Lines and Rods in Space.|Bernard Chazelle,Herbert Edelsbrunner,Leonidas J. Guibas,Richard Pollack,Raimund Seidel,Micha Sharir,Jack Snoeyink|52|21|0|1
+28|Hidden Surface Removal for Axis-Parallel Polyhedra (Extended Abstract).|Mark de Berg,Mark H. Overmars|27|1|0|7
+29|A (fairly) Simple Circuit that (usually) Sorts.|Frank Thomson Leighton,C. Greg Plaxton|62|12|0|18
+30|Fault Tolerant Sorting Network.|Shay Assaf,Eli Upfal|70|19|0|2
+31|Asymptotically Tight Bounds for Computing with Faulty Arrays of Processors (Extended Abstract).|Christos Kaklamanis,Anna R. Karlin,Frank Thomson Leighton,Victor Milenkovic,Prabhakar Raghavan,Satish Rao,Clark D. Thomborson,A. Tsantilas|82|2|0|7
+32|Deterministic On-Line Routing on Area-Universal Networks (Extended Abstract).|Paul Bay,Gianfranco Bilardi|24|3|0|8
+33|Multiple Non-Interactive Zero Knowledge Proofs Based on a Single Random String (Extended Abstract).|Uriel Feige,Dror Lapidot,Adi Shamir|180|57|3|3
+34|Security Preserving Amplification of Hardness.|Oded Goldreich,Russell Impagliazzo,Leonid A. Levin,Ramarathnam Venkatesan,David Zuckerman|129|24|0|23
+35|Efficiently Inverting Bijections Given by Straight Line Programs.|Carl Sturtivant,Zhi-Li Zhang|11|4|0|0
+36|Private Computations Over the Integers (Extended Abstract).|Benny Chor,Mihály Geréb-Graus,Eyal Kushilevitz|n/a
+37|The Mixing Rate of Markov Chains, an Isoperimetric Inequality, and Computing the Volume.|László Lovász,Miklós Simonovits|155|50|0|11
+38|Exploring an Unknown Graph (Extended Abstract).|Xiaotie Deng,Christos H. Papadimitriou|n/a
+39|Inferring Evolutionary History from DNA Sequences (Extended Abstract).|Sampath Kannan,Tandy Warnow|71|19|0|6
+40|Permuting.|Faith E. Fich,J. Ian Munro,Patricio V. Poblete|n/a
+41|Efficient Distribution-free Learning of Probabilistic Concepts (Extended Abstract).|Michael J. Kearns,Robert E. Schapire|369|67|0|6
+42|A Markovian Extension of Valiant's Learning Model (Extended Abstract).|David Aldous,Umesh V. Vazirani|34|6|0|1
+43|On Threshold Circuits for Parity.|Ramamohan Paturi,Michael E. Saks|41|1|0|0
+44|Robust Separations in Inductive Inference.|Mark A. Fulk|51|8|0|1
+45|A Time-Space Tradeoff for Boolean Matrix Multiplication.|Karl R. Abrahamson|23|2|0|0
+46|Communication-Space Tradeoffs for Unrestricted Protocols.|Paul Beame,Martin Tompa,Peiyuan Yan|20|3|0|0
+47|Time-Space Tradeoffs for Undirected Graph Traversal.|Paul Beame,Allan Borodin,Prabhakar Raghavan,Walter L. Ruzzo,Martin Tompa|31|2|0|6
+48|Constructing Generalized Universal Traversing Sequences of Polynomial Size for Graphs with Small Diameter (Extended Abstract).|Sorin Istrail|6|0|0|0
+49|31st Annual Symposium on Foundations of Computer Science, St. Louis, Missouri, USA, October 22-24, 1990, Volume II.|n/a
+50|Competitive k-Server Algorithms (Extended Abstract).|Amos Fiat,Yuval Rabani,Yiftach Ravid|n/a
+51|Randomized Online Graph Coloring (Preliminary Version).|Sundar Vishwanathan|n/a
+52|Coloring Inductive Graphs On-Line.|Sandy Irani|133|33|0|0
+53|Online Algorithms for Finger Searching (Extended Abstract).|Richard Cole,Arvind Raghunathan|n/a
+54|Communication-Optimal Maintenance of Replicated Information.|Baruch Awerbuch,Israel Cidon,Shay Kutten|62|10|0|23
+55|Sparse Partitions (Extended Abstract).|Baruch Awerbuch,David Peleg|n/a
+56|Network Synchronization with Polylogarithmic Overhead.|Baruch Awerbuch,David Peleg|101|14|0|21
+57|General Weak Random Sources.|David Zuckerman|118|37|0|14
+58|Simple Constructions of Almost k-Wise Independent Random Variables.|Noga Alon,Oded Goldreich,Johan Håstad,René Peralta|455|161|0|52
+59|Some Tools for Approximate 3-Coloring (Extended Abstract).|Avrim Blum|n/a
+60|Randomness in Interactive Proofs.|Mihir Bellare,Oded Goldreich,Shafi Goldwasser|91|16|0|21
+61|Parallel Linear Programming in Fixed Dimension Almost Surely in Constant Time.|Noga Alon,Nimrod Megiddo|36|1|0|3
+62|Reducing the Parallel Complexity of Certain Linear Programming Problems (Extended Abstract).|Pravin M. Vaidya|9|3|0|1
+63|Asynchronous PRAMs Are (Almost) as Good as Synchronous PRAMs.|Charles U. Martel,Ramesh Subramonian,Arvin Park|84|4|0|4
+64|Uniform Memory Hierarchies.|Bowen Alpern,Larry Carter,Ephraim Feig|72|7|0|7
+65|On the Power of Small-Depth Threshold Circuits.|Johan Håstad,Mikael Goldmann|224|93|0|5
+66|On ACC and Threshold Circuits.|Andrew Chi-Chih Yao|177|45|0|0
+67|On Interpolation by Analytic Functions with Special Properties and Some Weak Lower Bounds on the Size of Circuits with Symmetric Gates.|Roman Smolensky|24|5|0|0
+68|Polynomial Threshold Functions, AC^0 Functions and Spectral Norms (Extended Abstract).|Jehoshua Bruck,Roman Smolensky|143|22|1|9
+69|Faster Circuits and Shorter Formulae for Multiple Addition, Multiplication and Symmetric Boolean Functions.|Mike Paterson,Nicholas Pippenger,Uri Zwick|22|6|0|4
+70|Deciding Properties of Nonregular Programs (Preliminary Version).|David Harel,Danny Raz|n/a
+71|Decision Problems for Propositional Linear Logic.|Patrick Lincoln,John C. Mitchell,Andre Scedrov,Natarajan Shankar|275|63|0|21
+72|Tight Bounds on the Complexity of Cascaded Decomposition of Automata.|Oded Maler,Amir Pnueli|27|3|0|8
+73|Finite-Memory Automata (Extended Abstract).|Michael Kaminski,Nissim Francez|n/a
+74|Probabilities of Sentences about Very Sparse Random Graphs.|James F. Lynch|32|6|0|6
+75|A Fast Algorithm for Optimally Increasing the Edge-Connectivity.|Dalit Naor,Dan Gusfield,Charles U. Martel|139|18|0|1
+76|Augmenting Graphs to Meet Edge-Connectivity Requirements.|András Frank|369|84|0|18
+77|Trans-dichotomous Algorithms for Minimum Spanning Trees and Shortest Paths.|Michael L. Fredman,Dan E. Willard|301|115|0|1
+78|Approximation through Multicommodity Flow.|Philip N. Klein,Ajit Agrawal,R. Ravi,Satish Rao|123|13|0|14
+79|Computing with Snakes in Directed Networks of Automata (Extended Abstract).|Shimon Even,Ami Litman,Peter Winkler|25|2|0|3
+80|Distributed Reactive Systems Are Hard to Synthesize.|Amir Pnueli,Roni Rosner|282|141|0|1
+81|Communication Complexity of Algebraic Computation (Extended Abstract).|Zhi-Quan Luo,John N. Tsitsiklis|8|1|0|0
+82|Bounds on Tradeoffs between Randomness and Communication Complexity.|Ran Canetti,Oded Goldreich|31|4|0|2
+83|The Complexity of Finding Medians.|Seinosuke Toda|18|0|0|0
+84|On the Predictability of Coupled Automata: An Allegory about Chaos.|Samuel R. Buss,Christos H. Papadimitriou,John N. Tsitsiklis|61|11|0|3
+85|On Graph-Theoretic Lemmata and Complexity Classes (Extended Abstract).|Christos H. Papadimitriou|46|6|0|2
+86|Matrix Decomposition Problem Is Complete for the Average Case.|Yuri Gurevich|36|4|0|4
+87|No Better Ways to Generate Hard NP Instances than Picking Uniformly at Random.|Russell Impagliazzo,Leonid A. Levin|120|19|0|6
+88|Complexity of Unification in Free Groups and Free Semi-groups.|Antoni Koscielski,Leszek Pacholski|21|4|0|3
+89|The Lattice Reduction Algorithm of Gauss: An Average Case Analysis.|Brigitte Vallée,Philippe Flajolet|19|4|0|3
+90|Interpolation of Sparse Rational Functions Without Knowing Bounds on Exponents.|Dima Grigoriev,Marek Karpinski,Michael F. Singer|22|3|0|8
+91|Simplifying Nested Radicals and Solving Polynomials by Radicals in Minimum Depth.|Gwoboa Horng,Ming-Deh A. Huang|11|0|2|1
+92|On the Diameter of Finite Groups.|László Babai,Gábor Hetyei,William M. Kantor,Alexander Lubotzky,Ákos Seress|61|15|0|10
+93|Some Triply-Logarithmic Parallel Algorithms (Extended Abstract).|Omer Berkman,Joseph JáJá,Sridhar Krishnamurthy,Ramakrishna Thurimella,Uzi Vishkin|20|1|0|3

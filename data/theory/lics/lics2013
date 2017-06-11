@@ -1,0 +1,64 @@
+63
+1|28th Annual ACM/IEEE Symposium on Logic in Computer Science, LICS 2013, New Orleans, LA, USA, June 25-28, 2013.|n/a
+2|LICS: Logic in Computer Security - Some Attacker's Models and Related Decision Problems.|Hubert Comon-Lundh|0|0|0|0
+3|From Qualitative to Quantitative Proofs of Security Properties Using First-Order Conditional Logic.|Joseph Y. Halpern|4|3|0|3
+4|Duality in Logic and Computation.|Prakash Panangaden|1|1|0|0
+5|Timed and Probabilistic I/O Automata.|Nancy A. Lynch|1|1|0|0
+6|Regular Functions and Cost Register Automata.|Rajeev Alur,Loris D'Antoni,Jyotirmoy V. Deshmukh,Mukund Raghothaman,Yifei Yuan|29|25|0|4
+7|Presburger Vector Addition Systems.|Jérôme Leroux|12|9|0|5
+8|Reasoning about Data Repetitions with Counter Systems.|Stéphane Demri,Diego Figueira,M. Praveen|12|10|0|0
+9|On the Context-Freeness Problem for Vector Addition Systems.|Jérôme Leroux,Vincent Penelle,Grégoire Sutre|4|4|0|2
+10|Groupoids, Hypergraphs, and Symmetries in Finite Models.|Martin Otto|3|3|0|3
+11|An Optimal Gaifman Normal Form Construction for Structures of Bounded Degree.|Lucas Heimberg,Dietrich Kuske,Nicole Schweikardt|3|3|0|3
+12|Two-Variable Logic with Counting and Trees.|Witold Charatonik,Piotr Witkowski|18|17|0|7
+13|Measurable Spaces and Their Effect Logic.|Bart Jacobs|21|18|0|13
+14|Topological Structure of Quantum Algorithms.|Jamie Vicary|11|11|0|3
+15|On the Query Complexity of Real Functionals.|Hugo Férée,Mathieu Hoyrup,Walid Gomaa|4|4|0|3
+16|Quantitative Monadic Second-Order Logic.|Stephan Kreutzer,Cristian Riveros|6|5|0|3
+17|Magnitude Monadic Logic over Words and the Use of Relative Internal Set Theory.|Thomas Colcombet|1|1|0|0
+18|Quantitative Reasoning for Proving Lock-Freedom.|Jan Hoffmann,Michael Marmar,Zhong Shao|9|8|0|5
+19|Model Checking for Successor-Invariant First-Order Logic on Minor-Closed Graph Classes.|Kord Eickmeyer,Ken-ichi Kawarabayashi,Stephan Kreutzer|2|2|0|0
+20|Dynamic Logic of Propositional Assignments: A Well-Behaved Variant of PDL.|Philippe Balbiani,Andreas Herzig,Nicolas Troquard|29|26|0|17
+21|Model-Checking Parse Trees.|Anudhyan Boral,Sylvain Schmitz|0|0|0|0
+22|The Complexity of Model Checking Multi-stack Systems.|Benedikt Bollig,Dietrich Kuske,Roy Mennicke|7|7|0|3
+23|Maximum Matching and Linear Programming in Fixed-Point Logic with Counting.|Matthew Anderson,Anuj Dawar,Bjarki Holm|10|7|0|6
+24|Turing Machines with Atoms.|Mikolaj Bojanczyk,Bartek Klin,Slawomir Lasota,Szymon Torunczyk|15|11|0|4
+25|Adding an Equivalence Relation to the Interval Logic ABB: Complexity and Expressiveness.|Angelo Montanari,Pietro Sala|6|6|0|5
+26|Decidability of Weak Simulation on One-Counter Nets.|Piotr Hofman,Richard Mayr,Patrick Totzke|7|7|0|6
+27|Intensional Type Theory with Guarded Recursive Types qua Fixed Points on Universes.|Lars Birkedal,Rasmus Ejlers Møgelberg|13|12|0|4
+28|Calculating the Fundamental Group of the Circle in Homotopy Type Theory.|Daniel R. Licata,Michael Shulman|21|18|0|10
+29|Type-Based Productivity of Stream Definitions in the Calculus of Constructions.|Jorge Luis Sacchini|7|6|0|2
+30|Fibred Data Types.|Neil Ghani,Lorenzo Malatesta,Fredrik Nordvall Forsberg,Anton Setzer|5|5|0|2
+31|Arbitrary Action Model Logic and Action Model Synthesis.|James Hales|5|4|0|2
+32|On the Boundary of Behavioral Strategies.|Fabio Mogavero,Aniello Murano,Luigi Sauro|22|22|0|12
+33|A Relatively Complete Generic Hoare Logic for Order-Enriched Effects.|Sergey Goncharov,Lutz Schröder|3|3|0|1
+34|Unifying Classical and Intuitionistic Logics for Computational Control.|Chuck Liang,Dale Miller|4|4|0|2
+35|The Cost of Usage in the Lambda-Calculus.|Andrea Asperti,Jean-Jacques Lévy|n/a
+36|Weighted Relational Models of Typed Lambda-Calculi.|Jim Laird,Giulio Manzonetto,Guy McCusker,Michele Pagani|16|13|0|0
+37|Atomic Lambda Calculus: A Typed Lambda-Calculus with Explicit Sharing.|Tom Gundersen,Willem Heijltjes,Michel Parigot|9|9|0|1
+38|Stone Duality for Markov Processes.|Dexter Kozen,Kim G. Larsen,Radu Mardare,Prakash Panangaden|11|11|0|6
+39|Trading Performance for Stability in Markov Decision Processes.|Tomás Brázdil,Krishnendu Chatterjee,Vojtech Forejt,Antonín Kucera|8|8|0|4
+40|Solving Partial-Information Stochastic Parity Games.|Sumit Nain,Moshe Y. Vardi|6|6|0|1
+41|Expressive Completeness for Metric Temporal Logic.|Paul Hunter,Joël Ouaknine,James Worrell|11|10|0|5
+42|One-Path Reachability Logic.|Grigore Rosu,Andrei Stefanescu,Stefan Ciobaca,Brandon M. Moore|34|30|0|7
+43|Substructure Temporal Logic.|Massimo Benerecetti,Fabio Mogavero,Aniello Murano|5|5|0|4
+44|Name-Passing Calculi: From Fusions to Preorders and Types.|Daniel Hirschkoff,Jean-Marie Madiot,Davide Sangiorgi|3|3|0|1
+45|A Compositional Semantics for the Reversible p-Calculus.|Ioana Cristescu,Jean Krivine,Daniele Varacca|21|20|0|2
+46|Pumping by Typing.|Naoki Kobayashi|6|6|0|1
+47|From Frame Properties to Hypersequent Rules in Modal Logics.|Ori Lahav|17|16|0|0
+48|The Logic of Exact Covers: Completeness and Uniform Interpolation.|Dirk Pattinson|5|3|0|0
+49|Compressing Polarized Boxes.|Beniamino Accattoli|1|1|0|1
+50|Kripke Semantics for Modal Bilattice Logic.|Achim Jung,Umberto Rivieccio|10|9|0|7
+51|Forcing MSO on Infinite Words in Weak MSO.|Colin Riba|0|0|0|0
+52|From Monadic Second-Order Definable String Transformations to Transducers.|Rajeev Alur,Antoine Durand-Gasselin,Ashutosh Trivedi|8|8|0|2
+53|From Two-Way to One-Way Finite State Transducers.|Emmanuel Filiot,Olivier Gauwin,Pierre-Alain Reynier,Frédéric Servais|11|10|0|6
+54|A Characterization Theorem for the Alternation-Free Fragment of the Modal µ-Calculus.|Alessandro Facchini,Yde Venema,Fabio Zanasi|5|5|0|2
+55|Bisimilarity of Pushdown Automata is Nonelementary.|Michael Benedikt,Stefan Göller,Stefan Kiefer,Andrzej S. Murawski|11|10|0|1
+56|Rabin-Mostowski Index Problem: A Step beyond Deterministic Automata.|Alessandro Facchini,Filip Murlak,Michal Skrzypczak|11|11|0|7
+57|Regular Real Analysis.|Swarat Chaudhuri,Sriram Sankaranarayanan,Moshe Y. Vardi|1|1|0|0
+58|Instances of Computational Effects: An Algebraic Perspective.|Sam Staton|9|8|0|5
+59|Multiversal Polymorphic Algebraic Theories: Syntax, Semantics, Translations, and Equational Logic.|Marcelo P. Fiore,Makoto Hamana|1|1|0|0
+60|A Categorical Treatment of Ornaments.|Pierre-Évariste Dagand,Conor McBride|9|9|0|3
+61|Converging to the Chase - A Tool for Finite Controllability.|Tomasz Gogacz,Jerzy Marcinkowski|7|6|0|0
+62|Why is it Hard to Obtain a Dichotomy for Consistent Query Answering?|Gaëlle Fontaine|14|12|0|2
+63|Abstract Machines for Game Semantics, Revisited.|Olle Fredriksson,Dan R. Ghica|12|11|0|5

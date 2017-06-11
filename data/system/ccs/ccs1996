@@ -1,0 +1,22 @@
+21
+1|CCS '96, Proceedings of the 3rd ACM Conference on Computer and Communications Security, New Delhi, India, March 14-16, 1996.|Li Gong,Jacques Stearn|n/a
+2|Unified Login with Pluggable Authentication Modules (PAM).|Vipin Samar|145|53|17|0
+3|Secure External References in Multimedia Email Messages.|Burkhard Wiegel|26|15|22|0
+4|Securing ATM Networks.|Shaw-Cheng Chuang|39|4|4|1
+5|Diffie-Hellman Key Distribution Extended to Group Communication.|Michael Steiner,Gene Tsudik,Michael Waidner|865|272|11|16
+6|The Omega Key Management Service.|Michael K. Reiter,Matthew K. Franklin,John B. Lacy,Rebecca N. Wright|77|13|0|4
+7|Proxy Signatures for Delegating Signing Operation.|Masahiro Mambo,Keisuke Usuda,Eiji Okamoto|1007|424|5|5
+8|Batch Exponentiation: A Fast DLP-Based Signature Generation Strategy.|David M'Raïhi,David Naccache|51|15|0|3
+9|The Failure of Anti-Hacking Legislation: A Hong Kong Perspective.|Rynson W. H. Lau,Kwok-Yan Lam,Siu Leung Chung|1|0|0|0
+10|Human-Computer Cryptography: An Attempt.|Tsutomu Matsumoto|84|25|3|0
+11|Revokable and Versatile Electronic Money (extended abstract).|Markus Jakobsson,Moti Yung|n/a
+12|An Efficient Fair Payment System.|Jan Camenisch,Jean-Marc Piveteau,Markus Stadler|150|31|19|5
+13|An Authentication Logic Supporting Synchronization, Revocation, and Recency.|Stuart G. Stubblebine,Rebecca N. Wright|39|6|0|2
+14|An Approach to the Formal Verification of Cryptographic Protocols.|Dominique Bolignano|114|8|0|0
+15|An Advanced Commit Protocol for MLS Distributed Database Systems.|Indrajit Ray,Elisa Bertino,Sushil Jajodia,Luigi V. Mancini|168|2|1|7
+16|Several Secure Store and Forward Devices.|David M. Goldschlag|20|3|0|1
+17|An Experiment on DES Statistical Cryptanalysis.|Serge Vaudenay|115|19|0|18
+18|Breaking and Repairing a Convertible Undeniable Signature Scheme.|Markus Michels,Holger Petersen,Patrick Horster|51|16|1|3
+19|Cryptanalysis of Private-Key Encryption Schemes Based on Burst-Error-Correcting Codes.|Hung-Min Sun,Shiuh-Pyng Shieh|7|1|0|4
+20|Access Control and Signatures via Quorum Secret Sharing.|Moni Naor,Avishai Wool|87|30|3|14
+21|A Non-Timestamped Authorization Model for Data Management Systems.|Elisa Bertino,Sushil Jajodia,Pierangela Samarati|8|3|0|1

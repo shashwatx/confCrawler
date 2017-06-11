@@ -1,0 +1,29 @@
+28
+1|Proceedings of the 9th ACM Conference on Computer and Communications Security, CCS 2002, Washington, DC, USA, November 18-22, 2002.|Vijayalakshmi Atluri|n/a
+2|Authenticated encryption in SSH: provably fixing the SSH binary packet protocol.|Mihir Bellare,Tadayoshi Kohno,Chanathip Namprempre|90|46|1|9
+3|The verification of an industrial payment protocol: the SET purchase phase.|Giampaolo Bella,Lawrence C. Paulson,Fabio Massacci|74|21|0|8
+4|Design and implementation of the idemix anonymous credential system.|Jan Camenisch,Els Van Herreweghen|472|256|6|31
+5|A temporal key management scheme for secure broadcasting of XML documents.|Elisa Bertino,Barbara Carminati,Elena Ferrari|64|18|1|13
+6|A key-management scheme for distributed sensor networks.|Laurent Eschenauer,Virgil D. Gligor|4007|2010|15|7
+7|Efficient, DoS-resistant, secure key exchange for internet protocols.|William Aiello,Steven M. Bellovin,Matt Blaze,John Ioannidis,Omer Reingold,Ran Canetti,Angelos D. Keromytis|125|21|0|1
+8|Defending against redirect attacks in mobile IP.|Robert H. Deng,Jianying Zhou,Feng Bao|69|26|3|9
+9|Almost entirely correct mixing with applications to voting.|Dan Boneh,Philippe Golle|100|37|0|2
+10|DRM: doesn't realy mean digital copyright management.|L. Jean Camp|40|8|0|1
+11|Asynchronous verifiable secret sharing and proactive cryptosystems.|Christian Cachin,Klaus Kursawe,Anna Lysyanskaya,Reto Strobl|130|51|5|10
+12|Authenticated-encryption with associated-data.|Phillip Rogaway|201|124|4|21
+13|Generic implementations of elliptic curve cryptography using partial reduction.|Nils Gura,Hans Eberle,Sheueling Chang Shantz|41|40|39|0
+14|Efficient packet marking for large-scale IP traceback.|Michael T. Goodrich|192|68|4|2
+15|Sensor-based intrusion detection for intra-domain distance-vector routing.|Vishal Mittal,Giovanni Vigna|44|6|0|0
+16|Code red worm propagation modeling and analysis.|Cliff Changchun Zou,Weibo Gong,Donald F. Towsley|922|380|12|12
+17|Silicon physical random functions.|Blaise Gassend,Dwaine E. Clarke,Marten van Dijk,Srinivas Devadas|700|554|29|24
+18|Securing passwords against dictionary attacks.|Benny Pinkas,Tomas Sander|316|176|5|0
+19|Policy algebras for access control the predicate case.|Duminda Wijesekera,Sushil Jajodia|39|7|0|5
+20|Query-flood DoS attacks in gnutella.|Neil Daswani,Hector Garcia-Molina|133|23|0|10
+21|Tarzan: a peer-to-peer anonymizing network layer.|Michael J. Freedman,Robert Morris|777|298|5|1
+22|A reputation-based approach for choosing reliable resources in peer-to-peer networks.|Ernesto Damiani,Sabrina De Capitani di Vimercati,Stefano Paraboschi,Pierangela Samarati,Fabio Violante|n/a
+23|Scalable, graph-based network vulnerability analysis.|Paul Ammann,Duminda Wijesekera,Saket Kaushik|672|367|4|8
+24|Runtime verification of authorization hook placement for the linux security modules framework.|Antony Edwards,Trent Jaeger,Xiaolan Zhang|47|25|3|6
+25|MOPS: an infrastructure for examining security properties of software.|Hao Chen,David Wagner|506|153|12|12
+26|Constructing attack scenarios through correlation of intrusion alerts.|Peng Ning,Yun Cui,Douglas S. Reeves|590|241|13|18
+27|Mimicry attacks on host-based intrusion detection systems.|David Wagner,Paolo Soto|610|245|15|0
+28|Specification-based anomaly detection: a new approach for detecting network intrusions.|R. Sekar,Ajay K. Gupta,J. Frullo,T. Shanbhag,A. Tiwari,H. Yang,S. Zhou|377|159|19|3

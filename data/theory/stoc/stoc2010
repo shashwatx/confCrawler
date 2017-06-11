@@ -1,0 +1,84 @@
+83
+1|Proceedings of the 42nd ACM Symposium on Theory of Computing, STOC 2010, Cambridge, Massachusetts, USA, 5-8 June 2010.|Leonard J. Schulman|n/a
+2|Spectral methods for matrices and tensors.|Ravindran Kannan|13|13|0|0
+3|Are many small sets explicitly small?|Michel Talagrand|7|7|0|3
+4|Message passing algorithms: a success looking for theoreticians.|Andrea Montanari|1|1|0|0
+5|Perfect matchings in o(n log n) time in regular bipartite graphs.|Ashish Goel,Michael Kapralov,Sanjeev Khanna|30|28|0|1
+6|Extensions and limits to vertex sparsification.|Frank Thomson Leighton,Ankur Moitra|31|31|0|3
+7|Subgraph sparsification and nearly optimal ultrasparsifiers.|Alexandra Kolla,Yury Makarychev,Amin Saberi,Shang-Hua Teng|34|33|0|2
+8|How to compress interactive communication.|Boaz Barak,Mark Braverman,Xi Chen,Anup Rao|116|111|0|21
+9|A strong direct product theorem for disjointness.|Hartmut Klauck|41|39|0|1
+10|Hardness amplification in proof complexity.|Paul Beame,Trinh Huynh,Toniann Pitassi|25|24|0|8
+11|Load balancing and orientability thresholds for random hypergraphs.|Pu Gao,Nicholas C. Wormald|20|19|0|6
+12|Combinatorial approach to the interpolation method and scaling limits in sparse random graphs.|Mohsen Bayati,David Gamarnik,Prasad Tetali|63|61|0|4
+13|The maximum multiflow problems with bounded fractionality.|Hiroshi Hirai|n/a
+14|Faster approximation schemes for fractional multicommodity flow problems via dynamic graph algorithms.|Aleksander Madry|26|25|0|0
+15|A full characterization of quantum advice.|Scott Aaronson,Andrew Drucker|3|3|0|1
+16|BQP and the polynomial hierarchy.|Scott Aaronson|54|52|0|7
+17|A quantum lovász local lemma.|Andris Ambainis,Julia Kempe,Or Sattath|n/a
+18|Near-optimal extractors against quantum storage.|Anindya De,Thomas Vidick|26|26|0|10
+19|Public-key cryptography from different assumptions.|Benny Applebaum,Boaz Barak,Avi Wigderson|70|65|0|11
+20|Oblivious RAMs without cryptogrpahic assumptions.|Miklós Ajtai|51|48|0|3
+21|On the round complexity of covert computation.|Vipul Goyal,Abhishek Jain|12|11|0|2
+22|Detecting high log-densities: an O(n1/4) approximation for densest k-subgraph.|Aditya Bhaskara,Moses Charikar,Eden Chlamtac,Uriel Feige,Aravindan Vijayaraghavan|151|139|0|9
+23|Approximation schemes for steiner forest on planar graphs and graphs of bounded treewidth.|MohammadHossein Bateni,MohammadTaghi Hajiaghayi,Dániel Marx|38|37|0|6
+24|Optimal homologous cycles, total unimodularity, and linear programming.|Tamal K. Dey,Anil N. Hirani,Bala Krishnamoorthy|51|48|0|13
+25|Improving exhaustive search implies superpolynomial lower bounds.|Ryan Williams|89|84|0|18
+26|On the complexity of circuit satisfiability.|Ramamohan Paturi,Pavel Pudlák|14|14|0|0
+27|Satisfiability allows no nontrivial sparsification unless the polynomial-time hierarchy collapses.|Holger Dell,Dieter van Melkebeek|137|132|0|1
+28|Recognizing well-parenthesized expressions in the streaming model.|Frédéric Magniez,Claire Mathieu,Ashwin Nayak|36|36|0|9
+29|Measuring independence of datasets.|Vladimir Braverman,Rafail Ostrovsky|n/a
+30|Zero-one frequency laws.|Vladimir Braverman,Rafail Ostrovsky|30|28|0|14
+31|Improved algorithms for computing fisher's market clearing prices: computing fisher's market clearing prices.|James B. Orlin|34|34|0|1
+32|Bayesian algorithmic mechanism design.|Jason D. Hartline,Brendan Lucier|67|66|0|15
+33|Multi-parameter mechanism design and sequential posted pricing.|Shuchi Chawla,Jason D. Hartline,David L. Malec,Balasubramanian Sivan|152|151|0|14
+34|Saving space by algebraization.|Daniel Lokshtanov,Jesper Nederlof|44|43|0|8
+35|On the structure of cubic and quartic polynomials.|Elad Haramaty,Amir Shpilka|11|10|0|0
+36|A sparse Johnson: Lindenstrauss transform.|Anirban Dasgupta,Ravi Kumar,Tamás Sarlós|n/a
+37|A deterministic single exponential time algorithm for most lattice problems based on voronoi cell computations.|Daniele Micciancio,Panagiotis Voulgaris|161|155|0|6
+38|Sorting under partial information (without the ellipsoid algorithm).|Jean Cardinal,Samuel Fiorini,Gwenaël Joret,Raphaël M. Jungers,J. Ian Munro|12|11|0|5
+39|Matroid matching: the power of local search.|Jon Lee,Maxim Sviridenko,Jan Vondrák|21|20|0|1
+40|Budget constrained auctions with heterogeneous items.|Sayan Bhattacharya,Gagan Goel,Sreenivas Gollapudi,Kamesh Munagala|79|78|0|6
+41|On the searchability of small-world networks with arbitrary underlying structure.|Pierre Fraigniaud,George Giakkoupis|40|40|0|5
+42|Almost tight bounds for rumour spreading with conductance.|Flavio Chierichetti,Silvio Lattanzi,Alessandro Panconesi|82|79|0|3
+43|On the list-decodability of random linear codes.|Venkatesan Guruswami,Johan Håstad,Swastik Kopparty|24|24|0|7
+44|Local list-decoding and testing of random linear codes from high error.|Swastik Kopparty,Shubhangi Saraf|25|23|0|0
+45|Pseudorandom generators for polynomial threshold functions.|Raghu Meka,David Zuckerman|49|47|0|13
+46|Efficiency improvements in constructing pseudorandom generators from one-way functions.|Iftach Haitner,Omer Reingold,Salil P. Vadhan|55|51|0|7
+47|The limits of buffering: a tight lower bound for dynamic membership in the external memory model.|Elad Verbin,Qin Zhang|11|11|0|2
+48|Maintaining a large matching and a small vertex cover.|Krzysztof Onak,Ronitt Rubinfeld|22|20|0|1
+49|Connectivity oracles for failure prone graphs.|Ran Duan,Seth Pettie|10|10|0|5
+50|Approximate sparse recovery: optimizing time and measurements.|Anna C. Gilbert,Yi Li,Ely Porat,Martin J. Strauss|68|68|0|13
+51|The HOM problem is decidable.|Guillem Godoy,Omer Giménez,Lander Ramos,Carme Àlvarez|n/a
+52|Complexity theory for operators in analysis.|Akitoshi Kawamura,Stephen A. Cook|35|34|0|9
+53|Solving polynomial equations in smoothed polynomial time and a near solution to smale's 17th problem.|Peter Bürgisser,Felipe Cucker|4|3|0|0
+54|Distributed computation in dynamic networks.|Fabian Kuhn,Nancy A. Lynch,Rotem Oshman|183|170|0|12
+55|Optimal bounds for sign-representing the intersection of two halfspaces by polynomials.|Alexander A. Sherstov|14|13|0|6
+56|Bounding the average sensitivity and noise sensitivity of polynomial threshold functions.|Ilias Diakonikolas,Prahladh Harsha,Adam Klivans,Raghu Meka,Prasad Raghavendra,Rocco A. Servedio,Li-Yang Tan|27|27|0|8
+57|An invariance principle for polytopes.|Prahladh Harsha,Adam Klivans,Raghu Meka|15|15|0|4
+58|Efficiently learning mixtures of two Gaussians.|Adam Tauman Kalai,Ankur Moitra,Gregory Valiant|74|70|0|7
+59|Augmenting undirected node-connectivity by one.|László A. Végh|15|13|0|0
+60|QIP = PSPACE.|Rahul Jain,Zhengfeng Ji,Sarvagya Upadhyay,John Watrous|69|61|0|5
+61|An improved LP-based approximation for steiner tree.|Jaroslaw Byrka,Fabrizio Grandoni,Thomas Rothvoß,Laura Sanità|192|181|0|9
+62|Changing base without losing space.|Yevgeniy Dodis,Mihai Patrascu,Mikkel Thorup|22|22|0|3
+63|Towards polynomial lower bounds for dynamic problems.|Mihai Patrascu|72|65|0|0
+64|An optimal ancestry scheme and small universal posets.|Pierre Fraigniaud,Amos Korman|11|10|0|1
+65|Bilipschitz snowflakes and metrics of negative type.|James R. Lee,Mohammad Moharrami|8|8|0|4
+66|Approximations for the isoperimetric and spectral profile of graphs and related parameters.|Prasad Raghavendra,David Steurer,Prasad Tetali|34|34|0|12
+67|Weighted geometric set cover via quasi-uniform sampling.|Kasturi R. Varadarajan|42|41|0|1
+68|Deterministic identity testing of depth-4 multilinear circuits with bounded top fan-in.|Zohar Shay Karnin,Partha Mukhopadhyay,Amir Shpilka,Ilya Volkovich|32|30|0|3
+69|Tensor-rank and lower bounds for arithmetic formulas.|Ran Raz|33|32|0|1
+70|Non-commutative circuits and the sum-of-squares problem.|Pavel Hrubes,Avi Wigderson,Amir Yehudayoff|19|18|0|9
+71|On the hardness of the noncommutative determinant.|Vikraman Arvind,Srikanth Srinivasan|14|14|0|5
+72|A shorter proof of the graph minor algorithm: the unique linkage theorem.|Ken-ichi Kawarabayashi,Paul Wollan|46|44|0|15
+73|Odd cycle packing.|Ken-ichi Kawarabayashi,Bruce A. Reed|19|18|0|4
+74|On the geometry of differential privacy.|Moritz Hardt,Kunal Talwar|152|148|0|7
+75|Differential privacy under continual observation.|Cynthia Dwork,Moni Naor,Toniann Pitassi,Guy N. Rothblum|160|157|0|6
+76|On the complexity of #CSP.|Martin E. Dyer,David Richerby|41|39|0|1
+77|Tractable hypergraph properties for constraint satisfaction and conjunctive queries.|Dániel Marx|71|65|0|6
+78|Conditional hardness of precedence constrained scheduling on identical machines.|Ola Svensson|10|9|0|1
+79|Graph expansion and the unique games conjecture.|Prasad Raghavendra,David Steurer|102|100|0|15
+80|Interactive privacy via the median mechanism.|Aaron Roth,Tim Roughgarden|136|133|0|16
+81|The price of privately releasing contingency tables and the spectra of random matrices with correlated rows.|Shiva Prasad Kasiviswanathan,Mark Rudelson,Adam Smith,Jonathan Ullman|72|71|0|4
+82|Privacy amplification with asymptotically optimal entropy loss.|Nishanth Chandran,Bhavana Kanukurthi,Rafail Ostrovsky,Leonid Reyzin|32|31|0|5
+83|Erratum for: on basing one-way functions on NP-hardness.|Adi Akavia,Oded Goldreich,Shafi Goldwasser,Dana Moshkovitz|3|3|0|0

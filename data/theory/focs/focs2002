@@ -1,0 +1,82 @@
+81
+1|43rd Symposium on Foundations of Computer Science (FOCS 2002), 16-19 November 2002, Vancouver, BC, Canada, Proceedings.|n/a
+2|Zero-Knowledge.|Oded Goldreich|n/a
+3|Randomness Extractors and their Many Guises.|Salil P. Vadhan|20|11|0|0
+4|Locally Testable Codes and PCPs of Almost-Linear Length.|Oded Goldreich,Madhu Sudan|134|70|0|32
+5|Hardness Results for Coloring 3 -Colorable 3 -Uniform Hypergraphs.|Subhash Khot|n/a
+6|The Hardness of 3 - Uniform Hypergraph Coloring.|Irit Dinur,Oded Regev,Clifford D. Smyth|60|24|0|5
+7|Minimizing Congestion in General Networks.|Harald Räcke|206|90|5|2
+8|Small Induced-Universal Graphs and Compact Implicit Graph Representations.|Stephen Alstrup,Theis Rauhe|60|25|0|7
+9|Deterministic Broadcasting Time in Radio Networks of Unknown Topology.|Dariusz R. Kowalski,Andrzej Pelc|70|12|0|15
+10|Explicit Unique-Neighbor Expanders.|Noga Alon,Michael R. Capalbo|15|5|0|1
+11|Abstract Combinatorial Programs and Efficient Property Testers.|Artur Czumaj,Christian Sohler|36|9|0|13
+12|A Lower Bound for Testing 3-Colorability in Bounded-Degree Graphs.|Andrej Bogdanov,Kenji Obata,Luca Trevisan|77|30|0|6
+13|Testing Juntas.|Eldar Fischer,Guy Kindler,Dana Ron,Shmuel Safra,Alex Samorodnitsky|n/a
+14|A Spectral Algorithm for Learning Mixtures of Distributions.|Santosh Vempala,Grant Wang|88|52|0|0
+15|Equivalence between Priority Queues and Sorting.|Mikkel Thorup|29|7|1|10
+16|Integer Sorting in 0(n sqrt (log log n)) Expected Time and Linear Space.|Yijie Han,Mikkel Thorup|111|60|1|11
+17|Implicit B-Trees: New Results for the Dictionary Problem.|Gianni Franceschini,Roberto Grossi,J. Ian Munro,Linda Pagli|22|6|0|9
+18|An Inverse-Ackermann Style Lower Bound for the Online Minimum Spanning Tree.|Seth Pettie|4|2|0|1
+19|PAC = PAExact and Other Equivalent Models in Learning.|Nader H. Bshouty,Dmitry Gavinsky|8|1|0|7
+20|Learning Intersections and Thresholds of Halfspaces.|Adam Klivans,Ryan O'Donnell,Rocco A. Servedio|125|64|0|24
+21|On-Line Confidence Machines Are Well-Calibrated.|Vladimir Vovk|51|18|0|17
+22|Learning a Hidden Matching.|Noga Alon,Richard Beigel,Simon Kasif,Steven Rudich,Benny Sudakov|66|37|0|4
+23|An Information Statistics Approach to Data Stream and Communication Complexity.|Ziv Bar-Yossef,T. S. Jayram,Ravi Kumar,D. Sivakumar|394|257|0|12
+24|Static Optimality Theorem for External Memory String Access.|Valentina Ciriani,Paolo Ferragina,Fabrizio Luccio,S. Muthukrishnan|9|1|0|1
+25|A Simple Algorithmic Characterization of Uniform Solvability.|Eli Gafni|17|4|0|8
+26|Correlation Clustering.|Nikhil Bansal,Avrim Blum,Shuchi Chawla|796|503|3|12
+27|Decoding Turbo-Like Codes via Linear Programming.|Jon Feldman,David R. Karger|47|14|0|11
+28|Breaking the O(n1/(2k-1)) Barrier for Information-Theoretic Private Information Retrieval.|Amos Beimel,Yuval Ishai,Eyal Kushilevitz,Jean-François Raymond|178|88|0|17
+29|LT Codes.|Michael Luby|2373|1560|38|2
+30|Graphs with Tiny Vector Chromatic Numbers and Huge Chromatic Numbers.|Uriel Feige,Michael Langberg,Gideon Schechtman|35|12|0|6
+31|Scheduling Over a Time-Varying User-Dependent Channel with Applications to High Speed Wireless Data.|Matthew Andrews,Lisa Zhang|46|21|0|9
+32|On-Line End-to-End Congestion Control.|Naveen Garg,Neal E. Young|29|6|1|0
+33|Proving Integrality Gaps without Knowing the Linear Program.|Sanjeev Arora,Béla Bollobás,László Lovász|90|34|0|4
+34|Dependent Rounding in Bipartite Graphs.|Rajiv Gandhi,Samir Khuller,Srinivasan Parthasarathy,Aravind Srinivasan|57|20|0|7
+35|A Constant-Factor Approximation Algorithm for the Multicommodity.|Amit Kumar,Anupam Gupta,Tim Roughgarden|56|19|0|6
+36|Constant-Round Coin-Tossing with a Man in the Middle or Realizing the Shared Random String Model.|Boaz Barak|138|39|0|3
+37|Generalized Compact Knapsacks, Cyclic Lattices, and Efficient One-Way Functions from Worst-Case Complexity Assumptions.|Daniele Micciancio|69|40|0|11
+38|Concurrent Zero Knowledge with Logarithmic Round-Complexity.|Manoj Prabhakaran,Alon Rosen,Amit Sahai|168|90|1|7
+39|On the (non)Universality of the One-Time Pad.|Yevgeniy Dodis,Joel Spencer|55|27|0|13
+40|Market Equilibrium via a Primal-Dual-Type Algorithm.|Nikhil R. Devanur,Christos H. Papadimitriou,Amin Saberi,Vijay V. Vazirani|161|45|2|35
+41|On the Hardness of Optimal Auctions.|Amir Ronen,Amin Saberi|32|19|0|0
+42|Auctions with Severely Bounded Communication.|Liad Blumrosen,Noam Nisan|55|14|1|8
+43|Nash Equilibria in Competitive Societies, with Applications to Facility Location, Traffic Routing and Auctions.|Adrian Vetta|251|119|1|6
+44|Privacy and Interaction in Quantum Communication Complexity and a Theorem about the Relative Entropy of Quantum States.|Rahul Jain,Jaikumar Radhakrishnan,Pranab Sen|58|25|0|32
+45|Linear Diophantine Equations over Polynomials and Soft Decoding of Reed-Solomon Codes.|Michael Alekhnovich|86|62|2|1
+46|Authentication of Quantum Messages.|Howard Barnum,Claude Crépeau,Daniel Gottesman,Adam Smith,Alain Tapp|201|86|1|10
+47|imits on the Power of Quantum Statistical Zero-Knowledge.|John Watrous|61|27|0|5
+48|Protocols and Impossibility Results for Gossip-Based Communication Mechanisms.|David Kempe,Jon M. Kleinberg|123|64|3|4
+49|Covering Problems with Hard Capacities.|Julia Chuzhoy,Joseph Naor|44|28|0|1
+50|Packing 2-Dimensional Bins in Harmony.|Alberto Caprara|93|31|0|7
+51|Fast Approximation Algorithms for Fractional Steiner Forest and Related Problems.|Naveen Garg,Rohit Khandekar|15|3|0|4
+52|Quantum Lower Bounds for the Collision and the Element Distinctness Problems.|Yaoyun Shi|177|89|0|5
+53|Quantum Computation and Lattice Problems.|Oded Regev|163|71|0|4
+54|On the Decidability of Self-Assembly of Infinite Ribbons.|Leonard M. Adleman,Jarkko Kari,Lila Kari,Dustin Reishus|58|14|0|3
+55|The Parameterized Complexity of Counting Problems.|Jörg Flum,Martin Grohe|144|74|0|3
+56|Dimension Reduction in the \ell _1 Norm.|Moses Charikar,Amit Sahai|n/a
+57|On Approximating the Radii of Point Sets in High Dimensions.|Kasturi R. Varadarajan,Srinivasan Venkatesh,Jiawei Zhang|11|2|0|2
+58|Low-Dimensional Linear Programming with Violations.|Timothy M. Chan|66|27|0|8
+59|Bounded-Depth Frege Lower Bounds for Weaker Pigeonhole Principles.|Josh Buresh-Oppenheim,Paul Beame,Toniann Pitassi,Ran Raz,Ashish Sabharwal|5|2|0|1
+60|Satisfiability, Branch-Width and Tseitin Tautologies.|Michael Alekhnovich,Alexander A. Razborov|49|15|0|2
+61|A Switching Lemma for Small Restrictions and Lower Bounds for k - DNF Resolution.|Nathan Segerlind,Samuel R. Buss,Russell Impagliazzo|77|34|0|8
+62|Dynamic Planar Convex Hull.|Gerth Stølting Brodal,Riko Jacob|153|70|0|2
+63|Optimal System of Loops on an Orientable Surface.|Éric Colin de Verdière,Francis Lazarus|83|35|0|9
+64|The Partition Technique for Overlays of Envelopes.|Vladlen Koltun,Micha Sharir|37|9|0|20
+65|A Dichotomy Theorem for Constraints on a Three-Element Set.|Andrei A. Bulatov|196|41|0|7
+66|Lower Bounds on the Bounded Coefficient Complexity of Bilinear Maps.|Peter Bürgisser,Martin Lotz|20|9|0|1
+67|Power from Random Strings.|Eric Allender,Harry Buhrman,Michal Koucký,Dieter van Melkebeek,Detlef Ronneburger|38|28|0|13
+68|Improved Dynamic Reachability Algorithms for Directed Graphs.|Liam Roditty,Uri Zwick|55|22|1|10
+69|Conflict-Free Colorings of Simple Geometric Regions with Applications to Frequency Assignment in Cellular Networks.|Guy Even,Zvi Lotker,Dana Ron,Shakhar Smorodinsky|148|81|0|23
+70|Global Information from Local Observation.|Itai Benjamini,László Lovász|14|3|0|6
+71|Rapidly Mixing Markov Chains for Sampling Contingency Tables with a Constant Number of Rows.|Mary Cryan,Martin E. Dyer,Leslie Ann Goldberg,Mark Jerrum,Russell A. Martin|39|15|0|8
+72|Spectral Gap and log-Sobolev Constant for Balanced Matroids.|Mark Jerrum,Jung-Bae Son|22|5|0|4
+73|Random Lattices and a Conjectured 0 - 1 Law about Their Polynomial Time Computable Properties.|Miklós Ajtai|27|13|0|3
+74|Graph Isomorphism is in SPP.|Vikraman Arvind,Piyush P. Kurur|62|13|0|6
+75|Kolmogorov's Structure Functions with an Application to the Foundations of Model Selection.|Nikolai K. Vereshchagin,Paul M. B. Vitányi|41|10|0|2
+76|Forbidden Information.|Leonid A. Levin|9|5|0|0
+77|The 3-XORSAT Threshold.|Olivier Dubois,Jacques Mandler|94|52|0|4
+78|The Asymptotic Order of the Random k -SAT Threshold.|Dimitris Achlioptas,Cristopher Moore|n/a
+79|On Random Symmetric Travelling Salesman Problems.|Alan M. Frieze|41|23|0|2
+80|Load Balancing with Memory.|Michael Mitzenmacher,Balaji Prabhakar,Devavrat Shah|48|25|0|2
+81|Erratum to "Vickrey Pricing and Shortest Paths: What is an Edge Worth?".|John Hershberger,Subhash Suri|222|87|1|4

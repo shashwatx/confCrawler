@@ -1,0 +1,68 @@
+67
+1|41st Annual Symposium on Foundations of Computer Science, FOCS 2000, 12-14 November 2000, Redondo Beach, California, USA.|n/a
+2|Entropy Waves, the Zig-Zag Graph Product, and New Constant-Degree Expanders and Extractors.|Omer Reingold,Salil P. Vadhan,Avi Wigderson|130|42|0|13
+3|Universality and Tolerance.|Noga Alon,Michael R. Capalbo,Yoshiharu Kohayakawa,Vojtech Rödl,Andrzej Rucinski,Endre Szemerédi|45|30|0|19
+4|Extracting Randomness via Repeated Condensing.|Omer Reingold,Ronen Shaltiel,Avi Wigderson|69|10|0|24
+5|Extracting Randomness from Samplable Distributions.|Luca Trevisan,Salil P. Vadhan|143|79|0|11
+6|Pseudorandom Generators in Propositional Proof Complexity.|Michael Alekhnovich,Eli Ben-Sasson,Alexander A. Razborov,Avi Wigderson|55|23|0|8
+7|Random graph models for the web graph.|Ravi Kumar,Prabhakar Raghavan,Sridhar Rajagopalan,D. Sivakumar,Andrew Tomkins,Eli Upfal|n/a
+8|Optimization Problems in Congestion Control.|Richard M. Karp,Elias Koutsoupias,Christos H. Papadimitriou,Scott Shenker|92|18|0|4
+9|Fairness Measures for Resource Allocation.|Amit Kumar,Jon M. Kleinberg|65|23|0|2
+10|On the Approximability of Trade-offs and Optimal Access of Web Sources.|Christos H. Papadimitriou,Mihalis Yannakakis|387|208|0|14
+11|How Bad is Selfish Routing?|Tim Roughgarden,Éva Tardos|1626|709|3|47
+12|A polylogarithmic approximation of the minimum bisection.|Uriel Feige,Robert Krauthgamer|152|53|0|10
+13|Approximability and in-approximability results for no-wait shop scheduling.|Maxim Sviridenko,Gerhard J. Woeginger|9|4|0|4
+14|Nested Graph Dissection and Approximation Algorithms.|Sudipto Guha|3|1|0|1
+15|Approximating the single source unsplittable min-cost flow problem.|Martin Skutella|69|24|0|10
+16|Hardness of Approximate Hypergraph Coloring.|Venkatesan Guruswami,Johan Håstad,Madhu Sudan|76|25|0|8
+17|"Soft-decision" Decoding of Chinese Remainder Codes.|Venkatesan Guruswami,Amit Sahai,Madhu Sudan|71|35|0|13
+18|Super-linear time-space tradeoff lower bounds for randomized computation.|Paul Beame,Michael E. Saks,Xiaodong Sun,Erik Vee|62|5|0|4
+19|On the Hardness of Graph Isomorphism.|Jacobo Torán|126|62|0|0
+20|Stable Distributions, Pseudorandom Generators, Embeddings and Data Stream Computation.|Piotr Indyk|327|81|8|29
+21|New Data Structures for Orthogonal Range Searching.|Stephen Alstrup,Gerth Stølting Brodal,Theis Rauhe|158|79|0|2
+22|Nearly Optimal Expected-Case Planar Point Location.|Sunil Arya,Theocharis Malamatos,David M. Mount|20|9|0|6
+23|On Levels in Arrangements of Curves.|Timothy M. Chan|46|13|0|4
+24|Detecting a Network Failure.|Jon M. Kleinberg|57|25|0|3
+25|Testing of Clustering.|Noga Alon,Seannie Dar,Michal Parnas,Dana Ron|95|28|0|18
+26|Testing of Functions that have small width Branching Programs.|Ilan Newman|25|3|0|5
+27|Testing that distributions are close.|Tugkan Batu,Lance Fortnow,Ronitt Rubinfeld,Warren D. Smith,Patrick White|159|99|0|27
+28|Using Upper Confidence Bounds for Online Learning.|Peter Auer|26|12|0|1
+29|Zaps and Their Applications.|Cynthia Dwork,Moni Naor|127|40|0|10
+30|Randomizing Polynomials: A New Representation with Applications to Round-Efficient Secure Computation.|Yuval Ishai,Eyal Kushilevitz|140|69|1|32
+31|Lower Bounds on the Efficiency of Generic Cryptographic Constructions.|Rosario Gennaro,Luca Trevisan|100|39|0|8
+32|Concurrent Oblivious Transfer.|Juan A. Garay,Philip D. MacKenzie|41|10|0|1
+33|The Relationship between Public Key Encryption and Oblivious Transfer.|Yael Gertner,Sampath Kannan,Tal Malkin,Omer Reingold,Mahesh Viswanathan|133|69|0|5
+34|The Online Median Problem.|Ramgopal R. Mettu,C. Greg Plaxton|180|56|0|3
+35|Polynomial Time Approximation Schemes for Geometric k-Clustering.|Rafail Ostrovsky,Yuval Rabani|61|27|0|0
+36|Clustering Data Streams.|Sudipto Guha,Nina Mishra,Rajeev Motwani,Liadan O'Callaghan|801|288|8|13
+37|On Clusterings - Good, Bad and Spectral.|Ravi Kannan,Santosh Vempala,Adrian Vetta|1003|515|4|16
+38|Fully Dynamic Transitive Closure: Breaking Through the O(n2) Barrier.|Camil Demetrescu,Giuseppe F. Italiano|98|30|0|16
+39|Opportunistic Data Structures with Applications.|Paolo Ferragina,Giovanni Manzini|709|451|2|19
+40|Cache-Oblivious B-Trees.|Michael A. Bender,Erik D. Demaine,Martin Farach-Colton|193|41|4|25
+41|Using Expander Graphs to Find Vertex Connectivity.|Harold N. Gabow|21|4|0|1
+42|On the boundary complexity of the union of fat triangles.|János Pach,Gábor Tardos|37|15|0|4
+43|Straighting Polygonal Arcs and Convexifying Polygonal Cycles.|Robert Connelly,Erik D. Demaine,Günter Rote|n/a
+44|A Combinatorial Approach to Planar Non-colliding Robot Arm Motion Planning.|Ileana Streinu|179|36|0|22
+45|Topological Persistence and Simplification.|Herbert Edelsbrunner,David Letscher,Afra Zomorodian|932|600|0|71
+46|The Cover Time, the Blanket Time, and the Matthews Bound.|Jeff Kahn,Jeong Han Kim,László Lovász,Van H. Vu|43|26|0|0
+47|The product replacement algorithm is polynomial.|Igor Pak|49|24|0|6
+48|Efficient Algorithms for Universal Portfolios.|Adam Kalai,Santosh Vempala|99|52|1|13
+49|Sampling Adsorbing Staircase Walks Using a New Markov Chain Decomposition Method.|Russell A. Martin,Dana Randall|44|11|0|8
+50|The Randomness Recycler: A New Technique for Perfect Sampling.|James Allen Fill,Mark Huber|14|2|0|2
+51|An Improved Quantum Fourier Transform Algorithm and Applications.|Lisa Hales,Sean Hallgren|90|27|0|5
+52|Fast parallel circuits for the quantum Fourier transform.|Richard Cleve,John Watrous|139|53|0|3
+53|Succinct quantum proofs for properties of finite groups.|John Watrous|146|56|0|4
+54|Private Quantum Channels.|Andris Ambainis,Michele Mosca,Alain Tapp,Ronald de Wolf|148|72|2|4
+55|The Quantum Complexity of Set Membership.|Jaikumar Radhakrishnan,Pranab Sen,Srinivasan Venkatesh|11|3|0|0
+56|Randomized Rumor Spreading.|Richard M. Karp,Christian Schindelhauer,Scott Shenker,Berthold Vöcking|549|295|3|5
+57|Fast Broadcasting and Gossiping in Radio Networks.|Marek Chrobak,Leszek Gasieniec,Wojciech Rytter|251|89|2|16
+58|Linear Waste of Best Fit Bin Packing on Skewed Distributions.|Claire Kenyon,Michael Mitzenmacher|14|4|0|1
+59|Optimal myopic algorithms for random 3-SAT.|Dimitris Achlioptas,Gregory B. Sorkin|111|21|0|15
+60|Hierarchical Placement and Network Design Problems.|Sudipto Guha,Adam Meyerson,Kamesh Munagala|135|40|0|15
+61|Building Steiner Trees with Incomplete Global Knowledge.|David R. Karger,Maria Minkoff|155|66|0|2
+62|Cost-Distance: Two Metric Network Design.|Adam Meyerson,Kamesh Munagala,Serge A. Plotkin|109|30|1|10
+63|Combinatorial feature selection problems.|Moses Charikar,Venkatesan Guruswami,Ravi Kumar,Sridhar Rajagopalan,Amit Sahai|32|14|1|0
+64|The Common Fragment of CTL and LTL.|Monika Maidl|117|39|4|0
+65|On the Existence of Booster Types.|Maurice Herlihy,Eric Ruppert|9|2|0|2
+66|Existential Second-Order Logic over Graphs: Charting the Tractability Frontier.|Georg Gottlob,Phokion G. Kolaitis,Thomas Schwentick|39|12|0|4
+67|Computing the Determinant and Smith Form of an Integer Matrix.|Wayne Eberly,Mark Giesbrecht,Gilles Villard|87|26|0|13

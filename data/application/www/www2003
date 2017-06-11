@@ -1,0 +1,79 @@
+78
+1|Proceedings of the Twelfth International World Wide Web Conference, WWW 2003, Budapest, Hungary, May 20-24, 2003.|Gusztáv Hencsey,Bebo White,Yih-Farn Robin Chen,László Kovács,Steve Lawrence|n/a
+2|Query-free news search.|Monika Rauch Henzinger,Bay-Wei Chang,Brian Milch,Sergey Brin|220|92|30|0
+3|Improving pseudo-relevance feedback in web information retrieval using web page segmentation.|Shipeng Yu,Deng Cai,Ji-Rong Wen,Wei-Ying Ma|336|121|19|31
+4|Predictive caching and prefetching of query results in search engines.|Ronny Lempel,Shlomo Moran|217|117|20|8
+5|Model-theoretic semantics for the web.|James Farrugia|37|9|0|0
+6|Three theses of representation in the semantic web.|Ian Horrocks,Peter F. Patel-Schneider|132|25|0|5
+7|Description logic programs: combining logic programs with description logic.|Benjamin N. Grosof,Ian Horrocks,Raphael Volz,Stefan Decker|1126|389|11|57
+8|Dynamic service reconfiguration for wireless web access.|Siu Nam Chuang,Alvin T. S. Chan,Jiannong Cao,Ronnie Cheung|26|5|0|14
+9|Web browsing performance of wireless thin-client computing.|S. Jae Yang,Jason Nieh,Shilpa Krishnappa,Aparna Mohla,Mahdi Sajjadpour|26|5|1|5
+10|Sensor-enhanced mobile web clients: an XForms approach.|John J. Barton,Tim Kindberg,Hui Dai,Nissanka Bodhi Priyantha,Fahd Al-Bin-Ali|26|5|3|1
+11|Text joins in an RDBMS for web data integration.|Luis Gravano,Panagiotis G. Ipeirotis,Nick Koudas,Divesh Srivastava|303|83|12|6
+12|Dynamic maintenance of web indexes using landmarks.|Lipyeow Lim,Min Wang,Sriram Padmanabhan,Jeffrey Scott Vitter,Ramesh C. Agarwal|61|20|8|2
+13|High-performance spatial indexing for location-based services.|Jussi Myllymaki,James H. Kaufman|26|6|0|1
+14|Efficient and robust streaming provisioning in VPNs.|Zhuoqing Morley Mao,David Johnson,Oliver Spatscheck,Jacobus E. van der Merwe,Jia Wang|14|1|0|0
+15|On admission control for profit maximization of networked service providers.|Akshat Verma,Sugata Ghosal|45|10|0|4
+16|Design, implementation, and evaluation of a client characterization driven web server.|Balachander Krishnamurthy,Yin Zhang,Craig E. Wills,Kashi Venkatesh Vishwanath|11|1|1|2
+17|Web application security assessment by fault injection and behavior monitoring.|Yao-Wen Huang,Shih-Kun Huang,Tsung-Po Lin,Chung-Hung Tsai|348|224|4|4
+18|The HP time vault service: exploiting IBE for timed release of confidential information.|Marco Casassa Mont,Keith Harrison,Martin Sadler|41|7|2|2
+19|Content extraction signatures using XML digital signatures and custom transforms on-demand.|Laurence Bull,Peter Stañski,David Squire|42|14|1|4
+20|SemTag and seeker: bootstrapping the semantic web via automated semantic annotation.|Stephen Dill,Nadav Eiron,David Gibson,Daniel Gruhl,Ramanathan V. Guha,Anant Jhingran,Tapas Kanungo,Sridhar Rajagopalan,Andrew Tomkins,John A. Tomlin,Jason Y. Zien|573|206|1|8
+21|Data extraction and label assignment for web databases.|Jiying Wang,Frederick H. Lochovsky|419|230|9|5
+22|The chatty web: emergent semantics through gossiping.|Karl Aberer,Philippe Cudré-Mauroux,Manfred Hauswirth|221|43|0|16
+23|DOM-based content extraction of HTML documents.|Suhit Gupta,Gail E. Kaiser,David Neistadt,Peter Grimm|415|202|5|9
+24|Fractal summarization for mobile devices to access large documents on the web.|Christopher C. Yang,Fu Lee Wang|65|22|3|3
+25|Detecting web page structure for adaptive viewing on small form factor devices.|Yu Chen,Wei-Ying Ma,HongJiang Zhang|396|146|26|12
+26|Supporting management reporting: a writable web case study.|Timothy Miles-Board,Les Carr,Simon Kampa,Wendy Hall|21|3|0|2
+27|Scholarly publishing and argument in hyperspace.|Enrico Motta|41|6|0|5
+28|Mining topic-specific concepts and definitions on the web.|Bing Liu,Chee Wee Chin,Hwee Tou Ng|204|63|6|5
+29|Extrapolation methods for accelerating PageRank computations.|Sepandar D. Kamvar,Taher H. Haveliwala,Christopher D. Manning,Gene H. Golub|456|176|16|10
+30|Scaling personalized web search.|Glen Jeh,Jennifer Widom|1003|570|50|8
+31|Adaptive on-line page importance computation.|Serge Abiteboul,Mihai Preda,Gregory Cobena|267|122|1|8
+32|SHOCK: communicating with computational messages and automatic private profiles.|Rajan M. Lukose,Eytan Adar,Joshua R. Tyler,Caesar Sengupta|22|8|5|1
+33|P2Cast: peer-to-peer patching scheme for VoD service.|Yang Guo,Kyoungwon Suh,James F. Kurose,Donald F. Towsley|488|182|13|5
+34|DNS-enhanced web for faster content delivery.|Balachander Krishnamurthy,Richard Liston,Michael Rabinovich|12|2|0|1
+35|A system for principled matchmaking in an electronic marketplace.|Tommaso Di Noia,Eugenio Di Sciascio,Francesco M. Donini,Marina Mongiello|220|42|0|22
+36|A software framework for matchmaking based on semantic web technology.|Lei Li,Ian Horrocks|1087|323|19|12
+37|SweetDeal: representing agent contracts with exceptions using XML rules, ontologies, and process descriptions.|Benjamin N. Grosof,Terrence C. Poon|186|42|13|7
+38|A new paradigm for ranking pages on the world wide web.|John A. Tomlin|130|42|10|2
+39|Adaptive ranking of web pages.|Ah Chung Tsoi,Gianni Morini,Franco Scarselli,Markus Hagenbuchner,Marco Maggini|54|19|1|8
+40|Searching the workplace web.|Ronald Fagin,Ravi Kumar,Kevin S. McCurley,Jasmine Novak,D. Sivakumar,John A. Tomlin,David P. Williamson|187|66|24|5
+41|Peer-to-peer architecture for content-based music retrieval on acoustic data.|Cheng Yang|34|8|0|0
+42|Towards a multimedia formatting vocabulary.|Jacco van Ossenbruggen,Lynda Hardman,Joost Geurts,Lloyd Rutledge|38|5|0|1
+43|Architecture of a quality based intelligent proxy (QBIX) for MPEG-4 videos.|Peter Schojer,László Böszörményi,Hermann Hellwagner,Bernhard Penz,Stefan Podlipnig|55|8|1|13
+44|Conversation specification: a new approach to design and analysis of e-service composition.|Tevfik Bultan,Xiang Fu,Richard Hull,Jianwen Su|475|130|1|43
+45|Quality driven web services composition.|Liangzhao Zeng,Boualem Benatallah,Marlon Dumas,Jayant Kalagnanam,Quan Z. Sheng|1313|679|4|16
+46|A foundation for tool based mobility support for visually impaired web users.|Yeliz Yesilada,Robert Stevens,Carole A. Goble|47|7|0|12
+47|On deep annotation.|Siegfried Handschuh,Steffen Staab,Raphael Volz|176|36|0|13
+48|An infrastructure for searching, reusing and evolving distributed ontologies.|Alexander Maedche,Boris Motik,Ljiljana Stojanovic,Rudi Studer,Raphael Volz|158|38|1|4
+49|Application specific data replication for edge services.|Lei Gao,Michael Dahlin,Amol Nayate,Jiandan Zheng,Arun Iyengar|118|36|10|5
+50|Evaluation of edge caching/offloading for dynamic content delivery.|Chun Yuan,Yu Chen,Zheng Zhang|54|16|1|1
+51|Modeling redirection in geographically diverse server sets.|Lisa Amini,Anees Shaikh,Henning Schulzrinne|16|0|2|2
+52|Offering open hypermedia services to the WWW: a step-by-step approach for developers.|Nikos Karousos,Ippokratis Pandis,Siegfried Reich,Manolis Tzagarakis|24|4|0|7
+53|Xspect: bridging open hypermedia and XLink.|Bent Guldbjerg Christensen,Frank Allan Hansen,Niels Olof Bouvin|31|7|0|6
+54|The XML web: a first study.|Laurent Mignet,Denilson Barbosa,Pierangelo Veltri|169|33|0|3
+55|A matrix density based algorithm to hierarchically co-cluster documents and words.|Bhushan Mandhani,Sachindra Joshi,Krishna Kummamuru|57|24|0|2
+56|Mining the peanut gallery: opinion extraction and semantic classification of product reviews.|Kushal Dave,Steve Lawrence,David M. Pennock|1677|1120|23|0
+57|Mining newsgroups using networks arising from social behavior.|Rakesh Agrawal,Sridhar Rajagopalan,Ramakrishnan Srikant,Yirong Xu|228|125|2|0
+58|Super-peer-based routing and clustering strategies for RDF-based peer-to-peer networks.|Wolfgang Nejdl,Martin Wolpers,Wolf Siberski,Christoph Schmitz,Mario T. Schlosser,Ingo Brunkhorst,Alexander Löser|408|87|4|22
+59|On labeling schemes for the semantic web.|Vassilis Christophides,Dimitris Plexousakis,Michel Scholl,Sotirios Tourtounis|119|35|0|11
+60|Piazza: data management infrastructure for semantic web applications.|Alon Y. Halevy,Zachary G. Ives,Peter Mork,Igor Tatarinov|446|94|0|10
+61|On the bursty evolution of blogspace.|Ravi Kumar,Jasmine Novak,Prabhakar Raghavan,Andrew Tomkins|704|335|3|10
+62|Make it fresh, make it quick: searching a network of personal webservers.|Mayank Bawa,Roberto J. Bayardo Jr.,Sridhar Rajagopalan,Eugene J. Shekita|75|12|3|5
+63|Engineering and hosting adaptive freshness-sensitive web applications on data centers.|Wen-Syan Li,Oliver Po,Wang-Pin Hsiung,K. Selçuk Candan,Divyakant Agrawal|29|6|0|3
+64|Evaluating a new approach to strong web cache consistency with snapshots of collected content.|Mikhail Mikhailov,Craig E. Wills|31|4|1|1
+65|Scalable techniques for memory-efficient CDN simulations.|Purushottam Kulkarni,Prashant J. Shenoy,Weibo Gong|13|6|2|0
+66|Value-based web caching.|Sean C. Rhea,Kevin Liang,Eric A. Brewer|134|71|17|1
+67|An SPath-based preference language for P3P.|Rakesh Agrawal,Jerry Kiernan,Ramakrishnan Srikant,Yirong Xu|n/a
+68|The Eigentrust algorithm for reputation management in P2P networks.|Sepandar D. Kamvar,Mario T. Schlosser,Hector Garcia-Molina|4021|2100|31|6
+69|Similarity measure and instance selection for collaborative filtering.|Chun Zeng,Chun-Xiao Xing,Li-Zhu Zhou|123|61|0|1
+70|Monitoring the dynamic web to respond to continuous queries.|Sandeep Pandey,Krithi Ramamritham,Soumen Chakrabarti|75|26|3|3
+71|A large-scale study of the evolution of web pages.|Dennis Fetterly,Mark Manasse,Marc Najork,Janet L. Wiener|430|197|13|9
+72|Efficient URL caching for world wide web crawling.|Andrei Z. Broder,Marc Najork,Janet L. Wiener|107|52|1|2
+73|?-Queries: enabling querying for semantic associations on the semantic web.|Kemafor Anyanwu,Amit P. Sheth|248|110|2|16
+74|Semantic search.|Ramanathan V. Guha,Rob McCool,Eric Miller|773|369|7|6
+75|Agent-based semantic web services.|Nicholas Gibbins,Stephen Harris,Nigel Shadbolt|209|52|4|5
+76|A framework for coordinated multi-modal browsing with multiple clients.|Alistair N. Coles,Eric Deliot,Tom Melamed,Kevin Lansard|40|13|5|0
+77|A comparative web browser (CWB) for browsing and comparing web pages.|Akiyo Nadamoto,Katsumi Tanaka|65|18|3|8
+78|Comparing link marker visualization techniques: changes in reading behavior.|Hartmut Obendorf,Harald Weinreich|38|1|0|3

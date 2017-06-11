@@ -1,0 +1,125 @@
+124
+1|VLDB 2003, Proceedings of 29th International Conference on Very Large Data Bases, September 9-12, 2003, Berlin, Germany.|Johann Christoph Freytag,Peter C. Lockemann,Serge Abiteboul,Michael J. Carey,Patricia G. Selinger,Andreas Heuer|n/a
+2|A Nanotechnology-based Approach to Data Storage.|Evangelos Eleftheriou,Peter Bächtold,Giovanni Cherubini,Ajay Dholakia,Christoph Hagleitner,T. Loeliger,Aggeliki Pantazi,Haralampos Pozidis,T. R. Albrecht,Gerd Karl Binnig,Michel Despont,Ute Drechsler,Urs Dürig,Bernd Gotsmann,Daniel Jubin,Walter Häberle,Mark A. Lantz,Hugo E. Rothuizen,Richard Stutz,Peter Vettiger,Dorothea Wiesmann|21|5|2|5
+3|Integrating Information for On Demand Computing.|Nelson Mendonça Mattos|23|5|3|0
+4|The Data-Centric Revolution in Networking.|Scott Shenker|15|6|0|0
+5|The History of Histograms (abridged).|Yannis E. Ioannidis|346|187|18|0
+6|Complex Queries over Web Repositories.|Sriram Raghavan,Hector Garcia-Molina|41|11|13|1
+7|XSEarch: A Semantic Search Engine for XML.|Sara Cohen,Jonathan Mamou,Yaron Kanza,Yehoshua Sagiv|656|331|5|9
+8|An Efficient and Resilient Approach to Filtering and Disseminating Streaming Data.|Shetal Shah,Shyamshankar Dharmarajan,Krithi Ramamritham|56|12|0|5
+9|Efficient Mining of XML Query Patterns for Caching.|Liang Huai Yang,Mong-Li Lee,Wynne Hsu|133|39|0|3
+10|A Framework for Clustering Evolving Data Streams.|Charu C. Aggarwal,Jiawei Han,Jianyong Wang,Philip S. Yu|1431|918|10|69
+11|A Regression-Based Temporal Pattern Mining Scheme for Data Streams.|Wei-Guang Teng,Ming-Syan Chen,Philip S. Yu|160|42|2|9
+12|On the Costs of Multilingualism in Database Systems.|A. Kumaran,Jayant R. Haritsa|n/a
+13|Distributed Top-N Query Processing with Possibly Uncooperative Local Systems.|Clement T. Yu,George Philip,Weiyi Meng|49|15|0|3
+14|Optimized Query Execution in Large Search Engines with Global Page Ordering.|Xiaohui Long,Torsten Suel|135|55|8|11
+15|Path Queries on Compressed XML.|Peter Buneman,Martin Grohe,Christoph Koch|203|63|1|8
+16|On the minimization of Xpath queries.|Sergio Flesca,Filippo Furfaro,Elio Masciari|79|14|2|0
+17|Covering Indexes for XML Queries: Bisimulation - Simulation = Negation.|Prakash Ramanan|46|12|0|5
+18|Phrase Matching in XML.|Sihem Amer-Yahia,Mary F. Fernández,Divesh Srivastava,Yu Xu|25|9|0|3
+19|RRXF: Redundancy reducing XML storage in relations.|Yi Chen,Susan B. Davidson,Carmem S. Hara,Yifeng Zheng|69|29|0|5
+20|MARS: A System for Publishing XML from Mixed and Redundant Storage.|Alin Deutsch,Val Tannen|139|41|0|19
+21|Projecting XML Documents.|Amélie Marian,Jérôme Siméon|187|56|1|3
+22|Mixed Mode XML Query Processing.|Alan Halverson,Josef Burger,Leonidas Galanis,Ameet Kini,Rajasekar Krishnamurthy,Ajith Nagaraja Rao,Feng Tian,Stratis Viglas,Yuan Wang,Jeffrey F. Naughton,David J. DeWitt|115|26|1|1
+23|From Tree Patterns to Generalized Tree Patterns: On Efficient Evaluation of XQuery.|Zhimin Chen,H. V. Jagadish,Laks V. S. Lakshmanan,Stelios Paparizos|159|45|2|2
+24|Efficient Processing of Expressive Node-Selecting Queries on XML Data in Secondary Storage: A Tree Automata-based Approach.|Christoph Koch|83|26|1|9
+25|Query Processing for High-Volume XML Message Brokering.|Yanlei Diao,Michael J. Franklin|123|34|11|5
+26|Holistic Twig Joins on Indexed XML Documents.|Haifeng Jiang,Wei Wang,Hongjun Lu,Jeffrey Xu Yu|364|127|5|12
+27|Maximizing the Output Rate of Multi-Way Join Queries over Streaming Information Sources.|Stratis Viglas,Jeffrey F. Naughton,Josef Burger|289|110|5|2
+28|Scheduling for shared window joins over data streams.|Moustafa A. Hammad,Michael J. Franklin,Walid G. Aref,Ahmed K. Elmagarmid|181|47|0|8
+29|Load Shedding in a Data Stream Manager.|Nesime Tatbul,Ugur Çetintemel,Stanley B. Zdonik,Mitch Cherniack,Michael Stonebraker|597|229|12|26
+30|Querying the Internet with PIER.|Ryan Huebsch,Joseph M. Hellerstein,Nick Lanham,Boon Thau Loo,Scott Shenker,Ion Stoica|660|151|12|21
+31|Tuple Routing Strategies for Distributed Eddies.|Feng Tian,David J. DeWitt|122|39|1|0
+32|AQuery: Query Language for Ordered Data, Optimization Techniques, and Experiments.|Alberto Lerner,Dennis Shasha|99|42|1|1
+33|WISE-Integrator: An Automatic Integrator of Web Search Interfaces for E-Commerce.|Hai He,Weiyi Meng,Clement T. Yu,Zonghuan Wu|174|65|2|16
+34|SASH: A Self-Adaptive Histogram Set for Dynamically Changing Workloads.|Lipyeow Lim,Min Wang,Jeffrey Scott Vitter|40|14|0|2
+35|VIPAS: Virtual Link Powered Authority Search in the Web.|Chi-Chun Lin,Ming-Syan Chen|6|0|0|0
+36|Balancing Performance and Data Freshness in Web Database Servers.|Alexandros Labrinidis,Nick Roussopoulos|50|6|1|3
+37|Buffering Accesses to Memory-Resident Index Structures.|Jingren Zhou,Kenneth A. Ross|72|26|1|7
+38|Data Morphing: An Adaptive, Cache-Conscious Storage Technique.|Richard A. Hankins,Jignesh M. Patel|86|59|0|3
+39|COMBI-Operator: Database Support for Data Mining Applications.|Alexander Hinneburg,Wolfgang Lehner,Dirk Habich|22|9|0|5
+40|A Shrinking-Based Approach for Multi-Dimensional Data Analysis.|Yong Shi,Yuqing Song,Aidong Zhang|42|20|0|6
+41|Data Bubbles for Non-Vector Data: Speeding-up Hierarchical Clustering in Arbitrary Metric Spaces.|Jianjun Zhou,Jörg Sander|26|8|0|2
+42|Finding Hierarchical Heavy Hitters in Data Streams.|Graham Cormode,Flip Korn,S. Muthukrishnan,Divesh Srivastava|143|72|6|9
+43|Star-Cubing: Computing Iceberg Cubes by Top-Down and Bottom-Up Integration.|Dong Xin,Jiawei Han,Xiaolei Li,Benjamin W. Wah|168|66|0|18
+44|Coarse-Grained Optimization: Techniques for Rewriting SQL Statement Sequences.|Tobias Kraft,Holger Schwarz,Ralf Rantzau,Bernhard Mitschang|18|6|0|8
+45|Processing Sliding Window Multi-Joins in Continuous Queries over Data Streams.|Lukasz Golab,M. Tamer Özsu|301|94|2|10
+46|Continuous K-Nearest Neighbor Queries for Continuously Moving Points with Updates.|Glenn S. Iwerks,Hanan Samet,Kenneth P. Smith|199|86|0|3
+47|Staircase Join: Teach a Relational DBMS to Watch its (Axis) Steps.|Torsten Grust,Maurice van Keulen,Jens Teubner|208|55|0|27
+48|Checks and Balances: Monitoring Data Quality Problems in Network Traffic Databases.|Flip Korn,S. Muthukrishnan,Yunyue Zhu|28|14|2|6
+49|Systematic Development of Data Mining-Based Data Quality Tools.|Dominik Lübbers,Udo Grimmer,Matthias Jarke|61|36|0|1
+50|Adaptive, Hands-Off Stream Mining.|Spiros Papadimitriou,Anthony Brockwell,Christos Faloutsos|135|60|1|19
+51|Composing Mappings Among Data Sources.|Jayant Madhavan,Alon Y. Halevy|284|94|0|4
+52|Mapping Adaptation under Evolving Schemas.|Yannis Velegrakis,Renée J. Miller,Lucian Popa|140|48|2|15
+53|Locking Protocols for Materialized Aggregate Join Views.|Gang Luo,Jeffrey F. Naughton,Curt J. Ellmann,Michael Watzke|36|26|5|8
+54|Supporting Frequent Updates in R-Trees: A Bottom-Up Approach.|Mong-Li Lee,Wynne Hsu,Christian S. Jensen,Bin Cui,Keng Lik Teo|216|79|0|15
+55|The ND-Tree: A Dynamic Indexing Technique for Multidimensional Non-ordered Discrete Data Spaces.|Gang Qian,Qiang Zhu,Qiang Xue,Sakti Pramanik|28|7|0|14
+56|Temporal Slicing in the Evaluation of XML Queries.|Dengfeng Gao,Richard T. Snodgrass|101|38|0|10
+57|The Generalized Pre-Grouping Transformation: Aggregate-Query Optimization in the Presence of Dependencies.|Aris Tsois,Timos K. Sellis|21|4|1|4
+58|Estimating the Output Cardinality of Partial Preaggregation with a Measure of Clusteredness.|Sven Helmer,Thomas Neumann,Guido Moerkotte|9|5|0|2
+59|BHUNT: Automatic Discovery of Fuzzy Algebraic Constraints in Relational Data.|Paul Brown,Peter J. Haas|57|27|4|3
+60|Tabular Placement of Relational Data on MEMS-based Storage Devices.|Hailing Yu,Divyakant Agrawal,Amr El Abbadi|43|3|1|3
+61|Memory Requirements for Query Execution in Highly Constrained Devices.|Nicolas Anciaux,Luc Bouganim,Philippe Pucheral|25|9|0|9
+62|Lachesis: Robust Database Storage Management Based on Device-specific Performance Characteristics.|Jiri Schindler,Anastassia Ailamaki,Gregory R. Ganger|37|10|0|15
+63|Cache Tables: Paving the Way for an Adaptive Database Cache.|Mehmet Altinel,Christof Bornhövd,Sailesh Krishnamurthy,C. Mohan,Hamid Pirahesh,Berthold Reinwald|146|47|7|5
+64|Primitives for Workload Summarization and Implications for SQL.|Surajit Chaudhuri,Prasanna Ganesan,Vivek R. Narasayya|20|12|0|1
+65|A Dependability Benchmark for OLTP Application Environments.|Marco Vieira,Henrique Madeira|91|51|0|31
+66|Supporting Top-k Join Queries in Relational Databases.|Ihab F. Ilyas,Walid G. Aref,Ahmed K. Elmagarmid|395|214|1|18
+67|AniPQO: Almost Non-intrusive Parametric Query Optimization for Nonlinear Cost Functions.|Arvind Hulgeri,S. Sudarshan|54|20|1|3
+68|Efficient Approximation Of Optimization Queries Under Parametric Aggregation Constraints.|Sudipto Guha,Dimitrios Gunopulos,Nick Koudas,Divesh Srivastava,Michail Vlachos|34|11|0|0
+69|The TPR*-Tree: An Optimized Spatio-Temporal Access Method for Predictive Queries.|Yufei Tao,Dimitris Papadias,Jimeng Sun|645|282|0|14
+70|Query Processing in Spatial Network Databases.|Dimitris Papadias,Jun Zhang,Nikos Mamoulis,Yufei Tao|633|366|7|24
+71|Multiscale Histograms: Summarizing Topological Relations in Large Spatial Datasets.|Xuemin Lin,Qing Liu,Yidong Yuan,Xiaofang Zhou|17|3|0|4
+72|Avoiding Ordering and Grouping In Query Processing.|Xiaoyu Wang,Mitch Cherniack|n/a
+73|Operator Scheduling in a Data Stream Manager.|Donald Carney,Ugur Çetintemel,Alex Rasin,Stanley B. Zdonik,Mitch Cherniack,Michael Stonebraker|270|86|5|3
+74|Efficient IR-Style Keyword Search over Relational Databases.|Vagelis Hristidis,Luis Gravano,Yannis Papakonstantinou|572|325|5|16
+75|Merging Models Based on Given Correspondences.|Rachel Pottinger,Philip A. Bernstein|306|108|4|14
+76|Locating Data Sources in Large Distributed Systems.|Leonidas Galanis,Yuan Wang,Shawn R. Jeffery,David J. DeWitt|178|47|0|3
+77|Robust Estimation With Sampling and Approximate Pre-Aggregation.|Chris Jermaine|21|7|0|3
+78|Controlling Access to Published Data Using Cryptography.|Gerome Miklau,Dan Suciu|316|159|7|6
+79|OASIS: An Online and Accurate Technique for Local-alignment Searches on Biological Sequences.|Colin Meek,Jignesh M. Patel,Shruti Kasetty|116|45|0|4
+80|Privacy-Preserving Indexing of Documents on the Network.|Mayank Bawa,Roberto J. Bayardo Jr.,Rakesh Agrawal|67|18|0|2
+81|Data Compression in Oracle.|Meikel Pöss,Dmitry Potapov|103|53|11|1
+82|Improving Performance with Bulk-Inserts in Oracle R-Trees.|Ning An,Kothuri Venkata Ravi Kanth,Siva Ravada|23|8|2|3
+83|Statistics on Views.|César A. Galindo-Legaria,Milind Joshi,Florian Waas,Ming-Chuan Wu|23|5|1|1
+84|Efficient Query Processing for Multi-Dimensionally Clustered Tables in DB2.|Bishwaranjan Bhattacharjee,Sriram Padmanabhan,Timothy Malkemus,Tony Lai,Leslie Cranston,Matthew Huras|28|11|2|4
+85|A Platform Based on the Multi-dimensional Data Model for Analysis of Bio-Molecular Structures.|Srinath Srinivasa,Sujit Kumar|24|5|0|1
+86|Capturing Global Transactions from Multiple Recovery Log Files in a Partitioned Database System.|Chengfei Liu,Bruce G. Lindsay,Serge Bourbonnais,Elizabeth Hamel,Tuong C. Truong,Jens Stankiewitz|7|2|0|0
+87|The BEA/XQRL Streaming XQuery Processor.|Daniela Florescu,Chris Hillery,Donald Kossmann,Paul Lucas,Fabio Riccardi,Till Westmann,Michael J. Carey,Arvind Sundararajan,Geetika Agrawal|147|44|20|8
+88|XML Schemas in Oracle XML DB.|Ravi Murthy,Sandeepan Banerjee|70|30|24|9
+89|Integrated Data Management for Mobile Services in the Real World.|Christian Hage,Christian S. Jensen,Torben Bach Pedersen,Laurynas Speicys,Igor Timko|69|21|0|28
+90|Web Services (Industrial Session).|Felipe Cabrera|0|0|0|0
+91|Grid and Applications (Industrial Session).|Frank Leymann|0|0|0|0
+92|Commercial Use of Database Technology.|Harald Schöning|0|0|0|0
+93|The Zero-Delay Data Warehouse: Mobilizing Heterogeneous Databases.|eva Kühn|n/a
+94|A Database Striptease or How to Manage Your Personal Databases.|Martin L. Kersten,Gerhard Weikum,Michael J. Franklin,Daniel A. Keim,Alejandro P. Buchmann,Surajit Chaudhuri|21|3|0|1
+95|Who needs XML Databases?|Sophie Cluet|1|1|0|0
+96|Illuminating the Dark Side of Web Services.|Michael L. Brodie|12|3|0|0
+97|Xcerpt and visXcerpt: From Pattern-Based to Visual Querying of XML and Semistructured Data.|Sacha Berger,François Bry,Sebastian Schaffert,Christoph Wieser|71|12|0|31
+98|OrientStore: A Schema Based Native XML Storage System.|Xiaofeng Meng,Daofeng Luo,Mong-Li Lee,Jing An|42|6|0|1
+99|Managing Distributed Workspaces with Active XML.|Serge Abiteboul,Jérôme Baumgarten,Angela Bonifati,Gregory Cobena,Cosmin Cremarenco,Florin Dragan,Ioana Manolescu,Tova Milo,Nicoleta Preda|20|12|0|2
+100|Xquec: Pushing Queries to Compressed XML Data.|Andrei Arion,Angela Bonifati,Gianni Costa,Sandra D'Aguanno,Ioana Manolescu,Andrea Pugliese|63|27|1|3
+101|A System for Keyword Proximity Search on XML Databases.|Andrey Balmin,Vagelis Hristidis,Nick Koudas,Yannis Papakonstantinou,Divesh Srivastava,Tianqiu Wang|41|11|0|0
+102|XISS/R: XML Indexing and Storage System using RDBMS.|Philip J. Harding,Quanzhong Li,Bongki Moon|39|13|0|2
+103|Implementing Xquery 1.0: The Galax Experience.|Mary F. Fernández,Jérôme Siméon,Byron Choi,Amélie Marian,Gargi Sur|104|33|9|4
+104|WebService Composition with O'GRAPE and OSIRIS.|Roger Weber,Christoph Schuler,Patrick Neukomm,Heiko Schuldt,Hans-Jörg Schek|34|10|0|6
+105|Chameleon: an Extensible and Customizable Tool for Web Data Translation.|Riccardo Torlone,Paolo Atzeni|6|0|0|2
+106|NexusScout: An Advanced Location-Based Application on a Distributed, Open Mediation Platform.|Daniela Nicklas,Matthias Großmann,Thomas Schwarz|13|5|0|5
+107|Schema-driven Customization of Web Services.|Serge Abiteboul,Bernd Amann,Jérôme Baumgarten,Omar Benjelloun,Frederic Dang Ngoc,Tova Milo|13|2|0|3
+108|BibFinder/StatMiner: Effectively Mining and Using Coverage and Overlap Statistics in Data Integration.|Zaiqing Nie,Subbarao Kambhampati,Thomas Hernandez|24|4|0|8
+109|S-ToPSS: Semantic Toronto Publish/Subscribe System.|Milenko Petrovic,Ioana Burcea,Hans-Arno Jacobsen|128|62|4|18
+110|From Focused Crawling to Expert Information: an Application Framework for Web Exploration and Portal Generation.|Sergej Sizov,Jens Graupmann,Martin Theobald|19|6|0|0
+111|CachePortal II: Acceleration of Very Large Scale Data Center-Hosted Database-driven Web Applications.|Wen-Syan Li,Oliver Po,Wang-Pin Hsiung,K. Selçuk Candan,Divyakant Agrawal,Yusuf Akca,Kunihiro Taniguchi|23|5|1|2
+112|ATLAS: A Small but Complete SQL Extension for Data Mining and Data Streams.|Haixun Wang,Carlo Zaniolo,Chang Luo|79|48|0|3
+113|Business Modelling Using SQL Spreadsheets.|Andrew Witkowski,Srikanth Bellamkonda,Tolga Bozkaya,Nathan Folkert,Abhinav Gupta,Lei Sheng,Sankar Subramanian|16|6|2|1
+114|An Interpolated Volume Data Model.|Tianqiu Wang,Simone Santini,Amarnath Gupta|0|0|0|0
+115|Efficacious Data Cube Exploration by Semantic Summarization and Compression.|Laks V. S. Lakshmanan,Jian Pei,Yan Zhao|9|9|0|0
+116|QUIET: Continuous Query-driven Index Tuning.|Kai-Uwe Sattler,Ingolf Geist,Eike Schallehn|50|21|2|11
+117|Chip-Secured Data Access: Reconciling Access Rights with Data Encryption.|Luc Bouganim,François Dang Ngoc,Philippe Pucheral,Lilan Wu|19|4|0|4
+118|IrisNet: An Architecture for Internet-scale Sensing Services.|Suman Nath,Amol Deshpande,Yan Ke,Phillip B. Gibbons,Brad Karp,Srinivasan Seshan|18|9|0|1
+119|Large-Scale, Standards-Based Earth Observation Imagery and Web Mapping Services.|Peter Baumann|1|0|0|0
+120|Privacy-Enhanced Data Management for Next-Generation e-Commerce.|Chris Clifton,Irini Fundulaki,Richard Hull,Bharat Kumar,Daniel F. Lieuwen,Arnaud Sahuguet|4|0|0|2
+121|The Semantic Web: Semantics for Data on the Web.|Stefan Decker,Vipul Kashyap|5|0|0|1
+122|Data Stream Query Processing: A Tutorial.|Nick Koudas,Divesh Srivastava|n/a
+123|Grid Data Management Systems & Services.|Arun Jagatheesan,Reagan Moore,Norman W. Paton,Paul Watson|5|1|0|0
+124|Constructing and integrating data-centric Web Applications: Methods, Tools, and Techniques.|Stefano Ceri,Ioana Manolescu|13|4|0|3

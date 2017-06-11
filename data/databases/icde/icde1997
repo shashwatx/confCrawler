@@ -1,0 +1,76 @@
+75
+1|Proceedings of the Thirteenth International Conference on Data Engineering, April 7-11, 1997 Birmingham U.K.|W. A. Gray,Per-Åke Larson|n/a
+2|Universal Access versus Universal Storage.|William Baker|0|0|0|0
+3|SEOF: An Adaptable Object Prefetch Policy for Object-Oriented Database Systems.|Jung-Ho Ahn,Hyoung-Joo Kim|21|1|0|7
+4|Indexing OODB Instances based on Access Proximity.|Chee Yong Chan,Cheng Hian Goh,Beng Chin Ooi|18|3|0|3
+5|The Multikey Type Index for Persistent Object Sets.|Thomas A. Mück,Martin L. Polaschek|8|1|0|3
+6|Distributing Semantic Constraints Between Heterogeneous Databases.|Stefan Grufman,Fredrik Samson,Suzanne M. Embury,Peter M. D. Gray,Tore Risch|28|1|2|0
+7|Semantic Dictionary Design for Database Interoperability.|Silvana Castano,Valeria De Antonellis|86|3|0|10
+8|WOL: A Language for Database Transformations and Constraints.|Susan B. Davidson,Anthony Kosky|67|7|0|2
+9|A Propagation Mechanism for Populated Schema Versions.|Sven-Eric Lautemann|37|1|2|5
+10|Representative Objects: Concise Representations of Semistructured, Hierarchial Data.|Svetlozar Nestorov,Jeffrey D. Ullman,Janet L. Wiener,Sudarshan S. Chawathe|218|27|1|3
+11|Supporting Fine-grained Data Lineage in a Database Visualization Environment.|Allison Woodruff,Michael Stonebraker|229|87|0|1
+12|Quantifying Complexity and Performance Gains of Distributed Caching in a Wireless Mobile Computing Environment.|Cedric C. F. Fong,John C. S. Lui,Man Hon Wong|34|4|0|2
+13|On Incremental Cache Coherency Schemes in Mobile Computing Environments.|Jun Cai,Kian-Lee Tan,Beng Chin Ooi|59|3|0|7
+14|Adaptive Broadcast Protocols to Support Power Conservant Retrieval by Mobile Users.|Anindya Datta,Aslihan Celik,Jeong G. Kim,Debra E. VanderMeer,Vijay Kumar|112|6|5|6
+15|System Design for Digital Media Asset Management.|Pamela D. Fisher|1|0|0|0
+16|Media Asset Management: Managing Complex Data as a Re-Engineering Exercise.|Peter DeVries|3|1|1|0
+17|Content is King, (If You Can Find It): A New Model for Knowledge Storage and Retrieval.|Fred L. Wurden|6|3|0|0
+18|Relational Joins for Data on Tertiary Storage.|Jussi Myllymaki,Miron Livny|23|2|0|1
+19|Selectivity Estimation in the Presence of Alphanumeric Correlations.|Min Wang,Jeffrey Scott Vitter,Balakrishna R. Iyer|23|3|2|2
+20|Similarity Based Retrieval of Videos.|A. Prasad Sistla,Clement T. Yu,R. Venkatasubrahmanian|24|2|0|5
+21|Databases and the Web: What's in it for Databases? (Panel).|Erich J. Neuhold,Karl Aberer|0|0|0|0
+22|Teaching an OLTP Database Kernel Advanced Data Warehousing Techniques.|Clark D. French|33|15|3|0
+23|Data Warehousing: Dealing with the Growing Pains.|Robert Armstrong|25|5|2|0
+24|Index Selection for OLAP.|Himanshu Gupta,Venky Harinarayan,Anand Rajaraman,Jeffrey D. Ullman|581|111|52|8
+25|Clustering Association Rules.|Brian Lent,Arun N. Swami,Jennifer Widom|459|140|6|0
+26|Modeling Multidimensional Databases.|Rakesh Agrawal,Ashish Gupta,Sunita Sarawagi|705|161|11|4
+27|Failure Handling for Transaction Hierarchies.|Qiming Chen,Umeshwar Dayal|35|3|0|1
+28|An Argument in Favour of Presumed Commit Protocol.|Yousef J. Al-Houmaily,Panos K. Chrysanthis,Steven P. Levitan|n/a
+29|Delegation: Efficiently Rewriting History.|Cris Pedregal Martin,Krithi Ramamritham|23|2|0|3
+30|Physical Database Design for Data Warehouses.|Wilburt Labio,Dallan Quass,Brad Adelberg|178|32|18|1
+31|Multiple View Consistency for Data Warehousing.|Yue Zhuge,Hector Garcia-Molina,Janet L. Wiener|111|29|2|4
+32|High-Dimensional Similarity Joins.|Kyuseok Shim,Ramakrishnan Srikant,Rakesh Agrawal|95|15|2|4
+33|Oracle Parallel Warehouse Server.|Gary Hallmark|20|5|4|0
+34|Subquery Elimination: A Complete Unnesting Algorithm for an Extended Relational Algebra.|Pedro Celis,Hansjörg Zeller|3|0|0|0
+35|Partial Video Sequence Caching Scheme for VOD Systems with Heterogeneous Clients.|Michael Y. M. Chiu,Kai-Hau Yeung|34|19|14|1
+36|Periodic Retrieval of Videos from Disk Arrays.|Banu Özden,Rajeev Rastogi,Abraham Silberschatz|12|0|0|3
+37|Buffer and I/O Resource Pre-allocation for Implementing Batching and Buffering Techniques for Video-on-Demand Systems.|M. Y. Y. Leung,John C. S. Lui,Leana Golubchik|17|0|1|2
+38|Interfacing Parallel Applications and Parallel Databases.|Vibby Gottemukkala,Anant Jhingran,Sriram Padmanabhan|4|0|0|0
+39|Performance Evaluation of Rule Semantics in Active Databases.|Elena Baralis,Andrea Bianco|10|1|0|0
+40|Titan: A High-Performance Remote Sensing Database.|Chialin Chang,Bongki Moon,Anurag Acharya,Carter Shock,Alan Sussman,Joel H. Saltz|160|20|0|13
+41|Adding Full Text Indexing to the Operating System.|Kyle Peltonen|4|1|1|0
+42|A Rule Engine for Query Transformation in Starburst and IBM DB2 C/S DBMS.|Hamid Pirahesh,T. Y. Cliff Leung,Waqar Hasan|54|14|9|2
+43|A Data Model and Semantics of Objects with Dynamic Roles.|Raymond K. Wong,H. Lewis Chau,Frederick H. Lochovsky|78|17|0|15
+44|Object Related Plus: A Practical Tool for Developing Enhanced Object Databases.|Bryon K. Ehlmann,Gregory A. Riccardi|15|1|0|12
+45|Modeling and Querying Moving Objects.|A. Prasad Sistla,Ouri Wolfson,Sam Chamberlain,Son Dao|822|179|1|22
+46|A Generic Query-Translation Framework for a Mediator Architecture.|Jacques Calmet,Sebastian Jekutsch,Joachim Schü|25|15|15|2
+47|Semantic Query Optimization for Object Databases.|John Grant,Jarek Gryz,Jack Minker,Louiqa Raschid|65|13|1|1
+48|Modeling Business Rules with Situation/Activation Diagrams.|Peter Lang,Werner Obermair,Michael Schrefl|35|10|1|14
+49|Designing the Reengineering Services for the DOK Federated Database System.|Zahir Tari,John Stokes|21|0|0|7
+50|Integrated Query Processing Strategies for Spatial Path Queries.|Yun-Wu Huang,Ning Jing,Elke A. Rundensteiner|25|6|0|4
+51|Active Customization of GIS User Interfaces.|Juliano Lopes de Oliveira,Claudia Bauzer Medeiros,Mariano Cilia|20|3|0|2
+52|STR: A Simple and Efficient Algorithm for R-Tree Packing.|Scott T. Leutenegger,J. M. Edgington,Mario A. López|402|133|8|10
+53|Data Mining: Where is it Heading? (Panel).|Jiawei Han|n/a
+54|Memory Management for Scalable Web Data Servers.|Shivakumar Venkataraman,Miron Livny,Jeffrey F. Naughton|21|1|2|0
+55|Scalable Versioning in Distributed Databases with Commuting Updates.|H. V. Jagadish,Inderpal Singh Mumick,Michael Rabinovich|20|4|3|1
+56|A Cost-Model-Based Online Method for Ditributed Caching.|Markus Sinnwell,Gerhard Weikum|23|0|0|4
+57|Pinwheel Scheduling for Fault-Tolerant Broadcast Disks in Real-time Database Systems.|Sanjoy K. Baruah,Azer Bestavros|90|24|1|2
+58|A Priority Ceiling Protocol with Dynamic Adjustment of Serialization Order.|Kwok-Wa Lam,Sang Hyuk Son,Sheung-lun Hung|25|0|0|7
+59|The CORD Appraoch to Extensible Concurrency Control.|George T. Heineman,Gail E. Kaiser|30|5|1|11
+60|New and Forgotten Dreams in Database Research (Panel).|Surajit Chaudhuri,Rakesh Agrawal,Klaus R. Dittrich,Andreas Reuter,Abraham Silberschatz,Gerhard Weikum|0|0|0|0
+61|The Constraint-Based Knowledge Broker System.|Jean-Marc Andreoli,Uwe M. Borghoff,Pierre-Yves Chevalier,Boris Chidlovskii,Remo Pareschi,Jutta Willamowski|6|0|1|5
+62|ULIXES: Building Relational Views over the Web.|Paolo Atzeni,Alessandro Masci,Giansalvatore Mecca,Paolo Merialdo,Elena Tabet|17|2|0|4
+63|Tools to Enable Interoperation of Heterogeneous Databases.|Wernher Behrendt,N. J. Fiddian,Ajith P. Madurapperuma|1|0|0|0
+64|ODB-QOPTIMIZER: A Tool for Semantic Query Optimization in OODB.|Sonia Bergamaschi,Domenico Beneventano,Claudio Sartori,Maurizio Vincini|n/a
+65|The IDEA Tool Set.|Stefano Ceri,Piero Fraternali,Stefano Paraboschi|n/a
+66|Developing and Accessing Scientific Databases with the OPM Data Management Tools.|I-Min A. Chen,Anthony Kosky,Victor M. Markowitz,Ernest Szeto|4|2|0|0
+67|NAOS Protyotype - Version 2.2.|Christine Collet,Thierry Coupaye,Luc Fayolle,Claudia Roncancio|n/a
+68|ROCK & ROLL: A Deductive Object-Oriented Database with Active and Spatial Extensions.|Andrew Dinn,M. Howard Williams,Norman W. Paton|14|2|0|0
+69|FLORID: A Prototype for F-Logic.|Jürgen Frohn,Rainer Himmeröder,Paul-Thomas Kandzia,Georg Lausen,Christian Schlepphorst|0|0|0|0
+70|Improving the Quality of Technical Data for Developing Case Based Reasoning Diagnostic Software for Aircraft Maintenance.|Richard Heider|5|0|0|0
+71|A Persistent Hyper-Programming System.|Graham N. C. Kirby,Ronald Morrison,David S. Munro,Richard C. H. Connor,Quintin I. Cutts|2|0|0|1
+72|W3QS - A System for WWW Querying.|David Konopnicki,Oded Shmueli|16|0|1|0
+73|Graphical Tools for Rule Development in the Active DBMS SAMOS.|Anca Vaduva,Stella Gatziu,Klaus R. Dittrich|2|0|0|1
+74|Data Integration and Interrogation.|J. Verso|0|0|0|0
+75|The WHIPS Prototype for Data Warehouse Creation and Maintenance.|Janet L. Wiener,Himanshu Gupta,Wilburt Labio,Yue Zhuge,Hector Garcia-Molina|78|10|0|0

@@ -1,0 +1,45 @@
+44
+1|Proceedings of the 26th Annual IEEE Symposium on Logic in Computer Science, LICS 2011, June 21-24, 2011, Toronto, Ontario, Canada.|n/a
+2|A Why-on-Earth Tutorial on Finite Model Theory.|Albert Atserias|0|0|0|0
+3|The Meaning of Semantics.|Prakash Panangaden|n/a
+4|Logic in Software, Dynamical and Biological Systems.|Ashish Tiwari|3|3|0|0
+5|Qualitative Tree Languages.|Arnaud Carayol,Axel Haddad,Olivier Serre|4|4|0|4
+6|Languages of Dot-Depth One over Infinite Words.|Manfred Kufleitner,Alexander Lauser|8|8|0|6
+7|Two Views on Multiple Mean-Payoff Objectives in Markov Decision Processes.|Tomás Brázdil,Václav Brozek,Krishnendu Chatterjee,Vojtech Forejt,Antonín Kucera|32|32|0|7
+8|Temporal Specifications with Accumulative Values.|Udi Boker,Krishnendu Chatterjee,Thomas A. Henzinger,Orna Kupferman|56|55|0|14
+9|First Steps in Synthetic Guarded Domain Theory: Step-Indexing in the Topos of Trees.|Lars Birkedal,Rasmus Ejlers Møgelberg,Jan Schwinghammer,Kristian Støvring|52|46|0|21
+10|Imperative Programs as Proofs via Game Semantics.|Martin Churchill,James Laird,Guy McCusker|3|3|0|1
+11|Game Semantics for Good General References.|Andrzej S. Murawski,Nikos Tzevelekos|18|16|0|7
+12|The Computational Meaning of Probabilistic Coherence Spaces.|Thomas Ehrhard,Michele Pagani,Christine Tasson|15|13|0|5
+13|Continuous Random Variables.|Jean Goubault-Larrecq,Daniele Varacca|n/a
+14|Noncomputable Conditional Distributions.|Nathanael Leedom Ackerman,Cameron E. Freer,Daniel M. Roy|20|18|0|5
+15|Propositional Proof Complexity: A Survey on the State of the Art, Including Some Recent Results.|Toniann Pitassi|0|0|0|0
+16|A Type System for Complexity Flow Analysis.|Jean-Yves Marion|15|14|0|4
+17|Linear Dependent Types and Relative Completeness.|Ugo Dal Lago,Marco Gaboardi|46|44|0|11
+18|CoQMTU: A Higher-Order Type Theory with a Predicative Hierarchy of Universes Parametrized by a Decidable First-Order Theory.|Bruno Barras,Jean-Pierre Jouannaud,Pierre-Yves Strub,Qian Wang|10|10|0|3
+19|Isomorphisms of Types in the Presence of Higher-Order References.|Pierre Clairambault|1|1|0|0
+20|Listings and Logics.|Yijia Chen,Jörg Flum|4|4|0|4
+21|Computational Complexity of Quantum Satisfiability.|Christian Herrmann,Martin Ziegler|6|6|0|5
+22|Formalizing Randomized Matching Algorithms.|Dai Tri Man Le,Stephen A. Cook|2|2|0|0
+23|Forcing as a Program Transformation.|Alexandre Miquel|23|21|0|0
+24|Proof Nets for Additive Linear Logic with Units.|Willem Heijltjes|11|11|0|8
+25|Higher-Order Model Checking: From Theory to Practice.|Naoki Kobayashi|9|9|0|2
+26|Powermonads and Tensors of Unranked Effects.|Sergey Goncharov,Lutz Schröder|n/a
+27|Semantics of Higher-Order Quantum Computation via Geometry of Interaction.|Ichiro Hasuo,Naohiko Hoshino|29|29|0|6
+28|Separation Logic in the Presence of Garbage Collection.|Chung-Kil Hur,Derek Dreyer,Viktor Vafeiadis|5|5|0|0
+29|Ultrametric Semantics of Reactive Programs.|Neelakantan R. Krishnaswami,Nick Benton|44|43|0|6
+30|Ackermannian and Primitive-Recursive Bounds with Dickson's Lemma.|Diego Figueira,Santiago Figueira,Sylvain Schmitz,Philippe Schnoebelen|71|62|0|7
+31|The Complexity of Verifying Ground Tree Rewrite Systems.|Stefan Göller,Anthony Widjaja Lin|6|5|0|2
+32|Complexity of Two-Variable Dependence Logic and IF-Logic.|Juha Kontinen,Antti Kuusisto,Peter Lohmann,Jonni Virtema|12|12|0|8
+33|The Dichotomy for Conservative Constraint Satisfaction Problems Revisited.|Libor Barto|37|31|0|5
+34|A Tetrachotomy for Positive First-Order Logic without Equality.|Florent R. Madelaine,Barnaby Martin|14|12|0|7
+35|Decidability of Definability.|Manuel Bodirsky,Michael Pinsker,Todor Tsankov|49|43|0|17
+36|The Complexity of Evaluating First-Order Sentences over a Fixed Structure.|Andrei A. Krokhin|0|0|0|0
+37|Regular Repair of Specifications.|Michael Benedikt,Gabriele Puppis,Cristian Riveros|14|13|0|7
+38|Rigorous Approximated Determinization of Weighted Automata.|Benjamin Aminof,Orna Kupferman,Robby Lampert|12|12|1|4
+39|Automata with Group Actions.|Mikolaj Bojanczyk,Bartek Klin,Slawomir Lasota|69|66|0|8
+40|A Decidable Two-Way Logic on Data Words.|Diego Figueira|9|9|0|6
+41|The Ultimate Undecidability Result for the Halpern-Shoham Logic.|Jerzy Marcinkowski,Jakub Michaliszyn|23|22|0|5
+42|What's Decidable about Halpern and Shoham's Interval Logic? The Maximal Fragment ABBL.|Davide Bresolin,Angelo Montanari,Pietro Sala,Guido Sciavicco|26|25|0|21
+43|Computing Optimal Coverability Costs in Priced Timed Petri Nets.|Parosh Aziz Abdulla,Richard Mayr|11|11|0|5
+44|Concurrent Strategies.|Silvain Rideau,Glynn Winskel|n/a

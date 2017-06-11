@@ -1,0 +1,83 @@
+82
+1|Proceedings of the Twenty-Sixth Annual ACM Symposium on Theory of Computing, 23-25 May 1994, Montréal, Québec, Canada.|Frank Thomson Leighton,Michael T. Goodrich|n/a
+2|A near optimal algorithm for edge separators (preliminary version).|Fan R. K. Chung,Shing-Tung Yau|28|3|0|2
+3|A randomized linear-time algorithm for finding minimum spanning trees.|Philip N. Klein,Robert Endre Tarjan|51|11|0|5
+4|Polylog-time and near-linear work approximation scheme for undirected shortest paths.|Edith Cohen|51|33|0|1
+5|Faster shortest-path algorithms for planar graphs.|Philip N. Klein,Satish Rao,Monika Rauch Henzinger,Sairam Subramanian|323|158|0|6
+6|On the complexity of negation-limited Boolean networks.|Keisuke Tanaka,Tetsuro Nishino|31|8|0|3
+7|On the computational power of depth 2 circuits with threshold and modulo gates.|Matthias Krause,Pavel Pudlák|95|36|0|6
+8|Circuit complexity: from the worst case to the average case.|Andreas Jakoby,Rüdiger Reischuk,Christian Schindelhauer|17|2|0|10
+9|A weight-size trade-off for circuits with MOD m gates.|Vince Grolmusz|29|2|0|6
+10|Computational geometry: a retrospective.|Bernard Chazelle|52|14|0|4
+11|On point location and motion planning among simplices.|Marco Pellegrini|16|2|0|2
+12|On lazy randomized incremental construction.|Mark de Berg,Katrin Dobrindt,Otfried Schwarzkopf|96|15|0|19
+13|Fault-tolerant scheduling.|Bala Kalyanasundaram,Kirk Pruhs|38|5|0|5
+14|On the fault tolerance of the butterfly.|Anna R. Karlin,Greg Nelson,Hisao Tamaki|26|5|0|2
+15|Efficient routing in all-optical networks.|Prabhakar Raghavan,Eli Upfal|304|19|1|0
+16|Scalable expanders: exploiting hierarchical random wiring.|Eric A. Brewer,Frederic T. Chong,Tom Leighton|10|2|1|3
+17|On contention resolution protocols and associated probabilistic phenomena.|Philip D. MacKenzie,C. Greg Plaxton,Rajmohan Rajaraman|40|2|0|6
+18|The minimum latency problem.|Avrim Blum,Prasad Chalasani,Don Coppersmith,William R. Pulleyblank,Prabhakar Raghavan,Madhu Sudan|249|100|0|10
+19|Two prover protocols: low error at affordable rates.|Uriel Feige,Joe Kilian|105|18|0|8
+20|Improved non-approximability results.|Mihir Bellare,Madhu Sudan|n/a
+21|Nearly-linear size holographic proofs.|Alexander Polishchuk,Daniel A. Spielman|150|49|0|3
+22|Natural proofs.|Alexander A. Razborov,Steven Rudich|320|140|0|9
+23|Efficient asynchronous distributed symmetry breaking.|Baruch Awerbuch,Lenore Cowen,Mark A. Smith|22|3|0|1
+24|Time bounds for mutual exclusion and related problems.|Jae-Heon Yang,James H. Anderson|10|1|0|2
+25|Simple and efficient leader election in the full information model.|Rafail Ostrovsky,Sridhar Rajagopalan,Umesh V. Vazirani|38|10|0|1
+26|A simple constructive computability theorem for wait-free computation.|Maurice Herlihy,Nir Shavit|69|9|0|13
+27|Weakly learning DNF and characterizing statistical query learning using Fourier analysis.|Avrim Blum,Merrick L. Furst,Jeffrey C. Jackson,Michael J. Kearns,Yishay Mansour,Steven Rudich|187|52|0|12
+28|Simulating access to hidden information while learning.|Peter Auer,Philip M. Long|26|1|0|7
+29|On the learnability of discrete distributions.|Michael J. Kearns,Yishay Mansour,Dana Ron,Ronitt Rubinfeld,Robert E. Schapire,Linda Sellie|202|71|0|16
+30|Choosing a learning team: a topological approach.|Kalvis Apsitis,Rusins Freivalds,Carl H. Smith|7|0|0|3
+31|Optimal parallel suffix tree construction.|Ramesh Hariharan|67|21|0|1
+32|Symmetry breaking for suffix tree construction.|Süleyman Cenk Sahinalp,Uzi Vishkin|63|15|0|11
+33|Real-time pattern matching and quasi-real-time construction of suffix trees (preliminary version).|S. Rao Kosaraju|18|2|1|0
+34|The complexity of searching a sorted array of strings.|Arne Andersson,Torben Hagerup,Johan Håstad,Ola Petersson|12|3|0|3
+35|Color-coding: a new method for finding simple paths, cycles and other small subgraphs within large graphs.|Noga Alon,Raphael Yuster,Uri Zwick|65|22|0|4
+36|Search for the maximum of a random walk.|Andrew M. Odlyzko|17|6|0|0
+37|A spectral technique for coloring random 3-colorable graphs (preliminary version).|Noga Alon,Nabil Kahale|209|58|0|5
+38|Pseudorandomness for network algorithms.|Russell Impagliazzo,Noam Nisan,Avi Wigderson|133|64|0|11
+39|The complexity of verification.|Robert P. Kurshan|25|3|1|3
+40|Trade-offs between communication throughput and parallel time.|Yishay Mansour,Noam Nisan,Uzi Vishkin|33|2|0|2
+41|Optimal parallel string algorithms: sorting, merging and computing the minimum.|Torben Hagerup|10|3|0|1
+42|The computational complexity of recognizing permutation functions.|Keju Ma,Joachim von zur Gathen|14|4|0|1
+43|Low degree spanning trees of small weight.|Samir Khuller,Balaji Raghavachari,Neal E. Young|89|15|0|8
+44|.879-approximation algorithms for MAX CUT and MAX 2SAT.|Michel X. Goemans,David P. Williamson|396|79|0|6
+45|An O(log k) approximation algorithm for the k minimum spanning tree problem in the plane.|Naveen Garg,Dorit S. Hochbaum|64|12|0|3
+46|Greed is good: approximating independent sets in sparse and bounded-degree graphs.|Magnús M. Halldórsson,Jaikumar Radhakrishnan|255|126|0|9
+47|Beyond NP-completeness for problems of bounded width: hardness for the W hierarchy.|Hans L. Bodlaender,Michael R. Fellows,Michael T. Hallett|n/a
+48|Simulating quadratic dynamical systems is PSPACE-complete (preliminary version).|Sanjeev Arora,Yuval Rabani,Umesh V. Vazirani|39|10|0|2
+49|Approximation schemes for PSPACE-complete problems for succinct specifications (preliminary version).|Madhav V. Marathe,Harry B. Hunt III,Richard Edwin Stearns,Venkatesh Radhakrishnan|15|0|0|12
+50|Pseudorandom generators and learning algorithms for AC.|Meera Sitharam|7|0|0|5
+51|Improved approximation algorithms for the multi-commodity flow problem and local competitive routing in dynamic networks.|Baruch Awerbuch,Tom Leighton|169|43|2|18
+52|An accelerated interior point method whose running time depends only on A (extended abstract).|Stephen A. Vavasis,Yinyu Ye|n/a
+53|How to share a function securely.|Alfredo De Santis,Yvo Desmedt,Yair Frankel,Moti Yung|298|34|8|11
+54|Computational complexity and knowledge complexity (extended abstract).|Oded Goldreich,Rafail Ostrovsky,Erez Petrank|16|0|0|1
+55|Receipt-free secret-ballot elections (extended abstract).|Josh Cohen Benaloh,Dwight Tuinstra|n/a
+56|A minimal model for secure computation (extended abstract).|Uriel Feige,Joe Kilian,Moni Naor|n/a
+57|Tiny families of functions with random properties (preliminary version): a quality-size trade-off for hashing.|Oded Goldreich,Avi Wigderson|130|37|0|22
+58|Improved algorithms via approximations of probability distributions (extended abstract).|Suresh Chari,Pankaj Rohatgi,Aravind Srinivasan|24|5|0|5
+59|Balanced allocations (extended abstract).|Yossi Azar,Andrei Z. Broder,Anna R. Karlin,Eli Upfal|n/a
+60|Lower bounds for parallel linear programming and other problems.|Ketan Mulmuley|4|0|0|1
+61|Decision tree complexity and Betti numbers.|Andrew Chi-Chih Yao|70|14|0|0
+62|Lower bounds for union-split-find related problems on random access machines.|Peter Bro Miltersen|96|19|0|7
+63|Lower bounds on testing membership to a polyhedron by algebraic decision trees.|Dima Grigoriev,Marek Karpinski,Nicolai Vorobjov|6|0|0|2
+64|The amazing power of pairwise independence (abstract).|Avi Wigderson|18|4|0|0
+65|Random sampling in cut, flow, and network design problems.|David R. Karger|216|111|1|16
+66|Two heads are better than two tapes.|Tao Jiang,Joel I. Seiferas,Paul M. B. Vitányi|15|2|0|3
+67|On the power of finite automata with both nondeterministic and probabilistic states (preliminary version).|Anne Condon,Lisa Hellerstein,Samuel Pottle,Avi Wigderson|13|1|0|1
+68|Improved data structures for fully dynamic biconnectivity.|Monika Rauch|56|2|0|1
+69|Efficient splitting off algorithms for graphs.|Harold N. Gabow|69|8|0|3
+70|Alpha-algorithms for incremental planarity testing (preliminary version).|Johannes A. La Poutré|40|7|0|0
+71|The connectivity carcass of a vertex subset in a graph and its incremental maintenance.|Yefim Dinitz,Alek Vainshtein|19|5|1|7
+72|On complexity as bounded rationality (extended abstract).|Christos H. Papadimitriou,Mihalis Yannakakis|n/a
+73|Simple strategies for large zero-sum games with applications to complexity theory.|Richard J. Lipton,Neal E. Young|59|36|0|3
+74|Optimality and domination in repeated games with bounded players.|Lance Fortnow,Duke Whang|30|3|0|2
+75|Fast algorithms for finding randomized strategies in game trees.|Daphne Koller,Nimrod Megiddo,Bernhard von Stengel|175|79|0|13
+76|Aligning sequences via an evolutionary tree: complexity and approximation.|Tao Jiang,Eugene L. Lawler,Lusheng Wang|91|11|0|8
+77|Non-standard stringology: algorithms and complexity.|S. Muthukrishnan,Krishna V. Palem|51|20|0|1
+78|A functional equation often arising in the analysis of algorithms (extended abstract).|Philippe Jacquet,Wojciech Szpankowski|3|0|0|1
+79|A coding theorem for distributed computation.|Sridhar Rajagopalan,Leonard J. Schulman|56|31|1|1
+80|Time-adaptive algorithms for synchronization.|Rajeev Alur,Hagit Attiya,Gadi Taubenfeld|41|3|0|8
+81|A theory of clock synchronization (extended abstract).|Boaz Patt-Shamir,Sergio Rajsbaum|n/a
+82|Efficient probabilistic checkable proofs and applications to approximation.|Mihir Bellare,Shafi Goldwasser,Carsten Lund,Alexander Russell|9|5|0|0

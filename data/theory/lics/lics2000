@@ -1,0 +1,41 @@
+40
+1|15th Annual IEEE Symposium on Logic in Computer Science, Santa Barbara, California, USA, June 26-29, 2000.|n/a
+2|Logic, Complexity, and Games.|Ronald Fagin|0|0|0|0
+3|A General Notion of Realizability.|Lars Birkedal|8|3|0|2
+4|A Model for Impredicative Type Systems, Universes, Intersection Types and Subtyping.|Alexandre Miquel|18|12|0|2
+5|Complete Axioms for Categorical Fixed-Point Operators.|Alex K. Simpson,Gordon D. Plotkin|104|46|0|8
+6|The Role of Decidability in First Order Separations over Classes of Finite Structures.|Steven Lindell,Scott Weinstein|0|0|0|0
+7|Automatic Structures.|Achim Blumensath,Erich Grädel|299|122|0|7
+8|Definability and Compression.|Foto N. Afrati,Hans Leiß,Michel de Rougemont|5|0|0|3
+9|Resource-Bounded Continuity and Sequentiality for Type-Two Functionals.|Samuel R. Buss,Bruce M. Kapron|3|1|0|0
+10|A Syntactical Analysis of Non-Size-Increasing Polynomial Time Computation.|Klaus Aehlig,Helmut Schwichtenberg|32|7|0|5
+11|Approximating Labeled Markov Processes.|Josee Desharnais,Vineet Gupta,Radha Jagadeesan,Prakash Panangaden|129|44|0|12
+12|Precongruence Formats for Decorated Trace Preorders.|Bard Bloom,Wan Fokkink,Rob J. van Glabbeek|5|1|0|1
+13|Virtual Symmetry Reduction.|E. Allen Emerson,John Havlicek,Richard J. Trefler|48|13|0|2
+14|Better is Better than Well: On Efficient Verification of Infinite-State Systems.|Parosh Aziz Abdulla,Aletta Nylén|67|19|0|9
+15|Concurrent Omega-Regular Games.|Luca de Alfaro,Thomas A. Henzinger|127|44|0|34
+16|Approximate Pattern Matching is Expressible in Transitive Closure Logic.|Kjell Lemström,Lauri Hella|4|1|1|1
+17|Computational Complexity of Some Problems Involving Congruences on Algebras.|Clifford Bergman,Giora Slutzki|4|2|0|1
+18|From the Church-Turing Thesis to the First-Order Algorithm Theorem.|Saul Kripke|2|2|0|0
+19|Satisfiability Testing: Recent Developments and Challenge Problems.|Bart Selman|2|0|0|0
+20|Dominator Trees and Fast Verification of Proof Nets.|Andrzej S. Murawski,C.-H. Luke Ong|32|16|0|3
+21|Game Semantics and Subtyping.|Juliusz Chroboczek|9|1|0|2
+22|Probabilistic Game Semantics.|Vincent Danos,Russell Harmer|77|34|0|3
+23|Back and Forth between Guarded and Modal Logics.|Erich Grädel,Colin Hirsch,Martin Otto|82|33|0|15
+24|More Past Glories.|Mark Reynolds|n/a
+25|A Complete Axiomatization of Interval Temporal Logic with Infinite Time.|Ben C. Moszkowski|56|31|0|3
+26|A Modality for Recursion.|Hiroshi Nakano|59|51|0|1
+27|A Static Calculus of Dependencies for the lambda-Cube.|Frédéric Prost|20|0|0|8
+28|A Decision Procedure for Term Algebras with Queues.|Tatiana Rybina,Andrei Voronkov|48|6|0|2
+29|A Decision Procedure for the Existential Theory of Term Algebras with the Knuth-Bendix Ordering.|Konstantin Korovin,Andrei Voronkov|26|1|0|10
+30|Some Strategies for Proving Theorems with a Model Checker.|Kenneth L. McMillan|0|0|0|0
+31|The Curry-Howard Correspondence in Set Theory.|Jean-Louis Krivine|5|2|0|0
+32|A Theory of Bisimulation for a Fragment of Concurrent ML with Local Names.|Alan Jeffrey,Julian Rathke|45|7|0|5
+33|Models for Name-Passing Processes: Interleaving and Causal.|Gian Luca Cattani,Peter Sewell|32|8|0|3
+34|Assigning Types to Processes.|Nobuko Yoshida,Matthew Hennessy|86|11|0|8
+35|On First-Order Topological Queries.|Martin Grohe,Luc Segoufin|17|5|0|0
+36|View-Based Query Processing and Constraint Satisfaction.|Diego Calvanese,Giuseppe De Giacomo,Maurizio Lenzerini,Moshe Y. Vardi|86|24|1|22
+37|Imperative Programming with Dependent Types.|Hongwei Xi|85|26|0|8
+38|Efficient and Flexible Matching of Recursive Types.|Jens Palsberg,Tian Zhao|31|0|0|5
+39|How to Optimize Proof-Search in Modal Logics: A New Way of Proving Redundancy Criteria for Sequent Calculi.|Andrei Voronkov|7|0|0|1
+40|Paramodulation with Built-in Abelian Groups.|Guillem Godoy,Robert Nieuwenhuis|15|3|0|6

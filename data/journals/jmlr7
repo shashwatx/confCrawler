@@ -1,0 +1,101 @@
+100
+1|Statistical Comparisons of Classifiers over Multiple Data Sets.|Janez Demsar|3950|3180|3|0
+2|Incremental Algorithms for Hierarchical Classification.|Nicolò Cesa-Bianchi,Claudio Gentile,Luca Zaniboni|207|124|1|11
+3|On the Complexity of Learning Lexicographic Strategies.|Michael Schmitt,Laura Martignon|37|24|0|2
+4|Generalized Bradley-Terry Models and Multi-Class Probability Estimates.|Tzu-Kuo Huang,Ruby C. Weng,Chih-Jen Lin|141|102|0|5
+5|Bounds for Linear Multi-Task Learning.|Andreas Maurer|63|40|0|12
+6|Active Learning in Approximately Linear Regression Based on Conditional Expectation of Generalization Error.|Masashi Sugiyama|95|63|0|33
+7|MinReg: A Scalable Algorithm for Learning Parsimonious Regulatory Networks in Yeast and Mammals.|Dana Pe'er,Amos Tanay,Aviv Regev|38|19|0|1
+8|Learning the Structure of Linear Latent Variable Models.|Ricardo Bezerra de Andrade e Silva,Richard Scheines,Clark Glymour,Peter Spirtes|96|59|0|19
+9|In Search of Non-Gaussian Components of a High-Dimensional Distribution.|Gilles Blanchard,Motoaki Kawanabe,Masashi Sugiyama,Vladimir Spokoiny,Klaus-Robert Müller|58|32|0|19
+10|Some Discriminant-Based PAC Algorithms.|Paul W. Goldberg|14|2|0|5
+11|Kernels on Prolog Proof Trees: Statistical Learning in the ILP Setting.|Andrea Passerini,Paolo Frasconi,Luc De Raedt|34|14|0|7
+12|Using Machine Learning to Guide Architecture Simulation.|Greg Hamerly,Erez Perelman,Jeremy Lau,Brad Calder,Timothy Sherwood|23|9|0|5
+13|Superior Guarantees for Sequential Prediction and Lossless Compression via Alphabet Decomposition.|Ron Begleiter,Ran El-Yaniv|7|5|0|1
+14|Geometric Variance Reduction in Markov Chains: Application to Value Function and Gradient Estimation.|Rémi Munos|20|12|0|1
+15|Inductive Synthesis of Functional Programs: An Explanation Based Generalization Approach.|Emanuel Kitzelmann,Ute Schmid|79|41|0|32
+16|Optimising Kernel Parameters and Regularisation Coefficients for Non-linear Discriminant Analysis.|Tonatiuh Peña Centeno,Neil D. Lawrence|41|19|0|1
+17|Learning Recursive Control Programs from Problem Solving.|Pat Langley,Dongkyu Choi|64|33|0|17
+18|Learning Coordinate Covariances via Gradients.|Sayan Mukherjee,Ding-Xuan Zhou|62|32|0|20
+19|Online Passive-Aggressive Algorithms.|Koby Crammer,Ofer Dekel,Joseph Keshet,Shai Shalev-Shwartz,Yoram Singer|1080|838|5|40
+20|Toward Attribute Efficient Learning of Decision Lists and Parities.|Adam R. Klivans,Rocco A. Servedio|30|21|0|1
+21|A Direct Method for Building Sparse Kernel Learning Algorithms.|Mingrui Wu,Bernhard Schölkopf,Gökhan H. Bakir|106|62|1|0
+22|Stochastic Complexities of Gaussian Mixtures in Variational Bayesian Approximation.|Kazuho Watanabe,Sumio Watanabe|41|28|0|19
+23|Pattern Recognition for Conditionally Independent Data.|Daniil Ryabko|11|8|0|2
+24|Learning Minimum Volume Sets.|Clayton D. Scott,Robert D. Nowak|94|59|0|4
+25|Some Theory for Generalized Boosting Algorithms.|Peter J. Bickel,Yaacov Ritov,Alon Zakai|44|27|0|5
+26|QP Algorithms with Guaranteed Accuracy and Run Time for Support Vector Machines.|Don R. Hush,Patrick Kelly,Clint Scovel,Ingo Steinwart|69|37|1|7
+27|Policy Gradient in Continuous Time.|Rémi Munos|32|19|0|1
+28|Learning Image Components for Object Recognition.|Michael W. Spratling|76|41|0|4
+29|Consistency and Convergence Rates of One-Class SVMs and Related Algorithms.|Régis Vert,Jean-Philippe Vert|107|63|0|4
+30|Infinite-sigma Limits For Tikhonov Regularization.|Ross A. Lippert,Ryan M. Rifkin|5|4|1|0
+31|Evolutionary Function Approximation for Reinforcement Learning.|Shimon Whiteson,Peter Stone|222|130|0|22
+32|Rearrangement Clustering: Pitfalls, Remedies, and Applications.|Sharlee Climer,Weixiong Zhang|59|39|0|2
+33|Segmental Hidden Markov Models with Random Effects for Waveform Modeling.|Seyoung Kim,Padhraic Smyth|31|24|0|0
+34|Lower Bounds and Aggregation in Density Estimation.|Guillaume Lecué|8|1|0|0
+35|Quantile Regression Forests.|Nicolai Meinshausen|205|167|1|2
+36|Sparse Boosting.|Peter Bühlmann,Bin Yu|67|36|0|4
+37|One-Class Novelty Detection for Seizure Analysis from Intracranial EEG.|Andrew B. Gardner,Abba M. Krieger,George J. Vachtsevanos,Brian Litt|194|150|1|2
+38|A Graphical Representation of Equivalence Classes of AMP Chain Graphs.|Alberto Roverato,Milan Studený|27|11|0|5
+39|Action Elimination and Stopping Conditions for the Multi-Armed Bandit and Reinforcement Learning Problems.|Eyal Even-Dar,Shie Mannor,Yishay Mansour|130|99|0|7
+40|Step Size Adaptation in Reproducing Kernel Hilbert Space.|S. V. N. Vishwanathan,Nicol N. Schraudolph,Alexander J. Smola|39|21|0|3
+41|New Algorithms for Efficient High-Dimensional Nonparametric Classification.|Ting Liu,Andrew W. Moore,Alexander G. Gray|44|30|0|1
+42|A Very Fast Learning Method for Neural Networks Based on Sensitivity Analysis.|Enrique F. Castillo,Bertha Guijarro-Berdiñas,Oscar Fontenla-Romero,Amparo Alonso-Betanzos|91|76|0|2
+43|Computational and Theoretical Analysis of Null Space and Orthogonal Linear Discriminant Analysis.|Jieping Ye,Tao Xiong|135|107|0|8
+44|Worst-Case Analysis of Selective Sampling for Linear Classification.|Nicolò Cesa-Bianchi,Claudio Gentile,Luca Zaniboni|89|58|1|14
+45|Nonparametric Quantile Estimation.|Ichiro Takeuchi,Quoc V. Le,Tim D. Sears,Alexander J. Smola|194|135|2|15
+46|The Interplay of Optimization and Machine Learning Research.|Kristin P. Bennett,Emilio Parrado-Hernández|82|61|0|1
+47|Second Order Cone Programming Approaches for Handling Missing and Uncertain Data.|Pannagadatta K. Shivaswamy,Chiranjib Bhattacharyya,Alexander J. Smola|145|108|0|5
+48|Ensemble Pruning Via Semi-definite Programming.|Yi Zhang,Samuel Burer,W. Nick Street|174|133|0|3
+49|Linear Programs for Hypotheses Selection in Probabilistic Inference Models.|Anders Bergkvist,Peter Damaschke,Marcel Lüthi|2|0|0|1
+50|Bayesian Network Learning with Parameter Constraints.|Radu Stefan Niculescu,Tom M. Mitchell,R. Bharat Rao|75|47|2|3
+51|Learning Sparse Representations by Non-Negative Matrix Factorization and Sequential Cone Programming.|Matthias Heiler,Christoph Schnörr|101|61|0|1
+52|Fast SDP Relaxations of Graph Cut Clustering, Transduction, and Other Combinatorial Problem.|Tijl De Bie,Nello Cristianini|45|23|0|0
+53|Maximum-Gain Working Set Selection for SVMs.|Tobias Glasmachers,Christian Igel|72|41|0|19
+54|Parallel Software for Training Large Scale Support Vector Machines on Multiprocessor Systems.|Luca Zanni,Thomas Serafini,Gaetano Zanghirati|119|70|0|4
+55|Building Support Vector Machines with Reduced Classifier Complexity.|S. Sathiya Keerthi,Olivier Chapelle,Dennis DeCoste|264|182|1|2
+56|Exact 1-Norm Support Vector Machines Via Unconstrained Convex Differentiable Minimization.|Olvi L. Mangasarian|97|75|0|3
+57|Large Scale Multiple Kernel Learning.|Sören Sonnenburg,Gunnar Rätsch,Christin Schäfer,Bernhard Schölkopf|1086|797|3|41
+58|Efficient Learning of Label Ranking by Soft Projections onto Polyhedra.|Shai Shalev-Shwartz,Yoram Singer|70|45|2|7
+59|Kernel-Based Learning of Hierarchical Multilabel Classification Models.|Juho Rousu,Craig Saunders,Sándor Szedmák,John Shawe-Taylor|212|150|0|16
+60|Structured Prediction, Dual Extragradient and Bregman Projections.|Benjamin Taskar,Simon Lacoste-Julien,Michael I. Jordan|103|64|0|4
+61|Active Learning with Feedback on Features and Instances.|Hema Raghavan,Omid Madani,Rosie Jones|121|97|3|1
+62|Large Scale Transductive SVMs.|Ronan Collobert,Fabian H. Sinz,Jason Weston,Léon Bottou|325|237|1|12
+63|Considering Cost Asymmetry in Learning Classifiers.|Francis R. Bach,David Heckerman,Eric Horvitz|92|65|0|1
+64|Learning Factor Graphs in Polynomial Time and Sample Complexity.|Pieter Abbeel,Daphne Koller,Andrew Y. Ng|126|81|0|1
+65|Collaborative Multiagent Reinforcement Learning by Payoff Propagation.|Jelle R. Kok,Nikos A. Vlassis|193|145|0|8
+66|Estimating the "Wrong" Graphical Model: Benefits in the Computation-Limited Setting.|Martin J. Wainwright|103|78|1|3
+67|Streamwise Feature Selection.|Jing Zhou,Dean P. Foster,Robert A. Stine,Lyle H. Ungar|47|39|0|5
+68|Linear Programming Relaxations and Belief Propagation - An Empirical Study.|Chen Yanover,Talya Meltzer,Yair Weiss|164|125|0|7
+69|Incremental Support Vector Learning: Analysis, Implementation and Applications.|Pavel Laskov,Christian Gehl,Stefan Krüger,Klaus-Robert Müller|213|153|1|6
+70|A Simulation-Based Algorithm for Ergodic Control of Markov Chains Conditioned on Rare Events.|Shalabh Bhatnagar,Vivek S. Borkar,Madhukar Akarapu|2|1|0|1
+71|Learning Spectral Clustering, With Application To Speech Separation.|Francis R. Bach,Michael I. Jordan|201|146|2|5
+72|A Linear Non-Gaussian Acyclic Model for Causal Discovery.|Shohei Shimizu,Patrik O. Hoyer,Aapo Hyvärinen,Antti J. Kerminen|306|251|0|51
+73|Walk-Sums and Belief Propagation in Gaussian Graphical Models.|Dmitry M. Malioutov,Jason K. Johnson,Alan S. Willsky|175|123|2|18
+74|Distance Patterns in Structural Similarity.|Thomas Kämpke|2|1|0|0
+75|A Hierarchy of Support Vector Machines for Pattern Detection.|Hichem Sahbi,Donald Geman|49|34|0|1
+76|Adaptive Prototype Learning Algorithms: Theoretical and Experimental Studies.|Fu Chang,Chin-Chin Lin,Chi-Jen Lu|17|13|0|3
+77|A Scoring Function for Learning Bayesian Networks based on Mutual Information and Conditional Independence Tests.|Luis M. de Campos|174|145|0|2
+78|Noisy-OR Component Analysis and its Application to Link Analysis.|Tomás Singliar,Milos Hauskrecht|n/a
+79|Learning a Hidden Hypergraph.|Dana Angluin,Jiang Chen|23|12|0|2
+80|An Efficient Implementation of an Active Set Method for SVMs.|Katya Scheinberg|83|52|1|3
+81|Causal Graph Based Decomposition of Factored MDPs.|Anders Jonsson,Andrew G. Barto|74|55|0|2
+82|Accurate Error Bounds for the Eigenvalues of the Kernel Matrix.|Mikio L. Braun|27|16|0|4
+83|Point-Based Value Iteration for Continuous POMDPs.|Josep M. Porta,Nikos A. Vlassis,Matthijs T. J. Spaan,Pascal Poupart|158|121|0|0
+84|Learning Parts-Based Representations of Data.|David A. Ross,Richard S. Zemel|38|25|0|2
+85|Manifold Regularization: A Geometric Framework for Learning from Labeled and Unlabeled Examples.|Mikhail Belkin,Partha Niyogi,Vikas Sindhwani|1915|1500|11|29
+86|Consistency of Multiclass Empirical Risk Minimization Methods Based on Convex Loss.|Di-Rong Chen,Tao Sun|7|5|0|0
+87|Bounds for the Loss in Probability of Correct Classification Under Model Based Approximation.|Magnus Ekdahl,Timo Koski|16|7|0|2
+88|Estimation of Gradients and Coordinate Covariation in Classification.|Sayan Mukherjee,Qiang Wu|57|29|0|10
+89|Expectation Correction for Smoothed Inference in Switching Linear Dynamical Systems.|David Barber|46|30|0|7
+90|On Model Selection Consistency of Lasso.|Peng Zhao,Bin Yu|1393|1130|0|25
+91|Stability Properties of Empirical Risk Minimization over Donsker Classes.|Andrea Caponnetto,Alexander Rakhlin|13|8|0|2
+92|Linear State-Space Models for Blind Source Separation.|Rasmus Kongsgaard Olsson,Lars Kai Hansen|19|12|0|1
+93|On Representing and Generating Kernels by Fuzzy Equivalence Relations.|Bernhard Moser|37|30|0|1
+94|A Robust Procedure For Gaussian Graphical Model Search From Microarray Data With p Larger Than n.|Robert Castelo,Alberto Roverato|98|69|1|14
+95|Universal Kernels.|Charles A. Micchelli,Yuesheng Xu,Haizhang Zhang|129|101|0|19
+96|Machine Learning for Computer Security.|Philip K. Chan,Richard Lippmann|14|12|0|0
+97|Spam Filtering Using Statistical Data Compression Models.|Andrej Bratko,Gordon V. Cormack,Bogdan Filipic,Thomas R. Lynam,Blaz Zupan|220|143|0|14
+98|Spam Filtering Based On The Analysis Of Text Information Embedded Into Images.|Giorgio Fumera,Ignazio Pillai,Fabio Roli|150|102|9|8
+99|Learning to Detect and Classify Malicious Executables in the Wild.|Jeremy Z. Kolter,Marcus A. Maloof|326|273|20|2
+100|On Inferring Application Protocol Behaviors in Encrypted Network Traffic.|Charles V. Wright,Fabian Monrose,Gerald M. Masson|197|120|0|6

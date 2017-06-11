@@ -1,0 +1,70 @@
+69
+1|55th IEEE  Annual Symposium on Foundations of Computer Science, FOCS 2014, Philadelphia, PA, USA, October 18-21, 2014.|n/a
+2|(2 + epsilon)-Sat Is NP-Hard.|Per Austrin,Johan Håstad,Venkatesan Guruswami|7|7|0|3
+3|A Counter-example to Karlin's Strong Conjecture for Fictitious Play.|Constantinos Daskalakis,Qinxuan Pan|2|2|0|0
+4|A Simple and Approximately Optimal Mechanism for an Additive Buyer.|Moshe Babaioff,Nicole Immorlica,Brendan Lucier,S. Matthew Weinberg|21|18|0|0
+5|Achieving Target Equilibria in Network Routing Games without Knowing the Latency Functions.|Umang Bhaskar,Katrina Ligett,Leonard J. Schulman,Chaitanya Swamy|5|4|0|1
+6|An Algebraic Approach to Non-malleability.|Vipul Goyal,Silas Richelson,Alon Rosen,Margarita Vald|4|3|0|3
+7|An Automatic Inequality Prover and Instance Optimal Identity Testing.|Gregory Valiant,Paul Valiant|17|16|0|3
+8|An Exponential Lower Bound for Homogeneous Depth Four Arithmetic Formulas.|Neeraj Kayal,Nutan Limaye,Chandan Saha,Srikanth Srinivasan|26|26|0|7
+9|Barriers to Near-Optimal Equilibria.|Tim Roughgarden|16|14|0|4
+10|Bi-Lipschitz Bijection between the Boolean Cube and the Hamming Ball.|Itai Benjamini,Gil Cohen,Igor Shinkar|6|5|0|3
+11|Bounds on the Permanent and Some Applications.|Leonid Gurvits,Alex Samorodnitsky|5|4|0|0
+12|Chasing Ghosts: Competing with Stateful Policies.|Uriel Feige,Tomer Koren,Moshe Tennenholtz|2|1|0|2
+13|Circuit Complexity, Proof Complexity, and Polynomial Identity Testing.|Joshua A. Grochow,Toniann Pitassi|3|2|0|0
+14|Complexity Classification of Local Hamiltonian Problems.|Toby S. Cubitt,Ashley Montanaro|17|16|0|1
+15|Complexity of Counting Subgraphs: Only the Boundedness of the Vertex-Cover Number Counts.|Radu Curticapean,Dániel Marx|7|6|0|1
+16|Constructive Discrepancy Minimization for Convex Sets.|Thomas Rothvoß|11|10|0|0
+17|Decremental Single-Source Shortest Paths on Undirected Graphs in Near-Linear Total Update Time.|Monika Henzinger,Sebastian Krinninger,Danupon Nanongkai|6|4|0|3
+18|Digital Morphogenesis via Schelling Segregation.|George Barmpalias,Richard Elwes,Andy Lewis-Pye|7|7|0|3
+19|Dynamic Integer Sets with Optimal Rank, Select, and Predecessor Search.|Mihai Patrascu,Mikkel Thorup|7|5|0|1
+20|Exponential Separation of Information and Communication.|Anat Ganor,Gillat Kol,Ran Raz|40|36|0|1
+21|Fixed-Parameter Tractable Canonization and Isomorphism Test for Graphs of Bounded Treewidth.|Daniel Lokshtanov,Marcin Pilipczuk,Michal Pilipczuk,Saket Saurabh|10|9|0|0
+22|Generating k-Independent Variables in Constant Time.|Tobias Christiani,Rasmus Pagh|3|3|0|1
+23|Hardness of Coloring 2-Colorable 12-Uniform Hypergraphs with exp(log^{Omega(1)} n) Colors.|Subhash Khot,Rishi Saket|8|8|0|0
+24|Improved Quantum Algorithm for Triangle Finding via Combinatorial Arguments.|François Le Gall|8|7|0|2
+25|Interactive Channel Capacity Revisited.|Bernhard Haeupler|19|16|0|7
+26|List and Unique Coding for Interactive Communication in the Presence of Adversarial Noise.|Mark Braverman,Klim Efremenko|24|22|0|6
+27|Local Tests of Global Entanglement and a Counterexample to the Generalized Area Law.|Dorit Aharonov,Aram Wettroth Harrow,Zeph Landau,Daniel Nagaj,Mario Szegedy,Umesh V. Vazirani|4|3|0|0
+28|LP-Based Algorithms for Capacitated Facility Location.|Hyung-Chan An,Mohit Singh,Ola Svensson|9|9|0|0
+29|Mechanism Design for Crowdsourcing: An Optimal 1-1/e Competitive Budget-Feasible Mechanism for Large Markets.|Nima Anari,Gagan Goel,Afshin Nikzad|8|7|0|0
+30|Network Sparsification for Steiner Problems on Planar and Bounded-Genus Graphs.|Marcin Pilipczuk,Michal Pilipczuk,Piotr Sankowski,Erik Jan van Leeuwen|13|12|0|3
+31|New Algorithms and Lower Bounds for Monotonicity Testing.|Xi Chen,Rocco A. Servedio,Li-Yang Tan|9|9|0|1
+32|Noisy Interactive Quantum Communication.|Gilles Brassard,Ashwin Nayak,Alain Tapp,Dave Touchette,Falk Unger|10|10|0|0
+33|Non-malleable Codes against Constant Split-State Tampering.|Eshan Chattopadhyay,David Zuckerman|17|13|0|1
+34|Novel Polynomial Basis and Its Application to Reed-Solomon Erasure Codes.|Sian-Jheng Lin,Wei-Ho Chung,Yunghsiang S. Han|2|1|0|1
+35|O(log log Rank) Competitive Ratio for the Matroid Secretary Problem.|Oded Lachish|17|17|0|0
+36|On Learning and Testing Dynamic Environments.|Oded Goldreich,Dana Ron|2|2|0|0
+37|On the AC0 Complexity of Subgraph Isomorphism.|Yuan Li,Alexander A. Razborov,Benjamin Rossman|1|1|0|0
+38|On the Hardness of Signaling.|Shaddin Dughmi|9|9|0|2
+39|On the Power of Homogeneous Depth 4 Arithmetic Circuits.|Mrinal Kumar,Shubhangi Saraf|20|20|0|5
+40|One-Way Functions and (Im)Perfect Obfuscation.|Ilan Komargodski,Tal Moran,Moni Naor,Rafael Pass,Alon Rosen,Eylon Yogev|17|11|0|4
+41|Online Bipartite Matching in Offline Time.|Bartlomiej Bosek,Dariusz Leniowski,Piotr Sankowski,Anna Zych|0|0|0|0
+42|Optimal Error Rates for Interactive Coding II: Efficiency and List Decoding.|Mohsen Ghaffari,Bernhard Haeupler|25|23|0|8
+43|Outsourcing Private RAM Computation.|Craig Gentry,Shai Halevi,Mariana Raykova,Daniel Wichs|32|26|0|1
+44|Parallel Repetition from Fortification.|Dana Moshkovitz|6|6|0|3
+45|Path Finding Methods for Linear Programming: Solving Linear Programs in Õ(vrank) Iterations and Faster Algorithms for Maximum Flow.|Yin Tat Lee,Aaron Sidford|18|16|0|4
+46|Popular Conjectures Imply Strong Lower Bounds for Dynamic Problems.|Amir Abboud,Virginia Vassilevska Williams|49|39|0|11
+47|Pre-reduction Graph Products: Hardnesses of Properly Learning DFAs and Approximating EDP on DAGs.|Parinya Chalermsook,Bundit Laekhanukit,Danupon Nanongkai|3|3|0|0
+48|Preventing False Discovery in Interactive Data Analysis Is Hard.|Moritz Hardt,Jonathan Ullman|16|16|0|10
+49|Private Empirical Risk Minimization: Efficient Algorithms and Tight Error Bounds.|Raef Bassily,Adam Smith,Abhradeep Thakurta|11|10|0|2
+50|Quantum Attacks on Classical Proof Systems: The Hardness of Quantum Rewinding.|Andris Ambainis,Ansis Rosmanis,Dominique Unruh|13|9|0|0
+51|Ramanujan Complexes and Bounded Degree Topological Expanders.|Tali Kaufman,David Kazhdan,Alexander Lubotzky|6|6|0|1
+52|Random Walks That Find Perfect Objects and the Lovasz Local Lemma.|Dimitris Achlioptas,Fotis Iliopoulos|11|10|0|1
+53|Randomized Mutual Exclusion with Constant Amortized RMR Complexity on the DSM.|George Giakkoupis,Philipp Woelfel|1|1|0|1
+54|Sample-Optimal Fourier Sampling in Any Constant Dimension.|Piotr Indyk,Michael Kapralov|3|3|0|0
+55|Satisfiability and Evolution.|Adi Livnat,Christos H. Papadimitriou,Aviad Rubinstein,Gregory Valiant,Andrew Wan|2|2|0|0
+56|SelfishMigrate: A Scalable Algorithm for Non-clairvoyantly Scheduling Heterogeneous Processors.|Sungjin Im,Janardhan Kulkarni,Kamesh Munagala,Kirk Pruhs|8|8|0|5
+57|Settling the APX-Hardness Status for Geometric Set Cover.|Nabil H. Mustafa,Rajiv Raman,Saurabh Ray|7|6|0|3
+58|Shrinkage of De Morgan Formulae by Spectral Techniques.|Avishay Tal|4|4|0|0
+59|Single Pass Spectral Sparsification in Dynamic Streams.|Michael Kapralov,Yin Tat Lee,Cameron Musco,Christopher Musco,Aaron Sidford|23|20|0|1
+60|Solving Optimization Problems with Diseconomies of Scale via Decoupling.|Konstantin Makarychev,Maxim Sviridenko|3|3|0|0
+61|Spectral Approaches to Nearest Neighbor Search.|Amirali Abdullah,Alexandr Andoni,Ravindran Kannan,Robert Krauthgamer|4|3|0|3
+62|The Communication Complexity of Distributed epsilon-Approximations.|Zengfeng Huang,Ke Yi|1|1|0|0
+63|The Complexity of Counting Edge Colorings and a Dichotomy for Some Higher Domain Holant Problems.|Jin-Yi Cai,Heng Guo,Tyson Williams|5|2|0|2
+64|The Dyck Language Edit Distance Problem in Near-Linear Time.|Barna Saha|7|7|0|2
+65|Threesomes, Degenerates, and Love Triangles.|Allan Grønlund Jørgensen,Seth Pettie|30|26|0|3
+66|Topology Matters in Communication.|Arkadev Chattopadhyay,Jaikumar Radhakrishnan,Atri Rudra|7|5|0|1
+67|Total Space in Resolution.|Ilario Bonacina,Nicola Galesi,Neil Thapen|n/a
+68|Understanding Alternating Minimization for Matrix Completion.|Moritz Hardt|31|29|0|1
+69|Why Walking the Dog Takes Time: Frechet Distance Has No Strongly Subquadratic Algorithms Unless SETH Fails.|Karl Bringmann|34|27|0|4

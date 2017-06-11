@@ -1,0 +1,129 @@
+128
+1|Advances in Neural Information Processing Systems 5, [NIPS Conference, Denver, Colorado, USA, November 30 - December 3, 1992].|Stephen Jose Hanson,Jack D. Cowan,C. Lee Giles|n/a
+2|On the Use of Projection Pursuit Constraints for Training Neural Networks.|Nathan Intrator|3|0|0|0
+3|Hidden Markov Model} Induction by Bayesian Model Merging.|Andreas Stolcke,Stephen M. Omohundro|293|66|3|3
+4|Computing with Almost Optimal Size Neural Networks.|Kai-Yeung Siu,Vwani P. Roychowdhury,Thomas Kailath|8|1|0|1
+5|Intersecting Regions: The Key to Combinatorial Structure in Hidden Unit Space.|Janet Wiles,Mark Ollila|11|1|0|2
+6|Holographic Recurrent Networks.|Tony Plate|0|0|0|0
+7|Improving Performance in Neural Networks Using a Boosting Algorithm.|Harris Drucker,Robert E. Schapire,Patrice Y. Simard|214|29|0|2
+8|Efficient Pattern Recognition Using a New Transformation Distance.|Patrice Y. Simard,Yann LeCun,John S. Denker|556|121|3|11
+9|Optimal Depth Neural Networks for Multiplication and Related Problems.|Kai-Yeung Siu,Vwani P. Roychowdhury|6|0|0|0
+10|Using Prior Knowledge in a {NNPDA} to Learn Context-Free Languages.|Sreerupa Das,C. Lee Giles,Guo-Zheng Sun|34|6|0|0
+11|A Method for Learning From Hints.|Yaser S. Abu-Mostafa|74|6|0|4
+12|Q-Learning with Hidden-Unit Restarting.|Charles W. Anderson|66|4|0|8
+13|Nets with Unreliable Hidden Nodes Learn Error-Correcting Codes.|J. Stephen Judd,Paul W. Munro|18|6|0|2
+14|Interposing an Ontogenetic Model Between Genetic Algorithms and Neural Networks.|Richard K. Belew|66|4|0|5
+15|Combining Neural and Symbolic Learning to Revise Probabilistic Rule Bases.|J. Jeffrey Mahoney,Raymond J. Mooney|22|1|0|3
+16|Learning Sequential Tasks by Incrementally Adding Higher Orders.|Mark B. Ring|46|7|0|1
+17|Kohonen Feature Maps and Growing Cell Structures - a Performance Comparison.|Bernd Fritzke|109|22|0|6
+18|Metamorphosis Networks: An Alternative to Constructive Models.|Brian V. Bonnlander,Michael Mozer|1|0|0|0
+19|A Boundary Hunting Radial Basis Function Classifier which Allocates Centers Constructively.|Eric I. Chang,Richard Lippmann|26|3|2|3
+20|Automatic Capacity Tuning of Very Large VC-Dimension Classifiers.|Isabelle Guyon,Bernhard E. Boser,Vladimir Vapnik|174|68|0|2
+21|Automatic Learning Rate Maximization in Large Adaptive Machines.|Yann LeCun,Patrice Y. Simard,Barak A. Pearlmutter|7|0|0|0
+22|Second Order Derivatives for Network Pruning: Optimal Brain Surgeon.|Babak Hassibi,David G. Stork|828|169|1|4
+23|Directional-Unit Boltzmann Machines.|Richard S. Zemel,Christopher K. I. Williams,Michael Mozer|10|6|0|0
+24|Time Warping Invariant Neural Networks.|Guo-Zheng Sun,Hsing-Hen Chen,Yee-Chun Lee|13|3|0|0
+25|Generalization Abilities of Cascade Network Architecture.|Enno Littmann,Helge J. Ritter|33|2|0|4
+26|Assessing and Improving Neural Network Predictions by the Bootstrap Algorithm.|Gerhard Paass|34|3|0|3
+27|Discriminability-Based Transfer between Neural Networks.|Lorien Y. Pratt|95|19|0|4
+28|Summed Weight Neuron Perturbation: An O(N) Improvement Over Weight Perturbation.|Barry Flower,Marwan A. Jabri|53|9|0|3
+29|A Note on Learning Vector Quantization.|Virginia R. de Sa,Dana H. Ballard|13|1|0|5
+30|Extended Regularization Methods for Nonconvergent Model Selection.|William Finnoff,Ferdinand Hergert,Hans-Georg Zimmermann|3|0|0|0
+31|Synchronization and Grammatical Inference in an Oscillating Elman Net.|Bill Baird,Todd Troyer,Frank H. Eeckman|8|1|0|6
+32|A Fast Stochastic Error-Descent Algorithm for Supervised Learning and Optimization.|Gert Cauwenberghs|153|33|0|16
+33|Global Regularization of Inverse Kinematics for Redundant Manipulators.|David DeMers,Kenneth Kreutz-Delgado|8|1|0|1
+34|Memory-Based Reinforcement Learning: Efficient Computation with Prioritized Sweeping.|Andrew W. Moore,Christopher G. Atkeson|37|2|0|0
+35|Feudal Reinforcement Learning.|Peter Dayan,Geoffrey E. Hinton|335|68|0|6
+36|Input Reconstruction Reliability Estimation.|Dean Pomerleau|35|0|0|5
+37|Explanation-Based Neural Network Learning for Robot Control.|Tom M. Mitchell,Sebastian Thrun|121|25|0|11
+38|Reinforcement Learning Applied to Linear Quadratic Regulation.|Steven J. Bradtke|105|15|2|2
+39|Neural Network On-Line Learning Control of Spacecraft Smart Structures.|Christopher Bowman|1|0|0|0
+40|Integration of Visual and Somatosensory Information for Preshaping Hand in Grasping Movements.|Yoji Uno,Naohiro Fukumura,Ryoji Suzuki,Mitsuo Kawato|10|0|0|1
+41|On Line Estimation of Optimal Control Sequences: HJB Estimators.|James K. Peterson|3|0|0|1
+42|Learning Control Under Extreme Uncertainty.|Vijaykumar Gullapalli|38|9|0|0
+43|A Practice Strategy for Robot Learning Control.|Terence D. Sanger|3|0|0|0
+44|Learning Spatio-Temporal Planning from a Dynamic Programming Teacher: Feed-Forward Neurocontrol for Moving Obstacle Avoidance.|Gerald Fahner,Rolf Eckmiller|2|1|0|1
+45|Learning Fuzzy Rule-Based Neural Networks for Control.|Charles M. Higgins,Rodney M. Goodman|30|5|0|0
+46|Learning to Categorize Objects Using Temporal Coherence.|Suzanna Becker|77|12|0|6
+47|Filter Selection Model for Generating Visual Motion Signals.|Steven J. Nowlan,Terrence J. Sejnowski|21|1|0|1
+48|Stimulus Encoding by Multidimensional Receptive Fields in Single Cells and Cell Populations in V1 of Awake Monkey.|Edward Stern,Ad Aertsen,Eilon Vaadia,Shaul Hochstein|3|1|0|0
+49|The Computation of Stereo Disparity for Transparent and for Opaque Surfaces.|Suthep Madarasmi,Daniel J. Kersten,Ting-Chuen Pong|8|1|0|1
+50|Some Solutions to the Missing Feature Problem in Vision.|Subutai Ahmad,Volker Tresp|136|22|1|10
+51|Improving Convergence in Hierarchical Matching Networks for Object Recognition.|Joachim Utans,Gene Gindi|3|0|0|1
+52|A Model of Feedback to the Lateral Geniculate Nucleus.|Carlos D. Brody|1|0|0|0
+53|Unsmearing Visual Motion: Development of Long-Range Horizontal Intrinsic Connections.|Kevin E. Martin,Jonathan A. Marshall|29|1|0|7
+54|Remote Sensing Image Analysis via a Texture Classification Neural Network.|Hayit Greenspan,Rodney M. Goodman|10|2|1|2
+55|Computation of Heading Direction from Optic Flow in Visual Cortex.|Markus Lappe,Josef P. Rauschecker|17|1|0|13
+56|Learning to See Where and What: Training a Net to Make Saccades and Recognize Handwritten Characters.|Gale Martin,Mosfeq Rashid,David Chapman,James A. Pittman|12|0|3|0
+57|Weight Space Probability Densities in Stochastic Learning: I. Dynamics and Equilibria.|Todd K. Leen,John E. Moody|30|2|0|7
+58|Diffusion Approximations for the Constant Step Size Backpropagation Algorithm and Resistance to Local Minima.|William Finnoff|n/a
+59|Self-Organizing Rules for Robust Principal Component Analysis.|Lei Xu,Alan L. Yuille|10|0|0|1
+60|Bayesian Learning via Stochastic Dynamics.|Radford M. Neal|103|15|0|2
+61|Information, Prediction, and Query by Committee.|Yoav Freund,H. Sebastian Seung,Eli Shamir,Naftali Tishby|97|21|2|1
+62|Synaptic Weight Noise During MLP Learning Enhances Fault-Tolerance, Generalization and Learning Trajectory.|Alan F. Murray,Peter J. Edwards|26|4|0|2
+63|Unsupervised Discrimination of Clustered Data via Optimization of Binary Information Gain.|Nicol N. Schraudolph,Terrence J. Sejnowski|31|7|0|11
+64|Weight Space Probability Densities in Stochastic Learning: II. Transients and Basin Hopping Times.|Genevieve B. Orr,Todd K. Leen|30|4|0|10
+65|Information Theoretic Analysis of Connection Structure from Spike Trains.|Satoru Shiono,Satoshi Yamada,Michio Nakashima,Kenji Matsumoto|3|1|0|0
+66|Statistical Mechanics of Learning in a Large Committee Machine.|Holm Schwarze,John A. Hertz|0|0|0|0
+67|Probability Estimator from a Database Using a Gibbs Energy Model.|John W. Miller,Rodney M. Goodman|3|0|0|0
+68|On the Use of Evidence in Neural Networks.|David Wolpert|58|4|0|3
+69|Destabilization and Route to Chaos in Neural Networks with Random Connectivity.|Bernard Doyon,Bruno Cessac,Mathias Quoy,Manuel Samuelides|1|0|0|0
+70|Predicting Complex Behavior in Sparse Asymmetric Networks.|Ali A. Minai,William B. Levy|11|0|0|8
+71|Single-Iteration Threshold Hamming Networks.|Isaac Meilijson,Eytan Ruppin,Moshe Sipper|15|7|0|2
+72|History-Dependent Attractor Neural Networks.|Isaac Meilijson,Eytan Ruppin|7|0|0|5
+73|Non-Linear Dimensionality Reduction.|David DeMers,Garrison W. Cottrell|n/a
+74|On Learning µ-Perceptron Networks with Binary Weights.|Mostefa Golea,Mario Marchand,Thomas R. Hancock|n/a
+75|Neural Network Model Selection Using Asymptotic Jackknife Estimator and Cross-Validation Method.|Yong Liu|16|1|0|3
+76|Learning Curves, Model Selection and Complexity of Neural Networks.|Noboru Murata,Shuji Yoshizawa,Shun-ichi Amari|47|8|2|7
+77|The Power of Approximation: A Comparison of Activation Functions.|Bhaskar DasGupta,Georg Schnitger|47|8|0|6
+78|Rational Parametrizations of Neural Networks.|Uwe Helmke,Robert C. Williamson|0|0|0|0
+79|Learning Cellular Automation Dynamics with Neural Networks.|N. H. Wulff,John A. Hertz|0|0|0|0
+80|Some Estimates on the Number of Connections and Hidden Units for Feed-Forward Networks.|Adam Kowalczyk|0|0|0|0
+81|Context-Dependent Multiple Distribution Phonetic Modeling with MLPs.|Michael Cohen,Horacio Franco,Nelson Morgan,David E. Rumelhart,Victor Abrash|34|1|0|7
+82|Physiologically Based Speech Synthesis.|Makoto Hirayama,Eric Vatikiotis-Bateson,Kiyoshi Honda,Yasuharu Koike,Mitsuo Kawato|n/a
+83|Analog Cochlear Model for Multiresolution Speech Analysis.|Weimin Liu,Andreas G. Andreou,Moise H. Goldstein Jr.|15|2|0|4
+84|A Hybrid Linear/Nonlinear Approach to Channel Equalization Problems.|Wei-Tsih Lee,John C. Pearson|8|1|0|0
+85|Modeling Consistency in a Speaker Independent Continuous Speech Recognition System.|Yochai Konig,Nelson Morgan,Chuck Wooters,Victor Abrash,Michael Cohen,Horacio Franco|4|0|0|4
+86|Transient Signal Detection with Neural Networks: The Search for the Desired Signal.|José Carlos Príncipe,Abir Zahalka|8|0|0|1
+87|Performance Through Consistency: MS-TDNN's for Large Vocabulary Continuous Speech Recognition.|Joe Tebelskis,Alex Waibel|10|0|0|5
+88|A Hybrid Neural Net System for State-of-the-Art Continuous Speech Recognition.|George Zavaliagkos,Ying Zhao,Richard M. Schwartz,John Makhoul|5|0|0|2
+89|Connected Letter Recognition with a Multi-State Time Delay Neural Network.|Hermann Hild,Alex Waibel|29|5|2|11
+90|Recognition-Based Segmentation of On-Line Hand-Printed Words.|Markus Schenkel,H. Weissman,Isabelle Guyon,C. Nohl,Donnie Henderson|34|2|0|4
+91|Planar Hidden Markov Modeling: From Speech to Optical Character Recognition.|Esther Levin,Roberto Pieraccini|14|2|0|0
+92|Forecasting Demand for Electric Power.|Jen-Lun Yuan,Terrence Fine|18|1|0|1
+93|Hidden Markov Models in Molecular Biology: New Algorithms and Applications.|Pierre Baldi,Yves Chauvin,Tim Hunkapiller,Marcella A. McClure|38|7|0|4
+94|A Neural Network that Learns to Interpret Myocardial Planar Thallium Scintigrams.|Charles R. Rosenberg,Jacob Erel,Henri Atlan|15|0|0|1
+95|An Analog VLSI Chip for Radial Basis Functions.|Janeen Anderson,John C. Platt,David Kirk|34|1|0|0
+96|Generic Analog Neural Computation - The Epsilon Chip.|Stephen Churcher,Donald J. Baxter,Alister Hamilton,Alan F. Murray,H. Martin Reekie|18|0|0|2
+97|Visual Motion Computation in Analog VLSI Using Pulses.|Rahul Sarpeshkar,Wyeth Bair,Christof Koch|50|6|6|10
+98|Analog VLSI Implementation of Gradient Descent.|David B. Kirch,Douglas Kerns,Kurt W. Fleischer,Alan H. Barr|n/a
+99|An Object-Oriented Framework for the Simulation of Neural Networks.|Alexander Linden,Thomas Sudbrak,Christoph Tietz,F. Weber|10|0|0|2
+100|Attractor Neural Networks with Local Inhibition: From Statistical Physics to a Digitial Programmable Integrated Circuit.|Eros Pasero,Riccardo Zecchina|0|0|0|0
+101|Hybrid Circuits of Interacting Computer Model and Biological Neurons.|Sylvie Renaud-Le Masson,Gwendal Le Masson,Eve Marder,L. F. Abbott|14|0|0|1
+102|Silicon Auditory Processors as Computer Peripherals.|John Lazzaro,John Wawrzynek,Misha Mahowald,Massimo Sivilotti,Dave Gillespie|217|57|5|11
+103|Object-Based Analog VLSI Vision Circuits.|Christof Koch,Binnal Mathur,Shih-Chii Liu,John G. Harris,Jin Luo,Massimo Sivilotti|8|1|5|5
+104|A Parallel Gradient Descent Method for Learning in Analog VLSI Neural Networks.|Joshua Alspector,Ronny Meir,Ben P. Yuhas,Anthony Jayakumar,D. Lippe|103|14|0|3
+105|Harmonic Grammars for Formal Languages.|Paul Smolensky|4|0|0|2
+106|Analogy - Watershed or Waterloo? Structural Alignment and the Development of Connectionist Models of Cognition.|Dedre Gentner,Arthur B. Markman|68|9|0|14
+107|A Connectionist Symbol Manipulator that Discovers the Structure of Context-Free Languages.|Michael Mozer,Sreerupa Das|27|5|0|3
+108|Network Structuring and Training Using Rule-Based Knowledge.|Volker Tresp,Jürgen Hollatz,Subutai Ahmad|111|8|0|9
+109|A Dynamical Model of Priming and Repetition Blindness.|Daphne Bavelier,Michael I. Jordan|20|1|0|0
+110|A Knowledge-Based Model of Geometry Learning.|Geoffrey G. Towell,Richard Lehrer|n/a
+111|Word Space.|Hinrich Schütze|240|89|1|0
+112|Perceiving Complex Visual Scenes: An Oscillator Neural Network Model that Integrates Selective Attention, Perceptual Organization, and Invariant Recognition.|Rainer Goebel|15|4|0|3
+113|Maaping Between Neural and Physical Activities of the Lobster Gastric Mill.|Kenji Doya,Mary E. T. Boyle,Allen I. Selverston|2|1|0|0
+114|A Neural Model of Descending Gain Control in the Electrosensory System.|Mark E. Nelson|5|1|0|5
+115|Using Hippocampal `Plane Cells' for Navigation, Exploiting Phase Coding.|Neil Burgess,John O'Keefe,Michael Recce|52|7|0|12
+116|Adaptive Stimulus Representations: A Computational Theory of Hippocampal-Region Functions.|Mark A. Gluck,Catherine Myers|3|0|0|2
+117|Statistical Modeling of Cell Assemblies Activities in Associative Cortex of Behaving Monkeys.|Itay Gat,Naftali Tishby|12|1|0|2
+118|Deriving Receptive Fields Using an Optimal Encoding Criterion.|Ralph Linsker|43|3|0|3
+119|Biologically Plausible Local Learning Rules for the Adaptation of the Vestibulo-Ocular Reflex.|Olivier J. M. D. Coenen,Terrence J. Sejnowski,Stephen G. Lisberger|7|0|0|1
+120|Using Aperiodic Reinforcement for Directed Self-Organization During Development.|P. Read Montague,Peter Dayan,Steven J. Nowlan,Terrence J. Sejnowski|n/a
+121|How Oscillatory Neuronal Responses Reflect Bistability and Switching of the Hidden Assembly Dynamics.|Klaus Pawelzik,Hans-Ulrich Bauer,J. Deppisch,Theo Geisel|7|1|0|4
+122|Topography and Ocular Dominance with Positive Correlations.|Geoffrey J. Goodhill|4|0|0|1
+123|Statistical and Dynamical Interpretation of ISIH Data from Periodically Stimulated Sensory Neurons.|Frank Moss,André Longtin|4|0|0|2
+124|Spiral Waves in Integrate-and-Fire Neural Networks.|John G. Milton,Po Hsiang Chu,Jack D. Cowan|35|9|0|4
+125|Parametrizing Feature Sensitive Cell Formation in Linsker Networks in the Auditory System.|Lance C. Walton,David L. Bisset|0|0|0|0
+126|A Recurrent Neural Network for Generation of Occular Saccades.|Lina Massone|0|0|0|0
+127|A Formal Model of the Insect Olfactory Macroglomerulus: Simulations and Analytic Results.|Christiane Linster,David Marsan,Claudine Masson,Michel Kerszberg,Gérard Dreyfus,Léon Personnaz|10|3|0|6
+128|An Information-Theoretic Approach to Deciphering the Hippocampal Code.|William E. Skaggs,Bruce L. McNaughton,Katalin M. Gothard|277|111|0|21

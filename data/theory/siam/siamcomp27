@@ -1,0 +1,82 @@
+81
+1|Hypercubic Sorting Networks.|Frank Thomson Leighton,C. Greg Plaxton|28|13|0|4
+2|The Shrinkage Exponent of de Morgan Formulas is 2.|Johan Håstad|85|57|0|0
+3|Shared Memory Consistency Conditions for Nonsequential Execution: Definitions and Programming Strategies.|Hagit Attiya,Soma Chaudhuri,Roy Friedman,Jennifer L. Welch|28|3|0|8
+4|Two-Dimensional Periodicity in Rectangular Arrays.|Amihood Amir,Gary Benson|28|7|0|6
+5|A Fast Discrete Approximation Algorithm for the Radon Transform.|Martin L. Brady|118|29|7|3
+6|Value Sets of Some Polynomials Over Finite Fields GF(22m).|Thomas W. Cusick|5|2|0|1
+7|Optimal Upward Planarity Testing of Single-Source Digraphs.|Paola Bertolazzi,Giuseppe Di Battista,Carlo Mannino,Roberto Tamassia|96|41|0|0
+8|Linear and O(n log n) Time Minimum-Cost Matching Algorithms for Quasi-Convex Tours.|Samuel R. Buss,Peter N. Yianilos|n/a
+9|Space-Efficient Scheduling of Multithreaded Computations.|Robert D. Blumofe,Charles E. Leiserson|186|64|0|20
+10|Simulating Threshold Circuits by Majority Circuits.|Mikael Goldmann,Marek Karpinski|48|7|0|0
+11|Fully Polynomial Byzantine Agreement for n > 3t Processors in t + 1 Rounds.|Juan A. Garay,Yoram Moses|n/a
+12|An O(log k) Approximate Min-Cut Max-Flow Theorem and Approximation Algorithm.|Yonatan Aumann,Yuval Rabani|262|96|0|3
+13|A Sublinear Time Distributed Algorithm for Minimum-Weight Spanning Trees.|Juan A. Garay,Shay Kutten,David Peleg|177|83|0|19
+14|Atomic Snapshots in O(n log n) Operations.|Hagit Attiya,Ophir Rachman|113|34|29|8
+15|Circuit Bottom Fan-In and Computational Power.|Liming Cai,Jianer Chen,Johan Håstad|11|4|0|3
+16|On the Complexity of Computing Mixed Volumes.|Martin E. Dyer,Peter Gritzmann,Alexander Hufnagel|81|19|0|4
+17|Interpolating Arithmetic Read-Once Formulas in Parallel.|Nader H. Bshouty,Richard Cleve|14|10|0|1
+18|An On-Line Algorithm for Some Uniform Processor Scheduling.|Rongheng Li,Lijie Shi|29|11|0|0
+19|The Load, Capacity, and Availability of Quorum Systems.|Moni Naor,Avishai Wool|234|79|29|16
+20|Space-Efficient Deterministic Simulation of Probabilistic Automata.|Ioan I. Macarie|23|7|0|2
+21|Efficient Matrix Chain Ordering in Polylog Time.|Phillip G. Bradford,Gregory J. E. Rawlins,Gregory E. Shannon|12|4|0|1
+22|Computing Many Faces in Arrangements of Lines and Segments.|Pankaj K. Agarwal,Jirí Matousek,Otfried Schwarzkopf|47|14|0|10
+23|Fault-Tolerant Computation in the Full Information Model.|Oded Goldreich,Shafi Goldwasser,Nathan Linial|66|11|0|9
+24|A Spectral Approach to Lower Bounds with Applications to Geometric Searching.|Bernard Chazelle|27|8|0|8
+25|Incremental String Comparison.|Gad M. Landau,Eugene W. Myers,Jeanette P. Schmidt|127|49|1|11
+26|Localizing a Robot with Minimum Travel.|Gregory Dudek,Kathleen Romanik,Sue Whitesides|116|21|0|6
+27|Listing All Minimal Separators of a Graph.|Ton Kloks,Dieter Kratsch|73|20|0|11
+28|Efficient Self-Embedding of Butterfly Networks with Random Faults.|Hisao Tamaki|13|0|0|4
+29|Splittings, Robustness, and Structure of Complete Sets.|Harry Buhrman,Albrecht Hoene,Leen Torenvliet|26|3|0|2
+30|Constructing Levels in Arrangements and Higher Order Voronoi Diagrams.|Pankaj K. Agarwal,Mark de Berg,Jirí Matousek,Otfried Schwarzkopf|99|38|0|8
+31|A Constant Time Optimal Parallel Algorithm for Two-Dimensional Pattern Matching.|Maxime Crochemore,Leszek Gasieniec,Ramesh Hariharan,S. Muthukrishnan,Wojciech Rytter|16|5|0|3
+32|Improved Randomized On-Line Algorithms for the List Update Problem.|Susanne Albers|86|28|1|19
+33|Computing the Additive Complexity of Algebraic Circuits with Root Extracting.|Dima Grigoriev,Marek Karpinski|1|0|0|0
+34|An Omega(D log (N/D)) Lower Bound for Broadcast in Radio Networks.|Eyal Kushilevitz,Yishay Mansour|225|76|0|3
+35|Optimal On-Line Search and Sublinear Time Update in String Matching.|Paolo Ferragina,Roberto Grossi|33|10|1|4
+36|Introduction to Special Section on Probabilistic Proof Systems.|Shafi Goldwasser|0|0|0|0
+37|On the Power of Finite Automata with Both Nondeterministic and Probabilistic States.|Anne Condon,Lisa Hellerstein,Samuel Pottle,Avi Wigderson|28|3|0|1
+38|A Parallel Repetition Theorem.|Ran Raz|642|277|0|15
+39|Free Bits, PCPs, and Nonapproximability-Towards Tight Results.|Mihir Bellare,Oded Goldreich,Madhu Sudan|454|145|0|52
+40|Fast Gossiping by Short Messages.|Jean-Claude Bermond,Luisa Gargano,Adele A. Rescigno,Ugo Vaccaro|54|16|0|13
+41|Approximation Algorithms for the Feedback Vertex Set Problem with Applications to Constraint Satisfaction and Bayesian Inference.|Reuven Bar-Yehuda,Dan Geiger,Joseph Naor,Ron M. Roth|168|52|0|12
+42|Planar Integer Linear Programming is NC Equivalent to Euclidean GCD.|David Shallcross,Victor Y. Pan,Yu Lin-Kriz|1|0|0|0
+43|All Highest Scoring Paths in Weighted Grid Graphs and Their Application to Finding All Approximate Repeats in Strings.|Jeanette P. Schmidt|139|26|0|1
+44|Bounding the Power of Preemption in Randomized Scheduling.|Ran Canetti,Sandy Irani|52|25|0|2
+45|Surface Approximation and Geometric Partitions.|Pankaj K. Agarwal,Subhash Suri|132|24|0|11
+46|Randomized Data Structures for the Dynamic Closest-Pair Problem.|Mordecai J. Golin,Rajeev Raman,Christian Schwarz,Michiel H. M. Smid|18|0|0|5
+47|Separating Exponentially Ambiguous Finite Automata from Polynomially Ambiguous Finite Automata.|Hing Leung|52|25|0|4
+48|An Omega(sqrt{log log n}) Lower Bound for Routing in Optical Networks.|Leslie Ann Goldberg,Mark Jerrum,Philip D. MacKenzie|0|0|0|0
+49|Computing Matrix Eigenvalues and Polynomial Zeros Where the Output is Real.|Dario Bini,Victor Y. Pan|39|17|0|27
+50|Computational Complexity and Knowledge Complexity.|Oded Goldreich,Rafail Ostrovsky,Erez Petrank|16|0|0|1
+51|The Complexity of Planar Counting Problems.|Harry B. Hunt III,Madhav V. Marathe,Venkatesh Radhakrishnan,Richard Edwin Stearns|79|17|0|5
+52|Guaranteeing Fair Service to Persistent Dependent Tasks.|Amotz Bar-Noy,Alain J. Mayer,Baruch Schieber,Madhu Sudan|46|9|0|5
+53|Time-Space Lower Bounds for Directed st-Connectivity on Graph Automata Models.|Greg Barnes,Jeff Edmonds|8|2|0|0
+54|A Chernoff Bound for Random Walks on Expander Graphs.|David Gillman|190|77|0|0
+55|Processor-Ring Communication: A Tight Asymptotic Bound on Packet Waiting Times.|Edward G. Coffman Jr.,Nabil Kahale,Frank Thomson Leighton|8|1|0|0
+56|Approximation Algorithms for PSPACE-Hard Hierarchically and Periodically Specified Problems.|Madhav V. Marathe,Harry B. Hunt III,Richard Edwin Stearns,Venkatesh Radhakrishnan|27|4|0|4
+57|Approximately Counting Hamilton Paths and Cycles in Dense Graphs.|Martin E. Dyer,Alan M. Frieze,Mark Jerrum|36|15|0|3
+58|A Sublinear Space, Polynomial Time Algorithm for Directed s-t Connectivity.|Greg Barnes,Jonathan F. Buss,Walter L. Ruzzo,Baruch Schieber|47|16|1|4
+59|Monotone Circuits for Connectivity Have Depth (log n)2-o(1).|Mikael Goldmann,Johan Håstad|12|5|0|0
+60|Complexity Analysis of a Parallel Lattice Basis Reduction Algorithm.|Christian Heckler,Lothar Thiele|12|6|0|0
+61|On the Fault Tolerance of Some Popular Bounded-Degree Networks.|Frank Thomson Leighton,Bruce M. Maggs,Ramesh K. Sitaraman|104|11|0|7
+62|On the Complexity of Negation-Limited Boolean Networks.|Robert Beals,Tetsuro Nishino,Keisuke Tanaka|31|8|0|3
+63|Simple Fast Parallel Hashing by Oblivious Execution.|Joseph Gil,Yossi Matias|3|0|0|1
+64|A Filter Model for Concurrent lambda-Calculus.|Mariangiola Dezani-Ciancaglini,Ugo de'Liguoro,Adolfo Piperno|57|13|0|27
+65|Downward Separation Fails Catastrophically for Limited Nondeterminism Classes.|Richard Beigel,Judy Goldsmith|18|0|0|7
+66|The PL Hierarchy Collapses.|Mitsunori Ogihara|34|6|0|9
+67|Generating Low-Degree 2-Spanners.|Guy Kortsarz,David Peleg|32|8|0|3
+68|Performing Work Efficiently in the Presence of Faults.|Cynthia Dwork,Joseph Y. Halpern,Orli Waarts|86|22|0|1
+69|Time-Space Tradeoffs For Undirected st-Connectivity on a Graph Automata.|Jeff Edmonds|4|0|0|0
+70|On Learning Read-k-Satisfy-j DNF.|Howard Aizenstein,Avrim Blum,Roni Khardon,Eyal Kushilevitz,Leonard Pitt,Dan Roth|20|1|0|6
+71|Log-Space Polynomial End-to-End Communication.|Eyal Kushilevitz,Rafail Ostrovsky,Adi Rosén|19|10|1|6
+72|Lower Bounds for Randomized Mutual Exclusion.|Eyal Kushilevitz,Yishay Mansour,Michael O. Rabin,David Zuckerman|9|0|0|1
+73|Adaptive Heuristics for Binary Search Trees and Constant Linkage Cost.|Tony W. Lai,Derick Wood|12|1|0|3
+74|Tree Contractions and Evolutionary Trees.|Ming-Yang Kao|48|3|0|11
+75|Optimal Prediction for Prefetching in the Worst Case.|P. Krishnan,Jeffrey Scott Vitter|34|5|0|4
+76|A Correctness Condition for High-Performance Multiprocessors.|Hagit Attiya,Roy Friedman|100|7|1|11
+77|Efficient Algorithms for the Domination Problems on Interval and Circular-Arc Graphs.|Maw-Shang Chang|88|40|0|2
+78|Computing the Local Consensus of Trees.|Sampath Kannan,Tandy Warnow|47|8|0|6
+79|Parallel Algorithms with Optimal Speedup for Bounded Treewidth.|Hans L. Bodlaender,Torben Hagerup|52|22|0|10
+80|First-Order Queries on Finite Structures Over the Reals.|Jan Paredaens,Jan Van den Bussche,Dirk Van Gucht|81|5|0|7
+81|Spirality and Optimal Orthogonal Drawings.|Giuseppe Di Battista,Giuseppe Liotta,Francesco Vargiu|61|22|0|10

@@ -1,0 +1,26 @@
+25
+1|ASPLOS-V Proceedings - Fifth International Conference on Architectural Support for Programming Languages and Operating Systems, Boston, Massachusetts, USA, October 12-15, 1992.|Barry Flahive,Richard L. Wexelblat|n/a
+2|On-Line Data Compression in a Log-Structured File System.|Michael Burrows,Charles Jerian,Butler W. Lampson,Timothy Mann|105|35|9|1
+3|Non-Volatile Memory for Fast, Reliable File Systems.|Mary Baker,Satoshi Asami,Etienne Deprit,John K. Ousterhout,Margo I. Seltzer|312|66|11|0
+4|Parity Declustering for Continuous Operation in Redundant Disk Arrays.|Mark Holland,Garth A. Gibson|217|55|11|15
+5|Software Support for Speculative Loads.|Anne Rogers,Kai Li|111|11|3|3
+6|Reducing Memory Latency via Non-blocking and Prefetching Caches.|Tien-Fu Chen,Jean-Loup Baer|276|36|4|1
+7|Design and Evaluation of a Compiler Algorithm for Prefetching.|Todd C. Mowry,Monica S. Lam,Anoop Gupta|845|97|23|24
+8|Improving the Accuracy of Dynamic Branch Prediction Using Branch Correlation.|Shien-Tai Pan,Kimming So,Joseph T. Rahmeh|356|46|6|0
+9|Predicting Conditional Branch Directions From Previous Runs of a Program.|Joseph A. Fisher,Stefan M. Freudenberger|259|29|3|2
+10|High Speed Switch Scheduling for Local Area Networks.|Thomas E. Anderson,Susan S. Owicki,James B. Saxe,Charles P. Thacker|1016|254|21|4
+11|A Tightly-Coupled Processor-Network Interface.|Dana S. Henry,Christopher F. Joerg|115|11|0|2
+12|Consistency Management for Virtually Indexed Caches.|Bob Wheeler,Brian N. Bershad|42|4|2|3
+13|Eliminating the Address Translation Bottleneck for Physical Address Cache.|Tzi-cker Chiueh,Randy H. Katz|32|2|1|0
+14|A Performance Evaluation of Optimal Hybrid Cache Coherency Protocols.|Jack E. Veenstra,Robert J. Fowler|43|2|1|4
+15|Characterizing the Caching and Synchronization Performance of a Multiprocessor Operating System.|Josep Torrellas,Anoop Gupta,John L. Hennessy|117|9|0|14
+16|Architectural Support for Single Address Space Operating Systems.|Eric J. Koldinger,Jeffrey S. Chase,Susan J. Eggers|123|26|1|3
+17|Application-Controlled Physical Memory using External Page-Cache Management.|Kieran Harty,David R. Cheriton|219|18|3|3
+18|Efficient Data Breakpoints.|Robert Wahbe|53|9|4|1
+19|Migrating a CISC Computer Family onto RISC via Object Code Translation.|Kristy Andrews,Duane Sand|67|14|7|0
+20|Fast Mutual Exclusion for Uniprocessors.|Brian N. Bershad,David D. Redell,John R. Ellis|112|20|14|4
+21|Sentinel Scheduling for VLIW and Superscalar Processors.|Scott A. Mahlke,William Y. Chen,Wen-mei W. Hwu,B. Ramakrishna Rau,Michael S. Schlansker|140|11|7|12
+22|Efficient Superscalar Performance Through Boosting.|Michael D. Smith,Mark Horowitz,Monica S. Lam|153|9|4|5
+23|Cooperative Shared Memory: Software and Hardware Support for Scalable Multiprocesors.|Mark D. Hill,James R. Larus,Steven K. Reinhardt,David A. Wood|n/a
+24|Closing the Window of Vulnerability in Multiphase Memory Transactions.|John Kubiatowicz,David Chaiken,Anant Agarwal|44|9|6|13
+25|Access Normalization: Loop Restructuring for NUMA Compilers.|Wei Li,Keshav Pingali|98|8|0|25
