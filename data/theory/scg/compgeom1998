@@ -1,0 +1,53 @@
+52
+1|Proceedings of the Fourteenth Annual Symposium on Computational Geometry, Minneapolis, Minnesota, USA, June 7-10, 1998.|Ravi Janardan|n/a
+2|Rotational Polygon Containment and Minimum Enclosure.|Victor Milenkovic|33|0|4|0
+3|A General Framework for Assembly Planning: The Motion Space Approach.|Dan Halperin,Jean-Claude Latombe,Randall H. Wilson|119|0|1|15
+4|Multi-Criteria Geometric Optimization Problems in Layered Manufacturing.|Jayanth Majhi,Ravi Janardan,Michiel H. M. Smid,Jörg Schwerdt|27|0|0|13
+5|Design and Analysis of Planar Shape Deformation.|Siu-Wing Cheng,Herbert Edelsbrunner,Ping Fu,Ka-Po Lam|28|0|0|5
+6|Surface Reconstruction by Voronoi Filtering.|Nina Amenta,Marshall W. Bern|994|0|2|15
+7|Cross-Ratios and Angles Determine a Polygon.|Jack Snoeyink|9|0|0|0
+8|Raising Roofs, Crashing Cycles, and Playing Pool: Applications of a Data Structure for Finding Pairwise Interactions.|David Eppstein,Jeff Erickson|196|0|1|5
+9|Construction of Contour Trees in 3D in O(n log n) Steps.|Sergey P. Tarasov,Michael N. Vyalyi|95|0|0|0
+10|A Condition Guaranteeing the Existence of Higher-Dimensional Constrained Delaunay Triangulations.|Jonathan Richard Shewchuk|113|0|0|11
+11|Tetrahedral Mesh Generation by Delaunay Refinement.|Jonathan Richard Shewchuk|487|0|0|10
+12|Implementations of the LMT Heuristic for Minimum Weight Triangulation.|Ronald Beirouti,Jack Snoeyink|33|0|0|1
+13|Improved Incremental Randomized Delaunay Triangulation.|Olivier Devillers|110|0|2|11
+14|Vertex-Rounding a Three-Dimensional Polyhedral Subdivision.|Steven Fortune|39|0|0|0
+15|Exact Algorithms for Circles on the Sphere.|Marcus Vinícius Alvim Andrade,Jorge Stolfi|23|0|0|1
+16|Cutting Cylces of Rods in Space.|Alexandra Solan|13|0|0|0
+17|Fly Cheaply: On the Minimum Fuel-Consumption Problem.|Alon Efrat,Sariel Har-Peled|18|0|0|1
+18|Designing a Data Structure for polyhedral Surfaces.|Lutz Kettner|91|0|0|4
+19|Improved Algorithms for Robust Point Pattern Matching and Applications to Image Registration.|David M. Mount,Nathan S. Netanyahu,Jacqueline Le Moigne|33|0|1|2
+20|Interval Arithmetic Yields Efficient Dynamic Filters for Computational Geometry.|Hervé Brönnimann,Christoph Burnikel,Sylvain Pion|150|0|0|19
+21|Exact Geometric Predicates Using Cascaded Computation.|Christoph Burnikel,Stefan Funke,Michael Seel|41|0|0|9
+22|Geometric Graphs with Few Disjoint Edges.|Géza Tóth,Pavel Valtr|28|0|0|3
+23|Results on k-Sets and j-Facets via Continuous Motion.|Artur Andrzejak,Boris Aronov,Sariel Har-Peled,Raimund Seidel,Emo Welzl|49|0|0|5
+24|Point-Sets with few k-Sets.|Helmut Alt,Stefan Felsner,Ferran Hurtado,Marc Noy|2|0|0|0
+25|On the Union of k-Curved Objects.|Alon Efrat,Matthew J. Katz|n/a
+26|Features of Deformation Grids: An Approach via Singularity Theory.|Fred L. Bookstein|4|0|0|2
+27|Effective Nearest Neighbors Searching on the Hyper-Cube, with Applications to Molecular Clustering.|Frédéric Cazals|7|0|0|1
+28|Matching 2D Patterns of Protein Spots.|Frank Hoffmann,Klaus Kriegel,Carola Wenk|30|0|0|4
+29|Multiresolution Banded Refinement to Accelerate Surface Reconstruction from Polygons.|James D. Fix,Richard E. Ladner|9|0|0|0
+30|Degenerate Convex Hulls On-Line in Any Fixed Dimension.|Hervé Brönnimann|3|0|0|0
+31|Randomized External-Memory Algorithms for Some Geometric Problems.|Andreas Crauser,Paolo Ferragina,Kurt Mehlhorn,Ulrich Meyer,Edgar A. Ramos|42|0|0|1
+32|Geometric Applications of a Randomized Optimization Technique.|Timothy M. Chan|89|0|0|15
+33|On Enumerating and Selecting Distances.|Timothy M. Chan|33|0|1|5
+34|Drawing Planar Partitions I: LL-Drawings and LH-Drawings.|Therese C. Biedl|25|0|0|1
+35|Approximation Algorithms for Multiple-Tool Miling.|Sunil Arya,Siu-Wing Cheng,David M. Mount|17|0|0|3
+36|Resource-Constrained Geometric Network Optimization.|Esther M. Arkin,Joseph S. B. Mitchell,Giri Narasimhan|89|0|0|3
+37|Efficiently Approximating Polygonal Paths in Three and Higher Dimensions.|Gill Barequet,Michael T. Goodrich,Danny Z. Chen,Ovidiu Daescu,Jack Snoeyink|50|0|0|13
+38|Constructing Cuttings in Theory and Practice.|Sariel Har-Peled|7|0|0|2
+39|Point Set Labeling with Sliding Labels.|Marc J. van Kreveld,Tycho Strijk,Alexander Wolff|162|0|0|28
+40|A Unified Approach to Labeling Graphical Features.|Konstantinos G. Kakoulis,Ioannis G. Tollis|80|0|4|4
+41|An Output Sensitive Algorithm for Discrete Convex Hulls.|Sariel Har-Peled|19|0|0|6
+42|Asymmetric Rendezvous on the Plane.|Edward J. Anderson,Sándor P. Fekete|41|0|0|0
+43|Motion Planning for Multiple Robots.|Boris Aronov,Mark de Berg,A. Frank van der Stappen,Petr Svestka,Jules Vleugels|64|0|0|6
+44|Constructing Approximate Shortest Path Maps in Three Dimensions.|Sariel Har-Peled|73|0|0|9
+45|Curvature-Constrained Shortest Paths in a Convex Polygon (Extended Abstract).|Pankaj K. Agarwal,Therese C. Biedl,Sylvain Lazard,Steve Robbins,Subhash Suri,Sue Whitesides|47|0|0|3
+46|Voronoi Diagrams by Divergences with Additive Weights.|Kunihiko Sadakane,Hiroshi Imai,Kensuke Onishi,Mary Inaba,Fumihiko Takeuchi,Keiko Imai|11|0|0|5
+47|GASP-II - A Geometric Algorithm Animation System for an Electronic Classroom.|Maria Shneerson,Ayellet Tal|14|0|0|2
+48|Visualization of Color Image Quantization Using Pairwise Clustering.|Luiz Velho,Jonas Gomes,Marcos Vinicius Rayol Sobreiro|5|0|0|0
+49|Optimal Floodlight Illumination of Stages.|Felipe Contreras,Jurek Czyzowicz,Eduardo Rivera-Campo,Jorge Urrutia|28|0|0|10
+50|GAWAIN: Visualizing Geometric Algorithms with Web-Based Animation.|Alejo Hausner,David P. Dobkin|14|0|0|1
+51|Viewspace Partitioning of Densely Occluded Scenes.|Yiorgos Chrysanthou,Daniel Cohen-Or,Eyal Zadicario|7|0|0|0
+52|A Path Router for Graph Drawing.|David P. Dobkin,Emden R. Gansner|6|0|0|1

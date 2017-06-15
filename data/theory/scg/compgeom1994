@@ -1,0 +1,52 @@
+51
+1|Proceedings of the Tenth Annual Symposium on Computational Geometry, Stony Brook, New York, USA, June 6-8, 1994.|Kurt Mehlhorn|n/a
+2|Vertical Decompositions for Triangles in 3-Space.|Mark de Berg,Leonidas J. Guibas,Dan Halperin|75|0|0|14
+3|Almost Tight Upper Bounds for the Single Cell and Zone Problems in Three Dimensions.|Dan Halperin,Micha Sharir|61|0|0|28
+4|On Translational Motion Planning in 3-Space.|Boris Aronov,Micha Sharir|26|0|0|6
+5|Motion Planning Amidst Fat Obstacles (Extended Abstract).|A. Frank van der Stappen,Mark H. Overmars|132|0|0|28
+6|Approximate Euclidean Shortest Path in 3-Space.|Joonsoo Choi,Jürgen Sellen,Chee-Keng Yap|125|0|0|12
+7|The Realization Problem for Euclidean Minimum Spanning Trees is NP-hard.|Peter Eades,Sue Whitesides|77|0|0|13
+8|Optimal Parallel Randomized Algorithms for the Voronoi Diagram of Line Segments in the Plane and Related Problems.|Sanguthevar Rajasekaran,Suneeta Ramaswami|16|0|0|3
+9|Constructing Levels in Arrangements and Higher Order Voronoi Diagrams.|Pankaj K. Agarwal,Mark de Berg,Jirí Matousek,Otfried Schwarzkopf|112|0|0|8
+10|Computing Many Faces in Arrangements of Lines and Segments.|Pankaj K. Agarwal,Jirí Matousek,Otfried Schwarzkopf|49|0|0|10
+11|Matching Shapes with a Reference Point.|Helmut Alt,Oswin Aichholzer,Günter Rote|111|0|0|9
+12|Piecewise-Linear Interpolation Between Polygonal Slices.|Gill Barequet,Micha Sharir|241|0|6|19
+13|Practical Methods for Approximate Geometric Pattern Matching Under Rigid Motions (Preliminary Version).|Michael T. Goodrich,Joseph S. B. Mitchell,Mark W. Orletsky|52|0|1|0
+14|Spheres, Molecules, and Hidden Surface Removal.|Dan Halperin,Mark H. Overmars|83|0|0|11
+15|Determining the Castability of Simple Polyhedra.|Prosenjit Bose,David Bremner,Marc J. van Kreveld|25|0|0|8
+16|A Fast Algorithm for Constructing Sparse Euclidean Spanners.|Gautam Das,Giri Narasimhan|130|0|0|17
+17|Dynamic Maintenance of Maximas of 2-P Point Sets.|Sanjiv Kapoor|11|0|0|0
+18|Biased Finger Trees and Three-Dimensional Layers of Maxima (Preliminary Version).|Mikhail J. Atallah,Michael T. Goodrich,Kumar Ramaiyer|17|0|0|6
+19|An Algorithm for Approximate Closest-Point Queries.|Kenneth L. Clarkson|148|0|0|3
+20|New Techniques for Exact and Approximate Dynamic Closest-Point Problems.|Sanjiv Kapoor,Michiel H. M. Smid|33|0|1|6
+21|Competitive Searching in a Generalized Street.|Amitava Datta,Christian Icking|83|0|0|13
+22|The Tight Lower Bound for the Steiner Ratio in Minkowski Planes.|Biao Gao,Ding-Zhu Du,Ronald L. Graham|0|0|0|0
+23|Bounding the Number of Geometric Permutations Induced by k-Transversals.|Jacob E. Goodman,Richard Pollack,Rephael Wenger|23|0|0|5
+24|Applications of the Crossing Number.|János Pach,Farhad Shahrokhi,Mario Szegedy|140|0|0|39
+25|Cutting Dense Point Sets in Half.|Herbert Edelsbrunner,Pavel Valtr,Emo Welzl|55|0|0|7
+26|Fast Greedy Triangulation Algorithms.|Matthew Dickerson,Robert L. (Scot) Drysdale III,Scott A. McElfresh,Emo Welzl|56|0|0|6
+27|Linear-Size Nonobtuse Triangulation of Polygons.|Marshall W. Bern,Scott A. Mitchell,Jim Ruppert|130|0|1|13
+28|Bounds on the Size of Tetrahedralizations.|Bernard Chazelle,Nadia Shouraboura|26|0|0|3
+29|An Optimal Bound for Conforming Quality Triangulations (Extended Abstract).|Tiow Seng Tan|6|0|0|0
+30|On the Maximum Degree of Minimum Spanning Trees.|Gabriel Robins,Jeffrey S. Salowe|25|0|0|3
+31|Optimal Linear-Time Algorithm for the Shortest Illuminating Line Segment in a Polygon.|Gautam Das,Giri Narasimhan|20|0|0|2
+32|Morphing Simple Polygons.|Leonidas J. Guibas,John Hershberger|27|0|0|1
+33|A New Technique to Compute Polygonal Schema for 2-Manifolds with Application to Null-Homotopy Detection.|Tamal K. Dey|79|0|0|7
+34|Triangulating Topological Spaces.|Herbert Edelsbrunner,Nimish R. Shah|275|0|1|13
+35|Almost Optimal Set Covers in Finite VC-Dimension (Preliminary Version).|Hervé Brönnimann,Michael T. Goodrich|407|0|2|6
+36|An Efficient Algorithm for the Euclidean Two-Center Problem.|Jerzy W. Jaromczyk,Miroslaw Kowaluk|46|0|0|2
+37|On Geometric Optimization with Few Violated Constraints.|Jirí Matousek|117|0|0|0
+38|Efficient Piecewise-Linear Function Approximation Using the Uniform Metric (Preliminary Version).|Michael T. Goodrich|116|0|0|1
+39|Applications of Weighted Voronoi Diagrams and Randomization to Variance-Based k-Clustering (Extended Abstract).|Mary Inaba,Naoki Katoh,Hiroshi Imai|364|0|0|16
+40|Bounded Boxes, Hausdorff Distance, and a New Proof of an Interesting Helly-Type Theorem.|Nina Amenta|34|0|0|1
+41|Computing Envelopes in Four Dimensions with Applications.|Pankaj K. Agarwal,Boris Aronov,Micha Sharir|82|0|0|31
+42|Query-Sensitive Ray Shooting.|Joseph S. B. Mitchell,David M. Mount,Subhash Suri|72|0|0|14
+43|Efficient Algorithms for Generalized Intersection Searching on Non-Iso-Oriented Objects.|Prosenjit Gupta,Ravi Janardan,Michiel H. M. Smid|23|0|0|4
+44|An O(n log n) Implementation of the Douglas-Peucker Algorithm for Line Simplification.|John Hershberger,Jack Snoeyink|90|0|0|2
+45|Computing the Rectangle Discrepancy.|David P. Dobkin,Dimitrios Gunopulos|13|0|0|2
+46|An Animation of a Fixed-Radius All-Nearest-Neighbors Algorithm.|Hans-Peter Lenhof,Michiel H. M. Smid|4|0|0|0
+47|GASP: A System to Facilitate Animating Geometric Algorithms.|Ayellet Tal,David P. Dobkin|8|0|0|2
+48|Penumbral Shadows.|Adrian Mariano,Linus Upson|n/a
+49|Exact Collision Detection for Interactive Environments (Extended Abstract).|Jonathan D. Cohen,Ming C. Lin,Dinesh Manocha,Madhav K. Ponamgi|13|0|0|0
+50|Almost Optimal Polyhedral Separators.|Hervé Brönnimann|4|0|0|0
+51|Interactive Visualization of Weighted Three-Dimensional Alpha Hulls.|Amitabh Varshney,Frederick P. Brooks Jr.,William V. Wright|4|0|0|0

@@ -1,0 +1,59 @@
+58
+1|Proceedings of the 20th ACM Symposium on Computational Geometry, Brooklyn, New York, USA, June 8-11, 2004.|Jack Snoeyink,Jean-Daniel Boissonnat|n/a
+2|Geodesic ham-sandwich cuts.|Prosenjit Bose,Erik D. Demaine,Ferran Hurtado,John Iacono,Stefan Langerman,Pat Morin|30|0|0|7
+3|Separating point sets in polygonal environments.|Erik D. Demaine,Jeff Erickson,Ferran Hurtado,John Iacono,Stefan Langerman,Henk Meijer,Mark H. Overmars,Sue Whitesides|14|0|0|0
+4|Approximate convex decomposition of polygons.|Jyh-Ming Lien,Nancy M. Amato|193|0|0|9
+5|Computing the visibility graph of points within a polygon.|Boaz Ben-Moshe,Olaf A. Hall-Holt,Matthew J. Katz,Joseph S. B. Mitchell|42|0|0|4
+6|On lines avoiding unit balls in three dimensions.|Pankaj K. Agarwal,Boris Aronov,Vladlen Koltun,Micha Sharir|19|0|0|0
+7|The number of lines tangent to arbitrary convex polyhedra in 3D.|Hervé Brönnimann,Olivier Devillers,Vida Dujmovic,Hazel Everett,Marc Glisse,Xavier Goaoc,Sylvain Lazard,Hyeon-Suk Na,Sue Whitesides|12|0|0|2
+8|Random monotone paths on polyhedra.|Günter M. Ziegler|0|0|0|0
+9|On distinct distances from a vertex of a convex polygon.|Adrian Dumitrescu|6|0|0|1
+10|Algorithms for center and Tverberg points.|Pankaj K. Agarwal,Micha Sharir,Emo Welzl|13|0|0|2
+11|Improving the crossing lemma by finding more crossings in sparse graphs: [extended abstract].|János Pach,Rados Radoicic,Gábor Tardos,Géza Tóth|89|0|0|12
+12|Solution of Scott's problem on the number of directions determined by a point set in 3-space.|János Pach,Rom Pinchasi,Micha Sharir|13|0|0|5
+13|Continuous path verification in multi-axis NC-machining.|Ron Wein,Oleg Ilushin,Gershon Elber,Dan Halperin|24|0|0|5
+14|Finding planar regions in a terrain: in practice and with a guarantree.|Stefan Funke,Theocharis Malamatos,Rahul Ray|7|0|0|1
+15|A scalable simulator for forest dynamics.|Sathish Govindarajan,Mike Dietze,Pankaj K. Agarwal,James S. Clark|23|0|0|6
+16|Pushing squares around.|Adrian Dumitrescu,János Pach|39|0|0|11
+17|New results on shortest paths in three dimensions.|Joseph S. B. Mitchell,Micha Sharir|69|0|0|1
+18|An energy-driven approach to linkage unfolding.|Jason H. Cantarella,Erik D. Demaine,Hayley N. Iben,James F. O'Brien|42|0|0|9
+19|Deterministic sampling and range counting in geometric data streams.|Amitabha Bagchi,Amitabh Chaudhary,David Eppstein,Michael T. Goodrich|53|0|0|1
+20|Faster core-set constructions and data stream algorithms in fixed dimensions.|Timothy M. Chan|125|0|0|13
+21|Range counting over multidimensional data streams.|Subhash Suri,Csaba D. Tóth,Yunhong Zhou|46|0|0|1
+22|An empirical comparison of techniques for updating Delaunay triangulations.|Leonidas J. Guibas,Daniel Russel|62|0|0|2
+23|A 2D kinetic triangulation with near-quadratic topological changes.|Pankaj K. Agarwal,Yusu Wang,Hai Yu|4|0|0|0
+24|Deformable spanners and applications.|Jie Gao,Leonidas J. Guibas,An Thanh Nguyen|115|0|0|11
+25|A computational framework for incremental motion.|David M. Mount,Nathan S. Netanyahu,Christine D. Piatko,Ruth Silverman,Angela Y. Wu|18|0|0|3
+26|Counting and representing intersections among triangles in three dimensions.|Esther Ezra,Micha Sharir|16|0|0|11
+27|Optimal adaptive algorithms for finding the nearest and farthest point on a parametric black-box curve.|Ilya Baran,Erik D. Demaine|13|0|0|3
+28|Binary space partitions of orthogonal subdivisions.|John Hershberger,Subhash Suri,Csaba D. Tóth|9|0|0|3
+29|Towards in-place geometric algorithms and data structures.|Hervé Brönnimann,Timothy M. Chan,Eric Y. Chen|53|0|0|13
+30|A near-linear constant-factor approximation for euclidean bipartite matching?|Pankaj K. Agarwal,Kasturi R. Varadarajan|38|0|0|0
+31|Locality-sensitive hashing scheme based on p-stable distributions.|Mayur Datar,Nicole Immorlica,Piotr Indyk,Vahab S. Mirrokni|1940|0|31|14
+32|Practical methods for shape fitting and kinetic data structures using core sets.|Hai Yu,Pankaj K. Agarwal,Raghunath Poreddy,Kasturi R. Varadarajan|49|0|0|9
+33|On the least median square problem.|Jeff Erickson,Sariel Har-Peled,David M. Mount|32|0|0|1
+34|Sampling and meshing a surface with guaranteed topology and geometry.|Siu-Wing Cheng,Tamal K. Dey,Edgar A. Ramos,Tathagata Ray|116|0|0|17
+35|Quality meshing for polyhedra with small angles.|Siu-Wing Cheng,Tamal K. Dey,Edgar A. Ramos,Tathagata Ray|90|0|0|13
+36|Spacetime meshing with adaptive refinement and coarsening.|Reza Abedi,Shuo-Heng Chung,Jeff Erickson,Yong Fan,Michael Garland,Damrong Guoy,Robert Haber,John M. Sullivan,Shripad Thite,Yuan Zhou|58|0|0|16
+37|A Bézier-based approach to unstructured moving meshes.|David E. Cardoze,Alexandre Cunha,Gary L. Miller,Todd Phillips,Noel Walkington|20|0|0|3
+38|Low-dimensional embedding with extra information.|Mihai Badoiu,Erik D. Demaine,Mohammad Taghi Hajiaghayi,Piotr Indyk|51|0|0|5
+39|Provable surface reconstruction from noisy samples.|Tamal K. Dey,Samrat Goswami|303|0|0|12
+40|The geometric thickness of low degree graphs.|Christian A. Duncan,David Eppstein,Stephen G. Kobourov|54|0|0|19
+41|Computing persistent homology.|Afra Zomorodian,Gunnar E. Carlsson|676|0|0|42
+42|Extreme elevation on a 2-manifold.|Pankaj K. Agarwal,Herbert Edelsbrunner,John Harer,Yusu Wang|121|0|0|18
+43|Time-varying reeb graphs for continuous space-time data.|Herbert Edelsbrunner,John Harer,Ajith Mascarenhas,Valerio Pascucci|55|0|0|7
+44|Searching for 2D RNA geometries in bacterial genomes.|Uri Laserson,Hin Hark Gan,Tamar Schlick|9|0|0|4
+45|On locally Delaunay geometric graphs.|Rom Pinchasi,Shakhar Smorodinsky|17|0|0|0
+46|On the union of kapa-round objects.|Boris Aronov,Alon Efrat,Vladlen Koltun,Micha Sharir|n/a
+47|On empty convex polygons in a planar point set.|Rom Pinchasi,Rados Radoicic,Micha Sharir|24|0|0|0
+48|The criss-cross method can take Omega(nd) pivots.|Bohdan Kaluzny,Komei Fukuda|1|0|0|0
+49|Complete, exact, and efficient computations with cubic curves.|Arno Eigenwillig,Lutz Kettner,Elmar Schömer,Nicola Wolpert|40|0|0|5
+50|Intersecting quadrics: an efficient and exact implementation.|Sylvain Lazard,Luis Mariano Peñaranda,Sylvain Petitjean|61|0|0|9
+51|Inner and outer rounding of set operations on lattice polygonal regions.|Olivier Devillers,Philippe Guigue|0|0|0|0
+52|Towards and open curved kernel.|Ioannis Z. Emiris,Athanasios Kakargias,Sylvain Pion,Monique Teillaud,Elias P. Tsigaridas|66|0|0|24
+53|Adaptive mesh generation for real-time terrain modeling.|Russel A. Apu,Marina L. Gavrilova|6|0|0|2
+54|Searching with an autonomous robot.|Sándor P. Fekete,Rolf Klein,Andreas Nüchter|14|0|0|1
+55|Morphing planar graphs.|Cesim Erten,Stephen G. Kobourov,Chandan Pitta|10|0|0|1
+56|The corner arc algorithm.|Olaf A. Hall-Holt|0|0|0|0
+57|Single-strip triangulation of manifolds with arbitrary topology.|David Eppstein,M. Gopi|47|0|0|5
+58|Approximate convex decomposition.|Jyh-Ming Lien,Nancy M. Amato|193|0|0|9

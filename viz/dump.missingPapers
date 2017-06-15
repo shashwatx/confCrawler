@@ -1,0 +1,112 @@
+vldb1990|Query Processing for Multi-Attribute Clustered Records.|Lilian Harada,Miyuki Nakano,Masaru Kitsuregawa,Mikio Takagi|n/a
+vldb1990|ARIES/KVL: A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operating on B-Tree Indexes.|C. Mohan|n/a
+vldb1990|The Buddy-Tree: An Efficient and Robust Access Method for Spatial Data Base Systems.|Bernhard Seeger,Hans-Peter Kriegel|n/a
+vldb1990|Non-Monotonic Knowledge Evolution in VLKDBs.|Christian Esculier|n/a
+vldb1991|Safe Referential Structures in Relational Databases.|Victor M. Markowitz|n/a
+vldb1991|Active Database Systems (Abstract).|Umeshwar Dayal,Klaus R. Dittrich|n/a
+vldb1991|Data and Knowledge Bases for Genome Mapping: What Lies Ahead? (Panel).|Nabil Kamel,M. Delobel,Thomas G. Marr,Robert Robbins,Jean Thierry-Mieg,Akira Tsugita|n/a
+vldb1991|Cooperative Database Design (Panel).|Stefano Spaccapietra,Shamkant B. Navathe,Erich J. Neuhold,Amit P. Sheth|n/a
+vldb1991|An Evaluation of Non-Equijoin Algorithms.|David J. DeWitt,Jeffrey F. Naughton,Donovan A. Schneider|n/a
+vldb1992|Spatial Databases.|Hanan Samet|n/a
+vldb1992|Database Management in the Year 2000: Projections and Star Gazing (Panel).|Paul G. Sorenson,Felipe Cariño,Jnan R. Dash,Patricia G. Selinger|n/a
+vldb1992|Georgraphic Information Systems, A Challenge for the 90's (Panel).|Ekow J. Otoo,Ron Lake,Wo-Shun Luk,T. H. Merrett,Hanan Samet|n/a
+vldb1992|Database Tuning.|Dennis Shasha,Steve Rozen|n/a
+vldb1992|Software Repositories.|John Mylopoulos,Thomas Rose|n/a
+vldb1992|Multiversion Query Locking.|Paul M. Bober,Michael J. Carey|n/a
+vldb1992|Data Management for Real-Time Systems.|Alejandro P. Buchmann|n/a
+vldb1993|Specifying and Enforcing Intertask Dependencies.|Paul C. Attie,Munindar P. Singh,Amit P. Sheth,Marek Rusinkiewicz|n/a
+vldb1993|The Need for Data Quality.|Blake Patterson|n/a
+vldb1994|Efficient and Effective Clustering Methods for Spatial Data Mining.|Raymond T. Ng,Jiawei Han|n/a
+vldb1994|Investigation of Algebraic Query Optimisation Techniques for Database Programming Languages.|Alexandra Poulovassilis,Carol Small|n/a
+vldb1994|Cumulative Updates.|Suryanarayana M. Sripada,Beat Wüthrich|n/a
+vldb1994|Challenges for Global Information Systems.|Alon Y. Levy,Abraham Silberschatz,Divesh Srivastava,Maria Zemankova|n/a
+vldb1995|Duplicate Removal in Information System Dissemination.|Tak W. Yan,Hector Garcia-Molina|n/a
+vldb1995|Retrieval of Composite Multimedia Objects.|Surajit Chaudhuri,Shahram Ghandeharizadeh,Cyrus Shahabi|n/a
+vldb1995|The ClustRa Telecom Database: High Availability, High Throughput, and Real-Time Response.|Svein-Olaf Hvasshovd,Øystein Torbjørnsen,Svein Erik Bratsberg,Per Holager|n/a
+vldb1995|Very Large Databases: How Large, How Different?|David Vaskevitch|n/a
+vldb1995|The Oracle Warehouse.|Gary Hallmark|n/a
+vldb1996|Constructing Efficient Decision Trees by Using Optimized Numeric Association Rules.|Takeshi Fukuda,Yasuhiko Morimoto,Shinichi Morishita,Takeshi Tokuyama|n/a
+vldb1996|How System 11 SQL Server Became Fast.|T. K. Rengarajan|n/a
+vldb1996|Database Management Systems and the Internet.|Susan Malaika|n/a
+vldb1997|Using Versions in Update Transactions: Application to Integrity Checking.|François Llirbat,Eric Simon,Dimitri Tombroff|n/a
+vldb1997|Parallel Algorithms for High-dimensional Similarity Joins for Data Mining Applications.|John C. Shafer,Rakesh Agrawal|n/a
+vldb1997|M-tree: An Efficient Access Method for Similarity Search in Metric Spaces.|Paolo Ciaccia,Marco Patella,Pavel Zezula|n/a
+vldb1998|MindReader: Querying Databases Through Multiple Examples.|Yoshiharu Ishikawa,Ravishankar Subramanya,Christos Faloutsos|n/a
+vldb1999|Repeating History Beyond ARIES.|C. Mohan|n/a
+vldb1999|Issues in Network Management in the Next Millennium.|Michael L. Brodie,Surajit Chaudhuri|n/a
+vldb1999|On Efficiently Implementing SchemaSQL on an SQL Database System.|Laks V. S. Lakshmanan,Fereidoon Sadri,Subbu N. Subramanian|n/a
+vldb1999|O-O, What Have They Done to DB2?|Michael J. Carey,Donald D. Chamberlin,Srinivasa Narayanan,Bennet Vance,Doug Doole,Serge Rielau,Richard Swagerman,Nelson Mendonça Mattos|n/a
+vldb2000|Novel Approaches in Query Processing for Moving Object Trajectories.|Dieter Pfoser,Christian S. Jensen,Yannis Theodoridis|n/a
+vldb2000|Integration of Data Mining with Database Technology.|Amir Netz,Surajit Chaudhuri,Jeff Bernhardt,Usama M. Fayyad|n/a
+vldb2001|Data Management for Pervasive Computing.|Mitch Cherniack,Michael J. Franklin,Stanley B. Zdonik|n/a
+vldb2002|Foundation Matters.|C. J. Date|n/a
+vldb2002|Wireless Graffiti - Data, Data Everywhere Matters.|Tomasz Imielinski,B. R. Badrinath|n/a
+vldb2002|Automation in Information Extraction and Data Integration.|Sunita Sarawagi|n/a
+vldb2002|Searching and Mining Fine-Grained Semi-Structured Data.|Soumen Chakrabarti|n/a
+vldb2002|eBusiness Standards and Architectures.|Anil Nori|n/a
+vldb2002|Sensor Data Mining: Similarity Search and Pattern Analysis.|Christos Faloutsos|n/a
+vldb2003|On the Costs of Multilingualism in Database Systems.|A. Kumaran,Jayant R. Haritsa|n/a
+vldb2003|Avoiding Ordering and Grouping In Query Processing.|Xiaoyu Wang,Mitch Cherniack|n/a
+vldb2003|The Zero-Delay Data Warehouse: Mobilizing Heterogeneous Databases.|eva Kühn|n/a
+vldb2003|Data Stream Query Processing: A Tutorial.|Nick Koudas,Divesh Srivastava|n/a
+vldb2004|Structures, Semantics and Statistics.|Alon Y. Halevy|n/a
+vldb2004|The NEXT Logical Framework for XQuery.|Alin Deutsch,Yannis Papakonstantinou,Yu Xu|n/a
+vldb2004|XWAVE: Approximate Extended Wavelets for Streaming Data.|Sudipto Guha,Chulyun Kim,Kyuseok Shim|n/a
+vldb2004|Simlarity Search for Web Services.|Xin Dong,Alon Y. Halevy,Jayant Madhavan,Ema Nemes,Jun Zhang|n/a
+vldb2004|The Design of GridDB: A Data-Centric Overlay for the Scientific Grid.|David T. Liu,Michael J. Franklin|n/a
+vldb2004|Automating the design of multi-dimensional clustering tables in relational databases.|Sam Lightstone,Bishwaranjan Bhattacharjee|n/a
+vldb2004|Managing RDFI Data.|Sudarshan S. Chawathe,Venkat Krishnamurthy,Sridhar Ramachandran,Sanjay E. Sarma|n/a
+vldb2004|Database Architecture for New Hardware.|Anastassia Ailamaki|n/a
+vldb2004|BilVideo Video Database Management System.|Özgür Ulusoy,Ugur Güdükbay,Mehmet Emin Dönderler,Ediz Saykol,Cemil Alper|n/a
+vldb2006|Composite Subset Measures.|Lei Chen,Raghu Ramakrishnan,Paul Barford,Bee-Chung Chen,Vinod Yegneswaran|n/a
+vldb2006|An Integrated Approach to Recovery and High Availability in an Updatable, Distributed Data Warehouse.|Edmond Lau,Samuel Madden|n/a
+vldb2006|Adaptive Density Estimation.|Arturas Mazeika,Michael H. Böhlen,Andrej Taliun|n/a
+vldb2006|Streaming in a Connected World.|Graham Cormode,Minos N. Garofalakis|n/a
+vldb2007|Technology for Developing Regions.|Eric A. Brewer|n/a
+vldb2007|Making Sense of Suppressions and Failures in Sensor Data: A Bayesian Approach.|Adam Silberstein,Alan E. Gelfand,Kamesh Munagala,Gavino Puggioni,Jun Yang|n/a
+vldb2007|GhostDB: Hiding Data from Prying Eyes.|Christophe Salperwyck,Nicolas Anciaux,Mehdi Benzine,Luc Bouganim,Philippe Pucheral,Dennis Shasha|n/a
+vldb2007|Adaptive query processing: Why, How, When, and What Next?|Zachary G. Ives,Amol Deshpande,Vijayshankar Raman|n/a
+vldb2007|Raster databases.|Peter Baumann|n/a
+vldb2008|Is transactional memory an oxymoron?|Mark D. Hill|n/a
+vldb2008|Databases and the silification of health.|Justin Zobel|n/a
+vldb2009|Believe It or Not: Adding Belief Annotations to Databases.|Wolfgang Gatterbauer,Magdalena Balazinska,Nodira Khoussainova,Dan Suciu|n/a
+vldb2009|Distributed Online Aggregation.|Sai Wu,Shouxu Jiang,Beng Chin Ooi,Kian-Lee Tan|n/a
+vldb2009|Sequential Dependencies.|Lukasz Golab,Howard J. Karloff,Flip Korn,Avishek Saha,Divesh Srivastava|n/a
+vldb2009|Declarative Database Management in SQLServer.|Hongfei Guo,Dan Jones,Jennifer L. Beckmann,Praveen Seshadri|n/a
+vldb2009|StatAdvisor: Recommending Statistical Views.|Amr El-Helw,Ihab F. Ilyas,Calisto Zuzarte|n/a
+vldb2009|1, 000 Tables Inside the From.|Nicolas Dieu,Adrian Dragusanu,Françoise Fabret,François Llirbat,Eric Simon|n/a
+vldb2009|IBM UFO Repository.|Michael N. Gubanov,Lucian Popa,C. T. Howard Ho,Hamid Pirahesh,Jeng-Yih Chang,Shr-Chang Chen|n/a
+vldb2009|Mashup by Surfing a Web of Data APIs.|Huajun Chen,Bin Lu,Yuan Ni,Guo Tong Xie,Chunying Zhou,Jinhua Mi,Zhaohui Wu|n/a
+vldb2009|How Best to Build Web-Scale Data Managers? A Panel Discussion.|Daniel J. Abadi,Michael J. Cafarella,Joseph M. Hellerstein,Donald Kossmann,Samuel Madden,Philip A. Bernstein|n/a
+vldb2009|Information Theory For Data Management.|Divesh Srivastava,Suresh Venkatasubramanian|n/a
+vldb2010|Enabling Real Time Data Analysis.|Divesh Srivastava,Lukasz Golab,Rick Greer,Theodore Johnson,Joseph Seidel,Vladislav Shkapenyuk,Oliver Spatscheck,Jennifer Yates|n/a
+vldb2010|Ranking Continuous Probabilistic Datasets.|Jian Li,Amol Deshpande|n/a
+vldb2011|Bridging Two Worlds with RICE Integrating R into the SAP In-Memory Computing Engine.|Philipp Große,Wolfgang Lehner,Thomas Weichert,Franz Färber,Wen-Syan Li|n/a
+vldb2011|Analytics for the RealTime Web.|Maxim Grinev,Maria P. Grineva,Martin Hentschel,Donald Kossmann|n/a
+vldb2011|++Spicy: an OpenSource Tool for Second-Generation Schema Mapping and Data Exchange.|Bruno Marnette,Giansalvatore Mecca,Paolo Papotti,Salvatore Raunich,Donatello Santoro|n/a
+vldb2011|Resiliency-Aware Data Management.|Matthias Böhm,Wolfgang Lehner,Christof Fetzer|n/a
+vldb2012|gSketch: On Query Estimation in Graph Streams.|Peixiang Zhao,Charu C. Aggarwal,Min Wang|n/a
+vldb2012|Privacy Preservation by Disassociation.|Manolis Terrovitis,John Liagouris,Nikos Mamoulis,Spiros Skiadopoulos|n/a
+vldb2012|Compacting Transactional Data in Hybrid OLTP &amp; OLAP Databases.|Florian Funke,Alfons Kemper,Thomas Neumann|n/a
+vldb2012|Welcome Message from the VLDB 2012 General Chairs.|Adnan Yazici,Ling Liu|n/a
+vldb2012|Message from the VLDB 2012 General Program Chair.|Z. Meral Özsoyoglu|n/a
+vldb2012|Data Management on the Spatial Web.|Christian S. Jensen|n/a
+vldb2012|Interoperability in eHealth Systems (Invited Tutorial).|Asuman Dogac|n/a
+vldb2012|Social Networks and Mobility in the Cloud.|Amr El Abbadi,Mohamed F. Mokbel|n/a
+vldb2013|Making Queries Tractable on Big Data with Preprocessing.|Wenfei Fan,Floris Geerts,Frank Neven|n/a
+vldb2013|Hadoop's Adolescence.|Kai Ren,YongChul Kwon,Magdalena Balazinska,Bill Howe|n/a
+vldb2013|Toward Scalable Transaction Processing.|Anastasia Ailamaki,Ryan Johnson,Ippokratis Pandis,Pinar Tözün|n/a
+vldb2013|Big and Useful: What's in the Data for Me?.|Rada Chirkova,Jun Yang|n/a
+vldb2013|ggregating Semantic Annotators.|Luying Chen,Stefano Ortona,Giorgio Orsi,Michael Benedikt|n/a
+vldb2014|A Data- and Workload-Aware Query Answering Algorithm for Range Queries Under Differential Privacy.|Chao Li,Michael Hay,Gerome Miklau,Yue Wang|n/a
+vldb2014|Calibrating Data to Sensitivity in Private Data Analysis.|Davide Proserpio,Sharon Goldberg,Frank McSherry|n/a
+vldb2014|Υ-DB: Managing scientific hypotheses as uncertain data.|Bernardo Gonçalves,Fabio Porto|n/a
+vldb2014|Semantic Culturomics (vision paper).|Fabian M. Suchanek,Nicoleta Preda|n/a
+vldb2014|Tutorial: Uncertain Entity Resolution.|Avigdor Gal|n/a
+vldb2014|VLDB 2014 Ph.D. Workshop - An Overview.|Yunyao Li,Erich J. Neuhold|n/a
+vldb2014|The Impact of Columnar In-Memory Databases on Enterprise Systems.|Hasso Plattner|n/a
+vldb2014|yzBigData: Provisioning Customizable Solution for Big Data.|Sai Wu,Gang Chen,Ke Chen,Lidan Shou,Hui Cao,He Bai|n/a
+vldb2015|Possible and Certain SQL Key.|Henning Köhler,Sebastian Link,Xiaofang Zhou|n/a
+vldb2015|FIT to Monitor Feed Quality.|Tamraparni Dasu,Vladislav Shkapenyuk,Divesh Srivastava,Deborah F. Swayne|n/a
+vldb2015|Data Profiling with Metanome.|Thorsten Papenbrock,Tanja Bergmann,Moritz Finke,Jakob Zwiener,Felix Naumann|n/a
+vldb2015|Tutorial: SQL-on-Hadoop Systems.|Daniel Abadi,Shivnath Babu,Fatma Ozcan,Ippokratis Pandis|n/a

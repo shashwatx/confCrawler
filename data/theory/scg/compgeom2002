@@ -1,0 +1,45 @@
+44
+1|Proceedings of the 18th Annual Symposium on Computational Geometry, Barcelona, Spain, June 5-7, 2002.|Ferran Hurtado,Vera Sacristán,Chandrajit Bajaj,Subhash Suri|n/a
+2|Parametric search made practical.|René van Oostrum,Remco C. Veltkamp|45|0|0|2
+3|A local search approximation algorithm for k-means clustering.|Tapas Kanungo,David M. Mount,Nathan S. Netanyahu,Christine D. Piatko,Ruth Silverman,Angela Y. Wu|438|0|0|1
+4|On the crossing number of complete graphs.|Oswin Aichholzer,Franz Aurenhammer,Hannes Krasser|43|0|0|9
+5|On the number of embeddings of minimally rigid graphs.|Ciprian Borcea,Ileana Streinu|75|0|0|10
+6|Collision detection for deforming necklaces.|Leonidas J. Guibas,An Thanh Nguyen,Daniel Russel,Li Zhang|55|0|0|5
+7|Efficient maintenance and self-collision testing for Kinematic Chains.|Itay Lotan,Fabian Schwarzer,Dan Halperin,Jean-Claude Latombe|41|0|0|5
+8|Box-trees for collision checking in industrial installations.|Herman J. Haverkort,Mark de Berg,Joachim Gudmundsson|30|0|0|10
+9|Finite metric spaces: combinatorics, geometry and algorithms.|Nathan Linial|132|0|0|7
+10|Finding the consensus shape for a protein family.|L. Paul Chew,Klara Kedem|57|0|0|2
+11|Paper position sensing.|Marshall W. Bern,David Goldberg|n/a
+12|A global approach to automatic solution of jigsaw puzzles.|David Goldberg,Christopher Malon,Marshall W. Bern|158|0|3|0
+13|The power of nonmonotonicity in geometric searching.|Bernard Chazelle|4|0|0|1
+14|A lower bound on the distortion of embedding planar metrics into Euclidean space.|Ilan Newman,Yuri Rabinovich|51|0|0|4
+15|The one-round Voronoi game.|Otfried Cheong,Sariel Har-Peled,Nathan Linial,Jirí Matousek|75|0|0|2
+16|Approximate nearest neighbor algorithms for Frechet distance via product metrics.|Piotr Indyk|44|0|0|6
+17|Point-line incidences in space.|Micha Sharir,Emo Welzl|29|0|0|10
+18|Incidences between points and circles in three and higher dimensions.|Boris Aronov,Vladlen Koltun,Micha Sharir|24|0|0|13
+19|Lenses in arrangements of pseudo-circles and their applications.|Eran Nevo,János Pach,Rom Pinchasi,Micha Sharir,Shakhar Smorodinsky|72|0|0|17
+20|Pseudotriangulations, polytopes, and how to expand linkages.|Günter Rote|4|0|0|0
+21|Guaranteed: quality parallel delaunay refinement for restricted polyhedral domains.|Démian Nave,Nikos Chrisochoides,L. Paul Chew|86|0|0|32
+22|The Delaunay tetrahedralization from Delaunay triangulated surfaces Sunghee Choi.|Sunghee Choi|10|0|0|0
+23|Quickest paths, straight skeletons, and the city Voronoi diagram.|Oswin Aichholzer,Franz Aurenhammer,Belén Palop|77|0|0|6
+24|Testing Homotopy for paths in the plane.|Sergio Cabello,Yuanxin Liu,Andrea Mantler,Jack Snoeyink|69|0|0|2
+25|Pseudo approximation algorithms, with applications to optimal motion planning.|Tetsuo Asano,David G. Kirkpatrick,Chee-Keng Yap|30|0|0|2
+26|Kinetic maintenance of context-sensitive hierarchical representations for disjoint simple polygons.|David G. Kirkpatrick,Bettina Speckmann|43|0|0|10
+27|Interlocked open linkages with few joints.|Erik D. Demaine,Stefan Langerman,Joseph O'Rourke,Jack Snoeyink|16|0|0|8
+28|Conforming Delaunay triangulations in 3D.|David Cohen-Steiner,Éric Colin de Verdière,Mariette Yvinec|141|0|0|1
+29|The probabilistic complexity of the Voronoi diagram of points on a polyhedron.|Mordecai J. Golin,Hyeon-Suk Na|20|0|0|0
+30|Three dimensional euclidean Voronoi diagrams of lines with a fixed number of orientations.|Vladlen Koltun,Micha Sharir|43|0|0|13
+31|Polyhedral Voronoi diagrams of polyhedra in three dimensions.|Vladlen Koltun,Micha Sharir|31|0|0|10
+32|Vertex-unfoldings of simplicial manifolds.|Erik D. Demaine,David Eppstein,Jeff Erickson,George W. Hart,Joseph O'Rourke|27|0|0|8
+33|Optimally cutting a surface into a disk.|Jeff Erickson,Sariel Har-Peled|191|0|0|17
+34|Optimal decomposition of polygonal models into triangle strips.|Regina Estkowski,Joseph S. B. Mitchell,Xinyu Xiang|33|0|0|0
+35|Hybrid meshes: multiresolution using regular and irregular refinement.|Igor Guskov,Andrei Khodakovsky,Peter Schröder,Wim Sweldens|62|0|4|4
+36|Exact minkowski sums and applications.|Eyal Flato,Efi Fogel,Dan Halperin,Eran Leiserowitz|1|0|0|0
+37|Homotopy techniques for real-time visualization of geometric tangent problems.|Daniel Kotzor,Thorsten Theobald|0|0|0|0
+38|Growing fat graphs.|Alon Efrat,Stephen G. Kobourov,Michael Stepp,Carola Wenk|15|0|0|5
+39|AUTO-FOLLOW: getting a piece of the action all the time.|Alexander Bogomjakov,Craig Gotsman|0|0|0|0
+40|Adventures of Möbius band: mathematical visualization in virtual environment.|Stanislav V. Klimenko,Gregory M. Nielson,Lialia Nikitina,Igor N. Nikitin|0|0|0|0
+41|Improved construction of vertical decompositions of three-dimensional arrangements.|Hayim Shaul,Dan Halperin|29|0|0|6
+42|Cost prediction for ray shooting.|Boris Aronov,Hervé Brönnimann,Allen Y. Chang,Yi-Jen Chiang|17|0|0|4
+43|Visibility preserving terrain simplification: an experimental study.|Boaz Ben-Moshe,Joseph S. B. Mitchell,Matthew J. Katz,Yuval Nir|49|0|0|13
+44|Projective clustering in high dimensions using core-sets.|Sariel Har-Peled,Kasturi R. Varadarajan|85|0|0|11

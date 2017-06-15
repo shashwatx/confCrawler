@@ -1,0 +1,84 @@
+83
+1|Proceedings of the Thirteenth Annual Symposium on Computational Geometry, Nice, France, June 4-6, 1997.|Jean-Daniel Boissonnat|n/a
+2|Accelerated Occlusion Culling using Shadow Frusta.|Thomas C. Hudson,Dinesh Manocha,Jonathan D. Cohen,Ming C. Lin,Kenneth E. Hoff III,Hansong Zhang|211|0|8|14
+3|Bucket-Like Space Partitioning Data Structures with Applications to Ray-Tracing.|Frédéric Cazals,Claude Puech|39|0|1|2
+4|On Fence Design and the Complexity of Push Plans for Orienting Parts.|Robert-Paul Berretty,Kenneth Y. Goldberg,Mark H. Overmars,A. Frank van der Stappen|24|0|0|11
+5|On Levels in Arrangements of Lines, Segments, Planes, and Triangles.|Pankaj K. Agarwal,Boris Aronov,Micha Sharir|93|0|0|31
+6|Cylindrical Static and Kinetic Binary Space Partitions.|Pankaj K. Agarwal,Leonidas J. Guibas,T. M. Murali,Jeffrey Scott Vitter|65|0|0|22
+7|Primal-Dual Methods for Vertex and Facet Enumeration (Preliminary Version).|David Bremner,Komei Fukuda,Ambros Marzetta|135|0|0|8
+8|Construction of 1-d Lower Envelopes and Applications.|Edgar A. Ramos|31|0|0|3
+9|Minkowski Operations for Satellite Antenna Layout.|Jean-Daniel Boissonnat,Eelco de Lange,Monique Teillaud|17|0|0|0
+10|Necessary Conditions for Boundary Representation Variance.|Srinivas Raghothama,Vadim Shapiro|11|0|0|2
+11|Choosing Corners of Rectangles for Mapped Meshing.|Scott A. Mitchell|19|0|0|2
+12|Ramsey-Type Results for Geometric Graphs II.|Gyula Károlyi,János Pach,Géza Tóth,Pavel Valtr|50|0|0|15
+13|On the Complexity of the Union of Fat Objects in the Plane.|Alon Efrat,Micha Sharir|86|0|0|30
+14|Some PL Functions on Surfaces are not Height Functions.|Sergey P. Tarasov,Michael N. Vyalyi|2|0|0|1
+15|Vertex-Edge Pseudo-Visibility Graphs: Characterization and Recognition.|Joseph O'Rourke,Ileana Streinu|33|0|0|9
+16|A Complete Roundness Classification Procedure.|Kurt Mehlhorn,Thomas C. Shermer,Chee-Keng Yap|31|0|0|0
+17|Fitting a Set of Points by a Circle.|Jesus Garcia-Lopez,Pedro A. Ramos|63|0|0|5
+18|The Discrete 2-Center Problem.|Pankaj K. Agarwal,Micha Sharir,Emo Welzl|72|0|1|4
+19|Robust Proximity Queries: An Illustration of Degree-Driven Algorithm Design.|Giuseppe Liotta,Franco P. Preparata,Roberto Tamassia|87|0|0|11
+20|Efficient Exact Evaluation of Signs of Determinants.|Hervé Brönnimann,Mariette Yvinec|68|0|0|3
+21|Computing Exact Geometric Predicates Using Modular Arithmetic with Single Precision.|Hervé Brönnimann,Ioannis Z. Emiris,Victor Y. Pan,Sylvain Pion|78|0|1|6
+22|A Perturbation Scheme for Spherical Arrangements with Application to Molecular Modeling.|Dan Halperin,Christian R. Shelton|109|0|0|18
+23|Minimum Strictly Convex Quadrangulations of Convex Polygons.|Matthias Müller-Hannemann,Karsten Weihe|22|0|0|6
+24|Average-Case Ray Shooting and Minimum Weight Triangulations.|Boris Aronov,Steven Fortune|19|0|0|0
+25|Contour Trees and Small Seed Sets for Isosurface Traversal.|Marc J. van Kreveld,René van Oostrum,Chandrajit L. Bajaj,Valerio Pascucci,Daniel Schikore|366|0|0|2
+26|Separating an Object from its Cast.|Hee-Kap Ahn,Mark de Berg,Prosenjit Bose,Siu-Wing Cheng,Dan Halperin,Jirí Matousek,Otfried Schwarzkopf|68|0|0|12
+27|A Data Front-End for Layered Manufacturing.|Gill Barequet,Yuval Kaplan|31|0|2|1
+28|Wall Thickness Control in Layered Manufacturing.|Seth Allen,Debasish Dutta|12|0|0|5
+29|r-Regular Shape Reconstruction from Unorganized Points.|Dominique Attali|107|0|1|3
+30|A Computational Basis for Higher-Dimensional Computational Geometry and Applications.|Kurt Mehlhorn,Michael Müller,Stefan Näher,Stefan Schirra,Michael Seel,Christian Uhrig,Joachim Ziegler|9|0|0|2
+31|A New Algorithm for Computing Shortest Paths in Weighted Planar Subdivisions (Extended Abstract).|Cristian S. Mata,Joseph S. B. Mitchell|116|0|0|6
+32|Approximating Weighted Shortest Paths on Polyhedral Surfaces.|Mark Lanthier,Anil Maheshwari,Jörg-Rüdiger Sack|156|0|0|9
+33|Snap Rounding Line Segments Efficiently in Two and Three Dimensions.|Michael T. Goodrich,Leonidas J. Guibas,John Hershberger,Paul J. Tanenbaum|80|0|0|5
+34|Realistic Input Models for Geometric Algorithms.|Mark de Berg,Matthew J. Katz,A. Frank van der Stappen,Jules Vleugels|104|0|0|33
+35|Space-Time Tradeoffs for Emptiness Queries (Extended Abstract).|Jeff Erickson|29|0|0|3
+36|Distribution of Distances and Triangles in a Point Set and Algorithms for Computing the Largest Common Point Sets.|Tatsuya Akutsu,Hisao Tamaki,Takeshi Tokuyama|80|0|1|3
+37|RAPID: Randomized Pharmacophore Identification for Drug Design.|Paul W. Finn,Lydia E. Kavraki,Jean-Claude Latombe,Rajeev Motwani,Christian R. Shelton,Suresh Venkatasubramanian,Andrew Chi-Chih Yao|79|0|0|9
+38|Rotational Polygon Overlap Minimization.|Victor Milenkovic|13|0|0|1
+39|Proximity Problems on Moving Points.|Julien Basch,Leonidas J. Guibas,Li Zhang|95|0|0|14
+40|Approximate Nearest Neighbor Queries Revisited.|Timothy M. Chan|118|0|1|6
+41|Approximate Shortest Paths and Geodesic Diameters on Convex Polytopes in Three Dimensions.|Sariel Har-Peled|68|0|0|8
+42|A-Shapes of a Finite Point Set.|Mahmoud Melkemi|31|0|0|5
+43|Drawing Closed Rational Surfaces.|Jean H. Gallier|0|0|0|0
+44|Fast Collision Detection Among Multiple Moving Spheres.|Dong-Jin Kim,Leonidas J. Guibas,Sung Yong Shin|116|0|1|7
+45|Robust and Efficient Evaluation of Functionals on Parametric Surfaces.|Leif Kobbelt|5|0|0|0
+46|GASP-II: A Geometric Algorithm Animation System for an Electronic Classroom.|Maria Shneerson,Ayellet Tal|14|0|0|2
+47|Practical Techniques for Constructing Binary Space Partitions for Orthogonal Rectangles.|Pankaj K. Agarwal,T. M. Murali,Jeffrey Scott Vitter|25|0|0|0
+48|Assembling Objects Through Parts Correlation.|Pamela J. Vermeer|2|0|0|0
+49|A Practical Evaluation of Kinetic Data Structures.|Julien Basch,Leonidas J. Guibas,Craig Silverstein,Li Zhang|56|0|0|8
+50|Guaranteed-Quality Delaunay Meshing in 3D (Short Version).|L. Paul Chew|167|0|1|2
+51|Geometric Decision Trees for Optical Character Recognition (Extended Abstract).|George N. Sazaklis,Esther M. Arkin,Joseph S. B. Mitchell,Steven Skiena|8|0|1|1
+52|A Wavelet Approach to Foveating Images.|Ee-Chien Chang,Chee-Keng Yap|69|0|4|7
+53|Good Orders for Incremental (Re)construction.|Jack Snoeyink,Marc J. van Kreveld|23|0|0|2
+54|Algorithmic Tolerances and Semantics in Data Exchange.|Thomas J. Peters,Neil F. Stewart,David R. Ferguson,P. S. Fussell|20|0|0|1
+55|A General Method for Partial Point Set Matching.|Michiel Hagedoorn,Remco C. Veltkamp|19|0|1|7
+56|An Interactive Environment for Visualizing and Animating Algorithms.|Jürgen Döllner,Klaus H. Hinrichs,Hermann Spiegel|1|0|0|0
+57|Classical Computational Geometry in GeomNet.|Gill Barequet,Stina S. Bridgeman,Christian A. Duncan,Michael T. Goodrich,Roberto Tamassia|9|0|0|0
+58|Empirical Testing of Algorithms for Variable-Sized Label Placement.|Jon Christensen,Stacy Friedman,Joe Marks,Stuart M. Shieber|17|0|0|0
+59|Voronoi Diagrams for Direction-Sensitive Distances.|Oswin Aichholzer,Franz Aurenhammer,Danny Z. Chen,D. T. Lee,Asish Mukhopadhyay,Evanthia Papadopoulou|37|0|0|1
+60|Dynamic Visibility in Polygonal Scenes with the Visibility Complex.|Stéphane Rivière|34|0|0|0
+61|Properties of the Delaunay Triangulation.|Oleg R. Musin|60|0|0|7
+62|New Competitive Strategies for Searching in Unknown Star-Shaped Polygons.|Jae-Ha Lee,Chan-Su Shin,Jae-Hoon Kim,Sung Yong Shin,Kyung-Yong Chwa|16|0|0|1
+63|Exact Primitives for Smallest Enclosing Ellipses.|Bernd Gärtner,Sven Schönherr|29|0|0|0
+64|Piecewise Linear Approximation of Bézier-Curves.|Helmut Alt,Emo Welzl,Barbara Wolfers|n/a
+65|On Exact Solutions for the Rectilinear Steiner Tree Problem.|Ulrich Fößmeier,Michael Kaufmann|12|0|0|1
+66|Clusters of Stars.|Ileana Streinu|18|0|0|7
+67|Probabilistic Analysis for Combinatorial Functions of Moving Points.|Li Zhang,Harish Devarajan,Julien Basch,Piotr Indyk|16|0|0|3
+68|Position-Independent Near Optimal Searching and On-Line Recognition in Star Polygons.|Alejandro López-Ortiz,Sven Schuierer|26|0|0|11
+69|Searching for Mobile Intruders in a Polygonal Region by a Group of Mobile Searchers (Extended Abstract).|Masafumi Yamashita,Hideki Umemoto,Ichiro Suzuki,Tsunehiko Kameda|68|0|0|8
+70|A Polynomial Time Solution for Labeling a Rectilinear Map.|Chung Keung Poon,Binhai Zhu,Francis Y. L. Chin|49|0|0|9
+71|Time-Series Similarity Problems and Well-Separated Geometric Sets.|Béla Bollobás,Gautam Das,Dimitrios Gunopulos,Heikki Mannila|158|0|1|22
+72|The Area Bisectors of a Polygon and Force Equilibria in Programmable Vector Fields.|Karl-Friedrich Böhringer,Bruce Randall Donald,Dan Halperin|9|0|0|4
+73|Efficient Breakout Routing in Printed Circuit Boards.|John Hershberger,Subhash Suri|48|0|31|0
+74|Voronoi Diagram in Statistical Parametric Space by Kullback-Leibler Divergence.|Kensuke Onishi,Hiroshi Imai|19|0|0|8
+75|Computing the Minimum Diameter for Moving Points: An Exact Implementation Using Parametric Search.|Jörg Schwerdt,Michiel H. M. Smid,Stefan Schirra|10|0|0|1
+76|Sweeping Lines and Line Segments with a Heap.|Julien Basch,Leonidas J. Guibas,G. D. Ramkumar|29|0|0|7
+77|The Bisector Surface of Freeform Rational Space Curves.|Gershon Elber,Myung-Soo Kim|6|0|0|1
+78|3D Visibility Made Visibly Simple: An Introduction to the Visibility Skeleton.|Frédo Durand,George Drettakis,Claude Puech|7|0|0|0
+79|Application of an Effective Geometric Clustering Method to the Color Quantization Problem.|Mary Inaba,Hiroshi Imai,Motoki Nakade,Tatsurou Sekiguchi|3|0|0|1
+80|Animating the Polygon-Offset Distance Function.|Gill Barequet,Amy J. Briggs,Matthew Dickerson,Cristian Dima,Michael T. Goodrich|1|0|0|0
+81|A Triangulation-Based Object Reconstruction Method.|Fausto Bernardini,Chandrajit L. Bajaj,Jindong Chen,Daniel Schikore|23|0|0|0
+82|Approximating Weighted Shortest Paths on Polyhedral Surfaces.|Mark Lanthier,Anil Maheshwari,Jörg-Rüdiger Sack|156|0|0|9
+83|Back-Face Computation of Polygon Clusters.|Subodh Kumar,Dinesh Manocha,William F. Garrett,Ming C. Lin|3|0|0|0

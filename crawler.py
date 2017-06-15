@@ -102,7 +102,9 @@ def getRandomHeader():
     google_id = hashlib.md5(str(random.random())).hexdigest()[:16]
     ua = UserAgent()
     timestamp=int(time.time())
-    randomHeader = { 'User-Agent': ua.random, 'Cookie': 'GSP=LM=%d:S=%s' % (timestamp, google_id)}
+    # ua.random
+    #randomHeader = { 'user-Agent': ua.random, 'cookie': 'GSP=LM=%d:S=%s' % (timestamp, google_id), 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'accept-language': 'en-US,en;q=0.8', 'accept-encoding': 'gzip, deflate, sdch, br'}
+    randomHeader = { 'user-Agent': ua.random, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'accept-language': 'en-US,en;q=0.8', 'accept-encoding': 'gzip, deflate, sdch, br'}
     logger.info('Random Header: %s',randomHeader)
     return randomHeader
 
@@ -162,6 +164,20 @@ def getSoup_GS(title):
 
     return gs_soup
 
+def getSoup_GS_Home():
+   
+    gs_base_url = "http://scholar.google.es"
+    logger.warn('\tfetching home page: url-base: %s',gs_base_url)
+
+    request = urllib2.Request(gs_base_url, headers=getRandomHeader())
+    response = urllib2.urlopen(request, timeout=timeoutSec)
+    logger.info('\tcode:%s',response.getcode())
+
+    gs_page = response.read()
+    gs_soup = BeautifulSoup(gs_page,"lxml")
+
+    return gs_soup
+
 def getSoup_RecentCitationPage(fetched_citation_url):
     mybaseurl = "http://scholar.google.com"
     citations_base_url = mybaseurl + fetched_citation_url + "&as_ylo="+str(startYear)+"&as_yhi="+str(endYear)
@@ -177,7 +193,7 @@ def getSoup_RecentCitationPage(fetched_citation_url):
 
 def getSoup_PatentCitationPage(fetched_citation_url):
 
-    mybaseurl = "http://scholar.google.fr"
+    mybaseurl = "http://scholar.google.es"
     uniqueId=getUniquePaperId(fetched_citation_url)
     #url = mybaseurl + fetched_citation_url + "&num=" + str(citesPerPage) + "&q=" + "US+Patent" + "&scipsc=1" + "&start=" + str(offset)
     url = mybaseurl + "/scholar?" + "q=" + "US+Patent" + "&btnG=" + "&hl=en" + "&as_sdt=2005" + "&sciodt=0%2C5" + "&cites=" + uniqueId + "&scipsc=1" + "&num=15"
@@ -193,7 +209,7 @@ def getSoup_PatentCitationPage(fetched_citation_url):
 
 def getSoup_PatentCitationPageWithOffset(offset, fetched_citation_url):
     
-    mybaseurl = "http://scholar.google.com"
+    mybaseurl = "http://scholar.google.es"
     uniqueId=getUniquePaperId(fetched_citation_url)
     #url = mybaseurl + fetched_citation_url + "&num=" + str(citesPerPage) + "&q=" + "US+Patent" + "&scipsc=1" + "&start=" + str(offset)
     url = mybaseurl + "/scholar?" + "q=" + "US+Patent" + "&btnG=" + "&hl=en" + "&as_sdt=2005" + "&sciodt=0%2C5" + "&cites=" + uniqueId + "&scipsc=1" + "&num=15" + "&start=" + str(offset)
@@ -210,7 +226,7 @@ def getSoup_PatentCitationPageWithOffset(offset, fetched_citation_url):
     return cs_soup
 
 def getSoup_SelfCitationPage(fetched_citation_url, paperAuthors):
-    mybaseurl = "http://scholar.google.com"
+    mybaseurl = "http://scholar.google.es"
     uniqueId=getUniquePaperId(fetched_citation_url)
     #url = mybaseurl + fetched_citation_url + "&num=" + str(citesPerPage) + "&q=" + composeAuthorString(paperAuthors) + "&scipsc=1" + "&btnG=" + "&as_sdt=2005" + "&sciodt=0,5"
     url = mybaseurl + "/scholar?" + "q=" + composeNewAuthorString(paperAuthors) + "&btnG=" + "&hl=en" + "&as_sdt=2005" + "&sciodt=0%2C5" + "&cites=" + uniqueId + "&scipsc=1" + "&num=15"
@@ -250,7 +266,7 @@ def composeNewAuthorString(ats):
 
 def getSoup_SelfCitationPageWithOffset(offset, fetched_citation_url, paperAuthors):
 
-    mybaseurl = "http://scholar.google.com"
+    mybaseurl = "http://scholar.google.es"
     uniqueId=getUniquePaperId(fetched_citation_url)
     #url = mybaseurl + fetched_citation_url + "&num=" + str(citesPerPage) + "&q=" + composeAuthorString(paperAuthors) + "&scipsc=1" + "&start=" + str(offset)
     url = mybaseurl + "/scholar?" + "q=" + composeNewAuthorString(paperAuthors) + "&btnG=" + "&hl=en" + "&as_sdt=2005" + "&sciodt=0%2C5" + "&cites=" + uniqueId + "&scipsc=1" + "&start=" + str(offset) + "&num=15"
@@ -544,7 +560,17 @@ for i in range(startIndex, length):
     # print abstract
 
     try:
+        title=title.replace('(Extended Abstract)','')        
+        title=title.replace('(extended abstract)','')        
         
+        gs_tt = getSoup_GS_Home()
+        tt_path="_tt"
+        tt_file=open(tt_path,"w")
+        logger.warn('Writing _tt')
+        tt_file.write(str(gs_tt))
+        tt_file.close()
+        time.sleep(0.5)
+         
         gs_soup = getSoup_GS(title)
       
         # check to see if google returned a "No Results" page

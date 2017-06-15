@@ -1,0 +1,98 @@
+97
+1|VLDB 2000, Proceedings of 26th International Conference on Very Large Data Bases, September 10-14, 2000, Cairo, Egypt.|Amr El Abbadi,Michael L. Brodie,Sharma Chakravarthy,Umeshwar Dayal,Nabil Kamel,Gunter Schlageter,Kyu-Young Whang|n/a
+2|Ordering Information, Conference Organizers, Program Committees, Additional Reviewers, Additional Demonstrations Reviewers, Sponsors, VLDB Endowment, Preface, Foreword.|n/a
+3|Practical Applications of Triggers and Constraints: Success and Lingering Issues (10-Year Award).|Stefano Ceri,Roberta Cochrane,Jennifer Widom|117|29|0|2
+4|Biodiversity Informatics: The Challenge of Rapid Development, Large Databases, and Complex Data (Keynote).|Meridith A. Lane,James L. Edwards,Ebbe Nielsen|23|5|0|1
+5|Toto, We're Not in Kansas Anymore: On Transitioning from Research to the Real (Invited Industrial Talk).|Michael J. Carey|1|0|0|0
+6|Rethinking Database System Architecture: Towards a Self-Tuning RISC-Style Database System.|Surajit Chaudhuri,Gerhard Weikum|227|67|11|9
+7|PicoDMBS: Scaling Down Database Techniques for the Smartcard.|Christophe Bobineau,Luc Bouganim,Philippe Pucheral,Patrick Valduriez|119|21|0|6
+8|The 3W Model and Algebra for Unified Data Mining.|Theodore Johnson,Laks V. S. Lakshmanan,Raymond T. Ng|68|13|0|1
+9|Design and Implementation of a Genetic-Based Algorithm for Data Mining.|Sunil Choenni|31|12|0|0
+10|Mining Frequent Itemsets Using Support Constraints.|Ke Wang,Yu He,Jiawei Han|172|39|1|7
+11|Efficient Filtering of XML Documents for Selective Dissemination of Information.|Mehmet Altinel,Michael J. Franklin|821|185|9|17
+12|Efficiently Publishing Relational Data as XML Documents.|Jayavel Shanmugasundaram,Eugene J. Shekita,Rimon Barr,Michael J. Carey,Bruce G. Lindsay,Hamid Pirahesh,Berthold Reinwald|470|49|16|12
+13|Schema Mapping as Query Discovery.|Renée J. Miller,Laura M. Haas,Mauricio A. Hernández|662|151|1|29
+14|Local Dimensionality Reduction: A New Approach to Indexing High Dimensional Spaces.|Kaushik Chakrabarti,Sharad Mehrotra|293|69|2|6
+15|Dynamic Maintenance of Wavelet-Based Histograms.|Yossi Matias,Jeffrey Scott Vitter,Min Wang|205|41|4|12
+16|Approximate Query Processing Using Wavelets.|Kaushik Chakrabarti,Minos N. Garofalakis,Rajeev Rastogi,Kyuseok Shim|481|163|9|27
+17|Efficient Numerical Error Bounding for Replicated Network Services.|Haifeng Yu,Amin Vahdat|71|10|2|11
+18|Don't Be Lazy, Be Consistent: Postgres-R, A New Way to Implement Database Replication.|Bettina Kemme,Gustavo Alonso|341|122|1|29
+19|Offering a Precision-Performance Tradeoff for Aggregation Queries over Replicated Data.|Chris Olston,Jennifer Widom|177|42|3|8
+20|Manipulating Interpolated Data is Easier than You Thought.|Stéphane Grumbach,Philippe Rigaux,Luc Segoufin|52|9|1|7
+21|Using SQL to Build New Aggregates and Extenders for Object- Relational Systems.|Haixun Wang,Carlo Zaniolo|73|7|0|22
+22|ICICLES: Self-Tuning Samples for Approximate Query Answering.|Venkatesh Ganti,Mong-Li Lee,Raghu Ramakrishnan|113|26|7|0
+23|Caching Strategies for Data-Intensive Web Sites.|Khaled Yagoub,Daniela Florescu,Valérie Issarny,Patrick Valduriez|141|21|0|2
+24|The Evolution of the Web and Implications for an Incremental Crawler.|Junghoo Cho,Hector Garcia-Molina|662|245|13|20
+25|CheeTah: a Lightweight Transaction Server for Plug-and-Play Internet Data Management.|Guy Pardon,Gustavo Alonso|23|3|0|5
+26|Hypothetical Queries in an OLAP Environment.|Andrey Balmin,Thanos Papadimitriou,Yannis Papakonstantinou|68|23|3|0
+27|Hierarchical Compact Cube for Range-Max Queries.|Sin Yeung Lee,Tok Wang Ling,Hua-Gang Li|41|5|0|10
+28|Temporal Queries in OLAP.|Alberto O. Mendelzon,Alejandro A. Vaisman|166|50|0|5
+29|Integrating the UB-Tree into a Database System Kernel.|Frank Ramsak,Volker Markl,Robert Fenk,Martin Zirkel,Klaus Elhardt,Rudolf Bayer|170|67|12|8
+30|Multi-Dimensional Database Allocation for Parallel Data Warehouses.|Thomas Stöhr,Holger Märtens,Erhard Rahm|174|50|3|6
+31|Oracle8i Index-Organized Table and Its Application to New Domains.|Jagannathan Srinivasan,Souripriya Das,Chuck Freiwald,Eugene Inseok Chong,Mahesh Jagannath,Aravind Yalamanchi,Ramkumar Krishnan,Anh-Tuan Tran,Samuel DeFazio,Jayanta Banerjee|40|23|0|6
+32|FALCON: Feedback Adaptive Loop for Content-Based Retrieval.|Leejay Wu,Christos Faloutsos,Katia P. Sycara,Terry R. Payne|159|44|3|3
+33|User-Adaptive Exploration of Multidimensional Data.|Sunita Sarawagi|96|42|3|2
+34|Toward Learning Based Web Query Processing.|Yanlei Diao,Hongjun Lu,Songting Chen,Zengping Tian|38|14|0|0
+35|Optimizing Queries on Compressed Bitmaps.|Sihem Amer-Yahia,Theodore Johnson|112|9|0|1
+36|What Happens During a Join? Dissecting CPU and Memory Optimization Effects.|Stefan Manegold,Peter A. Boncz,Martin L. Kersten|72|29|0|7
+37|Set Containment Joins: The Good, The Bad and The Ugly.|Karthikeyan Ramasamy,Jignesh M. Patel,Jeffrey F. Naughton,Raghav Kaushik|68|25|1|6
+38|Identifying Representative Trends in Massive Time Series Data Sets Using Sketches.|Piotr Indyk,Nick Koudas,S. Muthukrishnan|202|82|0|13
+39|Decision Tables: Scalable Classification Exploring RDBMS Capabilities.|Hongjun Lu,Hongyan Liu|35|11|0|2
+40|Fast Time Sequence Indexing for Arbitrary Lp Norms.|Byoung-Kee Yi,Christos Faloutsos|638|262|3|13
+41|Novel Approaches in Query Processing for Moving Object Trajectories.|Dieter Pfoser,Christian S. Jensen,Yannis Theodoridis|n/a
+42|Managing Intervals Efficiently in Object-Relational Databases.|Hans-Peter Kriegel,Marco Pötke,Thomas Seidl|127|41|7|22
+43|Optimizing Multi-Feature Queries for Image Databases.|Ulrich Güntzer,Wolf-Tilo Balke,Werner Kießling|384|140|3|22
+44|Contrast Plots and P-Sphere Trees: Space vs. Time in Nearest Neighbour Searches.|Jonathan Goldstein,Raghu Ramakrishnan|72|10|2|6
+45|Temporal Integrity Constraints with Indeterminacy.|Wes Cowley,Dimitris Plexousakis|16|5|0|1
+46|The BT-tree: A Branched and Temporal Access Method.|Linan Jiang,Betty Salzberg,David B. Lomet,Manuel Barrena García|27|7|0|4
+47|Performance Issues in Incremental Warehouse Maintenance.|Wilburt Labio,Jun Yang,Yingwei Cui,Hector Garcia-Molina,Jennifer Widom|85|31|7|2
+48|The Challenge of Process Data Warehousing.|Matthias Jarke,Thomas List,Jörg Köller|44|8|0|13
+49|A Scalable Algorithm for Answering Queries Using Views.|Rachel Pottinger,Alon Y. Levy|282|44|3|2
+50|Automated Selection of Materialized Views and Indexes in SQL Databases.|Sanjay Agrawal,Surajit Chaudhuri,Vivek R. Narasayya|571|244|19|28
+51|What Is the Nearest Neighbor in High Dimensional Spaces?|Alexander Hinneburg,Charu C. Aggarwal,Daniel A. Keim|514|226|5|45
+52|The A-tree: An Index Structure for High-Dimensional Spaces Using Relative Approximation.|Yasushi Sakurai,Masatoshi Yoshikawa,Shunsuke Uemura,Haruhiko Kojima|271|73|2|6
+53|Focused Crawling Using Context Graphs.|Michelangelo Diligenti,Frans Coetzee,Steve Lawrence,C. Lee Giles,Marco Gori|755|286|37|29
+54|Approximating Aggregate Queries about Web Pages via Random Walks.|Ziv Bar-Yossef,Alexander C. Berg,Steve Chien,Jittat Fakcharoenphol,Dror Weitz|136|32|2|9
+55|Computing Geographical Scopes of Web Resources.|Junyan Ding,Luis Gravano,Narayanan Shivakumar|294|116|23|2
+56|A Case-Based Approach to Information Integration.|Maurizio Panti,Luca Spalazzi,Alberto Giretti|19|0|0|3
+57|Approximate Query Translation Across Heterogeneous Information Sources.|Kevin Chen-Chuan Chang,Hector Garcia-Molina|33|1|0|0
+58|Design and Development of a Stream Service in a Heterogenous Client Environment.|Nikos Pappas,Stavros Christodoulakis|6|0|0|5
+59|Semantic Access: Semantic Interface for Querying Databases.|Naphtali Rishe,Jun Yuan,Rukshan Athauda,Shu-Ching Chen,Xiaoling Lu,Xiaobin Ma,Alexander Vaschillo,Artyom Shaposhnikov,Dmitry Vasilevsky|35|8|1|13
+60|The TreeScape System: Reuse of Pre-Computed Aggregates over Irregular OLAP Hierarchies.|Torben Bach Pedersen,Christian S. Jensen,Curtis E. Dyreson|17|4|0|5
+61|OLAP++: Powerful and Easy-to-Use Federations of OLAP and Object Databases.|Junmin Gu,Torben Bach Pedersen,Arie Shoshani|13|0|0|8
+62|Memex: A Browsing Assistant for Collaborative Archiving and Mining of Surf Trails.|Soumen Chakrabarti,Sandeep Srivastava,Mallela Subramanyam,Mitul Tiwari|20|11|6|0
+63|Building and Customizing Data-Intensive Web Sites Using Weave.|Khaled Yagoub,Daniela Florescu,Valérie Issarny,Patrick Valduriez|15|0|0|1
+64|Information Integration: The MOMIS Project Demonstration.|Domenico Beneventano,Sonia Bergamaschi,Silvana Castano,Alberto Corni,R. Guidetti,G. Malvezzi,Michele Melchiori,Maurizio Vincini|130|29|0|27
+65|Telcordia's Database Reconciliation and Data Quality Analysis Tool.|Francesco Caruso,Munir Cochinwala,Uma Ganapathy,Gail Lalk,Paolo Missier|37|10|3|1
+66|Rainbow: Distributed Database System for Classroom Education and Experimental Research.|Abdelsalam Helal,Hua Li|0|0|0|0
+67|Agora: Living with XML and Relational.|Ioana Manolescu,Daniela Florescu,Donald Kossmann,Florian Xhumari,Dan Olteanu|110|18|1|1
+68|Publish/Subscribe on the Web at Extreme Speed.|João L. M. Pereira,Françoise Fabret,François Llirbat,Radu Preotiuc-Pietro,Kenneth A. Ross,Dennis Shasha|61|19|0|4
+69|Demonstration: Enabling Scalable Online Personalization on the Web.|Kaushik Dutta,Anindya Datta,Debra E. VanderMeer,Krithi Ramamritham,Helen M. Thomas|0|0|0|0
+70|INSITE: A Tool for Interpreting Users? Interaction with a Web Space.|Cyrus Shahabi,Adil Faisal,Farnoush Banaei Kashani,Jabed Faruque|14|0|0|0
+71|Model-Based Information Integration in a Neuroscience Mediator System.|Bertram Ludäscher,Amarnath Gupta,Maryann E. Martone|21|1|0|6
+72|Push Technology Personalization through Event Correlation.|Asaf Adi,David Botzer,Opher Etzion,Tali Yatzkar-Haham|24|3|1|2
+73|XPERANTO: Middleware for Publishing Object-Relational Data as XML Documents.|Michael J. Carey,Jerry Kiernan,Jayavel Shanmugasundaram,Eugene J. Shekita,Subbu N. Subramanian|209|26|2|2
+74|Building Scalable Internet Applications with Oracle8i Server.|Julie Basu,José Alberto Fernández,Olga Peschansky|0|0|0|0
+75|Social, Educational, and Governmental Change Enabled through Information Technology.|Krithi Ramamritham,Yeha El Atfi,Carlo Batini,Michael Eitan,Valerie Gregg,D. B. Phatak|0|0|0|0
+76|A 20/20 Vision of the VLDB-2020?|S. Misbah Deen,Anant Jhingran,Shamkant B. Navathe,Erich J. Neuhold,Gio Wiederhold|1|0|0|1
+77|Panel: Is Generic Metadata Management Feasible?|Philip A. Bernstein,Laura M. Haas,Matthias Jarke,Erhard Rahm,Gio Wiederhold|34|3|1|9
+78|Panel: Future Directions of Database Research - The VLDB Broadening Strategy, Part 1.|Hans-Jörg Schek|4|0|0|0
+79|Panel: Future Directions of Database Research - The VLDB Broadening Strategy, Part 2.|Michael L. Brodie|3|0|0|0
+80|An Ultra Highly Available DBMS.|Svein-Olaf Hvasshovd,Svein Erik Bratsberg,Øystein Torbjørnsen|3|0|0|0
+81|The Zero Latency Enterprise.|Dave Liles|2|0|0|0
+82|High-Performance and Scalability through Application Tier,In-Memory Data Management.|n/a
+83|Asera: Extranet Architecture for B2B Solutions.|Anil Nori|0|0|0|0
+84|Linking Business to Deliver Value: A Data Management Challenge.|Anand Deshpande|0|0|0|0
+85|Evolution of Groupware for Business Applications: A Database Perspective on Lotus Domino/Notes.|C. Mohan,Ron Barber,S. Watts,Amit Somani,Markos Zaharioudakis|7|3|0|1
+86|Process Automation as the Foundation for E-Business.|Fabio Casati,Ming-Chien Shan|33|5|4|8
+87|Media360 Workflow-Implementing a Workflow Engine Inside a Database.|Carsten Blecken|2|0|0|0
+88|Work and Information Practices in the Sciences of Biodiversity.|Geoffrey C. Bowker|13|4|0|0
+89|Research Directions in Biodiversity Informatics.|John L. Schnase|10|3|0|0
+90|Biodiversity Informatics Infrastructure: An Information Commons for the Biodiversity Community.|Gladys A. Cotter,Barbara T. Bauldock|10|1|0|0
+91|A Database Platform for Bioinformatics.|Sandeepan Banerjee|11|1|0|0
+92|Data Mining in the Bioinformatics Domain.|Shalom Tsur|13|2|0|1
+93|Controlling Data Warehouses with Knowledge Networks.|Elvira Schaefer,Jan-Dirk Becker,Andreas Boehmer,Matthias Jarke|1|1|0|0
+94|Integration of Data Mining with Database Technology.|Amir Netz,Surajit Chaudhuri,Jeff Bernhardt,Usama M. Fayyad|n/a
+95|E.piphany Epicenter Technology Overview.|Sridhar Ramaswamy|0|0|0|0
+96|Concurrency in the Data Warehouse.|Richard Taylor|6|4|1|0
+97|Author Index.|n/a

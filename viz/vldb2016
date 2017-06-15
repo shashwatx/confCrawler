@@ -1,0 +1,41 @@
+40
+1|Front Matter.|Surajit Chaudhuri,Jayant R. Haritsa|n/a
+2|Query-Aware Locality-Sensitive Hashing for Approximate Nearest Neighbor Search.|Qiang Huang,Jianlin Feng,Yikai Zhang,Qiong Fang,Wilfred Ng|0|0|0|0
+3|K-Core Decomposition of Large Networks on a Single PC.|Wissam Khaouid,Marina Barsky,S. Venkatesh,Alex Thomo|0|0|0|0
+4|Walking in the Cloud: Parallel SimRank at Scale.|Zhenguo Li,Yixiang Fang,Qin Liu,Jiefeng Cheng,Reynold Cheng,John C. S. Lui|0|0|0|0
+5|Messing Up with BART: Error Generation for Evaluating Data-Cleaning Algorithms.|Patricia C. Arocena,Boris Glavic,Giansalvatore Mecca,Renée J. Miller,Paolo Papotti,Donatello Santoro|0|0|0|0
+6|Fully Dynamic Betweenness Centrality Maintenance on Massive Networks.|Takanori Hayashi,Takuya Akiba,Yuichi Yoshida|0|0|0|0
+7|From Competition to Complementarity: Comparative Influence Diffusion and Maximization.|Wei Lu,Wei Chen,Laks V. S. Lakshmanan|2|2|0|0
+8|PIXIDA: Optimizing Data Parallel Jobs in Wide-Area Data Analytics.|Konstantinos Kloudas,Rodrigo Rodrigues,Nuno M. Preguiça,Margarida Mamede|0|0|0|0
+9|Spatial Online Sampling and Aggregation.|Lu Wang,Robert Christensen,Feifei Li,Ke Yi|0|0|0|0
+10|A Seven-Dimensional Analysis of Hashing Methods and its Implications on Query Processing.|Stefan Richter,Victor Alvarez,Jens Dittrich|0|0|0|0
+11|The iBench Integration Metadata Generator.|Patricia C. Arocena,Boris Glavic,Radu Ciucanu,Renée J. Miller|1|1|0|1
+12|QuERy: A Framework for Integrating Entity Resolution with Query Processing.|Hotham Altwaijry,Sharad Mehrotra,Dmitri V. Kalashnikov|0|0|0|0
+13|Processing and Optimizing Main Memory Spatial-Keyword Queries.|Taesung Lee,Jin-Woo Park,Sanghoon Lee,Seung-won Hwang,Sameh Elnikety,Yuxiong He|0|0|0|0
+14|Neighbor-Sensitive Hashing.|Yongjoo Park,Michael J. Cafarella,Barzan Mozafari|1|1|0|1
+15|Cumulon: Matrix-Based Data Analytics in the Cloud with Spot Instances.|Botong Huang,Nicholas W. D. Jarrett,Shivnath Babu,Sayan Mukherjee,Jun Yang|1|1|0|1
+16|New Lower and Upper Bounds for Shortest Distance Queries on Terrains.|Manohar Kaul,Raymond Chi-Wing Wong,Christian S. Jensen|0|0|0|0
+17|The Complexity of Resilience and Responsibility for Self-Join-Free Conjunctive Queries.|Cibele Freire,Wolfgang Gatterbauer,Neil Immerman,Alexandra Meliou|0|0|0|0
+18|Streaming Anomaly Detection Using Randomized Matrix Sketching.|Hao Huang,Shiva Prasad Kasiviswanathan|1|1|0|1
+19|How Good Are Query Optimizers, Really?|Viktor Leis,Andrey Gubichev,Atanas Mirchev,Peter A. Boncz,Alfons Kemper,Thomas Neumann|0|0|0|0
+20|Titian: Data Provenance Support in Spark.|Matteo Interlandi,Kshitij Shah,Sai Deep Tetali,Muhammad Gulzar,Seunghyun Yoo,Miryung Kim,Todd D. Millstein,Tyson Condie|0|0|0|0
+21|High-Speed Query Processing over High-Speed Networks.|Wolf Rödiger,Tobias Mühlbauer,Alfons Kemper,Thomas Neumann|3|2|0|1
+22|Behavior Query Discovery in System-Generated Temporal Graphs.|Bo Zong,Xusheng Xiao,Zhichun Li,Zhenyu Wu,Zhiyun Qian,Xifeng Yan,Ambuj K. Singh,Guofei Jiang|0|0|0|0
+23|Asynchronous Memory Access Chaining.|Yusuf Onur Koçberber,Babak Falsafi,Boris Grot|0|0|0|0
+24|Design of Policy-Aware Differentially Private Algorithms.|Samuel Haney,Ashwin Machanavajjhala,Bolin Ding|0|0|0|0
+25|Approximate Closest Community Search in Networks.|Xin Huang,Laks V. S. Lakshmanan,Jeffrey Xu Yu,Hong Cheng|0|0|0|0
+26|Cache locality is not enough: High-Performance Nearest Neighbor Search with Product Quantization Fast Scan.|Fabien André,Anne-Marie Kermarrec,Nicolas Le Scouarnec|0|0|0|0
+27|Combining Quantitative and Logical Data Cleaning.|Nataliya Prokoshyna,Jaroslaw Szlichta,Fei Chiang,Renée J. Miller,Divesh Srivastava|0|0|0|0
+28|Schema-agnostic vs Schema-based Configurations for Blocking Methods on Homogeneous Data.|George Papadakis,George Alexiou,George Papastefanatos,Georgia Koutrika|0|0|0|0
+29|Ego-net Community Mining Applied to Friend Suggestion.|Alessandro Epasto,Silvio Lattanzi,Vahab S. Mirrokni,Ismail Sebe,Ahmed Taei,Sunita Verma|0|0|0|0
+30|Temporal Rules Discovery for Web Data Cleaning.|Ziawasch Abedjan,Cuneyt Gurcan Akcora,Mourad Ouzzani,Paolo Papotti,Michael Stonebraker|0|0|0|0
+31|Explaining Query Answers with Explanation-Ready Databases.|Sudeepa Roy,Laurel Orr,Dan Suciu|0|0|0|0
+32|An Efficient Partition Based Method for Exact Set Similarity Joins.|Dong Deng,Guoliang Li,He Wen,Jianhua Feng|0|0|0|0
+33|CLAMShell: Speeding up Crowds for Low-latency Data Labeling.|Daniel Haas,Jiannan Wang,Eugene Wu,Michael J. Franklin|0|0|0|0
+34|Front Matter.|n/a
+35|Online Entity Resolution Using an Oracle.|Donatella Firmani,Barna Saha,Divesh Srivastava|0|0|0|0
+36|Exploiting Equality Generating Dependencies in Checking Chase Termination.|Marco Calautti,Sergio Greco,Cristian Molinaro,Irina Trubitsyna|0|0|0|0
+37|A Shifting Bloom Filter Framework for Set Queries.|Tong Yang,Alex X. Liu,Muhammad Shahzad,Yuankun Zhong,Qiaobin Fu,Zi Li,Gaogang Xie,Xiaoming Li|0|0|0|0
+38|Husky: Towards a More Efficient and Expressive Distributed Computing Framework.|Fan Yang,Jinfeng Li,James Cheng|2|0|0|2
+39|Repairing Data through Regular Expressions.|Zeyu Li,Hongzhi Wang,Wei Shao,Jianzhong Li,Hong Gao|0|0|0|0
+40|Leveraging Lock Contention to Improve OLTP Application Performance.|Cong Yan,Alvin Cheung|0|0|0|0

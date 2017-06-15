@@ -1,0 +1,57 @@
+56
+1|Proceedings of the Fifteenth Annual Symposium on Computational Geometry, Miami Beach, Florida, USA, June 13-16, 1999.|Victor Milenkovic|n/a
+2|Sliver Exudation.|Siu-Wing Cheng,Tamal K. Dey,Herbert Edelsbrunner,Michael A. Facello,Shang-Hua Teng|n/a
+3|The Path of a Triangulation.|Oswin Aichholzer|52|0|0|7
+4|Edgewise Subdivision of a Simplex.|Herbert Edelsbrunner,Daniel R. Grayson|63|0|0|3
+5|Efficient Algorithms for Maximum Regression Depth.|Marc J. van Kreveld,Joseph S. B. Mitchell,Peter Rousseeuw,Micha Sharir,Jack Snoeyink,Bettina Speckmann|26|0|0|0
+6|Spanning Trees Crossing Few Barriers.|Tetsuo Asano,Mark de Berg,Otfried Cheong,Leonidas J. Guibas,Jack Snoeyink,Hisao Tamaki|11|0|0|0
+7|Generalizing Ham Sandwich Cuts to Equitable Subdivisions.|Sergei Bespamyatnikh,David G. Kirkpatrick,Jack Snoeyink|94|0|0|5
+8|Topological Beam Tracing.|Steven Fortune|20|0|0|0
+9|A Geometric Approach to Computing Higher Order Form Factors.|Marco Pellegrini|3|0|0|0
+10|Geometric Pattern Matching: A Performance Study.|Martin Gavrilov,Piotr Indyk,Rajeev Motwani,Suresh Venkatasubramanian|23|0|1|2
+11|Empirical Design of Geometric Algorithms.|Karsten Weihe,Ulrik Brandes,Annegret Liebers,Matthias Müller-Hannemann,Dorothea Wagner,Thomas Willhalm|13|0|0|7
+12|Geometric Algorithms for Trap Design.|Robert-Paul Berretty,Kenneth Y. Goldberg,Mark H. Overmars,A. Frank van der Stappen|8|0|0|4
+13|Folding Flat Silhouettes and Wrapping Polyhedral Packages: New Results in Computational Origami.|Erik D. Demaine,Martin L. Demaine,Joseph S. B. Mitchell|99|0|1|23
+14|The Table Layout Problem.|Richard J. Anderson,Sumeet Sobti|33|0|6|0
+15|New Bounds on Crossing Numbers.|János Pach,Joel Spencer,Géza Tóth|56|0|0|15
+16|The Complexity of the Union of (alpha, beta)-Covered Objects.|Alon Efrat|50|0|0|1
+17|Pipes, Cigars, and Kreplach: The Union of Minkowski Sums in Three Dimensions.|Pankaj K. Agarwal,Micha Sharir|60|0|0|19
+18|Polytopes in Arrangements.|Boris Aronov,Tamal K. Dey|4|0|0|0
+19|Controlled Perturbation for Arrangements of Polyhedral Surfaces with Application to Swept Volumes.|Sigal Raab|71|0|0|1
+20|Motion Planning for a Rigid Body Using Random Networks on the Medial Axis of the Free Space.|Steven A. Wilmarth,Nancy M. Amato,Peter F. Stiller|90|0|0|7
+21|On Deletion in Delaunay Triangulations.|Olivier Devillers|143|0|1|6
+22|Crust and Anti-Crust: A One-Step Boundary and Skeleton Extraction Algorithm.|Christopher M. Gold|98|0|0|10
+23|Curve Reconstruction: Connecting Dots with Good Reason.|Tamal K. Dey,Kurt Mehlhorn,Edgar A. Ramos|126|0|0|9
+24|Curve Reconstruction, the Traveling Salesman Problem and Menger's Theorem on Length.|Joachim Giesen|56|0|0|3
+25|On Minimum Stars, Minimum Steiner Stars, and Maximum Matchings.|Sándor P. Fekete,Henk Meijer|3|0|0|2
+26|Hierarchical Vertical Decompositions, Ray Shooting, and Circular Arc Queries in Simple Polygons.|Siu-Wing Cheng,Hazel Everett,Otfried Cheong,René van Oostrum|13|0|0|0
+27|Kinetic Connectivity of Rectangles.|John Hershberger,Subhash Suri|16|0|0|2
+28|Lower Bounds for Kinetic Planar Subdivisions.|Pankaj K. Agarwal,Julien Basch,Mark de Berg,Leonidas J. Guibas,John Hershberger|31|0|0|8
+29|Interval Methods for Kinetic Simulations.|Leonidas J. Guibas,Menelaos I. Karavelas|21|0|0|2
+30|H-Walk: Hierarchical Distance Computation for Moving Convex Bodies.|Leonidas J. Guibas,David Hsu,Li Zhang|82|0|0|2
+31|Stretchability of Star-Like Pseudo-Visibility Graphs.|Ileana Streinu|11|0|0|3
+32|Visibility-Based Pursuit-Evasion in a Polygonal Room with a Door.|Jae-Ha Lee,Sung Yong Shin,Kyung-Yong Chwa|61|0|0|8
+33|On Bisectors for Different Distance Functions.|Christian Icking,Rolf Klein,Lihong Ma,Stefan Nickel,Ansgar Weißler|23|0|0|6
+34|Small Distortion and Volume Preserving Embeddings for Planar and Euclidean Metrics.|Satish Rao|167|0|0|2
+35|Computing Roundness is Easy if the Set is Almost Round.|Pedro A. Ramos|12|0|0|1
+36|Smooth Paths in a Polygonal Channel.|David Lutterkort,Jörg Peters|40|0|1|5
+37|Determining an Optimal Penetration Among Weighted Regions in Two and Three Dimensions.|Danny Z. Chen,Ovidiu Daescu,Xiaobo Hu,Xiaodong Wu,Jinhui Xu|51|0|0|30
+38|Error Bounded Regular Algebraic Spline Curves.|Chandrajit L. Bajaj,Guoliang Xu|4|0|0|0
+39|Efficient Exact Geometric Computation Made Easy.|Christoph Burnikel,Rudolf Fleischer,Kurt Mehlhorn,Stefan Schirra|86|0|1|7
+40|A Core Library for Robust Numeric and Geometric Computation.|Vijay Karamcheti,C. Li,Igor Pechtchanski,Chee-Keng Yap|158|0|0|17
+41|MAPC: A Library for Efficient and Exact Manipulation of Algebraic Points and Curves.|John Keyser,Tim Culver,Dinesh Manocha,Shankar Krishnan|70|0|0|11
+42|Efficient Algorithms for Line and Curve Segment Intersection Using Restricted Predicates.|Jean-Daniel Boissonnat,Jack Snoeyink|51|0|0|9
+43|Approximation and Exact Algorithms for Minimum-Width Annuli and Shells.|Pankaj K. Agarwal,Boris Aronov,Sariel Har-Peled,Micha Sharir|51|0|0|14
+44|On Range Reporting, Ray Shooting and k-Level Construction.|Edgar A. Ramos|65|0|0|0
+45|Sharp Bounds on Geometric Permutations of Pairwise Disjoint Balls inRd.|Shakhar Smorodinsky,Joseph S. B. Mitchell,Micha Sharir|38|0|0|8
+46|Metamorphosis of the Cube.|Erik D. Demaine,Martin L. Demaine,Anna Lubiw,Joseph O'Rourke,Irena Pashchenko|14|0|0|5
+47|The Video "Geodesics and Waves".|Konrad Polthier,Markus Schmies,Martin Steffens,Christian Teitzel|4|0|0|3
+48|Polyhedron Realization and Its Application to Metamorphosis.|Maria Shneerson,Avner Shapiro,Ayellet Tal|4|0|1|2
+49|Feature-Based Surface Decomposition for Polyhedral Morphing.|Arthur D. Gregory,Andrei State,Ming C. Lin,Dinesh Manocha,Mark A. Livingston|8|0|1|0
+50|Efficient Perspective-Accurate Silhouette Computation.|Gill Barequet,Christian A. Duncan,Michael T. Goodrich,Subodh Kumar,Mihai Pop|26|0|0|1
+51|Mesh Collapse Compression.|Martin Isenburg,Jack Snoeyink|58|0|0|11
+52|Programming with CGAL: The Example of Triangulations.|Jean-Daniel Boissonnat,Frédéric Cazals,Frank Da,Olivier Devillers,Sylvain Pion,François Rebufat,Monique Teillaud,Mariette Yvinec|25|0|0|1
+53|The Crust Algorithm for 3D Surface Reconstruction.|Nina Amenta|13|0|0|0
+54|Uncluttering Force-Directed Graph Layouts.|David P. Dobkin,Alejo Hausner,Emden R. Gansner,Stephen C. North|6|0|0|0
+55|Kinetic Data Structures: Animating Proofs Through Time.|Julien Basch,João Comba,Leonidas J. Guibas,John Hershberger,Craig Silverstein,Li Zhang|5|0|0|0
+56|Graph Partitioning and Ordering for Interactive Proximity Queries.|Andy Wilson,Eric Larsen,Dinesh Manocha,Ming C. Lin|0|0|0|0

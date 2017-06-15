@@ -1,0 +1,53 @@
+52
+1|Proceedings of the 19th ACM Symposium on Computational Geometry, San Diego, CA, USA, June 8-10, 2003.|Steven Fortune|n/a
+2|Fault-tolerant geometric spanners.|Artur Czumaj,Hairong Zhao|52|0|0|0
+3|Euclidean bounded-degree spanning tree ratios.|Timothy M. Chan|38|0|0|0
+4|Approximation algorithms for aligning points.|Sergio Cabello,Marc J. van Kreveld|17|0|0|3
+5|Shape fitting with outliers.|Sariel Har-Peled,Yusu Wang|50|0|0|13
+6|High-dimensional shape fitting in linear time.|Sariel Har-Peled,Kasturi R. Varadarajan|39|0|0|9
+7|Smooth kinetic maintenance of clusters.|John Hershberger|34|0|0|1
+8|Polygon decomposition based on the straight line skeleton.|Mirela Tanase,Remco C. Veltkamp|44|0|0|1
+9|Efficient algorithms for shared camera control.|Sariel Har-Peled,Vladlen Koltun,Dezhen Song,Kenneth Y. Goldberg|23|0|0|0
+10|Good NEWS: partitioning a simple polygon by compass directions.|Marc J. van Kreveld,Iris Reinbacher|13|0|0|1
+11|Geometric algorithms for static leaf sequencing problems in radiation therapy.|Danny Z. Chen,Xiaobo Hu,Shuang Luan,Chao Wang,Xiaodong Wu|26|0|0|11
+12|Topological graphs with no self-intersecting cycle of lenth 4.|Rom Pinchasi,Rados Radoicic|35|0|0|6
+13|Distinct distances in homogeneous sets.|József Solymosi,Van H. Vu|13|0|0|4
+14|A tight bound for the number of different directions in three dimensions.|János Pach,Rom Pinchasi,Micha Sharir|7|0|0|4
+15|On conflict-free coloring of points and simple regions in the plane.|Sariel Har-Peled,Shakhar Smorodinsky|97|0|0|16
+16|Long monotone paths in line arrangements.|József Balogh,Oded Regev,Clifford D. Smyth,William L. Steiger,Mario Szegedy|15|0|0|0
+17|New constructions of weak epsilon-nets.|Jirí Matousek|28|0|0|0
+18|Curve-sensitive cuttings.|Vladlen Koltun,Micha Sharir|9|0|0|6
+19|Spatial embedding of pseudo-triangulations.|Oswin Aichholzer,Franz Aurenhammer,Peter Braay|8|0|0|1
+20|Planar minimally rigid graphs and pseudo-triangulations.|Ruth Haas,David Orden,Günter Rote,Francisco Santos,Brigitte Servatius,Herman Servatius,Diane L. Souvaine,Ileana Streinu,Walter Whiteley|111|0|0|11
+21|The complexity of (un)folding.|Helmut Alt,Christian Knauer,Günter Rote,Sue Whitesides|19|0|0|1
+22|Local polyhedra and geometric graphs.|Jeff Erickson|22|0|0|0
+23|Updating and constructing constrained delaunay and constrained regular triangulations by flips.|Jonathan Richard Shewchuk|53|0|0|3
+24|Anisotropic voronoi diagrams and guaranteed-quality anisotropic mesh generation.|François Labelle,Jonathan Richard Shewchuk|173|0|0|2
+25|Complexity of the delaunay triangulation of points on surfaces the smooth case.|Dominique Attali,Jean-Daniel Boissonnat,André Lieutier|121|0|0|19
+26|Incremental constructions con BRIO.|Nina Amenta,Sunghee Choi,Günter Rote|120|0|0|0
+27|Proximate planar point location.|John Iacono,Stefan Langerman|22|0|0|4
+28|Cost-driven octree construction schemes: an experimental study.|Boris Aronov,Hervé Brönnimann,Allen Y. Chang,Yi-Jen Chiang|25|0|0|6
+29|Cache-oblivious data structures for orthogonal range searching.|Pankaj K. Agarwal,Lars Arge,Andrew Danner,Bryan Holland-Minkley|46|0|2|6
+30|Near-optimal parameterization of the intersection of quadrics.|Laurent Dupont,Daniel Lazard,Sylvain Lazard,Sylvain Petitjean|51|0|0|4
+31|Constructive root bound for k-ary rational input numbers.|Sylvain Pion,Chee-Keng Yap|38|0|0|11
+32|Controlled perturbation for arrangements of circles.|Dan Halperin,Eran Leiserowitz|58|0|0|8
+33|Optimized color gamuts for tiled displays.|Marshall W. Bern,David Eppstein|27|0|1|3
+34|Hausdorff distance under translation for points and balls.|Pankaj K. Agarwal,Sariel Har-Peled,Micha Sharir,Yusu Wang|25|0|0|0
+35|The smallest enclosing ball of balls: combinatorial structure and algorithms.|Kaspar Fischer,Bernd Gärtner|97|0|0|3
+36|Curve reconstruction from noisy samples.|Siu-Wing Cheng,Stefan Funke,Mordecai J. Golin,Piyush Kumar,Sheung-Hung Poon,Edgar A. Ramos|45|0|0|3
+37|Restricted delaunay triangulations and normal cycle.|David Cohen-Steiner,Jean-Marie Morvan|471|0|2|12
+38|Estimating surface normals in noisy point cloud data.|Niloy J. Mitra,An Thanh Nguyen|499|0|3|5
+39|Shape dimension and intrinsic metric from samples of manifolds with high co-dimension.|Joachim Giesen,Uli Wagner|49|0|0|2
+40|An optimal algorithm for the minimum edge cardinality cut surface problem.|David E. Cardoze|3|0|0|0
+41|Loops in reeb graphs of 2-manifolds.|Kree Cole-McLaughlin,Herbert Edelsbrunner,John Harer,Vijay Natarajan,Valerio Pascucci|194|0|0|11
+42|Molecular shape analysis based upon the morse-smale complex and the connolly function.|Frédéric Cazals,Frédéric Chazal,Thomas Lewiner|121|0|0|15
+43|Morse-smale complexes for piecewise linear 3-manifolds.|Herbert Edelsbrunner,John Harer,Vijay Natarajan,Valerio Pascucci|221|0|0|27
+44|the asteroid surveying problem and other puzzles.|Timothy M. Chan,Alexander Golynski,Alejandro López-Ortiz,Claude-Guy Quimper|2|0|0|0
+45|VASCO: visualizing and animating spatial constructs and operations.|Frantisek Brabec,Hanan Samet,Cemal Yilmaz|12|0|0|8
+46|Billboard clouds.|Xavier Décoret,Frédo Durand,François X. Sillion|n/a
+47|A 3-D visualization of kirkpatrick's planar point location algorithm.|John Iacono|0|0|0|0
+48|Morphing between shapes by using their straight skeletons.|Gill Barequet,Evgeny Yakersberg|3|0|0|0
+49|3DTreeDraw: a thjree dimensional tree drawing system.|Tom Murtagh,Seok-Hee Hong|5|0|0|3
+50|Online dispersion algorithms for swarms of robots.|Tien-Ruey Hsiang,Esther M. Arkin,Michael A. Bender,Sándor P. Fekete,Joseph S. B. Mitchell|10|0|0|1
+51|Finding a curve in a map.|Carola Wenk,Helmut Alt,Alon Efrat,Lingeshwaran Palaniappan,Günter Rote|3|0|0|1
+52|Fast penetration depth estimation using rasterization hardware and hierarchical refinement.|Young J. Kim,Miguel A. Otaduy,Ming C. Lin,Dinesh Manocha|33|0|0|1

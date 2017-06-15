@@ -1,0 +1,74 @@
+73
+1|VLDB'96, Proceedings of 22th International Conference on Very Large Data Bases, September 3-6, 1996, Mumbai (Bombay), India.|T. M. Vijayaraman,Alejandro P. Buchmann,C. Mohan,Nandlal L. Sarda|n/a
+2|The Changing Landscape of the Software Industry and its Implications for India.|Umang Gupta|0|0|0|0
+3|Very Large Databases in a Commercial Application Environment.|Karl-Heinz Hess|1|0|0|0
+4|Of Objects and Databases: A Decade of Turmoil.|Michael J. Carey,David J. DeWitt|130|27|2|1
+5|Filter Trees for Managing Spatial Data over a Range of Size Granularities.|Kenneth C. Sevcik,Nick Koudas|61|8|0|4
+6|The X-tree : An Index Structure for High-Dimensional Data.|Stefan Berchtold,Daniel A. Keim,Hans-Peter Kriegel|717|104|24|14
+7|Analysis of n-Dimensional Quadtrees using the Hausdorff Fractal Dimension.|Christos Faloutsos,Volker Gaede|29|0|0|2
+8|WATCHMAN : A Data Warehouse Intelligent Cache Manager.|Peter Scheuermann,Junho Shim,Radek Vingralek|188|37|11|6
+9|Efficient Snapshot Differential Algorithms for Data Warehousing.|Wilburt Labio,Hector Garcia-Molina|20|17|0|1
+10|Incremental Maintenance of Externally Materialized Views.|Martin Staudt,Matthias Jarke|121|33|0|20
+11|Optimization of Queries with User-defined Predicates.|Surajit Chaudhuri,Kyuseok Shim|231|55|7|9
+12|The Design and Implementation of a Sequence Database System.|Praveen Seshadri,Miron Livny,Raghu Ramakrishnan|204|36|1|7
+13|EROC: A Toolkit for Building NEATO Query Optimizers.|William J. McKenna,Louis Burger,Chi Hoang,Melissa Truong|23|2|0|1
+14|A New SQL-like Operator for Mining Association Rules.|Rosa Meo,Giuseppe Psaila,Stefano Ceri|375|51|1|19
+15|Sampling Large Databases for Association Rules.|Hannu Toivonen|1538|429|9|8
+16|Constructing Efficient Decision Trees by Using Optimized Numeric Association Rules.|Takeshi Fukuda,Yasuhiko Morimoto,Shinichi Morishita,Takeshi Tokuyama|n/a
+17|Reordering Query Execution in Tertiary Memory Databases.|Sunita Sarawagi,Michael Stonebraker|41|0|1|0
+18|Query Processing Techniques for Multiversion Access Methods.|Jochen Van den Bercken,Bernhard Seeger|38|6|0|5
+19|Coalescing in Temporal Databases.|Michael H. Böhlen,Richard T. Snodgrass,Michael D. Soo|136|43|2|22
+20|Effective & Efficient Document Ranking without using a Large Lexicon.|Yasushi Ogawa|4|0|0|2
+21|PESTO : An Integrated Query/Browser for Object Databases.|Michael J. Carey,Laura M. Haas,Vivekananda Maganty,John H. Williams|162|13|0|0
+22|Fast Nearest Neighbor Search in Medical Image Databases.|Flip Korn,Nikolaos Sidiropoulos,Christos Faloutsos,Eliot L. Siegel,Zenon Protopapas|392|94|1|16
+23|Query Decomposition and View Maintenance for Query Languages for Unstructured Data.|Dan Suciu|83|10|0|4
+24|SchemaSQL - A Language for Interoperability in Relational Multi-Database Systems.|Laks V. S. Lakshmanan,Fereidoon Sadri,Iyer N. Subramanian|237|29|3|14
+25|Querying Heterogeneous Information Sources Using Source Descriptions.|Alon Y. Levy,Anand Rajaraman,Joann J. Ordille|1568|227|6|27
+26|Supporting State-Wide Immunisation Tracking Using Multi-Paradigm Workflow Technology.|Amit P. Sheth,Krys Kochut,John A. Miller,Devashish Worah,Souvik Das,Chenye Lin,Devanand Palaniswami,John Lynch,Ivan Shevchenko|84|7|0|15
+27|ZOO : A Desktop Experiment Management Environment.|Yannis E. Ioannidis,Miron Livny,Shivani Gupta,Nagavamsi Ponnekanti|120|19|1|4
+28|Applying Data Mining Techniques to a Health Insurance Information System.|Marisa S. Viveros,John P. Nearhos,Michael J. Rothman|73|19|0|0
+29|Querying Multiple Features of Groups in Relational Databases.|Damianos Chatziantoniou,Kenneth A. Ross|123|16|4|23
+30|Modeling Skewed Distribution Using Multifractals and the `80-20' Law.|Christos Faloutsos,Yossi Matias,Abraham Silberschatz|63|9|2|6
+31|Answering Queries with Aggregation Using Views.|Divesh Srivastava,Shaul Dar,H. V. Jagadish,Alon Y. Levy|361|58|15|10
+32|Semantic Data Caching and Replacement.|Shaul Dar,Michael J. Franklin,Björn Þór Jónsson,Divesh Srivastava,Michael Tan|641|166|13|8
+33|Clustering Techniques for Minimizing External Path Length.|Ajit A. Diwan,Sanjeeva Rane,S. Seshadri,S. Sudarshan|47|9|0|0
+34|Disseminating Updates on Broadcast Disks.|Swarup Acharya,Michael J. Franklin,Stanley B. Zdonik|234|15|1|4
+35|Implementation and Analysis of a Parallel Collection Query Language.|Dan Suciu|6|0|0|0
+36|Calibrating the Query Optimizer Cost Model of IRO-DB, an Object-Oriented Federated Database System.|Georges Gardarin,Fei Sha,Zhao-Hui Tang|97|15|0|5
+37|Cost-based Selection of Path Expression Processing Algorithms in Object-Oriented Databases.|Georges Gardarin,Jean-Robert Gruser,Zhao-Hui Tang|68|13|0|3
+38|Obtaining Complete Answers from Incomplete Databases.|Alon Y. Levy|153|45|0|8
+39|Object Fusion in Mediator Systems.|Yannis Papakonstantinou,Serge Abiteboul,Hector Garcia-Molina|332|29|0|40
+40|The Role of Integrity Constraints in Database Interoperation.|Mark W. W. Vermeer,Peter M. G. Apers|49|1|0|6
+41|Dynamic Load Balancing in Hierarchical Parallel Database Systems.|Luc Bouganim,Daniela Florescu,Patrick Valduriez|106|29|1|17
+42|Estimation of Query-Result Distribution and its Application in Parallel-Join Load Balancing.|Viswanath Poosala,Yannis E. Ioannidis|68|17|2|4
+43|Intra-Transaction Parallelism in the Mapping of an Object Model to a Relational Multi-Processor System.|Michael Rys,Moira C. Norrie,Hans-Jörg Schek|33|2|2|11
+44|Supporting Periodic Authorizations and Temporal Reasoning in Database Access Control.|Elisa Bertino,Claudio Bettini,Elena Ferrari,Pierangela Samarati|21|1|0|5
+45|Querying a Multilevel Database: A Logical Analysis.|Frédéric Cuppens|12|0|0|3
+46|Further Improvements on Integrity Constraint Checking for Stratifiable Deductive Databases.|Sin Yeung Lee,Tok Wang Ling|43|12|0|2
+47|On the Computation of Multidimensional Aggregates.|Sameet Agarwal,Rakesh Agrawal,Prasad Deshpande,Ashish Gupta,Jeffrey F. Naughton,Raghu Ramakrishnan,Sunita Sarawagi|768|147|26|22
+48|Storage Estimation for Multidimensional Aggregates in the Presence of Hierarchies.|Amit Shukla,Prasad Deshpande,Jeffrey F. Naughton,Karthikeyan Ramasamy|248|37|35|9
+49|Information Retrieval from an Incomplete Data Cube.|Curtis E. Dyreson|74|13|3|13
+50|SPRINT: A Scalable Parallel Classifier for Data Mining.|John C. Shafer,Rakesh Agrawal,Manish Mehta|1259|346|17|12
+51|Modeling Design Versions.|R. Ramakrishnan,D. Janaki Ram|27|2|0|3
+52|Integrating Triggers and Declarative Constraints in SQL Database Sytems.|Roberta Cochrane,Hamid Pirahesh,Nelson Mendonça Mattos|80|7|5|7
+53|Practical Issues with Commercial Use of Federated Databases.|Jim Kleewein|9|2|1|2
+54|Supporting Procedural Constructs in SQL Compilers.|Nelson Mendonça Mattos|0|0|0|0
+55|Extracting Large Data Sets using DB2 Parallel Edition.|Sriram Padmanabhan|1|0|0|1
+56|Cache Coherency in Oracle Parallel Server.|Boris Klots|5|0|0|1
+57|Scalablity and Availability in Oracle7 7.3.|Dieter Gawlick|0|0|0|0
+58|Bellcore's ADAPT/X Harness System for Managing Information on Internet and Intranets.|Amit P. Sheth|2|1|0|0
+59|DISNIC-PLAN: A NICNET Based Distributed Database for Micro-level Planning in India.|M. Moni|0|0|0|0
+60|Large Databases for Remote Sensing and GIS.|A. R. Dasgupta|0|0|0|0
+61|DWMS: Data Warehouse Management System.|Narendra Mohan|5|0|0|0
+62|The XPS Approach to Loading and Unloading Terabyte Databases.|Sanket Atal|0|0|0|0
+63|How System 11 SQL Server Became Fast.|T. K. Rengarajan|n/a
+64|Using Referential Integrity To Easily Define Consistent Subset Replicas.|Brad Hammond|0|0|0|0
+65|The Query Optimizer in Tandem's new ServerWare SQL Product.|Pedro Celis|20|4|3|0
+66|TPC-D: The Challenges, Issues and Results.|Ramesh Bhashyam|13|2|2|0
+67|Tribeca: A Stream Database Manager for Network Traffic Analysis.|Mark Sullivan|105|33|9|0
+68|MineSet(tm): A System for High-End Data Mining and Visualization.|n/a
+69|The Structured Information Manager: A Database System for SGML Documents.|Ron Sacks-Davis|5|0|0|0
+70|Loading the Data Warehouse Across Various Parallel Architectures.|Vijay Raghavan|1|0|0|0
+71|Performance of Future Database Systems: Bottlenecks and Bonananzas.|Chaitanya K. Baru|0|0|0|0
+72|Database Management Systems and the Internet.|Susan Malaika|n/a
+73|What is the Data Warehousing Problem? (Are Materialized Views the Answer?).|Ashish Gupta,Inderpal Singh Mumick|12|0|0|0

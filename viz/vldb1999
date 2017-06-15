@@ -1,0 +1,79 @@
+78
+1|VLDB'99, Proceedings of 25th International Conference on Very Large Data Bases, September 7-10, 1999, Edinburgh, Scotland, UK.|Malcolm P. Atkinson,Maria E. Orlowska,Patrick Valduriez,Stanley B. Zdonik,Michael L. Brodie|n/a
+2|Repeating History Beyond ARIES.|C. Mohan|n/a
+3|Online Feedback for Nested Aggregate Queries with Multi-Threading.|Kian-Lee Tan,Cheng Hian Goh,Beng Chin Ooi|20|3|3|4
+4|Generalised Hash Teams for Join and Group-by.|Alfons Kemper,Donald Kossmann,Christian Wiesner|28|10|0|2
+5|Explaining Differences in Multidimensional Aggregates.|Sunita Sarawagi|125|50|10|5
+6|Database Architecture Optimized for the New Bottleneck: Memory Access.|Peter A. Boncz,Stefan Manegold,Martin L. Kersten|359|156|2|22
+7|The Persistent Cache: Improving OID Indexing in Temporal Object-Oriented Database Systems.|Kjetil Nørvåg|15|0|0|0
+8|Cache Conscious Indexing for Decision-Support in Main Memory.|Jun Rao,Kenneth A. Ross|296|106|4|16
+9|Comparing Hierarchical Data in External Memory.|Sudarshan S. Chawathe|215|84|2|2
+10|Mining Deviants in a Time Series Database.|H. V. Jagadish,Nick Koudas,S. Muthukrishnan|133|39|3|4
+11|Exploiting Versions for Handling Updates in Broadcast Disks.|Evaggelia Pitoura,Panos K. Chrysanthis|106|2|0|13
+12|Fast Algorithms for Maintaining Replica Consistency in Lazy Master Replicated Databases.|Esther Pacitti,Pascale Minet,Eric Simon|115|43|0|7
+13|Active Views for Electronic Commerce.|Serge Abiteboul,Bernd Amann,Sophie Cluet,Anat Eyal,Laurent Mignet,Tova Milo|124|8|1|13
+14|An Adaptive Hybrid Server Architecture for Client Caching ODBMSs.|Kaladhar Voruganti,M. Tamer Özsu,Ronald C. Unrau|19|0|1|1
+15|Dynamic Load Balancing for Parallel Association Rule Mining on Heterogenous PC Cluster Systems.|Masahisa Tamura,Masaru Kitsuregawa|31|7|0|5
+16|Histogram-Based Approximation of Set-Valued Query-Answers.|Yannis E. Ioannidis,Viswanath Poosala|237|72|9|8
+17|Semantic Compression and Pattern Extraction with Fascicles.|H. V. Jagadish,J. Madar,Raymond T. Ng|102|18|2|3
+18|Issues in Network Management in the Next Millennium.|Michael L. Brodie,Surajit Chaudhuri|n/a
+19|A Scalable and Highly Available Networked Database Architecture.|Roger Bamford,Rafiul Ahad,Angelo Pruscino|16|5|2|0
+20|Networked Data Management Design Points.|James R. Hamilton|10|2|0|0
+21|In Cyber Space No One can Hear You Scream.|Chris Pound|2|0|0|0
+22|Finding Intensional Knowledge of Distance-Based Outliers.|Edwin M. Knorr,Raymond T. Ng|462|204|11|4
+23|SPIRIT: Sequential Pattern Mining with Regular Expression Constraints.|Minos N. Garofalakis,Rajeev Rastogi,Kyuseok Shim|549|198|2|5
+24|A Novel Index Supporting High Volume Data Warehouse Insertion.|Chris Jermaine,Anindya Datta,Edward Omiecinski|51|20|4|7
+25|Microsoft English Query 7.5: Automatic Extraction of Semantics from Relational Databases and OLAP Cubes.|Adam Blum|9|4|0|0
+26|The New Locking, Logging, and Recovery Architecture of Microsoft SQL Server 7.0.|David Campbell|0|0|0|0
+27|The Value of Merge-Join and Hash-Join in SQL Server.|Goetz Graefe|20|8|1|2
+28|VOODB: A Generic Discrete-Event Random Simulation Model To Evaluate the Performances of OODBs.|Jérôme Darmont,Michel Schneider|16|4|0|5
+29|DBMSs on a Modern Processor: Where Does Time Go?|Anastassia Ailamaki,David J. DeWitt,Mark D. Hill,David A. Wood|524|175|5|41
+30|Performance Measurements of Compressed Bitmap Indices.|Theodore Johnson|139|37|0|3
+31|Capturing and Querying Multiple Aspects of Semistructured Data.|Curtis E. Dyreson,Michael H. Böhlen,Christian S. Jensen|67|17|1|8
+32|Relational Databases for Querying XML Documents: Limitations and Opportunities.|Jayavel Shanmugasundaram,Kristin Tufte,Chun Zhang,Gang He,David J. DeWitt,Jeffrey F. Naughton|1524|236|41|10
+33|Query Optimization for XML.|Jason McHugh,Jennifer Widom|522|88|39|3
+34|Context-Based Prefetch for Implementing Objects on Relations.|Philip A. Bernstein,Shankar Pal,David Shutt|47|9|0|1
+35|GHOST: Fine Granularity Buffering of Indexes.|Cheng Hian Goh,Beng Chin Ooi,D. Sim,Kian-Lee Tan|9|0|0|3
+36|Loading a Cache with Query Results.|Laura M. Haas,Donald Kossmann,Ioana Ursu|34|8|0|0
+37|Building Hierarchical Classifiers Using Class Proximity.|Ke Wang,Senqiang Zhou,Shiang Chen Liew|152|37|1|5
+38|Distributed Hypertext Resource Discovery Through Examples.|Soumen Chakrabarti,Martin van den Berg,Byron Dom|93|22|5|4
+39|Multi-Dimensional Substring Selectivity Estimation.|H. V. Jagadish,Olga Kapitskaia,Raymond T. Ng,Divesh Srivastava|36|3|1|7
+40|Evaluating Top-k Selection Queries.|Surajit Chaudhuri,Luis Gravano|323|104|3|7
+41|Probabilistic Optimization of Top N Queries.|Donko Donjerkovic,Raghu Ramakrishnan|164|25|6|4
+42|Combining Histograms and Parametric Curve Fitting for Feedback-Driven Query Result-size Estimation.|Arnd Christian König,Gerhard Weikum|69|16|3|3
+43|Integrating Heterogenous Overlapping Databases through Object-Oriented Transformations.|Vanja Josifovski,Tore Risch|45|1|0|17
+44|Quality-driven Integration of Heterogenous Information Systems.|Felix Naumann,Ulf Leser,Johann Christoph Freytag|279|77|1|21
+45|Physical Data Independence, Constraints, and Optimization with Universal Plans.|Alin Deutsch,Lucian Popa,Val Tannen|95|34|1|22
+46|On Efficiently Implementing SchemaSQL on an SQL Database System.|Laks V. S. Lakshmanan,Fereidoon Sadri,Subbu N. Subramanian|n/a
+47|Unrolling Cycles to Decide Trigger Termination.|Sin Yeung Lee,Tok Wang Ling|20|3|0|1
+48|User-Defined Table Operators: Enhancing Extensibility for ORDBMS.|Michael Jaedicke,Bernhard Mitschang|34|13|2|3
+49|Optimal Grid-Clustering: Towards Breaking the Curse of Dimensionality in High-Dimensional Clustering.|Alexander Hinneburg,Daniel A. Keim|376|115|7|7
+50|Similarity Search in High Dimensions via Hashing.|Aristides Gionis,Piotr Indyk,Rajeev Motwani|2006|1380|37|24
+51|What can Hierarchies do for Data Warehouses?|H. V. Jagadish,Laks V. S. Lakshmanan,Divesh Srivastava|117|34|3|7
+52|O-O, What Have They Done to DB2?|Michael J. Carey,Donald D. Chamberlin,Srinivasa Narayanan,Bennet Vance,Doug Doole,Serge Rielau,Richard Swagerman,Nelson Mendonça Mattos|n/a
+53|High Level Indexing of User-Defined Types.|Weidong Chen,Jyh-Herng Chow,You-Chin Fuh,Jean Grandbois,Michelle Jou,Nelson Mendonça Mattos,Brian T. Tran,Yun Wang|35|2|1|2
+54|Implementation of SQL3 Structured Types with Inheritance and Value Substitutability.|You-Chin Fuh,Stefan Deßloch,Weidong Chen,Nelson Mendonça Mattos,Brian T. Tran,Bruce G. Lindsay,Linda DeMichel,Serge Rielau,Danko Mannhaupt|50|16|36|0
+55|Generating Call-Level Interfaces for Advanced Database Application Programming.|Udo Nink,Theo Härder,Norbert Ritter|5|0|0|1
+56|PM3: An Orthogonal Persistent Systems Programming Language - Design, Implementation, Performance.|Antony L. Hosking,Jiawan Chen|17|6|0|1
+57|Cost Models DO Matter: Providing Cost Information for Diverse Data Sources in a Federated System.|Mary Tork Roth,Fatma Ozcan,Laura M. Haas|125|17|0|5
+58|Active Storage Hierarchy, Database Systems and Applications - Socratic Exegesis.|Felipe Cariño,William O'Connell,John G. Burgess,Joel H. Saltz|4|0|0|1
+59|Data-Driven, One-To-One Web Site Generation for Data-Intensive Applications.|Stefano Ceri,Piero Fraternali,Stefano Paraboschi|144|5|1|16
+60|Optimization of Run-time Management of Data Intensive Web-sites.|Daniela Florescu,Alon Y. Levy,Dan Suciu,Khaled Yagoub|78|9|1|7
+61|Extracting Large-Scale Knowledge Bases from the Web.|Ravi Kumar,Prabhakar Raghavan,Sridhar Rajagopalan,Andrew Tomkins|347|102|7|11
+62|Aggregation Algorithms for Very Large Compressed Data Warehouses.|Jianzhong Li,Doron Rotem,Jaideep Srivastava|44|8|0|6
+63|Extending Practical Pre-Aggregation in On-Line Analytical Processing.|Torben Bach Pedersen,Christian S. Jensen,Curtis E. Dyreson|101|39|1|24
+64|Hierarchical Prefix Cubes for Range-Sum Queries.|Chee Yong Chan,Yannis E. Ioannidis|86|6|0|0
+65|Implementation of Two Semantic Query Optimization Techniques in DB2 Universal Database.|Qi Cheng,Jarek Gryz,Fred Koo,T. Y. Cliff Leung,Linqi Liu,Xiaoyan Qian,K. Bernhard Schiefer|86|25|5|15
+66|High-Performance Extensible Indexing.|Marcel Kornacker|42|9|0|0
+67|Online Dynamic Reordering for Interactive Data Processing.|Vijayshankar Raman,Bhaskaran Raman,Joseph M. Hellerstein|85|21|2|11
+68|What Do Those Weird XML Types Want, Anyway?|Steven J. DeRose|3|1|0|0
+69|Industrial Panel on Data Warehousing Technologies: Experiences, Challenges, and Directions.|Umeshwar Dayal|0|0|0|0
+70|Datawarehousing Has More Colours Than Just Black & White.|Thomas Zurek,Markus Sinnwell|28|4|0|1
+71|Curio: A Novel Solution for Efficient Storage and Indexing in Data Warehouses.|Anindya Datta,Krithi Ramamritham,Helen M. Thomas|34|7|1|3
+72|Hyper-Programming in Java.|Evangelos Zirintsis,Graham N. C. Kirby,Ronald Morrison|11|0|0|6
+73|Building Light-Weight Wrappers for Legacy Web Data-Sources Using W4F.|Arnaud Sahuguet,Fabien Azavant|246|39|1|2
+74|XML Repository and Active Views Demonstration.|Serge Abiteboul,Vincent Aguilera,Sébastien Ailleret,Bernd Amann,Sophie Cluet,Brendan Hills,Frédéric Hubert,Jean-Claude Mamou,Amélie Marian,Laurent Mignet,Tova Milo,Cassio Souza dos Santos,Bruno Tessier,Anne-Marie Vercoustre|19|2|1|0
+75|Spatio-Temporal Retrieval with RasDaMan.|Peter Baumann,Andreas Dehmel,Paula Furtado,Roland Ritsch,Norbert Widmann|21|7|0|4
+76|Miro Web: Integrating Multiple Data Sources through Semistructured Data Types.|Luc Bouganim,Tatiana Chan-Sine-Ying,Tuyet-Tram Dang-Ngoc,Jean-Luc Darroux,Georges Gardarin,Fei Sha|21|2|0|0
+77|Aqua: A Fast Decision Support Systems Using Approximate Query Answers.|Swarup Acharya,Phillip B. Gibbons,Viswanath Poosala|74|30|0|1
+78|The Mirror MMDBMS Architecture.|Arjen P. de Vries,Mark G. L. M. van Doorn,Henk M. Blanken,Peter M. G. Apers|24|2|0|7

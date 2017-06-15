@@ -1,0 +1,45 @@
+44
+1|Proceedings of the Eighth Annual Symposium on Computational Geometry, Berlin, Germany, June 10-12, 1992.|David Avis|n/a
+2|A Subexponential Bound for Linear Programming.|Jirí Matousek,Micha Sharir,Emo Welzl|380|0|0|26
+3|A Class of Convex Programs with Applications to Computational Geometry.|Martin E. Dyer|54|0|0|2
+4|Linear Optimization Queries.|Jirí Matousek,Otfried Schwarzkopf|113|0|2|6
+5|Degenerate Convex Hulls in High Dimensions without Extra Storage.|Günter Rote|35|0|0|1
+6|Optimal Parallel Algorithms for Triangulated Simple Polygons.|John Hershberger|33|0|0|1
+7|Incremental Topological Flipping Works for Regular Triangulations.|Herbert Edelsbrunner,Nimish R. Shah|497|0|0|20
+8|An Upper Bound for Conforming Delaunay Triangulations.|Herbert Edelsbrunner,Tiow Seng Tan|99|0|0|5
+9|An Optimal Parallel Algorithm for Detecting Weak Visibility of a Simple Polygon.|Danny Z. Chen|16|0|0|5
+10|Digital Geometry (Abstract).|Azriel Rosenfeld|n/a
+11|An Efficient Approach to Removing Geometric Degeneracies.|Ioannis Z. Emiris,John F. Canny|69|0|0|2
+12|Numerical Stability of Algorithms for 2D Delaunay Triangulations.|Steven Fortune|49|0|0|4
+13|Approximate Decision Algorithms for Point Set Congruence.|Paul J. Heffernan,Stefan Schirra|81|0|1|3
+14|Measuring the Resemblance of Polygonal Curves.|Helmut Alt,Michael Godau|125|0|0|5
+15|On Dynamic Voronoi Diagrams and the Minimum Hausdorff Distance for Point Sets Under Euclidean Motion in the Plane.|Daniel P. Huttenlocher,Klara Kedem,Jon M. Kleinberg|101|0|0|6
+16|Diameter, Width, Closest Line Pair, and Parametric Searching.|Bernard Chazelle,Herbert Edelsbrunner,Leonidas J. Guibas,Micha Sharir|131|0|0|5
+17|Incidence and Nearest-Neighbor Problems for Lines in 3-Space.|Marco Pellegrini|9|0|0|1
+18|Computing and Verifying Depth Orders.|Mark de Berg,Mark H. Overmars,Otfried Schwarzkopf|60|0|0|13
+19|Castles in the Air Revisited.|Boris Aronov,Micha Sharir|68|0|0|28
+20|Piercing Convex Sets.|Noga Alon,Daniel J. Kleitman|21|0|0|0
+21|Computing the Volume, Counting Integral Points, and Exponential Sums.|Alexander I. Barvinok|72|0|0|2
+22|There is a Universal Topological Plane.|Jacob E. Goodman,Richard Pollack,Rephael Wenger,Tudor Zamfirescu|5|0|0|1
+23|A Linear-Time Algorithm for Testing the Inscribability of Trivalent Polyhedra.|Michael B. Dillencourt,Warren D. Smith|25|0|0|8
+24|On Euclidean Spanner Graphs with Small Degree.|Jeffrey S. Salowe|17|0|0|0
+25|New Sparseness Results on Graph Spanners.|Barun Chandra,Gautam Das,Giri Narasimhan,José Soares|198|0|0|20
+26|Coping with Inconsistencies: A New Approach to Produce Quality Triangulations of Polygonal Domains with Holes.|Elefterios A. Melissaratos,Diane L. Souvaine|46|0|0|0
+27|Quality Mesh Generation in Three Dimensions.|Scott A. Mitchell,Stephen A. Vavasis|177|0|0|15
+28|Triangulating Polygons without Large Angles.|Marshall W. Bern,David P. Dobkin,David Eppstein|56|0|0|5
+29|Optical Computational Geometry.|Y. B. Karasik,Micha Sharir|8|0|0|6
+30|Stable Placements for Spider Robots.|Jean-Daniel Boissonnat,Olivier Devillers,LeonBattista Donati,Franco P. Preparata|4|0|0|4
+31|A Rational Rotation Method for Robust Geometric Algorithms.|John F. Canny,Bruce Randall Donald,Eugene K. Ressler|55|0|0|0
+32|A Framework for Dynamic Graph Drawing.|Robert F. Cohen,Giuseppe Di Battista,Roberto Tamassia,Ioannis G. Tollis,Paola Bertolazzi|75|0|0|13
+33|How Hard is Halfspace Range Searching?|Hervé Brönnimann,Bernard Chazelle|64|0|0|5
+34|Range Searching with Efficient Hierarchical Cuttings.|Jirí Matousek|243|0|0|1
+35|Ray Shooting in Convex Polytopes.|Otfried Schwarzkopf|20|0|0|1
+36|Minimum Dissection of Rectilinear Polygon with Arbitrary Holes into Rectangles.|Valeriu Soltan,Alexei Gorpinevich|43|0|0|6
+37|Intersection Detection and Separators for Simple Polygons.|David M. Mount|46|0|1|2
+38|Manhattonian Proximity in a Simple Polygon.|Rolf Klein,Andrzej Lingas|11|0|0|5
+39|Finding k Farthest Pairs and k Closest/Farthest Bichromatic Pairs for Points in the Plane.|Naoki Katoh,Kazuo Iwano|28|0|0|0
+40|An Optimal Algorithm for the On-Line Closest-Pair Problem.|Christian Schwarz,Michiel H. M. Smid,Jack Snoeyink|52|0|0|11
+41|On-Line Steiner Trees in the Euclidean Plane.|Noga Alon,Yossi Azar|99|0|0|3
+42|A Priori Inequalities for the Euclidean Traveling Salesman.|Timothy Law Snyder,J. Michael Steele|7|0|0|2
+43|Minkowski-Type Theorems and Least-Squares Partitioning.|Franz Aurenhammer,Friedrich Hoffmann,Boris Aronov|24|0|0|2
+44|Determining Contractibility of Curves.|Haijo Schipper|23|0|0|0

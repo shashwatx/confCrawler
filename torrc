@@ -21,7 +21,7 @@ SocksPort 9020 # Default: Bind to localhost:9050 for local connections.
 #ExcludeNodes {fr}
 #ExitNodes {at},{be},{bg},{bm},{by},{ch},{cz},{dk},{fi},{fr},{gr},{hr},{hu},{is},{it},{li},{lt},{lu},{nl},{no},{pl},{pt},{ro},{sl},{sk},{es}
 #ExitNodes {gr},{cz},{li},{lu},{jp}
-#ExitNodes {jp} 
+#ExitNodes {us} 
 #ExcludeExitNodes {
 #ExitNodes {ae},{fr},{de},{ru},{uk},{tr},{es},{us}
 #EntryNodes {lu},{fr},{us}

@@ -1,0 +1,44 @@
+43
+1|Proceedings of the Seventh Annual Symposium on Computational Geometry, North Conway, NH, USA, , June 10-12, 1991.|Robert L. Scot Drysdale|n/a
+2|Efficient Partition Trees.|Jirí Matousek|330|0|0|1
+3|Counting Circular Arc Intersections.|Pankaj K. Agarwal,Micha Sharir|24|0|0|4
+4|Efficient Ray Shooting and Hidden Surface Removal.|Mark de Berg,Dan Halperin,Mark H. Overmars,Jack Snoeyink,Marc J. van Kreveld|112|0|1|18
+5|Efficient Hidden Surface Removal for Objects with small Union Size.|Matthew J. Katz,Mark H. Overmars,Micha Sharir|136|0|0|31
+6|Intersection Queries for Curved Objects (Extended Abstract).|Pankaj K. Agarwal,Marc J. van Kreveld,Mark H. Overmars|n/a
+7|Shortest Path Queries in Rectilinear Worlds of Higher Dimension (Extended Abstract).|Mark de Berg,Marc J. van Kreveld,Bengt J. Nilsson|n/a
+8|Dynamization of the Trapezoid Method for Planar Point Location (Extended Abstract).|Yi-Jen Chiang,Roberto Tamassia|n/a
+9|Computing Shortest Transversals of Sets (Extended Abstract).|Binay K. Bhattacharya,Jurek Czyzowicz,Peter Egyed,Ivan Stojmenovic,Godfried T. Toussaint,Jorge Urrutia|n/a
+10|Optimal Algorithms for Some Smallest Intersection Radius Problems (Extended Abstract).|Binay K. Bhattacharya,Shreesh Jadhav,Asish Mukhopadhyay,Jean-Marc Robert|7|0|0|3
+11|Orthogonal Trees.|H. S. M. Coxeter|n/a
+12|A Pivoting Algorithm for Convex Hulls and Vertex Enumeration of Arrangements and Polyhedra.|David Avis,Komei Fukuda|626|0|0|52
+13|Nonoverlap of the Star Unfolding.|Boris Aronov,Joseph O'Rourke|88|0|0|16
+14|A Generalization of Dehn-Sommerville Relations to Simple Stratified Spaces.|Ketan Mulmuley|6|0|0|0
+15|Randomized Multidimensional Search Trees: Dynamic Sampling (Extended Abstract).|Ketan Mulmuley|n/a
+16|Dynamic Point Location in Arrangements of Hyperplanes.|Ketan Mulmuley,Sandeep Sen|26|0|0|4
+17|A Simple On-Line Randomized Incremental Algorithm for Computing Higher Order Voronoi Diagrams.|Franz Aurenhammer,Otfried Schwarzkopf|81|0|0|5
+18|Randomized Parallel Algorithms for Trapezoidal Diagrams.|Kenneth L. Clarkson,Richard Cole,Robert Endre Tarjan|43|0|0|1
+19|On the Convex Hull of the Integer Points in a Disc.|Antal Balog,Imre Bárány|48|0|0|2
+20|The Two Guards Problem.|Christian Icking,Rolf Klein|116|0|0|3
+21|Extremal Polygon Containment Problems.|Sivan Toledo|17|0|0|4
+22|Approximate Matching of Polygonal Shapes (Extended Abstract).|Helmut Alt,Bernd Behrends,Johannes Blömer|n/a
+23|The Upper Envelope of Voronoi Surfaces and Its Applications.|Daniel P. Huttenlocher,Klara Kedem,Micha Sharir|225|0|1|37
+24|Minimal Surfaces, Crystals, and Norms on Rn.|Frank Morgan|5|0|0|1
+25|Multiplicatively Weighted Crystal Growth Voronoi Diagrams (Extended Abstract).|Barry Schaudt,Robert L. (Scot) Drysdale III|39|0|0|0
+26|Nearest Neighbor Problems.|Gordon T. Wilfong|31|0|0|0
+27|Enumerating k Distances for n Points in the Plane.|Matthew Dickerson,Robert L. (Scot) Drysdale III|26|0|0|2
+28|Transitions in Geometric Minimum Spanning Trees (Extended Abstract).|Clyde L. Monma,Subhash Suri|190|0|0|0
+29|How to Take Short Cuts.|Claire Kenyon,Richard W. Kenyon|11|0|0|0
+30|Construction of Multidimensional Spanner Graphs, with Applications to Minimum Spanning Trees.|Jeffrey S. Salowe|33|0|0|0
+31|Geometric Algorithms for a Minimum Cost Assignment Problem.|Takeshi Tokuyama,Jun Nakano|28|0|1|2
+32|On Upward Drawing Testing of Triconnected Digraphs (Extended Abstract).|Paola Bertolazzi,Giuseppe Di Battista|32|0|0|8
+33|A Packing Problem with Applications to Lettering of Maps.|Michael Formann,Frank Wagner|252|0|0|9
+34|Distance Visibility Graphs.|Collette R. Coullard,Anna Lubiw|50|0|0|1
+35|Walking on an Arrangement Topologically.|Tetsuo Asano,Leonidas J. Guibas,Takeshi Tokuyama|63|0|0|14
+36|On the Sum of Squares of Cell Complexities in Hyperplane Arrangements.|Boris Aronov,Jirí Matousek,Micha Sharir|26|0|0|8
+37|On the Complexity of a Single Cell in Certain Arrangements of Surfaces in 3-Space (Extended Abstract).|Dan Halperin|n/a
+38|Arrangements of Segments that Share Endpoints: Single Face Results.|Esther M. Arkin,Dan Halperin,Klara Kedem,Joseph S. B. Mitchell,Nir Naor|15|0|0|0
+39|Numerical Stability of Algorithms for Line Arrangements.|Steven Fortune,Victor Milenkovic|61|0|0|6
+40|Polynomial-Size Nonobtuse Triangulation of Polygons.|Marshall W. Bern,David Eppstein|73|0|0|11
+41|Crossing Families.|Boris Aronov,Paul Erdös,Wayne Goddard,Daniel J. Kleitman,Michael Klugerman,János Pach,Leonard J. Schulman|n/a
+42|Optimality of the Delaunay Triangulation in Rd.|V. T. Rajan|279|0|0|1
+43|Triangulation and CSG Representation of Polyhedra with Arbitrary Genus.|Tamal K. Dey|25|0|0|2

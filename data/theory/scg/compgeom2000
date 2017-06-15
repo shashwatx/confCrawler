@@ -1,0 +1,47 @@
+46
+1|Proceedings of the Sixteenth Annual Symposium on Computational Geometry, Clear Water Bay, Hong Kong, China, June 12-14, 2000.|Siu-Wing Cheng,Otfried Cheong,Pankaj K. Agarwal,Steven Fortune|n/a
+2|Mesh generation for domains with small angles.|Jonathan Richard Shewchuk|100|0|0|9
+3|Triangulations in CGAL (extended abstract).|Jean-Daniel Boissonnat,Olivier Devillers,Monique Teillaud,Mariette Yvinec|n/a
+4|Improving the surface cycle structure for hexahedral mesh generation.|Matthias Müller-Hannemann|6|0|0|0
+5|Computing integer points in Minkowski sums.|Ioannis Z. Emiris|1|0|0|1
+6|Point sets with many k-sets.|Géza Tóth|114|0|0|0
+7|An improved bound for k-sets in three dimensions.|Micha Sharir,Shakhar Smorodinsky,Gábor Tardos|75|0|0|14
+8|Origin-embracing distributions or a continuous analogue of the upper bound theorem.|Uli Wagner,Emo Welzl|1|0|0|0
+9|A Helly-type theorem for hyperplane transversals to well-separated convex sets.|Boris Aronov,Jacob E. Goodman,Richard Pollack,Rephael Wenger|3|0|0|1
+10|A trace bound for the hereditary discrepancy.|Bernard Chazelle,Alexey Lvov|22|0|0|4
+11|On the continuous Weber and k-median problems (extended abstract).|Sándor P. Fekete,Joseph S. B. Mitchell,Karin Weinbrecht|37|0|0|7
+12|The 2-center problem with obstacles.|Dan Halperin,Micha Sharir,Kenneth Y. Goldberg|38|0|0|9
+13|Random sampling in geometric optimization: new insights and applications.|Bernd Gärtner,Emo Welzl|12|0|0|5
+14|The analysis of a simple k-means clustering algorithm.|Tapas Kanungo,David M. Mount,Nathan S. Netanyahu,Christine D. Piatko,Ruth Silverman,Angela Y. Wu|127|0|1|3
+15|An efficient, exact, and generic quadratic programming solver for geometric optimization.|Bernd Gärtner,Sven Schönherr|46|0|0|0
+16|Accurate and efficient unions of balls.|Nina Amenta,Ravi Krishna Kolluri|46|0|0|1
+17|Fast software for box intersections.|Afra Zomorodian,Herbert Edelsbrunner|56|0|2|6
+18|Algebraic methods and arithmetic filtering for exact predicates on circle arcs.|Olivier Devillers,Alexandra Fronville,Bernard Mourrain,Monique Teillaud|61|0|0|4
+19|Pitfalls in computing with pseudorandom determinants.|Bernd Gärtner|5|0|0|0
+20|Look - a Lazy Object-Oriented Kernel for geometric computation.|Stefan Funke,Kurt Mehlhorn|28|0|0|2
+21|When crossings count - approximating the minimum spanning tree.|Sariel Har-Peled,Piotr Indyk|13|0|0|9
+22|Linear programming queries revisited.|Edgar A. Ramos|12|0|0|0
+23|Point set labeling with specified positions.|Srinivas Doddi,Madhav V. Marathe,Bernard M. E. Moret|30|0|0|0
+24|I/O-efficient dynamic planar point location (extended abstract).|Lars Arge,Jan Vahrenhold|27|0|0|11
+25|Linear-time triangulation of a simple polygon made easier via randomization.|Nancy M. Amato,Michael T. Goodrich,Edgar A. Ramos|32|0|0|1
+26|A simple algorithm for homeomorphic surface reconstruction.|Nina Amenta,Sunghee Choi,Tamal K. Dey,N. Leekha|607|0|0|49
+27|Smooth surface reconstruction via natural neighbour interpolation of distance functions.|Jean-Daniel Boissonnat,Frédéric Cazals|441|0|1|20
+28|Reconstruction curves with sharp corners.|Tamal K. Dey,Rephael Wenger|71|0|0|2
+29|Voronoi-based interpolation with higher continuity.|Hisamoto Hiyoshi,Kokichi Sugihara|52|0|0|0
+30|Reachability by paths of bounded curvature in convex polygons.|Hee-Kap Ahn,Otfried Cheong,Jirí Matousek,Antoine Vigneron|20|0|0|1
+31|An algorithm for searching a polygonal region with a flashlight.|Steven M. LaValle,Borislav H. Simov,Giora Slutzki|96|0|0|11
+32|Computing approximate shortest paths on convex polytopes.|Pankaj K. Agarwal,Sariel Har-Peled,Meetesh Karia|46|0|0|2
+33|Densest tanslational lattice packing of non-convex polygons (extended abstract).|Victor Milenkovic|30|0|0|2
+34|Deterministic algorithms for 3-D diameter and some 2-D lower envelopes.|Edgar A. Ramos|21|0|0|0
+35|Approximating the diameter, width, smallest enclosing cylinder, and minimum-width annulus.|Timothy M. Chan|129|0|0|6
+36|Testing the congruence of d-dimensional point sets.|Peter Braß,Christian Knauer|40|0|0|6
+37|Multivariate regression depth.|Marshall W. Bern,David Eppstein|12|0|0|2
+38|Kinetic collision detection for simple polygons.|David G. Kirkpatrick,Jack Snoeyink,Bettina Speckmann|120|0|0|21
+39|Kinetic connectivity for unit disks.|Leonidas J. Guibas,John Hershberger,Subhash Suri,Li Zhang|46|0|0|2
+40|Delaunay triangulations and Voronoi diagrams for Riemannian manifolds.|Greg Leibon,David Letscher|148|0|0|1
+41|Sweep algorithms for constructing higher-dimensional constrained Delaunay triangulations.|Jonathan Richard Shewchuk|80|0|0|2
+42|Cutting glass.|János Pach,Gábor Tardos|n/a
+43|Viro's method disproves Ragsdale's conjecture: a story.|Jesús A. De Loera,Frederick J. Wicklin|0|0|0|0
+44|Optimal robot localization in trees.|Rudolf Fleischer,Gerhard Trippen|21|0|0|1
+45|Fast computation of generalized Voronoi diagrams using graphics hardware.|Kenneth E. Hoff III,Tim Culver,John Keyser,Ming C. Lin,Dinesh Manocha|731|0|8|11
+46|The face fixer video.|Martin Isenburg,Jack Snoeyink|0|0|0|0

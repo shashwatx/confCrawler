@@ -1,0 +1,43 @@
+42
+1|Proceedings of the Sixth Annual Symposium on Computational Geometry, Berkeley, CA, USA, June 6-8, 1990.|Raimund Seidel|n/a
+2|Cutting Hyperplane Arrangements.|Jirí Matousek|122|0|0|0
+3|Some New Bounds for Epsilon-Nets.|János Pach,Gerhard J. Woeginger|40|0|0|5
+4|How to Net a Lot with Little: Small epsilon-Nets for Disks and Halfspaces.|Jirí Matousek,Raimund Seidel,Emo Welzl|108|0|0|3
+5|Quasi-Optimal Upper Bounds for Simplex Range Searching and New Zone Theorems.|Bernard Chazelle,Micha Sharir,Emo Welzl|146|0|0|23
+6|Polygon Triangulation in O(n log log n) Time with Simple Data-Structures.|David G. Kirkpatrick,Maria M. Klawe,Robert Endre Tarjan|62|0|0|0
+7|An O(n2log n) Time Algorithm for the MinMax Angle Triangulation.|Herbert Edelsbrunner,Tiow Seng Tan,Roman Waupotitsch|107|0|0|11
+8|Structured Visibility Profiles with Applications to Problems in Simple Polygons (Extended Abstract).|Paul J. Heffernan,Joseph S. B. Mitchell|14|0|0|0
+9|Minimum-Link Paths Among Obstacles in the Plane.|Joseph S. B. Mitchell,Günter Rote,Gerhard J. Woeginger|92|0|0|19
+10|Parallel Methods for Visibility and Shortest Path Problems in Simple Polygons (Preliminary Version).|Michael T. Goodrich,Steven B. Shauck,Sumanta Guha|57|0|0|8
+11|The Combinatorial Complexity of Hyperplane Transversals.|Sylvain E. Cappell,Jacob E. Goodman,János Pach,Richard Pollack,Micha Sharir,Rephael Wenger|9|0|0|3
+12|On the Limited Power of Linear Probes and Other Optimization Oracles.|Peter Gritzmann,Victor Klee,John Westwater|2|0|0|1
+13|Computational Complexity of Combinatorial Surfaces.|Gert Vegter,Chee-Keng Yap|103|0|0|1
+14|Points and Triangles in the Plane and Halving Planes in Space.|Boris Aronov,Bernard Chazelle,Herbert Edelsbrunner,Leonidas J. Guibas,Micha Sharir,Rephael Wenger|74|0|0|9
+15|Slimming Down by Adding: Selecting Heavily Covered Points.|Bernard Chazelle,Herbert Edelsbrunner,Leonidas J. Guibas,John Hershberger,Raimund Seidel,Micha Sharir|15|0|0|5
+16|Tiling the Plane with One Tile.|Danièle Beauquier,Maurice Nivat|n/a
+17|A Trivial Knot Whose Spanning Disks Have Exponential Size.|Jack Snoeyink|17|0|0|4
+18|Geometric Computations with Algebraic Varieties of Bounded Degree.|Chandrajit L. Bajaj|20|0|0|10
+19|On Computing the Intersection of B-Splines (Extended Abstract).|B. K. Natarajan|n/a
+20|Merging Visibility Maps.|Mark H. Overmars,Micha Sharir|12|0|0|4
+21|Stabbing and Ray Shooting in 3 Dimensional Space.|Marco Pellegrini|51|0|0|7
+22|K-d Trees for Semidynamic Point Sets.|Jon Louis Bentley|410|0|5|0
+23|On the Optimal Bisection of a Polygon (Extended Abstract).|Elias Koutsoupias,Christos H. Papadimitriou,Martha Sideri|n/a
+24|Euclidean Minimum Spanning Trees and Bichromatic Closest Pairs.|Pankaj K. Agarwal,Herbert Edelsbrunner,Otfried Schwarzkopf,Emo Welzl|185|0|0|17
+25|Linear Programming and Convex Hulls Made Easy.|Raimund Seidel|217|0|2|3
+26|On Simultaneous Inner and Outer Approximation of Shapes.|Rudolf Fleischer,Kurt Mehlhorn,Günter Rote,Emo Welzl,Chee-Keng Yap|49|0|0|4
+27|Maximin Location of Convex Objects in a Polygon and Related Dynamic Voronoi Diagrams.|Hiromi Aonuma,Hiroshi Imai,Keiko Imai,Takeshi Tokuyama|29|0|0|6
+28|Constructing Strongly Convex Hulls Using Exact or Rounded Arithmetic.|Zhenyu Li,Victor Milenkovic|78|0|0|6
+29|Finding Compact Coordinate Representations for Polygons and Polyhedra.|Victor Milenkovic,Lee R. Nackman|42|0|0|5
+30|Some Provably Hard Crossing Number Problems.|Daniel Bienstock|80|0|0|2
+31|Enumeration and Visibility Problems in Integer Lattices (Extended Abstract).|Evangelos Kranakis,Michel Pocchiola|4|0|0|4
+32|An Exact Algorithm for Kinodynamic Planning in the Plane.|John F. Canny,Ashutosh Rege,John H. Reif|122|0|0|5
+33|Approximate Motion Planning and the Complexity of the Boundary of the Union of Simple Geometric Figures.|Helmut Alt,Rudolf Fleischer,Michael Kaufmann,Kurt Mehlhorn,Stefan Näher,Stefan Schirra,Christian Uhrig|97|0|0|2
+34|Provably Good Approximation Algorithms for Optimal Kinodynamic Planning for Cartesian Robots and Open Chain Manipulators.|Bruce Randall Donald,Patrick G. Xavier|61|0|0|6
+35|Shortest Rectilinear Paths among Weighted Obstacles.|D. T. Lee,T. H. Chen,Chung-Do Yang|58|0|0|7
+36|On Minimal Rectilinear Steiner Trees in All Dimensions.|Timothy Law Snyder|7|0|0|2
+37|Selecting Distances in the Plane.|Pankaj K. Agarwal,Boris Aronov,Micha Sharir,Subhash Suri|86|0|0|24
+38|Reconstructing Sets from Interpoint Distances (Extended Abstract).|Steven Skiena,Warren D. Smith,Paul Lemke|114|0|0|4
+39|Computing the Minimum Hausdorff Distance for Point Sets Under Translation.|Daniel P. Huttenlocher,Klara Kedem|158|0|2|19
+40|On Solving Geometric Optimization Problems Using Shortest Paths.|Elefterios A. Melissaratos,Diane L. Souvaine|22|0|0|1
+41|Shortest Paths on a Polyhedron.|Jindong Chen,Yijie Han|233|0|5|1
+42|A Computational geometry Workbench.|A. Knight,J. May,Jeff McAffer,T. Nguyen,Jörg-Rüdiger Sack|6|0|0|0

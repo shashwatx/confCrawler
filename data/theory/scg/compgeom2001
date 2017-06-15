@@ -1,0 +1,49 @@
+48
+1|Proceedings of the Seventeenth Annual Symposium on Computational Geometry, Medford, MA, USA, June 3-5, 2001.|Diane L. Souvaine|n/a
+2|On the number of congruent simplices in a point.|Pankaj K. Agarwal,Micha Sharir|10|0|0|2
+3|Enumerating order types for small sets with applications.|Oswin Aichholzer,Franz Aurenhammer,Hannes Krasser|96|0|0|26
+4|The union of congruent cubes in three dimensions.|János Pach,Ido Safruti,Micha Sharir|32|0|0|15
+5|On the distinct distances determined by a planar point set.|József Solymosi,Csaba D. Tóth|0|0|0|0
+6|Schematization of road networks.|Sergio Cabello,Mark de Berg,Steven van Dijk,Marc J. van Kreveld,Tycho Strijk|45|0|0|3
+7|Simplifying a polygonal subdivision while keeping it simple.|Regina Estkowski,Joseph S. B. Mitchell|56|0|0|0
+8|Hardware-assisted view-dependent map simplification.|Nabil H. Mustafa,Eleftherios Koutsofios,Shankar Krishnan,Suresh Venkatasubramanian|46|0|0|5
+9|Efficient perspective-accurate silhouette computation and applications.|Mihai Pop,Christian A. Duncan,Gill Barequet,Michael T. Goodrich,Wenjing Huang,Subodh Kumar|37|0|0|0
+10|Sphere packings and generative.|Thomas C. Hales|0|0|0|0
+11|Hierarchical morse complexes for piecewise linear 2-manifolds.|Herbert Edelsbrunner,John Harer,Afra Zomorodian|487|0|0|20
+12|Computing a canonical polygonal schema of an orientable triangulated surface.|Francis Lazarus,Michel Pocchiola,Gert Vegter,Anne Verroust|118|0|0|7
+13|Area-preserving piecewise affine mappings.|Alan Saalfeld|3|0|0|0
+14|Nice point sets can have nasty Delaunay triangulations.|Jeff Erickson|112|0|1|6
+15|Walking in a triangulation.|Olivier Devillers,Sylvain Pion,Monique Teillaud|186|0|0|27
+16|Sink-insertion for mesh improvement.|Herbert Edelsbrunner,Damrong Guoy|45|0|0|1
+17|Box-trees and R-trees with near-optimal query time.|Pankaj K. Agarwal,Mark de Berg,Joachim Gudmundsson,Mikael Hammar,Herman J. Haverkort|83|0|1|12
+18|A segment-tree based kinetic BSP.|Mark de Berg,João Comba,Leonidas J. Guibas|13|0|0|4
+19|Binary space partitions for axis-parallel segments, rectangles, and hyperrectangles.|Adrian Dumitrescu,Joseph S. B. Mitchell,Micha Sharir|32|0|0|1
+20|A note on binary plane partitions.|Csaba D. Tóth|36|0|0|0
+21|Exact Linfty Nearest Neighbor Search in High Dimensions.|Helmut Alt,Laura Heinrich-Litan|n/a
+22|Farthest neighbors and center points in the presence of rectangular obstacles.|Boaz Ben-Moshe,Matthew J. Katz,Joseph S. B. Mitchell|15|0|0|2
+23|A fully dynamic algorithm for planar.|Timothy M. Chan|14|0|0|5
+24|A practical approach for computing the diameter of a point set.|Sariel Har-Peled|46|0|0|4
+25|Protein geometry as a function of time.|Frederic M. Richards|0|0|0|0
+26|Discrete mobile centers.|Jie Gao,Leonidas J. Guibas,John Hershberger,Li Zhang,An Zhu|174|0|0|11
+27|Segment intersection searching problems in general settings.|Vladlen Koltun|15|0|0|1
+28|On the complexity of halfspace area queries.|Stefan Langerman|5|0|0|2
+29|Algorithms for congruent sphere packing and applications.|Danny Z. Chen,Xiaobo Hu,Yingping Huang,Yifan Li,Jinhui Xu|20|0|0|3
+30|Polymake: an approach to modular software design in computational geometry.|Ewgenij Gawrilow,Michael Joswig|30|0|0|2
+31|A randomized art-gallery algorithm for sensor placement.|Héctor H. González-Baños|233|0|3|0
+32|Notes on computing peaks in k-levels and parametric spanning trees.|Naoki Katoh,Takeshi Tokuyama|7|0|0|4
+33|A tight bound on the number of geometric permutations of convex fat objects in Rd.|Matthew J. Katz,Kasturi R. Varadarajan|25|0|0|0
+34|The Clarkson-Shor technique revisited and extended.|Micha Sharir|37|0|0|4
+35|Detecting undersampling in surface reconstruction.|Tamal K. Dey,Joachim Giesen|148|0|0|23
+36|Computing a 3-dimensional cell in an arrangement of quadrics: exactly and actually!|Nicola Geismann,Michael Hemmer,Elmar Schömer|65|0|0|5
+37|PRECISE: efficient multiprecision evaluation of algebraic roots and predicates for reliable geometric computation.|Shankar Krishnan,Mark Foskey,Tim Culver,John Keyser,Dinesh Manocha|33|0|0|8
+38|Computational geometry for sculpture.|George W. Hart|3|0|0|1
+39|Different bounds on the different Betti numbers of semi-algebraic sets.|Saugata Basu|31|0|0|18
+40|Efficient and small representation of line arrangements with applications.|David P. Dobkin,Ayellet Tal|15|0|0|1
+41|A sum of squares theorem for visibility.|Pierre Angelier,Michel Pocchiola|3|0|0|0
+42|Monotone paths in line arrangement.|Rados Radoicic,Géza Tóth|11|0|0|0
+43|Balanced lines, halving triangles, and the generalized lower bound theorem.|Micha Sharir,Emo Welzl|10|0|0|0
+44|Small representation of line arrangements.|David P. Dobkin,Ayellet Tal|1|0|0|1
+45|The convex hull of ellipsoids.|Nicola Geismann,Michael Hemmer,Elmar Schömer|8|0|0|2
+46|2-point site Voronoi diagrams.|Gill Barequet,Robert L. Scot Drysdale,Matthew Dickerson,David S. Guertin|26|0|0|12
+47|The connectivity shapes video.|Martin Isenburg,Stefan Gumhold,Craig Gotsman|0|0|0|0
+48|A prototype system for visualizing time-dependent volume data.|Lutz Kettner,Jack Snoeyink|7|0|0|0

@@ -1,0 +1,53 @@
+52
+1|Proceedings of the Ninth Annual Symposium on Computational GeometrySan Diego, CA, USA, May 19-21, 1993.|Chee Yap|n/a
+2|Generalized Hidden Surface Removal.|Mark de Berg|20|0|0|1
+3|New Bounds for Lower Envelopes in Three Dimensions, with Applications to Visibility in Terrains.|Dan Halperin,Micha Sharir|112|0|0|44
+4|On Lines Missing Polyhedral Sets in 3-Space.|Marco Pellegrini|29|0|0|2
+5|Combinatorial Complexity of Translating a Box in Polyhedral 3-Space.|Dan Halperin,Chee-Keng Yap|15|0|0|4
+6|An Optimal Algorithm for the (<= k)-Levels, with Applications to Separation and Transversal Problems.|Hazel Everett,Jean-Marc Robert,Marc J. van Kreveld|n/a
+7|Computing the Discrepancy.|David P. Dobkin,David Eppstein|46|0|0|1
+8|Optimally Sparse Spanners in 3-Dimensional Euclidean Space.|Gautam Das,Paul J. Heffernan,Giri Narasimhan|79|0|0|8
+9|Helly Theorems and Generalized Linear Programming.|Nina Amenta|98|0|0|4
+10|Geometric Partitioning Made Easier, Even in Parallel.|Michael T. Goodrich|58|0|0|11
+11|Computing a Centerpoint of a Finite Planar Set of Points in Linear Time.|Shreesh Jadhav,Asish Mukhopadhyay|74|0|0|0
+12|Approximating Center Points with Iterated Radon Points.|Kenneth L. Clarkson,David Eppstein,Gary L. Miller,Carl Sturtivant,Shang-Hua Teng|95|0|0|7
+13|A Deterministic Linear Time Algorithm for Geometric Separators and its Applications.|David Eppstein,Gary L. Miller,Shang-Hua Teng|59|0|0|21
+14|On the Topological Shape of Planar Voronoi Diagrams.|A. Corbalan,M. L. Mazón,Tomás Recio,Francisco Santos|9|0|0|4
+15|Convex Distance Functions in 3-Space are Different.|Christian Icking,Rolf Klein,Ngoc-Minh Lê,Lihong Ma|50|0|0|10
+16|A Linear-Time Randomized Algorithm for the Bounded Voronoi Diagram of a Simple Polygon.|Rolf Klein,Andrzej Lingas|44|0|0|7
+17|Tentative Prune-and-Search for Computing Voronoi Vertices.|David G. Kirkpatrick,Jack Snoeyink|17|0|0|4
+18|Optimal Motion Planning for a Rod in the Plane Subject to Velocity Constraints.|Yui-Bin Chen,Doug Ierardi|3|0|0|1
+19|A Compaction Algorithm for Non-Convex Polygons and Its Application.|Zhenyu Li,Victor Milenkovic|36|0|0|9
+20|Efficient Exact Arithmetic for Computational Geometry.|Steven Fortune,Christopher J. Van Wyk|232|0|2|6
+21|Area Optimization of Simple Polygons.|Sándor P. Fekete,William R. Pulleyblank|12|0|0|0
+22|Worst-Case Bounds for Subadditive Geometric Graphs.|Marshall W. Bern,David Eppstein|27|0|0|1
+23|Finding a Minimum Weight K-Link Path in Graphs with Monge Property and Applications.|Alok Aggarwal,Baruch Schieber,Takeshi Tokuyama|107|0|0|14
+24|An Expander-Based Approach to Geometric Optimization.|Matthew J. Katz,Micha Sharir|50|0|0|17
+25|Dominance Range-Query: The One-Reporting Case.|Thomas Dubé|3|0|0|0
+26|The Union of Balls and Its Dual Shape.|Herbert Edelsbrunner|433|0|2|43
+27|An Incremental Algorithm for Betti Numbers of Simplicial Complexes.|Cecil Jose A. Delfinado,Herbert Edelsbrunner|83|0|0|6
+28|Dehn-Sommerville Relations, Upper Bound Theorem, and Levels in Arrangements.|Ketan Mulmuley|13|0|0|0
+29|Objects That Cannot be Taken Apart with Two Hands.|Jack Snoeyink,Jorge Stolfi|29|0|0|2
+30|Long Non-Crossing Configurations in the Plane.|Noga Alon,Sridhar Rajagopalan,Subhash Suri|31|0|0|1
+31|Some Geometric Applications of Dilworth's Theorem.|János Pach,Jenö Töröcsik|80|0|0|30
+32|Counting Triangle Crossings and Halving Planes.|Tamal K. Dey,Herbert Edelsbrunner|77|0|0|9
+33|Guaranteed-Quality Mesh Generation for Curved Surfaces.|L. Paul Chew|518|0|0|7
+34|Compatible Tetrahedralizations.|Marshall W. Bern|42|0|0|1
+35|An NC Parallel 3D Convex Hull Algorithm.|Nancy M. Amato,Franco P. Preparata|31|0|0|3
+36|Scalable Parallel Geometric Algorithms for Coarse Grained Multicomputers.|Frank K. H. A. Dehne,Andreas Fabri,Andrew Rau-Chaplin|286|0|0|48
+37|Shortest Paths Among Obstacles in the Plane.|Joseph S. B. Mitchell|178|0|0|5
+38|Dynamic Ray Shooting and Shortest Paths Via Balanced Geodesic Triangulations.|Michael T. Goodrich,Roberto Tamassia|44|0|0|12
+39|The Visibility Complex.|Michel Pocchiola,Gert Vegter|238|0|0|18
+40|Can Visibility Graphs be Represented Compactly?|Pankaj K. Agarwal,Noga Alon,Boris Aronov,Subhash Suri|62|0|1|6
+41|An Optimal Algorithm for the Two-Guard Problem.|Paul J. Heffernan|84|0|0|1
+42|Area-Efficient Upward Tree Drawings.|Ashim Garg,Michael T. Goodrich,Roberto Tamassia|49|0|0|17
+43|Decision Trees for Geometric Models.|Esther M. Arkin,Henk Meijer,Joseph S. B. Mitchell,David Rappaport,Steven Skiena|65|0|0|4
+44|The Power of Geometric Duality and Minkowski Sums in Optical Computational Geometry.|Y. B. Karasik,Micha Sharir|4|0|0|3
+45|Visualizing Fortune's Sweepline Algorithm for Planar Voronoi Diagrams.|Seth J. Teller|1|0|0|0
+46|Building and Using Polyhedral Hierarchies.|David P. Dobkin,Ayellet Tal|2|0|0|2
+47|Moving a Disc Between Polygons.|Stefan Schirra|26|0|0|0
+48|Compliant Motion in a Simple Polygon.|John Hershberger|32|0|0|7
+49|Implementation of a Motion Planning System in Three Dimensions.|Estarose Wolfson,Micha Sharir|0|0|0|0
+50|Animation of Geometric Algorithms Using GeoLab.|Pedro Jussieu de Rezende,Welson R. Jacometti|12|0|0|2
+51|Ranger: A Tool for Nearest Neighbor Search in High Dimensions.|Michael Murphy,Steven Skiena|6|0|0|2
+52|Video: Objects that Cannot be Taken Apart with Two Hands.|Jack Snoeyink|5|0|0|3
