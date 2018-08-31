@@ -1,4 +1,4 @@
 #!/bin/bash
 #cd /home/shashwat/Downloads/crawler
-curl -s https://www.socks-proxy.net/ | grep " ago" | grep "Socks5" | awk -F "</*td>|</*tr>" '{print $3,$5,$9}' > proxies
+curl -s https://www.socks-proxy.net/ | sed -e 's/<tr>/\n/g' | grep "ago" | grep "Socks5" | awk -F "</*td>|</*tr>" '{print $2,$4,$6}' > proxies
 cut -d' ' -f3 proxies | awk 'BEGIN{FS="\n"}{words[$1]++;}END{for(w in words)print words[w],w;}' | sort -gr

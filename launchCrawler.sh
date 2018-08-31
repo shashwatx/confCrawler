@@ -63,10 +63,11 @@ sleep 15
 
 while true; do
 
-    
+    ./fetchNewProxies
+
     log "launch crawler"
     python crawler.py
-   
+       
     if [ ! -f _SUCCESS ]; then
         timeCur=`date +%s`
 	timeOnThisConfSoFar=$(($timeCur-$1)) 

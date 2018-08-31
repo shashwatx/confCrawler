@@ -17,9 +17,10 @@ rm -rf dump.missingPapers.0
 ```
 4. Generate R data file.
 ```
-awk 'BEGIN{FS="|"}{if(NF>4){printf("%s|%s|%s|%d|%d|%d|%d\n",FILENAME,$2,$3,$4,$5,$6,$7);}}END{}' vldb* > data.vldb.0
-echo "conference|title|authors|citations|recent|patent|self" > data.vldb
-cat data.vldb.0 | grep -E -v "International Conference|Front Matter|Letter from the|Cover Page|Sponsors|Copyright Notice" >> data.vldb
-rm -rf data.vldb.0
+echo "conference|title|authors|citations|recent|patent|self" > data.all
+awk 'function basename(file) {
+    sub(".*/", "", file)
+        return file
+          }BEGIN{FS="|"}{if(NF>4){printf("%s|%s|%s|%d|%d|%d|%d\n",basename(FILENAME),$2,$3,$4,$5,$6,$7);}}END{}' vldb* | grep -E -v "International Conference|Front Matter|Letter from the|Cover Page|Sponsors|Copyright Notice" >> data.all
 ```
 

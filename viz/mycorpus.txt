@@ -1,0 +1,4 @@
+c("learning mixtures trees ", "dependency networks inference collaborative filtering data visualization ", "learning evaluation functions improve optimization local search ", "reducing multiclass binary unifying approach margin classifiers ", "svmtorch support vector machines large scale regression problems ", "lagrangian support vector machines ", "regularized principal manifolds ", "sparse bayesian learning relevance vector machine ", "bayes point machines ", "tracking best linear predictor ", 
+"prior knowledge preferential structures gradient descent learning algorithms ")
+list(language = "en")
+list()

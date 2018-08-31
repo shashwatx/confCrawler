@@ -24,12 +24,12 @@ import pygeoip
 from fake_useragent import UserAgent
 import time
 
-#lines = open('proxies').read().splitlines()
-#myline =random.choice(lines)
-#proxyHostname=myline.split()[0]
-#proxyPort=int(myline.split()[1])
-#print "random proxy hostname: "+proxyHostname
-#print "random proxy port: "+str(proxyPort)
+lines = open('proxies').read().splitlines()
+myline =random.choice(lines)
+proxyHostname=myline.split()[0]
+proxyPort=int(myline.split()[1])
+print "random proxy hostname: "+proxyHostname
+print "random proxy port: "+str(proxyPort)
 
 try:
     #SOCKS5_PROXY_HOST = proxyHostname
@@ -102,10 +102,12 @@ def getRandomHeader():
     google_id = hashlib.md5(str(random.random())).hexdigest()[:16]
     ua = UserAgent()
     timestamp=int(time.time())
-    # ua.random
-    #randomHeader = { 'user-Agent': ua.random, 'cookie': 'GSP=LM=%d:S=%s' % (timestamp, google_id), 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'accept-language': 'en-US,en;q=0.8', 'accept-encoding': 'gzip, deflate, sdch, br'}
-    randomHeader = { 'user-Agent': ua.random, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'accept-language': 'en-US,en;q=0.8', 'accept-encoding': 'gzip, deflate, sdch, br'}
-    logger.info('Random Header: %s',randomHeader)
+    
+    randomHeader = { 'user-Agent': ua.random, 'cookie': 'GSP=LM=%d:S=%s' % (timestamp, google_id), 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'accept-language': 'en-US,en;q=0.8', 'accept-encoding': 'gzip, deflate, sdch, br'}
+    #randomHeader = { 'user-Agent': ua.random, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'accept-language': 'en-US,en;q=0.8', 'accept-encoding': 'gzip, deflate, sdch, br', 'cookie': 'GSP=LM=%d:S=%s'% (timestamp, google_id)}
+    #randomHeader = { 'user-Agent': ua.random, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8', 'accept-encoding': 'gzip, deflate, sdch, br'}
+    
+    #logger.info('Random Header: %s',randomHeader)
     return randomHeader
 
 def getSimilarityScore(seq1, seq2):
@@ -152,8 +154,8 @@ def getSoup_GS(title):
     title=title.decode('utf8','ignore').encode('ascii','ignore')
 
     titleEnhanced = urllib2.quote(title)
-    gs_base_url = "http://scholar.google.es/scholar?hl=en&as_q="+titleEnhanced
-    logger.info('\tfetching soup: url-base: %s',gs_base_url)
+    gs_base_url = "https://scholar.google.com/scholar?hl=en&as_q="+titleEnhanced
+    logger.info('\tfetching paper: %s',gs_base_url)
 
     request = urllib2.Request(gs_base_url, headers=getRandomHeader())
     response = urllib2.urlopen(request, timeout=timeoutSec)
@@ -166,8 +168,8 @@ def getSoup_GS(title):
 
 def getSoup_GS_Home():
    
-    gs_base_url = "http://scholar.google.es"
-    logger.warn('\tfetching home page: url-base: %s',gs_base_url)
+    gs_base_url = "http://scholar.google.com"
+    logger.warn('\tfetching scholar home page: %s',gs_base_url)
 
     request = urllib2.Request(gs_base_url, headers=getRandomHeader())
     response = urllib2.urlopen(request, timeout=timeoutSec)
@@ -464,7 +466,7 @@ def writeResult(context_path, thisResult):
     context.write('\n')
     context.close()
 
-getMyIP()
+#getMyIP()
 
 url = getConfURL('confurl')
 logger.info("DBLP url: %s",url)
@@ -563,13 +565,14 @@ for i in range(startIndex, length):
         title=title.replace('(Extended Abstract)','')        
         title=title.replace('(extended abstract)','')        
         
-        gs_tt = getSoup_GS_Home()
-        tt_path="_tt"
-        tt_file=open(tt_path,"w")
-        logger.warn('Writing _tt')
-        tt_file.write(str(gs_tt))
-        tt_file.close()
-        time.sleep(0.5)
+        #gs_tt = getSoup_GS_Home()
+        #tt_path="_tt"
+        #tt_file=open(tt_path,"w")
+        
+        #logger.warn('Writing _tt')
+        #tt_file.write(str(gs_tt))
+        #tt_file.close()
+        #time.sleep(0.5)
          
         gs_soup = getSoup_GS(title)
       
