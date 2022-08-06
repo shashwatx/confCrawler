@@ -1,8 +1,8 @@
 **TODO** 
   1. Setup and launch a heroku app for the data we have crawled.
   2. Identify and fix "N/A" entries.
-    1. Develop crawler to crawl **only** the "N/A" entries.
-    2. Inform DBLP team about the spotted errors.
+      1. Develop crawler to crawl **only** the "N/A" entries.
+      2. Inform DBLP team about the spotted errors.
 
 **Update: March 1, 2016**: From Feb-1-2016 to Feb-28-2016 I crawled the following conferences.
   1. AI: AAAI (1990-2015), ICML (1990-2015), IJCAI (1991-2015), KDD (1995-2015), NIPS (1990-2014)
