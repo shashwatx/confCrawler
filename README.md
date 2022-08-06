@@ -22,7 +22,7 @@
 
 ## Motivation
 
-Go [here](https://github.com/shashwatx/confCrawler/blob/master/MOTIVATION.md) for motivation.
+Go [here](https://github.com/shashwatx/confCrawler/blob/master/motivation/MOTIVATION.md) for motivation.
 
 ## Introduction
 
