@@ -46,7 +46,7 @@ Insights:
 
 We present results on 25 years of VLDB papers. Our study shows several interpretable trends and intereting trends artefacts.
 
-Refs:
+Refs:  
 [1] https://www.usenix.org/legacy/event/wowcs08/tech/full_papers/b4after/b4after_html/  
 [2] http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4093306/  
 [3] Bearinger, 2006  
