@@ -1,7 +1,3 @@
-## Motivation
-
-Go [here](https://github.com/shashwatx/confCrawler/blob/master/motivation/MOTIVATION.md) for motivation.
-
 ## Introduction
 
 confCrawler is a tool to gather publication metrics about conference/journal publications. Congruence of [dblp](http://dblp.uni-trier.de/) and [Google Scholar](http://scholar.google.com) is exploited to generate the following metrics for each research paper.
@@ -15,7 +11,17 @@ It can be used to crawl any venue that
 * is listed on dblp 
 * is indexed by Google Scholar.
 
-While the reported stats are basic, it remains to be seen to if there are any hidden patterns in the data.
+
+### History
+
+This was written to quickly identify the 5 _best_ papers amongst the papers published in 2005 in a major databases conference.
+In the autumn of 2015, I was asked to assist in the process of selecting the best publication of a certain databases conference.
+Thus, _confCrawler_ was born.
+
+## Motivation
+
+Go [here](https://github.com/shashwatx/confCrawler/blob/master/motivation/MOTIVATION.md) for more research oriented motivation.
+
 
 ## Requirements
 
@@ -25,12 +31,6 @@ The following components are required to launch the crawler.
  * tor
  * Internet
 
-## History
-
-In the autumn of 2015, the author of confCrawler was asked to assist
-in the process of selecting the best publication of a certain databases conference.
-
-Thus, confCrawler was born.
 
 ## Usage
 
