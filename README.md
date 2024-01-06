@@ -1,23 +1,3 @@
-**Update: March 1, 2016**: From Feb-1-2016 to Feb-28-2016 I crawled the following conferences.
-```
-  AAAI (1990-2015), ICML (1990-2015), IJCAI (1991-2015), KDD (1995-2015), NIPS (1990-2014)
-  ACL (1990-2015), ICCV (1990-2013), WWW (2001-2015)
-  ASPLOS (1991-2015), CCS (1993-2015), DAC (1990-2015), HPCA (1995-2015)
-  STOC (1990-2015), SIAM (19-44), FOCS (1990-2015), LICS (1990-2015)
-```
-
-**Update: Jan 26, 2016**: Finished with top 4 DB venues. Now crawling following major conferences.
-```
-  1. AAAI, ICML, IJCAI, KDD, NIPS
-  2. ACL, ICCV, WWW
-  3. ASPLOS, CCS, DAC, HPCA
-  4. STOC, SIAM, FOCS, LICS, SCG
-```
-
-**Update: Dec 4, 2015**: Finished crawling `SIGMOD1990-2014`. Now crawling `VLDB1990-2007`. Must generate a list of conferences to target.
-
-**Update: Nov 16, 2015**: Finished writing the first stable and (hopefully) bug-free version of confCrawler. Rerouting page requests through tor has greater latency than expected. The code is being tested on a select few conferences. More details to follow.
-
 ## Motivation
 
 Go [here](https://github.com/shashwatx/confCrawler/blob/master/motivation/MOTIVATION.md) for motivation.
@@ -59,6 +39,28 @@ TODO: Write usage instructions
 ## License
 
 Code shall be released under [the MIT license](https://github.com/shashwatx/confCrawler/blob/master/LICENSE)
+
+## Updates
+
+**Update: March 1, 2016**: From Feb-1-2016 to Feb-28-2016 I crawled the following conferences.
+```
+  AAAI (1990-2015), ICML (1990-2015), IJCAI (1991-2015), KDD (1995-2015), NIPS (1990-2014)
+  ACL (1990-2015), ICCV (1990-2013), WWW (2001-2015)
+  ASPLOS (1991-2015), CCS (1993-2015), DAC (1990-2015), HPCA (1995-2015)
+  STOC (1990-2015), SIAM (19-44), FOCS (1990-2015), LICS (1990-2015)
+```
+
+**Update: Jan 26, 2016**: Finished with top 4 DB venues. Now crawling following major conferences.
+```
+  1. AAAI, ICML, IJCAI, KDD, NIPS
+  2. ACL, ICCV, WWW
+  3. ASPLOS, CCS, DAC, HPCA
+  4. STOC, SIAM, FOCS, LICS, SCG
+```
+
+**Update: Dec 4, 2015**: Finished crawling `SIGMOD1990-2014`. Now crawling `VLDB1990-2007`. Must generate a list of conferences to target.
+
+**Update: Nov 16, 2015**: Finished writing the first stable and (hopefully) bug-free version of confCrawler. Rerouting page requests through tor has greater latency than expected. The code is being tested on a select few conferences. More details to follow.
 
 ## TODO
 
