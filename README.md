@@ -4,12 +4,12 @@ Go [here](https://github.com/shashwatx/confCrawler/blob/master/motivation/MOTIVA
 
 ## Introduction
 
-confCrawler is a tool to generate raw stats about conference/journal publications. Congruence of [dblp](http://dblp.uni-trier.de/) and [Google Scholar](http://scholar.google.com) is exploited to generate the following figures for each paper.
-  1. #citations
-  2. #self-citations
-  3. #patent-citations
-  4. #recent-citations
-  5. list-of-authors
+confCrawler is a tool to gather publication metrics about conference/journal publications. Congruence of [dblp](http://dblp.uni-trier.de/) and [Google Scholar](http://scholar.google.com) is exploited to generate the following metrics for each research paper.
+  1. `citations`: number of citations
+  2. `self-citations`: number of self citations
+  3. `patent-citations`: number of patent citations
+  4. `recent-citations`: number of citations since 2010
+  5. `list-of-authors`: list of authors
 
 It can be used to crawl any venue that
 * is listed on dblp 
