@@ -6,7 +6,7 @@
   4. FOCS (1990-2015), LICS (1990-2015), SIAM (19-44), STOC (1990-2015)
 ```
 
-**Update: Jan 26, 2016**: After crawling top 4 conferences in databases, I have moved on to crawling major conferences in the following domains.
+**Update: Jan 26, 2016**: Finished with top 4 DB venues. Now crawling major conferences in the following domains.
 ```
   1. AI: AAAI, IJCAI, ICML, NIPS, KDD
   2. WWW, ICCV, ACL
