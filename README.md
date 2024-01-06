@@ -1,16 +1,16 @@
 **Update: March 1, 2016**: From Feb-1-2016 to Feb-28-2016 I crawled the following conferences.
 ```
-  1. AI: AAAI (1990-2015), ICML (1990-2015), IJCAI (1991-2015), KDD (1995-2015), NIPS (1990-2014)
-  2. ACL (1990-2015), ICCV (1990-2013), WWW (2001-2015)
-  3. ASPLOS (1991-2015), CCS (1993-2015), DAC (1990-2015), HPCA (1995-2015)
-  4. FOCS (1990-2015), LICS (1990-2015), SIAM (19-44), STOC (1990-2015)
+  AAAI (1990-2015), ICML (1990-2015), IJCAI (1991-2015), KDD (1995-2015), NIPS (1990-2014)
+  ACL (1990-2015), ICCV (1990-2013), WWW (2001-2015)
+  ASPLOS (1991-2015), CCS (1993-2015), DAC (1990-2015), HPCA (1995-2015)
+  STOC (1990-2015), SIAM (19-44), FOCS (1990-2015), LICS (1990-2015)
 ```
 
-**Update: Jan 26, 2016**: Finished with top 4 DB venues. Now crawling major conferences in the following domains.
+**Update: Jan 26, 2016**: Finished with top 4 DB venues. Now crawling following major conferences.
 ```
-  1. AI: AAAI, IJCAI, ICML, NIPS, KDD
-  2. WWW, ICCV, ACL
-  3. HPCA, CCS, ASPLOS, DAC
+  1. AAAI, ICML, IJCAI, KDD, NIPS
+  2. ACL, ICCV, WWW
+  3. ASPLOS, CCS, DAC, HPCA
   4. STOC, SIAM, FOCS, LICS, SCG
 ```
 
