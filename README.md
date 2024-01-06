@@ -1,6 +1,7 @@
 ## Introduction
 
-confCrawler is a tool to gather publication metrics about conference/journal publications.\ Congruence of [dblp](http://dblp.uni-trier.de/) and [Google Scholar](http://scholar.google.com) is exploited to generate the following metrics for each research paper.
+confCrawler is a tool to gather publication metrics about conference/journal publications.  
+Congruence of [dblp](http://dblp.uni-trier.de/) and [Google Scholar](http://scholar.google.com) is exploited to generate the following metrics for each research paper.
   1. `citations`: number of citations
   2. `self-citations`: number of self citations
   3. `patent-citations`: number of patent citations
